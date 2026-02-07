@@ -140,3 +140,5 @@ dist
 android/app/keystore.properties
 **/*.jks
 **/*.keystore
+**/keystore.properties
+**/*key*.properties
