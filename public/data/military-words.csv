@@ -1,0 +1,500 @@
+огнестрельное оружие, ampuma-ase
+оружие, ase
+винтовка, kivääri
+карабин, karbiini
+пистолет, pistooli
+автомат, rynnäkkökivääri
+пистолет-пулемёт, konepistooli
+пулемёт, konekivääri
+гранатомёт, sinko
+реактивный противотанковый гранатомёт, sinko
+ручной противотанковый гранатомёт, sinko
+безоткатное орудие, sinko
+миномёт, kranaatinheitin
+орудие, tykki
+пушка, kanuuna
+гаубица, haupitsi
+боеприпасы, ampumatarvike
+патрон, patruuna
+граната, kranaatti
+мина, miina
+снаряд, ammus
+бомба, pommi
+мотострелковый, moottoroitu
+огневая подготовка, ampumakoulutus
+стрелковая подготовка, ampumakoulutus
+стрелковая рота, kiväärikomppania
+автоматический, automaattinen
+какой, mikä
+бывать, käydä
+ручной, käsikäyttöinen
+станковый, jalustallinen
+авиационный, ilma
+зенитный, ilmatorjunta
+танковый, panssari
+артиллерийский, tykistö
+кабинет, työhuone
+прямо, suoraan
+справа, oikealla
+слева, vasemmalla
+рядом, vieressä
+висеть, riippua
+стоять, seisoa
+лежать, maata
+схема, kaavio
+огонь, tuli
+танк, panssarivaunu
+боевой, taistelu
+гусеничный, telaketjuinen
+бронированный, panssaroitu
+машина, ajoneuvo
+основной, pää
+часть, osa
+броневой, panssari
+корпус, armeijakunta
+башня, torni
+вооружение, aseistus
+силовая установка, voimanlähde
+силовая передача, voimansiirto
+ходовая часть, alusta
+электрооборудование, sähkölaitteisto
+средства связи, viestivälineet
+подразделяться, jakautua
+лёгкий, kevyt
+средний, keskinen
+тяжёлый, raskas
+военный, sotilas
+корабль, alus
+судно, laiva
+авианосец, lentotukialus
+линейный корабль, taistelulaiva
+линкор, taistelulaiva
+крейсер, risteilijä
+подводная лодка, sukellusvene
+эскадренный миноносец, hävittäjä
+эсминец, hävittäjä
+десантный, maihinnousu
+вертолётоносец, helikopteritukialus
+десантный вертолётоносец, maihinnousutukialus
+сторожевой корабль, fregatti
+артиллерийский катер, tykkivene
+торпедный катер, torpedovene
+тральщик, miinanraivaaja
+минный заградитель, miinanlaskija
+другой, muu
+аэродром, lentokenttä
+вчера, eilen
+завтра, huomenna
+позавчера, toissapäivänä
+послезавтра, ylihuomenna
+сегодня, tänään
+занятие, harjoitus
+поздний, myöhäinen
+ранний, varhainen
+летний, kesäinen
+погода, sää
+изучать, opiskella
+вертолёт, helikopteri
+самолёт, lentokone
+скоро, pian
+начинать, aloittaa
+начинаться, alkaa
+полёт, lento
+техник, teknikko
+техника, kalusto
+осматривать, tarkastaa
+лётчик-инструктор, lennonopettaja
+задача, tehtävä
+задание, tehtävä
+поставить задачу, поручить
+ставить задачу, поручать
+проверять, tarkistaa
+раз, kerta
+взлёт, lentoonlähtö
+кабина, ohjaamo
+запускать, käynnistää
+двигатель, moottori
+мотор, moottori
+выруливать, rullata
+старт, lähtö
+летательный, lento
+аппарат, laite
+крыло, siipi
+фюзеляж, runko
+оперение, pyrstö
+шасси, laskuteline
+иметь, omata
+разнообразный, vaihteleva
+мочь, voida
+смочь, pystyä
+поражать, tuhota
+наземный, maa
+воздушный, ilma
+цель, kohde
+выполнять, suorittaa
+специальный, erityinen
+бомбардировщик, pommikone
+торпедоносец, torpedokone
+истребитель-бомбардировщик, hävittäjäpommittaja
+истребитель, hävittäjä
+истребитель-перехватчик, torjuntahävittäjä
+разведчик, tiedustelija
+тактический, taktinen
+оперативный, operatiivinen
+транспортный, kuljetus
+военно-транспортный, sotilaskuljetus
+десантно-транспортный, maahanlaskukuljetus
+связь, yhteys
+санитарный, lääkintä
+подразделение, alayksikkö
+соединение, yhtymä
+объединение, armeijaryhmä
+отделение, ryhmä
+взвод, joukkue
+рота, komppania
+батальон, pataljoona
+пулемётный, konekivääri
+миномётный, kranaatinheitin
+сапёр, pioneeri
+сапёрный, pioneeri
+пехота, jalkaväki
+номер расчёта, ryhmänmies
+расчёт, miehistö
+батарея, patteri
+дивизион, patteristo
+экипаж, miehistö
+входить, sisältyä
+полк, rykmentti
+штаб, esikunta
+обеспечение, huolto
+обслуживание, ylläpito
+служба тыла, huolto
+снабжение, täydennys
+тыл, selusta
+тыловые службы, huoltolajit
+тыловое обеспечение, huolto
+бригада, prikaati
+дивизия, divisioona
+армия, armeija
+фронт, rintama
+армейская группа, armeijaryhmä
+войска, joukot
+войсковой, joukko
+род войск, aselaji
+боец, taistelija
+воин, soturi
+пехотинец, jalkaväkimies
+пехотный, jalkaväki
+солдат, sotilas
+воздушнодесантные войска, maahanlaskujoukot
+воздушнодесантный, maahanlasku
+воздушный десант, maahanlasku
+выброска десанта, pudotus
+высадка воздушного десанта, maahanvienti
+десант, maahanlasku
+местность, maasto
+большой, suuri
+маленький, pieni
+узкий, kapea
+широкий, leveä
+равнина, tasanko
+течь, virrata
+река, joki
+этот, tämä
+глубокий, syvä
+мелкий, matala
+неглубокий, matala
+левый, vasen
+налево, vasemmalle
+направо, oikealle
+правый, oikea
+берег, ranta
+высокий, korkea
+невысокий, matala
+низкий, matala
+крутой, jyrkkä
+пологий, loiva
+овраг, rotko
+новый, uusi
+ручей, puro
+недалеко, lähellä
+холм, mäki
+восток, itä
+восточный, itäinen
+запад, länsi
+западный, läntinen
+север, pohjoinen
+северный, pohjoinen
+юг, etelä
+южный, eteläinen
+скат, rinne
+дальше, kauempana
+лес, metsä
+лиственный лес, lehtimetsä
+смешанный, seka
+хвойный лес, havumetsä
+тот, tuo
+расти, kasvaa
+густой, tiheä
+редкий, harva
+кустарник, pensaikko
+луг, niitty
+болото, suo
+находиться, sijaita
+населённый пункт, asutuskeskus
+деревня, kylä
+море, meri
+озеро, järvi
+океан, valtameri
+пройти, kulkea
+проходить, kulkea
+грунтовая дорога, soratie
+дорога, tie
+шоссе, valtatie
+шоссейная дорога, valtatie
+улица, katu
+тропа, polku
+тропинка, polku
+поле, pelto
+топографический, topografinen
+топография, topografia
+рельеф, maastonmuoto
+растительный покров, kasvipeite
+практика, käytäntö
+практический, käytännöllinen
+второй, toinen
+первый, ensimmäinen
+третий, kolmas
+впереди, edessä
+позади, takana
+лощина, notko
+вблизи, lähellä
+вдали, kaukana
+железная дорога, rautatie
+железнодорожный, rautatie
+мост, silta
+темнеть, pimetä
+тёмный, pimeä
+брать, ottaa
+взять, ottaa
+компас, kompassi
+определять, määrittää
+ориентир, kiintopiste
+затем, sitten
+наносить, aiheuttaa
+поражение, tuho
+местный, paikallinen
+местный предмет, maastonkohta
+место, paikka
+предмет, kohde
+водная преграда, vesistöeste
+заграждение, sulute
+преграда, este
+препятствие, este
+противо-, vasta
+противотанковый, panssarintorjunta
+противопехотный, jalkaväentorjunta
+противотранспортный, tientuhoaminen
+противодесантный, maihinnousuntorjunta
+взрывной, räjähtävä
+невзрывной, räjähtämätön
+минное поле, miinakenttä
+отдельный, erillinen
+фугас, räjähde
+мина-ловушка, ansamiina
+ров, kaivanto
+эскарп, vastarinneleikkaus
+контрэскарп, myötärinneleikkaus
+надолба, estepaalu
+ёж, siili
+колючая проволока, piikkilanka
+проволока, piikkilanka
+проволочная спираль, lieriöeste
+проволочное препятствие, piikkilankaeste
+рогатка, espanjalaisratsu
+спираль, spiraali
+разведка, tiedustelu
+разведывательный, tiedustelu
+группа, ryhmä
+разведгруппа, tiedusteluryhmä
+получать, saada
+передний край, etulinja
+тщательно, huolellisesti
+готовиться, valmistautua
+командир, komentaja
+натренировать, kouluttaa
+тренировать, harjoittaa
+суметь, pystyä
+умение, taito
+уметь, osata
+ориентирование, suunnistus
+ориентироваться, suunnistaa
+соревнования, suunnistuskilpailut
+вечер, ilta
+вечером, illalla
+день, päivä
+днём, päivällä
+ночь, yö
+утро, aamu
+утром, aamulla
+выйти, lähteä
+выходить, lähteä
+обнаруживать, havaita
+враг, vihollinen
+вражеский, vihollinen
+огневой, tuli
+огневая точка, tulipesäke
+точка, piste
+противник, vastustaja
+оборудовать, rakentaa
+траншея, taisteluhauta
+поставить, asettaa
+ставить, asettaa
+устанавливать, asentaa
+вернуться, palata
+возвращаться, palata
+бой, taistelu
+противоположный, vastakkainen
+передовой отряд, etuosasto
+форсирование, ylitys
+форсировать, ylittää
+занимать, vallata
+занять, vallata
+плацдарм, sillanpää
+должен, täytyä
+прикрывать, suojata
+прикрытие, suoja
+при, aikana
+позиция, asema
+поздно, myöhään
+позже, myöhemmin
+рано, aikaisin
+раньше, ennen
+открывать, avata
+сильный, voimakas
+слабый, heikko
+ответный, vasta
+успешно, onnistuneesti
+переправа, ylitys
+переправляться, ylittää
+рубеж, linja
+высота, korkeus
+атака, hyökkäys
+атаковать, hyökätä
+штурм, rynnäkkö
+оборона, puolustus
+оборонять, puolustaa
+обороняться, puolustautua
+обороняющийся, puolustaja
+опорный пункт, tukikohta
+час, tunti
+артиллерия, tykistö
+береговая артиллерия, rannikkotykistö
+зенитная артиллерия, ilmatorjuntatykistö
+полевая артиллерия, kenttätykistö
+потом, sitten
+ракетная артиллерия, rakettitykistö
+ввести в бой, sitouttaa
+вступить в бой, ryhtyä
+вывести из боя, irrottaa
+выводить из боя, irrottaa
+завязать бой, aloittaa
+преследование, takaa-ajo
+преследовать, jahdata
+полностью, täysin
+уничтожать, tuhota
+уничтожение, tuhoaminen
+захват, valtaus
+захватывать, vallata
+захваченный, vallattu
+важный, tärkeä
+где, missä
+здесь, tässä
+куда, minne
+откуда, mistä
+отсюда, täältä
+оттуда, sieltä
+сюда, tänne
+там, siellä
+туда, sinne
+тут, täällä
+вести бой, taistella
+вести войну, sotia
+вести наблюдение, tähystää
+вести огонь, tulittaa
+вести разведку, tiedustella
+вести стрельбу, ampua
+война, sota
+наблюдение, tähystys
+проводить, suorittaa
+стрельба, ammunta
+наблюдатель, tähystäjä
+наблюдательный пункт, tähystyspaikka
+наблюдать, tähystää
+укрепление, linnoitus
+укреплённый, linnoitettu
+укреплять, linnoittaa
+превращать, muuttaa
+когда, milloin
+тогда, silloin
+наступательный, hyökkäys
+наступать, edetä
+наступающий, hyökkääjä
+наступление, hyökkäys
+боевой порядок, taisteluryhmitys
+порядок, järjestys
+предбоевой порядок, alkuryhmitys
+развёртывание, ryhmittyminen
+развернуться, ryhmittyä
+продолжать, jatkaa
+продолжаться, jatkua
+овладевать, vallata
+овладение, valtaus
+атака, hyökkäys
+перейти, siirtyä
+переход, siirtyminen
+переходить, siirtyä
+майор, majuri
+оценивать, arvioida
+оценка, arviointi
+обстановка, tilanne
+меры, toimenpiteet
+принимать, ottaa
+решение, päätös
+участие, osallistuminen
+упредить, ennättää
+упреждение, ennakko
+выход, ulosmeno
+выдвигаться, edetä
+выдвижение, eteneminen
+выдвинуться, edetä
+направление, suunta
+намеченный, suunniteltu
+появление, ilmestyminen
+появляться, ilmestyä
+змейка, avojono
+колонна, kolonna
+цепь, avorivi
+шеренга, rivi
+внезапность, yllätys
+внезапный, yllättävä
+врасплох, yllättäen
+застигать, yllättää
+поэтому, siksi
+организованный, järjestetty
+организовать, järjestää
+оказывать, vaikuttaa
+помощь, apu
+сопротивление, vastarinta
+район, alue
+территория, alue
+осторожно, varovasti
+осторожный, varovainen
+инженерный, pioneeri
+сооружение, rakennelma
+пересечённый, epätasainen
+собирать, kerätä
+данные, tiedot
+сведения, tiedot
+решать, ratkaista
+обман, harhautus
