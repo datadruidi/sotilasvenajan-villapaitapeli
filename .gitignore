@@ -134,3 +134,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# Android signing (NEVER commit these)
+android/app/keystore.properties
+**/*.jks
+**/*.keystore
