@@ -1,14 +1,21 @@
 /**
- * Loads and parses the military words list from CSV.
- * File: public/data/military-words.csv
+ * Loads and parses word lists from CSV.
+ * Files: public/data/military-words.csv, public/data/rintamavenajan-alkeet.csv
  * Format: UTF-8, column A = Russian (Cyrillic), column B = Finnish.
  * First row may be header (e.g. "Russian,Finnish" or "russian,finnish"); it is auto-skipped if it looks like a header.
  */
 
 import type { WordPair } from '../types/game'
 
-function getWordsCsvUrl(): string {
-  return `${import.meta.env.BASE_URL}data/military-words.csv`
+export type WordsListId = 'sanasto' | 'rintamavenajan-alkeet'
+
+const WORDS_FILES: Record<WordsListId, string> = {
+  sanasto: 'military-words.csv',
+  'rintamavenajan-alkeet': 'rintamavenajan-alkeet.csv',
+}
+
+function getWordsCsvUrl(listId: WordsListId): string {
+  return `${import.meta.env.BASE_URL}data/${WORDS_FILES[listId]}`
 }
 
 /**
@@ -62,15 +69,19 @@ function isHeaderRow(cells: string[]): boolean {
 }
 
 /**
- * Fetches and parses the words CSV. Returns array of { russian, finnish }.
+ * Fetches and parses a words CSV. Returns array of { russian, finnish }.
  * Column index 0 = Russian, 1 = Finnish.
+ * @param listId - 'sanasto' = military-words.csv, 'rintamavenajan-alkeet' = rintamavenajan-alkeet.csv
  */
-export async function loadWordsCSV(): Promise<WordPair[]> {
-  const res = await fetch(getWordsCsvUrl())
+export async function loadWordsCSV(listId: WordsListId = 'sanasto'): Promise<WordPair[]> {
+  const url = getWordsCsvUrl(listId)
+  const res = await fetch(url)
   if (!res.ok) {
-    throw new Error(`Could not load words file: ${res.status} ${res.statusText}. Place the file at public/data/military-words.csv`)
+    const filename = WORDS_FILES[listId]
+    throw new Error(`Could not load words file: ${res.status} ${res.statusText}. Place the file at public/data/${filename}`)
   }
-  const text = await res.text()
+  let text = await res.text()
+  if (text.length > 0 && text.charCodeAt(0) === 0xfeff) text = text.slice(1)
   const rows = parseCSV(text)
   if (rows.length === 0) return []
 

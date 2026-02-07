@@ -1,5 +1,5 @@
 /**
- * Splash screen: logo, "Pelaa", "Tietoa" and "Lähteet" buttons (same width).
+ * Splash screen: logo, "Pelaa", "Tietoa" and "Lähteet ja lisenssit" buttons (same width).
  * Tietoa and Lähteet open separate pages with markdown from public/tietoa.md and public/lahteet.md.
  */
 
@@ -24,7 +24,7 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
   const [pageError, setPageError] = useState<string | null>(null)
 
   const pageUrl = infoPage === 'lahteet' ? LAHTEET_URL : infoPage === 'tietoa' ? TIETOA_URL : null
-  const pageTitle = infoPage === 'lahteet' ? 'Lähteet' : infoPage === 'tietoa' ? 'Tietoa' : ''
+  const pageTitle = infoPage === 'lahteet' ? 'Lähteet ja lisenssit' : infoPage === 'tietoa' ? 'Tietoa' : ''
 
   useEffect(() => {
     if (pageUrl == null) return
@@ -88,7 +88,7 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
             Tietoa
           </button>
           <button type="button" className="splash-info-btn" onClick={() => openInfoPage('lahteet')}>
-            Lähteet
+            Lähteet ja lisenssit
           </button>
         </div>
       </div>

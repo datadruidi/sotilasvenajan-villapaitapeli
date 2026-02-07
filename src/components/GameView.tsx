@@ -1,8 +1,10 @@
 import { useCallback, useEffect, useState } from 'react'
-import type { CountryId, ImageEntry, VehicleBranch } from '../types/game'
+import type { CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
 import {
   checkAnswer,
+  formatVesselName,
   generateOptions,
+  getCorrectAnswer,
   getFilteredPool,
   normalizeClassLabel,
   selectImageFromPool,
@@ -17,6 +19,8 @@ interface GameViewProps {
   country: CountryId
   branch: VehicleBranch
   branchLabel: string
+  /** Navy only: quiz by vessel class (Alusluokat) or vessel name (Alusten nimet). */
+  navySubMode?: NavySubMode
   muted: boolean
   onToggleMute: () => void
   onBack: () => void
@@ -31,7 +35,7 @@ function getAchievementMessage(score: number): string {
   return 'Jatka vain! Pääset määrään.'
 }
 
-export function GameView({ country, branch, branchLabel, muted, onToggleMute, onBack, onRoundComplete }: GameViewProps) {
+export function GameView({ country, branch, branchLabel, navySubMode, muted, onToggleMute, onBack, onRoundComplete }: GameViewProps) {
   const [pool, setPool] = useState<ImageEntry[]>([])
   const [currentEntry, setCurrentEntry] = useState<ImageEntry | null>(null)
   const [options, setOptions] = useState<string[]>([])
@@ -42,7 +46,7 @@ export function GameView({ country, branch, branchLabel, muted, onToggleMute, on
   const [gameOver, setGameOver] = useState(false)
 
   const startRound = useCallback((roundNumber: number) => {
-    const filtered = getFilteredPool(country, branch)
+    const filtered = getFilteredPool(country, branch, navySubMode)
     setPool(filtered)
     const entry = selectImageFromPool(filtered)
     if (!entry) {
@@ -51,11 +55,11 @@ export function GameView({ country, branch, branchLabel, muted, onToggleMute, on
       return
     }
     setCurrentEntry(entry)
-    setOptions(generateOptions(entry, filtered))
+    setOptions(generateOptions(entry, filtered, navySubMode))
     setSelectedAnswer(null)
     setShowResult(false)
     setRound(roundNumber)
-  }, [country, branch])
+  }, [country, branch, navySubMode])
 
   const startNewGame = useCallback(() => {
     setScore(0)
@@ -67,10 +71,12 @@ export function GameView({ country, branch, branchLabel, muted, onToggleMute, on
     startRound(1)
   }, [startRound])
 
+  const isVesselNameMode = branch === 'navy' && navySubMode === 'vesselName'
+  const correctAnswer = currentEntry ? getCorrectAnswer(currentEntry, navySubMode) : ''
+
   const handleOptionClick = (option: string) => {
     if (showResult) return
-    const correctClassName = currentEntry?.correctClassName ?? ''
-    const isCorrect = checkAnswer(option, correctClassName)
+    const isCorrect = checkAnswer(option, correctAnswer, isVesselNameMode)
     setSelectedAnswer(option)
     setShowResult(true)
     if (isCorrect) {
@@ -92,13 +98,18 @@ export function GameView({ country, branch, branchLabel, muted, onToggleMute, on
     startRound(round + 1)
   }
 
+  const sessionInfo =
+    branch === 'navy' && navySubMode
+      ? `Venäjä → Lähialueen joukkojen suorituskyvyt → ${branchLabel} → ${navySubMode === 'class' ? 'Alusluokat' : 'Alusten nimet'}`
+      : `Venäjä → Lähialueen joukkojen suorituskyvyt → ${branchLabel}`
+
   if (pool.length === 0 && !currentEntry && !gameOver) {
     return (
       <div className="app">
         <div className="game-view">
           <h2>Ei sisältöä vielä</h2>
           <p className="session-info">
-            Venäjä → Lähialueen joukkojen suorituskyvyt → {branchLabel}
+            {sessionInfo}
           </p>
           <p className="placeholder-note">
             Tälle maalle ja osastolle ei ole kuvia rekisterissä. Lisää kuvia rekisteriin pelataksesi.
@@ -148,21 +159,24 @@ export function GameView({ country, branch, branchLabel, muted, onToggleMute, on
 
   if (!currentEntry) return null
 
-  const correctClassName = currentEntry.correctClassName
-  const isCorrect = selectedAnswer !== null && checkAnswer(selectedAnswer, correctClassName)
+  const isCorrect = selectedAnswer !== null && checkAnswer(selectedAnswer, correctAnswer, isVesselNameMode)
 
   const getOptionState = (option: string) => {
     if (!showResult) return ''
-    if (option === correctClassName) return 'correct'
+    const norm = isVesselNameMode ? (s: string) => s.trim().toLowerCase() : (s: string) => normalizeClassLabel(s)
+    if (norm(option) === norm(correctAnswer)) return 'correct'
     if (option === selectedAnswer && !isCorrect) return 'incorrect'
     return 'revealed'
   }
+
+  const quizPrompt = isVesselNameMode ? 'Mikä aluksen nimi on?' : 'Mikä alusluokka tämä on?'
+  const formatOption = (opt: string) => (isVesselNameMode ? formatVesselName(opt) : normalizeClassLabel(opt))
 
   return (
     <div className="app">
       <div className="game-view game-view-quiz">
         <div className="quiz-header">
-          <span className="quiz-breadcrumb">Venäjä → Lähialueen joukkojen suorituskyvyt → {branchLabel}</span>
+          <span className="quiz-breadcrumb">{sessionInfo}</span>
           <div className="quiz-progress">
             <span className="quiz-progress-line">Kierros: {round}/{MAX_ROUNDS}</span>
             <span className="quiz-progress-line">Oikein: {score}/{MAX_ROUNDS}</span>
@@ -191,7 +205,7 @@ export function GameView({ country, branch, branchLabel, muted, onToggleMute, on
           />
         </div>
 
-        <p className="quiz-prompt">Mikä alusluokka tämä on?</p>
+        <p className="quiz-prompt">{quizPrompt}</p>
 
         <div className="quiz-options">
           {options.map((option) => (
@@ -202,7 +216,7 @@ export function GameView({ country, branch, branchLabel, muted, onToggleMute, on
               onClick={() => handleOptionClick(option)}
               disabled={showResult}
             >
-              {normalizeClassLabel(option)}
+              {formatOption(option)}
             </button>
           ))}
         </div>
@@ -210,9 +224,9 @@ export function GameView({ country, branch, branchLabel, muted, onToggleMute, on
         {showResult && (
           <div className={`quiz-feedback ${isCorrect ? 'correct' : 'incorrect'}`}>
             {isCorrect ? (
-              <>Oikein — {normalizeClassLabel(correctClassName)}</>
+              <>Oikein — {formatOption(correctAnswer)}</>
             ) : (
-              <>Oikea vastaus: {normalizeClassLabel(correctClassName)}</>
+              <>Oikea vastaus: {formatOption(correctAnswer)}</>
             )}
           </div>
         )}

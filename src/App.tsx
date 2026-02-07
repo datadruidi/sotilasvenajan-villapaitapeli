@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import './App.css'
 import { GameView } from './components/GameView'
 import { GarrisonsGameView } from './components/GarrisonsGameView'
@@ -8,8 +8,9 @@ import { WordsGameView } from './components/WordsGameView'
 import { getRoundsKey, getRounds, incrementRounds, formatRoundsDisplay } from './lib/roundsStorage'
 import { playButtonClick } from './lib/sound'
 import { loadWordsCSV } from './lib/wordsData'
+import type { WordsListId } from './lib/wordsData'
 import type { GarrisonRegionId } from './data/garrisonsData'
-import type { VehicleBranch, WordPair, WordsDirection, WordsDifficulty } from './types/game'
+import type { NavySubMode, VehicleBranch, WordPair, WordsDirection, WordsDifficulty } from './types/game'
 
 const WORDS_MODULE_SIZE = 50
 
@@ -35,7 +36,7 @@ const COMING_SOON_TEXT = 'Julkaistaan kysynnän mukaan'
 
 const BRANCHES: { id: BranchButtonId; label: string; disabled?: boolean }[] = [
   { id: 'navy', label: 'Merivoimat' },
-  { id: 'airforce', label: 'Ilmavoimat' },
+  { id: 'airforce', label: 'Ilmavoimat', disabled: true },
   { id: 'army', label: 'Maavoimat', disabled: true },
   { id: 'coming-soon', label: 'Dronet', disabled: true },
   { id: 'other', label: 'Muut', disabled: true },
@@ -60,6 +61,7 @@ function App() {
   })
   const [selectedContentType, setSelectedContentType] = useState<ContentType | null>(null)
   const [selectedBranch, setSelectedBranch] = useState<VehicleBranch | null>(null)
+  const [selectedNavySubMode, setSelectedNavySubMode] = useState<NavySubMode | null>(null)
   const [selectedWordsDirection, setSelectedWordsDirection] = useState<WordsDirection | null>(null)
   const [selectedWordsModuleIndex, setSelectedWordsModuleIndex] = useState<number | null>(null)
   const [selectedWordsDifficulty, setSelectedWordsDifficulty] = useState<WordsDifficulty | null>(null)
@@ -70,6 +72,11 @@ function App() {
   const [pendingView, setPendingView] = useState<'vehicles-game' | 'words-game' | 'garrisons-game' | null>(null)
 
   const [wordsPool, setWordsPool] = useState<WordPair[]>([])
+  const [selectedWordsList, setSelectedWordsList] = useState<WordsListId | null>(null)
+  const [alkeetPool, setAlkeetPool] = useState<WordPair[]>([])
+  const [alkeetLoading, setAlkeetLoading] = useState(false)
+  const [alkeetLoadError, setAlkeetLoadError] = useState<string | null>(null)
+  const startAlkeetGameWhenLoadedRef = useRef(false)
   const toggleMute = () => {
     setMuted((prev) => {
       const next = !prev
@@ -90,7 +97,7 @@ function App() {
     let cancelled = false
     setWordsLoading(true)
     setWordsLoadError(null)
-    loadWordsCSV()
+    loadWordsCSV('sanasto')
       .then((pairs) => {
         if (!cancelled) setWordsPool(pairs)
       })
@@ -105,8 +112,47 @@ function App() {
     }
   }, [selectedContentType])
 
-  const startVehiclesGame = (branch: VehicleBranch) => {
+  useEffect(() => {
+    if (selectedWordsList !== 'rintamavenajan-alkeet' || selectedContentType !== 'words') return
+    let cancelled = false
+    setAlkeetLoading(true)
+    setAlkeetLoadError(null)
+    loadWordsCSV('rintamavenajan-alkeet')
+      .then((pairs) => {
+        if (!cancelled) {
+          setAlkeetPool(pairs)
+          if (startAlkeetGameWhenLoadedRef.current && pairs.length >= 4) {
+            startAlkeetGameWhenLoadedRef.current = false
+            setSelectedWordsModuleIndex(0)
+            setSelectedWordsDifficulty('easy')
+            setPendingView('words-game')
+            setShowLadataanIkkuna(true)
+          }
+        }
+      })
+      .catch((err) => {
+        if (!cancelled) {
+          setAlkeetLoadError(err instanceof Error ? err.message : String(err))
+          startAlkeetGameWhenLoadedRef.current = false
+        }
+      })
+      .finally(() => {
+        if (!cancelled) setAlkeetLoading(false)
+      })
+    return () => {
+      cancelled = true
+    }
+  }, [selectedWordsList, selectedContentType])
+
+  const startVehiclesGame = (branch: VehicleBranch, navySubMode?: NavySubMode) => {
     setSelectedBranch(branch)
+    setSelectedNavySubMode(navySubMode ?? null)
+    setPendingView('vehicles-game')
+    setShowLadataanIkkuna(true)
+  }
+
+  const startNavySubMode = (mode: NavySubMode) => {
+    setSelectedNavySubMode(mode)
     setPendingView('vehicles-game')
     setShowLadataanIkkuna(true)
   }
@@ -134,6 +180,8 @@ function App() {
     setPendingView(null)
     setShowLadataanIkkuna(false)
     setSelectedBranch(null)
+    setSelectedNavySubMode(null)
+    setSelectedWordsList(null)
     setSelectedContentType(null)
     setSelectedWordsDirection(null)
     setSelectedWordsModuleIndex(null)
@@ -141,10 +189,12 @@ function App() {
     setSelectedGarrisonRegion(null)
   }
 
-  const wordsModuleCount = Math.floor(wordsPool.length / WORDS_MODULE_SIZE)
+  const currentWordsPool = selectedWordsList === 'rintamavenajan-alkeet' ? alkeetPool : wordsPool
+  const wordsModuleCount =
+    currentWordsPool.length === 0 ? 0 : Math.ceil(currentWordsPool.length / WORDS_MODULE_SIZE)
   const getModulePool = (moduleIndex: number): WordPair[] => {
     const start = moduleIndex * WORDS_MODULE_SIZE
-    return wordsPool.slice(start, start + WORDS_MODULE_SIZE)
+    return currentWordsPool.slice(start, start + WORDS_MODULE_SIZE)
   }
 
   const handleSplashPlay = () => {
@@ -157,12 +207,16 @@ function App() {
 
   if (view === 'vehicles-game' && selectedBranch) {
     const branchLabel = BRANCHES.find((b) => b.id === selectedBranch)?.label ?? selectedBranch
-    const vehiclesKey = getRoundsKey('vehicles', `russia_${selectedBranch}`)
+    const vehiclesKey =
+      selectedBranch === 'navy' && selectedNavySubMode
+        ? getRoundsKey('vehicles', `russia_navy_${selectedNavySubMode}`)
+        : getRoundsKey('vehicles', `russia_${selectedBranch}`)
     return (
       <GameView
         country="russia"
         branch={selectedBranch}
         branchLabel={branchLabel}
+        navySubMode={selectedNavySubMode ?? undefined}
         muted={muted}
         onToggleMute={toggleMute}
         onBack={backToLanding}
@@ -184,10 +238,13 @@ function App() {
     )
   }
 
-  if (view === 'words-game' && selectedWordsDirection != null && selectedWordsDifficulty != null && selectedWordsModuleIndex != null) {
+  if (view === 'words-game' && selectedWordsDirection != null && selectedWordsDifficulty != null && (selectedWordsModuleIndex != null || selectedWordsList === 'rintamavenajan-alkeet')) {
     const directionLabel = WORDS_DIRECTIONS.find((d) => d.id === selectedWordsDirection)?.label ?? selectedWordsDirection
-    const initialPool = getModulePool(selectedWordsModuleIndex)
-    const wordsKey = getRoundsKey('words', `${selectedWordsDirection}_${selectedWordsModuleIndex}`)
+    const initialPool = selectedWordsList === 'rintamavenajan-alkeet' ? alkeetPool : getModulePool(selectedWordsModuleIndex ?? 0)
+    const wordsKey =
+      selectedWordsList === 'rintamavenajan-alkeet'
+        ? getRoundsKey('words', `alkeet_${selectedWordsDirection}`)
+        : getRoundsKey('words', `${selectedWordsDirection}_${selectedWordsModuleIndex}`)
     return (
       <WordsGameView
         direction={selectedWordsDirection}
@@ -208,15 +265,27 @@ function App() {
       <header className="landing-header">
         <h1 className="title">Sotilasvenäjän villapaitapeli</h1>
         <img src={`${import.meta.env.BASE_URL}favicon.png`} alt="" className="landing-header-logo" />
-        <button
-          type="button"
-          className="mute-btn"
-          onClick={toggleMute}
-          title={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
-          aria-label={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
-        >
-          {muted ? '🔇' : '🔊'}
-        </button>
+        <div className="landing-header-actions">
+          <button
+            type="button"
+            className="back-btn back-btn-small"
+            onClick={() => {
+              playButtonClick(muted)
+              setShowSplash(true)
+            }}
+          >
+            Takaisin aloitusnäytölle
+          </button>
+          <button
+            type="button"
+            className="mute-btn"
+            onClick={toggleMute}
+            title={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
+            aria-label={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
+          >
+            {muted ? '🔇' : '🔊'}
+          </button>
+        </div>
       </header>
 
       <div className="landing-scroll">
@@ -299,14 +368,33 @@ function App() {
         </section>
       )}
 
-      {/* Words: Module (1-50, 51-100, …) – after direction, when words loaded */}
-      {selectedContentType === 'words' && selectedWordsDirection && !wordsLoading && wordsPool.length > 0 && (
+      {/* Words: Sanasto – Rintamavenäjän alkeet + Sotilasvenäjän perusteet 1, 2, 3… */}
+      {selectedContentType === 'words' && selectedWordsDirection && !wordsLoading && wordsPool.length > 0 && selectedWordsList === null && (
         <section className="section">
-          <h2 className="section-heading">Valitse moduuli</h2>
+          <h2 className="section-heading">Sanasto</h2>
           <div className="options-grid options-grid-modules">
+            <button
+              type="button"
+              className="option-btn option-btn-with-rounds"
+              onClick={() => {
+                playButtonClick(muted)
+                setSelectedWordsList('rintamavenajan-alkeet')
+                if (alkeetPool.length >= 4) {
+                  setSelectedWordsModuleIndex(0)
+                  setSelectedWordsDifficulty('easy')
+                  setPendingView('words-game')
+                  setShowLadataanIkkuna(true)
+                } else {
+                  startAlkeetGameWhenLoadedRef.current = true
+                }
+              }}
+            >
+              <span className="option-btn-label">Rintamavenäjän alkeet</span>
+              <span className="option-rounds">
+                {selectedWordsDirection ? formatRoundsDisplay(getRounds(getRoundsKey('words', `alkeet_${selectedWordsDirection}`))) : '0/1000'}
+              </span>
+            </button>
             {Array.from({ length: wordsModuleCount }, (_, i) => {
-              const start = i * WORDS_MODULE_SIZE + 1
-              const end = Math.min((i + 1) * WORDS_MODULE_SIZE, wordsPool.length)
               const pool = getModulePool(i)
               const disabled = pool.length < 4
               const wordsKey = selectedWordsDirection ? getRoundsKey('words', `${selectedWordsDirection}_${i}`) : ''
@@ -326,7 +414,7 @@ function App() {
                   disabled={disabled}
                 >
                   <span className="option-btn-label">
-                    Sanat {start}–{end}
+                    Sotilasvenäjän perusteet {i + 1}
                     {disabled && <span className="coming-soon-inline"> (vähintään 4 sanaa)</span>}
                   </span>
                   {roundsDisplay != null && <span className="option-rounds">{roundsDisplay}</span>}
@@ -334,6 +422,26 @@ function App() {
               )
             })}
           </div>
+        </section>
+      )}
+
+      {/* Rintamavenäjän alkeet: show loading/error only when we triggered load but game not started yet */}
+      {selectedContentType === 'words' && selectedWordsDirection && selectedWordsList === 'rintamavenajan-alkeet' && view === 'landing' && (
+        <section className="section">
+          {alkeetLoading && <p className="words-loading-inline">Ladataan sanalistaa…</p>}
+          {alkeetLoadError && (
+            <p className="words-file-hint-inline">
+              Sanalistaa ei voitu ladata. Lisää tiedosto <strong>public/data/rintamavenajan-alkeet.csv</strong> (UTF-8, A=venäjä, B=suomi).
+            </p>
+          )}
+          {!alkeetLoading && alkeetPool.length > 0 && alkeetPool.length < 4 && !alkeetLoadError && (
+            <p className="words-file-hint-inline">Sanalistassa täytyy olla vähintään 4 sanaa.</p>
+          )}
+          {selectedWordsList === 'rintamavenajan-alkeet' && view === 'landing' && (
+            <button type="button" className="back-btn back-btn-inline" onClick={() => { startAlkeetGameWhenLoadedRef.current = false; setSelectedWordsList(null) }}>
+              ← Takaisin sanastoon
+            </button>
+          )}
         </section>
       )}
 
@@ -345,14 +453,27 @@ function App() {
       )}
 
       {/* Kaluston osasto – after Lähialueen joukkojen suorituskyvyt selected */}
-      {selectedContentType === 'vehicles' && (
+      {selectedContentType === 'vehicles' && selectedBranch === null && (
         <section className="section">
           <h2 className="section-heading">Kaluston osasto</h2>
           <div className="options-grid">
             {BRANCHES.map((b) => {
               const isDisabled = b.disabled || b.id === 'coming-soon'
-              const vehiclesKey = b.id !== 'coming-soon' ? getRoundsKey('vehicles', `russia_${b.id}`) : null
-              const rounds = vehiclesKey != null ? getRounds(vehiclesKey) : 0
+              const vehiclesKey =
+                b.id === 'navy'
+                  ? null
+                  : b.id !== 'coming-soon'
+                    ? getRoundsKey('vehicles', `russia_${b.id}`)
+                    : null
+              const rounds =
+                vehiclesKey != null
+                  ? getRounds(vehiclesKey)
+                  : b.id === 'navy'
+                    ? Math.max(
+                        getRounds(getRoundsKey('vehicles', 'russia_navy_class')),
+                        getRounds(getRoundsKey('vehicles', 'russia_navy_vesselName'))
+                      )
+                    : 0
               const roundsDisplay = formatRoundsDisplay(rounds)
               return (
                 <button
@@ -362,7 +483,11 @@ function App() {
                   onClick={() => {
                     if (isDisabled) return
                     playButtonClick(muted)
-                    startVehiclesGame(b.id as VehicleBranch)
+                    if (b.id === 'navy') {
+                      setSelectedBranch('navy')
+                    } else {
+                      startVehiclesGame(b.id as VehicleBranch)
+                    }
                   }}
                   disabled={isDisabled}
                 >
@@ -374,6 +499,40 @@ function App() {
               )
             })}
           </div>
+        </section>
+      )}
+
+      {/* Merivoimat: Alusluokat vs Alusten nimet */}
+      {selectedContentType === 'vehicles' && selectedBranch === 'navy' && (
+        <section className="section">
+          <h2 className="section-heading">Merivoimat</h2>
+          <div className="options-grid">
+            <button
+              type="button"
+              className="option-btn option-btn-with-rounds"
+              onClick={() => {
+                playButtonClick(muted)
+                startNavySubMode('class')
+              }}
+            >
+              <span className="option-btn-label">Alusluokat</span>
+              <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('vehicles', 'russia_navy_class')))}</span>
+            </button>
+            <button
+              type="button"
+              className="option-btn option-btn-with-rounds"
+              onClick={() => {
+                playButtonClick(muted)
+                startNavySubMode('vesselName')
+              }}
+            >
+              <span className="option-btn-label">Alusten nimet</span>
+              <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('vehicles', 'russia_navy_vesselName')))}</span>
+            </button>
+          </div>
+          <button type="button" className="back-btn back-btn-inline" onClick={() => setSelectedBranch(null)}>
+            ← Takaisin kaluston osastoon
+          </button>
         </section>
       )}
       </div>

@@ -12,95 +12,181 @@ Pääesikunta. (2026). Sotilastiedustelu: Julkinen katsaus 2026. https://puolust
 #
 # **Lähialueen joukkojen suorituskyvyt (kuvat):** 
 #
-## Maavoimat
+
+
 
 
 ## Merivoimat
 
 
+### Alexandrit-luokan kuvat
+
+4249-2. St. Petersburg. International Naval Salon - 2015 — Caption: "International Naval Salon - 2015 in St. Petersburg." | Author: GAlexandrova | Source: https://commons.wikimedia.org/wiki/File:4249-2._St._Petersburg._International_Naval_Salon_-_2015.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 4 July 2015 18:30:28 | Uploaded: 30 March 2020
+
+St petersburg 2018 navy day minesweeper aleksandr obukhov (44764264600) — Caption: "st_petersburg_2018_navy_day_minesweeper_aleksandr_obukhov" | Author: Damien | Source: https://commons.wikimedia.org/wiki/File:St_petersburg_2018_navy_day_minesweeper_aleksandr_obukhov_(44764264600).jpg | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | Changes: Resized for in-app display | Created: 29 July 2018
+
+
+### Admiral Gorshkov-luokan kuvat
+
+Navy Day in Baltiysk, (2015-07-26) 08 — Caption: "Президент России Владимир Путин на Дне Военно-Морского Флота России в Балтийске. На борту фрегата ”Адмирал флота Советского Союза Горшков“" | Author: Kremlin.ru | Source: https://commons.wikimedia.org/wiki/File:Navy_Day_in_Baltiysk,_(2015-07-26)_08.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 26 July 2015
+
+Maritime Security Belt 2023 - Commander's visit to participating warships (08) — Caption: "امیر ایرانی فرمانده نیروی دریایی ارتش از ناوهای چین و روسیه شرکت‌کننده در رزمایش مرکب کمربند امنیت دریایی بازدید کرد." | Author: Mehr News Agency | Source: https://commons.wikimedia.org/wiki/File:Maritime_Security_Belt_2023_-_Commander's_visit_to_participating_warships_(08).jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 19 March 2023
+
+
+### Byan-M-luokan kuvat
+
+2019-07-30-3523-Saint-Petersburg-Russian warship — Caption: "navire militaire russe (Serpukhov) à Saint Pétersbourg" | Author: Don-vip | Source: https://commons.wikimedia.org/wiki/File:2019-07-30-3523-Saint-Petersburg-Russian_warship.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 30 July 2019 15:19:49
+
+МРК Град Свияжск. 2015 год — Caption: "МРК Град Свияжск. 2015 год" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%A0%D0%9A_%D0%93%D1%80%D0%B0%D0%B4_%D0%A1%D0%B2%D0%B8%D1%8F%D0%B6%D1%81%D0%BA._2015_%D0%B3%D0%BE%D0%B4.png | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 10 August 2015
+
+NavyDay2018-08 — Caption: "Zelenyy Dol (ship, 2015)." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:NavyDay2018-08.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 30 July 2018
+
+Small rocket ship Orekhovo-Zuevo — Caption: "Small rocket ship Orekhovo-Zuevo" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Small_rocket_ship_Orekhovo-Zuevo.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 12 January 2022
+
+
+### Dyugon-luokan kuvat
+
+«Мичман Лермонтов»1 — Caption: "Michman Lermontov firing MTPU-1 in Baltiysk." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:%C2%AB%D0%9C%D0%B8%D1%87%D0%BC%D0%B0%D0%BD_%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%C2%BB1.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 26_
+
+«Мичман Лермонтов» — Caption: "Michman Lermontov landing in Kaliningrad Oblast." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:%C2%AB%D0%9C%D0%B8%D1%87%D0%BC%D0%B0%D0%BD_%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%C2%BB.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 14 September 2015 | Uploaded: 8 October 2015
+
+
+### Ivan Gren-luokan kuvat
+
+Ivan Gren landing ship well deck — Caption: "Ivan Gren landing ship well deck" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Ivan_Gren_landing_ship_well_deck.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 12 August 2023 | Uploaded: 14 August 2023_
+
+
+### Karakurt-luokan kuvat
+
+День ВМФ 2020 СПб. Малый ракетный корабль Мытищи 567 под мостом — Caption: "День ВМФ 2020 СПб. Малый ракетный корабль Мытищи 567 под мостом" | Author: Okras | Source: https://commons.wikimedia.org/wiki/File:%D0%94%D0%B5%D0%BD%D1%8C_%D0%92%D0%9C%D0%A4_2020_%D0%A1%D0%9F%D0%B1._%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C_%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8_567_%D0%BF%D0%BE%D0%B4_%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D0%BC.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 July 2020
+
+День ВМФ 2020 СПб. Малый ракетный корабль Советск 577 — Caption: "День ВМФ 2020 СПб. Малый ракетный корабль Советск 577" | Author: Okras | Source: https://commons.wikimedia.org/wiki/File:%D0%94%D0%B5%D0%BD%D1%8C_%D0%92%D0%9C%D0%A4_2020_%D0%A1%D0%9F%D0%B1._%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA_577.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 July 2020
+
+Odentsovo (ship, 2021) — Caption: "Малый ракетный корабль «Одинцово» на генеральной репетиции Главного Военно-морского парада, Санкт-Петербург, 22.07.2021" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Odentsovo_(ship,_2021).jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 22 July 2021 | Uploaded: 30 July 2021
+
+
+### Kilo-luokan kuvat
+
+St petersburg 2018 navy day submarine dmitrov (46582283831) — Caption: "st_petersburg_2018_navy_day_submarine_dmitrov" | Author: Damien | Source: https://commons.wikimedia.org/wiki/File:St_petersburg_2018_navy_day_submarine_dmitrov_(46582283831).jpg | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | Changes: Resized for in-app display | Created: 28 July 2018 | Uploaded: 15 August 2019
+
+Kronstadt from east to west with a Cruiseship 0093 — Caption: "Kronstadt Russland 2009; von Ost nach West mit einem Kreuzfahrtschiff" | Author: Bin im Garten | Source: https://commons.wikimedia.org/wiki/File:Kronstadt_from_east_to_west_with_a_Cruiseship_0093.JPG | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 14 August 2009
+
+Ministry of Defence of Russia - 031 — Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Ministry_of_Defence_of_Russia_-_031.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 15 February 2016
+
+
+### Lada-luokan kuvat
+
+Navy Day, Saint Petersburg, Russia - 48513620051 — Caption: "Neva River, B-586 Kronstadt" | Author: Ninara | Source: https://commons.wikimedia.org/wiki/File:Navy_Day,_Saint_Petersburg,_Russia_-_48513620051.jpg | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | Changes: Resized for in-app display | Created: 28 July 2019 15:56:19
+
+Санкт-Петербург. День ВМФ. Парад на Неве. 24 июля 2019 — Caption: "Saint-Petersburg. Navy day. Parade on the Neva. July 24, 20" | Author: Сергей Шмидт СПБ | Source: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3._%D0%94%D0%B5%D0%BD%D1%8C_%D0%92%D0%9C%D0%A4._%D0%9F%D0%B0%D1%80%D0%B0%D0%B4_%D0%BD%D0%B0_%D0%9D%D0%B5%D0%B2%D0%B5._24_%D0%B8%D1%8E%D0%BB%D1%8F_2019.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 July 2019
+
+
+### Nanuchka-luokan kuvat
+
+Zyb'-2010-Sankt-Peterburg-1 — Caption: "Малый ракетный корабль «Зыбь» на параде ВМФ в Санкт-Петербурге." | Author: Black leon (ru.wikipedia) | Source: https://commons.wikimedia.org/wiki/File:Zyb%27-2010-Sankt-Peterburg-1.jpg | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 24 July 2010
+
+Малый ракетный корабль «Гейзер» у причала в Балтийске — Caption: "Малый ракетный корабль «Гейзер» у причала в Балтийске (Калининградская область)" | Author: MarSaf | Source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C_%C2%AB%D0%93%D0%B5%D0%B9%D0%B7%D0%B5%D1%80%C2%BB_%D1%83_%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B5.JPG | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 12 August 2020 | Uploaded: 17 January 2022_
+
+Пассат 570 — Caption: "Пассат 570 на праздновании дня ВМФ 2020" | Author: http://www.kremlin.ru/ | Source: https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D1%81%D1%81%D0%B0%D1%82_570.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 July 2020 | Uploaded: 11 September 2020
+
+
+### Neustrashimyy-luokan kuvat
+
+Neustrashimyy2004Cartagena — Caption: "Russian frigate Neustrashimyy in Cartagena, 1 September 2004 10:01." | Author: José María Casanova Colorado, Cartagena (from Los Barcos de Eugenio / Eugenio´s Warships) | Source: https://commons.wikimedia.org/wiki/File:Neustrashimyy2004Cartagena.jpg | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 31 August 2004 | Uploaded: 5 August 2008
+
+HMS Sutherland monitors Russian warship as it sails through UK waters. MOD 45161879 — Source: https://commons.wikimedia.org/wiki/File:HMS_Sutherland_monitors_Russian_warship_as_it_sails_through_UK_waters._MOD_45161879.jpg | License: OGL v1.0 | Issue: License not in approved list (CC0/Public Domain/CC BY/CC BY-SA) | Suggested fix: Replace with CC BY/CC BY-SA/CC0/Public Domain asset
+
+Frigate Yaroslav Mudry (5) — Caption: "The Neustrashimy class frigate Yaroslav Mudry." | Author: FAndrey | Source: https://commons.wikimedia.org/wiki/File:Frigate_Yaroslav_Mudry_(5).jpg | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | Changes: Resized for in-app display | Created: 28 June 2011 | Uploaded: 20 October 2012
+
+
+### Ondatra-luokan kuvat
+
+ДКА Д-704 в Амурском заливе 2010.07.25 — Caption: "ДКА Д-704 в Амурском заливе 2010.07.25" | Author: Alex omen | Source: https://commons.wikimedia.org/wiki/File:%D0%94%D0%9A%D0%90_%D0%94-704_%D0%B2_%D0%90%D0%BC%D1%83%D1%80%D1%81%D0%BA%D0%BE%D0%BC_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2%D0%B5_2010.07.25.JPG | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 25 July 2010
+
+
+### Parchim-luokan kuvat
+
+Средняя гавань. День ВМФ — Caption: "Набережные и молы со спусками, парапетами, лестницами Итальянского пруда, Купеческой, Средней, Военной и Лесной гаваней с доками Николаевским, Алексеевским, Константиновским, Александровским и другими гидротехническими сооружениями: Кронштадт, Кронштадтский район, Санкт-Петербург" | Author: A-Z.Anisimov | Source: https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%B3%D0%B0%D0%B2%D0%B0%D0%BD%D1%8C._%D0%94%D0%B5%D0%BD%D1%8C_%D0%92%D0%9C%D0%A4.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 31 July 2016
+
+MPK-192 Urengoy in SPB — Caption: "Parchim-class Corvette MPK-192 Urengoy in Saint Petersburg" | Author: Alex 'Florstein' Fedorov | Source: https://commons.wikimedia.org/wiki/File:MPK-192_Urengoy_in_SPB.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 27 July 2014 | Uploaded: 29 July 2014
+
+MPK-205 Kazanets in SPB — Caption: "Parchim-class Corvette MPK-205 Kazanets in Saint Petersburg" | Author: Alex 'Florstein' Fedorov | Source: https://commons.wikimedia.org/wiki/File:MPK-205_Kazanets_in_SPB.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 27 July 2014 | Uploaded: 29 July 2014
+
+Малый противолодочный корабль-243 — Caption: "МПК-227 в Балтийске" | Author: Липунов Г.А. | Source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C-243.jpg | License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/) | Changes: Resized for in-app display | Created: 2009
+
+Channel One Russia in Navy (27-06-2013) 35 — Caption: "Russian Kalmykia type Parchim corvette firing RBU-6000 ASW rockets" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Channel_One_Russia_in_Navy_(27-06-2013)_35.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 27 June 2013
+
+
+### Ropucha-luokan kuvat
+
+Kaliningrad2004Cartagena — Caption: "Russian large landing ship Kaliningrad in Cartagena." | Author: José María Casanova Colorado, Cartagena (from Los Barcos de Eugenio / Eugenio´s Warships) | Source: https://commons.wikimedia.org/wiki/File:Kaliningrad2004Cartagena.jpg | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 31 August 2004 | Uploaded: 5 August 2008
+
+Istanbul Large Landing Ship Aleksandr Shabalin (242741001) — Caption: "Istanbul. Bosphorus. Large landing ship “Aleksandr Shabalin”" | Author: Alexxx Malev | Source: https://commons.wikimedia.org/wiki/File:Istanbul_Large_Landing_Ship_Aleksandr_Shabalin_(242741001).jpeg | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 23 November 2013 | Uploaded: 5 August 2018
+
+ShipsSPB2015-03 — Caption: "Project 775 landing ship Korolev" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:ShipsSPB2015-03.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 11 May 2015
+
+
+### Serna-luokan kuvat
+
+Катер Алексей Баринов 791 с ботиком Петра I на дне ВМФ 2024 — Caption: "Катер Алексей Баринов 791 с ботиком Петра I на дне ВМФ 2024" | Author: Okras | Source: https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D1%82%D0%B5%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%91%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2_791_%D1%81_%D0%B1%D0%BE%D1%82%D0%B8%D0%BA%D0%BE%D0%BC_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_I_%D0%BD%D0%B0_%D0%B4%D0%BD%D0%B5_%D0%92%D0%9C%D0%A4_2024.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 28 July 2024
+
+Военный корвет Иван Пасько 792 на дне ВМФ 2024 — Caption: "Военный корвет Иван Пасько 792 на дне ВМФ 2024" | Author: Okras | Source: https://commons.wikimedia.org/wiki/File:%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B2%D0%B5%D1%82_%D0%98%D0%B2%D0%B0%D0%BD_%D0%9F%D0%B0%D1%81%D1%8C%D0%BA%D0%BE_792_%D0%BD%D0%B0_%D0%B4%D0%BD%D0%B5_%D0%92%D0%9C%D0%A4_2024.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 28 July 2024
+
+
+### Sonya-luokan kuvat
+
+9507.2. Ship Pavel Khanov — Caption: "Base minesweeper "Pavel Khanov" on the Neva." | Author: GAlexandrova | Source: https://commons.wikimedia.org/wiki/File:9507.2._Ship_Pavel_Khanov.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 24 July 2020
+
+
+### Sovremennyy-luokan kuvat
+
+Baltiysk, Kaliningrad Oblast, Russia - panoramio - Anton Yefimov (32) — Caption: "Baltiysk, Kaliningrad Oblast, Russia" | Author: Anton Yefimov | Source: https://commons.wikimedia.org/wiki/File:Baltiysk%2C_Kaliningrad_Oblast%2C_Russia_-_panoramio_-_Anton_Yefimov_(32).jpg | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 31 July 2016 | Uploaded: 26 October 2016
+
+Channel One Russia in Navy (27-06-2013) 32 — Caption: "Совместная акция Первого канала и Министерства обороны Российской Федерации "Первый на флоте" в Балтийске (ru:Настойчивый (эсминец, 1991))" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Channel_One_Russia_in_Navy_(27-06-2013)_32.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 27 June 2013
+
+
+### Steregushchiy-luokan kuvat
+
+6093.6. Navy Day in St. Petersburg — Caption: "Navy Day in St. Petersburg in 2018." | Author: GAlexandrova | Source: https://commons.wikimedia.org/wiki/File:6093.6._Navy_Day_in_St._Petersburg.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 22 July 2018
+
+170606-N-N0901-020 (34296918604) — Caption: "BALTOPS is an annual U.S.-led, Naval Striking and Support Forces NATO- executed, multinational maritime exercise in the Baltic Sea region designed to enhance flexibility and interoperability among its participants." | Author: Commander, U.S. Naval Forces Europe-Africa/U.S. 6th Fleet | Source: https://commons.wikimedia.org/wiki/File:170606-N-N0901-020_(34296918604).jpg | License: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/) | Changes: Resized for in-app display | Created: 5 June 2017
+
+Ангар корвета «Совершенный», Владивосток, 33-й причал, 2017-09-01 — Caption: "Ангар корвета «Совершенный», Владивосток, 33-й причал, 2017-09-01" | Author: AdmiralHood | Source: https://commons.wikimedia.org/wiki/File:%D0%90%D0%BD%D0%B3%D0%B0%D1%80_%D0%BA%D0%BE%D1%80%D0%B2%D0%B5%D1%82%D0%B0_%C2%AB%D0%A1%D0%BE%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%C2%BB%2C_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%2C_33-%D0%B9_%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D0%BB%2C_2017-09-01.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 1 September 2017
+
+170606-N-N0901-008 (35101840796) — Caption: "BALTOPS is an annual U.S.-led, Naval Striking and Support Forces NATO- executed, multinational maritime exercise in the Baltic Sea region designed to enhance flexibility and interoperability among its participants." | Author: Commander, U.S. Naval Forces Europe-Africa/U.S. 6th Fleet | Source: https://commons.wikimedia.org/wiki/File:170606-N-N0901-008_(35101840796).jpg | License: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/) | Changes: Resized for in-app display | Created: 5 June 2017
+
+Navy Day in Russia 2017 (2) — Caption: "Navy Day celebrations in St. Petersburg, Russia in 2017." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Navy_Day_in_Russia_2017_(2).jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 28 July 2017
+
+Steregushchiy-class corvette 335 2021Oct — Caption: "ロシア海軍艦艇 ステレグシチー級フリゲート（３３５）グロームキー" | Author: 日本防衛省・統合幕僚監部 | Source: https://commons.wikimedia.org/wiki/File:Steregushchiy-class_corvette_335_2021Oct.png | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 22 October 2021
+
+Corvette Mercury at the naval parade in St. Petersburg. July 2022 — Caption: "Corvette Mercury at the naval parade in St. Petersburg. July 2022" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Corvette_Mercury_at_the_naval_parade_in_St._Petersburg._July_2022.png | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 31 July 2022
+
+
+### Tarantul-luokan kuvat
+
+Кронштадт, вид на Среднюю гавань и причал - panoramio — Caption: "Кронштадт, вид на Среднюю гавань и причал" | Author: MrStepanovka | Source: https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%BE%D0%BD%D1%88%D1%82%D0%B0%D0%B4%D1%82%2C_%D0%B2%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D1%8E%D1%8E_%D0%B3%D0%B0%D0%B2%D0%B0%D0%BD%D1%8C_%D0%B8_%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D0%BB_-_panoramio.jpg | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 29 October 2010 | Uploaded: 16 November 2016
+
+Zarechniy rka 25 sumerki — Caption: "рка "Заречный". 19.04.2014 года" | Author: Shelkovoy | Source: https://commons.wikimedia.org/wiki/File:Zarechniy_rka_25_sumerki.jpg | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 18 April 2014
+
+9509.2. Dimitrovgrad — Caption: "Large missile boat "Dimitrovgrad" on the Neva." | Author: GAlexandrova | Source: https://commons.wikimedia.org/wiki/File:9509.2._Dimitrovgrad.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 24 July 2020
+
+St petersburg 2018 navy day missile boat morshansk (44764264270) — Caption: "st_petersburg_2018_navy_day_missile_boat_morshansk" | Author: Damien | Source: https://commons.wikimedia.org/wiki/File:St_petersburg_2018_navy_day_missile_boat_morshansk_(44764264270).jpg | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | Changes: Resized for in-app display | Created: 29 July 2018
+
+
+### Zubr-luokan kuvat
+
+Zubr class LCAC - Zapad-2013 — Caption: "Landing craft air cushion "Mordovia" class "Zubr", military exercises "Zapad-2013". 2013-09-26." | Author: Kremlin.ru | Source: https://commons.wikimedia.org/wiki/File:Zubr_class_LCAC_-_Zapad-2013.jpeg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 27 September 2013 | Uploaded: 27 September 2013
+
+Russian Zubr class LCAC — Caption: "Russian military exercise Zapad 2009." | Author: Kremlin.ru | Source: https://commons.wikimedia.org/wiki/File:Russian_Zubr_class_LCAC.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 29 September 2009
+
+
+
+## Maavoimat
+-
+
+
 ## Ilmavoimat
-### Su-35
-https://www.defensenews.com/air/2017/01/09/china-receives-first-advanced-su-35-flankers-from-russia/
-
-https://nationalinterest.org/blog/buzz/su-35-flanker-fighters-russia-keep-dropping-flies-over-ukraine-210783
-
-### Su-30
-https://tass.com/defense/988986
-
-https://www.joint-forces.com/exercise-news/51143-russian-and-belarus-su-30sm-fighter-crews-patrolling
-
-### Su-27
-https://www.shutterstock.com/search/su-27sm
-
-http://cmano-db.com/aircraft/847/
-
-### Su-34
-https://militaeraktuell.at/en/russia-new-su-34-fighter-bombers-delivered/
-
-https://www.armyrecognition.com/news/aerospace-news/2025/russia-adds-new-su-34-fighter-bombers-to-strengthen-long-range-strike-operations-in-ukraine
-
-### Su-25
-https://www.youtube.com/watch?v=84b6rt90o7g
-
-https://en.wikipedia.org/wiki/Sukhoi_Su-25
-
-### MiG-31
-https://en.wikipedia.org/wiki/Mikoyan_MiG-31
-
-https://www.popularmechanics.com/military/weapons/a23549729/russias-mig-31-spotted-with-possible-anti-satellite-missile/
-
-### Su-57
-
-https://en.wikipedia.org/wiki/Sukhoi_Su-57
-
-https://www.defenceturkey.com/en/content/su-57-crashed-during-a-flight-test-did-it-affect-the-overall-program-3836
-
-### Tu-95
-
-https://en.wikipedia.org/wiki/Tupolev_Tu-95
-
-https://en.defence-ua.com/analysis/what_is_special_about_the_tu_95ms_strategic_bomber_and_why_this_aircraft_is_chosen_for_strikes_on_ukraine-5261.html
-
-### Tu-160
-https://greatmultiverse.fandom.com/wiki/Tu-160_Blackjack
-
-https://www.rusaviainsider.com/new-lease-life-tu-160/
-
-### Tu-22M
-https://en.wikipedia.org/wiki/Tupolev_Tu-22M
-
-https://www.amazon.com/Trumpeter-Tu22M3-Backfire-Strategic-Bomber/dp/B002DP635G
-
-### A-50
-https://en.wikipedia.org/wiki/Beriev_A-50
-
-https://xxtomcooperxx.substack.com/p/a-quick-review-of-the-russian-a-50
-
-### Il-78
-https://en.wikipedia.org/wiki/Ilyushin_Il-78
-
-https://hu.wikipedia.org/wiki/Il%E2%80%9378
-
-### Il-76
-https://en.wikipedia.org/wiki/Ilyushin_Il-76
-
-https://www.airvectors.net/avil76.html
-
-### An-124
-https://et.wikipedia.org/wiki/Antonov_An-124
-
-
-https://www.airdatanews.com/after-incident-volga-dnepr-grounds-an-124-freighters-fleet/
-
-### Il-20
-https://militarnyi.com/en/news/russia-sent-il-20-reconnaissance-aircraft-to-alaska-twice-august-20th-and-august-21st/
-
-https://www.armyrecognition.com/military-products/air/other/electronic-warfare/ilyushin-il-20m
-
-### Tu-214R
-https://theaviationist.com/2012/05/24/tu-214r/
-
-https://www.unian.info/world/1446333-russias-most-advanced-spy-plane-deployed-to-syria-again.html
+-
 
 
 # **Ääniefektit**

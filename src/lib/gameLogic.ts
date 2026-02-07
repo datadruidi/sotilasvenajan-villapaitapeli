@@ -1,18 +1,53 @@
 /**
  * Game logic: image selection and answer generation.
- * All logic is based on the registry; no image analysis or inference.
+ * Navy pool is built from file list + filename parser; other branches use the registry.
  */
 
-import type { CountryId, ImageEntry, VehicleBranch } from '../types/game'
+import type { CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
 import { IMAGE_REGISTRY } from '../data/imageRegistry'
+import { NAVY_IMAGE_PATHS } from '../data/navyImagePaths'
+import { parseNavyFilename } from './navyFilenameParser'
+
+/**
+ * Build navy image entries from path list; class and vessel name are derived from filenames.
+ * - class_01.jpg → class only (Alusluokat).
+ * - class_vesselname_01.jpg or class_vesselname.jpg → class + vessel name (both modes).
+ */
+function getNavyImageEntries(): ImageEntry[] {
+  const entries: ImageEntry[] = []
+  for (let i = 0; i < NAVY_IMAGE_PATHS.length; i++) {
+    const assetPath = NAVY_IMAGE_PATHS[i]
+    const parsed = parseNavyFilename(assetPath)
+    if (!parsed) continue
+    entries.push({
+      id: `ru-navy-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,
+      assetPath,
+      country: 'russia',
+      branch: 'navy',
+      correctClassName: `${parsed.classDisplay} class`,
+      active: true,
+      vesselName: parsed.vesselName,
+    })
+  }
+  return entries
+}
 
 /**
  * Filters the image pool to entries matching country and branch, active only.
+ * Navy uses file list + parser; for navy + vesselName mode, only entries with vesselName are included.
  */
 export function getFilteredPool(
   country: CountryId,
-  branch: VehicleBranch
+  branch: VehicleBranch,
+  navySubMode?: NavySubMode
 ): ImageEntry[] {
+  if (country === 'russia' && branch === 'navy') {
+    let pool = getNavyImageEntries()
+    if (navySubMode === 'vesselName') {
+      pool = pool.filter((e) => e.vesselName != null && e.vesselName.trim() !== '')
+    }
+    return pool
+  }
   return IMAGE_REGISTRY.filter(
     (e) => e.country === country && e.branch === branch && e.active
   )
@@ -37,13 +72,41 @@ function getClassNamesFromPool(pool: ImageEntry[]): string[] {
 }
 
 /**
+ * All distinct vessel names from the pool (navy vesselName mode).
+ */
+function getVesselNamesFromPool(pool: ImageEntry[]): string[] {
+  const names: string[] = []
+  for (const e of pool) {
+    if (e.vesselName != null && e.vesselName.trim() !== '') {
+      names.push(e.vesselName.trim())
+    }
+  }
+  return [...new Set(names)]
+}
+
+/**
  * Returns four option strings: the correct class name plus three other
  * plausible options from the same country and branch. Options are shuffled.
  */
 export function generateOptions(
   selectedEntry: ImageEntry,
-  pool: ImageEntry[]
+  pool: ImageEntry[],
+  navySubMode?: NavySubMode
 ): string[] {
+  if (navySubMode === 'vesselName' && selectedEntry.vesselName != null) {
+    const correct = selectedEntry.vesselName.trim()
+    const allVesselNames = getVesselNamesFromPool(pool)
+    const others = allVesselNames.filter((name) => normalizeVesselName(name) !== normalizeVesselName(correct))
+    const wrongOptions: string[] = []
+    const shuffled = [...others].sort(() => Math.random() - 0.5)
+    for (const name of shuffled) {
+      if (wrongOptions.length >= 3) break
+      wrongOptions.push(name)
+    }
+    const options = [correct, ...wrongOptions]
+    return shuffleArray(options)
+  }
+
   const correct = selectedEntry.correctClassName
   const allClassNames = getClassNamesFromPool(pool)
   const others = allClassNames.filter((name) => name !== correct)
@@ -55,9 +118,18 @@ export function generateOptions(
     wrongOptions.push(name)
   }
 
-  // If we have fewer than 3 other classes, we still show what we have
   const options = [correct, ...wrongOptions]
   return shuffleArray(options)
+}
+
+/**
+ * Correct answer for the current question (class or vessel name depending on navy sub-mode).
+ */
+export function getCorrectAnswer(entry: ImageEntry, navySubMode?: NavySubMode): string {
+  if (navySubMode === 'vesselName' && entry.vesselName != null && entry.vesselName.trim() !== '') {
+    return entry.vesselName.trim()
+  }
+  return entry.correctClassName
 }
 
 function shuffleArray<T>(arr: T[]): T[] {
@@ -70,14 +142,17 @@ function shuffleArray<T>(arr: T[]): T[] {
 }
 
 /**
- * Checks the user's answer against the class name assigned to the image.
- * No inference or visual analysis.
+ * Checks the user's answer against the correct answer (class or vessel name).
  */
 export function checkAnswer(
   userAnswer: string,
-  correctClassName: string
+  correctAnswer: string,
+  isVesselName: boolean = false
 ): boolean {
-  return normalizeClassLabel(userAnswer) === normalizeClassLabel(correctClassName)
+  if (isVesselName) {
+    return normalizeVesselName(userAnswer) === normalizeVesselName(correctAnswer)
+  }
+  return normalizeClassLabel(userAnswer) === normalizeClassLabel(correctAnswer)
 }
 
 /**
@@ -85,4 +160,20 @@ export function checkAnswer(
  */
 export function normalizeClassLabel(name: string): string {
   return name.trim().replace(/\s+class$/i, '')
+}
+
+/**
+ * Normalize vessel name for comparison (trim, case-insensitive).
+ */
+export function normalizeVesselName(name: string): string {
+  return name.trim().toLowerCase()
+}
+
+/**
+ * Display form of vessel name (capitalize each word).
+ */
+export function formatVesselName(name: string): string {
+  const t = name.trim()
+  if (t.length === 0) return t
+  return t.split(/\s+/).map((w) => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join(' ')
 }

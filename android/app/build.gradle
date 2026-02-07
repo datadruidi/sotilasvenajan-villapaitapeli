@@ -7,11 +7,11 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.mililingo.app"
+    namespace = "com.sotilasvenajan.villapaitapeli"
     compileSdk = rootProject.ext.compileSdkVersion
     defaultConfig {
-        // Keep applicationId forever; changing it creates a new app listing on Play Store
-        applicationId "com.mililingo.app"
+        // Keep applicationId forever once published; safe to change before first Play Store release
+        applicationId "com.sotilasvenajan.villapaitapeli"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         // For every Play Store upload: increment versionCode; versionName is user-visible (e.g. 1.0.0)
@@ -39,7 +39,8 @@ android {
             if (keystorePropertiesFile.exists()) {
                 signingConfig signingConfigs.release
             }
-            minifyEnabled false
+            minifyEnabled true
+            shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }

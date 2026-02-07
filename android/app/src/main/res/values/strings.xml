@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">Sotilasvenäjän villapaitapeli</string>
     <string name="title_activity_main">Sotilasvenäjän villapaitapeli</string>
-    <string name="package_name">com.mililingo.app</string>
-    <string name="custom_url_scheme">com.mililingo.app</string>
+    <string name="package_name">com.sotilasvenajan.villapaitapeli</string>
+    <string name="custom_url_scheme">com.sotilasvenajan.villapaitapeli</string>
 </resources>

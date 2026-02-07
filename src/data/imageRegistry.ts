@@ -1,7 +1,7 @@
 /**
- * Image registry – source of truth for all quiz images.
- * Each image is explicitly associated with country, branch, and correct class name.
- * Folder structure is for asset organization only; game logic uses this list.
+ * Image registry – source of truth for all quiz images (except navy).
+ * Navy images are discovered from public/assets/vehicles/russia/navy and parsed by filename;
+ * run `node scripts/list-navy-images.cjs` after adding/renaming navy images.
  */
 
 import type { ImageEntry } from '../types/game'
@@ -9,78 +9,10 @@ import type { ImageEntry } from '../types/game'
 const PLACEHOLDER = '/assets/vehicles/placeholder.svg'
 
 /**
- * All images that may appear in the game. Only entries with active: true
- * are included in the filtered pool. Add or remove entries here to control
- * which images are used; ensure each branch has enough distinct class names
- * to generate 4 options (1 correct + 3 plausible wrong).
+ * All images that may appear in the game (army, airforce, other). Navy uses file list + parser.
+ * Only entries with active: true are included in the filtered pool.
  */
 export const IMAGE_REGISTRY: ImageEntry[] = [
-  // Russia – Navy
-{ id: 'ru-navy-admiral-gorshkov-01', assetPath: '/assets/vehicles/russia/navy/admiral_gorshkov/admiral_gorshkov_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Admiral Gorshkov class', active: true },
-{ id: 'ru-navy-admiral-gorshkov-02', assetPath: '/assets/vehicles/russia/navy/admiral_gorshkov/admiral_gorshkov_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Admiral Gorshkov class', active: true },
-{ id: 'ru-navy-admiral-gorshkov-03', assetPath: '/assets/vehicles/russia/navy/admiral_gorshkov/admiral_gorshkov_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Admiral Gorshkov class', active: true },
-
-{ id: 'ru-navy-borei-01', assetPath: '/assets/vehicles/russia/navy/borei/borei_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Borei class', active: true },
-{ id: 'ru-navy-borei-02', assetPath: '/assets/vehicles/russia/navy/borei/borei_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Borei class', active: true },
-{ id: 'ru-navy-borei-03', assetPath: '/assets/vehicles/russia/navy/borei/borei_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Borei class', active: true },
-
-{ id: 'ru-navy-buyan-m-01', assetPath: '/assets/vehicles/russia/navy/buyan_m/buyan_m_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Buyan-M class', active: true },
-{ id: 'ru-navy-buyan-m-02', assetPath: '/assets/vehicles/russia/navy/buyan_m/buyan_m_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Buyan-M class', active: true },
-{ id: 'ru-navy-buyan-m-03', assetPath: '/assets/vehicles/russia/navy/buyan_m/buyan_m_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Buyan-M class', active: true },
-
-{ id: 'ru-navy-ivan-gren-01', assetPath: '/assets/vehicles/russia/navy/ivan_gren/ivan_gren_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Ivan Gren class', active: true },
-{ id: 'ru-navy-ivan-gren-02', assetPath: '/assets/vehicles/russia/navy/ivan_gren/ivan_gren_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Ivan Gren class', active: true },
-{ id: 'ru-navy-ivan-gren-03', assetPath: '/assets/vehicles/russia/navy/ivan_gren/ivan_gren_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Ivan Gren class', active: true },
-
-{ id: 'ru-navy-karakurt-01', assetPath: '/assets/vehicles/russia/navy/karakurt/karakurt_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Karakurt class', active: true },
-{ id: 'ru-navy-karakurt-02', assetPath: '/assets/vehicles/russia/navy/karakurt/karakurt_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Karakurt class', active: true },
-{ id: 'ru-navy-karakurt-03', assetPath: '/assets/vehicles/russia/navy/karakurt/karakurt_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Karakurt class', active: true },
-
-{ id: 'ru-navy-kilo-01', assetPath: '/assets/vehicles/russia/navy/kilo/kilo_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Kilo class', active: true },
-{ id: 'ru-navy-kilo-02', assetPath: '/assets/vehicles/russia/navy/kilo/kilo_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Kilo class', active: true },
-{ id: 'ru-navy-kilo-03', assetPath: '/assets/vehicles/russia/navy/kilo/kilo_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Kilo class', active: true },
-
-{ id: 'ru-navy-kirov-01', assetPath: '/assets/vehicles/russia/navy/kirov/kirov_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Kirov class', active: true },
-{ id: 'ru-navy-kirov-02', assetPath: '/assets/vehicles/russia/navy/kirov/kirov_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Kirov class', active: true },
-{ id: 'ru-navy-kirov-03', assetPath: '/assets/vehicles/russia/navy/kirov/kirov_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Kirov class', active: true },
-
-{ id: 'ru-navy-krivak-01', assetPath: '/assets/vehicles/russia/navy/krivak/krivak_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Krivak class', active: true },
-{ id: 'ru-navy-krivak-02', assetPath: '/assets/vehicles/russia/navy/krivak/krivak_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Krivak class', active: true },
-{ id: 'ru-navy-krivak-03', assetPath: '/assets/vehicles/russia/navy/krivak/krivak_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Krivak class', active: true },
-
-{ id: 'ru-navy-lada-01', assetPath: '/assets/vehicles/russia/navy/lada/lada_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Lada class', active: true },
-{ id: 'ru-navy-lada-02', assetPath: '/assets/vehicles/russia/navy/lada/lada_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Lada class', active: true },
-{ id: 'ru-navy-lada-03', assetPath: '/assets/vehicles/russia/navy/lada/lada_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Lada class', active: true },
-
-{ id: 'ru-navy-neustrashimy-01', assetPath: '/assets/vehicles/russia/navy/neutrashimy/neutrashimy_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Neustrashimy class', active: true },
-{ id: 'ru-navy-neustrashimy-02', assetPath: '/assets/vehicles/russia/navy/neutrashimy/neutrashimy_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Neustrashimy class', active: true },
-{ id: 'ru-navy-neustrashimy-03', assetPath: '/assets/vehicles/russia/navy/neutrashimy/neutrashimy_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Neustrashimy class', active: true },
-
-{ id: 'ru-navy-ropucha-01', assetPath: '/assets/vehicles/russia/navy/ropucha/ropucha_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Ropucha class', active: true },
-{ id: 'ru-navy-ropucha-02', assetPath: '/assets/vehicles/russia/navy/ropucha/ropucha_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Ropucha class', active: true },
-{ id: 'ru-navy-ropucha-03', assetPath: '/assets/vehicles/russia/navy/ropucha/ropucha_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Ropucha class', active: true },
-
-{ id: 'ru-navy-slava-01', assetPath: '/assets/vehicles/russia/navy/slava/slava_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Slava class', active: true },
-{ id: 'ru-navy-slava-02', assetPath: '/assets/vehicles/russia/navy/slava/slava_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Slava class', active: true },
-{ id: 'ru-navy-slava-03', assetPath: '/assets/vehicles/russia/navy/slava/slava_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Slava class', active: true },
-
-{ id: 'ru-navy-sovremenny-01', assetPath: '/assets/vehicles/russia/navy/sovremenny/sovremenny_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Sovremenny class', active: true },
-{ id: 'ru-navy-sovremenny-02', assetPath: '/assets/vehicles/russia/navy/sovremenny/sovremenny_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Sovremenny class', active: true },
-{ id: 'ru-navy-sovremenny-03', assetPath: '/assets/vehicles/russia/navy/sovremenny/sovremenny_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Sovremenny class', active: true },
-
-{ id: 'ru-navy-steregushchiy-01', assetPath: '/assets/vehicles/russia/navy/steregushchiy/steregushchiy_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Steregushchiy class', active: true },
-{ id: 'ru-navy-steregushchiy-02', assetPath: '/assets/vehicles/russia/navy/steregushchiy/steregushchiy_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Steregushchiy class', active: true },
-{ id: 'ru-navy-steregushchiy-03', assetPath: '/assets/vehicles/russia/navy/steregushchiy/steregushchiy_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Steregushchiy class', active: true },
-
-{ id: 'ru-navy-typhoon-01', assetPath: '/assets/vehicles/russia/navy/typhoon/typhoon_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Typhoon class', active: true },
-{ id: 'ru-navy-typhoon-02', assetPath: '/assets/vehicles/russia/navy/typhoon/typhoon_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Typhoon class', active: true },
-{ id: 'ru-navy-typhoon-03', assetPath: '/assets/vehicles/russia/navy/typhoon/typhoon_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Typhoon class', active: true },
-
-{ id: 'ru-navy-udaloy-01', assetPath: '/assets/vehicles/russia/navy/udaloy/udaloy_01.jpg', country: 'russia', branch: 'navy', correctClassName: 'Udaloy class', active: true },
-{ id: 'ru-navy-udaloy-02', assetPath: '/assets/vehicles/russia/navy/udaloy/udaloy_02.jpg', country: 'russia', branch: 'navy', correctClassName: 'Udaloy class', active: true },
-{ id: 'ru-navy-udaloy-03', assetPath: '/assets/vehicles/russia/navy/udaloy/udaloy_03.jpg', country: 'russia', branch: 'navy', correctClassName: 'Udaloy class', active: true },
-
-
   // Russia – Army
   { id: 'ru-army-1', assetPath: PLACEHOLDER, country: 'russia', branch: 'army', correctClassName: 'T-90 class', active: true },
   { id: 'ru-army-2', assetPath: PLACEHOLDER, country: 'russia', branch: 'army', correctClassName: 'T-72 class', active: true },

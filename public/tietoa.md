@@ -4,7 +4,7 @@
 
 - **Sotilasvenäjän sanasto:** valitse oikea käännös sanastomoduuleittain.
 - **Lähialueen joukkojen sijoituspaikat:** tunnista karttaan sidottuna sijoituspaikat alueittain.
-- **Lähialueen joukkojen suorituskyvyt:** tunnista kuvasta kalustotyyppi tai -alusluokka.
+- **Lähialueen joukkojen suorituskyvyt:** tunnista kuvasta kalustotyyppi, alusluokka tai kohteen yksilöllinen nimi.
 
 
 

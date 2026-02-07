@@ -7,7 +7,7 @@ import type { CapacitorConfig } from '@capacitor/cli'
  *   then run `npx cap sync android` and run from Android Studio. Remove or unset for release.
  */
 const config: CapacitorConfig = {
-  appId: 'com.mililingo.app',
+  appId: 'com.sotilasvenajan.villapaitapeli',
   appName: 'Sotilasvenäjän villapaitapeli',
   webDir: 'dist',
   server: process.env.CAPACITOR_DEV_SERVER
