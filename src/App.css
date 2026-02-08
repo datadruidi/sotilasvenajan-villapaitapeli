@@ -12,6 +12,12 @@
   overflow: hidden;
 }
 
+/* Tietoa / Lähteet: align from top so back button is below status bar and scales on phone */
+.splash-screen.splash-screen--info {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
 .splash-content {
   display: flex;
   flex-direction: column;
@@ -99,23 +105,31 @@
   width: 100%;
   max-width: 520px;
   height: 100%;
+  max-height: 100dvh;
   display: flex;
   flex-direction: column;
   padding: 1rem;
+  padding-top: max(1rem, env(safe-area-inset-top, 0px) + 0.5rem);
+  padding-left: max(1rem, env(safe-area-inset-left, 0px));
+  padding-right: max(1rem, env(safe-area-inset-right, 0px));
+  padding-bottom: max(1rem, env(safe-area-inset-bottom, 0px));
   overflow: hidden;
+  box-sizing: border-box;
 }
 
 .splash-info-back {
   align-self: flex-start;
-  padding: 0.5rem 0.75rem;
-  font-size: 0.9rem;
+  padding: clamp(0.5rem, 2vh, 0.75rem) clamp(0.75rem, 3vw, 1rem);
+  min-height: 44px;
+  font-size: clamp(0.9rem, 2.5vw, 1rem);
   font-weight: 600;
   color: #334155;
   background: #f8fafc;
   border: 2px solid #e2e8f0;
   border-radius: 0.5rem;
   cursor: pointer;
-  margin-bottom: 1rem;
+  margin-bottom: clamp(0.75rem, 2vh, 1rem);
+  flex-shrink: 0;
 }
 
 .splash-info-back:hover {

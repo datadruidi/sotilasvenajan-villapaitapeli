@@ -53,10 +53,10 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
 
   if (infoPage != null) {
     return (
-      <div className="splash-screen">
+      <div className="splash-screen splash-screen--info">
         <div className="splash-info-page">
           <button type="button" className="splash-info-back" onClick={handleInfoBack}>
-            ← Takaisin
+            ← Takaisin aloitusnäytölle
           </button>
           <h1 className="splash-info-page-title">{pageTitle}</h1>
           <div className="splash-info-body">
