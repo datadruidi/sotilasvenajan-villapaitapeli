@@ -19,6 +19,9 @@ function getNavyImageEntries(): ImageEntry[] {
     const assetPath = NAVY_IMAGE_PATHS[i]
     const parsed = parseNavyFilename(assetPath)
     if (!parsed) continue
+    // When there is no vessel name (e.g. ivan_gren_01.jpg), use class name so the same name
+    // is shown in both Alusluokat and Alusten nimet.
+    const vesselName = parsed.vesselName ?? parsed.classDisplay
     entries.push({
       id: `ru-navy-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,
       assetPath,
@@ -26,7 +29,7 @@ function getNavyImageEntries(): ImageEntry[] {
       branch: 'navy',
       correctClassName: `${parsed.classDisplay} class`,
       active: true,
-      vesselName: parsed.vesselName,
+      vesselName,
     })
   }
   return entries

@@ -1,0 +1,1 @@
+Sotilasarvot – Maavoimat (army ranks). One image: Sotamies.jpg. Multiple images of same rank: Sotamies_1.jpg, Sotamies_2.jpg (the _1, _2 make filenames unique; the answer is still "Sotamies"). Add each rank once in src/data/ranksData.ts (fi + ru). Run: node scripts/list-ranks-images.cjs

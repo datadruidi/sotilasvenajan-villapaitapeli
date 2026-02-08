@@ -155,7 +155,7 @@ export function GarrisonsGameView({ region, muted, onToggleMute, onBack, onRound
     <div className="app">
       <div className="game-view game-view-quiz">
         <div className="quiz-header">
-          <span className="quiz-breadcrumb">Venäjä → Lähialueen joukkojen sijoituspaikat</span>
+          <span className="quiz-breadcrumb">Venäjä → Sotilaspiirit</span>
           <div className="quiz-progress">
             <span className="quiz-progress-line">Kierros: {displayRound}/{MAX_ROUNDS}</span>
             <span className="quiz-progress-line">Oikein: {correctCount}/{MAX_ROUNDS}</span>

@@ -1,0 +1,1 @@
+Sotilasarvot – Merivoimat (navy ranks). One image: Matruusi.jpg. Multiple: Matruusi_1.jpg, Matruusi_2.jpg. Add each rank once in src/data/ranksData.ts (fi + ru). Run: node scripts/list-ranks-images.cjs

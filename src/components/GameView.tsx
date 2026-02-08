@@ -100,8 +100,8 @@ export function GameView({ country, branch, branchLabel, navySubMode, muted, onT
 
   const sessionInfo =
     branch === 'navy' && navySubMode
-      ? `Venäjä → Lähialueen joukkojen suorituskyvyt → ${branchLabel} → ${navySubMode === 'class' ? 'Alusluokat' : 'Alusten nimet'}`
-      : `Venäjä → Lähialueen joukkojen suorituskyvyt → ${branchLabel}`
+      ? `Venäjä → Puolustushaarojen suorituskyvyt → ${branchLabel} → ${navySubMode === 'class' ? 'Alusluokat' : 'Alusten nimet'}`
+      : `Venäjä → Puolustushaarojen suorituskyvyt → ${branchLabel}`
 
   if (pool.length === 0 && !currentEntry && !gameOver) {
     return (

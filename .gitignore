@@ -136,6 +136,9 @@ dist
 .pnp.*
 
 
+# README copy for in-app Tietoa (generated at build from root README.md)
+public/README.md
+
 # Android signing (NEVER commit these)
 android/app/keystore.properties
 **/*.jks

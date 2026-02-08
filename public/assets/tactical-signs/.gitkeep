@@ -1,0 +1,4 @@
+# Taktiset merkit: use subfolders only (files in root are ignored).
+# - Sotilasmerkistö/  → images for "Sotilasmerkistö" button
+# - Joukkojen koko/   → images for "Joukkojen koko" button
+# Filename = correct answer + .jpg. Run from project root: node scripts/list-tactical-signs.cjs

@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "copy-readme": "node scripts/copy-readme.cjs",
+    "prebuild": "node scripts/copy-readme.cjs",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "navy:list": "node scripts/list-navy-images.cjs",

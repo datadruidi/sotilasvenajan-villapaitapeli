@@ -1,15 +1,17 @@
 /**
  * Splash screen: logo, "Pelaa", "Tietoa" and "Lähteet ja lisenssit" buttons (same width).
- * Tietoa and Lähteet open separate pages with markdown from public/tietoa.md and public/lahteet.md.
+ * Tietoa opens README.md (copied to public/ at build); Lähteet opens public/lahteet.md.
+ * intro.mp3 plays when the main splash is shown (on open or when returning via "Takaisin aloitusnäytölle").
  */
 
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import ReactMarkdown from 'react-markdown'
 import { playButtonClick } from '../lib/sound'
 
 const FAVICON_SRC = `${import.meta.env.BASE_URL}favicon.png`
+const INTRO_URL = `${import.meta.env.BASE_URL}audio/intro.mp3`
 const LAHTEET_URL = `${import.meta.env.BASE_URL}lahteet.md`
-const TIETOA_URL = `${import.meta.env.BASE_URL}tietoa.md`
+const TIETOA_URL = `${import.meta.env.BASE_URL}README.md`
 
 type InfoPage = 'lahteet' | 'tietoa' | null
 
@@ -22,9 +24,30 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
   const [infoPage, setInfoPage] = useState<InfoPage>(null)
   const [pageContent, setPageContent] = useState<string | null>(null)
   const [pageError, setPageError] = useState<string | null>(null)
+  const introAudioRef = useRef<HTMLAudioElement | null>(null)
 
   const pageUrl = infoPage === 'lahteet' ? LAHTEET_URL : infoPage === 'tietoa' ? TIETOA_URL : null
   const pageTitle = infoPage === 'lahteet' ? 'Lähteet ja lisenssit' : infoPage === 'tietoa' ? 'Tietoa' : ''
+
+  useEffect(() => {
+    const showMainSplash = infoPage === null
+    if (showMainSplash && !muted) {
+      const audio = new Audio(INTRO_URL)
+      introAudioRef.current = audio
+      audio.volume = 0.7
+      audio.play().catch(() => {})
+      return () => {
+        audio.pause()
+        audio.currentTime = 0
+        introAudioRef.current = null
+      }
+    }
+    if (introAudioRef.current) {
+      introAudioRef.current.pause()
+      introAudioRef.current.currentTime = 0
+      introAudioRef.current = null
+    }
+  }, [infoPage, muted])
 
   useEffect(() => {
     if (pageUrl == null) return
@@ -37,7 +60,6 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
   }, [pageUrl])
 
   const handlePlayClick = () => {
-    playButtonClick(muted)
     onPlay()
   }
 
@@ -47,8 +69,20 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
   }
 
   const handleInfoBack = () => {
-    playButtonClick(muted)
     setInfoPage(null)
+  }
+
+  const handleLogoClick = () => {
+    if (muted) return
+    if (introAudioRef.current) {
+      introAudioRef.current.currentTime = 0
+      introAudioRef.current.play().catch(() => {})
+    } else {
+      const audio = new Audio(INTRO_URL)
+      introAudioRef.current = audio
+      audio.volume = 0.7
+      audio.play().catch(() => {})
+    }
   }
 
   if (infoPage != null) {
@@ -78,7 +112,14 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
   return (
     <div className="splash-screen">
       <div className="splash-content">
-        <img src={FAVICON_SRC} alt="" className="splash-logo" />
+        <button
+          type="button"
+          className="splash-logo-btn"
+          onClick={handleLogoClick}
+          aria-label="Toista intro"
+        >
+          <img src={FAVICON_SRC} alt="" className="splash-logo" />
+        </button>
         <h1 className="splash-title">Sotilasvenäjän villapaitapeli</h1>
         <div className="splash-buttons">
           <button type="button" className="splash-play-btn" onClick={handlePlayClick}>

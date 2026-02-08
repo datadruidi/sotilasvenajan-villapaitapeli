@@ -2,8 +2,7 @@
  * Environment-based app config. Use this for any API or external base URLs
  * so dev and production stay separate (no hardcoded localhost in production).
  *
- * Vite exposes env vars prefixed with VITE_ via import.meta.env.
- * See .env.example for available variables.
+ * Vite exposes env vars prefixed with VITE_ via import.meta.env (e.g. VITE_API_BASE_URL).
  */
 
 /** Base URL for API requests. Empty string = same origin as the app. */

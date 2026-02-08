@@ -1,30 +1,33 @@
 /**
  * Parse navy image filenames to derive vessel class and optional vessel name.
  *
- * Rules:
- * - class_01.jpg, class_02.jpg → class only (trailing number = picture index). Shown in Alusluokat only.
- * - class_vesselname_01.jpg or class_vesselname.jpg → class + vessel name. Trailing number is picture index.
- *   Shown in Alusluokat (by class) and in Alusten nimet (by vessel name).
+ * NAMING RULE (use this for all navy image filenames):
+ *
+ * 1. Underscore (_) is the ONLY separator between CLASS and VESSEL NAME.
+ *
+ * 2. Class-only (same name in Alusluokat and Alusten nimet):
+ *    - Use a SPACE before the picture number: "ivan gren 01.jpg", "kilo 01.jpg"
+ *    - Or no number: "lada.jpg"
+ *    - Result: one segment after stripping number → class only → shown as e.g. "Ivan Gren" in both modules.
+ *
+ * 3. Class + vessel name (Alusluokat = class, Alusten nimet = vessel):
+ *    - Use UNDERSCORE between class and vessel: "kilo_dimitrov_02.jpg", "buyan-m_grad sviyazhsk.jpg"
+ *    - Trailing _01 / _02 is picture index and is stripped.
+ *    - Result: class = first segment, vessel = rest → e.g. "Kilo" / "Dimitrov".
+ *
+ * Examples:
+ *   ivan gren 01.jpg     → "Ivan Gren" in both
+ *   kilo 01.jpg         → "Kilo" in both
+ *   kilo_dimitrov_02.jpg → "Kilo" in Alusluokat, "Dimitrov" in Alusten nimet
+ *   buyan-m_grad sviyazhsk.jpg → "Buyan-M" / "Grad Sviyazhsk"
+ *   nanuchka_geyzer.jpg → "Nanuchka" / "Geyzer"
  */
 
 export interface ParsedNavyFilename {
   /** Display form for quiz (e.g. "Admiral Gorshkov") */
   classDisplay: string
-  /** Vessel name when present (e.g. "Aleksandr Obukhov"); undefined = class-only image */
+  /** Vessel name when present (e.g. "Dimitrov"); undefined = class-only image */
   vesselName?: string
-}
-
-/**
- * Format a class key (e.g. admiral_gorshkov) for display (e.g. "Admiral Gorshkov").
- * Replaces underscores with space and capitalizes each word; keeps hyphens as-is but capitalizes after them.
- */
-function formatClassDisplay(key: string): string {
-  const trimmed = key.trim()
-  if (trimmed.length === 0) return trimmed
-  return trimmed
-    .split('_')
-    .map((word) => word.split('-').map(capitalizeFirst).join('-'))
-    .join(' ')
 }
 
 function capitalizeFirst(s: string): string {
@@ -33,41 +36,61 @@ function capitalizeFirst(s: string): string {
 }
 
 /**
- * Format vessel name for display (capitalize each word).
+ * Format a class key for display. Handles spaces and underscores (e.g. "ivan gren" or "buyan-m").
+ */
+function formatClassDisplay(key: string): string {
+  const trimmed = key.trim()
+  if (trimmed.length === 0) return trimmed
+  return trimmed
+    .split(/[\s_]+/)
+    .filter(Boolean)
+    .map((word) => word.split('-').map(capitalizeFirst).join('-'))
+    .join(' ')
+}
+
+/** Display overrides for vessel names (normalized key → display string). */
+const VESSEL_DISPLAY_OVERRIDES: Record<string, string> = {
+  'orekhovo-zuyev': 'Orekhovo-Zuyevo',
+}
+
+/**
+ * Format vessel name for display (capitalize each word and each part after hyphen).
  */
 export function formatVesselNameDisplay(name: string): string {
   const trimmed = name.trim()
   if (trimmed.length === 0) return trimmed
-  return trimmed.split(/\s+/).map(capitalizeFirst).join(' ')
+  const override = VESSEL_DISPLAY_OVERRIDES[trimmed.toLowerCase()]
+  if (override) return override
+  return trimmed
+    .split(/\s+/)
+    .map((word) => word.split('-').map(capitalizeFirst).join('-'))
+    .join(' ')
 }
 
 /**
- * Parse an asset path (e.g. /assets/vehicles/russia/navy/steregushchiy/steregushchiy_boikiy.jpg)
- * and return the class display name and optional vessel name.
- * - If the filename is like class_01.jpg (last part is a number), vessel name is undefined.
- * - If the filename is like class_vesselname_01.jpg or class_vesselname.jpg, vessel name is the middle part(s).
+ * Parse an asset path and return class display name and optional vessel name.
+ * Uses the naming rule: strip trailing space+number or _number, then split by underscore only.
  */
 export function parseNavyFilename(assetPath: string): ParsedNavyFilename | null {
   const basename = assetPath.split(/[/\\]/).pop() ?? ''
   const base = basename.replace(/\.(jpg|jpeg|png|webp)$/i, '').trim()
   if (base.length === 0) return null
 
-  let parts = base.split('_')
+  // Strip trailing picture index: " 01", "_02", etc.
+  const withoutNumber = base.replace(/\s+\d+$|_\d+$/, '').trim()
+  if (withoutNumber.length === 0) return null
+
+  // Underscore is the only separator between class and vessel name.
+  const parts = withoutNumber.split('_').map((s) => s.trim()).filter(Boolean)
   if (parts.length === 0) return null
 
-  // Strip trailing numeric suffix (picture index, not part of the name)
-  if (parts.length > 1 && /^\d+$/.test(parts[parts.length - 1])) {
-    parts = parts.slice(0, -1)
-  }
-
-  if (parts.length === 0) return null
-
-  const classDisplay = formatClassDisplay(parts[0])
   if (parts.length === 1) {
-    return { classDisplay }
+    // Class only (e.g. "ivan gren", "kilo", "admiral gorshkov 01" → already stripped to "admiral gorshkov")
+    return { classDisplay: formatClassDisplay(parts[0]) }
   }
 
-  // Rest is vessel name (may contain spaces if filename had "part1 part2" in one segment)
+  // Class + vessel name (e.g. kilo_dimitrov, buyan-m_grad sviyazhsk)
+  const classDisplay = formatClassDisplay(parts[0])
   const vesselNameRaw = parts.slice(1).join(' ').trim()
   if (vesselNameRaw.length === 0) return { classDisplay }
 

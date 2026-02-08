@@ -1,12 +1,12 @@
 /**
  * Persist and read round counts per game mode (1 round = 10 questions).
- * Max 1000 rounds per mode; keys are e.g. vehicles_russia_navy, words_fi-ru_0, garrisons.
+ * Max 100 rounds per mode; keys are e.g. vehicles_russia_navy, words_fi-ru_0, garrisons.
  */
 
 const ROUNDS_PREFIX = 'miliingo-rounds-'
-const MAX_ROUNDS = 1000
+const MAX_ROUNDS = 100
 
-export function getRoundsKey(type: 'vehicles' | 'words' | 'garrisons', subKey: string): string {
+export function getRoundsKey(type: 'vehicles' | 'words' | 'garrisons' | 'tactical-signs' | 'ranks', subKey: string): string {
   return `${ROUNDS_PREFIX}${type}_${subKey}`
 }
 
