@@ -44,6 +44,17 @@ Kokonaisuudessa näet karttakuvan, jossa on merkitty asevoimien sijoituspaikkoja
 
 **Kuva:** Pelissä esitetään kartta ja neljä asevoimien sijoituspaikan vaihtoehtoa.
 
+#### Puolustushaarojen suorituskyvyt
+
+Kokonaisuudessa näet kuvia Venäjän kineettisen vaikuttamisen suorituskyvyistä, jotka sinun tulee tunnistaa tyypin, luokan tai yksilöiden nimen perusteella. Toistaiseksi valittavissa on vain Itämeren laivaston alusten alusluokat ja alusten yksilöidyt nimet.
+
+
+![Suorituskyvyt](docs/vehicles-game.png)
+
+**Kuva:** Pelissä yksilöidään suorituskykyjä.
+
+
+
 ---
 
 ### Sotilasarvot
