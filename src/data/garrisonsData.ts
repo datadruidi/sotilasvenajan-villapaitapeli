@@ -87,3 +87,9 @@ export function getGarrisonsRegistryByRegion(region: GarrisonRegionId): Garrison
   const set = region === 'pohjoinen' ? POHJOINEN_NAMES : region === 'etela' ? ETELA_NAMES : KALININGRAD_NAMES
   return active.filter((e) => set.has(e.correctAnswer))
 }
+
+/** Garrison entries for user's kerrattava list (by stored ids). */
+export function getGarrisonsPoolFromIds(ids: string[]): GarrisonEntry[] {
+  const idSet = new Set(ids)
+  return GARRISONS_REGISTRY.filter((e) => e.active && idSet.has(e.id))
+}

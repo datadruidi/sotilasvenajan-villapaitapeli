@@ -42,4 +42,24 @@ export type WordsDifficulty = 'easy' | 'medium' | 'hard'
 export interface WordPair {
   russian: string
   finnish: string
+  /** When set: 3 wrong options in Finnish (for direction ru→fi). Use these instead of drawing from pool. */
+  finnishAlts?: [string, string, string]
+  /** When set: 3 wrong options in Russian (for direction fi→ru). Use these instead of drawing from pool. */
+  russianAlts?: [string, string, string]
+}
+
+/**
+ * One prompt (e.g. abbreviation + Finnish) and 4 Russian options (1 correct + 3 wrong).
+ * CSV format: prompt,ve1,ve2,ve3,ve4 with ve1 = correct answer.
+ */
+export interface WordCardPrompt {
+  prompt: string
+  correct: string
+  wrongOptions: [string, string, string]
+}
+
+export type WordEntry = WordPair | WordCardPrompt
+
+export function isWordCardPrompt(entry: WordEntry): entry is WordCardPrompt {
+  return 'prompt' in entry && 'wrongOptions' in entry
 }

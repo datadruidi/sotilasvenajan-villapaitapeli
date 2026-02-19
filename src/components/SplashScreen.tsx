@@ -12,8 +12,9 @@ const FAVICON_SRC = `${import.meta.env.BASE_URL}favicon.png`
 const INTRO_URL = `${import.meta.env.BASE_URL}audio/intro.mp3`
 const LAHTEET_URL = `${import.meta.env.BASE_URL}lahteet.md`
 const TIETOA_URL = `${import.meta.env.BASE_URL}README.md`
+const UPDATES_URL = `${import.meta.env.BASE_URL}UPDATES.md`
 
-type InfoPage = 'lahteet' | 'tietoa' | null
+type InfoPage = 'lahteet' | 'tietoa' | 'paivitykset' | null
 
 interface SplashScreenProps {
   onPlay: () => void
@@ -26,8 +27,8 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
   const [pageError, setPageError] = useState<string | null>(null)
   const introAudioRef = useRef<HTMLAudioElement | null>(null)
 
-  const pageUrl = infoPage === 'lahteet' ? LAHTEET_URL : infoPage === 'tietoa' ? TIETOA_URL : null
-  const pageTitle = infoPage === 'lahteet' ? 'Lähteet ja lisenssit' : infoPage === 'tietoa' ? 'Tietoa' : ''
+  const pageUrl = infoPage === 'lahteet' ? LAHTEET_URL : infoPage === 'tietoa' ? TIETOA_URL : infoPage === 'paivitykset' ? UPDATES_URL : null
+  const pageTitle = infoPage === 'lahteet' ? 'Lähteet ja lisenssit' : infoPage === 'tietoa' ? 'Tietoa' : infoPage === 'paivitykset' ? 'Päivitykset' : ''
 
   useEffect(() => {
     const showMainSplash = infoPage === null
@@ -127,6 +128,9 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
           </button>
           <button type="button" className="splash-info-btn" onClick={() => openInfoPage('tietoa')}>
             Tietoa
+          </button>
+          <button type="button" className="splash-info-btn" onClick={() => openInfoPage('paivitykset')}>
+            Päivitykset
           </button>
           <button type="button" className="splash-info-btn" onClick={() => openInfoPage('lahteet')}>
             Lähteet ja lisenssit

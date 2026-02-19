@@ -1,16 +1,25 @@
 import { useCallback, useEffect, useState } from 'react'
-import type { WordPair, WordsDirection, WordsDifficulty } from '../types/game'
-import { loadWordsCSV } from '../lib/wordsData'
+import type { WordEntry, WordPair, WordCardPrompt, WordsDirection, WordsDifficulty } from '../types/game'
 import {
   checkWordAnswer,
   generateWordOptions,
   getPromptAndAnswer,
-  selectPairFromPool,
+  isWordCardPrompt,
+  shuffleWordPool,
 } from '../lib/wordsGameLogic'
 import { getAssetUrl } from '../lib/assetUrl'
 import { playCorrect, playRoundComplete, playWrong } from '../lib/sound'
+import { getReviewList, getLyhenteetReviewList } from '../lib/reviewListStorage'
 
-const MAX_ROUNDS = 10
+function isSamePair(a: WordPair, b: WordPair): boolean {
+  return a.russian === b.russian && a.finnish === b.finnish
+}
+
+function isSameLyhenteet(a: WordCardPrompt, b: WordCardPrompt): boolean {
+  return a.prompt === b.prompt && a.correct === b.correct
+}
+
+const ROUNDS_PER_GAME = 10
 const POINTS_PER_CORRECT = 1
 
 interface WordsGameViewProps {
@@ -18,7 +27,19 @@ interface WordsGameViewProps {
   difficulty: WordsDifficulty
   directionLabel: string
   /** Pre-filtered word pool (e.g. one module). When provided, CSV is not loaded. */
-  initialPool?: WordPair[]
+  initialPool?: WordEntry[]
+  /** When true (e.g. 1.2 Lyhenteet), prompt text uses same size as option buttons. */
+  compactPrompt?: boolean
+  /** When set, show "Lisää sana kerrattavaan sanastoon" for current word (1.1.1–1.1.7). */
+  onAddToReview?: (pair: WordPair) => void
+  /** When true (1.1.8), show "Poista sana kerrattavalta listalta" and call onRemoveFromReview. */
+  isReviewList?: boolean
+  onRemoveFromReview?: (pair: WordPair) => void
+  /** Lyhenteet (1.2): add current abbreviation to user's kerrattava list. */
+  onAddToLyhenteetReview?: (entry: WordCardPrompt) => void
+  /** Lyhenteet (1.2.7): playing from kerrattava list; show remove and advance on remove. */
+  isLyhenteetReviewList?: boolean
+  onRemoveFromLyhenteetReview?: (entry: WordCardPrompt) => void
   muted: boolean
   onToggleMute: () => void
   onBack: () => void
@@ -38,12 +59,21 @@ export function WordsGameView({
   difficulty: _difficulty,
   directionLabel,
   initialPool,
+  compactPrompt = false,
+  onAddToReview,
+  isReviewList = false,
+  onRemoveFromReview,
+  onAddToLyhenteetReview,
+  isLyhenteetReviewList = false,
+  onRemoveFromLyhenteetReview,
   muted,
   onToggleMute,
   onBack,
   onRoundComplete,
 }: WordsGameViewProps) {
-  const [pool, setPool] = useState<WordPair[]>(initialPool ?? [])
+  const [pool, setPool] = useState<WordEntry[]>(initialPool ?? [])
+  /** Shuffled order of up to 10 words for this game – each word asked at most once per game */
+  const [roundOrder, setRoundOrder] = useState<WordEntry[]>([])
   const [loadError, setLoadError] = useState<string | null>(null)
   const [loading, setLoading] = useState(!initialPool)
 
@@ -55,42 +85,55 @@ export function WordsGameView({
   const [round, setRound] = useState(1)
   const [score, setScore] = useState(0)
   const [gameOver, setGameOver] = useState(false)
+  /** When onAddToReview is set, track review list so we can show add vs remove and keep in sync. */
+  const [reviewList, setReviewList] = useState<WordPair[]>(() => (onAddToReview ? getReviewList() : []))
+  /** When onAddToLyhenteetReview is set, track Lyhenteet review list. */
+  const [lyhenteetReviewList, setLyhenteetReviewList] = useState<WordCardPrompt[]>(() =>
+    onAddToLyhenteetReview ? getLyhenteetReviewList() : []
+  )
+
+  const unlimitedRounds = isReviewList || isLyhenteetReviewList
+  const maxRounds = roundOrder.length
 
   useEffect(() => {
-    if (initialPool != null) {
+    if (onAddToReview) setReviewList(getReviewList())
+  }, [onAddToReview])
+
+  useEffect(() => {
+    if (onAddToLyhenteetReview) setLyhenteetReviewList(getLyhenteetReviewList())
+  }, [onAddToLyhenteetReview])
+
+  useEffect(() => {
+    if (initialPool != null && initialPool.length > 0) {
       setPool(initialPool)
+      setRoundOrder([])
       setLoading(false)
       setLoadError(null)
       return
     }
-    let cancelled = false
-    setLoading(true)
-    setLoadError(null)
-    loadWordsCSV()
-      .then((pairs) => {
-        if (!cancelled) setPool(pairs)
-      })
-      .catch((err) => {
-        if (!cancelled) setLoadError(err instanceof Error ? err.message : String(err))
-      })
-      .finally(() => {
-        if (!cancelled) setLoading(false)
-      })
-    return () => {
-      cancelled = true
-    }
+    setPool([])
+    setRoundOrder([])
+    setLoading(false)
+    setLoadError(initialPool != null ? 'Sanalistassa täytyy olla vähintään 4 sanaa.' : null)
   }, [initialPool])
 
   const startRound = useCallback(
-    (roundNumber: number) => {
-      if (pool.length < 4) return
-      const pair = selectPairFromPool(pool)
-      if (!pair) return
-      const { prompt: p, correctAnswer: c } = getPromptAndAnswer(pair, direction)
-      const opts = generateWordOptions(c, pool, direction)
-      setPrompt(p)
-      setCorrectAnswer(c)
-      setOptions(opts)
+    (roundNumber: number, order: WordEntry[]) => {
+      if (order.length < 4) return
+      const entry = order[roundNumber - 1]
+      if (!entry) return
+      if (isWordCardPrompt(entry)) {
+        setPrompt(entry.prompt)
+        setCorrectAnswer(entry.correct)
+        setOptions(generateWordOptions(entry.correct, [], direction, entry.wrongOptions))
+      } else {
+        const { prompt: p, correctAnswer: c } = getPromptAndAnswer(entry, direction)
+        const fixedWrong =
+          direction === 'fi-ru' ? entry.russianAlts : entry.finnishAlts
+        setPrompt(p)
+        setCorrectAnswer(c)
+        setOptions(generateWordOptions(c, pool, direction, fixedWrong))
+      }
       setSelectedAnswer(null)
       setShowResult(false)
       setRound(roundNumber)
@@ -101,12 +144,18 @@ export function WordsGameView({
   const startNewGame = useCallback(() => {
     setScore(0)
     setGameOver(false)
-    startRound(1)
-  }, [startRound])
+    const order = unlimitedRounds ? shuffleWordPool(pool) : shuffleWordPool(pool).slice(0, ROUNDS_PER_GAME)
+    setRoundOrder(order)
+    startRound(1, order)
+  }, [pool, startRound, unlimitedRounds])
 
   useEffect(() => {
-    if (pool.length >= 4 && !loading && !gameOver) startRound(1)
-  }, [pool.length, loading, gameOver, startRound])
+    if (pool.length >= 4 && !loading && !gameOver && roundOrder.length === 0) {
+      const order = unlimitedRounds ? shuffleWordPool(pool) : shuffleWordPool(pool).slice(0, ROUNDS_PER_GAME)
+      setRoundOrder(order)
+      startRound(1, order)
+    }
+  }, [pool.length, loading, gameOver, startRound, pool, unlimitedRounds])
 
   const handleOptionClick = (option: string) => {
     if (showResult) return
@@ -122,7 +171,14 @@ export function WordsGameView({
   }
 
   const handleNext = () => {
-    if (round >= MAX_ROUNDS) {
+    if (round >= maxRounds) {
+      if (unlimitedRounds) {
+        const extra = shuffleWordPool(pool)
+        const newOrder = [...roundOrder, ...extra]
+        setRoundOrder(newOrder)
+        startRound(round + 1, newOrder)
+        return
+      }
       playRoundComplete(muted)
       setGameOver(true)
       setPrompt('')
@@ -130,7 +186,7 @@ export function WordsGameView({
       onRoundComplete?.()
       return
     }
-    startRound(round + 1)
+    startRound(round + 1, roundOrder)
   }
 
   if (loading) {
@@ -153,7 +209,7 @@ export function WordsGameView({
           <h2>Sanalistaa ei voitu ladata</h2>
           <p className="placeholder-note">{loadError}</p>
           <p className="words-file-hint">
-            Lisää tiedosto <strong>military-words.csv</strong> kansioon <strong>public/data/</strong>. Sarake A = venäjä, sarake B = suomi. Käytä UTF-8 -merkistöä.
+            Lisää sanatiedosto kansioon <strong>public/data/</strong> (UTF-8, sarake A = venäjä, sarake B = suomi).
           </p>
           <button type="button" className="back-btn" onClick={onBack}>
             ← Takaisin
@@ -208,12 +264,18 @@ export function WordsGameView({
             </button>
           </div>
           <div className="result-scores">
-            <div className="result-score-line">Kierros: {MAX_ROUNDS}/{MAX_ROUNDS}</div>
-            <div className="result-score-line">Oikein: {score}/{MAX_ROUNDS}</div>
+            {unlimitedRounds ? (
+              <div className="result-score-line">Oikein: {score}</div>
+            ) : (
+              <>
+                <div className="result-score-line">Kierros: {maxRounds}/{maxRounds}</div>
+                <div className="result-score-line">Oikein: {score}/{maxRounds}</div>
+              </>
+            )}
           </div>
           <img src={getAssetUrl('assets/complete.png')} alt="" className="result-complete-img" />
-          <h2 className="result-title">Kierros suoritettu!</h2>
-          <p className="result-message">{getAchievementMessage(score)}</p>
+          <h2 className="result-title">{unlimitedRounds ? 'Kaikki kerrattavat tehty!' : 'Kierros suoritettu!'}</h2>
+          <p className="result-message">{unlimitedRounds ? `Oikein ${score} vastausta.` : getAchievementMessage(score)}</p>
           <div className="result-actions">
             <button type="button" className="result-btn result-btn-retry" onClick={startNewGame}>
               Yritä uudelleen
@@ -239,14 +301,91 @@ export function WordsGameView({
   const promptLabel = direction === 'fi-ru' ? 'suomesta' : 'venäjästä'
   const answerLabel = direction === 'fi-ru' ? 'venäjänkielinen' : 'suomenkielinen'
 
+  const currentEntry = roundOrder[round - 1]
+  const currentPair = currentEntry && !isWordCardPrompt(currentEntry) ? (currentEntry as WordPair) : null
+  const currentLyhenteetEntry = currentEntry && isWordCardPrompt(currentEntry) ? (currentEntry as WordCardPrompt) : null
+  const isCurrentInReviewList = currentPair && reviewList.some((p) => isSamePair(p, currentPair))
+  const isCurrentInLyhenteetReviewList =
+    currentLyhenteetEntry && lyhenteetReviewList.some((e) => isSameLyhenteet(e, currentLyhenteetEntry))
+
+  const handleAddToReview = () => {
+    if (currentPair && onAddToReview) {
+      onAddToReview(currentPair)
+      setReviewList((prev) => [...prev, currentPair])
+    }
+  }
+
+  const handleRemoveFromReviewInGame = () => {
+    if (!currentPair || !onRemoveFromReview) return
+    onRemoveFromReview(currentPair)
+    setReviewList((prev) => prev.filter((p) => !isSamePair(p, currentPair)))
+  }
+
+  const handleRemoveFromReview = () => {
+    if (!currentPair || !onRemoveFromReview) return
+    onRemoveFromReview(currentPair)
+    const newOrder = roundOrder.filter((_, i) => i !== round - 1)
+    setRoundOrder(newOrder)
+    if (newOrder.length === 0) {
+      setGameOver(true)
+      setPrompt('')
+      setOptions([])
+      onRoundComplete?.()
+      return
+    }
+    if (round > newOrder.length) {
+      setGameOver(true)
+      setPrompt('')
+      setOptions([])
+      onRoundComplete?.()
+      return
+    }
+    startRound(round, newOrder)
+  }
+
+  const handleAddToLyhenteetReview = () => {
+    if (currentLyhenteetEntry && onAddToLyhenteetReview) {
+      onAddToLyhenteetReview(currentLyhenteetEntry)
+      setLyhenteetReviewList((prev) => [...prev, { ...currentLyhenteetEntry, wrongOptions: [...currentLyhenteetEntry.wrongOptions] }])
+    }
+  }
+
+  const handleRemoveFromLyhenteetReviewInGame = () => {
+    if (!currentLyhenteetEntry || !onRemoveFromLyhenteetReview) return
+    onRemoveFromLyhenteetReview(currentLyhenteetEntry)
+    setLyhenteetReviewList((prev) => prev.filter((e) => !isSameLyhenteet(e, currentLyhenteetEntry!)))
+  }
+
+  const handleRemoveFromLyhenteetReview = () => {
+    if (!currentLyhenteetEntry || !onRemoveFromLyhenteetReview) return
+    onRemoveFromLyhenteetReview(currentLyhenteetEntry)
+    const newOrder = roundOrder.filter((_, i) => i !== round - 1)
+    setRoundOrder(newOrder)
+    if (newOrder.length === 0) {
+      setGameOver(true)
+      setPrompt('')
+      setOptions([])
+      onRoundComplete?.()
+      return
+    }
+    if (round > newOrder.length) {
+      setGameOver(true)
+      setPrompt('')
+      setOptions([])
+      onRoundComplete?.()
+      return
+    }
+    startRound(round, newOrder)
+  }
+
   return (
     <div className="app">
       <div className="game-view game-view-quiz">
         <div className="quiz-header">
           <span className="quiz-breadcrumb">Venäjä → Sotilasvenäjän sanasto → {directionLabel}</span>
           <div className="quiz-progress">
-            <span className="quiz-progress-line">Kierros: {round}/{MAX_ROUNDS}</span>
-            <span className="quiz-progress-line">Oikein: {score}/{MAX_ROUNDS}</span>
+            <span className="quiz-progress-line">{unlimitedRounds ? `Kierros: ${round}` : `Kierros: ${round}/${maxRounds}`}</span>
+            <span className="quiz-progress-line">{unlimitedRounds ? `Oikein: ${score}` : `Oikein: ${score}/${maxRounds}`}</span>
           </div>
           <div className="quiz-header-actions">
             <button
@@ -264,7 +403,7 @@ export function WordsGameView({
           </div>
         </div>
 
-        <div className="quiz-words-prompt-wrap">
+        <div className={`quiz-words-prompt-wrap${compactPrompt ? ' quiz-words-prompt-wrap--compact' : ''}`}>
           <p className="quiz-words-prompt-label">Käännä {promptLabel}</p>
           <p className="quiz-words-prompt" lang={direction === 'fi-ru' ? 'fi' : 'ru'}>
             {prompt}
@@ -272,6 +411,39 @@ export function WordsGameView({
         </div>
 
         <p className="quiz-prompt">Valitse oikea {answerLabel} käännös</p>
+
+        {onAddToReview && currentPair && !isReviewList && (
+          isCurrentInReviewList ? (
+            <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromReviewInGame}>
+              Poista sana kerrattavalta listalta
+            </button>
+          ) : (
+            <button type="button" className="quiz-review-btn quiz-review-btn--add" onClick={handleAddToReview}>
+              Lisää sana kerrattavaan sanastoon
+            </button>
+          )
+        )}
+        {isReviewList && onRemoveFromReview && currentPair && (
+          <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromReview}>
+            Poista sana kerrattavalta listalta
+          </button>
+        )}
+        {onAddToLyhenteetReview && currentLyhenteetEntry && !isLyhenteetReviewList && (
+          isCurrentInLyhenteetReviewList ? (
+            <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromLyhenteetReviewInGame}>
+              Poista lyhenne kerrattavalta listalta
+            </button>
+          ) : (
+            <button type="button" className="quiz-review-btn quiz-review-btn--add" onClick={handleAddToLyhenteetReview}>
+              Lisää lyhenne kerrattavaan listaan
+            </button>
+          )
+        )}
+        {isLyhenteetReviewList && onRemoveFromLyhenteetReview && currentLyhenteetEntry && (
+          <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromLyhenteetReview}>
+            Poista lyhenne kerrattavalta listalta
+          </button>
+        )}
 
         <div className="quiz-options">
           {options.map((option) => (

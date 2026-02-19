@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import type { RanksBranchId } from '../data/ranksData'
 import type { RankGameEntry, RanksLanguage } from '../lib/ranksLogic'
 import {
@@ -8,6 +8,7 @@ import {
   getRanksPool,
   selectRankFromPool,
 } from '../lib/ranksLogic'
+import { getRanksReviewEntries, type RanksReviewEntry } from '../lib/reviewListStorage'
 import { getAssetUrl } from '../lib/assetUrl'
 import { playCorrect, playRoundComplete, playWrong } from '../lib/sound'
 
@@ -17,6 +18,11 @@ const POINTS_PER_CORRECT = 1
 interface RanksGameViewProps {
   branch: RanksBranchId
   language: RanksLanguage
+  /** When set, use this pool instead of getRanksPool(branch, language). Used for "Käyttäjän kerrattava". */
+  initialPool?: RankGameEntry[]
+  onAddToRanksReview?: (entry: RankGameEntry) => void
+  onRemoveFromRanksReview?: (entry: RankGameEntry) => void
+  isRanksReviewList?: boolean
   muted: boolean
   onToggleMute: () => void
   onBack: () => void
@@ -36,28 +42,54 @@ const BRANCH_LABEL: Record<RanksBranchId, string> = {
   merivoimat: 'Merivoimat',
 }
 
-export function RanksGameView({ branch, language, muted, onToggleMute, onBack, onRoundComplete }: RanksGameViewProps) {
-  const [pool, setPool] = useState<RankGameEntry[]>([])
+export function RanksGameView({
+  branch,
+  language,
+  initialPool: initialPoolProp,
+  onAddToRanksReview,
+  onRemoveFromRanksReview,
+  isRanksReviewList = false,
+  muted,
+  onToggleMute,
+  onBack,
+  onRoundComplete,
+}: RanksGameViewProps) {
+  const [pool, setPool] = useState<RankGameEntry[]>(initialPoolProp ?? [])
   const [currentEntry, setCurrentEntry] = useState<RankGameEntry | null>(null)
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null)
   const [showResult, setShowResult] = useState(false)
   const [round, setRound] = useState(1)
   const [score, setScore] = useState(0)
   const [gameOver, setGameOver] = useState(false)
+  /** When onAddToRanksReview is set, track review list so add/remove button updates immediately. */
+  const [ranksReviewEntries, setRanksReviewEntries] = useState<RanksReviewEntry[]>(() =>
+    onAddToRanksReview || onRemoveFromRanksReview ? getRanksReviewEntries() : []
+  )
 
-  const startRound = useCallback((roundNumber: number) => {
-    const ranksPool = getRanksPool(branch, language)
-    setPool(ranksPool)
-    const entry = selectRankFromPool(ranksPool)
-    if (!entry) {
-      setCurrentEntry(null)
-      return
-    }
-    setCurrentEntry(entry)
-    setSelectedAnswer(null)
-    setShowResult(false)
-    setRound(roundNumber)
-  }, [branch, language])
+  useEffect(() => {
+    if (onAddToRanksReview || onRemoveFromRanksReview) setRanksReviewEntries(getRanksReviewEntries())
+  }, [onAddToRanksReview, onRemoveFromRanksReview])
+
+  const startRound = useCallback(
+    (roundNumber: number) => {
+      const ranksPool = initialPoolProp != null && initialPoolProp.length > 0 ? initialPoolProp : getRanksPool(branch, language)
+      if (initialPoolProp != null && initialPoolProp.length > 0) {
+        setPool(initialPoolProp)
+      } else {
+        setPool(getRanksPool(branch, language))
+      }
+      const entry = selectRankFromPool(ranksPool)
+      if (!entry) {
+        setCurrentEntry(null)
+        return
+      }
+      setCurrentEntry(entry)
+      setSelectedAnswer(null)
+      setShowResult(false)
+      setRound(roundNumber)
+    },
+    [branch, language, initialPoolProp]
+  )
 
   const startNewGame = useCallback(() => {
     setScore(0)
@@ -66,8 +98,31 @@ export function RanksGameView({ branch, language, muted, onToggleMute, onBack, o
   }, [startRound])
 
   useEffect(() => {
+    if (initialPoolProp != null && initialPoolProp.length > 0) {
+      setPool(initialPoolProp)
+    }
+  }, [initialPoolProp])
+
+  useEffect(() => {
     startRound(1)
   }, [startRound])
+
+  const prevReviewPoolLengthRef = useRef<number | null>(null)
+  // When in review mode and parent updates pool (after remove), refresh current question or end game if empty
+  useEffect(() => {
+    if (!isRanksReviewList || initialPoolProp == null) return
+    if (initialPoolProp.length === 0) {
+      setGameOver(true)
+      setCurrentEntry(null)
+      onRoundComplete?.()
+      prevReviewPoolLengthRef.current = 0
+      return
+    }
+    if (prevReviewPoolLengthRef.current != null && initialPoolProp.length < prevReviewPoolLengthRef.current) {
+      startRound(round)
+    }
+    prevReviewPoolLengthRef.current = initialPoolProp.length
+  }, [initialPoolProp, isRanksReviewList])
 
   // Derive options and correctAnswer from current language at render time (so Venäjäksi always shows Russian)
   const options = useMemo(() => {
@@ -94,6 +149,10 @@ export function RanksGameView({ branch, language, muted, onToggleMute, onBack, o
   }
 
   const handleNext = () => {
+    if (isRanksReviewList) {
+      startRound(round + 1)
+      return
+    }
     if (round >= MAX_ROUNDS) {
       playRoundComplete(muted)
       setGameOver(true)
@@ -102,6 +161,38 @@ export function RanksGameView({ branch, language, muted, onToggleMute, onBack, o
       return
     }
     startRound(round + 1)
+  }
+
+  const isCurrentInRanksReviewList =
+    currentEntry != null &&
+    ranksReviewEntries.some(
+      (e) => e.branch === currentEntry.branch && e.language === language && e.termFi === currentEntry.termFi
+    )
+
+  const handleAddToRanksReview = () => {
+    if (currentEntry && onAddToRanksReview) {
+      onAddToRanksReview(currentEntry)
+      setRanksReviewEntries((prev) => {
+        const entry = { branch: currentEntry.branch, language, termFi: currentEntry.termFi }
+        if (prev.some((e) => e.branch === entry.branch && e.language === entry.language && e.termFi === entry.termFi)) return prev
+        return [...prev, entry]
+      })
+    }
+  }
+
+  const handleRemoveFromRanksReviewInGame = () => {
+    if (currentEntry && onRemoveFromRanksReview) {
+      onRemoveFromRanksReview(currentEntry)
+      setRanksReviewEntries((prev) =>
+        prev.filter(
+          (e) => !(e.branch === currentEntry.branch && e.language === language && e.termFi === currentEntry.termFi)
+        )
+      )
+    }
+  }
+
+  const handleRemoveFromRanksReviewAndAdvance = () => {
+    if (currentEntry && onRemoveFromRanksReview) onRemoveFromRanksReview(currentEntry)
   }
 
   if (pool.length === 0 && !currentEntry && !gameOver) {
@@ -138,12 +229,18 @@ export function RanksGameView({ branch, language, muted, onToggleMute, onBack, o
             </button>
           </div>
           <div className="result-scores">
-            <div className="result-score-line">Kierros: {MAX_ROUNDS}/{MAX_ROUNDS}</div>
-            <div className="result-score-line">Oikein: {score}/{MAX_ROUNDS}</div>
+            {isRanksReviewList ? (
+              <div className="result-score-line">Oikein: {score}</div>
+            ) : (
+              <>
+                <div className="result-score-line">Kierros: {MAX_ROUNDS}/{MAX_ROUNDS}</div>
+                <div className="result-score-line">Oikein: {score}/{MAX_ROUNDS}</div>
+              </>
+            )}
           </div>
           <img src={getAssetUrl('assets/complete.png')} alt="" className="result-complete-img" />
-          <h2 className="result-title">Kierros suoritettu!</h2>
-          <p className="result-message">{getAchievementMessage(score)}</p>
+          <h2 className="result-title">{isRanksReviewList ? 'Kaikki kerrattavat tehty!' : 'Kierros suoritettu!'}</h2>
+          <p className="result-message">{isRanksReviewList ? `Oikein ${score} vastausta.` : getAchievementMessage(score)}</p>
           <div className="result-actions">
             <button type="button" className="result-btn result-btn-retry" onClick={startNewGame}>
               Yritä uudelleen
@@ -176,8 +273,8 @@ export function RanksGameView({ branch, language, muted, onToggleMute, onBack, o
         <div className="quiz-header">
           <span className="quiz-breadcrumb">{breadcrumb}</span>
           <div className="quiz-progress">
-            <span className="quiz-progress-line">Kierros: {round}/{MAX_ROUNDS}</span>
-            <span className="quiz-progress-line">Oikein: {score}/{MAX_ROUNDS}</span>
+            <span className="quiz-progress-line">{isRanksReviewList ? `Kierros: ${round}` : `Kierros: ${round}/${MAX_ROUNDS}`}</span>
+            <span className="quiz-progress-line">{isRanksReviewList ? `Oikein: ${score}` : `Oikein: ${score}/${MAX_ROUNDS}`}</span>
           </div>
           <div className="quiz-header-actions">
             <button
@@ -204,6 +301,23 @@ export function RanksGameView({ branch, language, muted, onToggleMute, onBack, o
         </div>
 
         <p className="quiz-prompt">Mikä sotilasarvo tämä on?</p>
+
+        {onAddToRanksReview && currentEntry && !isRanksReviewList && (
+          isCurrentInRanksReviewList ? (
+            <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromRanksReviewInGame}>
+              Poista arvo kerrattavalta listalta
+            </button>
+          ) : (
+            <button type="button" className="quiz-review-btn quiz-review-btn--add" onClick={handleAddToRanksReview}>
+              Lisää arvo kerrattavaan listaan
+            </button>
+          )
+        )}
+        {isRanksReviewList && onRemoveFromRanksReview && currentEntry && (
+          <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromRanksReviewAndAdvance}>
+            Poista arvo kerrattavalta listalta
+          </button>
+        )}
 
         <div className="quiz-options">
           {options.map((option) => (

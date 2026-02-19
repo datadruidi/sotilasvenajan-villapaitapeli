@@ -1,18 +1,25 @@
 /**
- * Copies README.md from project root to public/README.md so the "Tietoa" screen can load it.
+ * Copies README.md and UPDATES.md from project root to public/ so the splash screens can load them.
  * Run before build: npm run build (uses prebuild) or node scripts/copy-readme.cjs
+ * Edit only the root files; do not edit public/README.md or public/UPDATES.md by hand.
  */
 const fs = require('fs')
 const path = require('path')
 
 const root = path.join(__dirname, '..')
-const src = path.join(root, 'README.md')
-const dest = path.join(root, 'public', 'README.md')
 
-if (!fs.existsSync(src)) {
-  console.warn('README.md not found at project root, skipping copy.')
-  process.exit(0)
+const copies = [
+  { src: 'README.md', dest: 'README.md' },
+  { src: 'UPDATES.md', dest: 'UPDATES.md' },
+]
+
+for (const { src, dest } of copies) {
+  const srcPath = path.join(root, src)
+  const destPath = path.join(root, 'public', dest)
+  if (!fs.existsSync(srcPath)) {
+    console.warn(`${src} not found at project root, skipping copy.`)
+    continue
+  }
+  fs.copyFileSync(srcPath, destPath)
+  console.log(`Copied ${src} to public/${dest}`)
 }
-
-fs.copyFileSync(src, dest)
-console.log('Copied README.md to public/README.md')

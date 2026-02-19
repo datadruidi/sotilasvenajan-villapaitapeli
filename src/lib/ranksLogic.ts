@@ -88,6 +88,22 @@ export function getRanksPool(branch: RanksBranchId, _language: RanksLanguage): R
   return buildPoolFromPaths(paths, branch, branch)
 }
 
+/** Build pool for user's kerrattava list from stored { branch, language, termFi } entries. Uses only entries for the given language. */
+export function getRanksReviewPool(
+  entries: { branch: RanksBranchId; language: RanksLanguage; termFi: string }[],
+  language: RanksLanguage
+): RankGameEntry[] {
+  const forLang = entries.filter((e) => e.language === language)
+  if (forLang.length === 0) return []
+  const fullMaavoimat = getRanksPool('maavoimat', language)
+  const fullMerivoimat = getRanksPool('merivoimat', language)
+  const termFiSetMaavoimat = new Set(forLang.filter((e) => e.branch === 'maavoimat').map((e) => e.termFi))
+  const termFiSetMerivoimat = new Set(forLang.filter((e) => e.branch === 'merivoimat').map((e) => e.termFi))
+  const fromMaavoimat = fullMaavoimat.filter((e) => termFiSetMaavoimat.has(e.termFi))
+  const fromMerivoimat = fullMerivoimat.filter((e) => termFiSetMerivoimat.has(e.termFi))
+  return [...fromMaavoimat, ...fromMerivoimat]
+}
+
 export function selectRankFromPool(pool: RankGameEntry[]): RankGameEntry | null {
   if (pool.length === 0) return null
   const index = Math.floor(Math.random() * pool.length)

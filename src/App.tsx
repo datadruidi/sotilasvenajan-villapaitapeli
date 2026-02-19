@@ -9,14 +9,16 @@ import { SplashScreen } from './components/SplashScreen'
 import { WordsGameView } from './components/WordsGameView'
 import { getRoundsKey, getRounds, incrementRounds, formatRoundsDisplay } from './lib/roundsStorage'
 import { playButtonClick } from './lib/sound'
-import { loadWordsCSV } from './lib/wordsData'
+import { loadWordsCSV, PERUSSANASTO_LABELS, SOTILASSANASTO_MENU_IDS, LYHENTEET_LIST_IDS, isPerussanastoListId, isLyhenteetListId } from './lib/wordsData'
+import { getReviewList, addToReviewList, removeFromReviewList, getLyhenteetReviewList, addToLyhenteetReviewList, removeFromLyhenteetReviewList, getGarrisonsReviewIds, addToGarrisonsReviewList, removeFromGarrisonsReviewList, getRanksReviewEntries, addToRanksReviewList, removeFromRanksReviewList } from './lib/reviewListStorage'
 import type { WordsListId } from './lib/wordsData'
-import type { GarrisonRegionId } from './data/garrisonsData'
+import { getGarrisonsPoolFromIds } from './data/garrisonsData'
+import type { GarrisonEntry, GarrisonRegionId } from './data/garrisonsData'
 import type { RanksBranchId } from './data/ranksData'
+import { getRanksReviewPool } from './lib/ranksLogic'
 import type { RanksLanguage } from './lib/ranksLogic'
-import type { NavySubMode, VehicleBranch, WordPair, WordsDirection, WordsDifficulty } from './types/game'
-
-const WORDS_MODULE_SIZE = 50
+import type { RankGameEntry } from './lib/ranksLogic'
+import type { NavySubMode, VehicleBranch, WordEntry, WordsDirection, WordsDifficulty } from './types/game'
 
 type ContentType = 'vehicles' | 'words' | 'garrisons' | 'local-forces' | 'tactical-signs' | 'ranks' | 'venajan-asevoimat'
 
@@ -27,6 +29,10 @@ const WORDS_DIRECTIONS: { id: WordsDirection; label: string }[] = [
   { id: 'fi-ru', label: '1.1. Suomi → Venäjä' },
   { id: 'ru-fi', label: '1.2. Venäjä → Suomi' },
 ]
+const WORDS_DIRECTION_POPUP_LABELS: Record<WordsDirection, string> = {
+  'fi-ru': 'Vastaa suomeksi',
+  'ru-fi': 'Vastaa по-русски',
+}
 
 const CONTENT_TYPES: { id: ContentType; label: string; available: boolean }[] = [
   { id: 'words', label: '1. Sotilasvenäjän sanasto', available: true },
@@ -86,24 +92,30 @@ function App() {
   const [selectedBranch, setSelectedBranch] = useState<VehicleBranch | null>(null)
   const [selectedNavySubMode, setSelectedNavySubMode] = useState<NavySubMode | null>(null)
   const [selectedWordsDirection, setSelectedWordsDirection] = useState<WordsDirection | null>(null)
-  const [selectedWordsModuleIndex, setSelectedWordsModuleIndex] = useState<number | null>(null)
+  const [showDirectionPopup, setShowDirectionPopup] = useState(false)
+  const [pendingWordsListId, setPendingWordsListId] = useState<WordsListId | null>(null)
   const [selectedWordsDifficulty, setSelectedWordsDifficulty] = useState<WordsDifficulty | null>(null)
   const [selectedGarrisonRegion, setSelectedGarrisonRegion] = useState<GarrisonRegionId | null>(null)
+  const [garrisonsReviewPool, setGarrisonsReviewPool] = useState<GarrisonEntry[] | null>(null)
+  const [garrisonsReviewError, setGarrisonsReviewError] = useState<string | null>(null)
   const [selectedGarrisonDistrict, setSelectedGarrisonDistrict] = useState<string | null>(null)
   const [selectedTacticalSignsSubset, setSelectedTacticalSignsSubset] = useState<'sotilasmerkisto' | 'joukkojen-koko' | null>(null)
   const [selectedRanksBranch, setSelectedRanksBranch] = useState<RanksBranchId | null>(null)
   const [selectedRanksLanguage, setSelectedRanksLanguage] = useState<RanksLanguage | null>(null)
+  const [ranksReviewPool, setRanksReviewPool] = useState<RankGameEntry[] | null>(null)
+  const [ranksReviewLanguage, setRanksReviewLanguage] = useState<RanksLanguage | null>(null)
+  const [ranksReviewError, setRanksReviewError] = useState<string | null>(null)
   const [showSplash, setShowSplash] = useState(true)
   const [view, setView] = useState<'landing' | 'vehicles-game' | 'words-game' | 'garrisons-game' | 'tactical-signs-game' | 'ranks-game'>('landing')
   const [showLadataanIkkuna, setShowLadataanIkkuna] = useState(false)
   const [pendingView, setPendingView] = useState<'vehicles-game' | 'words-game' | 'garrisons-game' | 'tactical-signs-game' | 'ranks-game' | null>(null)
 
-  const [wordsPool, setWordsPool] = useState<WordPair[]>([])
+  const [selectedWordsCategory, setSelectedWordsCategory] = useState<'sotilassanasto' | 'lyhenteet' | null>(null)
   const [selectedWordsList, setSelectedWordsList] = useState<WordsListId | null>(null)
-  const [alkeetPool, setAlkeetPool] = useState<WordPair[]>([])
-  const [alkeetLoading, setAlkeetLoading] = useState(false)
-  const [alkeetLoadError, setAlkeetLoadError] = useState<string | null>(null)
-  const startAlkeetGameWhenLoadedRef = useRef(false)
+  const [perussanastoPool, setPerussanastoPool] = useState<WordEntry[]>([])
+  const [perussanastoLoading, setPerussanastoLoading] = useState(false)
+  const [perussanastoLoadError, setPerussanastoLoadError] = useState<string | null>(null)
+  const startPerussanastoGameWhenLoadedRef = useRef(false)
   const toggleMute = () => {
     setMuted((prev) => {
       const next = !prev
@@ -115,9 +127,6 @@ function App() {
       return next
     })
   }
-
-  const [wordsLoading, setWordsLoading] = useState(false)
-  const [wordsLoadError, setWordsLoadError] = useState<string | null>(null)
 
   useEffect(() => {
     if (showSplash) {
@@ -154,37 +163,31 @@ function App() {
   }
 
   useEffect(() => {
-    if (selectedContentType !== 'words') return
-    let cancelled = false
-    setWordsLoading(true)
-    setWordsLoadError(null)
-    loadWordsCSV('sanasto')
-      .then((pairs) => {
-        if (!cancelled) setWordsPool(pairs)
-      })
-      .catch((err) => {
-        if (!cancelled) setWordsLoadError(err instanceof Error ? err.message : String(err))
-      })
-      .finally(() => {
-        if (!cancelled) setWordsLoading(false)
-      })
-    return () => {
-      cancelled = true
+    if (selectedContentType !== 'words' || !selectedWordsList) return
+    if (selectedWordsList === 'kerrattava-sanasto') return
+    if (!isPerussanastoListId(selectedWordsList) && !isLyhenteetListId(selectedWordsList)) return
+    if (selectedWordsList === 'lyhenteet-kerrattava') {
+      const list = getLyhenteetReviewList()
+      setPerussanastoPool(list)
+      setPerussanastoLoadError(null)
+      setPerussanastoLoading(false)
+      if (startPerussanastoGameWhenLoadedRef.current && list.length >= 4) {
+        startPerussanastoGameWhenLoadedRef.current = false
+        setSelectedWordsDifficulty('easy')
+        setPendingView('words-game')
+        setShowLadataanIkkuna(true)
+      }
+      return
     }
-  }, [selectedContentType])
-
-  useEffect(() => {
-    if (selectedWordsList !== 'rintamavenajan-alkeet' || selectedContentType !== 'words') return
     let cancelled = false
-    setAlkeetLoading(true)
-    setAlkeetLoadError(null)
-    loadWordsCSV('rintamavenajan-alkeet')
+    setPerussanastoLoadError(null)
+    setPerussanastoLoading(true)
+    loadWordsCSV(selectedWordsList)
       .then((pairs) => {
         if (!cancelled) {
-          setAlkeetPool(pairs)
-          if (startAlkeetGameWhenLoadedRef.current && pairs.length >= 4) {
-            startAlkeetGameWhenLoadedRef.current = false
-            setSelectedWordsModuleIndex(0)
+          setPerussanastoPool(pairs)
+          if (startPerussanastoGameWhenLoadedRef.current && pairs.length >= 4) {
+            startPerussanastoGameWhenLoadedRef.current = false
             setSelectedWordsDifficulty('easy')
             setPendingView('words-game')
             setShowLadataanIkkuna(true)
@@ -193,17 +196,17 @@ function App() {
       })
       .catch((err) => {
         if (!cancelled) {
-          setAlkeetLoadError(err instanceof Error ? err.message : String(err))
-          startAlkeetGameWhenLoadedRef.current = false
+          setPerussanastoLoadError(err instanceof Error ? err.message : String(err))
+          startPerussanastoGameWhenLoadedRef.current = false
         }
       })
       .finally(() => {
-        if (!cancelled) setAlkeetLoading(false)
+        if (!cancelled) setPerussanastoLoading(false)
       })
     return () => {
       cancelled = true
     }
-  }, [selectedWordsList, selectedContentType])
+  }, [selectedContentType, selectedWordsList])
 
   const startVehiclesGame = (branch: VehicleBranch, navySubMode?: NavySubMode) => {
     setSelectedBranch(branch)
@@ -218,14 +221,19 @@ function App() {
     setShowLadataanIkkuna(true)
   }
 
-  const startWordsGame = (difficulty: WordsDifficulty) => {
-    setSelectedWordsDifficulty(difficulty)
-    setPendingView('words-game')
+  const startGarrisonsGame = (region: GarrisonRegionId) => {
+    setSelectedGarrisonRegion(region)
+    setGarrisonsReviewPool(null)
+    setPendingView('garrisons-game')
     setShowLadataanIkkuna(true)
   }
 
-  const startGarrisonsGame = (region: GarrisonRegionId) => {
-    setSelectedGarrisonRegion(region)
+  const startGarrisonsReviewGame = () => {
+    const ids = getGarrisonsReviewIds()
+    const pool = getGarrisonsPoolFromIds(ids)
+    if (pool.length < 4) return
+    setGarrisonsReviewPool(pool)
+    setSelectedGarrisonRegion(null)
     setPendingView('garrisons-game')
     setShowLadataanIkkuna(true)
   }
@@ -239,8 +247,23 @@ function App() {
   const startRanksGame = (branch: RanksBranchId, language: RanksLanguage) => {
     setSelectedRanksBranch(branch)
     setSelectedRanksLanguage(language)
+    setRanksReviewPool(null)
+    setRanksReviewLanguage(null)
     setPendingView('ranks-game')
     setShowLadataanIkkuna(true)
+  }
+
+  const startRanksReviewGame = (language: RanksLanguage) => {
+    const entries = getRanksReviewEntries()
+    const pool = getRanksReviewPool(entries, language)
+    if (pool.length < 4) return false
+    setRanksReviewPool(pool)
+    setRanksReviewLanguage(language)
+    setSelectedRanksBranch(null)
+    setSelectedRanksLanguage(null)
+    setPendingView('ranks-game')
+    setShowLadataanIkkuna(true)
+    return true
   }
 
   const finishLadataanIkkuna = () => {
@@ -255,24 +278,24 @@ function App() {
     setShowLadataanIkkuna(false)
     setSelectedBranch(null)
     setSelectedNavySubMode(null)
+    setSelectedWordsCategory(null)
     setSelectedWordsList(null)
+    setPerussanastoPool([])
+    setPerussanastoLoadError(null)
     setSelectedContentType(null)
     setSelectedWordsDirection(null)
-    setSelectedWordsModuleIndex(null)
+    setShowDirectionPopup(false)
+    setPendingWordsListId(null)
     setSelectedWordsDifficulty(null)
     setSelectedGarrisonRegion(null)
+    setGarrisonsReviewPool(null)
     setSelectedGarrisonDistrict(null)
     setSelectedTacticalSignsSubset(null)
     setSelectedRanksBranch(null)
     setSelectedRanksLanguage(null)
-  }
-
-  const currentWordsPool = selectedWordsList === 'rintamavenajan-alkeet' ? alkeetPool : wordsPool
-  const wordsModuleCount =
-    currentWordsPool.length === 0 ? 0 : Math.ceil(currentWordsPool.length / WORDS_MODULE_SIZE)
-  const getModulePool = (moduleIndex: number): WordPair[] => {
-    const start = moduleIndex * WORDS_MODULE_SIZE
-    return currentWordsPool.slice(start, start + WORDS_MODULE_SIZE)
+    setRanksReviewPool(null)
+    setRanksReviewLanguage(null)
+    setRanksReviewError(null)
   }
 
   const handleSplashPlay = () => {
@@ -303,11 +326,19 @@ function App() {
     )
   }
 
-  if (view === 'garrisons-game' && selectedGarrisonRegion) {
-    const garrisonsKey = getRoundsKey('garrisons', selectedGarrisonRegion)
+  if (view === 'garrisons-game' && (selectedGarrisonRegion || (garrisonsReviewPool != null && garrisonsReviewPool.length > 0))) {
+    const isReview = garrisonsReviewPool != null && garrisonsReviewPool.length > 0
+    const garrisonsKey = getRoundsKey('garrisons', isReview ? 'kerrattava' : selectedGarrisonRegion!)
     return (
       <GarrisonsGameView
-        region={selectedGarrisonRegion}
+        region={isReview ? 'kaikki' : selectedGarrisonRegion!}
+        initialPool={isReview ? garrisonsReviewPool : undefined}
+        onAddToGarrisonReview={!isReview ? (entry) => addToGarrisonsReviewList(entry.id) : undefined}
+        onRemoveFromGarrisonReview={(entry) => {
+          removeFromGarrisonsReviewList(entry.id)
+          if (isReview) setGarrisonsReviewPool((prev) => (prev ? prev.filter((e) => e.id !== entry.id) : null))
+        }}
+        isGarrisonReviewList={isReview}
         muted={muted}
         onToggleMute={toggleMute}
         onBack={backToLanding}
@@ -329,13 +360,23 @@ function App() {
     )
   }
 
-  if (view === 'ranks-game' && selectedRanksBranch && selectedRanksLanguage) {
-    const ranksKey = getRoundsKey('ranks', `${selectedRanksBranch}_${selectedRanksLanguage}`)
+  if (view === 'ranks-game' && ((selectedRanksBranch && selectedRanksLanguage) || (ranksReviewPool != null && ranksReviewPool.length > 0 && ranksReviewLanguage != null))) {
+    const isReview = ranksReviewPool != null && ranksReviewPool.length > 0 && ranksReviewLanguage != null
+    const branch = isReview ? ranksReviewPool[0].branch : selectedRanksBranch!
+    const language = isReview ? ranksReviewLanguage : selectedRanksLanguage!
+    const ranksKey = getRoundsKey('ranks', isReview ? `kerrattava_${language}` : `${selectedRanksBranch}_${selectedRanksLanguage}`)
     return (
       <RanksGameView
-        key={`ranks-${selectedRanksBranch}-${selectedRanksLanguage}`}
-        branch={selectedRanksBranch}
-        language={selectedRanksLanguage}
+        key={isReview ? `ranks-kerrattava-${language}` : `ranks-${selectedRanksBranch}-${selectedRanksLanguage}`}
+        branch={branch}
+        language={language}
+        initialPool={isReview ? ranksReviewPool : undefined}
+        onAddToRanksReview={!isReview ? (entry) => addToRanksReviewList({ branch: entry.branch, language, termFi: entry.termFi }) : undefined}
+        onRemoveFromRanksReview={(entry) => {
+          removeFromRanksReviewList({ branch: entry.branch, language, termFi: entry.termFi })
+          if (isReview) setRanksReviewPool((prev) => (prev ? prev.filter((e) => !(e.branch === entry.branch && e.termFi === entry.termFi)) : null))
+        }}
+        isRanksReviewList={isReview}
         muted={muted}
         onToggleMute={toggleMute}
         onBack={backToLanding}
@@ -344,19 +385,25 @@ function App() {
     )
   }
 
-  if (view === 'words-game' && selectedWordsDirection != null && selectedWordsDifficulty != null && (selectedWordsModuleIndex != null || selectedWordsList === 'rintamavenajan-alkeet')) {
+  if (view === 'words-game' && selectedWordsDirection != null && selectedWordsDifficulty != null && selectedWordsList != null && perussanastoPool.length > 0) {
     const directionLabel = WORDS_DIRECTIONS.find((d) => d.id === selectedWordsDirection)?.label ?? selectedWordsDirection
-    const initialPool = selectedWordsList === 'rintamavenajan-alkeet' ? alkeetPool : getModulePool(selectedWordsModuleIndex ?? 0)
-    const wordsKey =
-      selectedWordsList === 'rintamavenajan-alkeet'
-        ? getRoundsKey('words', `alkeet_${selectedWordsDirection}`)
-        : getRoundsKey('words', `${selectedWordsDirection}_${selectedWordsModuleIndex}`)
+    const initialPool = perussanastoPool
+    const wordsKey = getRoundsKey('words', `${selectedWordsDirection}_${selectedWordsList}`)
+    const isLyhenteet = isLyhenteetListId(selectedWordsList)
+    const isLyhenteetKerrattava = selectedWordsList === 'lyhenteet-kerrattava'
     return (
       <WordsGameView
         direction={selectedWordsDirection}
         difficulty={selectedWordsDifficulty}
         directionLabel={directionLabel}
         initialPool={initialPool}
+        compactPrompt={isLyhenteet}
+        onAddToReview={isPerussanastoListId(selectedWordsList) ? addToReviewList : undefined}
+        isReviewList={selectedWordsList === 'kerrattava-sanasto'}
+        onRemoveFromReview={isPerussanastoListId(selectedWordsList) || selectedWordsList === 'kerrattava-sanasto' ? removeFromReviewList : undefined}
+        onAddToLyhenteetReview={isLyhenteet && !isLyhenteetKerrattava ? addToLyhenteetReviewList : undefined}
+        isLyhenteetReviewList={isLyhenteetKerrattava}
+        onRemoveFromLyhenteetReview={isLyhenteet ? removeFromLyhenteetReviewList : undefined}
         muted={muted}
         onToggleMute={toggleMute}
         onBack={backToLanding}
@@ -478,7 +525,7 @@ function App() {
         </section>
       )}
 
-      {/* Leningradin sotilaspiiri – responsibility areas (Pohjoinen, Etelä, Kaliningrad, Kaikki) */}
+      {/* Leningradin sotilaspiiri – responsibility areas (Pohjoinen, Etelä, Kaliningrad, Kaikki) + Kertaus */}
       {selectedContentType === 'garrisons' && selectedGarrisonDistrict === 'leningrad' && (
         <section className="section">
           <h2 className="section-heading">Leningradin sotilaspiiri</h2>
@@ -493,6 +540,7 @@ function App() {
                   type="button"
                   className="option-btn option-btn-with-rounds"
                   onClick={() => {
+                    setGarrisonsReviewError(null)
                     startGarrisonsGame(r.id)
                   }}
                 >
@@ -501,114 +549,199 @@ function App() {
                 </button>
               )
             })}
+            <button
+              type="button"
+              className="option-btn"
+              onClick={() => {
+                playButtonClick(muted)
+                setGarrisonsReviewError(null)
+                const ids = getGarrisonsReviewIds()
+                const pool = getGarrisonsPoolFromIds(ids)
+                if (pool.length < 4) {
+                  setGarrisonsReviewError('Lisää vähintään 4 kohdetta kerrattavaan listaan pelataksesi.')
+                  return
+                }
+                startGarrisonsReviewGame()
+              }}
+            >
+              <span className="option-btn-label">Kertaus</span>
+            </button>
           </div>
-          <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedGarrisonDistrict(null) }}>
+          {garrisonsReviewError && <p className="words-file-hint-inline">{garrisonsReviewError}</p>}
+          <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedGarrisonDistrict(null); setGarrisonsReviewError(null) }}>
             ← Takaisin
           </button>
         </section>
       )}
 
-      {/* Words: Direction – after Sotilasvenäjän sanasto */}
-      {selectedContentType === 'words' && (
+      {/* Words: Category – 1.1. Sotilassanasto, 1.2. Lyhenteet */}
+      {selectedContentType === 'words' && selectedWordsCategory === null && selectedWordsList === null && (
         <section className="section">
-          <h2 className="section-heading">Käännössuunta</h2>
+          <h2 className="section-heading">Sanasto</h2>
           <div className="options-grid">
-            {WORDS_DIRECTIONS.map((d) => (
-              <button
-                key={d.id}
-                type="button"
-                className="option-btn"
-                onClick={() => {
-                  playButtonClick(muted)
-                  setSelectedWordsDirection(d.id)
-                }}
-              >
-                {d.label}
-              </button>
-            ))}
+            <button
+              type="button"
+              className="option-btn"
+              onClick={() => {
+                playButtonClick(muted)
+                setSelectedWordsCategory('sotilassanasto')
+              }}
+            >
+              <span className="option-btn-label">1.1. Sotilassanasto</span>
+            </button>
+            <button
+              type="button"
+              className="option-btn"
+              onClick={() => {
+                playButtonClick(muted)
+                setSelectedWordsCategory('lyhenteet')
+              }}
+            >
+              <span className="option-btn-label">1.2. Lyhenteet</span>
+            </button>
           </div>
-          {wordsLoading && <p className="words-loading-inline">Ladataan sanalistaa…</p>}
-          {wordsLoadError && (
-            <p className="words-file-hint-inline">
-              Sanalistaa ei voitu ladata. Lisää tiedosto <strong>public/data/military-words.csv</strong> (UTF-8, A=venäjä, B=suomi).
-            </p>
-          )}
+          <button type="button" className="back-btn back-btn-inline" onClick={() => setSelectedContentType(null)}>
+            ← Takaisin
+          </button>
         </section>
       )}
 
-      {/* Words: Sanasto – Rintamavenäjän alkeet + Sotilasvenäjän perusteet 1, 2, 3… */}
-      {selectedContentType === 'words' && selectedWordsDirection && !wordsLoading && wordsPool.length > 0 && selectedWordsList === null && (
-        <section className="section">
-          <h2 className="section-heading">Sanasto</h2>
-          <div className="options-grid options-grid-modules">
-            <button
-              type="button"
-              className="option-btn option-btn-with-rounds"
-              onClick={() => {
-                setSelectedWordsList('rintamavenajan-alkeet')
-                if (alkeetPool.length >= 4) {
-                  setSelectedWordsModuleIndex(0)
-                  setSelectedWordsDifficulty('easy')
-                  setPendingView('words-game')
-                  setShowLadataanIkkuna(true)
-                } else {
-                  playButtonClick(muted)
-                  startAlkeetGameWhenLoadedRef.current = true
-                }
-              }}
-            >
-              <span className="option-btn-label">{selectedWordsDirection === 'fi-ru' ? '1.1.1.' : '1.2.1.'} Rintamavenäjän alkeet</span>
-              <span className="option-rounds">
-                {selectedWordsDirection ? formatRoundsDisplay(getRounds(getRoundsKey('words', `alkeet_${selectedWordsDirection}`))) : formatRoundsDisplay(0)}
-              </span>
-            </button>
-            {Array.from({ length: wordsModuleCount }, (_, i) => {
-              const pool = getModulePool(i)
-              const disabled = pool.length < 4
-              const wordsKey = selectedWordsDirection ? getRoundsKey('words', `${selectedWordsDirection}_${i}`) : ''
-              const roundsDisplay = !disabled && wordsKey ? formatRoundsDisplay(getRounds(wordsKey)) : null
-              return (
+      {/* Words: direction popup – after choosing a list under 1.1 */}
+      {showDirectionPopup && pendingWordsListId !== null && (
+        <div className="words-direction-overlay" role="dialog" aria-labelledby="words-direction-popup-title" aria-modal="true">
+          <div className="words-direction-popup">
+            <h2 id="words-direction-popup-title" className="section-heading">Valitse sanaston käännössuunta</h2>
+            <div className="options-grid">
+              {(['fi-ru', 'ru-fi'] as const).map((dir) => (
                 <button
-                  key={i}
+                  key={dir}
                   type="button"
-                  className={`option-btn ${disabled ? 'disabled' : 'option-btn-with-rounds'}`}
+                  className="option-btn"
                   onClick={() => {
-                    if (!disabled) {
-                      setSelectedWordsModuleIndex(i)
-                      startWordsGame('easy')
+                    const listId = pendingWordsListId
+                    playButtonClick(muted)
+                    setSelectedWordsDirection(dir)
+                    setSelectedWordsList(listId)
+                    setPendingWordsListId(null)
+                    setShowDirectionPopup(false)
+                    if (listId === 'kerrattava-sanasto') {
+                      const reviewPool = getReviewList()
+                      if (reviewPool.length < 5) {
+                        setPerussanastoLoadError('Et ole lisännyt tarpeeksi monta kerrattavaa sanaa. Listattavia sanoja oltava vähintään viisi.')
+                        setPerussanastoPool([])
+                        return
+                      }
+                      setPerussanastoPool(reviewPool)
+                      setPerussanastoLoadError(null)
+                      setSelectedWordsDifficulty('easy')
+                      setPendingView('words-game')
+                      setShowLadataanIkkuna(true)
+                    } else {
+                      startPerussanastoGameWhenLoadedRef.current = true
                     }
                   }}
-                  disabled={disabled}
                 >
-                  <span className="option-btn-label">
-                    {selectedWordsDirection === 'fi-ru' ? `1.1.${i + 2}.` : `1.2.${i + 2}.`} Sotilasvenäjän perusteet {i + 1}
-                    {disabled && <span className="coming-soon-inline"> (vähintään 4 sanaa)</span>}
-                  </span>
-                  {roundsDisplay != null && <span className="option-rounds">{roundsDisplay}</span>}
+                  <span className="option-btn-label">{WORDS_DIRECTION_POPUP_LABELS[dir]}</span>
+                </button>
+              ))}
+            </div>
+            <button type="button" className="back-btn back-btn-inline words-direction-popup-back" onClick={() => { setShowDirectionPopup(false); setPendingWordsListId(null) }}>
+              ← Takaisin
+            </button>
+          </div>
+        </div>
+      )}
+
+      {/* Words: Sotilassanasto – 1.1.1.–1.1.8. (direction asked in popup after click) */}
+      {selectedContentType === 'words' && selectedWordsCategory === 'sotilassanasto' && selectedWordsList === null && (
+        <section className="section">
+          <h2 className="section-heading">Sotilassanasto</h2>
+          <div className="options-grid options-grid-modules">
+            {SOTILASSANASTO_MENU_IDS.map((listId, idx) => {
+              const directionForRounds = selectedWordsDirection ?? 'fi-ru'
+              const wordsKey = getRoundsKey('words', `${directionForRounds}_${listId}`)
+              const roundsDisplay = formatRoundsDisplay(getRounds(wordsKey))
+              const isKertaus = listId === 'kerrattava-sanasto'
+              return (
+                <button
+                  key={listId}
+                  type="button"
+                  className={isKertaus ? 'option-btn' : 'option-btn option-btn-with-rounds'}
+                  onClick={() => {
+                    playButtonClick(muted)
+                    setPendingWordsListId(listId)
+                    setShowDirectionPopup(true)
+                  }}
+                >
+                  <span className="option-btn-label">1.1.{idx + 1}. {PERUSSANASTO_LABELS[listId]}</span>
+                  {!isKertaus && <span className="option-rounds">{roundsDisplay}</span>}
                 </button>
               )
             })}
           </div>
+          <button type="button" className="back-btn back-btn-inline" onClick={() => setSelectedWordsCategory(null)}>
+            ← Takaisin
+          </button>
         </section>
       )}
 
-      {/* Rintamavenäjän alkeet: show loading/error only when we triggered load but game not started yet */}
-      {selectedContentType === 'words' && selectedWordsDirection && selectedWordsList === 'rintamavenajan-alkeet' && view === 'landing' && (
+      {/* Words: Lyhenteet – 1.2.1.–1.2.7. (no direction popup; uses fi-ru) */}
+      {selectedContentType === 'words' && selectedWordsCategory === 'lyhenteet' && selectedWordsList === null && (
         <section className="section">
-          {alkeetLoading && <p className="words-loading-inline">Ladataan sanalistaa…</p>}
-          {alkeetLoadError && (
+          <h2 className="section-heading">Lyhenteet</h2>
+          <div className="options-grid">
+            {LYHENTEET_LIST_IDS.map((listId, idx) => {
+              const num = idx + 1
+              const directionForRounds = 'fi-ru'
+              const isKertaus = listId === 'lyhenteet-kerrattava'
+              return (
+                <button
+                  key={listId}
+                  type="button"
+                  className={isKertaus ? 'option-btn' : 'option-btn option-btn-with-rounds'}
+                  onClick={() => {
+                    playButtonClick(muted)
+                    setSelectedWordsDirection('fi-ru')
+                    startPerussanastoGameWhenLoadedRef.current = true
+                    setSelectedWordsList(listId)
+                  }}
+                >
+                  <span className="option-btn-label">1.2.{num}. {PERUSSANASTO_LABELS[listId]}</span>
+                  {!isKertaus && (
+                    <span className="option-rounds">
+                      {formatRoundsDisplay(getRounds(getRoundsKey('words', `${directionForRounds}_${listId}`)))}
+                    </span>
+                  )}
+                </button>
+              )
+            })}
+          </div>
+          <button type="button" className="back-btn back-btn-inline" onClick={() => setSelectedWordsCategory(null)}>
+            ← Takaisin
+          </button>
+        </section>
+      )}
+
+      {/* Perussanasto / Lyhenteet: loading/error when one of those lists is selected */}
+      {selectedContentType === 'words' && selectedWordsDirection && selectedWordsList !== null && (isPerussanastoListId(selectedWordsList) || isLyhenteetListId(selectedWordsList) || selectedWordsList === 'kerrattava-sanasto') && view === 'landing' && (
+        <section className="section">
+          {perussanastoLoading && <p className="words-loading-inline">Ladataan sanalistaa…</p>}
+          {perussanastoLoadError && (
             <p className="words-file-hint-inline">
-              Sanalistaa ei voitu ladata. Lisää tiedosto <strong>public/data/rintamavenajan-alkeet.csv</strong> (UTF-8, A=venäjä, B=suomi).
+              {selectedWordsList === 'kerrattava-sanasto'
+                ? perussanastoLoadError
+                : <>Sanalistaa ei voitu ladata. Lisää tiedosto <strong>public/data/{selectedWordsList}.csv</strong> (UTF-8, A=venäjä, B=suomi).</>}
             </p>
           )}
-          {!alkeetLoading && alkeetPool.length > 0 && alkeetPool.length < 4 && !alkeetLoadError && (
+          {selectedWordsList === 'lyhenteet-kerrattava' && !perussanastoLoading && perussanastoPool.length === 0 && !perussanastoLoadError && (
+            <p className="words-file-hint-inline">Sinulla ei ole kerrattavia sanoja. Lisää pelistä kerrattavia sanoja harjoitellaksesi niitä täällä.</p>
+          )}
+          {!perussanastoLoading && perussanastoPool.length > 0 && perussanastoPool.length < 4 && !perussanastoLoadError && (
             <p className="words-file-hint-inline">Sanalistassa täytyy olla vähintään 4 sanaa.</p>
           )}
-          {selectedWordsList === 'rintamavenajan-alkeet' && view === 'landing' && (
-            <button type="button" className="back-btn back-btn-inline" onClick={() => { startAlkeetGameWhenLoadedRef.current = false; setSelectedWordsList(null) }}>
-              ← Takaisin sanastoon
-            </button>
-          )}
+          <button type="button" className="back-btn back-btn-inline" onClick={() => { startPerussanastoGameWhenLoadedRef.current = false; setSelectedWordsList(null); setPerussanastoPool([]); setPerussanastoLoadError(null) }}>
+            ← Takaisin
+          </button>
         </section>
       )}
 
@@ -673,7 +806,7 @@ function App() {
             <button
               type="button"
               className="option-btn option-btn-with-rounds"
-              onClick={() => startRanksGame(selectedRanksBranch, 'fi')}
+              onClick={() => { setRanksReviewError(null); startRanksGame(selectedRanksBranch, 'fi') }}
             >
               <span className="option-btn-label">3.1.1. Suomeksi</span>
               <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('ranks', `${selectedRanksBranch}_fi`)))}</span>
@@ -681,13 +814,36 @@ function App() {
             <button
               type="button"
               className="option-btn option-btn-with-rounds"
-              onClick={() => startRanksGame(selectedRanksBranch, 'ru')}
+              onClick={() => { setRanksReviewError(null); startRanksGame(selectedRanksBranch, 'ru') }}
             >
               <span className="option-btn-label">3.1.2. Venäjäksi</span>
               <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('ranks', `${selectedRanksBranch}_ru`)))}</span>
             </button>
+            <button
+              type="button"
+              className="option-btn"
+              onClick={() => {
+                playButtonClick(muted)
+                setRanksReviewError(null)
+                if (!startRanksReviewGame('fi')) setRanksReviewError('Lisää vähintään 4 arvoa kerrattavaan listaan pelataksesi (suomeksi).')
+              }}
+            >
+              <span className="option-btn-label">3.1.3. Kertaus (Suomeksi)</span>
+            </button>
+            <button
+              type="button"
+              className="option-btn"
+              onClick={() => {
+                playButtonClick(muted)
+                setRanksReviewError(null)
+                if (!startRanksReviewGame('ru')) setRanksReviewError('Lisää vähintään 4 arvoa kerrattavaan listaan pelataksesi (venäjäksi).')
+              }}
+            >
+              <span className="option-btn-label">3.1.4. Kertaus (Venäjäksi)</span>
+            </button>
           </div>
-          <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedRanksBranch(null) }}>
+          {ranksReviewError && <p className="words-file-hint-inline">{ranksReviewError}</p>}
+          <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedRanksBranch(null); setRanksReviewError(null) }}>
             ← Takaisin
           </button>
         </section>

@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import type { GarrisonEntry, GarrisonRegionId } from '../data/garrisonsData'
 import { getAssetUrl } from '../lib/assetUrl'
 import {
@@ -7,6 +7,7 @@ import {
   getGarrisonsPool,
   selectGarrisonFromPool,
 } from '../lib/garrisonsGameLogic'
+import { getGarrisonsReviewIds } from '../lib/reviewListStorage'
 import { playCorrect, playRoundComplete, playWrong } from '../lib/sound'
 
 const MAX_ROUNDS = 10
@@ -14,6 +15,11 @@ const POINTS_PER_CORRECT = 1
 
 interface GarrisonsGameViewProps {
   region: GarrisonRegionId
+  /** When set, use this pool instead of getGarrisonsPool(region). Used for "Käyttäjän kerrattava". */
+  initialPool?: GarrisonEntry[]
+  onAddToGarrisonReview?: (entry: GarrisonEntry) => void
+  onRemoveFromGarrisonReview?: (entry: GarrisonEntry) => void
+  isGarrisonReviewList?: boolean
   muted: boolean
   onToggleMute: () => void
   onBack: () => void
@@ -28,8 +34,18 @@ function getAchievementMessage(correctCount: number): string {
   return 'Jatka vain! Pääset määrään.'
 }
 
-export function GarrisonsGameView({ region, muted, onToggleMute, onBack, onRoundComplete }: GarrisonsGameViewProps) {
-  const [pool, setPool] = useState<GarrisonEntry[]>([])
+export function GarrisonsGameView({
+  region,
+  initialPool: initialPoolProp,
+  onAddToGarrisonReview,
+  onRemoveFromGarrisonReview,
+  isGarrisonReviewList = false,
+  muted,
+  onToggleMute,
+  onBack,
+  onRoundComplete,
+}: GarrisonsGameViewProps) {
+  const [pool, setPool] = useState<GarrisonEntry[]>(initialPoolProp ?? [])
   const [currentEntry, setCurrentEntry] = useState<GarrisonEntry | null>(null)
   const [options, setOptions] = useState<string[]>([])
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null)
@@ -38,21 +54,28 @@ export function GarrisonsGameView({ region, muted, onToggleMute, onBack, onRound
   const [correctCount, setCorrectCount] = useState(0)
   const [gameOver, setGameOver] = useState(false)
 
-  const startRound = useCallback((roundIndex: number) => {
-    const garrisonPool = getGarrisonsPool(region)
-    setPool(garrisonPool)
-    const entry = selectGarrisonFromPool(garrisonPool)
-    if (!entry) {
-      setCurrentEntry(null)
-      setOptions([])
-      return
-    }
-    setCurrentEntry(entry)
-    setOptions(generateGarrisonOptions(entry, garrisonPool))
-    setSelectedAnswer(null)
-    setShowResult(false)
-    setCurrentRoundIndex(roundIndex)
-  }, [region])
+  const startRound = useCallback(
+    (roundIndex: number) => {
+      const garrisonPool = initialPoolProp != null && initialPoolProp.length > 0 ? initialPoolProp : getGarrisonsPool(region)
+      if (initialPoolProp != null && initialPoolProp.length > 0) {
+        setPool(initialPoolProp)
+      } else {
+        setPool(garrisonPool)
+      }
+      const entry = selectGarrisonFromPool(garrisonPool)
+      if (!entry) {
+        setCurrentEntry(null)
+        setOptions([])
+        return
+      }
+      setCurrentEntry(entry)
+      setOptions(generateGarrisonOptions(entry, garrisonPool))
+      setSelectedAnswer(null)
+      setShowResult(false)
+      setCurrentRoundIndex(roundIndex)
+    },
+    [region, initialPoolProp]
+  )
 
   const startNewGame = useCallback(() => {
     setCorrectCount(0)
@@ -61,8 +84,32 @@ export function GarrisonsGameView({ region, muted, onToggleMute, onBack, onRound
   }, [startRound])
 
   useEffect(() => {
+    if (initialPoolProp != null && initialPoolProp.length > 0) {
+      setPool(initialPoolProp)
+    }
+  }, [initialPoolProp])
+
+  useEffect(() => {
     startRound(0)
   }, [startRound])
+
+  const prevReviewPoolLengthRef = useRef<number | null>(null)
+  // When in review mode and parent updates pool (after remove), refresh current question or end game if empty
+  useEffect(() => {
+    if (!isGarrisonReviewList || initialPoolProp == null) return
+    if (initialPoolProp.length === 0) {
+      setGameOver(true)
+      setCurrentEntry(null)
+      setOptions([])
+      onRoundComplete?.()
+      prevReviewPoolLengthRef.current = 0
+      return
+    }
+    if (prevReviewPoolLengthRef.current != null && initialPoolProp.length < prevReviewPoolLengthRef.current) {
+      startRound(currentRoundIndex)
+    }
+    prevReviewPoolLengthRef.current = initialPoolProp.length
+  }, [initialPoolProp, isGarrisonReviewList])
 
   const handleOptionClick = (option: string) => {
     if (showResult) return
@@ -79,6 +126,10 @@ export function GarrisonsGameView({ region, muted, onToggleMute, onBack, onRound
   }
 
   const handleNext = () => {
+    if (isGarrisonReviewList) {
+      startRound(currentRoundIndex + 1)
+      return
+    }
     if (currentRoundIndex >= MAX_ROUNDS - 1) {
       playRoundComplete(muted)
       setGameOver(true)
@@ -87,6 +138,21 @@ export function GarrisonsGameView({ region, muted, onToggleMute, onBack, onRound
       return
     }
     startRound(currentRoundIndex + 1)
+  }
+
+  const garrisonReviewIds = onAddToGarrisonReview || onRemoveFromGarrisonReview ? getGarrisonsReviewIds() : []
+  const isCurrentInGarrisonReviewList = currentEntry != null && garrisonReviewIds.includes(currentEntry.id)
+
+  const handleAddToGarrisonReview = () => {
+    if (currentEntry && onAddToGarrisonReview) onAddToGarrisonReview(currentEntry)
+  }
+
+  const handleRemoveFromGarrisonReviewInGame = () => {
+    if (currentEntry && onRemoveFromGarrisonReview) onRemoveFromGarrisonReview(currentEntry)
+  }
+
+  const handleRemoveFromGarrisonReviewAndAdvance = () => {
+    if (currentEntry && onRemoveFromGarrisonReview) onRemoveFromGarrisonReview(currentEntry)
   }
 
   if (pool.length === 0 && !currentEntry && !gameOver) {
@@ -119,12 +185,18 @@ export function GarrisonsGameView({ region, muted, onToggleMute, onBack, onRound
             </button>
           </div>
           <div className="result-scores">
-            <div className="result-score-line">Kierros: {MAX_ROUNDS}/{MAX_ROUNDS}</div>
-            <div className="result-score-line">Oikein: {correctCount}/{MAX_ROUNDS}</div>
+            {isGarrisonReviewList ? (
+              <div className="result-score-line">Oikein: {correctCount}</div>
+            ) : (
+              <>
+                <div className="result-score-line">Kierros: {MAX_ROUNDS}/{MAX_ROUNDS}</div>
+                <div className="result-score-line">Oikein: {correctCount}/{MAX_ROUNDS}</div>
+              </>
+            )}
           </div>
           <img src={getAssetUrl('assets/complete.png')} alt="" className="result-complete-img" />
-          <h2 className="result-title">Kierros suoritettu!</h2>
-          <p className="result-message">{getAchievementMessage(correctCount)}</p>
+          <h2 className="result-title">{isGarrisonReviewList ? 'Kaikki kerrattavat tehty!' : 'Kierros suoritettu!'}</h2>
+          <p className="result-message">{isGarrisonReviewList ? `Oikein ${correctCount} vastausta.` : getAchievementMessage(correctCount)}</p>
           <div className="result-actions">
             <button type="button" className="result-btn result-btn-retry" onClick={startNewGame}>
               Yritä uudelleen
@@ -157,8 +229,8 @@ export function GarrisonsGameView({ region, muted, onToggleMute, onBack, onRound
         <div className="quiz-header">
           <span className="quiz-breadcrumb">Venäjä → Sotilaspiirit</span>
           <div className="quiz-progress">
-            <span className="quiz-progress-line">Kierros: {displayRound}/{MAX_ROUNDS}</span>
-            <span className="quiz-progress-line">Oikein: {correctCount}/{MAX_ROUNDS}</span>
+            <span className="quiz-progress-line">{isGarrisonReviewList ? `Kierros: ${displayRound}` : `Kierros: ${displayRound}/${MAX_ROUNDS}`}</span>
+            <span className="quiz-progress-line">{isGarrisonReviewList ? `Oikein: ${correctCount}` : `Oikein: ${correctCount}/${MAX_ROUNDS}`}</span>
           </div>
           <div className="quiz-header-actions">
             <button
@@ -185,6 +257,23 @@ export function GarrisonsGameView({ region, muted, onToggleMute, onBack, onRound
         </div>
 
         <p className="quiz-prompt">Nimeä nuolen osoittama joukkojen sijoituspaikka</p>
+
+        {onAddToGarrisonReview && currentEntry && !isGarrisonReviewList && (
+          isCurrentInGarrisonReviewList ? (
+            <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromGarrisonReviewInGame}>
+              Poista kohde kerrattavalta listalta
+            </button>
+          ) : (
+            <button type="button" className="quiz-review-btn quiz-review-btn--add" onClick={handleAddToGarrisonReview}>
+              Lisää kohde kerrattavaan listaan
+            </button>
+          )
+        )}
+        {isGarrisonReviewList && onRemoveFromGarrisonReview && currentEntry && (
+          <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromGarrisonReviewAndAdvance}>
+            Poista kohde kerrattavalta listalta
+          </button>
+        )}
 
         <div className="quiz-options">
           {options.map((option) => (
