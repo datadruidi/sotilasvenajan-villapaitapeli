@@ -93,4 +93,6 @@ Jos sinulla on palautetta tai haluat ehdottaa uusia moduuleja tai sisältöä, v
 ---
 
 ## Vastuuvapauslauseke
-Lataat ja käytät tätä sovellusta omalla vastuullasi. Tekijä ei vastaa ohjelmiston tai sen sisällön käytöstä aiheutuvista suorista tai välillisistä vahingoista eikä mahdollisesta väärinkäytöstä. Kaikki sovelluksessa käytetty tieto perustuu avoimista lähteistä saatavilla olevaan tietoon. Käytä sovellusta sovellettavan lainsäädännön sekä organisaatiosi ohjeistuksen mukaisesti.![Sotilasvenäjän villapaitapeli](docs/last.png)
+Lataat ja käytät tätä sovellusta omalla vastuullasi. Tekijä ei vastaa ohjelmiston tai sen sisällön käytöstä aiheutuvista suorista tai välillisistä vahingoista eikä mahdollisesta väärinkäytöstä. Kaikki sovelluksessa käytetty tieto perustuu avoimista lähteistä saatavilla olevaan tietoon. Käytä sovellusta sovellettavan lainsäädännön sekä organisaatiosi ohjeistuksen mukaisesti.
+
+![Sotilasvenäjän villapaitapeli](docs/last.png)
