@@ -91,8 +91,13 @@ Jos sinulla on palautetta tai haluat ehdottaa uusia moduuleja tai sisältöä, v
 **villapaitapeli.shaky136@passmail.net**
 
 ---
-
 ## Vastuuvapauslauseke
+
 Lataat ja käytät tätä sovellusta omalla vastuullasi. Tekijä ei vastaa ohjelmiston tai sen sisällön käytöstä aiheutuvista suorista tai välillisistä vahingoista eikä mahdollisesta väärinkäytöstä. Kaikki sovelluksessa käytetty tieto perustuu avoimista lähteistä saatavilla olevaan tietoon. Käytä sovellusta sovellettavan lainsäädännön sekä organisaatiosi ohjeistuksen mukaisesti.
+
+## Tietosuojaseloste
+
+Sivusto käyttää Cloudflare Web Analytics -palvelua kävijämäärien ja sivun käyttötilastojen seuraamiseen. Palvelu ei käytä evästeitä, ei kerää henkilökohtaisia tietoja eikä tallenna yksilöiviä tunnisteita. Analytiikkaa hyödynnetään ainoastaan sivuston toimivuuden ja käytettävyyden kehittämiseen. Sivustolla ei ole käyttäjätilejä, kirjautumista tai lomakkeita, eikä kävijöitä voida tunnistaa analytiikan perusteella.
+
 
 ![Sotilasvenäjän villapaitapeli](docs/last.png)
