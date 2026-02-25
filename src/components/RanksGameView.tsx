@@ -18,6 +18,7 @@ const POINTS_PER_CORRECT = 1
 interface RanksGameViewProps {
   branch: RanksBranchId
   language: RanksLanguage
+  menuTitle: string
   /** When set, use this pool instead of getRanksPool(branch, language). Used for "Käyttäjän kerrattava". */
   initialPool?: RankGameEntry[]
   onAddToRanksReview?: (entry: RankGameEntry) => void
@@ -45,6 +46,7 @@ const BRANCH_LABEL: Record<RanksBranchId, string> = {
 export function RanksGameView({
   branch,
   language,
+  menuTitle,
   initialPool: initialPoolProp,
   onAddToRanksReview,
   onRemoveFromRanksReview,
@@ -265,18 +267,14 @@ export function RanksGameView({
     return 'revealed'
   }
 
-  const breadcrumb = `Sotilasarvot — ${BRANCH_LABEL[branch]} — ${language === 'fi' ? 'Suomeksi' : 'Venäjäksi'}`
-
   return (
     <div className="app">
       <div className="game-view game-view-quiz">
         <div className="quiz-header">
-          <span className="quiz-breadcrumb">{breadcrumb}</span>
-          <div className="quiz-progress">
-            <span className="quiz-progress-line">{isRanksReviewList ? `Kierros: ${round}` : `Kierros: ${round}/${MAX_ROUNDS}`}</span>
-            <span className="quiz-progress-line">{isRanksReviewList ? `Oikein: ${score}` : `Oikein: ${score}/${MAX_ROUNDS}`}</span>
-          </div>
           <div className="quiz-header-actions">
+            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title="Päävalikko" aria-label="Päävalikko">
+              🏠
+            </button>
             <button
               type="button"
               className="mute-btn mute-btn-small"
@@ -286,9 +284,11 @@ export function RanksGameView({
             >
               {muted ? '🔇' : '🔊'}
             </button>
-            <button type="button" className="back-btn back-btn-small" onClick={onBack}>
-              ← Takaisin
-            </button>
+          </div>
+          <span className="quiz-title">{menuTitle}</span>
+          <div className="quiz-progress quiz-progress-card">
+            <span className="quiz-progress-line">{isRanksReviewList ? `Kierros: ${round}` : `Kierros: ${round}/${MAX_ROUNDS}`}</span>
+            <span className="quiz-progress-line">{isRanksReviewList ? `Oikein: ${score}` : `Oikein: ${score}/${MAX_ROUNDS}`}</span>
           </div>
         </div>
 

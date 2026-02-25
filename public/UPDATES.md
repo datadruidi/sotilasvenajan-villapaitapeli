@@ -2,7 +2,26 @@
 
 Tämä tiedosto on kertymäluettelo: uusimmat versiot on listattu ylhäällä. Vanhoja versioita ei poisteta.
 
-**Nykyinen versio:** 1.0.3
+**Nykyinen versio:** 1.0.4
+
+---
+
+## Versio 1.0.4 (2026-02-25)
+
+Tämän päivityksen painopiste oli UI/UX-siistimisessä, pelivalikon kulun selkeyttämisessä ja taktisten merkkien sisällöntuessa.
+
+- Lisätty tuki taktisten merkkien kuvien lataamiselle **.png**-tiedostoista ja päivitetty taktisten merkkien polkujen muodostus / generointityöflow.
+- Muokattu pelivalikon hierarkiaa ja nimikkeitä (mukana numerointi- ja järjestysmuutoksia sekä uudelleennimeämisiä).
+- Parannettu kerrostettujen valikkoponnahdusikkunoiden (popup) käytöstä ja päivitetty sulje/takaisin-toiminnot.
+- Yhtenäistetty näkymien visuaalinen tyyli: fontit, tiiviimpi välistys, nappien reunukset ja värit.
+- Päivitetty toimintanappien värikoodaus roolin mukaan:
+  - koti/takaisin-napit **vihreiksi**
+  - mykistysnapit **punaisiksi**
+- Parannettu infosivujen otsakeasettelua (`Tietoa`, `Päivitykset`, `Lähteet ja lisenssit`) ja kohdistettu ohjaimet otsikoiden kanssa linjaan.
+- Päivitetty otsikkoalueen “brändäys”/grafiikat (faviconin koko ja sijainti sekä Suomen/Ukrainan lippujen sijoittelu splash- ja valikkoruuduilla).
+- Hienosäädetty pelin HUD-asettelua (koti/mykistys-nappien sijainti, otsikon näyttö, laskurit ja kertausnapin paikka).
+
+Päivityksen tavoitteena on tehdä navigoinnista selkeämpää, visuaalisesta hierarkiasta rauhallisempi ja pelinäkymistä keskenään yhtenäisempiä.
 
 ---
 

@@ -35,20 +35,23 @@ const WORDS_DIRECTION_POPUP_LABELS: Record<WordsDirection, string> = {
 }
 
 const CONTENT_TYPES: { id: ContentType; label: string; available: boolean }[] = [
-  { id: 'words', label: '1. Sotilasvenäjän sanasto', available: true },
-  { id: 'venajan-asevoimat', label: '2. Venäjän asevoimat', available: true },
-  { id: 'ranks', label: '3. Sotilasarvot', available: true },
-  { id: 'tactical-signs', label: '4. Taktiset merkit', available: true },
+  { id: 'words', label: '1. Sotilassanasto', available: true },
+  { id: 'venajan-asevoimat', label: '2. Sotilasorganisaatio', available: true },
+  { id: 'tactical-signs', label: '3. Sotilasmerkistö', available: true },
+  { id: 'ranks', label: '4. Sotilasarvot', available: true },
 ]
 
 /** Sub-options under Venäjän asevoimat (same structure as before, just grouped) */
 const VENAJAN_ASEVOIMAT_OPTIONS: { id: ContentType; label: string; available: boolean }[] = [
   { id: 'garrisons', label: '2.1. Sotilaspiirit', available: true },
-  { id: 'vehicles', label: '2.2. Puolustushaarojen suorituskyvyt', available: true },
-  { id: 'local-forces', label: '2.3. Lähialueen joukot', available: false },
+  { id: 'vehicles', label: '2.2. Suorituskyvyt', available: true },
 ]
 
 const COMING_SOON_TEXT = 'Julkaistaan kysynnän mukaan'
+
+function stripMenuNumber(label: string): string {
+  return label.replace(/^\d+(?:\.\d+)*\.\s*/, '').trim()
+}
 
 const BRANCHES: { id: BranchButtonId; label: string; disabled?: boolean }[] = [
   { id: 'navy', label: '2.2.1. Merivoimat' },
@@ -62,11 +65,8 @@ const BRANCHES: { id: BranchButtonId; label: string; disabled?: boolean }[] = [
 /** Military districts under Sotilaspiirit; only Leningrad is selectable and shows the 4 responsibility areas */
 const GARRISON_DISTRICTS: { id: string; label: string; disabled: boolean }[] = [
   { id: 'leningrad', label: '2.1.1. Leningradin sotilaspiiri', disabled: false },
-  { id: 'moscow', label: '2.1.2. Moskovan sotilaspiiri', disabled: true },
-  { id: 'southern', label: '2.1.3. Eteläinen sotilaspiiri', disabled: true },
-  { id: 'central', label: '2.1.4. Keskinen sotilaspiiri', disabled: true },
-  { id: 'eastern', label: '2.1.5. Itäinen sotilaspiiri', disabled: true },
-  { id: 'badges', label: '2.1.6. Sotilaspiirien tunnukset', disabled: true },
+  { id: 'local-forces', label: '2.1.2. Lähialueen joukot', disabled: true },
+  { id: 'badges', label: '2.1.3. Sotilaspiirien tunnukset', disabled: true },
 ]
 
 const GARRISON_REGIONS: { id: GarrisonRegionId; label: string }[] = [
@@ -93,6 +93,7 @@ function App() {
   const [selectedNavySubMode, setSelectedNavySubMode] = useState<NavySubMode | null>(null)
   const [selectedWordsDirection, setSelectedWordsDirection] = useState<WordsDirection | null>(null)
   const [showDirectionPopup, setShowDirectionPopup] = useState(false)
+  const [showRanksReviewDirectionPopup, setShowRanksReviewDirectionPopup] = useState(false)
   const [pendingWordsListId, setPendingWordsListId] = useState<WordsListId | null>(null)
   const [selectedWordsDifficulty, setSelectedWordsDifficulty] = useState<WordsDifficulty | null>(null)
   const [selectedGarrisonRegion, setSelectedGarrisonRegion] = useState<GarrisonRegionId | null>(null)
@@ -109,6 +110,7 @@ function App() {
   const [view, setView] = useState<'landing' | 'vehicles-game' | 'words-game' | 'garrisons-game' | 'tactical-signs-game' | 'ranks-game'>('landing')
   const [showLadataanIkkuna, setShowLadataanIkkuna] = useState(false)
   const [pendingView, setPendingView] = useState<'vehicles-game' | 'words-game' | 'garrisons-game' | 'tactical-signs-game' | 'ranks-game' | null>(null)
+  const [gameMenuTitle, setGameMenuTitle] = useState('')
 
   const [selectedWordsCategory, setSelectedWordsCategory] = useState<'sotilassanasto' | 'lyhenteet' | null>(null)
   const [selectedWordsList, setSelectedWordsList] = useState<WordsListId | null>(null)
@@ -209,6 +211,8 @@ function App() {
   }, [selectedContentType, selectedWordsList])
 
   const startVehiclesGame = (branch: VehicleBranch, navySubMode?: NavySubMode) => {
+    const branchMenuLabel = BRANCHES.find((b) => b.id === branch)?.label ?? String(branch)
+    setGameMenuTitle(stripMenuNumber(branchMenuLabel))
     setSelectedBranch(branch)
     setSelectedNavySubMode(navySubMode ?? null)
     setPendingView('vehicles-game')
@@ -216,12 +220,15 @@ function App() {
   }
 
   const startNavySubMode = (mode: NavySubMode) => {
+    setGameMenuTitle(mode === 'class' ? 'Alusluokat' : 'Alusten nimet')
     setSelectedNavySubMode(mode)
     setPendingView('vehicles-game')
     setShowLadataanIkkuna(true)
   }
 
   const startGarrisonsGame = (region: GarrisonRegionId) => {
+    const regionLabel = GARRISON_REGIONS.find((r) => r.id === region)?.label ?? String(region)
+    setGameMenuTitle(stripMenuNumber(regionLabel))
     setSelectedGarrisonRegion(region)
     setGarrisonsReviewPool(null)
     setPendingView('garrisons-game')
@@ -232,6 +239,7 @@ function App() {
     const ids = getGarrisonsReviewIds()
     const pool = getGarrisonsPoolFromIds(ids)
     if (pool.length < 4) return
+    setGameMenuTitle('Kertaus')
     setGarrisonsReviewPool(pool)
     setSelectedGarrisonRegion(null)
     setPendingView('garrisons-game')
@@ -239,12 +247,14 @@ function App() {
   }
 
   const startTacticalSignsGame = (subset: 'sotilasmerkisto' | 'joukkojen-koko') => {
+    setGameMenuTitle(subset === 'sotilasmerkisto' ? 'Joukkotyypit' : 'Joukkokoko')
     setSelectedTacticalSignsSubset(subset)
     setPendingView('tactical-signs-game')
     setShowLadataanIkkuna(true)
   }
 
   const startRanksGame = (branch: RanksBranchId, language: RanksLanguage) => {
+    setGameMenuTitle(language === 'fi' ? 'Suomeksi' : 'Venäjäksi')
     setSelectedRanksBranch(branch)
     setSelectedRanksLanguage(language)
     setRanksReviewPool(null)
@@ -285,6 +295,7 @@ function App() {
     setSelectedContentType(null)
     setSelectedWordsDirection(null)
     setShowDirectionPopup(false)
+    setShowRanksReviewDirectionPopup(false)
     setPendingWordsListId(null)
     setSelectedWordsDifficulty(null)
     setSelectedGarrisonRegion(null)
@@ -295,6 +306,26 @@ function App() {
     setSelectedRanksLanguage(null)
     setRanksReviewPool(null)
     setRanksReviewLanguage(null)
+    setRanksReviewError(null)
+    setGameMenuTitle('')
+  }
+
+  const closeOptionPopup = () => {
+    setSelectedContentType(null)
+    setSelectedBranch(null)
+    setSelectedNavySubMode(null)
+    setSelectedWordsCategory(null)
+    setSelectedWordsList(null)
+    setSelectedWordsDirection(null)
+    setShowDirectionPopup(false)
+    setShowRanksReviewDirectionPopup(false)
+    setPendingWordsListId(null)
+    setPerussanastoPool([])
+    setPerussanastoLoadError(null)
+    startPerussanastoGameWhenLoadedRef.current = false
+    setSelectedGarrisonDistrict(null)
+    setGarrisonsReviewError(null)
+    setSelectedRanksBranch(null)
     setRanksReviewError(null)
   }
 
@@ -317,6 +348,7 @@ function App() {
         country="russia"
         branch={selectedBranch}
         branchLabel={branchLabel}
+        menuTitle={gameMenuTitle}
         navySubMode={selectedNavySubMode ?? undefined}
         muted={muted}
         onToggleMute={toggleMute}
@@ -332,6 +364,7 @@ function App() {
     return (
       <GarrisonsGameView
         region={isReview ? 'kaikki' : selectedGarrisonRegion!}
+        menuTitle={gameMenuTitle}
         initialPool={isReview ? garrisonsReviewPool : undefined}
         onAddToGarrisonReview={!isReview ? (entry) => addToGarrisonsReviewList(entry.id) : undefined}
         onRemoveFromGarrisonReview={(entry) => {
@@ -352,6 +385,7 @@ function App() {
     return (
       <TacticalSignsGameView
         subset={selectedTacticalSignsSubset}
+        menuTitle={gameMenuTitle}
         muted={muted}
         onToggleMute={toggleMute}
         onBack={backToLanding}
@@ -370,6 +404,7 @@ function App() {
         key={isReview ? `ranks-kerrattava-${language}` : `ranks-${selectedRanksBranch}-${selectedRanksLanguage}`}
         branch={branch}
         language={language}
+        menuTitle={gameMenuTitle}
         initialPool={isReview ? ranksReviewPool : undefined}
         onAddToRanksReview={!isReview ? (entry) => addToRanksReviewList({ branch: entry.branch, language, termFi: entry.termFi }) : undefined}
         onRemoveFromRanksReview={(entry) => {
@@ -396,6 +431,7 @@ function App() {
         direction={selectedWordsDirection}
         difficulty={selectedWordsDifficulty}
         directionLabel={directionLabel}
+        menuTitle={gameMenuTitle}
         initialPool={initialPool}
         compactPrompt={isLyhenteet}
         onAddToReview={isPerussanastoListId(selectedWordsList) ? addToReviewList : undefined}
@@ -416,7 +452,6 @@ function App() {
     <>
     <div className="app landing">
       <header className="landing-header">
-        <h1 className="title">Sotilasvenäjän villapaitapeli</h1>
         <button
           type="button"
           className="landing-header-logo-btn"
@@ -425,6 +460,11 @@ function App() {
         >
           <img src={`${import.meta.env.BASE_URL}favicon.png`} alt="" className="landing-header-logo" />
         </button>
+        <h1 className="title">Sotilasvenäjän villapaitapeli</h1>
+        <div className="landing-title-flags" aria-hidden="true">
+          <img src={`${import.meta.env.BASE_URL}finland.png`} alt="" className="landing-title-flag" />
+          <img src={`${import.meta.env.BASE_URL}ukraine.png`} alt="" className="landing-title-flag" />
+        </div>
         <div className="landing-header-actions">
           <button
             type="button"
@@ -468,11 +508,25 @@ function App() {
             ))}
           </div>
         </section>
+      {selectedContentType !== null && (
+      <div className="menu-layer-overlay" role="dialog" aria-modal="true">
+      <div className="menu-layer-window">
+        <button
+          type="button"
+          className="popup-close-btn"
+          onClick={() => {
+            playButtonClick(muted)
+            closeOptionPopup()
+          }}
+          aria-label="Sulje"
+        >
+          ×
+        </button>
 
       {/* Venäjän asevoimat – sub-options: garrisons, vehicles, local-forces */}
       {selectedContentType === 'venajan-asevoimat' && (
         <section className="section">
-          <h2 className="section-heading">Venäjän asevoimat</h2>
+          <h2 className="section-heading">Sotilasorganisaatio</h2>
           <div className="options-grid">
             {VENAJAN_ASEVOIMAT_OPTIONS.map((opt) => (
               <button
@@ -551,7 +605,7 @@ function App() {
             })}
             <button
               type="button"
-              className="option-btn"
+              className="option-btn option-btn-kertaus"
               onClick={() => {
                 playButtonClick(muted)
                 setGarrisonsReviewError(null)
@@ -587,7 +641,7 @@ function App() {
                 setSelectedWordsCategory('sotilassanasto')
               }}
             >
-              <span className="option-btn-label">1.1. Sotilassanasto</span>
+              <span className="option-btn-label">1.1. Sotilastoiminta</span>
             </button>
             <button
               type="button"
@@ -597,7 +651,7 @@ function App() {
                 setSelectedWordsCategory('lyhenteet')
               }}
             >
-              <span className="option-btn-label">1.2. Lyhenteet</span>
+              <span className="option-btn-label">1.2. Sotilaslyhenteet</span>
             </button>
           </div>
           <button type="button" className="back-btn back-btn-inline" onClick={() => setSelectedContentType(null)}>
@@ -610,6 +664,18 @@ function App() {
       {showDirectionPopup && pendingWordsListId !== null && (
         <div className="words-direction-overlay" role="dialog" aria-labelledby="words-direction-popup-title" aria-modal="true">
           <div className="words-direction-popup">
+            <button
+              type="button"
+              className="popup-close-btn popup-close-btn--direction"
+              onClick={() => {
+                playButtonClick(muted)
+                setShowDirectionPopup(false)
+                setPendingWordsListId(null)
+              }}
+              aria-label="Sulje"
+            >
+              ×
+            </button>
             <h2 id="words-direction-popup-title" className="section-heading">Valitse sanaston käännössuunta</h2>
             <div className="options-grid">
               {(['fi-ru', 'ru-fi'] as const).map((dir) => (
@@ -651,13 +717,55 @@ function App() {
           </div>
         </div>
       )}
+      {showRanksReviewDirectionPopup && (
+        <div className="words-direction-overlay" role="dialog" aria-labelledby="ranks-review-direction-popup-title" aria-modal="true">
+          <div className="words-direction-popup">
+            <button
+              type="button"
+              className="popup-close-btn popup-close-btn--direction"
+              onClick={() => {
+                playButtonClick(muted)
+                setShowRanksReviewDirectionPopup(false)
+              }}
+              aria-label="Sulje"
+            >
+              ×
+            </button>
+            <h2 id="ranks-review-direction-popup-title" className="section-heading">Valitse sanaston käännössuunta</h2>
+            <div className="options-grid">
+              {(['fi-ru', 'ru-fi'] as const).map((dir) => (
+                <button
+                  key={dir}
+                  type="button"
+                  className="option-btn"
+                  onClick={() => {
+                    const language: RanksLanguage = dir === 'fi-ru' ? 'fi' : 'ru'
+                    playButtonClick(muted)
+                    setRanksReviewError(null)
+                    if (!startRanksReviewGame(language)) {
+                      setRanksReviewError('Lisää vähintään 4 arvoa kerrattavaan listaan pelataksesi.')
+                      return
+                    }
+                    setShowRanksReviewDirectionPopup(false)
+                  }}
+                >
+                  <span className="option-btn-label">{WORDS_DIRECTION_POPUP_LABELS[dir]}</span>
+                </button>
+              ))}
+            </div>
+            <button type="button" className="back-btn back-btn-inline words-direction-popup-back" onClick={() => setShowRanksReviewDirectionPopup(false)}>
+              ← Takaisin
+            </button>
+          </div>
+        </div>
+      )}
 
       {/* Words: Sotilassanasto – 1.1.1.–1.1.8. (direction asked in popup after click) */}
       {selectedContentType === 'words' && selectedWordsCategory === 'sotilassanasto' && selectedWordsList === null && (
         <section className="section">
           <h2 className="section-heading">Sotilassanasto</h2>
           <div className="options-grid options-grid-modules">
-            {SOTILASSANASTO_MENU_IDS.map((listId, idx) => {
+            {[...SOTILASSANASTO_MENU_IDS.filter((id) => id !== 'kerrattava-sanasto'), ...SOTILASSANASTO_MENU_IDS.filter((id) => id === 'kerrattava-sanasto')].map((listId, idx) => {
               const directionForRounds = selectedWordsDirection ?? 'fi-ru'
               const wordsKey = getRoundsKey('words', `${directionForRounds}_${listId}`)
               const roundsDisplay = formatRoundsDisplay(getRounds(wordsKey))
@@ -666,14 +774,15 @@ function App() {
                 <button
                   key={listId}
                   type="button"
-                  className={isKertaus ? 'option-btn' : 'option-btn option-btn-with-rounds'}
+                  className={isKertaus ? 'option-btn option-btn-kertaus' : 'option-btn option-btn-with-rounds'}
                   onClick={() => {
                     playButtonClick(muted)
+                    setGameMenuTitle(listId === 'kerrattava-sanasto' ? 'Kertaus' : PERUSSANASTO_LABELS[listId])
                     setPendingWordsListId(listId)
                     setShowDirectionPopup(true)
                   }}
                 >
-                  <span className="option-btn-label">1.1.{idx + 1}. {PERUSSANASTO_LABELS[listId]}</span>
+                  <span className="option-btn-label">{isKertaus ? 'Kertaus' : `1.1.${idx + 1}. ${PERUSSANASTO_LABELS[listId]}`}</span>
                   {!isKertaus && <span className="option-rounds">{roundsDisplay}</span>}
                 </button>
               )
@@ -689,8 +798,8 @@ function App() {
       {selectedContentType === 'words' && selectedWordsCategory === 'lyhenteet' && selectedWordsList === null && (
         <section className="section">
           <h2 className="section-heading">Lyhenteet</h2>
-          <div className="options-grid">
-            {LYHENTEET_LIST_IDS.map((listId, idx) => {
+          <div className="options-grid options-grid-modules">
+            {[...LYHENTEET_LIST_IDS.filter((id) => id !== 'lyhenteet-kerrattava'), ...LYHENTEET_LIST_IDS.filter((id) => id === 'lyhenteet-kerrattava')].map((listId, idx) => {
               const num = idx + 1
               const directionForRounds = 'fi-ru'
               const isKertaus = listId === 'lyhenteet-kerrattava'
@@ -698,15 +807,16 @@ function App() {
                 <button
                   key={listId}
                   type="button"
-                  className={isKertaus ? 'option-btn' : 'option-btn option-btn-with-rounds'}
+                  className={isKertaus ? 'option-btn option-btn-kertaus' : 'option-btn option-btn-with-rounds'}
                   onClick={() => {
                     playButtonClick(muted)
+                    setGameMenuTitle(listId === 'lyhenteet-kerrattava' ? 'Kertaus' : PERUSSANASTO_LABELS[listId])
                     setSelectedWordsDirection('fi-ru')
                     startPerussanastoGameWhenLoadedRef.current = true
                     setSelectedWordsList(listId)
                   }}
                 >
-                  <span className="option-btn-label">1.2.{num}. {PERUSSANASTO_LABELS[listId]}</span>
+                  <span className="option-btn-label">{isKertaus ? 'Kertaus' : `1.2.${num}. ${PERUSSANASTO_LABELS[listId]}`}</span>
                   {!isKertaus && (
                     <span className="option-rounds">
                       {formatRoundsDisplay(getRounds(getRoundsKey('words', `${directionForRounds}_${listId}`)))}
@@ -748,7 +858,7 @@ function App() {
       {/* Taktiset merkit – Sotilasmerkistö (Vihollisen*) and Joukkojen koko (rest) */}
       {selectedContentType === 'tactical-signs' && (
         <section className="section">
-          <h2 className="section-heading">Taktiset merkit</h2>
+          <h2 className="section-heading">Sotilasmerkistö</h2>
           <div className="options-grid">
             <button
               type="button"
@@ -757,7 +867,7 @@ function App() {
                 startTacticalSignsGame('sotilasmerkisto')
               }}
             >
-              <span className="option-btn-label">4.1. Sotilasmerkistö</span>
+              <span className="option-btn-label">3.1. Joukkotyypit</span>
               <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('tactical-signs', 'sotilasmerkisto')))}</span>
             </button>
             <button
@@ -767,10 +877,13 @@ function App() {
                 startTacticalSignsGame('joukkojen-koko')
               }}
             >
-              <span className="option-btn-label">4.2. Joukkojen koko</span>
+              <span className="option-btn-label">3.2. Joukkokoko</span>
               <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('tactical-signs', 'joukkojen-koko')))}</span>
             </button>
           </div>
+          <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedContentType(null) }}>
+            ← Takaisin
+          </button>
         </section>
       )}
 
@@ -787,16 +900,19 @@ function App() {
                 setSelectedRanksBranch('maavoimat')
               }}
             >
-              3.1. Maavoimat
+              4.1. Maavoimat
             </button>
             <button
               type="button"
               className="option-btn disabled"
               disabled
             >
-              3.2. Merivoimat<span className="coming-soon-inline"> — {COMING_SOON_TEXT}</span>
+              4.2. Merivoimat<span className="coming-soon-inline"> — {COMING_SOON_TEXT}</span>
             </button>
           </div>
+          <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedContentType(null) }}>
+            ← Takaisin
+          </button>
         </section>
       )}
       {selectedContentType === 'ranks' && selectedRanksBranch !== null && (
@@ -808,7 +924,7 @@ function App() {
               className="option-btn option-btn-with-rounds"
               onClick={() => { setRanksReviewError(null); startRanksGame(selectedRanksBranch, 'fi') }}
             >
-              <span className="option-btn-label">3.1.1. Suomeksi</span>
+              <span className="option-btn-label">4.1.1. Suomeksi</span>
               <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('ranks', `${selectedRanksBranch}_fi`)))}</span>
             </button>
             <button
@@ -816,30 +932,20 @@ function App() {
               className="option-btn option-btn-with-rounds"
               onClick={() => { setRanksReviewError(null); startRanksGame(selectedRanksBranch, 'ru') }}
             >
-              <span className="option-btn-label">3.1.2. Venäjäksi</span>
+              <span className="option-btn-label">4.1.2. Venäjäksi</span>
               <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('ranks', `${selectedRanksBranch}_ru`)))}</span>
             </button>
             <button
               type="button"
-              className="option-btn"
+              className="option-btn option-btn-kertaus"
               onClick={() => {
                 playButtonClick(muted)
                 setRanksReviewError(null)
-                if (!startRanksReviewGame('fi')) setRanksReviewError('Lisää vähintään 4 arvoa kerrattavaan listaan pelataksesi (suomeksi).')
+                setGameMenuTitle('Kertaus')
+                setShowRanksReviewDirectionPopup(true)
               }}
             >
-              <span className="option-btn-label">3.1.3. Kertaus (Suomeksi)</span>
-            </button>
-            <button
-              type="button"
-              className="option-btn"
-              onClick={() => {
-                playButtonClick(muted)
-                setRanksReviewError(null)
-                if (!startRanksReviewGame('ru')) setRanksReviewError('Lisää vähintään 4 arvoa kerrattavaan listaan pelataksesi (venäjäksi).')
-              }}
-            >
-              <span className="option-btn-label">3.1.4. Kertaus (Venäjäksi)</span>
+              <span className="option-btn-label">Kertaus</span>
             </button>
           </div>
           {ranksReviewError && <p className="words-file-hint-inline">{ranksReviewError}</p>}
@@ -942,6 +1048,9 @@ function App() {
             ← Takaisin kaluston osastoon
           </button>
         </section>
+      )}
+      </div>
+      </div>
       )}
       </div>
     </div>

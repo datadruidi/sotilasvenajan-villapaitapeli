@@ -14,6 +14,7 @@ const path = require('path')
 const TACTICAL_BASE = path.join(__dirname, '..', 'public', 'assets', 'tactical-signs')
 const OUT_FILE = path.join(__dirname, '..', 'src', 'data', 'tacticalSignsPaths.ts')
 const EXTENSIONS = new Set(['.jpg', '.jpeg', '.png', '.webp'])
+const IGNORED_DIRS = new Set(['vanhat'])
 
 const FOLDER_SOTILASMERKISTO = 'Sotilasmerkistö'
 const FOLDER_JOUKKOJEN_KOKO = 'Joukkojen koko'
@@ -25,6 +26,7 @@ function walkDir(dir, pathPrefix, acc) {
     const full = path.join(dir, e.name)
     const rel = pathPrefix ? `${pathPrefix}/${e.name}` : e.name
     if (e.isDirectory()) {
+      if (IGNORED_DIRS.has(e.name.toLowerCase())) continue
       walkDir(full, rel, acc)
     } else if (EXTENSIONS.has(path.extname(e.name).toLowerCase())) {
       acc.push('/assets/tactical-signs/' + rel.replace(/\\/g, '/'))

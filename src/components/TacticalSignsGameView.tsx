@@ -14,6 +14,7 @@ const POINTS_PER_CORRECT = 1
 
 interface TacticalSignsGameViewProps {
   subset: TacticalSignsSubset
+  menuTitle: string
   muted: boolean
   onToggleMute: () => void
   onBack: () => void
@@ -28,7 +29,7 @@ function getAchievementMessage(score: number): string {
   return 'Jatka vain! Pääset määrään.'
 }
 
-export function TacticalSignsGameView({ subset, muted, onToggleMute, onBack, onRoundComplete }: TacticalSignsGameViewProps) {
+export function TacticalSignsGameView({ subset, menuTitle, muted, onToggleMute, onBack, onRoundComplete }: TacticalSignsGameViewProps) {
   const [pool, setPool] = useState<TacticalSignEntry[]>([])
   const [currentEntry, setCurrentEntry] = useState<TacticalSignEntry | null>(null)
   const [options, setOptions] = useState<string[]>([])
@@ -157,12 +158,10 @@ export function TacticalSignsGameView({ subset, muted, onToggleMute, onBack, onR
     <div className="app">
       <div className="game-view game-view-quiz">
         <div className="quiz-header">
-          <span className="quiz-breadcrumb">Taktiset merkit — {subset === 'sotilasmerkisto' ? 'Sotilasmerkistö' : 'Joukkojen koko'}</span>
-          <div className="quiz-progress">
-            <span className="quiz-progress-line">Kierros: {round}/{MAX_ROUNDS}</span>
-            <span className="quiz-progress-line">Oikein: {score}/{MAX_ROUNDS}</span>
-          </div>
           <div className="quiz-header-actions">
+            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title="Päävalikko" aria-label="Päävalikko">
+              🏠
+            </button>
             <button
               type="button"
               className="mute-btn mute-btn-small"
@@ -172,9 +171,11 @@ export function TacticalSignsGameView({ subset, muted, onToggleMute, onBack, onR
             >
               {muted ? '🔇' : '🔊'}
             </button>
-            <button type="button" className="back-btn back-btn-small" onClick={onBack}>
-              ← Takaisin
-            </button>
+          </div>
+          <span className="quiz-title">{menuTitle}</span>
+          <div className="quiz-progress quiz-progress-card">
+            <span className="quiz-progress-line">Kierros: {round}/{MAX_ROUNDS}</span>
+            <span className="quiz-progress-line">Oikein: {score}/{MAX_ROUNDS}</span>
           </div>
         </div>
 

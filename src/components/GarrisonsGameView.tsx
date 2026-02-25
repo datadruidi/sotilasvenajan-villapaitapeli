@@ -15,6 +15,7 @@ const POINTS_PER_CORRECT = 1
 
 interface GarrisonsGameViewProps {
   region: GarrisonRegionId
+  menuTitle: string
   /** When set, use this pool instead of getGarrisonsPool(region). Used for "Käyttäjän kerrattava". */
   initialPool?: GarrisonEntry[]
   onAddToGarrisonReview?: (entry: GarrisonEntry) => void
@@ -36,6 +37,7 @@ function getAchievementMessage(correctCount: number): string {
 
 export function GarrisonsGameView({
   region,
+  menuTitle,
   initialPool: initialPoolProp,
   onAddToGarrisonReview,
   onRemoveFromGarrisonReview,
@@ -227,12 +229,15 @@ export function GarrisonsGameView({
     <div className="app">
       <div className="game-view game-view-quiz">
         <div className="quiz-header">
-          <span className="quiz-breadcrumb">Venäjä → Sotilaspiirit</span>
-          <div className="quiz-progress">
+          <span className="quiz-title">{menuTitle}</span>
+          <div className="quiz-progress quiz-progress-card">
             <span className="quiz-progress-line">{isGarrisonReviewList ? `Kierros: ${displayRound}` : `Kierros: ${displayRound}/${MAX_ROUNDS}`}</span>
             <span className="quiz-progress-line">{isGarrisonReviewList ? `Oikein: ${correctCount}` : `Oikein: ${correctCount}/${MAX_ROUNDS}`}</span>
           </div>
           <div className="quiz-header-actions">
+            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title="Päävalikko" aria-label="Päävalikko">
+              🏠
+            </button>
             <button
               type="button"
               className="mute-btn mute-btn-small"
@@ -241,9 +246,6 @@ export function GarrisonsGameView({
               aria-label={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
             >
               {muted ? '🔇' : '🔊'}
-            </button>
-            <button type="button" className="back-btn back-btn-small" onClick={onBack}>
-              ← Takaisin
             </button>
           </div>
         </div>

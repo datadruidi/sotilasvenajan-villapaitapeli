@@ -90,10 +90,13 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
     return (
       <div className="splash-screen splash-screen--info">
         <div className="splash-info-page">
-          <button type="button" className="splash-info-back" onClick={handleInfoBack}>
-            ← Takaisin aloitusnäytölle
-          </button>
-          <h1 className="splash-info-page-title">{pageTitle}</h1>
+          <div className="splash-info-header">
+            <button type="button" className="splash-info-back" onClick={handleInfoBack} aria-label="Aloitusnäytölle">
+              🏠
+            </button>
+            <h1 className="splash-info-page-title">{pageTitle}</h1>
+            <span className="splash-info-header-spacer" aria-hidden="true" />
+          </div>
           <div className="splash-info-body">
             {pageError && <p className="splash-info-error">{pageError}</p>}
             {pageContent == null && !pageError && (
@@ -122,6 +125,10 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
           <img src={FAVICON_SRC} alt="" className="splash-logo" />
         </button>
         <h1 className="splash-title">Sotilasvenäjän villapaitapeli</h1>
+        <div className="splash-title-flags" aria-hidden="true">
+          <img src={`${import.meta.env.BASE_URL}finland.png`} alt="" className="splash-title-flag" />
+          <img src={`${import.meta.env.BASE_URL}ukraine.png`} alt="" className="splash-title-flag" />
+        </div>
         <div className="splash-buttons">
           <button type="button" className="splash-play-btn" onClick={handlePlayClick}>
             Pelaa

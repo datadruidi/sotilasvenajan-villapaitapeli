@@ -26,6 +26,7 @@ interface WordsGameViewProps {
   direction: WordsDirection
   difficulty: WordsDifficulty
   directionLabel: string
+  menuTitle: string
   /** Pre-filtered word pool (e.g. one module). When provided, CSV is not loaded. */
   initialPool?: WordEntry[]
   /** When true (e.g. 1.2 Lyhenteet), prompt text uses same size as option buttons. */
@@ -57,7 +58,8 @@ function getAchievementMessage(score: number): string {
 export function WordsGameView({
   direction,
   difficulty: _difficulty,
-  directionLabel,
+  directionLabel: _directionLabel,
+  menuTitle,
   initialPool,
   compactPrompt = false,
   onAddToReview,
@@ -382,12 +384,10 @@ export function WordsGameView({
     <div className="app">
       <div className="game-view game-view-quiz">
         <div className="quiz-header">
-          <span className="quiz-breadcrumb">Venäjä → Sotilasvenäjän sanasto → {directionLabel}</span>
-          <div className="quiz-progress">
-            <span className="quiz-progress-line">{unlimitedRounds ? `Kierros: ${round}` : `Kierros: ${round}/${maxRounds}`}</span>
-            <span className="quiz-progress-line">{unlimitedRounds ? `Oikein: ${score}` : `Oikein: ${score}/${maxRounds}`}</span>
-          </div>
           <div className="quiz-header-actions">
+            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title="Päävalikko" aria-label="Päävalikko">
+              🏠
+            </button>
             <button
               type="button"
               className="mute-btn mute-btn-small"
@@ -397,9 +397,11 @@ export function WordsGameView({
             >
               {muted ? '🔇' : '🔊'}
             </button>
-            <button type="button" className="back-btn back-btn-small" onClick={onBack}>
-              ← Takaisin
-            </button>
+          </div>
+          <span className="quiz-title">{menuTitle}</span>
+          <div className="quiz-progress quiz-progress-card">
+            <span className="quiz-progress-line">{unlimitedRounds ? `Kierros: ${round}` : `Kierros: ${round}/${maxRounds}`}</span>
+            <span className="quiz-progress-line">{unlimitedRounds ? `Oikein: ${score}` : `Oikein: ${score}/${maxRounds}`}</span>
           </div>
         </div>
 
@@ -409,8 +411,6 @@ export function WordsGameView({
             {prompt}
           </p>
         </div>
-
-        <p className="quiz-prompt">Valitse oikea {answerLabel} käännös</p>
 
         {onAddToReview && currentPair && !isReviewList && (
           isCurrentInReviewList ? (
@@ -428,6 +428,7 @@ export function WordsGameView({
             Poista sana kerrattavalta listalta
           </button>
         )}
+        <p className="quiz-prompt">Valitse oikea {answerLabel} käännös</p>
         {onAddToLyhenteetReview && currentLyhenteetEntry && !isLyhenteetReviewList && (
           isCurrentInLyhenteetReviewList ? (
             <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromLyhenteetReviewInGame}>
