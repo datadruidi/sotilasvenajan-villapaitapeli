@@ -1,4 +1,5 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
+﻿import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
+import type { AppLanguage } from '../types/game'
 import type { RanksBranchId } from '../data/ranksData'
 import type { RankGameEntry, RanksLanguage } from '../lib/ranksLogic'
 import {
@@ -19,7 +20,7 @@ interface RanksGameViewProps {
   branch: RanksBranchId
   language: RanksLanguage
   menuTitle: string
-  /** When set, use this pool instead of getRanksPool(branch, language). Used for "Käyttäjän kerrattava". */
+  appLanguage: AppLanguage
   initialPool?: RankGameEntry[]
   onAddToRanksReview?: (entry: RankGameEntry) => void
   onRemoveFromRanksReview?: (entry: RankGameEntry) => void
@@ -30,23 +31,31 @@ interface RanksGameViewProps {
   onRoundComplete?: () => void
 }
 
-function getAchievementMessage(score: number): string {
-  if (score >= 10) return 'Täydellinen! Olet aivan oikeassa.'
-  if (score >= 8) return 'Hienoa! Melkein täydellinen.'
+function getAchievementMessage(score: number, appLanguage: AppLanguage): string {
+  if (appLanguage === 'eng') {
+    if (score >= 10) return 'Perfect score. Excellent work.'
+    if (score >= 8) return 'Great work. Almost perfect.'
+    if (score >= 6) return 'Good job. Solid result.'
+    if (score >= 4) return 'Nice try. Keep practicing.'
+    return 'Keep going. You will improve quickly.'
+  }
+  if (score >= 10) return 'Taydellinen! Olet aivan oikeassa.'
+  if (score >= 8) return 'Hienoa! Melkein taydellinen.'
   if (score >= 6) return 'Hyvin tehty! Vakaa suoritus.'
-  if (score >= 4) return 'Hyvä yritys! Jatka harjoittelua.'
-  return 'Jatka vain! Pääset määrään.'
+  if (score >= 4) return 'Hyva yritys! Jatka harjoittelua.'
+  return 'Jatka vain! Paatset maaraan.'
 }
 
-const BRANCH_LABEL: Record<RanksBranchId, string> = {
-  maavoimat: 'Maavoimat',
-  merivoimat: 'Merivoimat',
+const BRANCH_LABEL: Record<RanksBranchId, { fin: string; eng: string }> = {
+  maavoimat: { fin: 'Maavoimat', eng: 'Ground Forces' },
+  merivoimat: { fin: 'Merivoimat', eng: 'Navy' },
 }
 
 export function RanksGameView({
   branch,
   language,
   menuTitle,
+  appLanguage,
   initialPool: initialPoolProp,
   onAddToRanksReview,
   onRemoveFromRanksReview,
@@ -56,6 +65,7 @@ export function RanksGameView({
   onBack,
   onRoundComplete,
 }: RanksGameViewProps) {
+  const isEnglish = appLanguage === 'eng'
   const [pool, setPool] = useState<RankGameEntry[]>(initialPoolProp ?? [])
   const [currentEntry, setCurrentEntry] = useState<RankGameEntry | null>(null)
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null)
@@ -63,7 +73,6 @@ export function RanksGameView({
   const [round, setRound] = useState(1)
   const [score, setScore] = useState(0)
   const [gameOver, setGameOver] = useState(false)
-  /** When onAddToRanksReview is set, track review list so add/remove button updates immediately. */
   const [ranksReviewEntries, setRanksReviewEntries] = useState<RanksReviewEntry[]>(() =>
     onAddToRanksReview || onRemoveFromRanksReview ? getRanksReviewEntries() : []
   )
@@ -75,11 +84,7 @@ export function RanksGameView({
   const startRound = useCallback(
     (roundNumber: number) => {
       const ranksPool = initialPoolProp != null && initialPoolProp.length > 0 ? initialPoolProp : getRanksPool(branch, language)
-      if (initialPoolProp != null && initialPoolProp.length > 0) {
-        setPool(initialPoolProp)
-      } else {
-        setPool(getRanksPool(branch, language))
-      }
+      setPool(ranksPool)
       const entry = selectRankFromPool(ranksPool)
       if (!entry) {
         setCurrentEntry(null)
@@ -110,7 +115,6 @@ export function RanksGameView({
   }, [startRound])
 
   const prevReviewPoolLengthRef = useRef<number | null>(null)
-  // When in review mode and parent updates pool (after remove), refresh current question or end game if empty
   useEffect(() => {
     if (!isRanksReviewList || initialPoolProp == null) return
     if (initialPoolProp.length === 0) {
@@ -124,9 +128,8 @@ export function RanksGameView({
       startRound(round)
     }
     prevReviewPoolLengthRef.current = initialPoolProp.length
-  }, [initialPoolProp, isRanksReviewList])
+  }, [initialPoolProp, isRanksReviewList, onRoundComplete, round, startRound])
 
-  // Derive options and correctAnswer from current language at render time (so Venäjäksi always shows Russian)
   const options = useMemo(() => {
     if (!currentEntry || pool.length === 0) return []
     return generateRanksOptions(currentEntry, pool, language)
@@ -201,14 +204,15 @@ export function RanksGameView({
     return (
       <div className="app">
         <div className="game-view">
-          <h2>Ei sisältöä vielä</h2>
-          <p className="session-info">Sotilasarvot — {BRANCH_LABEL[branch]}</p>
+          <h2>{isEnglish ? 'No content yet' : 'Ei sisaltoa viela'}</h2>
+          <p className="session-info">{isEnglish ? 'Military ranks' : 'Sotilasarvot'} - {BRANCH_LABEL[branch][isEnglish ? 'eng' : 'fin']}</p>
           <p className="placeholder-note">
-            Lisää kuvia kansioon public/assets/sotilasarvot/{BRANCH_LABEL[branch]}/ (tiedostonimi = suomenkielinen arvo + .jpg)
-            ja lisää arvot src/data/ranksData.ts. Aja: node scripts/list-ranks-images.cjs
+            {isEnglish
+              ? `Add images under public/assets/sotilasarvot/${BRANCH_LABEL[branch].fin}/ and add rank entries in src/data/ranksData.ts. Run: node scripts/list-ranks-images.cjs`
+              : `Lisaa kuvia kansioon public/assets/sotilasarvot/${BRANCH_LABEL[branch].fin}/ (tiedostonimi = suomenkielinen arvo + .jpg) ja lisaa arvot src/data/ranksData.ts. Aja: node scripts/list-ranks-images.cjs`}
           </p>
           <button type="button" className="back-btn" onClick={onBack}>
-            ← Takaisin alkuun
+            {isEnglish ? '<- Back to menu' : '<- Takaisin alkuun'}
           </button>
         </div>
       </div>
@@ -224,31 +228,31 @@ export function RanksGameView({
               type="button"
               className="mute-btn mute-btn-small"
               onClick={onToggleMute}
-              title={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
-              aria-label={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
+              title={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
+              aria-label={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
             >
               {muted ? '🔇' : '🔊'}
             </button>
           </div>
           <div className="result-scores">
             {isRanksReviewList ? (
-              <div className="result-score-line">Oikein: {score}</div>
+              <div className="result-score-line">{isEnglish ? 'Correct' : 'Oikein'}: {score}</div>
             ) : (
               <>
-                <div className="result-score-line">Kierros: {MAX_ROUNDS}/{MAX_ROUNDS}</div>
-                <div className="result-score-line">Oikein: {score}/{MAX_ROUNDS}</div>
+                <div className="result-score-line">{isEnglish ? 'Round' : 'Kierros'}: {MAX_ROUNDS}/{MAX_ROUNDS}</div>
+                <div className="result-score-line">{isEnglish ? 'Correct' : 'Oikein'}: {score}/{MAX_ROUNDS}</div>
               </>
             )}
           </div>
           <img src={getAssetUrl('assets/complete.png')} alt="" className="result-complete-img" />
-          <h2 className="result-title">{isRanksReviewList ? 'Kaikki kerrattavat tehty!' : 'Kierros suoritettu!'}</h2>
-          <p className="result-message">{isRanksReviewList ? `Oikein ${score} vastausta.` : getAchievementMessage(score)}</p>
+          <h2 className="result-title">{isRanksReviewList ? (isEnglish ? 'Review list completed!' : 'Kaikki kerrattavat tehty!') : (isEnglish ? 'Round complete!' : 'Kierros suoritettu!')}</h2>
+          <p className="result-message">{isRanksReviewList ? (isEnglish ? `${score} correct answers.` : `Oikein ${score} vastausta.`) : getAchievementMessage(score, appLanguage)}</p>
           <div className="result-actions">
             <button type="button" className="result-btn result-btn-retry" onClick={startNewGame}>
-              Yritä uudelleen
+              {isEnglish ? 'Try again' : 'Yrita uudelleen'}
             </button>
             <button type="button" className="result-btn result-btn-menu" onClick={onBack}>
-              Päävalikko
+              {isEnglish ? 'Main menu' : 'Paavalikko'}
             </button>
           </div>
         </div>
@@ -272,50 +276,50 @@ export function RanksGameView({
       <div className="game-view game-view-quiz">
         <div className="quiz-header">
           <div className="quiz-header-actions">
-            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title="Päävalikko" aria-label="Päävalikko">
+            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title={isEnglish ? 'Main menu' : 'Paavalikko'} aria-label={isEnglish ? 'Main menu' : 'Paavalikko'}>
               🏠
             </button>
             <button
               type="button"
               className="mute-btn mute-btn-small"
               onClick={onToggleMute}
-              title={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
-              aria-label={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
+              title={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
+              aria-label={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
             >
               {muted ? '🔇' : '🔊'}
             </button>
           </div>
           <span className="quiz-title">{menuTitle}</span>
           <div className="quiz-progress quiz-progress-card">
-            <span className="quiz-progress-line">{isRanksReviewList ? `Kierros: ${round}` : `Kierros: ${round}/${MAX_ROUNDS}`}</span>
-            <span className="quiz-progress-line">{isRanksReviewList ? `Oikein: ${score}` : `Oikein: ${score}/${MAX_ROUNDS}`}</span>
+            <span className="quiz-progress-line">{isRanksReviewList ? `${isEnglish ? 'Round' : 'Kierros'}: ${round}` : `${isEnglish ? 'Round' : 'Kierros'}: ${round}/${MAX_ROUNDS}`}</span>
+            <span className="quiz-progress-line">{isRanksReviewList ? `${isEnglish ? 'Correct' : 'Oikein'}: ${score}` : `${isEnglish ? 'Correct' : 'Oikein'}: ${score}/${MAX_ROUNDS}`}</span>
           </div>
         </div>
 
         <div className="quiz-image-wrap">
           <img
             src={getAssetUrl(currentEntry.assetPath)}
-            alt="Tunnista sotilasarvo"
+            alt={isEnglish ? 'Identify military rank' : 'Tunnista sotilasarvo'}
             className="quiz-image"
           />
         </div>
 
-        <p className="quiz-prompt">Mikä sotilasarvo tämä on?</p>
+        <p className="quiz-prompt">{isEnglish ? 'What rank is this?' : 'Mika sotilasarvo tama on?'}</p>
 
         {onAddToRanksReview && currentEntry && !isRanksReviewList && (
           isCurrentInRanksReviewList ? (
             <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromRanksReviewInGame}>
-              Poista arvo kerrattavalta listalta
+              {isEnglish ? 'Remove rank from review list' : 'Poista arvo kerrattavalta listalta'}
             </button>
           ) : (
             <button type="button" className="quiz-review-btn quiz-review-btn--add" onClick={handleAddToRanksReview}>
-              Lisää arvo kerrattavaan listaan
+              {isEnglish ? 'Add rank to review list' : 'Lisaa arvo kerrattavaan listaan'}
             </button>
           )
         )}
         {isRanksReviewList && onRemoveFromRanksReview && currentEntry && (
           <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromRanksReviewAndAdvance}>
-            Poista arvo kerrattavalta listalta
+            {isEnglish ? 'Remove rank from review list' : 'Poista arvo kerrattavalta listalta'}
           </button>
         )}
 
@@ -336,16 +340,16 @@ export function RanksGameView({
         {showResult && (
           <div className={`quiz-feedback ${isCorrect ? 'correct' : 'incorrect'}`}>
             {isCorrect ? (
-              <>Oikein — {correctAnswer}</>
+              <>{isEnglish ? 'Correct' : 'Oikein'} - {correctAnswer}</>
             ) : (
-              <>Oikea vastaus: {correctAnswer}</>
+              <>{isEnglish ? 'Correct answer' : 'Oikea vastaus'}: {correctAnswer}</>
             )}
           </div>
         )}
 
         {showResult && (
           <button type="button" className="quiz-next-btn" onClick={handleNext}>
-            Seuraava kysymys
+            {isEnglish ? 'Next question' : 'Seuraava kysymys'}
           </button>
         )}
       </div>

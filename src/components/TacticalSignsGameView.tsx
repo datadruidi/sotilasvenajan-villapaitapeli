@@ -1,4 +1,5 @@
-import { useCallback, useEffect, useState } from 'react'
+﻿import { useCallback, useEffect, useState } from 'react'
+import type { AppLanguage } from '../types/game'
 import type { TacticalSignEntry, TacticalSignsSubset } from '../lib/tacticalSignsLogic'
 import {
   checkTacticalSignAnswer,
@@ -8,6 +9,7 @@ import {
 } from '../lib/tacticalSignsLogic'
 import { getAssetUrl } from '../lib/assetUrl'
 import { playCorrect, playRoundComplete, playWrong } from '../lib/sound'
+import { TACTICAL_SIGNS_TRANSLATIONS } from '../data/tacticalSignsTranslations'
 
 const MAX_ROUNDS = 10
 const POINTS_PER_CORRECT = 1
@@ -15,21 +17,30 @@ const POINTS_PER_CORRECT = 1
 interface TacticalSignsGameViewProps {
   subset: TacticalSignsSubset
   menuTitle: string
+  appLanguage: AppLanguage
   muted: boolean
   onToggleMute: () => void
   onBack: () => void
   onRoundComplete?: () => void
 }
 
-function getAchievementMessage(score: number): string {
-  if (score >= 10) return 'Täydellinen! Olet aivan oikeassa.'
-  if (score >= 8) return 'Hienoa! Melkein täydellinen.'
+function getAchievementMessage(score: number, appLanguage: AppLanguage): string {
+  if (appLanguage === 'eng') {
+    if (score >= 10) return 'Perfect score. Excellent work.'
+    if (score >= 8) return 'Great work. Almost perfect.'
+    if (score >= 6) return 'Good job. Solid result.'
+    if (score >= 4) return 'Nice try. Keep practicing.'
+    return 'Keep going. You will improve quickly.'
+  }
+  if (score >= 10) return 'Taydellinen! Olet aivan oikeassa.'
+  if (score >= 8) return 'Hienoa! Melkein taydellinen.'
   if (score >= 6) return 'Hyvin tehty! Vakaa suoritus.'
-  if (score >= 4) return 'Hyvä yritys! Jatka harjoittelua.'
-  return 'Jatka vain! Pääset määrään.'
+  if (score >= 4) return 'Hyva yritys! Jatka harjoittelua.'
+  return 'Jatka vain! Paatset maaraan.'
 }
 
-export function TacticalSignsGameView({ subset, menuTitle, muted, onToggleMute, onBack, onRoundComplete }: TacticalSignsGameViewProps) {
+export function TacticalSignsGameView({ subset, menuTitle, appLanguage, muted, onToggleMute, onBack, onRoundComplete }: TacticalSignsGameViewProps) {
+  const isEnglish = appLanguage === 'eng'
   const [pool, setPool] = useState<TacticalSignEntry[]>([])
   const [currentEntry, setCurrentEntry] = useState<TacticalSignEntry | null>(null)
   const [options, setOptions] = useState<string[]>([])
@@ -66,6 +77,11 @@ export function TacticalSignsGameView({ subset, menuTitle, muted, onToggleMute, 
   }, [startRound])
 
   const correctAnswer = currentEntry?.term ?? ''
+  const displayTerm = (term: string): string => {
+    const translation = TACTICAL_SIGNS_TRANSLATIONS[term]
+    if (!translation) return term
+    return isEnglish ? (translation.en || translation.fi || term) : (translation.fi || term)
+  }
 
   const handleOptionClick = (option: string) => {
     if (showResult) return
@@ -95,13 +111,15 @@ export function TacticalSignsGameView({ subset, menuTitle, muted, onToggleMute, 
     return (
       <div className="app">
         <div className="game-view">
-          <h2>Ei sisältöä vielä</h2>
-          <p className="session-info">Taktiset merkit</p>
+          <h2>{isEnglish ? 'No content yet' : 'Ei sisaltoa viela'}</h2>
+          <p className="session-info">{isEnglish ? 'Tactical signs' : 'Taktiset merkit'}</p>
           <p className="placeholder-note">
-            Lisää kuvia oikeaan alakansioon (Sotilasmerkistö tai Joukkojen koko) ja aja projektin juuresta: node scripts/list-tactical-signs.cjs
+            {isEnglish
+              ? 'Add images under the proper folder and run from project root: node scripts/list-tactical-signs.cjs'
+              : 'Lisaa kuvia oikeaan alakansioon (Sotilasmerkisto tai Joukkojen koko) ja aja projektin juuresta: node scripts/list-tactical-signs.cjs'}
           </p>
           <button type="button" className="back-btn" onClick={onBack}>
-            ← Takaisin alkuun
+            {isEnglish ? '<- Back to menu' : '<- Takaisin alkuun'}
           </button>
         </div>
       </div>
@@ -117,25 +135,25 @@ export function TacticalSignsGameView({ subset, menuTitle, muted, onToggleMute, 
               type="button"
               className="mute-btn mute-btn-small"
               onClick={onToggleMute}
-              title={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
-              aria-label={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
+              title={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
+              aria-label={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
             >
               {muted ? '🔇' : '🔊'}
             </button>
           </div>
           <div className="result-scores">
-            <div className="result-score-line">Kierros: {MAX_ROUNDS}/{MAX_ROUNDS}</div>
-            <div className="result-score-line">Oikein: {score}/{MAX_ROUNDS}</div>
+            <div className="result-score-line">{isEnglish ? 'Round' : 'Kierros'}: {MAX_ROUNDS}/{MAX_ROUNDS}</div>
+            <div className="result-score-line">{isEnglish ? 'Correct' : 'Oikein'}: {score}/{MAX_ROUNDS}</div>
           </div>
           <img src={getAssetUrl('assets/complete.png')} alt="" className="result-complete-img" />
-          <h2 className="result-title">Kierros suoritettu!</h2>
-          <p className="result-message">{getAchievementMessage(score)}</p>
+          <h2 className="result-title">{isEnglish ? 'Round complete!' : 'Kierros suoritettu!'}</h2>
+          <p className="result-message">{getAchievementMessage(score, appLanguage)}</p>
           <div className="result-actions">
             <button type="button" className="result-btn result-btn-retry" onClick={startNewGame}>
-              Yritä uudelleen
+              {isEnglish ? 'Try again' : 'Yrita uudelleen'}
             </button>
             <button type="button" className="result-btn result-btn-menu" onClick={onBack}>
-              Päävalikko
+              {isEnglish ? 'Main menu' : 'Paavalikko'}
             </button>
           </div>
         </div>
@@ -159,35 +177,35 @@ export function TacticalSignsGameView({ subset, menuTitle, muted, onToggleMute, 
       <div className="game-view game-view-quiz">
         <div className="quiz-header">
           <div className="quiz-header-actions">
-            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title="Päävalikko" aria-label="Päävalikko">
+            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title={isEnglish ? 'Main menu' : 'Paavalikko'} aria-label={isEnglish ? 'Main menu' : 'Paavalikko'}>
               🏠
             </button>
             <button
               type="button"
               className="mute-btn mute-btn-small"
               onClick={onToggleMute}
-              title={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
-              aria-label={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
+              title={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
+              aria-label={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
             >
               {muted ? '🔇' : '🔊'}
             </button>
           </div>
           <span className="quiz-title">{menuTitle}</span>
           <div className="quiz-progress quiz-progress-card">
-            <span className="quiz-progress-line">Kierros: {round}/{MAX_ROUNDS}</span>
-            <span className="quiz-progress-line">Oikein: {score}/{MAX_ROUNDS}</span>
+            <span className="quiz-progress-line">{isEnglish ? 'Round' : 'Kierros'}: {round}/{MAX_ROUNDS}</span>
+            <span className="quiz-progress-line">{isEnglish ? 'Correct' : 'Oikein'}: {score}/{MAX_ROUNDS}</span>
           </div>
         </div>
 
         <div className="quiz-image-wrap">
           <img
             src={getAssetUrl(currentEntry.assetPath)}
-            alt="Tunnista taktinen merkki"
+            alt={isEnglish ? 'Identify tactical sign' : 'Tunnista taktinen merkki'}
             className="quiz-image"
           />
         </div>
 
-        <p className="quiz-prompt">Mikä taktinen merkki tämä on?</p>
+        <p className="quiz-prompt">{isEnglish ? 'Which tactical sign is this?' : 'Mika taktinen merkki tama on?'}</p>
 
         <div className="quiz-options">
           {options.map((option) => (
@@ -198,7 +216,7 @@ export function TacticalSignsGameView({ subset, menuTitle, muted, onToggleMute, 
               onClick={() => handleOptionClick(option)}
               disabled={showResult}
             >
-              {option}
+              {displayTerm(option)}
             </button>
           ))}
         </div>
@@ -206,16 +224,16 @@ export function TacticalSignsGameView({ subset, menuTitle, muted, onToggleMute, 
         {showResult && (
           <div className={`quiz-feedback ${isCorrect ? 'correct' : 'incorrect'}`}>
             {isCorrect ? (
-              <>Oikein — {correctAnswer}</>
+              <>{isEnglish ? 'Correct' : 'Oikein'} - {displayTerm(correctAnswer)}</>
             ) : (
-              <>Oikea vastaus: {correctAnswer}</>
+              <>{isEnglish ? 'Correct answer' : 'Oikea vastaus'}: {displayTerm(correctAnswer)}</>
             )}
           </div>
         )}
 
         {showResult && (
           <button type="button" className="quiz-next-btn" onClick={handleNext}>
-            Seuraava kysymys
+            {isEnglish ? 'Next question' : 'Seuraava kysymys'}
           </button>
         )}
       </div>

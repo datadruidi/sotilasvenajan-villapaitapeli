@@ -1,5 +1,5 @@
-import { useCallback, useEffect, useState } from 'react'
-import type { CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
+﻿import { useCallback, useEffect, useState } from 'react'
+import type { AppLanguage, CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
 import {
   checkAnswer,
   formatVesselName,
@@ -20,23 +20,31 @@ interface GameViewProps {
   branch: VehicleBranch
   branchLabel: string
   menuTitle: string
-  /** Navy only: quiz by vessel class (Alusluokat) or vessel name (Alusten nimet). */
   navySubMode?: NavySubMode
+  appLanguage: AppLanguage
   muted: boolean
   onToggleMute: () => void
   onBack: () => void
   onRoundComplete?: () => void
 }
 
-function getAchievementMessage(score: number): string {
-  if (score >= 10) return 'Täydellinen! Olet aivan oikeassa.'
-  if (score >= 8) return 'Hienoa! Melkein täydellinen.'
+function getAchievementMessage(score: number, appLanguage: AppLanguage): string {
+  if (appLanguage === 'eng') {
+    if (score >= 10) return 'Perfect score. Excellent work.'
+    if (score >= 8) return 'Great work. Almost perfect.'
+    if (score >= 6) return 'Good job. Solid result.'
+    if (score >= 4) return 'Nice try. Keep practicing.'
+    return 'Keep going. You will improve quickly.'
+  }
+  if (score >= 10) return 'Taydellinen! Olet aivan oikeassa.'
+  if (score >= 8) return 'Hienoa! Melkein taydellinen.'
   if (score >= 6) return 'Hyvin tehty! Vakaa suoritus.'
-  if (score >= 4) return 'Hyvä yritys! Jatka harjoittelua.'
-  return 'Jatka vain! Pääset määrään.'
+  if (score >= 4) return 'Hyva yritys! Jatka harjoittelua.'
+  return 'Jatka vain! Paatset maaraan.'
 }
 
-export function GameView({ country, branch, branchLabel, menuTitle, navySubMode, muted, onToggleMute, onBack, onRoundComplete }: GameViewProps) {
+export function GameView({ country, branch, branchLabel, menuTitle, navySubMode, appLanguage, muted, onToggleMute, onBack, onRoundComplete }: GameViewProps) {
+  const isEnglish = appLanguage === 'eng'
   const [pool, setPool] = useState<ImageEntry[]>([])
   const [currentEntry, setCurrentEntry] = useState<ImageEntry | null>(null)
   const [options, setOptions] = useState<string[]>([])
@@ -101,22 +109,22 @@ export function GameView({ country, branch, branchLabel, menuTitle, navySubMode,
 
   const sessionInfo =
     branch === 'navy' && navySubMode
-      ? `Venäjä → Puolustushaarojen suorituskyvyt → ${branchLabel} → ${navySubMode === 'class' ? 'Alusluokat' : 'Alusten nimet'}`
-      : `Venäjä → Puolustushaarojen suorituskyvyt → ${branchLabel}`
+      ? `${isEnglish ? 'Russia -> Branch capabilities' : 'Venaja -> Puolustushaarojen suorituskyvyt'} -> ${branchLabel} -> ${navySubMode === 'class' ? (isEnglish ? 'Vessel classes' : 'Alusluokat') : (isEnglish ? 'Vessel names' : 'Alusten nimet')}`
+      : `${isEnglish ? 'Russia -> Branch capabilities' : 'Venaja -> Puolustushaarojen suorituskyvyt'} -> ${branchLabel}`
 
   if (pool.length === 0 && !currentEntry && !gameOver) {
     return (
       <div className="app">
         <div className="game-view">
-          <h2>Ei sisältöä vielä</h2>
-          <p className="session-info">
-            {sessionInfo}
-          </p>
+          <h2>{isEnglish ? 'No content yet' : 'Ei sisaltoa viela'}</h2>
+          <p className="session-info">{sessionInfo}</p>
           <p className="placeholder-note">
-            Tälle maalle ja osastolle ei ole kuvia rekisterissä. Lisää kuvia rekisteriin pelataksesi.
+            {isEnglish
+              ? 'No images registered for this country and branch yet. Add images to play.'
+              : 'Talle maalle ja osastolle ei ole kuvia rekisterissa. Lisaa kuvia rekisteriin pelataksesi.'}
           </p>
           <button type="button" className="back-btn" onClick={onBack}>
-            ← Takaisin alkuun
+            {isEnglish ? '<- Back to menu' : '<- Takaisin alkuun'}
           </button>
         </div>
       </div>
@@ -132,25 +140,25 @@ export function GameView({ country, branch, branchLabel, menuTitle, navySubMode,
               type="button"
               className="mute-btn mute-btn-small"
               onClick={onToggleMute}
-              title={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
-              aria-label={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
+              title={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
+              aria-label={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
             >
               {muted ? '🔇' : '🔊'}
             </button>
           </div>
           <div className="result-scores">
-            <div className="result-score-line">Kierros: {MAX_ROUNDS}/{MAX_ROUNDS}</div>
-            <div className="result-score-line">Oikein: {score}/{MAX_ROUNDS}</div>
+            <div className="result-score-line">{isEnglish ? 'Round' : 'Kierros'}: {MAX_ROUNDS}/{MAX_ROUNDS}</div>
+            <div className="result-score-line">{isEnglish ? 'Correct' : 'Oikein'}: {score}/{MAX_ROUNDS}</div>
           </div>
           <img src={getAssetUrl('assets/complete.png')} alt="" className="result-complete-img" />
-          <h2 className="result-title">Kierros suoritettu!</h2>
-          <p className="result-message">{getAchievementMessage(score)}</p>
+          <h2 className="result-title">{isEnglish ? 'Round complete!' : 'Kierros suoritettu!'}</h2>
+          <p className="result-message">{getAchievementMessage(score, appLanguage)}</p>
           <div className="result-actions">
             <button type="button" className="result-btn result-btn-retry" onClick={startNewGame}>
-              Yritä uudelleen
+              {isEnglish ? 'Try again' : 'Yrita uudelleen'}
             </button>
             <button type="button" className="result-btn result-btn-menu" onClick={onBack}>
-              Päävalikko
+              {isEnglish ? 'Main menu' : 'Paavalikko'}
             </button>
           </div>
         </div>
@@ -170,7 +178,9 @@ export function GameView({ country, branch, branchLabel, menuTitle, navySubMode,
     return 'revealed'
   }
 
-  const quizPrompt = isVesselNameMode ? 'Mikä aluksen nimi on?' : 'Mikä alusluokka tämä on?'
+  const quizPrompt = isVesselNameMode
+    ? (isEnglish ? 'What is the vessel name?' : 'Mika aluksen nimi on?')
+    : (isEnglish ? 'What vessel class is this?' : 'Mika alusluokka tama on?')
   const formatOption = (opt: string) => (isVesselNameMode ? formatVesselName(opt) : normalizeClassLabel(opt))
 
   return (
@@ -178,30 +188,30 @@ export function GameView({ country, branch, branchLabel, menuTitle, navySubMode,
       <div className="game-view game-view-quiz">
         <div className="quiz-header">
           <div className="quiz-header-actions">
-            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title="Päävalikko" aria-label="Päävalikko">
+            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title={isEnglish ? 'Main menu' : 'Paavalikko'} aria-label={isEnglish ? 'Main menu' : 'Paavalikko'}>
               🏠
             </button>
             <button
               type="button"
               className="mute-btn mute-btn-small"
               onClick={onToggleMute}
-              title={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
-              aria-label={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
+              title={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
+              aria-label={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
             >
               {muted ? '🔇' : '🔊'}
             </button>
           </div>
           <span className="quiz-title">{menuTitle}</span>
           <div className="quiz-progress quiz-progress-card">
-            <span className="quiz-progress-line">Kierros: {round}/{MAX_ROUNDS}</span>
-            <span className="quiz-progress-line">Oikein: {score}/{MAX_ROUNDS}</span>
+            <span className="quiz-progress-line">{isEnglish ? 'Round' : 'Kierros'}: {round}/{MAX_ROUNDS}</span>
+            <span className="quiz-progress-line">{isEnglish ? 'Correct' : 'Oikein'}: {score}/{MAX_ROUNDS}</span>
           </div>
         </div>
 
         <div className="quiz-image-wrap">
           <img
             src={getAssetUrl(currentEntry.assetPath)}
-            alt="Tunnista alusluokka"
+            alt={isEnglish ? 'Identify vessel class' : 'Tunnista alusluokka'}
             className="quiz-image"
           />
         </div>
@@ -225,16 +235,16 @@ export function GameView({ country, branch, branchLabel, menuTitle, navySubMode,
         {showResult && (
           <div className={`quiz-feedback ${isCorrect ? 'correct' : 'incorrect'}`}>
             {isCorrect ? (
-              <>Oikein — {formatOption(correctAnswer)}</>
+              <>{isEnglish ? 'Correct' : 'Oikein'} - {formatOption(correctAnswer)}</>
             ) : (
-              <>Oikea vastaus: {formatOption(correctAnswer)}</>
+              <>{isEnglish ? 'Correct answer' : 'Oikea vastaus'}: {formatOption(correctAnswer)}</>
             )}
           </div>
         )}
 
         {showResult && (
           <button type="button" className="quiz-next-btn" onClick={handleNext}>
-            Seuraava kysymys
+            {isEnglish ? 'Next question' : 'Seuraava kysymys'}
           </button>
         )}
       </div>

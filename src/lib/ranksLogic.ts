@@ -7,13 +7,14 @@ import { RANKS_DATA } from '../data/ranksData'
 import { RANKS_MAAVOIMAT_PATHS, RANKS_MERIVOIMAT_PATHS } from '../data/ranksImagePaths'
 import type { RanksBranchId } from '../data/ranksData'
 
-export type RanksLanguage = 'fi' | 'ru'
+export type RanksLanguage = 'fi' | 'en' | 'ru'
 
 export interface RankGameEntry {
   id: string
   assetPath: string
   branch: RanksBranchId
   termFi: string
+  termEn: string
   termRu: string
 }
 
@@ -56,7 +57,9 @@ function findRankEntry(branch: RanksBranchId, termFi: string): (typeof RANKS_DAT
 export function getRankDisplayName(branch: RanksBranchId, termFi: string, language: RanksLanguage): string {
   const entry = findRankEntry(branch, termFi)
   if (!entry) return termFi
-  return language === 'fi' ? entry.fi : entry.ru.trim()
+  if (language === 'fi') return entry.fi
+  if (language === 'en') return (entry.en ?? entry.fi).trim()
+  return entry.ru.trim()
 }
 
 function buildPoolFromPaths(
@@ -71,12 +74,14 @@ function buildPoolFromPaths(
     if (!rawName) continue
     const termFi = rankNameFromFilename(rawName)
     const rankEntry = findRankEntry(branch, termFi)
+    const termEn = rankEntry ? (rankEntry.en ?? rankEntry.fi).trim() : termFi
     const termRu = rankEntry ? rankEntry.ru.trim() : termFi
     entries.push({
       id: `${idPrefix}-${i}-${assetPath.replace(/\//g, '-')}`,
       assetPath,
       branch,
       termFi,
+      termEn,
       termRu,
     })
   }

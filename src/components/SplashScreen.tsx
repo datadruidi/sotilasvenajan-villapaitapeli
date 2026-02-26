@@ -1,11 +1,6 @@
-/**
- * Splash screen: logo, "Pelaa", "Tietoa" and "Lähteet ja lisenssit" buttons (same width).
- * Tietoa opens README.md (copied to public/ at build); Lähteet opens public/lahteet.md.
- * intro.mp3 plays when the main splash is shown (on open or when returning via "Takaisin aloitusnäytölle").
- */
-
-import { useEffect, useRef, useState } from 'react'
+﻿import { useEffect, useRef, useState } from 'react'
 import ReactMarkdown from 'react-markdown'
+import type { AppLanguage } from '../types/game'
 import { playButtonClick } from '../lib/sound'
 
 const FAVICON_SRC = `${import.meta.env.BASE_URL}favicon.png`
@@ -19,16 +14,25 @@ type InfoPage = 'lahteet' | 'tietoa' | 'paivitykset' | null
 interface SplashScreenProps {
   onPlay: () => void
   muted: boolean
+  appLanguage: AppLanguage
+  onChangeLanguage: (language: AppLanguage) => void
 }
 
-export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
+export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: SplashScreenProps) {
+  const isEnglish = appLanguage === 'eng'
   const [infoPage, setInfoPage] = useState<InfoPage>(null)
   const [pageContent, setPageContent] = useState<string | null>(null)
   const [pageError, setPageError] = useState<string | null>(null)
   const introAudioRef = useRef<HTMLAudioElement | null>(null)
 
   const pageUrl = infoPage === 'lahteet' ? LAHTEET_URL : infoPage === 'tietoa' ? TIETOA_URL : infoPage === 'paivitykset' ? UPDATES_URL : null
-  const pageTitle = infoPage === 'lahteet' ? 'Lähteet ja lisenssit' : infoPage === 'tietoa' ? 'Tietoa' : infoPage === 'paivitykset' ? 'Päivitykset' : ''
+  const pageTitle = infoPage === 'lahteet'
+    ? (isEnglish ? 'Sources and licenses' : 'Lahteet ja lisenssit')
+    : infoPage === 'tietoa'
+      ? (isEnglish ? 'About' : 'Tietoa')
+      : infoPage === 'paivitykset'
+        ? (isEnglish ? 'Updates' : 'Paivitykset')
+        : ''
 
   useEffect(() => {
     const showMainSplash = infoPage === null
@@ -54,23 +58,16 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
     if (pageUrl == null) return
     setPageError(null)
     setPageContent(null)
-    fetch(pageUrl)
-      .then((res) => (res.ok ? res.text() : Promise.reject(new Error('Sivua ei ladattu'))))
+    const freshUrl = `${pageUrl}${pageUrl.includes('?') ? '&' : '?'}t=${Date.now()}`
+    fetch(freshUrl, { cache: 'no-store' })
+      .then((res) => (res.ok ? res.text() : Promise.reject(new Error('Could not load page'))))
       .then(setPageContent)
-      .catch(() => setPageError('Sisältöä ei voitu ladata.'))
-  }, [pageUrl])
-
-  const handlePlayClick = () => {
-    onPlay()
-  }
+      .catch(() => setPageError(isEnglish ? 'Could not load content.' : 'Sisaltoa ei voitu ladata.'))
+  }, [pageUrl, isEnglish])
 
   const openInfoPage = (page: InfoPage) => {
     playButtonClick(muted)
     setInfoPage(page)
-  }
-
-  const handleInfoBack = () => {
-    setInfoPage(null)
   }
 
   const handleLogoClick = () => {
@@ -91,7 +88,7 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
       <div className="splash-screen splash-screen--info">
         <div className="splash-info-page">
           <div className="splash-info-header">
-            <button type="button" className="splash-info-back" onClick={handleInfoBack} aria-label="Aloitusnäytölle">
+            <button type="button" className="splash-info-back" onClick={() => setInfoPage(null)} aria-label={isEnglish ? 'Back to start' : 'Aloitusnaytolle'}>
               🏠
             </button>
             <h1 className="splash-info-page-title">{pageTitle}</h1>
@@ -100,7 +97,7 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
           <div className="splash-info-body">
             {pageError && <p className="splash-info-error">{pageError}</p>}
             {pageContent == null && !pageError && (
-              <p className="splash-info-loading">Ladataan…</p>
+              <p className="splash-info-loading">{isEnglish ? 'Loading...' : 'Ladataan...'}</p>
             )}
             {pageContent != null && (
               <div className="splash-info-markdown">
@@ -116,31 +113,38 @@ export function SplashScreen({ onPlay, muted }: SplashScreenProps) {
   return (
     <div className="splash-screen">
       <div className="splash-content">
+        <h1 className="splash-title title-ukraine">{isEnglish ? 'Military Russian 101' : 'Sotilasvenäjän villapaitapeli'}</h1>
         <button
           type="button"
           className="splash-logo-btn"
           onClick={handleLogoClick}
-          aria-label="Toista intro"
+          aria-label={isEnglish ? 'Replay intro' : 'Toista intro'}
         >
           <img src={FAVICON_SRC} alt="" className="splash-logo" />
         </button>
-        <h1 className="splash-title">Sotilasvenäjän villapaitapeli</h1>
-        <div className="splash-title-flags" aria-hidden="true">
-          <img src={`${import.meta.env.BASE_URL}finland.png`} alt="" className="splash-title-flag" />
-          <img src={`${import.meta.env.BASE_URL}ukraine.png`} alt="" className="splash-title-flag" />
+        <div className="splash-language-picker">
+          <span className="splash-language-label">{isEnglish ? 'Choose language' : 'Valitse kieli'}</span>
+          <div className="landing-language-switch" role="group" aria-label="Language">
+            <button type="button" className={`lang-btn ${appLanguage === 'fin' ? 'active' : ''}`} onClick={() => onChangeLanguage('fin')}>
+              <span className="lang-flag" aria-hidden="true">🇫🇮</span> FIN
+            </button>
+            <button type="button" className={`lang-btn ${appLanguage === 'eng' ? 'active' : ''}`} onClick={() => onChangeLanguage('eng')}>
+              <span className="lang-flag" aria-hidden="true">🇬🇧</span> ENG
+            </button>
+          </div>
         </div>
         <div className="splash-buttons">
-          <button type="button" className="splash-play-btn" onClick={handlePlayClick}>
-            Pelaa
+          <button type="button" className="splash-play-btn" onClick={onPlay}>
+            {isEnglish ? 'Play' : 'Pelaa'}
           </button>
           <button type="button" className="splash-info-btn" onClick={() => openInfoPage('tietoa')}>
-            Tietoa
+            {isEnglish ? 'About' : 'Tietoa'}
           </button>
           <button type="button" className="splash-info-btn" onClick={() => openInfoPage('paivitykset')}>
-            Päivitykset
+            {isEnglish ? 'Updates' : 'Paivitykset'}
           </button>
           <button type="button" className="splash-info-btn" onClick={() => openInfoPage('lahteet')}>
-            Lähteet ja lisenssit
+            {isEnglish ? 'Sources and licenses' : 'Lahteet ja lisenssit'}
           </button>
         </div>
       </div>

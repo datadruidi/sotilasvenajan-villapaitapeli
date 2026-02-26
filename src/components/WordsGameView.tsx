@@ -1,5 +1,5 @@
-import { useCallback, useEffect, useState } from 'react'
-import type { WordEntry, WordPair, WordCardPrompt, WordsDirection, WordsDifficulty } from '../types/game'
+﻿import { useCallback, useEffect, useState } from 'react'
+import type { AppLanguage, WordEntry, WordPair, WordCardPrompt, WordsDirection, WordsDifficulty } from '../types/game'
 import {
   checkWordAnswer,
   generateWordOptions,
@@ -27,18 +27,13 @@ interface WordsGameViewProps {
   difficulty: WordsDifficulty
   directionLabel: string
   menuTitle: string
-  /** Pre-filtered word pool (e.g. one module). When provided, CSV is not loaded. */
+  appLanguage: AppLanguage
   initialPool?: WordEntry[]
-  /** When true (e.g. 1.2 Lyhenteet), prompt text uses same size as option buttons. */
   compactPrompt?: boolean
-  /** When set, show "Lisää sana kerrattavaan sanastoon" for current word (1.1.1–1.1.7). */
   onAddToReview?: (pair: WordPair) => void
-  /** When true (1.1.8), show "Poista sana kerrattavalta listalta" and call onRemoveFromReview. */
   isReviewList?: boolean
   onRemoveFromReview?: (pair: WordPair) => void
-  /** Lyhenteet (1.2): add current abbreviation to user's kerrattava list. */
   onAddToLyhenteetReview?: (entry: WordCardPrompt) => void
-  /** Lyhenteet (1.2.7): playing from kerrattava list; show remove and advance on remove. */
   isLyhenteetReviewList?: boolean
   onRemoveFromLyhenteetReview?: (entry: WordCardPrompt) => void
   muted: boolean
@@ -47,12 +42,19 @@ interface WordsGameViewProps {
   onRoundComplete?: () => void
 }
 
-function getAchievementMessage(score: number): string {
-  if (score >= 10) return 'Täydellinen! Olet aivan oikeassa.'
-  if (score >= 8) return 'Hienoa! Melkein täydellinen.'
+function getAchievementMessage(score: number, appLanguage: AppLanguage): string {
+  if (appLanguage === 'eng') {
+    if (score >= 10) return 'Perfect score. Excellent work.'
+    if (score >= 8) return 'Great work. Almost perfect.'
+    if (score >= 6) return 'Good job. Solid result.'
+    if (score >= 4) return 'Nice try. Keep practicing.'
+    return 'Keep going. You will improve quickly.'
+  }
+  if (score >= 10) return 'Taydellinen! Olet aivan oikeassa.'
+  if (score >= 8) return 'Hienoa! Melkein taydellinen.'
   if (score >= 6) return 'Hyvin tehty! Vakaa suoritus.'
-  if (score >= 4) return 'Hyvä yritys! Jatka harjoittelua.'
-  return 'Jatka vain! Pääset määrään.'
+  if (score >= 4) return 'Hyva yritys! Jatka harjoittelua.'
+  return 'Jatka vain! Paatset maaraan.'
 }
 
 export function WordsGameView({
@@ -60,6 +62,7 @@ export function WordsGameView({
   difficulty: _difficulty,
   directionLabel: _directionLabel,
   menuTitle,
+  appLanguage,
   initialPool,
   compactPrompt = false,
   onAddToReview,
@@ -73,8 +76,8 @@ export function WordsGameView({
   onBack,
   onRoundComplete,
 }: WordsGameViewProps) {
+  const isEnglish = appLanguage === 'eng'
   const [pool, setPool] = useState<WordEntry[]>(initialPool ?? [])
-  /** Shuffled order of up to 10 words for this game – each word asked at most once per game */
   const [roundOrder, setRoundOrder] = useState<WordEntry[]>([])
   const [loadError, setLoadError] = useState<string | null>(null)
   const [loading, setLoading] = useState(!initialPool)
@@ -87,9 +90,7 @@ export function WordsGameView({
   const [round, setRound] = useState(1)
   const [score, setScore] = useState(0)
   const [gameOver, setGameOver] = useState(false)
-  /** When onAddToReview is set, track review list so we can show add vs remove and keep in sync. */
   const [reviewList, setReviewList] = useState<WordPair[]>(() => (onAddToReview ? getReviewList() : []))
-  /** When onAddToLyhenteetReview is set, track Lyhenteet review list. */
   const [lyhenteetReviewList, setLyhenteetReviewList] = useState<WordCardPrompt[]>(() =>
     onAddToLyhenteetReview ? getLyhenteetReviewList() : []
   )
@@ -116,8 +117,8 @@ export function WordsGameView({
     setPool([])
     setRoundOrder([])
     setLoading(false)
-    setLoadError(initialPool != null ? 'Sanalistassa täytyy olla vähintään 4 sanaa.' : null)
-  }, [initialPool])
+    setLoadError(initialPool != null ? (isEnglish ? 'Word list must contain at least 4 entries.' : 'Sanalistassa taytyy olla vahintaan 4 sanaa.') : null)
+  }, [initialPool, isEnglish])
 
   const startRound = useCallback(
     (roundNumber: number, order: WordEntry[]) => {
@@ -130,8 +131,7 @@ export function WordsGameView({
         setOptions(generateWordOptions(entry.correct, [], direction, entry.wrongOptions))
       } else {
         const { prompt: p, correctAnswer: c } = getPromptAndAnswer(entry, direction)
-        const fixedWrong =
-          direction === 'fi-ru' ? entry.russianAlts : entry.finnishAlts
+        const fixedWrong = direction === 'fi-ru' ? entry.russianAlts : entry.finnishAlts
         setPrompt(p)
         setCorrectAnswer(c)
         setOptions(generateWordOptions(c, pool, direction, fixedWrong))
@@ -157,7 +157,7 @@ export function WordsGameView({
       setRoundOrder(order)
       startRound(1, order)
     }
-  }, [pool.length, loading, gameOver, startRound, pool, unlimitedRounds])
+  }, [pool.length, loading, gameOver, startRound, pool, unlimitedRounds, roundOrder.length])
 
   const handleOptionClick = (option: string) => {
     if (showResult) return
@@ -195,9 +195,9 @@ export function WordsGameView({
     return (
       <div className="app">
         <div className="game-view">
-          <p className="quiz-loading">Ladataan sanoja…</p>
+          <p className="quiz-loading">{isEnglish ? 'Loading words...' : 'Ladataan sanoja...'}</p>
           <button type="button" className="back-btn" onClick={onBack}>
-            ← Takaisin
+            {isEnglish ? '<- Back' : '<- Takaisin'}
           </button>
         </div>
       </div>
@@ -208,13 +208,15 @@ export function WordsGameView({
     return (
       <div className="app">
         <div className="game-view">
-          <h2>Sanalistaa ei voitu ladata</h2>
+          <h2>{isEnglish ? 'Could not load word list' : 'Sanalistaa ei voitu ladata'}</h2>
           <p className="placeholder-note">{loadError}</p>
           <p className="words-file-hint">
-            Lisää sanatiedosto kansioon <strong>public/data/</strong> (UTF-8, sarake A = venäjä, sarake B = suomi).
+            {isEnglish
+              ? <>Add CSV files under <strong>public/data/</strong> (UTF-8, col A = Russian, col B = {appLanguage === 'eng' ? 'English' : 'Finnish'}).</>
+              : <>Lisaa sanatiedosto kansioon <strong>public/data/</strong> (UTF-8, sarake A = venaja, sarake B = suomi).</>}
           </p>
           <button type="button" className="back-btn" onClick={onBack}>
-            ← Takaisin
+            {isEnglish ? '<- Back' : '<- Takaisin'}
           </button>
         </div>
       </div>
@@ -225,9 +227,9 @@ export function WordsGameView({
     return (
       <div className="app">
         <div className="game-view">
-          <p className="quiz-loading">Valmistellaan ensimmäistä kysymystä…</p>
+          <p className="quiz-loading">{isEnglish ? 'Preparing first question...' : 'Valmistellaan ensimmaista kysymysta...'}</p>
           <button type="button" className="back-btn" onClick={onBack}>
-            ← Takaisin
+            {isEnglish ? '<- Back' : '<- Takaisin'}
           </button>
         </div>
       </div>
@@ -238,12 +240,14 @@ export function WordsGameView({
     return (
       <div className="app">
         <div className="game-view">
-          <h2>Liian vähän sanoja</h2>
+          <h2>{isEnglish ? 'Too few words' : 'Liian vahan sanoja'}</h2>
           <p className="placeholder-note">
-            Listassa on {pool.length} paria. Tarvitaan vähintään 4 pelataksesi (1 oikea + 3 väärää vaihtoehtoa).
+            {isEnglish
+              ? `List has ${pool.length} entries. At least 4 are required (1 correct + 3 incorrect options).`
+              : `Listassa on ${pool.length} paria. Tarvitaan vahintaan 4 pelataksesi (1 oikea + 3 vaaraa vaihtoehtoa).`}
           </p>
           <button type="button" className="back-btn" onClick={onBack}>
-            ← Takaisin
+            {isEnglish ? '<- Back' : '<- Takaisin'}
           </button>
         </div>
       </div>
@@ -259,31 +263,31 @@ export function WordsGameView({
               type="button"
               className="mute-btn mute-btn-small"
               onClick={onToggleMute}
-              title={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
-              aria-label={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
+              title={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
+              aria-label={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
             >
               {muted ? '🔇' : '🔊'}
             </button>
           </div>
           <div className="result-scores">
             {unlimitedRounds ? (
-              <div className="result-score-line">Oikein: {score}</div>
+              <div className="result-score-line">{isEnglish ? 'Correct' : 'Oikein'}: {score}</div>
             ) : (
               <>
-                <div className="result-score-line">Kierros: {maxRounds}/{maxRounds}</div>
-                <div className="result-score-line">Oikein: {score}/{maxRounds}</div>
+                <div className="result-score-line">{isEnglish ? 'Round' : 'Kierros'}: {maxRounds}/{maxRounds}</div>
+                <div className="result-score-line">{isEnglish ? 'Correct' : 'Oikein'}: {score}/{maxRounds}</div>
               </>
             )}
           </div>
           <img src={getAssetUrl('assets/complete.png')} alt="" className="result-complete-img" />
-          <h2 className="result-title">{unlimitedRounds ? 'Kaikki kerrattavat tehty!' : 'Kierros suoritettu!'}</h2>
-          <p className="result-message">{unlimitedRounds ? `Oikein ${score} vastausta.` : getAchievementMessage(score)}</p>
+          <h2 className="result-title">{unlimitedRounds ? (isEnglish ? 'Review list completed!' : 'Kaikki kerrattavat tehty!') : (isEnglish ? 'Round complete!' : 'Kierros suoritettu!')}</h2>
+          <p className="result-message">{unlimitedRounds ? (isEnglish ? `${score} correct answers.` : `Oikein ${score} vastausta.`) : getAchievementMessage(score, appLanguage)}</p>
           <div className="result-actions">
             <button type="button" className="result-btn result-btn-retry" onClick={startNewGame}>
-              Yritä uudelleen
+              {isEnglish ? 'Try again' : 'Yrita uudelleen'}
             </button>
             <button type="button" className="result-btn result-btn-menu" onClick={onBack}>
-              Päävalikko
+              {isEnglish ? 'Main menu' : 'Paavalikko'}
             </button>
           </div>
         </div>
@@ -300,8 +304,12 @@ export function WordsGameView({
     return 'revealed'
   }
 
-  const promptLabel = direction === 'fi-ru' ? 'suomesta' : 'venäjästä'
-  const answerLabel = direction === 'fi-ru' ? 'venäjänkielinen' : 'suomenkielinen'
+  const promptLabel = direction === 'fi-ru'
+    ? (isEnglish ? 'from English' : 'suomesta')
+    : (isEnglish ? 'from Russian' : 'venajasta')
+  const answerLabel = direction === 'fi-ru'
+    ? (isEnglish ? 'Russian' : 'venajankielinen')
+    : (isEnglish ? 'English' : 'suomenkielinen')
 
   const currentEntry = roundOrder[round - 1]
   const currentPair = currentEntry && !isWordCardPrompt(currentEntry) ? (currentEntry as WordPair) : null
@@ -328,14 +336,7 @@ export function WordsGameView({
     onRemoveFromReview(currentPair)
     const newOrder = roundOrder.filter((_, i) => i !== round - 1)
     setRoundOrder(newOrder)
-    if (newOrder.length === 0) {
-      setGameOver(true)
-      setPrompt('')
-      setOptions([])
-      onRoundComplete?.()
-      return
-    }
-    if (round > newOrder.length) {
+    if (newOrder.length === 0 || round > newOrder.length) {
       setGameOver(true)
       setPrompt('')
       setOptions([])
@@ -355,7 +356,7 @@ export function WordsGameView({
   const handleRemoveFromLyhenteetReviewInGame = () => {
     if (!currentLyhenteetEntry || !onRemoveFromLyhenteetReview) return
     onRemoveFromLyhenteetReview(currentLyhenteetEntry)
-    setLyhenteetReviewList((prev) => prev.filter((e) => !isSameLyhenteet(e, currentLyhenteetEntry!)))
+    setLyhenteetReviewList((prev) => prev.filter((e) => !isSameLyhenteet(e, currentLyhenteetEntry)))
   }
 
   const handleRemoveFromLyhenteetReview = () => {
@@ -363,14 +364,7 @@ export function WordsGameView({
     onRemoveFromLyhenteetReview(currentLyhenteetEntry)
     const newOrder = roundOrder.filter((_, i) => i !== round - 1)
     setRoundOrder(newOrder)
-    if (newOrder.length === 0) {
-      setGameOver(true)
-      setPrompt('')
-      setOptions([])
-      onRoundComplete?.()
-      return
-    }
-    if (round > newOrder.length) {
+    if (newOrder.length === 0 || round > newOrder.length) {
       setGameOver(true)
       setPrompt('')
       setOptions([])
@@ -385,29 +379,29 @@ export function WordsGameView({
       <div className="game-view game-view-quiz">
         <div className="quiz-header">
           <div className="quiz-header-actions">
-            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title="Päävalikko" aria-label="Päävalikko">
+            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title={isEnglish ? 'Main menu' : 'Paavalikko'} aria-label={isEnglish ? 'Main menu' : 'Paavalikko'}>
               🏠
             </button>
             <button
               type="button"
               className="mute-btn mute-btn-small"
               onClick={onToggleMute}
-              title={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
-              aria-label={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
+              title={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
+              aria-label={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
             >
               {muted ? '🔇' : '🔊'}
             </button>
           </div>
           <span className="quiz-title">{menuTitle}</span>
           <div className="quiz-progress quiz-progress-card">
-            <span className="quiz-progress-line">{unlimitedRounds ? `Kierros: ${round}` : `Kierros: ${round}/${maxRounds}`}</span>
-            <span className="quiz-progress-line">{unlimitedRounds ? `Oikein: ${score}` : `Oikein: ${score}/${maxRounds}`}</span>
+            <span className="quiz-progress-line">{unlimitedRounds ? `${isEnglish ? 'Round' : 'Kierros'}: ${round}` : `${isEnglish ? 'Round' : 'Kierros'}: ${round}/${maxRounds}`}</span>
+            <span className="quiz-progress-line">{unlimitedRounds ? `${isEnglish ? 'Correct' : 'Oikein'}: ${score}` : `${isEnglish ? 'Correct' : 'Oikein'}: ${score}/${maxRounds}`}</span>
           </div>
         </div>
 
         <div className={`quiz-words-prompt-wrap${compactPrompt ? ' quiz-words-prompt-wrap--compact' : ''}`}>
-          <p className="quiz-words-prompt-label">Käännä {promptLabel}</p>
-          <p className="quiz-words-prompt" lang={direction === 'fi-ru' ? 'fi' : 'ru'}>
+          <p className="quiz-words-prompt-label">{isEnglish ? 'Translate' : 'Kaanna'} {promptLabel}</p>
+          <p className="quiz-words-prompt" lang={direction === 'fi-ru' ? (isEnglish ? 'en' : 'fi') : 'ru'}>
             {prompt}
           </p>
         </div>
@@ -415,34 +409,35 @@ export function WordsGameView({
         {onAddToReview && currentPair && !isReviewList && (
           isCurrentInReviewList ? (
             <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromReviewInGame}>
-              Poista sana kerrattavalta listalta
+              {isEnglish ? 'Remove word from review list' : 'Poista sana kerrattavalta listalta'}
             </button>
           ) : (
             <button type="button" className="quiz-review-btn quiz-review-btn--add" onClick={handleAddToReview}>
-              Lisää sana kerrattavaan sanastoon
+              {isEnglish ? 'Add word to review list' : 'Lisaa sana kerrattavaan sanastoon'}
             </button>
           )
         )}
         {isReviewList && onRemoveFromReview && currentPair && (
           <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromReview}>
-            Poista sana kerrattavalta listalta
+            {isEnglish ? 'Remove word from review list' : 'Poista sana kerrattavalta listalta'}
           </button>
         )}
-        <p className="quiz-prompt">Valitse oikea {answerLabel} käännös</p>
+        <p className="quiz-prompt">{isEnglish ? `Choose the correct ${answerLabel} translation` : `Valitse oikea ${answerLabel} kaannos`}</p>
+
         {onAddToLyhenteetReview && currentLyhenteetEntry && !isLyhenteetReviewList && (
           isCurrentInLyhenteetReviewList ? (
             <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromLyhenteetReviewInGame}>
-              Poista lyhenne kerrattavalta listalta
+              {isEnglish ? 'Remove abbreviation from review list' : 'Poista lyhenne kerrattavalta listalta'}
             </button>
           ) : (
             <button type="button" className="quiz-review-btn quiz-review-btn--add" onClick={handleAddToLyhenteetReview}>
-              Lisää lyhenne kerrattavaan listaan
+              {isEnglish ? 'Add abbreviation to review list' : 'Lisaa lyhenne kerrattavaan listaan'}
             </button>
           )
         )}
         {isLyhenteetReviewList && onRemoveFromLyhenteetReview && currentLyhenteetEntry && (
           <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromLyhenteetReview}>
-            Poista lyhenne kerrattavalta listalta
+            {isEnglish ? 'Remove abbreviation from review list' : 'Poista lyhenne kerrattavalta listalta'}
           </button>
         )}
 
@@ -454,7 +449,7 @@ export function WordsGameView({
               className={`quiz-option ${getOptionState(option)}`}
               onClick={() => handleOptionClick(option)}
               disabled={showResult}
-              lang={direction === 'fi-ru' ? 'ru' : 'fi'}
+              lang={direction === 'fi-ru' ? 'ru' : (isEnglish ? 'en' : 'fi')}
             >
               {option}
             </button>
@@ -464,16 +459,16 @@ export function WordsGameView({
         {showResult && (
           <div className={`quiz-feedback ${isCorrect ? 'correct' : 'incorrect'}`}>
             {isCorrect ? (
-              <>Oikein — {correctAnswer}</>
+              <>{isEnglish ? 'Correct' : 'Oikein'} - {correctAnswer}</>
             ) : (
-              <>Oikea vastaus: {correctAnswer}</>
+              <>{isEnglish ? 'Correct answer' : 'Oikea vastaus'}: {correctAnswer}</>
             )}
           </div>
         )}
 
         {showResult && (
           <button type="button" className="quiz-next-btn" onClick={handleNext}>
-            Seuraava kysymys
+            {isEnglish ? 'Next question' : 'Seuraava kysymys'}
           </button>
         )}
       </div>

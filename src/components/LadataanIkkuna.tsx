@@ -1,22 +1,16 @@
-/**
- * Ladataan…-ikkuna: loading overlay shown after user makes main/home selections.
- * Displays "Ladataan…", plays waiting music, blocks interaction for 3 seconds,
- * then calls onComplete. Stops audio on unmount or when loading ends.
- */
-
-import { useEffect, useRef } from 'react'
+﻿import { useEffect, useRef } from 'react'
+import type { AppLanguage } from '../types/game'
 
 const LADAAN_IKKUNA_DURATION_MS = 3000
-
-/** Waiting music for the loading overlay (only this file, no fallback). */
 const LOADING_MUSIC_SRC = `${import.meta.env.BASE_URL}audio/loading.mp3`
 
 interface LadataanIkkunaProps {
   onComplete: () => void
   muted: boolean
+  appLanguage: AppLanguage
 }
 
-export function LadataanIkkuna({ onComplete, muted }: LadataanIkkunaProps) {
+export function LadataanIkkuna({ onComplete, muted, appLanguage }: LadataanIkkunaProps) {
   const audioRef = useRef<HTMLAudioElement | null>(null)
   const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null)
   const onCompleteRef = useRef(onComplete)
@@ -36,7 +30,7 @@ export function LadataanIkkuna({ onComplete, muted }: LadataanIkkunaProps) {
     audioRef.current = audio
     audio.volume = 0.6
     audio.play().catch(() => {
-      /* Only loading.mp3; no fallback to other music */
+      // Only loading.mp3; no fallback.
     })
 
     timeoutRef.current = setTimeout(() => {
@@ -54,11 +48,13 @@ export function LadataanIkkuna({ onComplete, muted }: LadataanIkkunaProps) {
     }
   }, [muted])
 
+  const isEnglish = appLanguage === 'eng'
+
   return (
-    <div className="ladataan-ikkuna" role="status" aria-live="polite" aria-label="Ladataan">
+    <div className="ladataan-ikkuna" role="status" aria-live="polite" aria-label={isEnglish ? 'Loading' : 'Ladataan'}>
       <div className="ladataan-ikkuna-backdrop" />
       <div className="ladataan-ikkuna-content">
-        <p className="ladataan-ikkuna-text">Ladataan…</p>
+        <p className="ladataan-ikkuna-text">{isEnglish ? 'Loading...' : 'Ladataan...'}</p>
       </div>
     </div>
   )

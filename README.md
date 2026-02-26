@@ -1,103 +1,135 @@
-# Sotilasvenäjän villapaitapeli
+﻿# Military Russian 101
 
-![Sotilasvenäjän villapaitapeli](docs/main.png)
+![Military Russian 101](docs/main.png)
 
 ## Purpose
 
-Sotilasvenäjän villapaitapeli on tietovisatyyppinen oppimispeli venäläisen sotilassanaston ja sotilaskulttuurin opiskeluun. Sovelluksessa esitettävien tekstien ja kuvien avulla voit harjoitella venäjänkielistä sotilassanastoa sekä tutustua Venäjän sotilaspiirien toiminta-alueisiin, puolustushaarojen suorituskykyihin, venäläisiin sotilasarvoihin ja taktisiin merkkeihin. Sovellus toimii selaimessa ja Android-laitteilla.
+Military Russian 101 is a quiz-style learning game for studying Russian military vocabulary and military culture. Using the texts and images shown in the app, you can practice military terminology and learn about military districts, capabilities, ranks, and military symbology. 
 
-![Main screen – splash with Pelaa, Tietoa, and Lähteet](docs/splash.png)
+![Main screen - splash with Pelaa, Tietoa, and Lahteet](docs/splash.png)
 
-**Kuva:** Aloitusnäyttö.
+**Image:** Start screen
 
----
 
-## Sisältö
-
-Päävalikosta valitaan yksi neljästä sisältötyypistä. Jokainen vaihtoehto vie ensin alavalintoihin (esim. kieli, toiminta-alue tai puolustushaara) ja sen jälkeen 10 kysymyksen kierrokseen, jossa jokaisessa kysymyksessä on neljä monivalintavaihtoehtoa.
-
-![Contents – four top-level options (1.–4.)](docs/contents-screen.png)
-
-**Kuva:** Sisältövalikossa on tällä hetkellä neljä sisältötyyppiä: Sotilasvenäjän sanasto, Venäjän asevoimat, sotilasarvot ja taktiset merkit.
+#### The game is available on https://villapaitapeli.fi.
 
 ---
 
-### Sotilasvenäjän sanasto
+## Content Structure (Current)
 
-Näet sanan toisella kielellä ja valitset oikean käännöksen toiselta kieleltä. Voit valita harjoituksen suunnan (suomi → venäjä tai venäjä → suomi) sekä sanalistan (esim. Rintamavenäjän alkeet, Sotilasvenäjän perusteet).
+From the main menu you choose one of four content types. Each option takes you to sub-selections and then to a 10-question round with four multiple-choice answers per question.
 
-![Sotilasvenäjän sanasto – quiz with word and four options](docs/words-game.png)
+![Contents - four top-level options (1-4)](docs/contents-screen.png)
 
-**Kuva:** Pelinäkymä, jossa näkyy kysymyssana ja neljä vastausvaihtoehtoa.
+### 1. Sotilassanasto / Military Vocabulary
+
+#### 1.1. Sotilastoiminta / Military Operations
+
+- 1.1.1. Aseet ja ammukset / Weapons and Ammunition
+- 1.1.2. Kalusto ja alustat / Equipment and Platforms
+- 1.1.3. Organisaatiorakenne / Organization Structure
+- 1.1.4. Koulutus ja tehtavat / Training and Tasks
+- 1.1.5. Taistelu ja taktiikka / Combat and Tactics
+- 1.1.6. Maasto ja linnoitteet / Terrain and Fortifications
+- 1.1.7. Sotilasarvot / Military Ranks
+- 1.1.8. Kertaus / Review
+
+#### 1.2. Sotilaslyhenteet / Military Abbreviations
+
+- 1.2.1. Valtion turvallisuus- ja tiedusteluelimet / Security and Intelligence Agencies
+- 1.2.2. Puolustushallinto ja asevoimien johto / Defense Administration and Command
+- 1.2.3. Asevoimien paahaarat ja erikoisjoukot / Main Branches and Special Forces
+- 1.2.4. Toiminnalliset suorituskyvyt / Operational Capabilities
+- 1.2.5. Kalustolliset suorituskyvyt / Equipment Capabilities
+- 1.2.6. Johtaminen, hallinto ja arjen lyhenteet / Leadership, Administration and Daily Terms
+- 1.2.7. Kertaus / Review
+
+![Sotilassanasto - quiz with word and four options](docs/words-game.png)
+
+**Image:** Game view with one question word and four answer options.
 
 ---
 
-### Venäjän asevoimat
+### 2. Sotilasorganisaatio / Military Organization
 
-Tämä kokonaisuus sisältää moduuleja Venäjän sotilaspiireihin liittyen.
+#### 2.1. Sotilaspiirit / Military Districts
 
-#### Sotilaspiirit
+- 2.1.1. Leningradin sotilaspiiri / Leningrad Military District
+- 2.1.1.1. Pohjoinen vastuualue / Northern AOO
+- 2.1.1.2. Etelainen vastuualue / Southern AOO
+- 2.1.1.3. Kaliningradin vastuualue / Kaliningrad
+- 2.1.1.4. Kaikki yhdessa / Combined View
+- 2.1.1.5. Kertaus / Review
+- 2.1.2. Lahialueen joukot / Nearby Forces (FIN) - Ei julkaistu / NTR
+- 2.1.3. Sotilaspiirien tunnukset / Military District Insignia - Ei julkaistu / NTR
 
-Kokonaisuudessa näet karttakuvan, jossa on merkitty asevoimien sijoituspaikkoja, joista valitset oikean nimen neljästä vaihtoehdosta. Toistaiseksi valittavissa vain Leningradin sotilaspiiri.
+![Sotilaspiirit - map with marker and four garrison name options](docs/garrisons-game.png)
 
-![Sotilaspiirit – map with marker and four garrison name options](docs/garrisons-game.png)
+**Image:** Map-based identification round.
 
-**Kuva:** Pelissä esitetään kartta ja neljä asevoimien sijoituspaikan vaihtoehtoa.
+#### 2.2. Suorituskyvyt / Military Capabilities
 
-#### Puolustushaarojen suorituskyvyt
-
-Kokonaisuudessa näet kuvia Venäjän kineettisen vaikuttamisen suorituskyvyistä, jotka sinun tulee tunnistaa tyypin, luokan tai yksilöiden nimen perusteella. Toistaiseksi valittavissa on vain Itämeren laivaston alusten alusluokat ja alusten yksilöidyt nimet.
-
+- 2.2.1. Merivoimat / Navy
+- 2.2.1.1. Alusluokat / Naval Ship Classes
+- 2.2.1.2. Alusten nimet / Naval Ship Names
+- 2.2.2. Ilma- ja avaruusvoimat / Aerospace Forces - Ei julkaistu / NTR
+- 2.2.3. Maavoimat / Ground Forces - Ei julkaistu / NTR
+- 2.2.4. Strategiset ohjusjoukot / Strategic Missile Forces - Ei julkaistu / NTR
+- 2.2.5. Maahanlaskujoukot / Airborne Forces - Ei julkaistu / NTR
+- 2.2.6. Miehittamattomien jarjestelmien joukot / Unmanned Systems Forces - Ei julkaistu / NTR
 
 ![Suorituskyvyt](docs/vehicles-game.png)
 
-**Kuva:** Pelissä yksilöidään suorituskykyjä.
-
-
+**Image:** Capabilities identification round.
 
 ---
 
-### Sotilasarvot
+### 3. Sotilasmerkisto / Military Symbology
 
-Näet kuvan venäläisen sotilasarvon arvomerkeistä ja valitset oikean arvon neljästä vaihtoehdosta. Sotilasarvojen kieleksi voi valita suomen tai venäjän.
+- 3.1. Joukkotyypit / Unit Size
+- 3.2. Joukkokoko / Echelons
 
-![Sotilasarvot – rank insignia image and four rank name options](docs/ranks-game.png)
+![Tactical signs - tactical symbol image and four options](docs/tactical-signs-game.png)
 
-**Kuva:** Pelissä näkyy sotilasarvon arvomerkki ja neljä sotilasarvon nimivaihtoehtoa.
-
----
-
-### Taktiset merkit
-
-Näet taktisen merkin ja valitset oikean joukkotyypin neljästä vaihtoehdosta. 
-
-![Taktiset merkit – tactical symbol image and four options](docs/tactical-signs-game.png)
-
-**Kuva:** Pelissä näkyy taktisen merkin kuva ja neljä tekstivaihtoehtoa.
+**Image:** Tactical symbol image and four text options.
 
 ---
 
-Pelin lähdekoodi on saatavilla GitHubissa osoitteessa:
+### 4. Sotilasarvot / Military Ranks
+
+- 4.1. Suomeksi / In English (depends on selected app language)
+- 4.2. Venajaksi / In Russian
+- Kertaus / Review
+
+![Sotilasarvot - rank insignia image and four rank name options](docs/ranks-game.png)
+
+**Image:** Rank insignia image and four answer options.
+
+---
+
+## Source code
+
+Source code is available at:
 **https://github.com/datadruidi/sotilasvenajan-villapaitapeli**
 
-Koska projektia ylläpitää yksi kehittäjä, siinä voi ajoittain esiintyä virheitä, päivitykset voivat viivästyä ja osa ominaisuuksista voi olla vielä keskeneräisiä. 
+The project is maintained by a single developer, so occasional bugs, delayed updates, and unfinished modules are possible.
 
 ---
 
-## Palaute ja ominaisuustoiveet
+## Feedback and feature requests
 
-Jos sinulla on palautetta tai haluat ehdottaa uusia moduuleja tai sisältöä, voit lähettää sen osoitteeseen:
+You can send feedback and feature requests to:
 
 **villapaitapeli.shaky136@passmail.net**
 
 ---
-## Vastuuvapauslauseke
 
-Lataat ja käytät tätä sovellusta omalla vastuullasi. Tekijä ei vastaa ohjelmiston tai sen sisällön käytöstä aiheutuvista suorista tai välillisistä vahingoista eikä mahdollisesta väärinkäytöstä. Kaikki sovelluksessa käytetty tieto perustuu avoimista lähteistä saatavilla olevaan tietoon. Käytä sovellusta sovellettavan lainsäädännön sekä organisaatiosi ohjeistuksen mukaisesti.
+## Disclaimer
 
-## Tietosuojaseloste
+You download and use this application at your own risk. The author is not responsible for any direct or indirect damages caused by using the software or its content, or for misuse. Information in the app is based on open sources. Use the app according to applicable laws and your organization guidance.
 
-Sivusto käyttää Cloudflare Web Analytics -palvelua kävijämäärien ja sivun käyttötilastojen seuraamiseen. Palvelu ei käytä evästeitä, ei kerää henkilökohtaisia tietoja eikä tallenna yksilöiviä tunnisteita. Analytiikkaa hyödynnetään ainoastaan sivuston toimivuuden ja käytettävyyden kehittämiseen. Sivustolla ei ole käyttäjätilejä, kirjautumista tai lomakkeita, eikä kävijöitä voida tunnistaa analytiikan perusteella.
+## Privacy policy
 
+The site uses Cloudflare Web Analytics to track visitor counts and page usage statistics. The service does not use cookies, does not collect personal data, and does not store unique identifiers. Analytics are used only to improve site functionality and usability. The site has no user accounts, logins, or forms.
 
-![Sotilasvenäjän villapaitapeli](docs/last.png)
+![Military Russian 101](docs/end.png)

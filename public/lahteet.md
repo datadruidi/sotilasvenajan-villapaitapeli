@@ -1,11 +1,11 @@
-
-# **1. Sotilasvenäjän sanasto:** 
+﻿
+# **1. Sotilassanasto / Military Vocabulary:** 
 Sotilasvenäjän sanasto on generoitu ChatGPT:llä, ja se sisältää 500 yleisintä sotilastermiä suomeksi ja venäjäksi.
 
 
-## **2. Venäjän asevoimat**
+## **2. Sotilasorganisaatio / Military Organization**
 
-### **2.1. Sotilaspiirit (sijainnit)**
+### **2.1. Sotilaspiirit / Military Districts (sijainnit / locations)**
 
 Panschin, V. (2023). Venäjän sotilaallinen voima Suomen lähialueilla: Pohjoisen operatiivisstrategisen johtoportaan ja Läntisen sotilaspiirin joukot sekä niiden taistelun kuva (Sotataidon laitos, Julkaisusarja 2: Tutkimusselosteita, No. 24). Maanpuolustuskorkeakoulu. https://www.doria.fi/handle/10024/186542
 
@@ -13,10 +13,10 @@ Panschin, V. (2023). Venäjän sotilaallinen voima Suomen lähialueilla: Pohjois
 Pääesikunta. (2026). Sotilastiedustelu: Julkinen katsaus 2026. https://puolustusvoimat.fi/documents/1948673/8274776/PV_sotilastiedustelu_2026_FI.pdf/981f2115-4262-d896-5c7c-763925641aa2/PV_sotilastiedustelu_2026_FI.pdf
 
 
-### **2.2. Puolustushaarojen suorituskyvyt (kuvat):** 
+### **2.2. Sotilaalliset suorituskyvyt / Military Capabilities (kuvat / images):** 
 
 
-#### 2.2.1. Merivoimat
+#### 2.2.1. Merivoimat / Navy
 
 
 ##### Alexandrit-luokan kuvat
@@ -181,40 +181,28 @@ Russian Zubr class LCAC — Caption: "Russian military exercise Zapad 2009." | A
 
 
 
-#### **2.2.2. Ilma- ja avaruusvoimat**
+#### **2.2.2. Ilma- ja avaruusvoimat / Aerospace Forces**
 Ei julkaistu
 
 
-#### **2.2.3. Maavoimat** 
+#### **2.2.3. Maavoimat / Ground Forces** 
 Ei julkaistu
 
 
-#### **2.2.4. Strategiset ohjusjoukot**
+#### **2.2.4. Strategiset ohjusjoukot / Strategic Missile Forces**
 Ei julkaistu
 
 
-#### **2.2.5. Maahanlaskujoukot**
-Ei julkaistu
-
-
-
-#### **2.2.6. Miehittämättömien järjestelmien joukot**
-Ei julkaistu
-
-
-### 3. Sotilasarvot
-#### 3.1. Maavoimat
-
-Russia-Army-OF-7-2010 — Caption: "Ranks and insignia" | Author: Skjoldbro (Own work) | Source: https://commons.wikimedia.org/wiki/File:Russia-Army-OF-7-2010.svg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/
-) | Changes: Resized for in-app display | Created: 14 June 2017 | Uploaded: 14 June 2017
-
-#### 3.2. Merivoimat
+#### **2.2.5. Maahanlaskujoukot / Airborne Forces**
 Ei julkaistu
 
 
 
-#### 4. Taktiset merkit
+#### **2.2.6. Miehittämättömien järjestelmien joukot / Unmanned Systems Forces**
+Ei julkaistu
+
+
+### 3. Sotilasmerkistö / Military Symbology
 Puolustusvoimat. (n.d.). Sotilasmerkistö ja lyhenteet [PDF]. https://puolustusvoimat.fi/documents/1948673/2258496/PEVIESTOS-Sotilasmerkist%C3%B6-ja-lyhenteet.pdf/cf80563e-9d4f-4702-8446-e2a7a0d85116/PEVIESTOS-Sotilasmerkist%C3%B6-ja-lyhenteet.pdf?t=1459253993000
 
 
@@ -224,6 +212,18 @@ Maavoimien “taktiset” merkit. (n.d.). [PDF]. Teres-arkisto. https://arkisto.
 
 
 North Atlantic Treaty Organization (NATO). (1998, October). APP-6A: Military Symbols for Land Based Systems [PDF]. https://www.mpsotc.gr/dat/05CB6DCD/file.pdf
+
+
+### 4. Sotilasarvot / Military Ranks
+#### 4.1. Maavoimat / Ground Forces
+
+Russia-Army-OF-7-2010 — Caption: "Ranks and insignia" | Author: Skjoldbro (Own work) | Source: https://commons.wikimedia.org/wiki/File:Russia-Army-OF-7-2010.svg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/
+) | Changes: Resized for in-app display | Created: 14 June 2017 | Uploaded: 14 June 2017
+
+#### 4.2. Merivoimat / Navy
+Ei julkaistu
+
 
 
 ####  **Ääniefektit**

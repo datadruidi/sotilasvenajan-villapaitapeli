@@ -1,4 +1,5 @@
-import { useCallback, useEffect, useRef, useState } from 'react'
+﻿import { useCallback, useEffect, useRef, useState } from 'react'
+import type { AppLanguage } from '../types/game'
 import type { GarrisonEntry, GarrisonRegionId } from '../data/garrisonsData'
 import { getAssetUrl } from '../lib/assetUrl'
 import {
@@ -16,7 +17,7 @@ const POINTS_PER_CORRECT = 1
 interface GarrisonsGameViewProps {
   region: GarrisonRegionId
   menuTitle: string
-  /** When set, use this pool instead of getGarrisonsPool(region). Used for "Käyttäjän kerrattava". */
+  appLanguage: AppLanguage
   initialPool?: GarrisonEntry[]
   onAddToGarrisonReview?: (entry: GarrisonEntry) => void
   onRemoveFromGarrisonReview?: (entry: GarrisonEntry) => void
@@ -27,17 +28,25 @@ interface GarrisonsGameViewProps {
   onRoundComplete?: () => void
 }
 
-function getAchievementMessage(correctCount: number): string {
-  if (correctCount >= 10) return 'Täydellinen! Olet aivan oikeassa.'
-  if (correctCount >= 8) return 'Hienoa! Melkein täydellinen.'
+function getAchievementMessage(correctCount: number, appLanguage: AppLanguage): string {
+  if (appLanguage === 'eng') {
+    if (correctCount >= 10) return 'Perfect score. Excellent work.'
+    if (correctCount >= 8) return 'Great work. Almost perfect.'
+    if (correctCount >= 6) return 'Good job. Solid result.'
+    if (correctCount >= 4) return 'Nice try. Keep practicing.'
+    return 'Keep going. You will improve quickly.'
+  }
+  if (correctCount >= 10) return 'Taydellinen! Olet aivan oikeassa.'
+  if (correctCount >= 8) return 'Hienoa! Melkein taydellinen.'
   if (correctCount >= 6) return 'Hyvin tehty! Vakaa suoritus.'
-  if (correctCount >= 4) return 'Hyvä yritys! Jatka harjoittelua.'
-  return 'Jatka vain! Pääset määrään.'
+  if (correctCount >= 4) return 'Hyva yritys! Jatka harjoittelua.'
+  return 'Jatka vain! Paatset maaraan.'
 }
 
 export function GarrisonsGameView({
   region,
   menuTitle,
+  appLanguage,
   initialPool: initialPoolProp,
   onAddToGarrisonReview,
   onRemoveFromGarrisonReview,
@@ -47,6 +56,7 @@ export function GarrisonsGameView({
   onBack,
   onRoundComplete,
 }: GarrisonsGameViewProps) {
+  const isEnglish = appLanguage === 'eng'
   const [pool, setPool] = useState<GarrisonEntry[]>(initialPoolProp ?? [])
   const [currentEntry, setCurrentEntry] = useState<GarrisonEntry | null>(null)
   const [options, setOptions] = useState<string[]>([])
@@ -59,11 +69,7 @@ export function GarrisonsGameView({
   const startRound = useCallback(
     (roundIndex: number) => {
       const garrisonPool = initialPoolProp != null && initialPoolProp.length > 0 ? initialPoolProp : getGarrisonsPool(region)
-      if (initialPoolProp != null && initialPoolProp.length > 0) {
-        setPool(initialPoolProp)
-      } else {
-        setPool(garrisonPool)
-      }
+      setPool(garrisonPool)
       const entry = selectGarrisonFromPool(garrisonPool)
       if (!entry) {
         setCurrentEntry(null)
@@ -86,9 +92,7 @@ export function GarrisonsGameView({
   }, [startRound])
 
   useEffect(() => {
-    if (initialPoolProp != null && initialPoolProp.length > 0) {
-      setPool(initialPoolProp)
-    }
+    if (initialPoolProp != null && initialPoolProp.length > 0) setPool(initialPoolProp)
   }, [initialPoolProp])
 
   useEffect(() => {
@@ -96,7 +100,6 @@ export function GarrisonsGameView({
   }, [startRound])
 
   const prevReviewPoolLengthRef = useRef<number | null>(null)
-  // When in review mode and parent updates pool (after remove), refresh current question or end game if empty
   useEffect(() => {
     if (!isGarrisonReviewList || initialPoolProp == null) return
     if (initialPoolProp.length === 0) {
@@ -111,7 +114,7 @@ export function GarrisonsGameView({
       startRound(currentRoundIndex)
     }
     prevReviewPoolLengthRef.current = initialPoolProp.length
-  }, [initialPoolProp, isGarrisonReviewList])
+  }, [initialPoolProp, isGarrisonReviewList, currentRoundIndex, onRoundComplete, startRound])
 
   const handleOptionClick = (option: string) => {
     if (showResult) return
@@ -161,10 +164,10 @@ export function GarrisonsGameView({
     return (
       <div className="app">
         <div className="game-view">
-          <h2>Ei sisältöä vielä</h2>
-          <p className="placeholder-note">Varuskuntadataa ei löytynyt.</p>
+          <h2>{isEnglish ? 'No content yet' : 'Ei sisaltoa viela'}</h2>
+          <p className="placeholder-note">{isEnglish ? 'No garrison data found.' : 'Varuskuntadataa ei loytynyt.'}</p>
           <button type="button" className="back-btn" onClick={onBack}>
-            ← Takaisin alkuun
+            {isEnglish ? '<- Back to menu' : '<- Takaisin alkuun'}
           </button>
         </div>
       </div>
@@ -180,31 +183,31 @@ export function GarrisonsGameView({
               type="button"
               className="mute-btn mute-btn-small"
               onClick={onToggleMute}
-              title={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
-              aria-label={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
+              title={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
+              aria-label={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
             >
               {muted ? '🔇' : '🔊'}
             </button>
           </div>
           <div className="result-scores">
             {isGarrisonReviewList ? (
-              <div className="result-score-line">Oikein: {correctCount}</div>
+              <div className="result-score-line">{isEnglish ? 'Correct' : 'Oikein'}: {correctCount}</div>
             ) : (
               <>
-                <div className="result-score-line">Kierros: {MAX_ROUNDS}/{MAX_ROUNDS}</div>
-                <div className="result-score-line">Oikein: {correctCount}/{MAX_ROUNDS}</div>
+                <div className="result-score-line">{isEnglish ? 'Round' : 'Kierros'}: {MAX_ROUNDS}/{MAX_ROUNDS}</div>
+                <div className="result-score-line">{isEnglish ? 'Correct' : 'Oikein'}: {correctCount}/{MAX_ROUNDS}</div>
               </>
             )}
           </div>
           <img src={getAssetUrl('assets/complete.png')} alt="" className="result-complete-img" />
-          <h2 className="result-title">{isGarrisonReviewList ? 'Kaikki kerrattavat tehty!' : 'Kierros suoritettu!'}</h2>
-          <p className="result-message">{isGarrisonReviewList ? `Oikein ${correctCount} vastausta.` : getAchievementMessage(correctCount)}</p>
+          <h2 className="result-title">{isGarrisonReviewList ? (isEnglish ? 'Review list completed!' : 'Kaikki kerrattavat tehty!') : (isEnglish ? 'Round complete!' : 'Kierros suoritettu!')}</h2>
+          <p className="result-message">{isGarrisonReviewList ? (isEnglish ? `${correctCount} correct answers.` : `Oikein ${correctCount} vastausta.`) : getAchievementMessage(correctCount, appLanguage)}</p>
           <div className="result-actions">
             <button type="button" className="result-btn result-btn-retry" onClick={startNewGame}>
-              Yritä uudelleen
+              {isEnglish ? 'Try again' : 'Yrita uudelleen'}
             </button>
             <button type="button" className="result-btn result-btn-menu" onClick={onBack}>
-              Päävalikko
+              {isEnglish ? 'Main menu' : 'Paavalikko'}
             </button>
           </div>
         </div>
@@ -231,19 +234,19 @@ export function GarrisonsGameView({
         <div className="quiz-header">
           <span className="quiz-title">{menuTitle}</span>
           <div className="quiz-progress quiz-progress-card">
-            <span className="quiz-progress-line">{isGarrisonReviewList ? `Kierros: ${displayRound}` : `Kierros: ${displayRound}/${MAX_ROUNDS}`}</span>
-            <span className="quiz-progress-line">{isGarrisonReviewList ? `Oikein: ${correctCount}` : `Oikein: ${correctCount}/${MAX_ROUNDS}`}</span>
+            <span className="quiz-progress-line">{isGarrisonReviewList ? `${isEnglish ? 'Round' : 'Kierros'}: ${displayRound}` : `${isEnglish ? 'Round' : 'Kierros'}: ${displayRound}/${MAX_ROUNDS}`}</span>
+            <span className="quiz-progress-line">{isGarrisonReviewList ? `${isEnglish ? 'Correct' : 'Oikein'}: ${correctCount}` : `${isEnglish ? 'Correct' : 'Oikein'}: ${correctCount}/${MAX_ROUNDS}`}</span>
           </div>
           <div className="quiz-header-actions">
-            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title="Päävalikko" aria-label="Päävalikko">
+            <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title={isEnglish ? 'Main menu' : 'Paavalikko'} aria-label={isEnglish ? 'Main menu' : 'Paavalikko'}>
               🏠
             </button>
             <button
               type="button"
               className="mute-btn mute-btn-small"
               onClick={onToggleMute}
-              title={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
-              aria-label={muted ? 'Äänitä äänet' : 'Mykistä äänet'}
+              title={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
+              aria-label={muted ? (isEnglish ? 'Unmute' : 'Aanita aanet') : (isEnglish ? 'Mute' : 'Mykista aanet')}
             >
               {muted ? '🔇' : '🔊'}
             </button>
@@ -253,27 +256,27 @@ export function GarrisonsGameView({
         <div className="quiz-image-wrap">
           <img
             src={getAssetUrl(currentEntry.imagePath)}
-            alt="Tunnista varuskunta"
+            alt={isEnglish ? 'Identify garrison' : 'Tunnista varuskunta'}
             className="quiz-image"
           />
         </div>
 
-        <p className="quiz-prompt">Nimeä nuolen osoittama joukkojen sijoituspaikka</p>
+        <p className="quiz-prompt">{isEnglish ? 'Name the location pointed by the arrow' : 'Nimea nuolen osoittama joukkojen sijoituspaikka'}</p>
 
         {onAddToGarrisonReview && currentEntry && !isGarrisonReviewList && (
           isCurrentInGarrisonReviewList ? (
             <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromGarrisonReviewInGame}>
-              Poista kohde kerrattavalta listalta
+              {isEnglish ? 'Remove target from review list' : 'Poista kohde kerrattavalta listalta'}
             </button>
           ) : (
             <button type="button" className="quiz-review-btn quiz-review-btn--add" onClick={handleAddToGarrisonReview}>
-              Lisää kohde kerrattavaan listaan
+              {isEnglish ? 'Add target to review list' : 'Lisaa kohde kerrattavaan listaan'}
             </button>
           )
         )}
         {isGarrisonReviewList && onRemoveFromGarrisonReview && currentEntry && (
           <button type="button" className="quiz-review-btn quiz-review-btn--remove" onClick={handleRemoveFromGarrisonReviewAndAdvance}>
-            Poista kohde kerrattavalta listalta
+            {isEnglish ? 'Remove target from review list' : 'Poista kohde kerrattavalta listalta'}
           </button>
         )}
 
@@ -294,16 +297,16 @@ export function GarrisonsGameView({
         {showResult && (
           <div className={`quiz-feedback ${isCorrect ? 'correct' : 'incorrect'}`}>
             {isCorrect ? (
-              <>Oikein — {correctAnswer}</>
+              <>{isEnglish ? 'Correct' : 'Oikein'} - {correctAnswer}</>
             ) : (
-              <>Oikea vastaus: {correctAnswer}</>
+              <>{isEnglish ? 'Correct answer' : 'Oikea vastaus'}: {correctAnswer}</>
             )}
           </div>
         )}
 
         {showResult && (
           <button type="button" className="quiz-next-btn" onClick={handleNext}>
-            Seuraava kysymys
+            {isEnglish ? 'Next question' : 'Seuraava kysymys'}
           </button>
         )}
       </div>

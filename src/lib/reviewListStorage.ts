@@ -140,7 +140,7 @@ export function getRanksReviewEntries(): RanksReviewEntry[] {
         item != null &&
         typeof item === 'object' &&
         ((item as RanksReviewEntry).branch === 'maavoimat' || (item as RanksReviewEntry).branch === 'merivoimat') &&
-        ((item as RanksReviewEntry).language === 'fi' || (item as RanksReviewEntry).language === 'ru') &&
+        ((item as RanksReviewEntry).language === 'fi' || (item as RanksReviewEntry).language === 'en' || (item as RanksReviewEntry).language === 'ru') &&
         typeof (item as RanksReviewEntry).termFi === 'string'
     )
   } catch {

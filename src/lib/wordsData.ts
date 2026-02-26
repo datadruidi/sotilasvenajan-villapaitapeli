@@ -5,7 +5,7 @@
  * First row may be header (e.g. "Russian,Finnish"); it is auto-skipped if it looks like a header.
  */
 
-import type { WordPair, WordCardPrompt, WordEntry } from '../types/game'
+import type { AppLanguage, WordPair, WordCardPrompt, WordEntry } from '../types/game'
 
 /** Perussanasto = 7 themed lists; Lyhenteet = abbreviation lists. */
 export type WordsListId =
@@ -55,7 +55,7 @@ export const PERUSSANASTO_LIST_IDS: WordsListId[] = [
   'sotilasarvot',
 ]
 
-export const PERUSSANASTO_LABELS: Record<WordsListId, string> = {
+const PERUSSANASTO_LABELS_FI: Record<WordsListId, string> = {
   'aseet-ja-ammukset': 'Aseet ja ammukset',
   'kalusto-ja-alustat': 'Kalusto ja alustat',
   organisaatiorakenne: 'Organisaatiorakenne',
@@ -71,6 +71,28 @@ export const PERUSSANASTO_LABELS: Record<WordsListId, string> = {
   'lyhenteet-kalustolliset': 'Kalustolliset suorituskyvyt',
   'lyhenteet-johtaminen': 'Johtaminen, hallinto ja arjen lyhenteet',
   'lyhenteet-kerrattava': 'Kertaus',
+}
+
+const PERUSSANASTO_LABELS_EN: Record<WordsListId, string> = {
+  'aseet-ja-ammukset': 'Weapons and Ammunition',
+  'kalusto-ja-alustat': 'Equipment and Platforms',
+  organisaatiorakenne: 'Organization Structure',
+  'koulutus-ja-tehtavat': 'Training and Tasks',
+  'taistelu-ja-taktiikka': 'Combat and Tactics',
+  'maasto-ja-linnoitteet': 'Terrain and Fortifications',
+  sotilasarvot: 'Military Ranks',
+  'kerrattava-sanasto': 'Review',
+  'lyhenteet-turvallisuus': 'Security and Intelligence Agencies',
+  'lyhenteet-puolustushallinto': 'Defense Administration and Command',
+  'lyhenteet-asevoimat': 'Main Branches and Special Forces',
+  'lyhenteet-toiminnalliset': 'Operational Capabilities',
+  'lyhenteet-kalustolliset': 'Equipment Capabilities',
+  'lyhenteet-johtaminen': 'Leadership, Administration and Daily Terms',
+  'lyhenteet-kerrattava': 'Review',
+}
+
+export function getWordsListLabel(listId: WordsListId, appLanguage: AppLanguage): string {
+  return appLanguage === 'eng' ? PERUSSANASTO_LABELS_EN[listId] : PERUSSANASTO_LABELS_FI[listId]
 }
 
 /** Sotilassanasto menu: 7 CSV modules + 1.1.8 Käyttäjän kerrattava sanasto. */
@@ -98,7 +120,8 @@ export function isLyhenteetListId(id: WordsListId): id is (typeof LYHENTEET_LIST
   return LYHENTEET_LIST_IDS.includes(id as (typeof LYHENTEET_LIST_IDS)[number])
 }
 
-function getWordsCsvUrl(listId: WordsListIdWithFile): string {
+function getWordsCsvUrl(listId: WordsListIdWithFile, appLanguage: AppLanguage): string {
+  if (appLanguage === 'eng') return `${import.meta.env.BASE_URL}data/en/${WORDS_FILES[listId]}`
   return `${import.meta.env.BASE_URL}data/${WORDS_FILES[listId]}`
 }
 
@@ -143,7 +166,9 @@ function isHeaderRow(cells: string[]): boolean {
   const b = cells[1].toLowerCase()
   return (
     (a === 'russian' && b === 'finnish') ||
+    (a === 'russian' && b === 'english') ||
     (a === 'ru' && b === 'fi') ||
+    (a === 'ru' && b === 'en') ||
     (a === 'a' && b === 'b')
   )
 }
@@ -169,13 +194,14 @@ function isPromptFormatHeader(cells: string[]): boolean {
  * - 8-column format (abbreviation + 4 options): Russian,Finnish,Finnish_alt1,Finnish_alt2,Finnish_alt3,Russian_alt1,Russian_alt2,Russian_alt3
  *   → one correct + three fixed wrong options per direction (user’s own “similar words”).
  */
-export async function loadWordsCSV(listId: WordsListIdWithFile): Promise<WordEntry[]> {
-  const url = getWordsCsvUrl(listId)
-  const res = await fetch(url, { cache: 'no-store' })
-  if (!res.ok) {
-    const filename = WORDS_FILES[listId]
-    throw new Error(`Could not load words file: ${res.status} ${res.statusText}. Place the file at public/data/${filename}`)
+export async function loadWordsCSV(listId: WordsListIdWithFile, appLanguage: AppLanguage = 'fin'): Promise<WordEntry[]> {
+  const filename = WORDS_FILES[listId]
+  const primaryUrl = getWordsCsvUrl(listId, appLanguage)
+  let res = await fetch(primaryUrl, { cache: 'no-store' })
+  if (!res.ok && appLanguage === 'eng') {
+    res = await fetch(getWordsCsvUrl(listId, 'fin'), { cache: 'no-store' })
   }
+  if (!res.ok) throw new Error(`Could not load words file: ${res.status} ${res.statusText}. Place the file at public/data/${filename}`)
   let text = await res.text()
   if (text.length > 0 && text.charCodeAt(0) === 0xfeff) text = text.slice(1)
   const rows = parseCSV(text)

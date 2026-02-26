@@ -1,4 +1,4 @@
-/* Splash screen */
+﻿/* Splash screen */
 .splash-screen {
   position: fixed;
   inset: 0;
@@ -12,7 +12,7 @@
   overflow: hidden;
 }
 
-/* Tietoa / Lähteet: align from top so back button is below status bar and scales on phone */
+/* Tietoa / LÃ¤hteet: align from top so back button is below status bar and scales on phone */
 .splash-screen.splash-screen--info {
   align-items: flex-start;
   justify-content: flex-start;
@@ -22,7 +22,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: clamp(0.75rem, 3vh, 3rem);
+  gap: clamp(0.35rem, 1.4vh, 1rem);
   transform: translateY(clamp(-7rem, -11vh, -2.5rem));
   padding: clamp(0.5rem, 2vh, 2rem);
   width: 100%;
@@ -58,7 +58,7 @@
 }
 
 .splash-title {
-  margin: -0.45rem 0 0;
+  margin: 0 0 -0.2rem;
   font-size: clamp(1rem, 4vw, 2.25rem);
   font-weight: 700;
   text-align: center;
@@ -66,13 +66,25 @@
   flex-shrink: 0;
 }
 
+.splash-title.title-ukraine {
+  display: inline-block;
+  white-space: nowrap;
+  color: #ffd500;
+  -webkit-text-stroke: 1.8px #005bbb;
+  text-shadow:
+    -1px -1px 0 #005bbb,
+    1px -1px 0 #005bbb,
+    -1px 1px 0 #005bbb,
+    1px 1px 0 #005bbb;
+}
+
 .splash-play-btn {
   padding: clamp(0.6rem, 2vh, 1.25rem) clamp(1.5rem, 4vw, 3rem);
   font-size: clamp(1rem, 3.5vw, 1.5rem);
   font-weight: 700;
   color: #ffffff;
-  background: linear-gradient(135deg, #002F6C 0%, #001f4d 100%);
-  border: none;
+  background: #005bbb;
+  border: 2px solid #005bbb;
   border-radius: 0.75rem;
   cursor: pointer;
   box-shadow: 0 4px 14px rgba(0, 47, 108, 0.4);
@@ -81,6 +93,8 @@
 
 .splash-play-btn:hover {
   transform: translateY(-2px);
+  background: #004fa5;
+  border-color: #004fa5;
   box-shadow: 0 6px 20px rgba(0, 47, 108, 0.45);
 }
 
@@ -108,16 +122,16 @@
   font-size: clamp(0.85rem, 2.2vw, 0.95rem);
   font-weight: 600;
   color: #002F6C;
-  background: #fff;
-  border: 2px solid #e2e8f0;
+  background: #ffd500;
+  border: 2px solid #005bbb;
   border-radius: 0.5rem;
   cursor: pointer;
   transition: border-color 0.15s ease, background 0.15s ease;
 }
 
 .splash-info-btn:hover {
-  border-color: #002F6C;
-  background: #e8f0fe;
+  border-color: #004fa5;
+  background: #ffe24a;
 }
 
 .splash-info-page {
@@ -266,7 +280,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: clamp(0.2rem, 0.8vh, 0.5rem);
+  gap: clamp(0.05rem, 0.35vh, 0.2rem);
   flex-shrink: 0;
 }
 
@@ -277,13 +291,14 @@
   cursor: pointer;
   display: block;
   line-height: 0;
-  order: -1;
+  order: 2;
+  margin-top: -0.12rem;
 }
 
 .app.landing .landing-header .landing-header-logo-btn .landing-header-logo,
 .app.landing .landing-header .landing-header-logo {
   width: 100%;
-  max-width: min(800px, 36vh);
+  max-width: min(800px, 39vh);
   height: auto;
   object-fit: contain;
 }
@@ -294,6 +309,22 @@
   white-space: nowrap;
   line-height: 1.1;
   width: 100%;
+  order: 1;
+}
+
+.app.landing .landing-header .title.title-ukraine {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.app.landing .landing-header .title.title-ukraine > span:first-child {
+  color: #ffd500;
+  -webkit-text-stroke: 1.8px #005bbb;
+  text-shadow:
+    -1px -1px 0 #005bbb,
+    1px -1px 0 #005bbb,
+    -1px 1px 0 #005bbb,
+    1px 1px 0 #005bbb;
 }
 
 @media (max-width: 420px) {
@@ -302,42 +333,23 @@
   }
 }
 
-.app.landing .landing-title-flags {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
-  margin-top: -0.2rem;
-}
-
-.app.landing .landing-title-flag {
-  width: clamp(1.3rem, 2.2vw, 1.9rem);
-  height: auto;
-  display: block;
-}
-
-.splash-title-flags {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
-  margin-top: -0.8rem;
-}
-
-.splash-title-flag {
-  width: clamp(1.3rem, 2.2vw, 1.9rem);
-  height: auto;
-  display: block;
-}
-
 .app.landing .landing-header .landing-header-actions {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin-top: 0.45rem;
-  order: -2;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 420px;
+  gap: 0.6rem;
+  flex-wrap: nowrap;
+  margin-top: -0.08rem;
+  order: 3;
+}
+
+.app.landing .landing-header .landing-header-actions .landing-header-left-controls {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
 }
 
 .app.landing .landing-header .landing-header-actions .back-btn {
@@ -369,6 +381,71 @@
   justify-content: center;
 }
 
+.landing-language-picker {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.2rem;
+  margin-left: auto;
+}
+
+.landing-language-label {
+  font-size: 0.72rem;
+  line-height: 1;
+  color: #334155;
+  font-weight: 600;
+}
+
+.landing-language-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.landing-language-switch .lang-btn {
+  border: none;
+  background: transparent;
+  color: #0f172a;
+  font-weight: 700;
+  min-height: 2.15rem;
+  padding: 0.35rem 0.3rem;
+  border-radius: 0;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.92rem;
+}
+
+.landing-language-switch .lang-btn .lang-flag {
+  margin-right: 0.2rem;
+  font-size: 1.05rem;
+  line-height: 1;
+}
+
+.landing-language-switch .lang-btn.active {
+  text-decoration: underline;
+  text-underline-offset: 0.25rem;
+}
+
+.landing-language-switch .lang-btn:hover {
+  color: #0f766e;
+}
+
+.splash-language-picker {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  margin-top: -0.85rem;
+}
+
+.splash-language-label {
+  font-size: 0.78rem;
+  line-height: 1;
+  color: #334155;
+  font-weight: 600;
+}
+
 .app.landing .landing-header .landing-header-actions .mute-btn:hover {
   border-color: #991b1b;
   background: #b91c1c;
@@ -381,7 +458,7 @@
   overflow-y: auto;
   width: 100%;
   -webkit-overflow-scrolling: touch;
-  margin-top: 0.35rem;
+  margin-top: 0.04rem;
 }
 
 .app.landing .section {
@@ -393,7 +470,7 @@
 .app.landing .section-heading {
   font-size: 0.7rem;
   margin: 0 0 0.35rem;
-  color: #334155;
+  color: #000000;
 }
 
 .app.landing .country-grid {
@@ -432,9 +509,9 @@
 }
 
 .app.landing .options-grid .option-btn:not(.disabled) {
-  background: linear-gradient(135deg, #002F6C 0%, #001f4d 100%);
-  color: #fff;
-  border-color: transparent;
+  background: #005bbb;
+  color: #ffffff;
+  border-color: #005bbb;
 }
 
 .app.landing .options-grid .option-btn {
@@ -456,11 +533,11 @@
   gap: 0;
   overflow: hidden;
   background: transparent;
-  border: 2px solid #e2e8f0;
+  border: 2px solid #005bbb;
 }
 
 .app.landing .options-grid .option-btn.option-btn-with-rounds:not(.disabled) {
-  border-color: #002F6C;
+  border-color: #005bbb;
 }
 
 .app.landing .options-grid .option-btn-with-rounds .option-btn-label {
@@ -473,8 +550,8 @@
 }
 
 .app.landing .options-grid .option-btn-with-rounds:not(.disabled) .option-btn-label {
-  background: linear-gradient(135deg, #002F6C 0%, #001f4d 100%);
-  color: #fff;
+  background: #005bbb;
+  color: #ffffff;
 }
 
 .app.landing .options-grid .option-btn-with-rounds.disabled .option-btn-label {
@@ -485,16 +562,16 @@
 .app.landing .options-grid .option-btn-with-rounds .option-rounds {
   flex-shrink: 0;
   padding: clamp(0.4rem, 1.2vh, 0.6rem) 0.75rem;
-  background: #fff;
-  color: #002F6C;
+  background: #ffd500;
+  color: #005bbb;
   font-size: 0.85rem;
   font-weight: 600;
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 0 0.5rem 0.5rem 0;
-  border: 2px solid #e2e8f0;
-  border-left: 2px solid #e2e8f0;
+  border: 2px solid #005bbb;
+  border-left: 2px solid #005bbb;
 }
 
 .app.landing .options-grid .option-btn-with-rounds .option-rounds-disabled {
@@ -558,16 +635,17 @@
   flex-shrink: 0;
   padding: 0.4rem 0.6rem;
   border-radius: 0.5rem;
-  border: 2px solid #e2e8f0;
-  background: #f8fafc;
+  border: 2px solid #b91c1c;
+  background: #dc2626;
+  color: #ffffff;
   font-size: 1.1rem;
   cursor: pointer;
   transition: border-color 0.15s ease, background 0.15s ease;
 }
 
 .mute-btn:hover {
-  border-color: #002F6C;
-  background: #e8f0fe;
+  border-color: #991b1b;
+  background: #b91c1c;
 }
 
 .mute-btn-small {
@@ -613,7 +691,7 @@
 .section-heading {
   font-size: 0.9rem;
   font-weight: 600;
-  color: #64748b;
+  color: #000000;
   text-transform: uppercase;
   letter-spacing: 0.06em;
   margin: 0 0 1rem;
@@ -695,18 +773,18 @@
   width: 100%;
   padding: 1rem 1.25rem;
   border-radius: 0.75rem;
-  border: 2px solid #e2e8f0;
-  background: #fff;
+  border: 2px solid #005bbb;
+  background: #005bbb;
   font-size: 1rem;
   font-weight: 600;
-  color: #334155;
+  color: #ffffff;
   text-align: left;
   transition: border-color 0.15s ease, background 0.15s ease, transform 0.1s ease;
 }
 
 .option-btn:hover:not(:disabled) {
-  border-color: #001f4d;
-  background: linear-gradient(135deg, #001f4d 0%, #001530 100%);
+  border-color: #004fa5;
+  background: #004fa5;
   transform: translateX(4px);
 }
 
@@ -734,15 +812,28 @@
 }
 
 .option-btn.option-btn-kertaus {
-  border-color: #15803d;
-  background: #16a34a;
-  color: #ffffff;
+  border-color: #005bbb;
+  background: #ffd500;
+  color: #000000;
   text-align: center;
 }
 
 .option-btn.option-btn-kertaus:hover:not(:disabled) {
-  border-color: #166534;
-  background: #15803d;
+  border-color: #004fa5;
+  background: #ffe24a;
+}
+
+/* Ensure Review/Kertaus stays yellow also on landing where broader option button rules apply */
+.app.landing .options-grid .option-btn.option-btn-kertaus:not(.disabled) {
+  background: #ffd500;
+  border-color: #005bbb;
+  color: #000000;
+}
+
+.app.landing .options-grid .option-btn.option-btn-kertaus:hover:not(.disabled) {
+  background: #ffe24a;
+  border-color: #004fa5;
+  color: #000000;
 }
 
 .option-btn.option-btn-kertaus .option-btn-label {
@@ -758,14 +849,26 @@
 }
 
 .option-btn.option-btn-with-rounds:hover:not(:disabled) .option-rounds {
-  background: #f8fafc;
-  border-color: #001f4d;
-  color: #002F6C;
+  background: #ffe24a;
+  border-color: #004fa5;
+  color: #005bbb;
 }
 
 .option-btn .icon {
   font-size: 1.5rem;
   opacity: 0.9;
+}
+
+/* Blue boxes should always use white text */
+.option-btn:not(.option-btn-kertaus):not(.disabled),
+.app.landing .options-grid .option-btn-with-rounds:not(.disabled) .option-btn-label,
+.back-btn,
+.splash-play-btn,
+.quiz-option,
+.quiz-next-btn,
+.result-btn-retry,
+.result-btn-menu {
+  color: #ffffff;
 }
 
 /* Game view */
@@ -798,17 +901,17 @@
 .back-btn {
   padding: 0.6rem 1.2rem;
   border-radius: 0.5rem;
-  border: 2px solid #e2e8f0;
-  background: #f8fafc;
+  border: 2px solid #005bbb;
+  background: #005bbb;
   font-weight: 600;
-  color: #475569;
+  color: #ffffff;
   transition: border-color 0.15s ease, background 0.15s ease;
 }
 
 .back-btn:hover {
-  border-color: #002F6C;
-  background: #e8f0fe;
-  color: #002F6C;
+  border-color: #004fa5;
+  background: #004fa5;
+  color: #ffffff;
 }
 
 .placeholder-note {
@@ -884,8 +987,8 @@
 }
 
 .quiz-progress-card {
-  background: #f8fafc;
-  border: 1px solid #cbd5e1;
+  background: #ffffff;
+  border: 1px solid #005bbb;
   border-radius: 0.5rem;
   padding: 0.35rem 0.55rem;
   box-shadow: 0 1px 3px rgba(15, 23, 42, 0.12);
@@ -920,25 +1023,25 @@
 .game-view-quiz .quiz-header-actions .back-btn-small {
   border-color: #15803d;
   background: #16a34a;
-  color: #fff;
+  color: #ffffff;
 }
 
 .game-view-quiz .quiz-header-actions .back-btn-small:hover {
   border-color: #166534;
   background: #15803d;
-  color: #fff;
+  color: #ffffff;
 }
 
 .game-view-quiz .quiz-header-actions .mute-btn-small {
   border-color: #b91c1c;
   background: #dc2626;
-  color: #fff;
+  color: #ffffff;
 }
 
 .game-view-quiz .quiz-header-actions .mute-btn-small:hover {
   border-color: #991b1b;
   background: #b91c1c;
-  color: #fff;
+  color: #ffffff;
 }
 
 .back-btn-inline {
@@ -984,7 +1087,7 @@
   flex-shrink: 0;
 }
 .quiz-review-btn--add {
-  color: #fff;
+  color: #ffffff;
   background: #16a34a;
   border-color: #15803d;
 }
@@ -993,7 +1096,7 @@
   border-color: #166534;
 }
 .quiz-review-btn--remove {
-  color: #fff;
+  color: #ffffff;
   background: #dc2626;
   border-color: #b91c1c;
 }
@@ -1080,19 +1183,19 @@
   width: 100%;
   padding: clamp(0.5rem, 1.5vh, 1rem) 1rem;
   border-radius: 0.5rem;
-  border: 2px solid #002F6C;
-  background: linear-gradient(135deg, #002F6C 0%, #001f4d 100%);
+  border: 2px solid #005bbb;
+  background: #005bbb;
   font-size: clamp(0.85rem, 2.2vw, 1rem);
   font-weight: 600;
-  color: #fff;
+  color: #ffffff;
   text-align: left;
   transition: border-color 0.15s ease, background 0.15s ease;
   flex-shrink: 0;
 }
 
 .quiz-option:hover:not(:disabled) {
-  border-color: #001f4d;
-  background: linear-gradient(135deg, #001f4d 0%, #001530 100%);
+  border-color: #004fa5;
+  background: #004fa5;
 }
 
 .quiz-option:disabled {
@@ -1170,8 +1273,8 @@
   padding: clamp(0.5rem, 1.5vh, 1rem) 1rem;
   border-radius: 0.5rem;
   border: none;
-  background: #002F6C;
-  color: #fff;
+  background: #005bbb;
+  color: #ffffff;
   font-size: clamp(0.9rem, 2.2vw, 1rem);
   font-weight: 700;
   transition: background 0.15s ease, transform 0.1s ease;
@@ -1179,7 +1282,7 @@
 }
 
 .quiz-next-btn:hover {
-  background: #001f4d;
+  background: #004fa5;
   transform: translateY(-1px);
 }
 
@@ -1269,8 +1372,8 @@
 }
 
 .result-btn-retry {
-  background: linear-gradient(135deg, #002F6C 0%, #001f4d 100%);
-  color: #fff;
+  background: #005bbb;
+  color: #ffffff;
   box-shadow: 0 4px 14px rgba(0, 47, 108, 0.4);
 }
 
@@ -1279,17 +1382,17 @@
 }
 
 .result-btn-menu {
-  background: #f1f5f9;
-  color: #475569;
-  border: 2px solid #e2e8f0;
+  background: #005bbb;
+  color: #ffffff;
+  border: 2px solid #005bbb;
 }
 
 .result-btn-menu:hover {
-  background: #e2e8f0;
-  color: #334155;
+  background: #004fa5;
+  color: #ffffff;
 }
 
-/* Words: direction popup (Valitse sanaston käännössuunta) */
+/* Words: direction popup (Valitse sanaston kÃ¤Ã¤nnÃ¶ssuunta) */
 .words-direction-overlay {
   position: fixed;
   inset: 0;
@@ -1380,7 +1483,7 @@
   background: #f3f4f6;
 }
 
-/* Ladataan…-ikkuna: loading overlay after main/home selections */
+/* Ladataanâ€¦-ikkuna: loading overlay after main/home selections */
 .ladataan-ikkuna {
   position: fixed;
   inset: 0;
@@ -1411,3 +1514,4 @@
   margin: 0;
   letter-spacing: 0.02em;
 }
+
