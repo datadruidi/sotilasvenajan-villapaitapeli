@@ -2,7 +2,33 @@
 
 This file is a cumulative changelog: newest versions are listed first. Older entries are kept.
 
-**Current version:** 1.0.5
+**Current version:** 1.0.6
+
+---
+
+## Version 1.0.6 (2026-02-28)
+
+This update expands Russia military modules with new playable branches, folder-based image loading, and a reworked military districts flow.
+
+- Added new active and playable branch modules under `2.2` using folder-driven image pools:
+  - `2.2.2 Aerospace Forces`
+  - `2.2.3 Ground Forces`
+  - `2.2.4 Strategic Missile Forces`
+  - `2.2.5 Airborne Forces`
+  - `2.2.6 Unmanned Systems Forces`
+- Implemented/updated image path generator scripts and generated path index files for the new branches.
+- Standardized newly added unmanned system images to `.png` and removed accidental double extensions (`*.jpg.png`) in that module.
+- Improved class-name formatting logic for ground and strategic missile branches (including model code capitalization and `SS-18` formatting).
+- Reworked `2.1 Military Districts` navigation:
+  - `2.1.1` renamed to **Military District Bases** and simplified so Leningrad launches Combined View directly.
+  - Review button moved to the `2.1.1` upper level.
+  - Added district list with only Leningrad active; other district buttons are intentionally disabled and marked as future-by-request.
+- Added a new **Military District Insignia** image game flow:
+  - `2.1.3` now launches the game directly (no lower submenu).
+  - Round counter (`x/100`) shown on the `2.1.3` button.
+  - Supports loading images from district-specific insignia folders and playing across all available district images.
+- Created/updated folder structures for all newly added vehicle and insignia datasets to support `01`, `02`, ... style image additions.
+- Refreshed generated image indexes after adding new images and verified production build success.
 
 ---
 
