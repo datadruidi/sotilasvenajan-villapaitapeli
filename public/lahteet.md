@@ -186,8 +186,73 @@ Russian Zubr class LCAC — Caption: "Russian military exercise Zapad 2009." | A
 
 
 
-#### **2.2.2. Ilma- ja avaruusvoimat / Aerospace Forces**
-Ei julkaistu
+#### **2.2.2. Venäjän ilmailu- ja avaruusvoimat / Russian Aerospace Forces (VKS)**
+
+##### Air superiority fighter — Sukhoi Su-35S
+Sukhoi Su-35S ‘RF-81746 - 58 red’ (37270667786).jpg — Caption: "Sukhoi Su-35S ‘RF-81746 - 58 red’ taxiing (ARMY 2017, Kubinka Airbase)" | Author: Hawkeye UK (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-35S_%E2%80%98RF-81746_-_58_red%E2%80%99_(37270667786).jpg
+ | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 23 August 2017 (inception shown on file page) | Uploaded: 
+
+##### Tactical strike fighter-bomber — Sukhoi Su-34
+Sukhoi Su-34 (4322158744).jpg — Caption: "Sukhoi Su-34" | Author: Dmitry Terekhov (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-34_(4322158744).jpg
+ | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 21 August 2009 | Uploaded: 
+
+##### 5th generation fighter — Sukhoi Su-57
+Sukhoi Su-57 bn058 Kubinka 2020.jpg — Caption: "Sukhoi Su-57 solo display performing at Military-Technical Forum ARMY-2020" | Author: Andrei Shmatko | Source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-57_bn058_Kubinka_2020.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 21 August 2020 | Uploaded: 
+
+##### Strategic bomber — Tupolev Tu-160
+TU-160 (24843600249).jpg — Caption: "TU-160" | Author: Dmitry Terekhov (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:TU-160_(24843600249).jpg
+ | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 22 June 2015 | Uploaded: 
+
+##### Long-range bomber — Tupolev Tu-95MS
+Tupolev Tu-95MS, Celebration of the 100th anniversary of Russian Air Force.jpg — Caption: "Aircraft at the Celebration of the 100th anniversary of Russian Air Force" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Tupolev_Tu-95MS,_Celebration_of_the_100th_anniversary_of_Russian_Air_Force.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 10 August 2012 | Uploaded: 
+
+##### Long-range bomber — Tupolev Tu-22M3
+Tu-22m3-34.jpg — Caption: "Самолёт Ту-22М3 борт 34 красный с ракетой Х-22" | Author: Sot10 | Source: https://commons.wikimedia.org/wiki/File:Tu-22m3-34.jpg
+ | License: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 25 June 2010 | Uploaded: 
+
+##### Long-range interceptor — Mikoyan MiG-31
+MiG-31-4966.JPG — Caption: "MiG-31 in Technical museum Togliatti" | Author: ShinePhantom | Source: https://commons.wikimedia.org/wiki/File:MiG-31-4966.JPG
+ | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 25 April 2010 | Uploaded: 
+
+##### AEW&C — Beriev A-50U
+Airborne early warning and control aircraft A-50U (Red 41).jpg — Caption: "Russian Air Force Beriev A-50U (Red 41)" | Author: Sergey Lutsenko, Timofey Nikishin | Source: https://commons.wikimedia.org/wiki/File:Airborne_early_warning_and_control_aircraft_A-50U_(Red_41).jpg
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 10 March 2017 | Uploaded: 
+
+##### Aerial refuelling tanker — Ilyushin Il-78
+Il-78 Midas.jpg — Caption: "An IL-78 Midas sits on display on the flight line in support of the Russian visit, Barksdale Air Force Base, Louisiana (USA)" | Author: Staff Sgt. Gerald Currington (U.S. Air Force) | Source: https://commons.wikimedia.org/wiki/File:Il-78_Midas.jpg
+ | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 19 August 1994 | Uploaded: 
+
+##### Strategic airlift — Ilyushin Il-76MD-90A
+Il-76MD-90A Nikolai Makarovets at ARMY-2022.jpg — Caption: "Il-76MD-90A ‘Nikolai Makarovets’ on static display at ARMY-2022 (Kubinka)" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:Il-76MD-90A_Nikolai_Makarovets_at_ARMY-2022.jpg
+ | License: CC BY-SA 3.0 DE (https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 18 August 2022 | Uploaded: 
+
+##### Attack helicopter — Kamov Ka-52
+Kamov Ka-52 flight.JPG — Caption: "Kamov Ka-52 during the MAKS 2007 airshow" | Author: Dmitry | Source: https://commons.wikimedia.org/wiki/File:Kamov_Ka-52_flight.JPG
+ | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 24 August 2007 | Uploaded: 
+
+##### Utility / assault helicopter — Mil Mi-8AMTSh
+Mi-8AMTSh helicopter in Russia.jpg — Caption: "Mi-8AMTSh helicopter in Russia." | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Mi-8AMTSh_helicopter_in_Russia.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 2012 | Uploaded: 
+
+##### Long-range air defence — S-400 Triumf
+S-400 Triumf SAM.png — Caption: "A TEL of a S-400 Triumf during a Victory Day Anniversary Parade rehearsal (Moscow, 2009)" | Author: UMNICK | Source: https://commons.wikimedia.org/wiki/File:S-400_Triumf_SAM.png
+ | License: Public Domain (released by author; PD-user/PD-self) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 7 May 2009 | Uploaded: 
+
 
 
 #### **2.2.3. Maavoimat / Ground Forces** 
