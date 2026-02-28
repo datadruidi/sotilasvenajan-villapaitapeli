@@ -122,6 +122,9 @@ You can send feedback and feature requests to:
 
 **villapaitapeli.shaky136@passmail.net**
 
+Or post anonymously on the feedback pad:
+
+**https://pad.riseup.net/p/MqxWfBo7cIo-x0yPks6g-keep**
 ---
 
 ## Disclaimer
