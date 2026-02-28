@@ -125,7 +125,7 @@ export const TACTICAL_SIGNS_JOUKKOJEN_KOKO_PATHS: string[] = [
   "/assets/tactical-signs/Joukkojen koko/Partio.jpg",
   "/assets/tactical-signs/Joukkojen koko/Pataljoona - Patteristo - Laivue - Linnake.jpg",
   "/assets/tactical-signs/Joukkojen koko/Prikaati - Rajavartiosto - Lippue - Rannikko-alue - Merivartiosto - Lentopiiri.jpg",
-  "/assets/tactical-signs/Joukkojen koko/Pääesikunta - Armeijaryhmä - Rintama.jpg.png",
+  "/assets/tactical-signs/Joukkojen koko/Pääesikunta - Armeijaryhmä - Rintama.png",
   "/assets/tactical-signs/Joukkojen koko/Ryhmä.jpg",
   "/assets/tactical-signs/Joukkojen koko/Rykmentti - Tykistöryhmä.jpg"
 ]

@@ -6,6 +6,7 @@
 import type { CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
 import { IMAGE_REGISTRY } from '../data/imageRegistry'
 import { NAVY_IMAGE_PATHS } from '../data/navyImagePaths'
+import { UNMANNED_SYSTEMS_IMAGE_PATHS } from '../data/unmannedSystemsImagePaths'
 import { parseNavyFilename } from './navyFilenameParser'
 
 /**
@@ -35,6 +36,42 @@ function getNavyImageEntries(): ImageEntry[] {
   return entries
 }
 
+function formatUavClassName(raw: string): string {
+  const normalized = raw.replace(/[_-]+/g, ' ').trim()
+  if (normalized.length === 0) return raw
+  return normalized
+    .split(/\s+/)
+    .map((word) => {
+      if (/\d/.test(word)) return word.toUpperCase()
+      return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+    })
+    .join(' ')
+}
+
+/**
+ * Build Unmanned Systems Forces image entries from path list.
+ * Class name is derived from the folder under /unmanned_system_forces/.
+ */
+function getUnmannedSystemsImageEntries(): ImageEntry[] {
+  const entries: ImageEntry[] = []
+  for (let i = 0; i < UNMANNED_SYSTEMS_IMAGE_PATHS.length; i++) {
+    const assetPath = UNMANNED_SYSTEMS_IMAGE_PATHS[i]
+    const parts = assetPath.split('/').filter(Boolean)
+    const baseIndex = parts.indexOf('unmanned_system_forces')
+    const classKey = baseIndex >= 0 ? (parts[baseIndex + 1] ?? '') : ''
+    if (!classKey) continue
+    entries.push({
+      id: `ru-uav-systems-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,
+      assetPath,
+      country: 'russia',
+      branch: 'uav-systems',
+      correctClassName: `${formatUavClassName(classKey)} class`,
+      active: true,
+    })
+  }
+  return entries
+}
+
 /**
  * Filters the image pool to entries matching country and branch, active only.
  * Navy uses file list + parser; for navy + vesselName mode, only entries with vesselName are included.
@@ -50,6 +87,9 @@ export function getFilteredPool(
       pool = pool.filter((e) => e.vesselName != null && e.vesselName.trim() !== '')
     }
     return pool
+  }
+  if (country === 'russia' && branch === 'uav-systems') {
+    return getUnmannedSystemsImageEntries()
   }
   return IMAGE_REGISTRY.filter(
     (e) => e.country === country && e.branch === branch && e.active

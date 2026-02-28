@@ -203,8 +203,194 @@ Ei julkaistu
 
 
 
-#### **2.2.6. Miehittämättömien järjestelmien joukot / Unmanned Systems Forces**
-Ei julkaistu
+#### **2.2.6. Miehittämättömättömien järjestelmien joukot / Unmanned Systems Forces**
+
+##### Altair (Altius)
+
+Altair-5 — Caption: "Altair-5" | Author: Роман Барский | Source: https://commons.wikimedia.org/wiki/File:Altair-5.jpg
+ | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC0_button.svg
+ | Changes: Resized for in-app display | Created:  | Uploaded: 11 January 2023
+
+##### Eleron-3
+
+Eleron-3 - IDELF-2008-197 — Caption: "Элерон (Eleron UAV)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Eleron-3_-_IDELF-2008-197.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 21 August 2008 | Uploaded: 9 June 2017
+
+##### Forpost
+
+Forpost UAV InnovationDay2013part2-03 — Caption: "Forpost UAV" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Forpost_UAV_InnovationDay2013part2-03.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 20 August 2013 | Uploaded: 5 September 2013
+
+
+##### Geran-2 (Shahed 136)
+
+Military equipment displayed for the 44th Iranian revolution anniversary rally - Shahed 136 — Caption: "Good view on a Shahed-136 loitering munition on launcher in a pickup truck displayed during the 44th Islamic revolution anniversary ceremony in Tehran, Feb 11, 2023." | Author: Tasnim News Agency | Source: https://commons.wikimedia.org/wiki/File:Military_equipment_displayed_for_the_44th_Iranian_revolution_anniversary_rally_-_Shahed_136.jpg  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 11 February 2023 | Uploaded: 13 February 2023
+
+
+Shahed-136 debris fragments from attack on MT Pacific Zircon 221122-N-NO146-1003 — Caption: "Graphic identifying specific debris fragments… indicating the UAV was an Iranian-made Shahed-136. (U.S. Navy graphic)" | Author: U.S. Navy | Source: https://commons.wikimedia.org/wiki/File:Shahed-136_debris_fragments_from_attack_on_MT_Pacific_Zircon_221122-N-NO146-1003.JPG  | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg  | Changes: Resized for in-app display | Created: 1 November 2022 | Uploaded: 17 February 2023
+
+
+##### Granat-1
+
+БЛА Гранат-1 — Caption: "Носимый комплекс с БЛА" | Author: AnthonyWK | Source: https://commons.wikimedia.org/wiki/File:БЛА_Гранат-1.png  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 24 June 2016 | Uploaded
+
+
+##### Granat-2
+
+БЛА Гранат-2 — Caption: "Носимый комплекс с БЛА" | Author: AnthonyWK | Source: https://commons.wikimedia.org/wiki/File:БЛА_Гранат-2.png  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 25 December 2013 | Uploaded:
+
+
+##### Granat-4
+
+Granat-4 UAV at Interpolitex-2015 — Caption: "Granat-4 UAV" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Granat-4_UAV_at_Interpolitex-2015.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created:  | Uploaded: 
+
+
+##### KUB-BLA (KUB-E as representative)
+
+KUB-E loitering munition at IDEX 2023 — Caption: "KUB-E loitering munition at IDEX 2023" | Author: Mztourist | Source: https://commons.wikimedia.org/wiki/File:KUB-E_loitering_munition_at_IDEX_2023.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 22 February 2023 | Uploaded: 23 February 2023
+
+
+##### Lancet
+Army-2020-315 — Caption: "ZALA Aero UAV Lancet" | Author: Nickel nitride | Source: https://commons.wikimedia.org/wiki/File:Army-2020-315.JPG
+ | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC0_button.svg
+ | Changes: Resized for in-app display | Created: 27 August 2020 | Uploaded: 30 August 2020
+
+
+ZALA Lancet at IDEX 2025 — Caption: "ZALA Lancet at IDEX 2025" | Author: Mztourist | Source: https://commons.wikimedia.org/wiki/File:ZALA_Lancet_at_IDEX_2025.jpg  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 19 February 2025 | Uploaded:
+
+
+##### Leer-3 (RB-341V)
+
+TB2015ExhibitionP2-49 — Caption: "RB-341V Leer-3 ECM system with UAV" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:TB2015ExhibitionP2-49.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 15 August 2015 | Uploaded: 
+
+##### Marker (UGV)
+
+Marker combat UGV — Caption: "Marker combat unmanned ground vehicle." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Marker_combat_UGV.jpg  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 27 August 2020 | Uploaded:
+
+
+Marker" robotic platform during the "Armiya 2022" exhibition — Caption: ""Marker" robotic platform during the "Armiya 2022" exhibition." | Author: Kirill Borisenko | Source: https://commons.wikimedia.org/wiki/File:"Marker"_robotic_platform_during_the_"Armiya_2022"_exhibition.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded:
+
+
+##### Nerekhta (UGV)
+
+Army-2018-03 — Caption: "Nerekhta combat robot" | Author: Alexey Ivanov | Source: https://commons.wikimedia.org/wiki/File:Army-2018-03.jpg
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 21 August 2018 | Uploaded: 22 August 2018
+
+
+##### Okhotnik (S-70)
+
+S-70 takeoff rear view — Caption: "Rear view of S-70 during takeoff" | Author: Ministry of Defence of the Russian Federation (mil.ru) | Source: https://commons.wikimedia.org/wiki/File:S-70_takeoff_rear_view.png
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 16 August 2019 | Uploaded: 5 October 2024
+
+
+S-70 takeoff front view — Caption: "Front view of S-70 during takeoff" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:S-70_takeoff_front_view.png  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 16 August 2019 | Uploaded:
+
+
+##### Orion-E (Inokhodets) 
+
+Kronstadt Orion-E front right ARMY-2022 — Caption: "Kronstadt Orion-E UAV on static display at ARMY-2022" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:Kronstadt_Orion-E_front_right_ARMY-2022.jpg
+ | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC_BY-SA_3.0.png
+ | Changes: Resized for in-app display | Created: 18 August 2022 | Uploaded: 1 October 2022
+
+
+Orion UAV Army-2022 2022-08-20 2412 — Caption: "БПЛА Орион-Э." | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:Orion_UAV_Army-2022_2022-08-20_2412.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 1 September 2022
+
+
+
+##### Orlan-10
+
+Orlan-10 UAV Army-2022 2022-08-20 2290 — Caption: "БПЛА Орлан-10" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:Orlan-10_UAV_Army-2022_2022-08-20_2290.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 1 September 2022
+
+
+Orlan-10 (2) — Caption: "Orlan-10 UAV" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Orlan-10_(2).jpg  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 27 August 2020 | Uploaded:
+
+
+##### Orlan-30
+
+Orlan-30 UAV Army-2022 2022-08-20 2632 — Caption: "БПЛА Орлан-30" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:Orlan-30_UAV_Army-2022_2022-08-20_2632.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 1 September 2022
+
+
+
+##### Supercam S150
+
+SUPERCAM S150 UAV Army-2022 2022-08-20 2222 — Caption: "БПЛА S150" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:SUPERCAM_S150_UAV_Army-2022_2022-08-20_2222.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 
+
+
+Supercam S150 на эластичной катапульте — Caption: "Supercam S150 на эластичной катапульте" | Author: Supercamaero | Source: https://commons.wikimedia.org/wiki/File:Supercam_S150_на_эластичной_катапульте.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 23 November 2017 | Uploaded:
+
+##### Supercam S350
+
+БВС Supercam S350 — Caption: "БВС Supercam S350 на пневматической катапульте" | Author: Supercamaero | Source: https://commons.wikimedia.org/wiki/File:БВС_Supercam_S350.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 15 August 2019 | Uploaded: 
+
+
+Drone of Russian Ministry of Emergency Situations captured in Ukraine (22 June 2022) — Caption: "Drone of Russian Ministry of Emergency Situations captured by Ukrainian forces…" | Author: Dsns.gov.ua | Source: https://commons.wikimedia.org/wiki/File:Drone_of_Russian_Ministry_of_Emergency_Situations_captured_in_Ukraine_(22_June_2022).jpg  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 22 June 2022 | Uploaded:
+
+
+
+##### Takhion
+
+Army-2020-265 — Caption: "Takhion UAV" | Author: Nickel nitride | Source: https://commons.wikimedia.org/wiki/File:Army-2020-265.JPG
+ | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC0_button.svg
+ | Changes: Resized for in-app display | Created: 27 August 2020 | Uploaded: 30 August 2020
+
+
+FinalCheck2018-10 — Caption: "Russian 56th Separate Guards Air Assault Brigade. Takhion UAV." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:FinalCheck2018-10.jpg  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 17 October 2018 | Uploaded: 18 October 2018
+
+
+##### Uran-9 (UGV)
+
+Uran-9 Army2016 — Caption: "Uran-9 unmanned combat ground vehicle displayed at Army 2016" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:Uran-9_Army2016.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 7 September 2016 | Uploaded: 
+
+
+
+Multifunctional robotic combat system "Uran-9" during the "Armiya 2021" exhibition (front-left view) — Caption: "Multifunctional robotic combat system "Uran-9" during the "Armiya 2021" exhibition." | Author: Kirill Borisenko | Source: https://commons.wikimedia.org/wiki/File:Multifunctional_robotic_combat_system_"Uran-9"_during_the_"Armiya_2021"_exhibition_(front-left_view).jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 26 August 2021 | Uploaded:
+
+##### ZALA 421-16
+
+Interpolitex 2012 (482-17) — Caption: "БПЛА ZALA 421-16" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Interpolitex_2012_(482-17).jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 23 October 2012 | Uploaded: 25 May 2013
+
+
+
+ZALA 421-16 Engineering technologies international forum 2010 — Caption: "ZALA 421-16 at Engineering technologies international forum -2010" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:ZALA_421-16_Engineering_technologies_international_forum_2010.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 30 June 2010 | Uploaded: 21 September 2012
+
+
+##### ZALA 421-08
+ZALA 421-08 Engineering technologies international forum 2010 — Caption: "Unmanned aerial reconnaissance complex Strekoza with ZALA 421-08 UAV" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:ZALA_421-08_Engineering_technologies_international_forum_2010.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 30 June 2010 | Uploaded: 
+
+ZALA 421-08 ISSE-2012 — Caption: "ZALA 421-08 at Integrated Safety and Security Exhibition 2012" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:ZALA_421-08_ISSE-2012.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 23 May 2012 | Uploaded: 20 July 2012
+
+
+
+##### ZALA 421-22
+ZALA 421-08 ISSE-2012 — Caption: "ZALA 421-08 at Integrated Safety and Security Exhibition 2012" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:ZALA_421-08_ISSE-2012.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 23 May 2012 | Uploaded: 20 July 2012
+
+
+
+ZALA 421-22 InnovationDay2013part2-17 — Caption: "ZALA 421-22 UAV" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:ZALA_421-22_InnovationDay2013part2-17.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 20 August 2013 | Uploaded:
 
 
 ### 3. Sotilasmerkistö / Military Symbology

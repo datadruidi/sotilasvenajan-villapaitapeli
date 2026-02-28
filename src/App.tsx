@@ -48,7 +48,7 @@ const BRANCHES: { id: BranchButtonId; label: string; disabled?: boolean }[] = [
   { id: 'army', label: '2.2.3. Maavoimat', disabled: true },
   { id: 'strategic-missile', label: '2.2.4. Strategiset ohjusjoukot', disabled: true },
   { id: 'airborne', label: '2.2.5. Maahanlaskujoukot', disabled: true },
-  { id: 'uav-systems', label: '2.2.6. Miehittämättömien järjestelmien joukot', disabled: true },
+  { id: 'uav-systems', label: '2.2.6. Miehittämättömien järjestelmien joukot' },
 ]
 
 /** Military districts under Sotilaspiirit; only Leningrad is selectable and shows the 4 responsibility areas */

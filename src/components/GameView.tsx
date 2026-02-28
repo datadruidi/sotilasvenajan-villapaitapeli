@@ -180,7 +180,7 @@ export function GameView({ country, branch, branchLabel, menuTitle, navySubMode,
 
   const quizPrompt = isVesselNameMode
     ? (isEnglish ? 'What is the vessel name?' : 'Mika aluksen nimi on?')
-    : (isEnglish ? 'What vessel class is this?' : 'Mika alusluokka tama on?')
+    : (isEnglish ? 'What class is this?' : 'Mika luokka tama on?')
   const formatOption = (opt: string) => (isVesselNameMode ? formatVesselName(opt) : normalizeClassLabel(opt))
 
   return (
