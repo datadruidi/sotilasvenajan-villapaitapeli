@@ -10,12 +10,78 @@ Sotilasvenäjän sanaston lyhenteet on generoitu ChatGPT:llä.
 
 ## **2. Sotilasorganisaatio / Military Organization**
 
-### **2.1. Sotilaspiirit / Military Districts (sijainnit / locations)**
+### **2.1. Sotilaspiirit / Military Districts **
+
+### 2.1.1. Sotilaspiirien tukikohdat / Military Districts Bases
 
 Panschin, V. (2023). Venäjän sotilaallinen voima Suomen lähialueilla: Pohjoisen operatiivisstrategisen johtoportaan ja Läntisen sotilaspiirin joukot sekä niiden taistelun kuva (Sotataidon laitos, Julkaisusarja 2: Tutkimusselosteita, No. 24). Maanpuolustuskorkeakoulu. https://www.doria.fi/handle/10024/186542
 
 
 Pääesikunta. (2026). Sotilastiedustelu: Julkinen katsaus 2026. https://puolustusvoimat.fi/documents/1948673/8274776/PV_sotilastiedustelu_2026_FI.pdf/981f2115-4262-d896-5c7c-763925641aa2/PV_sotilastiedustelu_2026_FI.pdf
+
+
+### 2.1.2. Sotilaspiirien tunnukset / Military Districts Insignia
+
+##### Central Military District
+Small emblem of the Central Military District.svg — Caption: "Малая эмблема Центрального военного округа" | Author: Constantine | Source: https://commons.wikimedia.org/wiki/File:Small_emblem_of_the_Central_Military_District.svg
+ | License: Public Domain (RU state symbol/sign) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 18 January 2026 | Uploaded: 
+
+Great emblem of the Central Military District.svg — Caption: "Great emblem of the Central Military District" | Author: w:Central Military District | Source: https://commons.wikimedia.org/wiki/File:Great_emblem_of_the_Central_Military_District.svg
+ | License: Public Domain (RU state symbol/sign) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 30 January 2018 | Uploaded: 
+
+
+##### Eastern Military District
+Small emblem of the Eastern Military District.svg — Caption: "Малая эмблема Восточного военного округа" | Author: Constantine | Source: https://commons.wikimedia.org/wiki/File:Small_emblem_of_the_Eastern_Military_District.svg
+ | License: Public Domain (RU state symbol/sign) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 18 January 2026 | Uploaded: 
+
+Great emblem of the Eastern Military District.svg — Caption: "Great emblem of the Eastern Military District" | Author: w:Eastern Military District; Constantine | Source: https://commons.wikimedia.org/wiki/File:Great_emblem_of_the_Eastern_Military_District.svg
+ | License: Public Domain (RU state symbol/sign) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 24 July 2019 | Uploaded: 
+
+
+##### Leningrad Military District
+Small emblem of the Leningrad Military District.svg — Caption: "(no English caption on file page) / Русский: Западный военный округ, эмблема малая" | Author: Constantine | Source: https://commons.wikimedia.org/wiki/File:Small_emblem_of_the_Leningrad_Military_District.svg
+ | License: Public Domain (RU state symbol/sign) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 12 August 2015 | Uploaded: 
+
+Great emblem of the Leningrad Military District.svg — Caption: "Great emblem of the Leningrad Military District" | Author: w:Western Military District; Никита Глухарёв | Source: https://commons.wikimedia.org/wiki/File:Great_emblem_of_the_Leningrad_Military_District.svg
+ | License: Public Domain (RU state symbol/sign) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 24 July 2019 | Uploaded: 
+
+
+##### Moscow Military District
+Small emblem of the Moscow Military District.svg — Caption: "Малая эмблема Московского военного округа" | Author: Constantine | Source: https://commons.wikimedia.org/wiki/File:Small_emblem_of_the_Moscow_Military_District.svg
+ | License: Public Domain (RU state symbol/sign) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 18 January 2026 | Uploaded: 
+
+Great emblem of the Moscow Military District.svg — Caption: "Большая эмблема Московского военного округа" | Author: Никита Добров | Source: https://commons.wikimedia.org/wiki/File:Great_emblem_of_the_Moscow_Military_District.svg
+ | License: Public Domain (RU state symbol/sign) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 1 March 2024 | Uploaded: 
+
+
+##### Northern Fleet Joint Strategic Command
+Northern Fleet small emblem.svg — Caption: "Эмблема объединённого стратегического командования «Северный флот»" | Author: Министерство обороны РФ | Source: https://commons.wikimedia.org/wiki/File:Northern_Fleet_small_emblem.svg
+ | License: Public Domain (RU state symbol/sign) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 13 April 2018 | Uploaded: 
+
+Great emblem of the Northern Fleet.svg — Caption: "Great emblem of the Northern Fleet of the Russian Armed Forces" | Author: w:Northern Fleet | Source: https://commons.wikimedia.org/wiki/File:Great_emblem_of_the_Northern_Fleet.svg
+ | License: Public Domain (RU state symbol/sign) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 14 August 2018 | Uploaded: 
+
+
+##### Southern Military District
+Small emblem of the Southern Military District.svg — Caption: "Малая эмблема Южного военного округа" | Author: Constantine | Source: https://commons.wikimedia.org/wiki/File:Small_emblem_of_the_Southern_Military_District.svg
+ | License: Public Domain (RU state symbol/sign) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 18 January 2026 | Uploaded: 
+
+Great emblem of the Southern Military District.svg — Caption: "Great emblem of the Southern Military District" | Author: w:Southern Military District; Никита Глухарёв | Source: https://commons.wikimedia.org/wiki/File:Great_emblem_of_the_Southern_Military_District.svg
+ | License: Public Domain (RU state symbol/sign) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 23 January 2019 | Uploaded: 
+
+
 
 
 ### **2.2. Sotilaalliset suorituskyvyt / Military Capabilities (kuvat / images):** 

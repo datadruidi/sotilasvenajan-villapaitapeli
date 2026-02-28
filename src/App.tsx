@@ -3,6 +3,7 @@ import './App.css'
 import { GameView } from './components/GameView'
 import { GarrisonsGameView } from './components/GarrisonsGameView'
 import { LadataanIkkuna } from './components/LadataanIkkuna'
+import { MilitaryDistrictInsigniaGameView } from './components/MilitaryDistrictInsigniaGameView'
 import { RanksGameView } from './components/RanksGameView'
 import { TacticalSignsGameView } from './components/TacticalSignsGameView'
 import { SplashScreen } from './components/SplashScreen'
@@ -18,9 +19,10 @@ import type { RanksBranchId } from './data/ranksData'
 import { getRanksReviewPool } from './lib/ranksLogic'
 import type { RanksLanguage } from './lib/ranksLogic'
 import type { RankGameEntry } from './lib/ranksLogic'
+import type { MilitaryDistrictInsigniaSubset } from './lib/militaryDistrictInsigniaLogic'
 import type { AppLanguage, NavySubMode, VehicleBranch, WordEntry, WordsDirection, WordsDifficulty } from './types/game'
 
-type ContentType = 'vehicles' | 'words' | 'garrisons' | 'local-forces' | 'tactical-signs' | 'ranks' | 'venajan-asevoimat'
+type ContentType = 'vehicles' | 'words' | 'garrisons' | 'tactical-signs' | 'ranks' | 'venajan-asevoimat'
 
 /** Branch button id: real branch or placeholder for grayed-out row */
 type BranchButtonId = VehicleBranch | 'coming-soon' | 'strategic-missile' | 'airborne' | 'uav-systems'
@@ -53,16 +55,16 @@ const BRANCHES: { id: BranchButtonId; label: string; disabled?: boolean }[] = [
 
 /** Military districts under Sotilaspiirit; only Leningrad is selectable and shows the 4 responsibility areas */
 const GARRISON_DISTRICTS: { id: string; label: string; disabled: boolean }[] = [
-  { id: 'leningrad', label: '2.1.1. Leningradin sotilaspiiri', disabled: false },
-  { id: 'local-forces', label: '2.1.2. Lähialueen joukot', disabled: true },
-  { id: 'badges', label: '2.1.3. Sotilaspiirien tunnukset', disabled: true },
+  { id: 'bases', label: '2.1.1. Sotilaspiirien tukikohdat', disabled: false },
+  { id: 'badges', label: '2.1.3. Sotilaspiirien tunnukset', disabled: false },
 ]
 
-const GARRISON_REGIONS: { id: GarrisonRegionId; label: string }[] = [
-  { id: 'pohjoinen', label: '2.1.1.1. Pohjoinen vastuualue' },
-  { id: 'etela', label: '2.1.1.2. Eteläinen vastuualue' },
-  { id: 'kaliningrad', label: '2.1.1.3. Kaliningradin vastuualue' },
-  { id: 'kaikki', label: '2.1.1.4. Kaikki yhdessä' },
+const GARRISON_BASE_DISTRICT_OPTIONS: { id: MilitaryDistrictInsigniaSubset; label: string; disabled: boolean }[] = [
+  { id: 'leningrad_military_district', label: '2.1.1.1. Leningradin sotilaspiiri', disabled: false },
+  { id: 'central_military_district', label: '2.1.1.2. Keskinen sotilaspiiri', disabled: true },
+  { id: 'eastern_military_district', label: '2.1.1.3. Itäinen sotilaspiiri', disabled: true },
+  { id: 'moscow_military_district', label: '2.1.1.4. Moskovan sotilaspiiri', disabled: true },
+  { id: 'southern_military_district', label: '2.1.1.5. Eteläinen sotilaspiiri', disabled: true },
 ]
 
 const MUTE_STORAGE_KEY = 'miliingo-muted'
@@ -88,6 +90,7 @@ function App() {
   const isEnglish = appLanguage === 'eng'
   const primaryRanksLanguage: RanksLanguage = isEnglish ? 'en' : 'fi'
   const comingSoonText = isEnglish ? 'Released by demand' : 'Julkaistaan kysynnän mukaan'
+  const requestedLaterText = isEnglish ? 'Added if requested later' : 'Lisataan pyynnosta myohemmin'
 
   const getContentTypeLabel = (id: ContentType): string => {
     if (!isEnglish) return CONTENT_TYPES.find((ct) => ct.id === id)?.label ?? id
@@ -125,6 +128,7 @@ function App() {
   const [garrisonsReviewPool, setGarrisonsReviewPool] = useState<GarrisonEntry[] | null>(null)
   const [garrisonsReviewError, setGarrisonsReviewError] = useState<string | null>(null)
   const [selectedGarrisonDistrict, setSelectedGarrisonDistrict] = useState<string | null>(null)
+  const [selectedGarrisonInsignia, setSelectedGarrisonInsignia] = useState<MilitaryDistrictInsigniaSubset | null>(null)
   const [selectedTacticalSignsSubset, setSelectedTacticalSignsSubset] = useState<'sotilasmerkisto' | 'joukkojen-koko' | null>(null)
   const [selectedRanksBranch, setSelectedRanksBranch] = useState<RanksBranchId | null>(null)
   const [selectedRanksLanguage, setSelectedRanksLanguage] = useState<RanksLanguage | null>(null)
@@ -132,9 +136,9 @@ function App() {
   const [ranksReviewLanguage, setRanksReviewLanguage] = useState<RanksLanguage | null>(null)
   const [ranksReviewError, setRanksReviewError] = useState<string | null>(null)
   const [showSplash, setShowSplash] = useState(true)
-  const [view, setView] = useState<'landing' | 'vehicles-game' | 'words-game' | 'garrisons-game' | 'tactical-signs-game' | 'ranks-game'>('landing')
+  const [view, setView] = useState<'landing' | 'vehicles-game' | 'words-game' | 'garrisons-game' | 'district-insignia-game' | 'tactical-signs-game' | 'ranks-game'>('landing')
   const [showLadataanIkkuna, setShowLadataanIkkuna] = useState(false)
-  const [pendingView, setPendingView] = useState<'vehicles-game' | 'words-game' | 'garrisons-game' | 'tactical-signs-game' | 'ranks-game' | null>(null)
+  const [pendingView, setPendingView] = useState<'vehicles-game' | 'words-game' | 'garrisons-game' | 'district-insignia-game' | 'tactical-signs-game' | 'ranks-game' | null>(null)
   const [gameMenuTitle, setGameMenuTitle] = useState('')
 
   const [selectedWordsCategory, setSelectedWordsCategory] = useState<'sotilassanasto' | 'lyhenteet' | null>(null)
@@ -146,14 +150,29 @@ function App() {
 
   const getGarrisonDistrictLabel = (id: string): string => {
     if (!isEnglish) return GARRISON_DISTRICTS.find((d) => d.id === id)?.label ?? id
-    if (id === 'leningrad') return '2.1.1. Leningrad Military District'
-    if (id === 'local-forces') return '2.1.2. Nearby Forces (FIN)'
+    if (id === 'bases') return '2.1.1. Military District Bases'
     if (id === 'badges') return '2.1.3. Military District Insignia'
     return id
   }
 
+  const getGarrisonBaseDistrictLabel = (id: MilitaryDistrictInsigniaSubset, fallback: string): string => {
+    if (!isEnglish) return fallback
+    if (id === 'leningrad_military_district') return '2.1.1.1. Leningrad Military District'
+    if (id === 'central_military_district') return '2.1.1.2. Central Military District'
+    if (id === 'eastern_military_district') return '2.1.1.3. Eastern Military District'
+    if (id === 'moscow_military_district') return '2.1.1.4. Moscow Military District'
+    if (id === 'northern_fleet_joint_strategic_command') return '2.1.1.5. Northern Fleet Joint Strategic Command'
+    if (id === 'southern_military_district') return '2.1.1.6. Southern Military District'
+    return fallback
+  }
+
   const getGarrisonRegionLabel = (id: GarrisonRegionId): string => {
-    if (!isEnglish) return GARRISON_REGIONS.find((r) => r.id === id)?.label ?? id
+    if (!isEnglish) {
+      if (id === 'pohjoinen') return '2.1.1.1. Pohjoinen vastuualue'
+      if (id === 'etela') return '2.1.1.2. Etelainen vastuualue'
+      if (id === 'kaliningrad') return '2.1.1.3. Kaliningradin vastuualue'
+      return '2.1.1.4. Kaikki yhdessa'
+    }
     if (id === 'pohjoinen') return '2.1.1.1. Northern AOO'
     if (id === 'etela') return '2.1.1.2. Southern AOO'
     if (id === 'kaliningrad') return '2.1.1.3. Kaliningrad'
@@ -276,8 +295,8 @@ function App() {
     setShowLadataanIkkuna(true)
   }
 
-  const startGarrisonsGame = (region: GarrisonRegionId) => {
-    const regionLabel = getGarrisonRegionLabel(region)
+  const startGarrisonsGame = (region: GarrisonRegionId, labelOverride?: string) => {
+    const regionLabel = labelOverride ?? getGarrisonRegionLabel(region)
     setGameMenuTitle(stripMenuNumber(regionLabel))
     setSelectedGarrisonRegion(region)
     setGarrisonsReviewPool(null)
@@ -293,6 +312,13 @@ function App() {
     setGarrisonsReviewPool(pool)
     setSelectedGarrisonRegion(null)
     setPendingView('garrisons-game')
+    setShowLadataanIkkuna(true)
+  }
+
+  const startGarrisonInsigniaGame = () => {
+    setGameMenuTitle(isEnglish ? 'Military District Insignia' : 'Sotilaspiirien tunnukset')
+    setSelectedGarrisonInsignia('all')
+    setPendingView('district-insignia-game')
     setShowLadataanIkkuna(true)
   }
 
@@ -359,6 +385,7 @@ function App() {
     setSelectedGarrisonRegion(null)
     setGarrisonsReviewPool(null)
     setSelectedGarrisonDistrict(null)
+    setSelectedGarrisonInsignia(null)
     setSelectedTacticalSignsSubset(null)
     setSelectedRanksBranch(null)
     setSelectedRanksLanguage(null)
@@ -382,6 +409,7 @@ function App() {
     setPerussanastoLoadError(null)
     startPerussanastoGameWhenLoadedRef.current = false
     setSelectedGarrisonDistrict(null)
+    setSelectedGarrisonInsignia(null)
     setGarrisonsReviewError(null)
     setSelectedRanksBranch(null)
     setRanksReviewError(null)
@@ -436,6 +464,21 @@ function App() {
         onToggleMute={toggleMute}
         onBack={backToLanding}
         onRoundComplete={() => incrementRounds(garrisonsKey)}
+      />
+    )
+  }
+
+  if (view === 'district-insignia-game' && selectedGarrisonInsignia) {
+    const insigniaKey = getRoundsKey('garrisons', `insignia_${selectedGarrisonInsignia}`)
+    return (
+      <MilitaryDistrictInsigniaGameView
+        subset={selectedGarrisonInsignia}
+        menuTitle={gameMenuTitle}
+        appLanguage={appLanguage}
+        muted={muted}
+        onToggleMute={toggleMute}
+        onBack={backToLanding}
+        onRoundComplete={() => incrementRounds(insigniaKey)}
       />
     )
   }
@@ -599,7 +642,7 @@ function App() {
           ×
         </button>
 
-      {/* Venäjän asevoimat – sub-options: garrisons, vehicles, local-forces */}
+      {/* Venäjän asevoimat – sub-options: garrisons, vehicles */}
       {selectedContentType === 'venajan-asevoimat' && (
         <section className="section">
           <h2 className="section-heading">{isEnglish ? 'Military Organization' : 'Sotilasorganisaatio'}</h2>
@@ -627,26 +670,38 @@ function App() {
         </section>
       )}
 
-      {/* Sotilaspiirit – first select military district (only Leningrad active) */}
+      {/* Sotilaspiirit – first select mode (bases or insignia) */}
       {selectedContentType === 'garrisons' && selectedGarrisonDistrict === null && (
         <section className="section">
           <h2 className="section-heading">{isEnglish ? 'Military Districts' : 'Sotilaspiirit'}</h2>
           <div className="options-grid">
             {GARRISON_DISTRICTS.map((d) => (
+              (() => {
+                const roundsKey = d.id === 'badges' ? getRoundsKey('garrisons', 'insignia_all') : null
+                const roundsDisplay = roundsKey ? formatRoundsDisplay(getRounds(roundsKey)) : null
+                return (
               <button
                 key={d.id}
                 type="button"
-                className={`option-btn ${d.disabled ? 'disabled' : ''}`}
+                className={`option-btn ${d.id === 'badges' ? 'option-btn-with-rounds' : ''} ${d.disabled ? 'disabled' : ''}`}
                 onClick={() => {
                   if (d.disabled) return
                   playButtonClick(muted)
-                  setSelectedGarrisonDistrict(d.id)
+                  if (d.id === 'badges') {
+                    setSelectedGarrisonDistrict(null)
+                    startGarrisonInsigniaGame()
+                    return
+                  }
+                  setSelectedGarrisonDistrict('bases')
                 }}
                 disabled={d.disabled}
               >
-                {getGarrisonDistrictLabel(d.id)}
+                <span className="option-btn-label">{getGarrisonDistrictLabel(d.id)}</span>
+                {d.id === 'badges' && <span className="option-rounds">{roundsDisplay}</span>}
                 {d.disabled && <span className="coming-soon-inline"> — {comingSoonText}</span>}
               </button>
+                )
+              })()
             ))}
           </div>
           <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedContentType('venajan-asevoimat') }}>
@@ -655,27 +710,35 @@ function App() {
         </section>
       )}
 
-      {/* Leningradin sotilaspiiri – responsibility areas (Pohjoinen, Etelä, Kaliningrad, Kaikki) + Kertaus */}
-      {selectedContentType === 'garrisons' && selectedGarrisonDistrict === 'leningrad' && (
+      {/* Sotilaspiirien tukikohdat – district list (Leningrad active) + Kertaus */}
+      {selectedContentType === 'garrisons' && selectedGarrisonDistrict === 'bases' && (
         <section className="section">
-          <h2 className="section-heading">{isEnglish ? 'Leningrad Military District' : 'Leningradin sotilaspiiri'}</h2>
+          <h2 className="section-heading">{isEnglish ? 'Military District Bases' : 'Sotilaspiirien tukikohdat'}</h2>
           <div className="options-grid">
-            {GARRISON_REGIONS.map((r) => {
-              const garrisonsKey = getRoundsKey('garrisons', r.id)
+            {GARRISON_BASE_DISTRICT_OPTIONS.map((district) => {
+              const isDisabled = district.disabled
+              const garrisonsKey = getRoundsKey('garrisons', district.id === 'leningrad_military_district' ? 'kaikki' : district.id)
               const rounds = getRounds(garrisonsKey)
               const roundsDisplay = formatRoundsDisplay(rounds)
               return (
                 <button
-                  key={r.id}
+                  key={district.id}
                   type="button"
-                  className="option-btn option-btn-with-rounds"
+                  className={`option-btn option-btn-with-rounds ${isDisabled ? 'disabled' : ''}`}
                   onClick={() => {
+                    if (isDisabled) return
                     setGarrisonsReviewError(null)
-                    startGarrisonsGame(r.id)
+                    startGarrisonsGame(
+                      'kaikki',
+                      isEnglish ? '2.1.1.1. Leningrad Military District' : '2.1.1.1. Leningradin sotilaspiiri'
+                    )
                   }}
+                  disabled={isDisabled}
                 >
-                  <span className="option-btn-label">{getGarrisonRegionLabel(r.id)}</span>
-                  <span className="option-rounds">{roundsDisplay}</span>
+                  <span className="option-btn-label">{getGarrisonBaseDistrictLabel(district.id, district.label)}</span>
+                  <span className={isDisabled ? 'option-rounds option-rounds-disabled' : 'option-rounds'}>
+                    {isDisabled ? requestedLaterText : roundsDisplay}
+                  </span>
                 </button>
               )
             })}
@@ -694,7 +757,7 @@ function App() {
                 startGarrisonsReviewGame()
               }}
             >
-              <span className="option-btn-label">{isEnglish ? '2.1.1.5. Review' : 'Kertaus'}</span>
+              <span className="option-btn-label">{isEnglish ? '2.1.1.7. Review' : '2.1.1.7. Kertaus'}</span>
             </button>
           </div>
           {garrisonsReviewError && <p className="words-file-hint-inline">{garrisonsReviewError}</p>}
@@ -1001,16 +1064,6 @@ function App() {
           {ranksReviewError && <p className="words-file-hint-inline">{ranksReviewError}</p>}
           <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedContentType(null); setRanksReviewError(null) }}>
             {isEnglish ? '← Back' : '← Takaisin'}
-          </button>
-        </section>
-      )}
-
-      {/* Coming soon message for content types not yet implemented */}
-      {selectedContentType === 'local-forces' && (
-        <section className="section">
-          <p className="coming-soon-message">{comingSoonText}</p>
-          <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedContentType('venajan-asevoimat') }}>
-            ← Takaisin
           </button>
         </section>
       )}
