@@ -5,7 +5,7 @@
 
 export type CountryId = 'russia' | 'usa' | 'china'
 
-export type VehicleBranch = 'army' | 'navy' | 'airforce' | 'other' | 'uav-systems'
+export type VehicleBranch = 'army' | 'navy' | 'airforce' | 'other' | 'uav-systems' | 'strategic-missile'
 export type AppLanguage = 'fin' | 'eng'
 
 /** Navy-only: quiz by vessel class (e.g. Steregushchiy) or by vessel name (e.g. Boikiy). */

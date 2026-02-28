@@ -255,12 +255,170 @@ S-400 Triumf SAM.png — Caption: "A TEL of a S-400 Triumf during a Victory Day 
 
 
 
-#### **2.2.3. Maavoimat / Ground Forces** 
-Ei julkaistu
+#### **2.2.3. Venäjän maavoimat / Russian Ground Forces (SV)**
+
+##### 9K720 Iskander
+9K720 Iskander (SS-26 Stone) (27102990117).jpg — Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin from Moscow, Russia | Source: https://commons.wikimedia.org/wiki/File:9K720_Iskander_(SS-26_Stone)_(27102990117).jpg
+ | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 6 May 2018, 08:18 | Uploaded: 
+
+9K720 Iskander (SS-26 Stone) (41253217174).jpg — Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin from Moscow, Russia | Source: https://commons.wikimedia.org/wiki/File:9K720_Iskander_(SS-26_Stone)_(41253217174).jpg
+ | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 6 May 2018, 07:48 | Uploaded: 
+
+##### 2S19 Msta-S
+2s19 msta-s.jpg — Caption: "152-mm self-propelled howitzer 2S19 «Msta-S» in Saint-Petersburg Artillery museum" | Author: One half 3544 | Source: https://commons.wikimedia.org/wiki/File:2s19_msta-s.jpg
+ | License: Public Domain (released by copyright holder) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 6 May 2007 | Uploaded: 
+
+2S19 Msta-S 2.jpg — Caption: "2S19 Msta-S" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:2S19_Msta-S_2.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 22 August 2008, 00:05:23 | Uploaded: 19 April 2013
+
+##### BM-21 Grad
+1 multiple rocket launcher BM-21 Grad.JPG — Caption: "Russia, transporting multiple rocket launcher BM-21 Grad by railroad" | Author: Sergeev Pavel | Source: https://commons.wikimedia.org/wiki/File:1_multiple_rocket_launcher_BM-21_Grad.JPG
+ | License: Public Domain (released by copyright holder) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 2010 | Uploaded: 27 June 2010
+
+2 multiple rocket launcher BM-21 Grad.jpg — Caption: "Russia, transporting multiple rocket launcher BM-21 Grad by railroad" | Author: Sergeev Pavel | Source: https://commons.wikimedia.org/wiki/File:2_multiple_rocket_launcher_BM-21_Grad.jpg
+ | License: Public Domain (released by copyright holder) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 2010 | Uploaded: 27 June 2010
+
+##### BM-30 Smerch
+Army2016demo-070.jpg — Caption: "BM-30 Smerch (9A52) at ARMY-2016 (demo)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-070.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created:  | Uploaded: 
+
+BM-30 Smerch ARMY-2018.jpg — Caption: "9A52-2 launcher and 9T234-2 transporter-loader of 9K58 / BM-30 Smerch MLRS, International Miltary-Technical Forum ARMY-2018, Alabino, Moscow region, Russia" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:BM-30_Smerch_ARMY-2018.jpg
+ | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 22 August 2018 | Uploaded: 
+
+##### BMP-2
+BMP-2 of Russian Ground Forces.jpg — Caption: "BMP-2 of Russian Ground Forces" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-2_of_Russian_Ground_Forces.jpg
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created:  | Uploaded: 
+
+BMP-2 in winter.jpg — Caption: "BMP-2 in winter" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-2_in_winter.jpg
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created:  | Uploaded: 
+
+##### BMP-3
+BMP-3.jpg — Caption: "BMP-3 of the 102nd Motorized Rifle Regiment of the 150th Motorized Rifle Division." | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-3.jpg
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 31 August 2018, 13:34:35 | Uploaded: 
+
+Bmp-3 tan.jpg — Caption: "A Russian BMP-3 infantry fighting vehicle." | Author: U.S. Army (via Commons upload) | Source: https://commons.wikimedia.org/wiki/File:Bmp-3_tan.jpg
+ | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created:  | Uploaded: 16 November 2005
+
+##### BTR-82A
+BTR-82A.jpg — Caption: "BTR-82A" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:BTR-82A.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 22 February 2013 | Uploaded: 
+
+BTR-82A turret - June 2023.jpg — Caption: "BTR-82A turret" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BTR-82A_turret_-_June_2023.jpg
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created:  | Uploaded: 8 June 2023
+
+##### MT-LB
+MT-LB multi-purpose tracked vehicle.JPEG — Caption: "A left side view of a MT-LB multi-purpose tracked vehicle capable of transporting 11 troops with a crew of two." | Author: Unknown author (US DoD) | Source: https://commons.wikimedia.org/wiki/File:MT-LB_multi-purpose_tracked_vehicle.JPEG
+ | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 1983 | Uploaded: 11 October 2008
+
+MT-LB APC.jpg — Caption: "A MT-LB Armoured personnel carrier." | Author: U.S. Air Force (via Commons upload) | Source: https://commons.wikimedia.org/wiki/File:MT-LB_APC.jpg
+ | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created:  | Uploaded: 3 May 2006
+
+##### T-72B3
+T-72B3.jpg — Caption: "Newest T-73B3 upgrade of the T-72B in Russian army service." | Author: Vitaly Kuzmin | Source: https://commons.wikimedia.org/wiki/File:T-72B3.jpg
+ | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 30 December 2015 | Uploaded: 
+
+T-72 B3 (27053439397).jpg — Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin | Source: https://commons.wikimedia.org/wiki/File:T-72_B3_(27053439397).jpg
+ | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 6 May 2018 | Uploaded: 10 February 2019
+
+##### T-80BVM
+T-80BVM frontal view Army-2022.jpg — Caption: "Russian main battle tank T-80BVM on static display at military-technical forum ARMY-2022, Park Patriot, Moscow region, Russian Federation" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:T-80BVM_frontal_view_Army-2022.jpg
+ | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 16 August 2022 | Uploaded: 
+
+T-80BVM (2).jpg — Caption: "T-80BVM" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:T-80BVM_(2).jpg
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created:  | Uploaded: 5 April 2021
+
+##### T-90M
+T-90M.jpg — Caption: "T-90M main battle tank." | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:T-90M.jpg
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 7 April 2020, 09:19:16 | Uploaded: 
+
+T-90M 08.jpg — Caption: "T-90M." | Author: Nickel nitride | Source: https://commons.wikimedia.org/wiki/File:T-90M_08.jpg
+ | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC0_button.svg
+ | Changes: Resized for in-app display | Created: 27 August 2021, 13:14:31 | Uploaded: 
 
 
-#### **2.2.4. Strategiset ohjusjoukot / Strategic Missile Forces**
-Ei julkaistu
+
+#### **2.2.4. Venäjän strategiset ohjusjoukot / Russian Strategic Missile Forces (RVSN)**
+
+##### Avangard (hypersonic glide vehicle; deployed on UR-100NUTTKh)
+Hypersonic rocket complex Avangard.jpg — Caption: "Hypersonic rocket complex Avangard" | Author: (leave empty) | Source: https://commons.wikimedia.org/wiki/File:Hypersonic_rocket_complex_Avangard.jpg
+ | License: (leave empty) | License badge: (leave empty)
+ | Changes: Resized for in-app display | Created: 26 December 2018 | Uploaded: 
+
+
+
+##### R-36M2 Voyevoda (SS-18 Mod 5)
+SS-18 missile, Strategic Missile Forces museum.JPG — Caption: "Intercontinental ballistic missile SS-18 Mod 5 (15А18М - R-36M2 «Voyevoda»)" | Author: Michael | Source: https://commons.wikimedia.org/wiki/File:SS-18_missile,_Strategic_Missile_Forces_museum.JPG
+ | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 8 March 2008 | Uploaded: 4 December 2010
+
+
+
+##### RS-24 Yars
+RS-24 Yars.jpg — Caption: "RS-24 Yars - Russian MIRV-equipped, thermonuclear armed intercontinental ballistic missile" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:RS-24_Yars.jpg
+ | License: (leave empty) | License badge: (leave empty)
+ | Changes: Resized for in-app display | Created: 22 September 2010 | Uploaded: 
+
+RS-24 Yars (28051832658).jpg — Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin from Moscow, Russia | Source: https://commons.wikimedia.org/wiki/File:RS-24_Yars_(28051832658).jpg
+ | License: (leave empty) | License badge: (leave empty)
+ | Changes: Resized for in-app display | Created: 6 May 2018, 08:28 | Uploaded: 
+
+##### RS-28 Sarmat
+Sarmat-launch-still.jpg — Caption: "Still image from RS-28 Sarmat ICBM Launch footage" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:Sarmat-launch-still.jpg
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 20 April 2022 | Uploaded: 
+
+MakeevaKomponovka.png — Caption: "Makeev Sarmat layout (diagram)" | Author: (leave empty) | Source: https://commons.wikimedia.org/wiki/File:MakeevaKomponovka.png
+ | License: (leave empty) | License badge: (leave empty)
+ | Changes: Resized for in-app display | Created:  | Uploaded: 
+
+##### RT-2PM Topol
+Topol TEL.jpg — Caption: "Mobile ground-based RT-2PM Topol missile complex on the road (Teikovo, Ivanovo Region)" | Author: Sergei Guneev, Presidential Press and Information Office | Source: https://commons.wikimedia.org/wiki/File:Topol_TEL.jpg
+ | License: (leave empty) | License badge: (leave empty)
+ | Changes: Resized for in-app display | Created: 14 December 2006 | Uploaded: 
+
+Пуск ракеты комплекса Тополь.jpg — Caption: "Topol missile launch" | Author: (leave empty) | Source: https://commons.wikimedia.org/wiki/File:Пуск_ракеты_комплекса_Тополь.jpg
+ | License: (leave empty) | License badge: (leave empty)
+ | Changes: Resized for in-app display | Created: 7 June 2021 | Uploaded: 
+
+##### RT-2PM2 Topol-M
+RT-2PM2 Topol-M-18.jpg — Caption: "РТ-2ПМ2 Тополь-М" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:RT-2PM2_Topol-M-18.jpg
+ | License: (leave empty) | License badge: (leave empty)
+ | Changes: Resized for in-app display | Created: 19 March 2012 | Uploaded: 
+
+Transportation of the RT-2PM2 Topol-M 14.jpg — Caption: "Transportation of the RT-2PM2 Topol-M" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Transportation_of_the_RT-2PM2_Topol-M_14.jpg
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created:  | Uploaded: 
+
+##### UR-100NUTTKh (SS-19 Stiletto) / UR-100N
+UR-100N ICBM at ARMY-2022.jpg — Caption: "Soviet UR-100N ICBM in transport and launch container on static display during ARMY-2022 (Park Patriot)" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:UR-100N_ICBM_at_ARMY-2022.jpg
+ | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 17 August 2022 | Uploaded: 23 October 2022
+
+15A35 - RS-18B - SS-19 mod.2 Stiletto ICBM in 15Ya54 transport launching container at Park Patriot 04.jpg — Caption: "15A35 / UR-100N UTTKh / RS-18B in 15Ya54 transport-launch container" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:15A35_-_RS-18B_-_SS-19_mod.2_Stiletto_ICBM_in_15Ya54_transport_launching_container_at_Park_Patriot_04.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 9 October 2016 | Uploaded: 9 December 2016
+
 
 
 #### **2.2.5. Maahanlaskujoukot / Airborne Forces**

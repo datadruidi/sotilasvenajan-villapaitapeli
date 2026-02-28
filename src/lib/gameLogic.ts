@@ -6,7 +6,9 @@
 import type { CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
 import { IMAGE_REGISTRY } from '../data/imageRegistry'
 import { AEROSPACE_FORCES_IMAGE_PATHS } from '../data/aerospaceForcesImagePaths'
+import { GROUND_FORCES_IMAGE_PATHS } from '../data/groundForcesImagePaths'
 import { NAVY_IMAGE_PATHS } from '../data/navyImagePaths'
+import { STRATEGIC_MISSILE_FORCES_IMAGE_PATHS } from '../data/strategicMissileForcesImagePaths'
 import { UNMANNED_SYSTEMS_IMAGE_PATHS } from '../data/unmannedSystemsImagePaths'
 import { parseNavyFilename } from './navyFilenameParser'
 
@@ -49,6 +51,39 @@ function formatUavClassName(raw: string): string {
     .join(' ')
 }
 
+function formatGroundForcesClassName(raw: string): string {
+  const tokens = raw
+    .replace(/[-]+/g, ' ')
+    .split(/[_\s]+/)
+    .map((t) => t.trim())
+    .filter(Boolean)
+
+  const out: string[] = []
+  for (let i = 0; i < tokens.length; i++) {
+    const current = tokens[i]
+    const next = i + 1 < tokens.length ? tokens[i + 1] : ''
+    const currentIsLetters = /^[a-zA-Z]+$/.test(current)
+    const nextHasDigit = /\d/.test(next)
+
+    // Join code prefixes with the following numeric token: bm + 21 -> BM21, t + 90m -> T90M.
+    if (currentIsLetters && current.length <= 3 && nextHasDigit) {
+      out.push((current + next).toUpperCase())
+      i++
+      continue
+    }
+
+    // Uppercase short tokens (<=4 chars), including alphanumeric model codes.
+    if (current.length <= 4 || /\d/.test(current)) {
+      out.push(current.toUpperCase())
+      continue
+    }
+
+    out.push(current.charAt(0).toUpperCase() + current.slice(1).toLowerCase())
+  }
+
+  return out.join(' ')
+}
+
 /**
  * Build Aerospace Forces image entries from path list.
  * Class name is derived from the folder under /aerospace_forces/.
@@ -67,6 +102,59 @@ function getAerospaceForcesImageEntries(): ImageEntry[] {
       country: 'russia',
       branch: 'airforce',
       correctClassName: `${classKey.trim()} class`,
+      active: true,
+    })
+  }
+  return entries
+}
+
+/**
+ * Build Ground Forces image entries from path list.
+ * Class name is derived from the folder under /ground_forces/.
+ */
+function getGroundForcesImageEntries(): ImageEntry[] {
+  const entries: ImageEntry[] = []
+  for (let i = 0; i < GROUND_FORCES_IMAGE_PATHS.length; i++) {
+    const assetPath = GROUND_FORCES_IMAGE_PATHS[i]
+    const parts = assetPath.split('/').filter(Boolean)
+    const baseIndex = parts.indexOf('ground_forces')
+    const classKey = baseIndex >= 0 ? (parts[baseIndex + 1] ?? '') : ''
+    if (!classKey) continue
+    entries.push({
+      id: `ru-army-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,
+      assetPath,
+      country: 'russia',
+      branch: 'army',
+      correctClassName: `${formatGroundForcesClassName(classKey)} class`,
+      active: true,
+    })
+  }
+  return entries
+}
+
+function formatStrategicMissileClassName(raw: string): string {
+  const base = formatGroundForcesClassName(raw)
+  return base.replace(/\bSS18\b/g, 'SS-18')
+}
+
+/**
+ * Build Strategic Missile Forces image entries from path list.
+ * Class name is derived from the folder under /strategic_missile_forces/.
+ */
+function getStrategicMissileForcesImageEntries(): ImageEntry[] {
+  const entries: ImageEntry[] = []
+  for (let i = 0; i < STRATEGIC_MISSILE_FORCES_IMAGE_PATHS.length; i++) {
+    const assetPath = STRATEGIC_MISSILE_FORCES_IMAGE_PATHS[i]
+    const parts = assetPath.split('/').filter(Boolean)
+    const baseIndex = parts.indexOf('strategic_missile_forces')
+    const classKey = baseIndex >= 0 ? (parts[baseIndex + 1] ?? '') : ''
+    if (!classKey) continue
+    entries.push({
+      id: `ru-strategic-missile-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,
+      assetPath,
+      country: 'russia',
+      branch: 'strategic-missile',
+      correctClassName: `${formatStrategicMissileClassName(classKey)} class`,
       active: true,
     })
   }
@@ -118,6 +206,12 @@ export function getFilteredPool(
   }
   if (country === 'russia' && branch === 'airforce') {
     return getAerospaceForcesImageEntries()
+  }
+  if (country === 'russia' && branch === 'army') {
+    return getGroundForcesImageEntries()
+  }
+  if (country === 'russia' && branch === 'strategic-missile') {
+    return getStrategicMissileForcesImageEntries()
   }
   return IMAGE_REGISTRY.filter(
     (e) => e.country === country && e.branch === branch && e.active

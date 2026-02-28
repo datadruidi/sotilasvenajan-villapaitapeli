@@ -45,8 +45,8 @@ function stripMenuNumber(label: string): string {
 const BRANCHES: { id: BranchButtonId; label: string; disabled?: boolean }[] = [
   { id: 'navy', label: '2.2.1. Merivoimat' },
   { id: 'airforce', label: '2.2.2. Ilma- ja avaruusvoimat' },
-  { id: 'army', label: '2.2.3. Maavoimat', disabled: true },
-  { id: 'strategic-missile', label: '2.2.4. Strategiset ohjusjoukot', disabled: true },
+  { id: 'army', label: '2.2.3. Maavoimat' },
+  { id: 'strategic-missile', label: '2.2.4. Strategiset ohjusjoukot' },
   { id: 'airborne', label: '2.2.5. Maahanlaskujoukot', disabled: true },
   { id: 'uav-systems', label: '2.2.6. Miehittämättömien järjestelmien joukot' },
 ]
