@@ -47,7 +47,7 @@ const BRANCHES: { id: BranchButtonId; label: string; disabled?: boolean }[] = [
   { id: 'airforce', label: '2.2.2. Ilma- ja avaruusvoimat' },
   { id: 'army', label: '2.2.3. Maavoimat' },
   { id: 'strategic-missile', label: '2.2.4. Strategiset ohjusjoukot' },
-  { id: 'airborne', label: '2.2.5. Maahanlaskujoukot', disabled: true },
+  { id: 'airborne', label: '2.2.5. Maahanlaskujoukot' },
   { id: 'uav-systems', label: '2.2.6. Miehittämättömien järjestelmien joukot' },
 ]
 

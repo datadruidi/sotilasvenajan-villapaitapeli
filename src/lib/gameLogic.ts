@@ -4,6 +4,7 @@
  */
 
 import type { CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
+import { AIRBORNE_FORCES_IMAGE_PATHS } from '../data/airborneForcesImagePaths'
 import { IMAGE_REGISTRY } from '../data/imageRegistry'
 import { AEROSPACE_FORCES_IMAGE_PATHS } from '../data/aerospaceForcesImagePaths'
 import { GROUND_FORCES_IMAGE_PATHS } from '../data/groundForcesImagePaths'
@@ -162,6 +163,30 @@ function getStrategicMissileForcesImageEntries(): ImageEntry[] {
 }
 
 /**
+ * Build Airborne Forces image entries from path list.
+ * Class name is derived from the folder under /airborne_forces/.
+ */
+function getAirborneForcesImageEntries(): ImageEntry[] {
+  const entries: ImageEntry[] = []
+  for (let i = 0; i < AIRBORNE_FORCES_IMAGE_PATHS.length; i++) {
+    const assetPath = AIRBORNE_FORCES_IMAGE_PATHS[i]
+    const parts = assetPath.split('/').filter(Boolean)
+    const baseIndex = parts.indexOf('airborne_forces')
+    const classKey = baseIndex >= 0 ? (parts[baseIndex + 1] ?? '') : ''
+    if (!classKey) continue
+    entries.push({
+      id: `ru-airborne-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,
+      assetPath,
+      country: 'russia',
+      branch: 'airborne',
+      correctClassName: `${classKey.trim()} class`,
+      active: true,
+    })
+  }
+  return entries
+}
+
+/**
  * Build Unmanned Systems Forces image entries from path list.
  * Class name is derived from the folder under /unmanned_system_forces/.
  */
@@ -212,6 +237,9 @@ export function getFilteredPool(
   }
   if (country === 'russia' && branch === 'strategic-missile') {
     return getStrategicMissileForcesImageEntries()
+  }
+  if (country === 'russia' && branch === 'airborne') {
+    return getAirborneForcesImageEntries()
   }
   return IMAGE_REGISTRY.filter(
     (e) => e.country === country && e.branch === branch && e.active

@@ -421,8 +421,63 @@ UR-100N ICBM at ARMY-2022.jpg — Caption: "Soviet UR-100N ICBM in transport and
 
 
 
-#### **2.2.5. Maahanlaskujoukot / Airborne Forces**
-Ei julkaistu
+
+#### **2.2.5. Venäjän maahanlaskujoukot / Russian Airborne Forces (VDV)**
+
+##### Self-propelled tank destroyer — 2S25 Sprut-SD
+2S25 Sprut-SD at Army 2016.jpg — Caption: "2S25 Sprut-SD at Alabino shooting range during \"Army 2016\". The water obstacle in the background had been crossed before." | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:2S25_Sprut-SD_at_Army_2016.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 8 September 2016 | Uploaded: 
+
+2S25 - Army-2023-08.jpg — Caption: "2S25 Sprut-SD" | Author: Nickel nitride | Source: https://commons.wikimedia.org/wiki/File:2S25_-_Army-2023-08.jpg
+ | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC0_button.svg
+ | Changes: Resized for in-app display | Created: 15 August 2023 | Uploaded: 
+
+##### Self-propelled mortar/howitzer — 2S9 Nona-S
+2S9 Nona-S Army-2022 2022-08-20 2649.jpg — Caption: "2S9 Nona-S" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:2S9_Nona-S_Army-2022_2022-08-20_2649.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 
+
+2S9.JPG — Caption: "2S9 Nona" | Author: Olegvdv68 | Source: https://commons.wikimedia.org/wiki/File:2S9.JPG
+ | License: Public Domain (worldwide dedication by author) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 25 November 2004 | Uploaded: 
+
+##### Airborne infantry fighting vehicle — BMD-2
+BMD-2 at exhibition «Presence» (1).jpg — Caption: "BMD-2 at exhibition «Presence»" | Author: Льошко Нікіфоров | Source: https://commons.wikimedia.org/wiki/File:BMD-2_at_exhibition_%C2%ABPresence%C2%BB_(1).jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 23 February 2015 | Uploaded: 
+
+BMD-2 on field exercise.jpg — Caption: "BMD-2 on field exercise" | Author:  | Source: https://commons.wikimedia.org/wiki/File:BMD-2_on_field_exercise.jpg
+ | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC0_button.svg
+ | Changes: Resized for in-app display | Created: 27 December 2007 | Uploaded: 
+
+##### Airborne infantry fighting vehicle — BMD-4M
+BMD-4M Army-2022 2022-08-20 2659.jpg — Caption: "BMD-4M" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:BMD-4M_Army-2022_2022-08-20_2659.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 
+
+BMD-4M Army-2022 2022-08-20 2666.jpg — Caption: "BMD-4M" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:BMD-4M_Army-2022_2022-08-20_2666.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 
+
+##### Airborne armoured personnel carrier — BTR-D
+BTR-D.jpg — Caption: "These airborne soldiers, who worked hard enough, listened to the children who approached them." | Author: Xabier Eskisabel | Source: https://commons.wikimedia.org/wiki/File:BTR-D.jpg
+ | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 2 August 2006 | Uploaded: 
+
+Btr-d Belarus.jpg — Caption: "BTR-ZD with installed ZU-23-2 of 103rd Mobile Brigade, Belarus" | Author: Serge Serebro, Vitebsk Popular News | Source: https://commons.wikimedia.org/wiki/File:Btr-d_Belarus.jpg
+ | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 22 February 2011 | Uploaded: 
+
+##### Airborne armoured personnel carrier — BTR-MDM (Rakushka)
+APC-MDM Army-2022 2022-08-20 2661.jpg — Caption: "Бронетранспортер БТР-МДМ." | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:APC-MDM_Army-2022_2022-08-20_2661.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 
+
+Army2016demo-019.jpg — Caption: "Бронетранспортер БТР-МДМ (BTR-MDM armored personnel carrier)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-019.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 11 September 2016 | Uploaded: 
+
 
 
 
