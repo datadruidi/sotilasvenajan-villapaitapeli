@@ -1,6 +1,11 @@
 ﻿
 # **1. Sotilassanasto / Military Vocabulary:** 
-Sotilasvenäjän sanasto on generoitu ChatGPT:llä, ja se sisältää 500 yleisintä sotilastermiä suomeksi ja venäjäksi.
+
+Räsänen, M. (1940). Venäläinen sotilaslyhennyssanasto (1. painos). Päämaja, Tiedusteluosasto. https://mpkk.finna.fi/Record/taisto.114719
+
+Rouhiainen, M. (1972). Sotilasvenäjän peruskurssi (1. painos). PE. https://mpkk.finna.fi/Record/taisto.59197
+
+Sotilasvenäjän sanaston lyhenteet on generoitu ChatGPT:llä.
 
 
 ## **2. Sotilasorganisaatio / Military Organization**
