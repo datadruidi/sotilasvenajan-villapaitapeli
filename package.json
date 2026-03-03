@@ -1,7 +1,7 @@
 {
   "name": "sotilasvenajan-villapaitapeli",
   "private": true,
-  "version": "1.0.6",
+  "version": "1.0.7",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -15,7 +15,7 @@
     "cap:open:android": "cap open android",
     "android": "npm run build && cap sync android && cap open android",
     "android:sync": "npm run build && cap sync android",
-    "build:release": "npm run build && cap sync android"
+    "build:release": "node scripts/build-release.cjs"
   },
   "dependencies": {
     "@capacitor/android": "^8.0.2",

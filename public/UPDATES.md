@@ -2,7 +2,37 @@
 
 This file is a cumulative changelog: newest versions are listed first. Older entries are kept.
 
-**Current version:** 1.0.6
+**Current version:** 1.0.7
+
+---
+
+## Version 1.0.7 (2026-03-03)
+
+This update focuses on menu polish, readability, round-counter UI improvements, and a new soundtrack page.
+
+- Updated branding titles on splash and landing:
+  - English title changed to **All Things / Russian Military 101** (two-line layout).
+  - Finnish title changed to **Sotilasvenäjän / villapaitapeli** (two-line layout).
+  - Title spacing tightened, top line made larger, and headline styling refined.
+- Refined splash/landing control spacing:
+  - Language label/flag spacing tightened.
+  - Splash button stack moved slightly up.
+  - Vertical gap between splash buttons reduced.
+- Standardized headline color to black on both splash and landing in both app languages.
+- Increased global button outline thickness for clearer visual separation.
+- Reworked round counters (`x/100`) in menu rows:
+  - Round count now appears in a **separate right-side box** instead of inside the main button.
+  - Applied consistently across words, tactical signs, ranks, garrisons, and vehicles menus.
+- Added a new splash menu entry: **Soundtrack**:
+  - Opens `soundtrack.md` in the same markdown info-page viewer flow.
+  - Added first vocabulary soundtrack link under `1.1 Military Operations`.
+- Fixed landing header icon regression:
+  - Restored mute button icons (`🔇/🔊`) and language flags (`🇫🇮/🇬🇧`).
+- Updated Finnish main splash labels:
+  - `Päivitykset`
+  - `Lähteet ja lisenssit`
+- Updated README/module status notes:
+  - Removed `Ei julkaistu / NTR` from modules that are now playable.
 
 ---
 

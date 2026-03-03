@@ -52,7 +52,7 @@ Do not commit `keystore.properties`; it is gitignored.
    ```bash
    npm run build:release
    ```
-   (This runs `npm run build` and `cap sync android`.)
+   (This runs `npm run build` and `cap sync android`, and always removes `CAPACITOR_DEV_SERVER` so a release build cannot accidentally point to a development server.)
 
 3. **Build the signed release AAB** (from project root, then run Gradle in `android/`):
    - **Windows:**  

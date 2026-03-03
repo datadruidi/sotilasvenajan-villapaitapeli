@@ -8,8 +8,9 @@ const INTRO_URL = `${import.meta.env.BASE_URL}audio/intro.mp3`
 const LAHTEET_URL = `${import.meta.env.BASE_URL}lahteet.md`
 const TIETOA_URL = `${import.meta.env.BASE_URL}README.md`
 const UPDATES_URL = `${import.meta.env.BASE_URL}UPDATES.md`
+const SOUNDTRACK_URL = `${import.meta.env.BASE_URL}soundtrack.md`
 
-type InfoPage = 'lahteet' | 'tietoa' | 'paivitykset' | null
+type InfoPage = 'lahteet' | 'tietoa' | 'paivitykset' | 'soundtrack' | null
 
 interface SplashScreenProps {
   onPlay: () => void
@@ -25,13 +26,23 @@ export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: S
   const [pageError, setPageError] = useState<string | null>(null)
   const introAudioRef = useRef<HTMLAudioElement | null>(null)
 
-  const pageUrl = infoPage === 'lahteet' ? LAHTEET_URL : infoPage === 'tietoa' ? TIETOA_URL : infoPage === 'paivitykset' ? UPDATES_URL : null
+  const pageUrl = infoPage === 'lahteet'
+    ? LAHTEET_URL
+    : infoPage === 'tietoa'
+      ? TIETOA_URL
+      : infoPage === 'paivitykset'
+        ? UPDATES_URL
+        : infoPage === 'soundtrack'
+          ? SOUNDTRACK_URL
+          : null
   const pageTitle = infoPage === 'lahteet'
     ? (isEnglish ? 'Sources and licenses' : 'Lahteet ja lisenssit')
     : infoPage === 'tietoa'
       ? (isEnglish ? 'About' : 'Tietoa')
       : infoPage === 'paivitykset'
         ? (isEnglish ? 'Updates' : 'Paivitykset')
+        : infoPage === 'soundtrack'
+          ? (isEnglish ? 'Soundtrack' : 'Soundtrack')
         : ''
 
   useEffect(() => {
@@ -113,7 +124,19 @@ export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: S
   return (
     <div className="splash-screen">
       <div className="splash-content">
-        <h1 className="splash-title title-ukraine">{isEnglish ? 'Military Russian 101' : 'Sotilasvenäjän villapaitapeli'}</h1>
+        <h1 className={`splash-title title-ukraine${isEnglish ? ' title-ukraine--english' : ''}`}>
+          {isEnglish ? (
+            <>
+              <span className="title-line title-line-top">All Things</span>
+              <span className="title-line title-line-bottom">Russian Military 101</span>
+            </>
+          ) : (
+            <>
+              <span className="title-line title-line-top">Sotilasvenäjän</span>
+              <span className="title-line title-line-bottom">villapaitapeli</span>
+            </>
+          )}
+        </h1>
         <button
           type="button"
           className="splash-logo-btn"
@@ -141,10 +164,13 @@ export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: S
             {isEnglish ? 'About' : 'Tietoa'}
           </button>
           <button type="button" className="splash-info-btn" onClick={() => openInfoPage('paivitykset')}>
-            {isEnglish ? 'Updates' : 'Paivitykset'}
+            {isEnglish ? 'Updates' : 'Päivitykset'}
           </button>
           <button type="button" className="splash-info-btn" onClick={() => openInfoPage('lahteet')}>
-            {isEnglish ? 'Sources and licenses' : 'Lahteet ja lisenssit'}
+            {isEnglish ? 'Sources and licenses' : 'Lähteet ja lisenssit'}
+          </button>
+          <button type="button" className="splash-info-btn" onClick={() => openInfoPage('soundtrack')}>
+            {isEnglish ? 'Soundtrack' : 'Soundtrack'}
           </button>
         </div>
       </div>

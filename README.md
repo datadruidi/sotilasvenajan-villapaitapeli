@@ -1,4 +1,6 @@
-﻿# Military Russian 101
+# Military Russian 101
+
+![Banner](docs/banner.png)
 
 ![Military Russian 101](docs/main.png)
 
@@ -11,7 +13,7 @@ Military Russian 101 is a quiz-style learning game for studying Russian military
 **Image:** Start screen
 
 
-#### The game is available on https://villapaitapeli.fi.
+#### The game is available on https://villapaitapeli.fi and downloadable for free from Google Play Store.
 
 ---
 
@@ -61,7 +63,7 @@ From the main menu you choose one of four content types. Each option takes you t
 - 2.1.1.4. Kaikki yhdessa / Combined View
 - 2.1.1.5. Kertaus / Review
 - 2.1.2. Lahialueen joukot / Nearby Forces (FIN) - Ei julkaistu / NTR
-- 2.1.3. Sotilaspiirien tunnukset / Military District Insignia - Ei julkaistu / NTR
+- 2.1.3. Sotilaspiirien tunnukset / Military District Insignia
 
 ![Sotilaspiirit - map with marker and four garrison name options](docs/garrisons-game.png)
 
@@ -72,11 +74,11 @@ From the main menu you choose one of four content types. Each option takes you t
 - 2.2.1. Merivoimat / Navy
 - 2.2.1.1. Alusluokat / Naval Ship Classes
 - 2.2.1.2. Alusten nimet / Naval Ship Names
-- 2.2.2. Ilma- ja avaruusvoimat / Aerospace Forces - Ei julkaistu / NTR
-- 2.2.3. Maavoimat / Ground Forces - Ei julkaistu / NTR
-- 2.2.4. Strategiset ohjusjoukot / Strategic Missile Forces - Ei julkaistu / NTR
-- 2.2.5. Maahanlaskujoukot / Airborne Forces - Ei julkaistu / NTR
-- 2.2.6. Miehittamattomien jarjestelmien joukot / Unmanned Systems Forces - Ei julkaistu / NTR
+- 2.2.2. Ilma- ja avaruusvoimat / Aerospace Forces
+- 2.2.3. Maavoimat / Ground Forces
+- 2.2.4. Strategiset ohjusjoukot / Strategic Missile Forces
+- 2.2.5. Maahanlaskujoukot / Airborne Forces
+- 2.2.6. Miehittamattomien jarjestelmien joukot / Unmanned Systems Forces
 
 ![Suorituskyvyt](docs/vehicles-game.png)
 

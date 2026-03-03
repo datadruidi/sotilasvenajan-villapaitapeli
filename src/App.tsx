@@ -1,4 +1,4 @@
-﻿import { useEffect, useRef, useState } from 'react'
+﻿import { useEffect, useRef, useState, type ReactNode } from 'react'
 import './App.css'
 import { GameView } from './components/GameView'
 import { GarrisonsGameView } from './components/GarrisonsGameView'
@@ -70,6 +70,36 @@ const GARRISON_BASE_DISTRICT_OPTIONS: { id: MilitaryDistrictInsigniaSubset; labe
 const MUTE_STORAGE_KEY = 'miliingo-muted'
 const APP_LANGUAGE_STORAGE_KEY = 'miliingo-app-language'
 const INTRO_2_URL = `${import.meta.env.BASE_URL}audio/intro_2.mp3`
+
+interface OptionWithRoundsRowProps {
+  label: ReactNode
+  rounds: string
+  onClick: () => void
+  disabled?: boolean
+  buttonClassName?: string
+  roundsClassName?: string
+}
+
+function OptionWithRoundsRow({
+  label,
+  rounds,
+  onClick,
+  disabled = false,
+  buttonClassName = '',
+  roundsClassName = '',
+}: OptionWithRoundsRowProps) {
+  const buttonClasses = ['option-btn', buttonClassName, disabled ? 'disabled' : ''].filter(Boolean).join(' ')
+  const roundsClasses = ['option-rounds', roundsClassName].filter(Boolean).join(' ')
+
+  return (
+    <div className="option-btn-with-rounds-row">
+      <button type="button" className={buttonClasses} onClick={onClick} disabled={disabled}>
+        <span className="option-btn-label">{label}</span>
+      </button>
+      <span className={roundsClasses}>{rounds}</span>
+    </div>
+  )
+}
 
 function App() {
   const intro2AudioRef = useRef<HTMLAudioElement | null>(null)
@@ -560,8 +590,18 @@ function App() {
     <>
     <div className="app landing">
       <header className="landing-header">
-        <h1 className="title title-ukraine">
-          <span>{isEnglish ? 'Military Russian 101' : 'Sotilasvenäjän villapaitapeli'}</span>
+        <h1 className={`title title-ukraine${isEnglish ? ' title-ukraine--english' : ''}`}>
+          {isEnglish ? (
+            <>
+              <span className="title-line title-line-top">All Things</span>
+              <span className="title-line title-line-bottom">Russian Military 101</span>
+            </>
+          ) : (
+            <>
+              <span className="title-line title-line-top">Sotilasvenäjän</span>
+              <span className="title-line title-line-bottom">villapaitapeli</span>
+            </>
+          )}
         </h1>
         <button
           type="button"
@@ -665,7 +705,7 @@ function App() {
             ))}
           </div>
           <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedContentType(null) }}>
-            ← Takaisin
+            ? Takaisin
           </button>
         </section>
       )}
@@ -679,33 +719,40 @@ function App() {
               (() => {
                 const roundsKey = d.id === 'badges' ? getRoundsKey('garrisons', 'insignia_all') : null
                 const roundsDisplay = roundsKey ? formatRoundsDisplay(getRounds(roundsKey)) : null
-                return (
-              <button
-                key={d.id}
-                type="button"
-                className={`option-btn ${d.id === 'badges' ? 'option-btn-with-rounds' : ''} ${d.disabled ? 'disabled' : ''}`}
-                onClick={() => {
-                  if (d.disabled) return
-                  playButtonClick(muted)
-                  if (d.id === 'badges') {
-                    setSelectedGarrisonDistrict(null)
-                    startGarrisonInsigniaGame()
-                    return
-                  }
-                  setSelectedGarrisonDistrict('bases')
-                }}
-                disabled={d.disabled}
-              >
-                <span className="option-btn-label">{getGarrisonDistrictLabel(d.id)}</span>
-                {d.id === 'badges' && <span className="option-rounds">{roundsDisplay}</span>}
-                {d.disabled && <span className="coming-soon-inline"> — {comingSoonText}</span>}
-              </button>
+                return d.id === 'badges' ? (
+                  <OptionWithRoundsRow
+                    key={d.id}
+                    label={getGarrisonDistrictLabel(d.id)}
+                    rounds={roundsDisplay ?? ''}
+                    disabled={d.disabled}
+                    onClick={() => {
+                      if (d.disabled) return
+                      playButtonClick(muted)
+                      setSelectedGarrisonDistrict(null)
+                      startGarrisonInsigniaGame()
+                    }}
+                  />
+                ) : (
+                  <button
+                    key={d.id}
+                    type="button"
+                    className={`option-btn ${d.disabled ? 'disabled' : ''}`}
+                    onClick={() => {
+                      if (d.disabled) return
+                      playButtonClick(muted)
+                      setSelectedGarrisonDistrict('bases')
+                    }}
+                    disabled={d.disabled}
+                  >
+                    <span className="option-btn-label">{getGarrisonDistrictLabel(d.id)}</span>
+                    {d.disabled && <span className="coming-soon-inline"> — {comingSoonText}</span>}
+                  </button>
                 )
               })()
             ))}
           </div>
           <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedContentType('venajan-asevoimat') }}>
-            ← Takaisin
+            ? Takaisin
           </button>
         </section>
       )}
@@ -721,10 +768,12 @@ function App() {
               const rounds = getRounds(garrisonsKey)
               const roundsDisplay = formatRoundsDisplay(rounds)
               return (
-                <button
+                <OptionWithRoundsRow
                   key={district.id}
-                  type="button"
-                  className={`option-btn option-btn-with-rounds ${isDisabled ? 'disabled' : ''}`}
+                  label={getGarrisonBaseDistrictLabel(district.id, district.label)}
+                  rounds={isDisabled ? requestedLaterText : roundsDisplay}
+                  roundsClassName={isDisabled ? 'option-rounds-disabled' : ''}
+                  disabled={isDisabled}
                   onClick={() => {
                     if (isDisabled) return
                     setGarrisonsReviewError(null)
@@ -733,13 +782,7 @@ function App() {
                       isEnglish ? '2.1.1.1. Leningrad Military District' : '2.1.1.1. Leningradin sotilaspiiri'
                     )
                   }}
-                  disabled={isDisabled}
-                >
-                  <span className="option-btn-label">{getGarrisonBaseDistrictLabel(district.id, district.label)}</span>
-                  <span className={isDisabled ? 'option-rounds option-rounds-disabled' : 'option-rounds'}>
-                    {isDisabled ? requestedLaterText : roundsDisplay}
-                  </span>
-                </button>
+                />
               )
             })}
             <button
@@ -762,7 +805,7 @@ function App() {
           </div>
           {garrisonsReviewError && <p className="words-file-hint-inline">{garrisonsReviewError}</p>}
           <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedGarrisonDistrict(null); setGarrisonsReviewError(null) }}>
-            ← Takaisin
+            ? Takaisin
           </button>
         </section>
       )}
@@ -794,7 +837,7 @@ function App() {
             </button>
           </div>
           <button type="button" className="back-btn back-btn-inline" onClick={() => setSelectedContentType(null)}>
-            ← Takaisin
+            ? Takaisin
           </button>
         </section>
       )}
@@ -847,12 +890,12 @@ function App() {
                     }
                   }}
                 >
-                  <span className="option-btn-label">{dir === 'fi-ru' ? (isEnglish ? 'Answer in English' : 'Vastaa suomeksi') : (isEnglish ? 'Answer in Russian' : 'Vastaa по-русски')}</span>
+                  <span className="option-btn-label">{dir === 'fi-ru' ? (isEnglish ? 'Answer in English' : 'Vastaa suomeksi') : (isEnglish ? 'Answer in Russian' : 'Vastaa ??-??????')}</span>
                 </button>
               ))}
             </div>
             <button type="button" className="back-btn back-btn-inline words-direction-popup-back" onClick={() => { setShowDirectionPopup(false); setPendingWordsListId(null) }}>
-              ← Takaisin
+              ? Takaisin
             </button>
           </div>
         </div>
@@ -889,12 +932,12 @@ function App() {
                     setShowRanksReviewDirectionPopup(false)
                   }}
                 >
-                  <span className="option-btn-label">{dir === 'fi-ru' ? (isEnglish ? 'Answer in English' : 'Vastaa suomeksi') : (isEnglish ? 'Answer in Russian' : 'Vastaa по-русски')}</span>
+                  <span className="option-btn-label">{dir === 'fi-ru' ? (isEnglish ? 'Answer in English' : 'Vastaa suomeksi') : (isEnglish ? 'Answer in Russian' : 'Vastaa ??-??????')}</span>
                 </button>
               ))}
             </div>
             <button type="button" className="back-btn back-btn-inline words-direction-popup-back" onClick={() => setShowRanksReviewDirectionPopup(false)}>
-              ← Takaisin
+              ? Takaisin
             </button>
           </div>
         </div>
@@ -910,26 +953,40 @@ function App() {
               const wordsKey = getRoundsKey('words', `${directionForRounds}_${listId}`)
               const roundsDisplay = formatRoundsDisplay(getRounds(wordsKey))
               const isKertaus = listId === 'kerrattava-sanasto'
+              if (isKertaus) {
+                return (
+                  <button
+                    key={listId}
+                    type="button"
+                    className="option-btn option-btn-kertaus"
+                    onClick={() => {
+                      playButtonClick(muted)
+                      setGameMenuTitle(isEnglish ? 'Review' : 'Kertaus')
+                      setPendingWordsListId(listId)
+                      setShowDirectionPopup(true)
+                    }}
+                  >
+                    <span className="option-btn-label">{isEnglish ? 'Review' : 'Kertaus'}</span>
+                  </button>
+                )
+              }
               return (
-                <button
+                <OptionWithRoundsRow
                   key={listId}
-                  type="button"
-                  className={isKertaus ? 'option-btn option-btn-kertaus' : 'option-btn option-btn-with-rounds'}
+                  label={`1.1.${idx + 1}. ${getWordsListLabel(listId, appLanguage)}`}
+                  rounds={roundsDisplay}
                   onClick={() => {
                     playButtonClick(muted)
-                    setGameMenuTitle(listId === 'kerrattava-sanasto' ? (isEnglish ? 'Review' : 'Kertaus') : getWordsListLabel(listId, appLanguage))
+                    setGameMenuTitle(getWordsListLabel(listId, appLanguage))
                     setPendingWordsListId(listId)
                     setShowDirectionPopup(true)
                   }}
-                >
-                  <span className="option-btn-label">{isKertaus ? (isEnglish ? 'Review' : 'Kertaus') : `1.1.${idx + 1}. ${getWordsListLabel(listId, appLanguage)}`}</span>
-                  {!isKertaus && <span className="option-rounds">{roundsDisplay}</span>}
-                </button>
+                />
               )
             })}
           </div>
           <button type="button" className="back-btn back-btn-inline" onClick={() => setSelectedWordsCategory(null)}>
-            ← Takaisin
+            ? Takaisin
           </button>
         </section>
       )}
@@ -943,31 +1000,42 @@ function App() {
               const num = idx + 1
               const directionForRounds = 'fi-ru'
               const isKertaus = listId === 'lyhenteet-kerrattava'
+              if (isKertaus) {
+                return (
+                  <button
+                    key={listId}
+                    type="button"
+                    className="option-btn option-btn-kertaus"
+                    onClick={() => {
+                      playButtonClick(muted)
+                      setGameMenuTitle(isEnglish ? 'Review' : 'Kertaus')
+                      setSelectedWordsDirection('fi-ru')
+                      startPerussanastoGameWhenLoadedRef.current = true
+                      setSelectedWordsList(listId)
+                    }}
+                  >
+                    <span className="option-btn-label">{isEnglish ? 'Review' : 'Kertaus'}</span>
+                  </button>
+                )
+              }
               return (
-                <button
+                <OptionWithRoundsRow
                   key={listId}
-                  type="button"
-                  className={isKertaus ? 'option-btn option-btn-kertaus' : 'option-btn option-btn-with-rounds'}
+                  label={`1.2.${num}. ${getWordsListLabel(listId, appLanguage)}`}
+                  rounds={formatRoundsDisplay(getRounds(getRoundsKey('words', `${directionForRounds}_${listId}`)))}
                   onClick={() => {
                     playButtonClick(muted)
-                    setGameMenuTitle(listId === 'lyhenteet-kerrattava' ? (isEnglish ? 'Review' : 'Kertaus') : getWordsListLabel(listId, appLanguage))
+                    setGameMenuTitle(getWordsListLabel(listId, appLanguage))
                     setSelectedWordsDirection('fi-ru')
                     startPerussanastoGameWhenLoadedRef.current = true
                     setSelectedWordsList(listId)
                   }}
-                >
-                  <span className="option-btn-label">{isKertaus ? (isEnglish ? 'Review' : 'Kertaus') : `1.2.${num}. ${getWordsListLabel(listId, appLanguage)}`}</span>
-                  {!isKertaus && (
-                    <span className="option-rounds">
-                      {formatRoundsDisplay(getRounds(getRoundsKey('words', `${directionForRounds}_${listId}`)))}
-                    </span>
-                  )}
-                </button>
+                />
               )
             })}
           </div>
           <button type="button" className="back-btn back-btn-inline" onClick={() => setSelectedWordsCategory(null)}>
-            ← Takaisin
+            ? Takaisin
           </button>
         </section>
       )}
@@ -990,7 +1058,7 @@ function App() {
             <p className="words-file-hint-inline">Sanalistassa täytyy olla vähintään 4 sanaa.</p>
           )}
           <button type="button" className="back-btn back-btn-inline" onClick={() => { startPerussanastoGameWhenLoadedRef.current = false; setSelectedWordsList(null); setPerussanastoPool([]); setPerussanastoLoadError(null) }}>
-            ← Takaisin
+            ? Takaisin
           </button>
         </section>
       )}
@@ -1000,29 +1068,23 @@ function App() {
         <section className="section">
           <h2 className="section-heading">{isEnglish ? 'Military Symbology' : 'Sotilasmerkistö'}</h2>
           <div className="options-grid">
-            <button
-              type="button"
-              className="option-btn option-btn-with-rounds"
+            <OptionWithRoundsRow
+              label={isEnglish ? '3.1. Unit Size' : '3.1. Joukkotyypit'}
+              rounds={formatRoundsDisplay(getRounds(getRoundsKey('tactical-signs', 'sotilasmerkisto')))}
               onClick={() => {
                 startTacticalSignsGame('sotilasmerkisto')
               }}
-            >
-              <span className="option-btn-label">{isEnglish ? '3.1. Unit Size' : '3.1. Joukkotyypit'}</span>
-              <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('tactical-signs', 'sotilasmerkisto')))}</span>
-            </button>
-            <button
-              type="button"
-              className="option-btn option-btn-with-rounds"
+            />
+            <OptionWithRoundsRow
+              label={isEnglish ? '3.2. Echelons' : '3.2. Joukkokoko'}
+              rounds={formatRoundsDisplay(getRounds(getRoundsKey('tactical-signs', 'joukkojen-koko')))}
               onClick={() => {
                 startTacticalSignsGame('joukkojen-koko')
               }}
-            >
-              <span className="option-btn-label">{isEnglish ? '3.2. Echelons' : '3.2. Joukkokoko'}</span>
-              <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('tactical-signs', 'joukkojen-koko')))}</span>
-            </button>
+            />
           </div>
           <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedContentType(null) }}>
-            ← Takaisin
+            ? Takaisin
           </button>
         </section>
       )}
@@ -1032,22 +1094,16 @@ function App() {
         <section className="section">
           <h2 className="section-heading">{isEnglish ? 'Military Ranks' : 'Sotilasarvot'}</h2>
           <div className="options-grid">
-            <button
-              type="button"
-              className="option-btn option-btn-with-rounds"
+            <OptionWithRoundsRow
+              label={isEnglish ? '4.1. In English' : '4.1. Suomeksi'}
+              rounds={formatRoundsDisplay(getRounds(getRoundsKey('ranks', `maavoimat_${primaryRanksLanguage}`)))}
               onClick={() => { setRanksReviewError(null); startRanksGame('maavoimat', primaryRanksLanguage) }}
-            >
-              <span className="option-btn-label">{isEnglish ? '4.1. In English' : '4.1. Suomeksi'}</span>
-              <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('ranks', `maavoimat_${primaryRanksLanguage}`)))}</span>
-            </button>
-            <button
-              type="button"
-              className="option-btn option-btn-with-rounds"
+            />
+            <OptionWithRoundsRow
+              label={isEnglish ? '4.2. In Russian' : '4.2. Venäjäksi'}
+              rounds={formatRoundsDisplay(getRounds(getRoundsKey('ranks', 'maavoimat_ru')))}
               onClick={() => { setRanksReviewError(null); startRanksGame('maavoimat', 'ru') }}
-            >
-              <span className="option-btn-label">{isEnglish ? '4.2. In Russian' : '4.2. Venäjäksi'}</span>
-              <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('ranks', 'maavoimat_ru')))}</span>
-            </button>
+            />
             <button
               type="button"
               className="option-btn option-btn-kertaus"
@@ -1063,7 +1119,7 @@ function App() {
           </div>
           {ranksReviewError && <p className="words-file-hint-inline">{ranksReviewError}</p>}
           <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedContentType(null); setRanksReviewError(null) }}>
-            {isEnglish ? '← Back' : '← Takaisin'}
+            {isEnglish ? '? Back' : '? Takaisin'}
           </button>
         </section>
       )}
@@ -1092,10 +1148,13 @@ function App() {
                     : 0
               const roundsDisplay = formatRoundsDisplay(rounds)
               return (
-                <button
+                <OptionWithRoundsRow
                   key={b.id}
-                  type="button"
-                  className={`option-btn branch option-btn-with-rounds ${isDisabled ? 'disabled' : ''}`}
+                  label={getVehicleBranchLabel(b.id, b.label)}
+                  rounds={isDisabled ? comingSoonText : roundsDisplay}
+                  roundsClassName={isDisabled ? 'option-rounds-disabled' : ''}
+                  buttonClassName="branch"
+                  disabled={isDisabled}
                   onClick={() => {
                     if (isDisabled) return
                     if (b.id === 'navy') {
@@ -1105,18 +1164,12 @@ function App() {
                       startVehiclesGame(b.id as VehicleBranch)
                     }
                   }}
-                  disabled={isDisabled}
-                >
-                  <span className="option-btn-label">{getVehicleBranchLabel(b.id, b.label)}</span>
-                  <span className={isDisabled ? 'option-rounds option-rounds-disabled' : 'option-rounds'}>
-                    {isDisabled ? comingSoonText : roundsDisplay}
-                  </span>
-                </button>
+                />
               )
             })}
           </div>
           <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedContentType('venajan-asevoimat') }}>
-            ← Takaisin
+            ? Takaisin
           </button>
         </section>
       )}
@@ -1126,29 +1179,23 @@ function App() {
         <section className="section">
           <h2 className="section-heading">{isEnglish ? 'Navy' : 'Merivoimat'}</h2>
           <div className="options-grid">
-            <button
-              type="button"
-              className="option-btn option-btn-with-rounds"
+            <OptionWithRoundsRow
+              label={isEnglish ? '2.2.1.1. Naval Ship Classes' : '2.2.1.1. Alusluokat'}
+              rounds={formatRoundsDisplay(getRounds(getRoundsKey('vehicles', 'russia_navy_class')))}
               onClick={() => {
                 startNavySubMode('class')
               }}
-            >
-              <span className="option-btn-label">{isEnglish ? '2.2.1.1. Naval Ship Classes' : '2.2.1.1. Alusluokat'}</span>
-              <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('vehicles', 'russia_navy_class')))}</span>
-            </button>
-            <button
-              type="button"
-              className="option-btn option-btn-with-rounds"
+            />
+            <OptionWithRoundsRow
+              label={isEnglish ? '2.2.1.2. Naval Ship Names' : '2.2.1.2. Alusten nimet'}
+              rounds={formatRoundsDisplay(getRounds(getRoundsKey('vehicles', 'russia_navy_vesselName')))}
               onClick={() => {
                 startNavySubMode('vesselName')
               }}
-            >
-              <span className="option-btn-label">{isEnglish ? '2.2.1.2. Naval Ship Names' : '2.2.1.2. Alusten nimet'}</span>
-              <span className="option-rounds">{formatRoundsDisplay(getRounds(getRoundsKey('vehicles', 'russia_navy_vesselName')))}</span>
-            </button>
+            />
           </div>
           <button type="button" className="back-btn back-btn-inline" onClick={() => setSelectedBranch(null)}>
-            ← Takaisin kaluston osastoon
+            ? Takaisin kaluston osastoon
           </button>
         </section>
       )}
