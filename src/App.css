@@ -347,6 +347,27 @@
   object-fit: contain;
 }
 
+.app.landing .landing-header .landing-osint-btn {
+  order: 4;
+  width: min(100%, 420px);
+  text-align: center;
+  align-self: center;
+  background: #dc2626;
+  border-color: #b91c1c;
+  color: #ffffff;
+  margin-top: 0.15rem;
+  padding: 0.4rem 0.85rem;
+  min-height: 1.9rem;
+  font-size: 0.88rem;
+  line-height: 1.1;
+}
+
+.app.landing .landing-header .landing-osint-btn:hover:not(:disabled) {
+  background: #b91c1c;
+  border-color: #991b1b;
+  transform: none;
+}
+
 .app.landing .landing-header .title {
   font-size: clamp(1.15rem, 5.2vw, 2.1rem);
   text-align: center;
@@ -1485,9 +1506,9 @@
   width: 2rem;
   height: 2rem;
   border-radius: 999px;
-  border: 1px solid #000;
-  background: #fff;
-  color: #111827;
+  border: 1px solid #b91c1c;
+  background: #dc2626;
+  color: #ffffff;
   font-size: 1.2rem;
   line-height: 1;
   display: inline-flex;
@@ -1498,7 +1519,8 @@
 }
 
 .popup-close-btn:hover {
-  background: #f3f4f6;
+  background: #b91c1c;
+  border-color: #991b1b;
 }
 
 /* Ladataan…-ikkuna: loading overlay after main/home selections */
@@ -1533,3 +1555,182 @@
   letter-spacing: 0.02em;
 }
 
+
+
+.menu-layer-window:has(.daily-brief-section) {
+  width: min(860px, calc(100vw - 2rem));
+}
+
+.menu-layer-window:has(.daily-brief-section) .section {
+  padding: 1.25rem;
+}
+
+.daily-brief-section {
+  min-height: min(78dvh, 52rem);
+  position: relative;
+}
+
+.daily-brief-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+  padding-right: 0;
+  flex-wrap: nowrap;
+}
+
+.daily-brief-heading {
+  margin: 0;
+  font-size: clamp(1.2rem, 2vw, 1.55rem);
+  line-height: 1.1;
+  flex: 1;
+}
+
+.daily-brief-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
+  flex-wrap: nowrap;
+}
+
+.daily-brief-action-btn,
+.daily-brief-info-btn,
+.daily-brief-toggle {
+  min-height: 2rem;
+  padding: 0.45rem 0.85rem;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.daily-brief-close-btn {
+  position: static;
+  background: #dc2626;
+  border-color: #b91c1c;
+}
+
+.daily-brief-close-btn:hover {
+  background: #b91c1c;
+  border-color: #991b1b;
+}
+
+.daily-brief-info-btn {
+  background: #2563eb;
+  border-color: #1d4ed8;
+}
+
+.daily-brief-info-btn:hover {
+  background: #1d4ed8;
+  border-color: #1e40af;
+}
+
+.daily-brief-toggle:hover {
+  background: #15803d;
+  border-color: #166534;
+}
+
+.daily-brief-toggle {
+  background: #16a34a;
+  border-color: #15803d;
+}
+
+.daily-brief-toggle-active {
+  background: #166534;
+  border-color: #14532d;
+  color: #fff;
+}
+
+.daily-brief-content {
+  max-height: min(62dvh, 42rem);
+  overflow-y: auto;
+  padding: 1.1rem 1.25rem;
+  border: 2px solid #e2e8f0;
+  border-radius: 0.75rem;
+  background: #f8fafc;
+}
+
+.daily-brief-markdown > :first-child {
+  margin-top: 0;
+}
+
+.daily-brief-markdown > :last-child {
+  margin-bottom: 0;
+}
+
+.daily-brief-info-modal {
+  position: absolute;
+  inset: 0;
+  z-index: 3;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 4.5rem 1.25rem 1.25rem;
+  background: rgba(15, 23, 42, 0.35);
+}
+
+.daily-brief-info-card {
+  width: min(32rem, 100%);
+  border: 2px solid #1d4ed8;
+  border-radius: 0.85rem;
+  background: #ffffff;
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.18);
+  padding: 1rem 1rem 1.1rem;
+}
+
+.daily-brief-info-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.daily-brief-info-title {
+  margin: 0;
+  font-size: 1.05rem;
+  color: #0f172a;
+}
+
+.daily-brief-info-close-btn {
+  position: static;
+  flex-shrink: 0;
+}
+
+.daily-brief-info-text {
+  margin: 0;
+  color: #1e293b;
+  line-height: 1.5;
+}
+
+.daily-brief-info-caution {
+  margin-top: 0.75rem;
+  color: #991b1b;
+  font-weight: 600;
+}
+
+@media (max-width: 640px) {
+  .daily-brief-header {
+    gap: 0.6rem;
+    align-items: flex-start;
+  }
+
+  .daily-brief-heading {
+    font-size: 1.05rem;
+  }
+
+  .daily-brief-header-actions {
+    gap: 0.35rem;
+  }
+
+  .daily-brief-info-btn,
+  .daily-brief-toggle {
+    padding: 0.4rem 0.65rem;
+    font-size: 0.76rem;
+  }
+}

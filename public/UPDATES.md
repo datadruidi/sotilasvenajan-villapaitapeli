@@ -2,7 +2,34 @@
 
 This file is a cumulative changelog: newest versions are listed first. Older entries are kept.
 
-**Current version:** 1.0.7
+**Current version:** 1.0.8
+
+---
+
+## Version 1.0.8 (2026-03-07)
+
+This update focuses on the new OSINT Daily Brief entry point, popup controls, and Finnish text rendering fixes.
+
+- Added a standalone **OSINT Daily Brief / OSINT-päiväkatsaus** button on the landing page:
+  - Moved it outside the numbered `Content type` box.
+  - Positioned it between the landing controls and the main content menu.
+  - Styled it as a separate red action button with a shorter height than the main menu buttons.
+- Expanded the **OSINT Daily Brief** popup header:
+  - Added a blue **What is this? / Mikä tämä on?** button.
+  - Styled **Old Briefs / Vanhat katsaukset** as a green button.
+  - Replaced the popup close control with a red upper-right close button.
+- Added a dedicated **What is this?** info popup for the daily brief:
+  - Explains that the brief is an AI-powered automated information gathering tool.
+  - Notes that browser content updates daily, while Android updates only with a new app release.
+  - Includes a caution note that the content is not separately verified.
+- Fixed Finnish OSINT UI labels and encoding issues:
+  - Corrected visible text such as **OSINT-päiväkatsaus** and **Mikä tämä on?**
+  - Replaced broken mojibake characters in the OSINT popup flow.
+  - Standardized popup upper-right close buttons to a simple red `X`.
+- Updated app version metadata to `1.0.8`:
+  - `package.json` version -> `1.0.8`
+  - Android `versionName` -> `1.0.8`
+  - Android `versionCode` -> `10`
 
 ---
 

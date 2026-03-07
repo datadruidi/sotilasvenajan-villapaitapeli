@@ -1,4 +1,5 @@
-﻿import { useEffect, useRef, useState, type ReactNode } from 'react'
+import { useEffect, useRef, useState, type ReactNode } from 'react'
+import ReactMarkdown from 'react-markdown'
 import './App.css'
 import { GameView } from './components/GameView'
 import { GarrisonsGameView } from './components/GarrisonsGameView'
@@ -22,7 +23,8 @@ import type { RankGameEntry } from './lib/ranksLogic'
 import type { MilitaryDistrictInsigniaSubset } from './lib/militaryDistrictInsigniaLogic'
 import type { AppLanguage, NavySubMode, VehicleBranch, WordEntry, WordsDirection, WordsDifficulty } from './types/game'
 
-type ContentType = 'vehicles' | 'words' | 'garrisons' | 'tactical-signs' | 'ranks' | 'venajan-asevoimat'
+type ContentType = 'vehicles' | 'words' | 'garrisons' | 'tactical-signs' | 'ranks' | 'venajan-asevoimat' | 'osint-daily'
+type DailyBriefPage = 'current' | 'archive'
 
 /** Branch button id: real branch or placeholder for grayed-out row */
 type BranchButtonId = VehicleBranch | 'coming-soon' | 'strategic-missile' | 'airborne' | 'uav-systems'
@@ -70,6 +72,8 @@ const GARRISON_BASE_DISTRICT_OPTIONS: { id: MilitaryDistrictInsigniaSubset; labe
 const MUTE_STORAGE_KEY = 'miliingo-muted'
 const APP_LANGUAGE_STORAGE_KEY = 'miliingo-app-language'
 const INTRO_2_URL = `${import.meta.env.BASE_URL}audio/intro_2.mp3`
+const DAILY_BRIEF_URL = `${import.meta.env.BASE_URL}osint-daily.md`
+const DAILY_BRIEF_ARCHIVE_URL = `${import.meta.env.BASE_URL}osint-daily-archive.md`
 
 interface OptionWithRoundsRowProps {
   label: ReactNode
@@ -128,6 +132,7 @@ function App() {
     if (id === 'venajan-asevoimat') return '2. Military Organization'
     if (id === 'tactical-signs') return '3. Military Symbology'
     if (id === 'ranks') return '4. Military Ranks'
+    if (id === 'osint-daily') return 'OSINT Daily Brief'
     return id
   }
   const getMilitaryOrgOptionLabel = (id: ContentType): string => {
@@ -165,6 +170,10 @@ function App() {
   const [ranksReviewPool, setRanksReviewPool] = useState<RankGameEntry[] | null>(null)
   const [ranksReviewLanguage, setRanksReviewLanguage] = useState<RanksLanguage | null>(null)
   const [ranksReviewError, setRanksReviewError] = useState<string | null>(null)
+  const [dailyBriefPage, setDailyBriefPage] = useState<DailyBriefPage>('current')
+  const [dailyBriefContent, setDailyBriefContent] = useState<string | null>(null)
+  const [dailyBriefError, setDailyBriefError] = useState<string | null>(null)
+  const [showDailyBriefInfo, setShowDailyBriefInfo] = useState(false)
   const [showSplash, setShowSplash] = useState(true)
   const [view, setView] = useState<'landing' | 'vehicles-game' | 'words-game' | 'garrisons-game' | 'district-insignia-game' | 'tactical-signs-game' | 'ranks-game'>('landing')
   const [showLadataanIkkuna, setShowLadataanIkkuna] = useState(false)
@@ -309,6 +318,28 @@ function App() {
     }
   }, [selectedContentType, selectedWordsList, appLanguage])
 
+  useEffect(() => {
+    if (selectedContentType !== 'osint-daily') return
+    const pageUrl = dailyBriefPage === 'current' ? DAILY_BRIEF_URL : DAILY_BRIEF_ARCHIVE_URL
+    let cancelled = false
+
+    setDailyBriefContent(null)
+    setDailyBriefError(null)
+
+    fetch(pageUrl, { cache: 'no-store' })
+      .then((res) => (res.ok ? res.text() : Promise.reject(new Error('Page did not load'))))
+      .then((content) => {
+        if (!cancelled) setDailyBriefContent(content)
+      })
+      .catch(() => {
+        if (!cancelled) setDailyBriefError(isEnglish ? 'Could not load the brief.' : 'Katsausta ei voitu ladata.')
+      })
+
+    return () => {
+      cancelled = true
+    }
+  }, [dailyBriefPage, isEnglish, selectedContentType])
+
   const startVehiclesGame = (branch: VehicleBranch, navySubMode?: NavySubMode) => {
     const branchMenuLabel = BRANCHES.find((b) => b.id === branch)?.label ?? String(branch)
     setGameMenuTitle(stripMenuNumber(branchMenuLabel))
@@ -422,6 +453,10 @@ function App() {
     setRanksReviewPool(null)
     setRanksReviewLanguage(null)
     setRanksReviewError(null)
+    setDailyBriefPage('current')
+    setDailyBriefContent(null)
+    setDailyBriefError(null)
+    setShowDailyBriefInfo(false)
     setGameMenuTitle('')
   }
 
@@ -443,6 +478,7 @@ function App() {
     setGarrisonsReviewError(null)
     setSelectedRanksBranch(null)
     setRanksReviewError(null)
+    setShowDailyBriefInfo(false)
   }
 
   const handleSplashPlay = () => {
@@ -642,6 +678,16 @@ function App() {
             </div>
           </div>
         </div>
+        <button
+          type="button"
+          className="option-btn landing-osint-btn"
+          onClick={() => {
+            playButtonClick(muted)
+            setSelectedContentType('osint-daily')
+          }}
+        >
+          {isEnglish ? 'OSINT Daily Brief' : 'OSINT-p\u00E4iv\u00E4katsaus'}
+        </button>
       </header>
 
       <div className="landing-scroll">
@@ -670,6 +716,7 @@ function App() {
       {selectedContentType !== null && (
       <div className="menu-layer-overlay" role="dialog" aria-modal="true">
       <div className="menu-layer-window">
+        {selectedContentType !== 'osint-daily' && (
         <button
           type="button"
           className="popup-close-btn"
@@ -679,8 +726,9 @@ function App() {
           }}
           aria-label="Sulje"
         >
-          ×
-        </button>
+                X
+              </button>
+        )}
 
       {/* Venäjän asevoimat – sub-options: garrisons, vehicles */}
       {selectedContentType === 'venajan-asevoimat' && (
@@ -856,7 +904,7 @@ function App() {
               }}
               aria-label="Sulje"
             >
-              ×
+                X
             </button>
             <h2 id="words-direction-popup-title" className="section-heading">Valitse sanaston käännössuunta</h2>
             <div className="options-grid">
@@ -912,7 +960,7 @@ function App() {
               }}
               aria-label="Sulje"
             >
-              ×
+              X
             </button>
             <h2 id="ranks-review-direction-popup-title" className="section-heading">Valitse sanaston käännössuunta</h2>
             <div className="options-grid">
@@ -1125,6 +1173,96 @@ function App() {
       )}
 
       {/* Kaluston osasto – after Puolustushaarojen suorituskyvyt selected */}
+      {selectedContentType === 'osint-daily' && (
+        <section className="section daily-brief-section">
+          <div className="daily-brief-header">
+            <h2 className="section-heading daily-brief-heading">{isEnglish ? 'OSINT Daily Brief' : 'OSINT-p\u00E4iv\u00E4katsaus'}</h2>
+            <div className="daily-brief-header-actions">
+              <button
+                type="button"
+                className="daily-brief-info-btn"
+                onClick={() => {
+                  playButtonClick(muted)
+                  setShowDailyBriefInfo(true)
+                }}
+              >
+                {isEnglish ? 'What is this?' : 'Mik\u00E4 t\u00E4m\u00E4 on?'}
+              </button>
+              <button
+                type="button"
+                className={`daily-brief-toggle ${dailyBriefPage === 'archive' ? 'daily-brief-toggle-active' : ''}`}
+                onClick={() => {
+                  playButtonClick(muted)
+                  setDailyBriefPage(dailyBriefPage === 'archive' ? 'current' : 'archive')
+                }}
+              >
+                {isEnglish ? 'Old Briefs' : 'Vanhat katsaukset'}
+              </button>
+              <button
+                type="button"
+                className="daily-brief-action-btn daily-brief-close-btn"
+                onClick={() => {
+                  playButtonClick(muted)
+                  closeOptionPopup()
+                }}
+                aria-label={isEnglish ? 'Close' : 'Sulje'}
+              >
+                X
+              </button>
+            </div>
+          </div>
+          {showDailyBriefInfo && (
+            <div className="daily-brief-info-modal" role="dialog" aria-modal="true" aria-label={isEnglish ? 'About OSINT Daily Brief' : 'Tietoa OSINT-p\u00E4iv\u00E4katsauksesta'}>
+              <div className="daily-brief-info-card">
+                <div className="daily-brief-info-card-header">
+                  <h3 className="daily-brief-info-title">{isEnglish ? 'What is this?' : 'Mik\u00E4 t\u00E4m\u00E4 on?'}</h3>
+                  <button
+                    type="button"
+                    className="popup-close-btn daily-brief-info-close-btn"
+                    onClick={() => {
+                      playButtonClick(muted)
+                      setShowDailyBriefInfo(false)
+                    }}
+                    aria-label={isEnglish ? 'Close' : 'Sulje'}
+                  >
+                    X
+                  </button>
+                </div>
+                <p className="daily-brief-info-text">
+                  {isEnglish
+                    ? 'This is an automated information gathering tool powered by AI. It collects information from the Russian-language information space, translates it into English, and analyzes it with AI.'
+                    : 'T\u00E4m\u00E4 on teko\u00E4ly\u00E4 hy\u00F6dynt\u00E4v\u00E4 automatisoitu tiedonkeruuty\u00F6kalu. Se ker\u00E4\u00E4 tietoa ven\u00E4j\u00E4nkielisest\u00E4 informaatioymp\u00E4rist\u00F6st\u00E4, k\u00E4\u00E4nt\u00E4\u00E4 sis\u00E4ll\u00F6n englanniksi ja analysoi sit\u00E4 teko\u00E4lyn avulla.'}
+                </p>
+                <p className="daily-brief-info-text">
+                  {isEnglish
+                    ? 'The daily brief is updated daily in the browser version, while the Android version updates only when a new app version is released.'
+                    : 'P\u00E4iv\u00E4katsaus p\u00E4ivittyy selainversiossa p\u00E4ivitt\u00E4in. Android-versiossa se p\u00E4ivittyy vain uuden sovellusversion julkaisun yhteydess\u00E4.'}
+                </p>
+                <p className="daily-brief-info-text daily-brief-info-caution">
+                  {isEnglish
+                    ? 'Caution: the content is not verified, so consider the comments and claims carefully.'
+                    : 'Varoitus: sis\u00E4lt\u00F6\u00E4 ei ole erikseen varmennettu. Suhtaudu siksi varauksella kommenttiosion v\u00E4itteisiin ja huomioihin.'}
+                </p>
+              </div>
+            </div>
+          )}
+          <div className="daily-brief-content">
+            {dailyBriefError && <p className="words-file-hint-inline">{dailyBriefError}</p>}
+            {dailyBriefContent == null && !dailyBriefError && (
+              <p className="words-loading-inline">{isEnglish ? 'Loading brief...' : 'Ladataan katsausta...'}</p>
+            )}
+            {dailyBriefContent != null && (
+              <div className="splash-info-markdown daily-brief-markdown">
+                <ReactMarkdown>{dailyBriefContent}</ReactMarkdown>
+              </div>
+            )}
+          </div>
+          <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedContentType(null) }}>
+            {isEnglish ? '? Back' : '? Takaisin'}
+          </button>
+        </section>
+      )}
+
       {selectedContentType === 'vehicles' && selectedBranch === null && (
         <section className="section">
           <h2 className="section-heading">Kaluston osasto</h2>
