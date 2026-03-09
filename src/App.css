@@ -1663,6 +1663,10 @@
   margin-bottom: 0;
 }
 
+.daily-brief-markdown {
+  line-height: 1.55;
+}
+
 .daily-brief-info-modal {
   position: absolute;
   inset: 0;

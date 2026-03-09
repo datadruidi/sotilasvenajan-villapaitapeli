@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react'
 import ReactMarkdown from 'react-markdown'
+import remarkBreaks from 'remark-breaks'
 import './App.css'
 import { GameView } from './components/GameView'
 import { GarrisonsGameView } from './components/GarrisonsGameView'
@@ -73,7 +74,32 @@ const MUTE_STORAGE_KEY = 'miliingo-muted'
 const APP_LANGUAGE_STORAGE_KEY = 'miliingo-app-language'
 const INTRO_2_URL = `${import.meta.env.BASE_URL}audio/intro_2.mp3`
 const DAILY_BRIEF_URL = `${import.meta.env.BASE_URL}osint-daily.md`
-const DAILY_BRIEF_ARCHIVE_URL = `${import.meta.env.BASE_URL}osint-daily-archive.md`
+const DAILY_BRIEF_ARCHIVE_URL = `${import.meta.env.BASE_URL}analysis-archive.md`
+const DAILY_BRIEF_FINNISH_URL = `${import.meta.env.BASE_URL}osint-daily-fin.md`
+const DAILY_BRIEF_FINNISH_ARCHIVE_URL = `${import.meta.env.BASE_URL}analysis-archive_fin.md`
+
+function preserveBlankMarkdownLines(markdown: string): string {
+  const lines = markdown.replace(/\r\n?/g, '\n').split('\n')
+  const output: string[] = []
+  let blankRunLength = 0
+
+  for (const line of lines) {
+    if (line.trim() === '') {
+      if (blankRunLength === 0) {
+        output.push('')
+      } else {
+        output.push('\u00A0', '')
+      }
+      blankRunLength += 1
+      continue
+    }
+
+    blankRunLength = 0
+    output.push(line)
+  }
+
+  return output.join('\n')
+}
 
 interface OptionWithRoundsRowProps {
   label: ReactNode
@@ -320,7 +346,9 @@ function App() {
 
   useEffect(() => {
     if (selectedContentType !== 'osint-daily') return
-    const pageUrl = dailyBriefPage === 'current' ? DAILY_BRIEF_URL : DAILY_BRIEF_ARCHIVE_URL
+    const pageUrl = isEnglish
+      ? (dailyBriefPage === 'current' ? DAILY_BRIEF_URL : DAILY_BRIEF_ARCHIVE_URL)
+      : (dailyBriefPage === 'current' ? DAILY_BRIEF_FINNISH_URL : DAILY_BRIEF_FINNISH_ARCHIVE_URL)
     let cancelled = false
 
     setDailyBriefContent(null)
@@ -1253,7 +1281,7 @@ function App() {
             )}
             {dailyBriefContent != null && (
               <div className="splash-info-markdown daily-brief-markdown">
-                <ReactMarkdown>{dailyBriefContent}</ReactMarkdown>
+                <ReactMarkdown remarkPlugins={[remarkBreaks]}>{preserveBlankMarkdownLines(dailyBriefContent)}</ReactMarkdown>
               </div>
             )}
           </div>
