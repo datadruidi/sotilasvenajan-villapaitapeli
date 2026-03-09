@@ -7,6 +7,13 @@ _No articles to report._
 
 # 2026-03-09
 
+_No articles to report._
+
+
+
+
+# 2026-03-09
+
 ## Putin onnittelee Mojtaba Khameneita Iranin korkeimmaksi johtajaksi valitsemisen johdosta
 
 Venäjän presidentti Vladimir Putin on lähettänyt onnittelut Seyed Mojtaba Hosseini Khameneille hänen valitsemisensa johdosta Iranin korkeimmaksi johtajaksi. Onnittelut julkaistiin Kremlissä 9. maaliskuuta 2026 ja niissä korostuu Venäjän tuki Iranille sen kohdatessa aseellista hyökkäystä. Putin ilmaisi luottamuksensa Khamenein kykyyn jatkaa isänsä työtä ja yhdistää iranilaiset vaikeina aikoina. [1]
