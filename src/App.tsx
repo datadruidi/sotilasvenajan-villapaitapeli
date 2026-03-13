@@ -1019,7 +1019,7 @@ function App() {
         </div>
       )}
 
-      {/* Words: Sotilassanasto – 1.1.1.–1.1.8. (direction asked in popup after click) */}
+      {/* Words: Sotilassanasto – 1.1.1.–1.1.8. + review. (direction asked in popup after click) */}
       {selectedContentType === 'words' && selectedWordsCategory === 'sotilassanasto' && selectedWordsList === null && (
         <section className="section">
           <h2 className="section-heading">Sotilassanasto</h2>

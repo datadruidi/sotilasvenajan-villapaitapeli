@@ -34,7 +34,8 @@ From the main menu you choose one of four content types. Each option takes you t
 - 1.1.5. Taistelu ja taktiikka / Combat and Tactics
 - 1.1.6. Maasto ja linnoitteet / Terrain and Fortifications
 - 1.1.7. Sotilasarvot / Military Ranks
-- 1.1.8. Kertaus / Review
+- 1.1.8. Kyberturvallisuuden käsitteistöä / Cybersecurity Terminology
+- Kertaus / Review
 
 #### 1.2. Sotilaslyhenteet / Military Abbreviations
 

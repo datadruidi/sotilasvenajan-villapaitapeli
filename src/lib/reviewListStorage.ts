@@ -1,6 +1,6 @@
 /**
  * User review lists: persisted in localStorage.
- * - Words (1.1.1–1.1.7) → 1.1.8 Käyttäjän kerrattava sanasto
+ * - Words (1.1.1–1.1.8) → Käyttäjän kerrattava sanasto
  * - Lyhenteet (1.2.1–1.2.6) → 1.2.7 Käyttäjän kerrattava lyhenteet
  * - Sotilaspiirit (2.1) → Käyttäjän kerrattava
  * - Sotilasarvot (3) → Käyttäjän kerrattava

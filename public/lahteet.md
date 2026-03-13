@@ -1,18 +1,27 @@
 ﻿
-# **1. Sotilassanasto / Military Vocabulary:** 
+## **1. Sotilassanasto / Military Vocabulary:** 
+
+### **1.1. Sotilastoiminta**
 
 Räsänen, M. (1940). Venäläinen sotilaslyhennyssanasto (1. painos). Päämaja, Tiedusteluosasto. https://mpkk.finna.fi/Record/taisto.114719
 
 Rouhiainen, M. (1972). Sotilasvenäjän peruskurssi (1. painos). PE. https://mpkk.finna.fi/Record/taisto.59197
 
-Sotilasvenäjän sanaston lyhenteet on generoitu ChatGPT:llä.
+#### **1.1.8. Kyberturvallisuuden käsitteistö / Cybersecurity Terminology**
+
+Kari, Martti. 2016. Piiritetty kyberlinnake: Venäjään kohdistuva kyberuhka venäläisten julkisten asiakirjojen mukaan. Pro gradu -tutkielma. Jyväskylän yliopisto, Informaatioteknologian tiedekunta, Tietojenkäsittelytieteiden laitos. URN:NBN:fi:jyu-201610094304.
+
+
+### **1.2. Sotilaslyhenteet / Military Abbreviations**
+
+Sotilasvenäjän lyhenteet generoitu ChatGPT:llä.
 
 
 ## **2. Sotilasorganisaatio / Military Organization**
 
-### **2.1. Sotilaspiirit / Military Districts **
+### **2.1. Sotilaspiirit / Military Districts**
 
-### 2.1.1. Sotilaspiirien tukikohdat / Military Districts Bases
+#### 2.1.1. Sotilaspiirien tukikohdat / Military Districts Bases
 
 Panschin, V. (2023). Venäjän sotilaallinen voima Suomen lähialueilla: Pohjoisen operatiivisstrategisen johtoportaan ja Läntisen sotilaspiirin joukot sekä niiden taistelun kuva (Sotataidon laitos, Julkaisusarja 2: Tutkimusselosteita, No. 24). Maanpuolustuskorkeakoulu. https://www.doria.fi/handle/10024/186542
 
@@ -20,7 +29,7 @@ Panschin, V. (2023). Venäjän sotilaallinen voima Suomen lähialueilla: Pohjois
 Pääesikunta. (2026). Sotilastiedustelu: Julkinen katsaus 2026. https://puolustusvoimat.fi/documents/1948673/8274776/PV_sotilastiedustelu_2026_FI.pdf/981f2115-4262-d896-5c7c-763925641aa2/PV_sotilastiedustelu_2026_FI.pdf
 
 
-### 2.1.2. Sotilaspiirien tunnukset / Military Districts Insignia
+#### 2.1.2. Sotilaspiirien tunnukset / Military Districts Insignia
 
 ##### Central Military District
 Small emblem of the Central Military District.svg — Caption: "Малая эмблема Центрального военного округа" | Author: Constantine | Source: https://commons.wikimedia.org/wiki/File:Small_emblem_of_the_Central_Military_District.svg

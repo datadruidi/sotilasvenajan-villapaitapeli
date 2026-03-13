@@ -7,7 +7,7 @@
 
 import type { AppLanguage, WordPair, WordCardPrompt, WordEntry } from '../types/game'
 
-/** Perussanasto = 7 themed lists; Lyhenteet = abbreviation lists. */
+/** Perussanasto = 8 themed lists; Lyhenteet = abbreviation lists. */
 export type WordsListId =
   | 'aseet-ja-ammukset'
   | 'kalusto-ja-alustat'
@@ -16,6 +16,7 @@ export type WordsListId =
   | 'taistelu-ja-taktiikka'
   | 'maasto-ja-linnoitteet'
   | 'sotilasarvot'
+  | 'kyberturvallisuuden-kasitteisto'
   | 'kerrattava-sanasto'
   | 'lyhenteet-turvallisuus'
   | 'lyhenteet-puolustushallinto'
@@ -36,6 +37,7 @@ const WORDS_FILES: Record<WordsListIdWithFile, string> = {
   'taistelu-ja-taktiikka': 'taistelu-ja-taktiikka.csv',
   'maasto-ja-linnoitteet': 'maasto-ja-linnoitteet.csv',
   sotilasarvot: 'sotilasarvot.csv',
+  'kyberturvallisuuden-kasitteisto': 'kyberturvallisuuden-kasitteisto.csv',
   'lyhenteet-turvallisuus': 'lyhenteet-turvallisuus.csv',
   'lyhenteet-puolustushallinto': 'lyhenteet-puolustushallinto.csv',
   'lyhenteet-asevoimat': 'lyhenteet-asevoimat.csv',
@@ -44,7 +46,7 @@ const WORDS_FILES: Record<WordsListIdWithFile, string> = {
   'lyhenteet-johtaminen': 'lyhenteet-johtaminen.csv',
 }
 
-/** The 7 Sotilasvenäjän perussanasto modules (each has its own CSV). */
+/** The 8 Sotilasvenäjän perussanasto modules (each has its own CSV). */
 export const PERUSSANASTO_LIST_IDS: WordsListId[] = [
   'aseet-ja-ammukset',
   'kalusto-ja-alustat',
@@ -53,6 +55,7 @@ export const PERUSSANASTO_LIST_IDS: WordsListId[] = [
   'taistelu-ja-taktiikka',
   'maasto-ja-linnoitteet',
   'sotilasarvot',
+  'kyberturvallisuuden-kasitteisto',
 ]
 
 const PERUSSANASTO_LABELS_FI: Record<WordsListId, string> = {
@@ -63,6 +66,7 @@ const PERUSSANASTO_LABELS_FI: Record<WordsListId, string> = {
   'taistelu-ja-taktiikka': 'Taistelu ja taktiikka',
   'maasto-ja-linnoitteet': 'Maasto ja linnoitteet',
   sotilasarvot: 'Sotilasarvot',
+  'kyberturvallisuuden-kasitteisto': 'Kyberturvallisuuden käsitteistöä',
   'kerrattava-sanasto': 'Kertaus',
   'lyhenteet-turvallisuus': 'Valtion turvallisuus- ja tiedusteluelimet',
   'lyhenteet-puolustushallinto': 'Puolustushallinto ja asevoimien johto',
@@ -81,6 +85,7 @@ const PERUSSANASTO_LABELS_EN: Record<WordsListId, string> = {
   'taistelu-ja-taktiikka': 'Combat and Tactics',
   'maasto-ja-linnoitteet': 'Terrain and Fortifications',
   sotilasarvot: 'Military Ranks',
+  'kyberturvallisuuden-kasitteisto': 'Cybersecurity Terminology',
   'kerrattava-sanasto': 'Review',
   'lyhenteet-turvallisuus': 'Security and Intelligence Agencies',
   'lyhenteet-puolustushallinto': 'Defense Administration and Command',
@@ -95,7 +100,7 @@ export function getWordsListLabel(listId: WordsListId, appLanguage: AppLanguage)
   return appLanguage === 'eng' ? PERUSSANASTO_LABELS_EN[listId] : PERUSSANASTO_LABELS_FI[listId]
 }
 
-/** Sotilassanasto menu: 7 CSV modules + 1.1.8 Käyttäjän kerrattava sanasto. */
+/** Sotilassanasto menu: 8 CSV modules + user review list. */
 export const SOTILASSANASTO_MENU_IDS: WordsListId[] = [
   ...PERUSSANASTO_LIST_IDS,
   'kerrattava-sanasto',
