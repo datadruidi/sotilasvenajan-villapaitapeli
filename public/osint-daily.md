@@ -1,108 +1,97 @@
-# 2026-03-12
+# 2026-03-13
 
 ## Summary
 
-During the reporting period, multiple significant events unfolded within Russia and adjacent regions, highlighting ongoing themes of counterterrorism, infrastructural modernization, and geopolitical maneuvering. The sentencing of terrorists underscores Russia's focus on domestic security, while developments in the Akkuyu nuclear power plant and changes in financial institutions reflect strategic economic interests, particularly in energy and finance. Additionally, rising tensions involving Iran and Israel signal a complex regional security landscape, with Russia positioning itself as a mediator amid escalating conflicts.
+During the reporting period, significant military hostilities escalated as Ukraine carried out a missile strike in Bryansk, resulting in multiple fatalities and prompting Russia to summon British and French ambassadors over their alleged involvement. Additionally, the Russian Ministry of Justice registered new foreign agents, reflecting ongoing repression against perceived dissent, while domestic conditions showed mixed signals with a reported decline in poverty rates amid broader political tensions. The persistence of drone attacks and incidents of violence continues to amplify the conflict narrative, suggesting further complications for regional security and diplomatic relations.
 
 
-## Court Sentences Crocus City Hall Terrorists to Life Imprisonment
+## Russia Summons UK and French Ambassadors Over APU Strike on Bryansk
 
-On March 12th, 2026, the Second Western District Military Court in Moscow sentenced four individuals to life imprisonment for their roles in the Crocus City Hall terrorist attack that occurred on August 4th, 2025. The defendants were found guilty of multiple charges, including committing a terrorist act and providing assistance for terrorist activities, and will serve their sentences in a special regime colony. [1]
+On March 13th, 2026, the ambassadors of Britain and France were summoned to the Russian Foreign Ministry following a missile strike by the Armed Forces of Ukraine (APU) on Bryansk that occurred on March 10th. Russia expressed strong protest against the involvement of British and French military technology in this attack, which reportedly resulted in seven fatalities and over forty injuries, accusing these nations of direct complicity. [1]
 
-**COMMENT:** This sentencing underscores the Russian government's focus on counterterrorism and the judicial response to domestic security threats. By imposing severe penalties, Russia aims to deter future terrorist activities while reinforcing its commitment to maintaining public safety.
+**COMMENT:** This incident underscores rising tensions between Russia and Western nations, particularly regarding military support to Ukraine. The Kremlin's response reflects a strategic attempt to attribute blame and rally domestic support amidst ongoing conflict.
 
-**KEYWORD:** #russia; #учения; #удар; #сво; #про
-
-
-
-## Rosatom Plans to Launch Akkuyu Nuclear Power Plant Unit by December
-
-On March 12th, 2026, Rosatom announced its expectation to launch the first power unit at the Akkuyu nuclear power plant in Turkey by December. The head of Rosatom, Alexei Likhachev, stated that preparations, including commissioning and system inspections, are ongoing, with a construction readiness of approximately 99% and 65% of commissioning works completed. This marks a significant step in Rosatom’s international energy projects. [2]
-
-**COMMENT:** The expected commissioning of the Akkuyu nuclear power plant unit underscores Russia's growing influence in Turkey's energy sector, potentially enhancing bilateral relations and positioning Russia as a key player in the region's energy landscape.
-
-**KEYWORD:** #russia; #пуск; #про
+**KEYWORD:** #russia; #удар; #про
 
 
 
-## Citibank Rebranded as Rencap Bank in Russia
+## Five New Foreign Agents Registered by Russian Ministry of Justice, Including Khrushchev's Great-Granddaughter
 
-On March 12th, 2026, the Russian arm of Citigroup, Citibank, officially changed its name to Rencap Bank, following the acquisition by Renaissance Capital, which was completed in February 2026. This rebranding aligns with President Vladimir Putin's directives issued in November 2025 and allows the bank to continue serving its existing clients, including U.S. and European investment firms, as it establishes itself independently within the Renaissance Capital group. [3]
+On March 13th, 2026, the Russian Ministry of Justice added five individuals to its register of foreign agents, including Nina Lvovna Khrushchev, a great-granddaughter of former leader Nikita Khrushchev. This designation comes amid accusations against them for spreading disinformation about the Russian authorities and opposing the Special Military Operation (SVO). The new entries signal ongoing intensification in the Kremlin's crackdown on dissent and foreign influence, reflecting the state's heightened scrutiny of individuals perceived as threats to its political narrative. [2]
 
-**COMMENT:** This rebranding indicates a significant shift in the financial landscape in Russia, particularly as Western financial institutions withdraw. The change may further consolidate Russian financial services under domestic firms, potentially impacting the region's economic stability and international investment relations.
+**COMMENT:** The inclusion of prominent figures like Khrushchev's descendant in the foreign agent list indicates an expanding scope of repression against dissent in Russia, potentially signaling increased state control over civil society and academic discourse amid ongoing political tensions.
 
-**KEYWORD:** #российский; #сво; #про
-
-
-
-## Rostov Region to Enable Cashless and Internet-free Transport Payments
-
-On March 12th, 2026, Deputy Governor Alena Belikova announced that starting April 1, public transport in the Rostov region will allow payment for travel without cash or Internet access. This initiative aims to enhance passenger convenience by installing updated software on payment terminals, which has been successfully tested. Currently, passengers experience issues with terminal functionality due to connectivity problems. [4]
-
-**COMMENT:** The introduction of cashless and internet-free payment systems in public transport could streamline operations and improve user experience in the Rostov region, potentially influencing similar initiatives in other regions. It reflects a shift towards modernization in Russia's transport infrastructure.
-
-**KEYWORD:** #russia; #штаб; #пуск; #про
+**KEYWORD:** #russia; #сво; #про
 
 
 
-## Rising Displacement in Iran; Israeli Defense Minister Issues Warnings to Hezbollah
+## Russia's Poverty Rate Declines to 6.7% in 2025
 
-On Thursday, the United Nations High Commissioner for Refugees reported that the number of internally displaced persons in Iran due to ongoing conflicts involving Israel and the U.S. has reached 3.2 million, affecting 600,000 to 1 million households. In response, Israeli Defense Minister Yisrael Katz warned Lebanese authorities to curb Hezbollah's attacks, threatening that Israel would take territorial control if Hezbollah continues its aggression against northern Israel. Katz emphasized that preparations for a potential expansion of military operations in Lebanon are underway, aligning with directives from Israeli Prime Minister Benjamin Netanyahu. [5]
+On March 13th, 2026, Rosstat reported a decline in the number of people living below the subsistence minimum in Russia from 10.4 million in 2024 to 9.8 million in 2025, reflecting a poverty rate of 6.7%, down from 7.1% the previous year. This trend highlights a significant reduction in poverty levels, which saw quarterly variations throughout 2025, with the lowest rate recorded at 4.8% in the fourth quarter. President Putin has set ambitious targets to reduce poverty further, aiming for rates below 7% by 2030 and below 5% by 2036. [3]
 
-**COMMENT:** The increase in displacement within Iran highlights the escalating humanitarian crisis stemming from regional conflicts, which could strain Iran's internal stability. Israel's assertive posture towards Hezbollah signifies a possible escalation in military engagement in Lebanon, further complicating the security landscape in the region.
-
-**KEYWORD:** #россия; #российский; #ввс; #министр обороны; #удар; #сво; #беспилотник; #армия; #про
-
-
-
-## Russia Reaffirms Commitment to De-escalation Efforts in the Middle East
-
-On March 12th, 2026, Russian Foreign Ministry spokeswoman Maria Zakharova stated that Russia will persist in its initiatives to de-escalate tensions in the Middle East. She condemned strikes on civilian targets in Iran and neighboring countries, calling for the United States and Israel to halt aggressive actions and resume negotiations. Zakharova emphasized the need for all parties involved, particularly Arab nations, to exercise restraint and abandon double standards. [6]
-
-**COMMENT:** Russia's emphasis on de-escalation demonstrates its desire to assert influence in Middle Eastern affairs while opposing US and Israeli actions. This positions Russia as a potential peace broker, potentially enhancing its geopolitical standing in the region amidst ongoing conflicts.
-
-**KEYWORD:** #russia; #россия; #призыв; #удар; #сво; #про
-
-
-
-## Former Kursk Governor's Jurisdiction Change Request Denied
-
-On March 12th, 2026, the First Court of Cassation of General Jurisdiction in Saratov denied the request of former Kursk Governor Alexei Smirnov to change the jurisdiction of his bribery case. Smirnov, who is accused along with his deputy Alexei Dedov of accepting over 20 million rubles in bribes between June 2022 and April 2023, sought to have the case moved to a different district court. The decision is final and cannot be appealed. [7]
-
-**COMMENT:** This development highlights ongoing corruption challenges within regional administrations in Russia, potentially impacting public trust and governance. The finality of the court's decision suggests a firm stance by the judiciary on high-profile corruption cases, which may deter future illicit activities.
+**COMMENT:** The decrease in the poverty rate may bolster the Russian government's domestic support, enhancing stability. However, the reliance on seasonal income fluctuations raises questions about the sustainability of this progress.
 
 **KEYWORD:** #russia; #про
 
 
 
-## Lavrov to Discuss Russian-Kenyan Relations with Foreign Minister in Moscow on March 16
+## Drone Attack in Belgorod Region Results in One Fatality and One Injury
 
-On March 16th, 2026, Russian Foreign Minister Sergei Lavrov will meet with Kenyan Foreign Minister Musaliya Mudavadi in Moscow, during Mudavadi's working visit from March 15th to 18th. The talks will address the state and future of Russian-Kenyan relations, focusing on enhancing political dialogue and cooperation in trade, economic, and humanitarian sectors. [8]
+On March 13th, 2026, a drone attack in the Belgorod region of Russia resulted in one civilian death and another injury, according to regional governor Vyacheslav Gladkov. The attacks, attributed to the Armed Forces of Ukraine, involved a UAV detonating on a roadway in Grayvoron, while another individual was injured in Gruzskoye and taken to a local hospital. [4]
 
-**COMMENT:** This meeting reflects Russia's ongoing efforts to strengthen its diplomatic ties in Africa, potentially expanding its influence in Kenyan political and economic spheres amid growing global competition for partnerships on the continent.
+**COMMENT:** This incident underscores the increasing use of drone technology in the conflict and may raise tensions between Russia and Ukraine as civilian casualties continue to occur, potentially affecting public sentiment and military strategy on both sides.
+
+**KEYWORD:** #russia; #удар; #сво; #беспилотник; #бпла
+
+
+
+## Fire at Krasnodar Oil Depot Extinguished; Ex-Official Convicted
+
+On March 13th, 2026, a fire at the oil depot in Krasnodar Territory was completely extinguished. In related news, Igor Chuyan, the former head of Rosalkogolregulation, was convicted in absentia for theft and embezzlement of funds from OFC Bank, receiving a 12-year sentence. Chuyan has been on the international wanted list since his arrest in absentia in 2018. [5]
+
+**COMMENT:** The extinguishing of the fire at the Krasnodar oil depot maintains operational integrity in a key regional facility, while the conviction of Chuyan underscores ongoing efforts to combat corruption within Russian state entities, potentially impacting institutional stability.
+
+**KEYWORD:** #russia; #россия; #командование; #корпус; #сво; #про
+
+
+
+## ISS Orbit Raised by 1.1 Kilometers
+
+On March 13th, 2026, the orbit of the International Space Station (ISS) was elevated by 1.1 kilometers, reaching an average altitude of 421.54 kilometers above Earth's surface, according to Roscosmos. This adjustment was made using the cargo ship Progress MS-32, which activated its engines for approximately 634.7 seconds. [6]
+
+**COMMENT:** The successful boost of the ISS orbit reflects ongoing enhancements in space station operations and may influence future missions and satellite placements, indicating Russia's continued commitment to its space program amid international competition.
 
 **KEYWORD:** #russia; #про
 
 
 
-## Snow from Roof Injures Kaluga Resident
+## Death Toll Rises to Eight in Ukrainian Missile Strike on Bryansk
 
-On March 11th, 2026, a 60-year-old woman in Kaluga sustained a head injury after snow and ice fell from the roof of an apartment building on Lenin Street. The regional prosecutor's office has initiated an inspection, with materials sent to the investigative body for potential criminal proceedings. The victim is receiving medical care. [9]
+On March 13th, 2026, a missile strike by the Armed Forces of Ukraine on Bryansk, using British Storm Shadow missiles, resulted in eight fatalities and 47 injuries. The attack damaged over 70 infrastructure facilities, and a case of terrorism has been opened by the Russian Investigative Committee. Nine of the wounded are receiving treatment in Moscow. [7]
 
-**COMMENT:** This incident highlights ongoing concerns regarding building safety, particularly in urban areas with heavy snowfall. The decision to potentially initiate a criminal case may reflect heightened public safety scrutiny and the accountability of property management in similar incidents.
+**COMMENT:** This escalation in hostilities could raise tensions between Russia and Ukraine, potentially prompting increased military mobilization and diplomatic responses from both sides as they navigate the implications of this strike.
 
-**KEYWORD:** #russia; #про
+**KEYWORD:** #вс россии; #удар; #сво; #про
+
+
+
+## Britain and France Summoned After APU Strike on Bryansk
+
+On March 13th, 2026, the Armed Forces of Ukraine (APU) launched an attack on Bryansk using British Storm Shadow missiles, resulting in the deaths of seven individuals and injuries to 42 others. The strike caused significant damage to over 70 infrastructure facilities and vehicles, prompting Russian authorities to categorize the incident as a terrorist attack. In response, Russia's Foreign Ministry summoned the ambassadors of Britain and France for consultations regarding their involvement. [8]
+
+**COMMENT:** This incident marks an escalation in military hostilities and indicates a potential shift in the regional security dynamics, particularly in the context of foreign support for Ukraine. The summoning of British and French ambassadors suggests growing diplomatic tensions as Russia seeks to address perceived violations of its sovereignty.
+
+**KEYWORD:** #вс россии; #удар; #сво; #про
 
 
 
 ## Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1077417?utm_source=top
-[2] interfax.ru - https://interfax.ru/russia/1077402?utm_source=top
-[3] interfax.ru - https://interfax.ru/business/1077407?utm_source=top
-[4] interfax.ru - https://interfax.ru/russia/1077484
-[5] interfax.ru - https://interfax.ru/chronicle/operacziya-izrailya-i-ssha-protiv-irana.html
-[6] interfax.ru - https://interfax.ru/russia/1077479
-[7] interfax.ru - https://interfax.ru/russia/1077477
-[8] interfax.ru - https://interfax.ru/russia/1077478
-[9] interfax.ru - https://interfax.ru/russia/1077473
+[1] interfax.ru - https://interfax.ru/russia/1077728?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1077735?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1077767?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1077791
+[5] interfax.ru - https://interfax.ru/russia/1077779
+[6] interfax.ru - https://interfax.ru/russia/1077784
+[7] ria.ru - https://ria.ru/20260313/bryansk-2080566769.html
+[8] ria.ru - https://ria.ru/20260313/mid-2080520165.html
