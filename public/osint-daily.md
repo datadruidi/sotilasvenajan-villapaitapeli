@@ -1,97 +1,163 @@
-# 2026-03-13
+# 2026-03-14
 
 ## Summary
 
-During the reporting period, significant military hostilities escalated as Ukraine carried out a missile strike in Bryansk, resulting in multiple fatalities and prompting Russia to summon British and French ambassadors over their alleged involvement. Additionally, the Russian Ministry of Justice registered new foreign agents, reflecting ongoing repression against perceived dissent, while domestic conditions showed mixed signals with a reported decline in poverty rates amid broader political tensions. The persistence of drone attacks and incidents of violence continues to amplify the conflict narrative, suggesting further complications for regional security and diplomatic relations.
+During the reporting period, significant aerial hostilities unfolded, with Russian air defenses intercepting and destroying a total of 280 Ukrainian drones across various regions, including a substantial number targeting Moscow. The persistent drone attacks and interceptions indicate an escalation in conflict dynamics, as both sides enhance their aerial capabilities, impacting civilian safety and strategic military operations. Additionally, infrastructure issues, such as power outages in the Zaporizhia region, further complicate the ongoing operational environment amidst these military engagements.
 
 
-## Russia Summons UK and French Ambassadors Over APU Strike on Bryansk
+## Moscow Intercepts 65 Ukrainian Drones Targeting Capital
 
-On March 13th, 2026, the ambassadors of Britain and France were summoned to the Russian Foreign Ministry following a missile strike by the Armed Forces of Ukraine (APU) on Bryansk that occurred on March 10th. Russia expressed strong protest against the involvement of British and French military technology in this attack, which reportedly resulted in seven fatalities and over forty injuries, accusing these nations of direct complicity. [1]
+On March 14th, 2026, Moscow Mayor Sergei Sobyanin reported the downing of 65 Ukrainian drones that were heading towards the capital. Emergency services are currently managing the recovery of debris from the incident, following an earlier report of 64 drone interceptions. [1]
 
-**COMMENT:** This incident underscores rising tensions between Russia and Western nations, particularly regarding military support to Ukraine. The Kremlin's response reflects a strategic attempt to attribute blame and rally domestic support amidst ongoing conflict.
+**COMMENT:** The continued targeting of Moscow by Ukrainian drones indicates an escalation in cross-border conflict dynamics, potentially prompting further security measures and military responses from Russia.
 
-**KEYWORD:** #russia; #удар; #про
-
-
-
-## Five New Foreign Agents Registered by Russian Ministry of Justice, Including Khrushchev's Great-Granddaughter
-
-On March 13th, 2026, the Russian Ministry of Justice added five individuals to its register of foreign agents, including Nina Lvovna Khrushchev, a great-granddaughter of former leader Nikita Khrushchev. This designation comes amid accusations against them for spreading disinformation about the Russian authorities and opposing the Special Military Operation (SVO). The new entries signal ongoing intensification in the Kremlin's crackdown on dissent and foreign influence, reflecting the state's heightened scrutiny of individuals perceived as threats to its political narrative. [2]
-
-**COMMENT:** The inclusion of prominent figures like Khrushchev's descendant in the foreign agent list indicates an expanding scope of repression against dissent in Russia, potentially signaling increased state control over civil society and academic discourse amid ongoing political tensions.
-
-**KEYWORD:** #russia; #сво; #про
+**KEYWORD:** #russia; #беспилотник; #бпла
 
 
 
-## Russia's Poverty Rate Declines to 6.7% in 2025
+## Russian Armed Forces Destroy 280 Ukrainian Drones
 
-On March 13th, 2026, Rosstat reported a decline in the number of people living below the subsistence minimum in Russia from 10.4 million in 2024 to 9.8 million in 2025, reflecting a poverty rate of 6.7%, down from 7.1% the previous year. This trend highlights a significant reduction in poverty levels, which saw quarterly variations throughout 2025, with the lowest rate recorded at 4.8% in the fourth quarter. President Putin has set ambitious targets to reduce poverty further, aiming for rates below 7% by 2030 and below 5% by 2036. [3]
+On March 14th, 2026, the Russian Ministry of Defense reported that its air defense systems intercepted and destroyed 280 Ukrainian drones across various regions, including Bryansk, Kaluga, Belgorod, Tver, Smolensk, Kursk, Krasnodar Territory, and Moscow. Notably, 47 of these UAVs were directed towards Moscow itself. [2]
 
-**COMMENT:** The decrease in the poverty rate may bolster the Russian government's domestic support, enhancing stability. However, the reliance on seasonal income fluctuations raises questions about the sustainability of this progress.
+**COMMENT:** The destruction of a significant number of Ukrainian drones indicates a robust capability of Russian air defenses, potentially affecting Ukrainian aerial operations. This incident also underscores ongoing hostilities and the persistent drone warfare characteristic of the current conflict.
 
-**KEYWORD:** #russia; #про
-
-
-
-## Drone Attack in Belgorod Region Results in One Fatality and One Injury
-
-On March 13th, 2026, a drone attack in the Belgorod region of Russia resulted in one civilian death and another injury, according to regional governor Vyacheslav Gladkov. The attacks, attributed to the Armed Forces of Ukraine, involved a UAV detonating on a roadway in Grayvoron, while another individual was injured in Gruzskoye and taken to a local hospital. [4]
-
-**COMMENT:** This incident underscores the increasing use of drone technology in the conflict and may raise tensions between Russia and Ukraine as civilian casualties continue to occur, potentially affecting public sentiment and military strategy on both sides.
-
-**KEYWORD:** #russia; #удар; #сво; #беспилотник; #бпла
+**KEYWORD:** #russia; #вс рф; #министерство обороны; #беспилотник; #бпла; #перехват; #про
 
 
 
-## Fire at Krasnodar Oil Depot Extinguished; Ex-Official Convicted
+## Russian Air Defense Destroys 128 Ukrainian Drones Over Bryansk Region
 
-On March 13th, 2026, a fire at the oil depot in Krasnodar Territory was completely extinguished. In related news, Igor Chuyan, the former head of Rosalkogolregulation, was convicted in absentia for theft and embezzlement of funds from OFC Bank, receiving a 12-year sentence. Chuyan has been on the international wanted list since his arrest in absentia in 2018. [5]
+On March 14th, 2026, Alexander Bogomaz, Governor of the Bryansk region, reported that Russian air defense units destroyed 128 Ukrainian drones over the region. The operation involved the Ministry of Defense’s air defense units, mobile-fire groups from the BARS-Bryansk brigade, and special units of Rosgvardiya. There were no reported casualties or damage. [3]
 
-**COMMENT:** The extinguishing of the fire at the Krasnodar oil depot maintains operational integrity in a key regional facility, while the conviction of Chuyan underscores ongoing efforts to combat corruption within Russian state entities, potentially impacting institutional stability.
+**COMMENT:** The successful interception of 128 drones reflects the ongoing intensity of aerial engagements in the Ukraine conflict and highlights the capabilities of Russian air defense systems in protecting its territory, which may affect future operational decisions by Ukraine.
 
-**KEYWORD:** #russia; #россия; #командование; #корпус; #сво; #про
-
-
-
-## ISS Orbit Raised by 1.1 Kilometers
-
-On March 13th, 2026, the orbit of the International Space Station (ISS) was elevated by 1.1 kilometers, reaching an average altitude of 421.54 kilometers above Earth's surface, according to Roscosmos. This adjustment was made using the cargo ship Progress MS-32, which activated its engines for approximately 634.7 seconds. [6]
-
-**COMMENT:** The successful boost of the ISS orbit reflects ongoing enhancements in space station operations and may influence future missions and satellite placements, indicating Russia's continued commitment to its space program amid international competition.
-
-**KEYWORD:** #russia; #про
+**KEYWORD:** #russia; #пво; #сво; #беспилотник; #бпла
 
 
 
-## Death Toll Rises to Eight in Ukrainian Missile Strike on Bryansk
+## Moscow Reports Downing of 65 Ukrainian Drones Targeting the Capital
 
-On March 13th, 2026, a missile strike by the Armed Forces of Ukraine on Bryansk, using British Storm Shadow missiles, resulted in eight fatalities and 47 injuries. The attack damaged over 70 infrastructure facilities, and a case of terrorism has been opened by the Russian Investigative Committee. Nine of the wounded are receiving treatment in Moscow. [7]
+On March 14th, 2026, Moscow Mayor Sergei Sobyanin announced that emergency services responded to the neutralization of a drone targeting the capital city. This incident follows the prior report of 64 Ukrainian drones having been downed on approach to Moscow, indicating an ongoing aerial threat from Ukraine. [4]
 
-**COMMENT:** This escalation in hostilities could raise tensions between Russia and Ukraine, potentially prompting increased military mobilization and diplomatic responses from both sides as they navigate the implications of this strike.
+**COMMENT:** The continued drone strikes towards Moscow signify an escalation in Ukrainian capabilities and tactics, potentially prompting heightened defensive measures by Russian authorities and influencing the strategic landscape in the region.
 
-**KEYWORD:** #вс россии; #удар; #сво; #про
+**KEYWORD:** #russia; #беспилотник; #бпла
 
 
 
-## Britain and France Summoned After APU Strike on Bryansk
+## Moscow Reports Increased UAV Shootdowns, Total Now 64
 
-On March 13th, 2026, the Armed Forces of Ukraine (APU) launched an attack on Bryansk using British Storm Shadow missiles, resulting in the deaths of seven individuals and injuries to 42 others. The strike caused significant damage to over 70 infrastructure facilities and vehicles, prompting Russian authorities to categorize the incident as a terrorist attack. In response, Russia's Foreign Ministry summoned the ambassadors of Britain and France for consultations regarding their involvement. [8]
+On March 14th, 2026, Moscow Mayor Sergei Sobyanin announced that the number of Ukrainian UAVs shot down while approaching Moscow has risen to 64, following the recent destruction of two additional drones. Emergency services are currently responding to the debris from these incidents. [5]
 
-**COMMENT:** This incident marks an escalation in military hostilities and indicates a potential shift in the regional security dynamics, particularly in the context of foreign support for Ukraine. The summoning of British and French ambassadors suggests growing diplomatic tensions as Russia seeks to address perceived violations of its sovereignty.
+**COMMENT:** The increased number of UAVs intercepted indicates a sustained Ukrainian effort to conduct drone attacks against Russian urban centers, potentially escalating the conflict and prompting heightened security measures in the capital region.
 
-**KEYWORD:** #вс россии; #удар; #сво; #про
+**KEYWORD:** #russia; #беспилотник; #бпла
+
+
+
+## Moscow Downed 15 More UAVs on March 14th
+
+On March 14th, 2026, Moscow Mayor Sergey Sobyanin reported that 15 additional unmanned aerial vehicles (UAVs) were destroyed while approaching the capital, increasing the total number downed for the day to 62. Emergency services are currently on site dealing with the wreckage. [6]
+
+**COMMENT:** The ongoing destruction of UAVs targeting Moscow indicates persistent aerial threats, likely from adversarial forces aiming to challenge Russian air defenses. This situation may escalate tensions and provoke retaliatory actions.
+
+**KEYWORD:** #russia; #беспилотник; #бпла
+
+
+
+## Power Outages Reported in Zaporozhye Region
+
+On March 14th, 2026, power supply was disrupted in three municipal districts of the Zaporizhia region, affecting approximately 10,000 subscribers in the Vasilievsky district along with parts of the Kuibyshevsky and Mikhailovsky districts. Governor Yevgeny Balitsky announced the outages via his Telegram channel, but did not specify reasons for the shutdowns or the number of affected households in the other municipalities. He indicated that restoration efforts would commence once the operational environment permits. [7]
+
+**COMMENT:** The disruption of power in this region could be indicative of ongoing infrastructure vulnerabilities, which may complicate military logistics and civilian morale in the context of the broader conflict. The situation warrants monitoring, as it may reflect the impact of ongoing military activities in the area.
+
+**KEYWORD:** #russia; #сво
+
+
+
+## Temporary Flight Restrictions Imposed at Krasnodar Airport
+
+On March 14th, 2026, temporary restrictions on the reception and release of aircraft were implemented at Krasnodar Airport (Pashkovsky) according to the Rosaviatsia press service. The measures are aimed at ensuring flight safety. Krasnodar Airport had resumed operations in September 2025 after being closed for over three years. [8]
+
+**COMMENT:** The imposition of flight restrictions at Krasnodar Airport could signify ongoing safety concerns or preparations related to increased air operations, potentially impacting regional air traffic and military logistics.
+
+**KEYWORD:** #russia; #пуск
+
+
+
+## Russian Air Defense Intercepts 280 Ukrainian Drones in One Day
+
+On October 21st, 2023, Russian air defense units reported the destruction of 280 Ukrainian drones across several regions, including Bryansk, Kaluga, and Moscow. Governor Alexander Bogomaz stated that 128 drones were specifically intercepted in the Bryansk region without any casualties or damage. Additionally, four civilians were reported injured in the Belgorod region due to a separate drone attack. [9]
+
+**COMMENT:** The successful interception of a significant number of UAVs indicates an increasing emphasis on air defense capabilities by Russia, particularly in border areas. This may heighten tensions in the region, as ongoing drone warfare continues to impact civilian areas and provoke retaliatory actions.
+
+**KEYWORD:** #российские; #минобороны рф; #минобороны россии; #российские военные; #минобороны; #министерство обороны; #пво; #удар; #сво; #беспилотник; #бпла; #перехват; #про
+
+
+
+## Russian Air Defense Destroys 128 Ukrainian Drones Over Bryansk Region
+
+On March 14th, 2026, Alexander Bogomaz, Governor of the Bryansk region, announced that Russian air defense units, alongside the BARS-Bryansk brigade and GRU special units, successfully detected and destroyed 128 Ukrainian UAVs over the region. Notably, there were no casualties or damage reported during the incident. [10]
+
+**COMMENT:** The destruction of a significant number of drones suggests ongoing aerial hostilities and the effectiveness of Russian air defense capabilities. This development may influence operational strategies in the region and elevate tensions in the Russia-Ukraine conflict.
+
+**KEYWORD:** #russia; #пво; #сво; #беспилотник; #бпла
+
+
+
+## Russian Armed Forces Destroy 280 Ukrainian Drones on March 14th
+
+On March 14th, 2026, Russian air defense systems intercepted and neutralized 280 Ukrainian drones across several regions, including Bryansk, Kaluga, Belgorod, Tver, Smolensk, Kursk, Krasnodar Territory, and the Moscow region. Notably, 47 of these drones were reported heading towards Moscow, underscoring the persistent threat presented by Ukrainian UAV capabilities. [11]
+
+**COMMENT:** The significant scale of intercepted drones indicates ongoing hostilities and the effectiveness of Russian air defenses. This development may influence operational planning on both sides as tensions remain high in the region.
+
+**KEYWORD:** #russia; #вс рф; #министерство обороны; #беспилотник; #бпла; #перехват; #про
+
+
+
+## Ukrainian Drone Attack Injures Four Women in Belgorod Region
+
+On March 14th, 2026, four civilians were injured in a drone attack conducted by Ukraine in the Belgorod region of Russia, specifically targeting a commercial facility in Shebekino. The regional governor, Vyacheslav Gladkov, reported that the victims sustained barotraumas and were receiving outpatient treatment. Damage from the attack included broken windows, a damaged roof, and destruction of nearby vehicles and infrastructure. [12]
+
+**COMMENT:** This incident underscores the ongoing conflict dynamics between Ukraine and Russia, with cross-border drone strikes demonstrating an escalation in hostilities and potential implications for civilian safety and regional security.
+
+**KEYWORD:** #russia; #корпус; #удар; #сво; #беспилотник; #про
+
+
+
+## 47 Drones Shot Down Approaching Moscow
+
+On March 14th, 2026, Mayor Sergey Sobyanin announced that a total of 47 drones were shot down while approaching Moscow. This included 15 additional drones destroyed later in the day. Emergency services are currently responding to incidents involving debris from the downed UAVs. [13]
+
+**COMMENT:** The interception of these drones highlights ongoing security concerns in Moscow and suggests potential operational preparations or escalations in drone capabilities by adversaries. The incident may prompt further military and civil defense measures in the region.
+
+**KEYWORD:** #russia; #сво; #беспилотник; #бпла
+
+
+
+## Russian Armed Forces Deliver Significant Strike on Ukrainian Military-Industrial Complex
+
+On March 14th, 2026, the Russian Armed Forces conducted a major attack on Ukrainian military-industrial complex facilities, significantly impacting Ukraine's defense capabilities amidst ongoing hostilities. [14]
+
+**COMMENT:** This development underscores the persistent military pressures faced by Ukraine, potentially hindering its logistical and operational capacities in the ongoing conflict.
+
+**KEYWORD:** #вс россии; #удар
 
 
 
 ## Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1077728?utm_source=top
-[2] interfax.ru - https://interfax.ru/russia/1077735?utm_source=top
-[3] interfax.ru - https://interfax.ru/russia/1077767?utm_source=top
-[4] interfax.ru - https://interfax.ru/russia/1077791
-[5] interfax.ru - https://interfax.ru/russia/1077779
-[6] interfax.ru - https://interfax.ru/russia/1077784
-[7] ria.ru - https://ria.ru/20260313/bryansk-2080566769.html
-[8] ria.ru - https://ria.ru/20260313/mid-2080520165.html
+[1] interfax.ru - https://interfax.ru/russia/1077909?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1077901?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1077903?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1077909
+[5] interfax.ru - https://interfax.ru/russia/1077908
+[6] interfax.ru - https://interfax.ru/russia/1077907
+[7] interfax.ru - https://interfax.ru/russia/1077906
+[8] interfax.ru - https://interfax.ru/russia/1077904
+[9] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[10] interfax.ru - https://interfax.ru/russia/1077903
+[11] interfax.ru - https://interfax.ru/russia/1077901
+[12] interfax.ru - https://interfax.ru/russia/1077900
+[13] interfax.ru - https://interfax.ru/russia/1077898
+[14] ria.ru - https://ria.ru/20260314/svo-2080650423.html

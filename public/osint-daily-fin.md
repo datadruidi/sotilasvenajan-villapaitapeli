@@ -1,97 +1,163 @@
-# 2026-03-13
+# 2026-03-14
 
 ## Tiivistelma
 
-Tarkastelujaksolla merkittävät sotilaalliset vihollisuudet kärjistivät, kun Ukraina suoritti ohjushyökkäyksen Bryanskissa, mikä johti useisiin kuolemaan ja sai Venäjän kutsumaan Britannian ja Ranskan suurlähettiläät heidän väitetyn osallisuutensa vuoksi. Lisäksi Venäjän oikeusministeriö rekisteröi uusia ulkomaisia agenteja, mikä heijastaa jatkuvaa sortoa koettuja dissenssia vastaan, samalla kun kotimaiset olot osoittivat sekavaa viestintää, jossa raportoitiin köyhyyden laskusta laajemmissa poliittisissa jännitteissä. Dronehyökkäysten ja väkivaltatapauksien jatkuvuus vahvistaa konfliktin narratiivia, mikä viittaa lisähaasteisiin alueelliselle turvallisuudelle ja diplomaattisille suhteille.
+Tarkastelujaksolla tapahtui merkittäviä ilmasodankäynnin toimenpiteitä, kun Venäjän ilma puolustusjärjestelmät saavuttivat yhteensä 280 Ukrainan dronea eri alueilla, mukaan lukien huomattava määrä, joka suuntautui Moskovaan. Jatkuvat dronehyökkäykset ja keskeytykset viittaavat konfliktin dynamiikan eskaloitumiseen, kun molemmat osapuolet parantavat ilmavoimiaan, mikä vaikuttaa siviilien turvallisuuteen ja strategisiin sotilaallisiin operaatioihin. Lisäksi infrastruktuuriin liittyvät ongelmat, kuten sähkökatkot Zaporižžjan alueella, vaikeuttavat edelleen operatiivista ympäristöä näiden sotilaallisten sitoumusten keskellä.
 
 
-## Venäjä Kutsuu UK:n ja Ranskan Suurlähettiläät APU:n Hyökkäyksen Vuoksi Bryanskissa
+## Moskovassa kaapattiin 65 Ukrainan dronea, jotka suuntasivat pääkaupunkiin
 
-Maaliskuun 13. päivänä 2026 Britannian ja Ranskan suurlähettiläät kutsuttiin Venäjän ulkoministeriöön sen jälkeen, kun Ukrainan asevoimat (APU) hyökkäsi Bryanskiin ohjusiskulla, joka tapahtui maaliskuun 10. päivänä. Venäjä ilmaisi voimakasta protestia brittien ja ranskalaisten sotilasteknologian osallisuudesta tähän hyökkäykseen, joka raportoidusti johti seitsemään kuolemaan ja yli neljäänkymmeneen loukkaantumiseen, syyttäen näitä maita suorasta osallisuudesta. [1]
+Maaliskuun 14. päivänä 2026 Moskova pormestari Sergei Sobyanin raportoi 65 Ukrainan dronea, jotka olivat matkalla pääkaupunkiin, kaadetuista. Pelastustyöt hoitaa tällä hetkellä hätäpalvelut, jotka toimeenpanevat kaatuneiden romujen keräämistä aiemman raportin perusteella, jonka mukaan 64 dronea keskeytettiin. [1]
 
-**COMMENT:** Tämä tapaus korostaa kasvavia jännitteitä Venäjän ja läntisten maiden välillä, erityisesti Ukrainan sotilaallisen tuen osalta. Kremlin reaktio heijastaa strategista yritystä syyttää ja kerätä kotimaista tukea jatkuvassa konfliktissa.
+**COMMENT:** Jatkuva Moskova kohteena Ukrainan droneilta viittaa rajat ylittävän konfliktin dynamiikan eskaloitumiseen, mikä voi johtaa lisäturvatoimiin ja sotilaallisiin vastatoimiin Venäjältä.
 
-**KEYWORD:** #russia; #удар; #про
-
-
-
-## Venäjän Oikeusministeriö Rekisteröi Viisi Uutta Ulkomaista Agenteja, Mukana Khrushchevin Punttisuku
-
-Maaliskuun 13. päivänä 2026 Venäjän oikeusministeriö lisäsi viisi henkilöä ulkomaisten agenttien rekisteriinsä, mukaan lukien Nina Lvovna Khrushchev, entisen johtaja Nikita Khrushchevin jälkeläinen. Tämä nimitys tulee syytösten myötä, joiden mukaan he levittivät väärää tietoa Venäjän viranomaisista ja vastustivat Erityistä Sotilaallista Operaatiota (SVO). Uudet merkinnät viittaavat Kremlissä jatkuvaan dissenssin ja ulkomaisen vaikutuksen tukahduttamiseen, heijastaen valtion tiukempaa valvontaa henkilöitä kohtaan, joita pidetään uhkina sen poliittiselle narratiiville. [2]
-
-**COMMENT:** Merkittävien henkilöiden, kuten Khrushchevin jälkeläisen, sisällyttäminen ulkomaisten agenttien listalle osoittaa sortotoiminnan laajentuvan Venäjällä, mikä voi viitata lisääntyneeseen valtion kontrolliin kansalaisjärjestöjen ja akateemisen keskustelun yli jatkuvien poliittisten jännitteiden myötä.
-
-**KEYWORD:** #russia; #сво; #про
+**KEYWORD:** #russia; #беспилотник; #бпла
 
 
 
-## Venäjän Köyhyysaste Laskenut 6,7%:iin Vuonna 2025
+## Venäjän asevoimat tuhosivat 280 Ukrainan dronea
 
-Maaliskuun 13. päivänä 2026 Rosstat raportoi, että köyhyysrajan alapuolella elävien ihmisten määrä Venäjällä laski 10,4 miljoonasta vuonna 2024 9,8 miljoonaan vuonna 2025, mikä heijastaa 6,7%:n köyhyysastetta, joka laski edelliseltä vuodelta 7,1%:iin. Tämä suuntaus korostaa merkittävää köyhyyden vähenemistä, joka koki kvartaaliin liittyviä vaihteluja vuoden 2025 aikana, jossa alin korkeus rekisteröitiin 4,8%:ksi neljännessä vuosineljänneksessä. Presidentti Putinin asettamat kunnianhimoiset tavoitteet köyhyyden vähentämiseksi ovat alle 7% vuoteen 2030 mennessä ja alle 5% vuoteen 2036 mennessä. [3]
+Maaliskuun 14. päivänä 2026 Venäjän puolustusministeriö ilmoitti, että sen ilmapuolustusjärjestelmät kaappasivat ja tuhosivat 280 Ukrainan dronea useilla alueilla, mukaan lukien Bryansk, Kaluga, Belgorod, Tver, Smolensk, Kursk, Krasnodar alue ja Moskova. Erityisesti 47 näistä UAV:ista oli suunnattu Moskovaan. [2]
 
-**COMMENT:** Köyhyysasteen lasku voi vahvistaa Venäjän hallituksen kotimaista tukea, parantaen vakautta. Kuitenkin riippuvuus kausittaisista tulovaihteluista herättää kysymyksiä tämän edistyksen kestävyydestä.
+**COMMENT:** Merkittävän määrän Ukrainan dronejen tuhoaminen osoittaa Venäjän ilmapuolustuksen vahvan kyvyn, mikä voi vaikuttaa Ukrainan ilmatyöskentelyyn. Tämä tapaus korostaa myös jatkuvia vihamielisyyksiä ja drone-sotaa, joka on tyypillistä nykyiselle konfliktille.
 
-**KEYWORD:** #russia; #про
-
-
-
-## Dronehyökkäys Belgorodin Alueella Johtaa Yhden Kuolemaan ja Yhden Loukkaantumiseen
-
-Maaliskuun 13. päivänä 2026 dronehyökkäys Venäjän Belgorodin alueella johti yhteen siviiliin kuolemaan ja toiseen loukkaantumiseen, alueen kuvernööri Vyacheslav Gladkovin mukaan. Hyökkäykset, jotka on liitetty Ukrainan asevoimiin, sisälsivät UAV:n räjähtämisen tiellä Grayvoronissa, kun taas toinen henkilö loukkaantui Gruzskoyessa ja vietiin paikalliseen sairaalaan. [4]
-
-**COMMENT:** Tämä tapahtuma korostaa dronetechnologian lisääntyvän käytön konfliktissa ja saattaa nostaa jännitteitä Venäjän ja Ukrainan välillä, kun siviiliuhreja jatkuu, mikä voi vaikuttaa yleiseen mielipiteeseen ja sotastrategiaan kummallakin puolella.
-
-**KEYWORD:** #russia; #удар; #сво; #беспилотник; #бпла
+**KEYWORD:** #russia; #вс рф; #министерство обороны; #беспилотник; #бпла; #перехват; #про
 
 
 
-## Tulipalo Krasnodarin Öljyterminaalissa Sammutettu; Entinen Viranomainen Tuomittu
+## Venäjän ilmapuolustus tuhosi 128 Ukrainan dronea Bryanskin alueella
 
-Maaliskuun 13. päivänä 2026 tulipalo Krasnodarin alueen öljyterminaalissa sammutettiin kokonaan. Liittyen tähän, Igor Chuyan, entinen Rosalkogolregulationin johtaja, tuomittiin poissaolevana varastamisesta ja OFC-pankin varojen kavaltamisesta, saaden 12 vuoden tuomion. Chuyan on ollut kansainvälisessä etsintälistassa vuodesta 2018, kun hänet pidätettiin poissaolevana. [5]
+Maaliskuun 14. päivänä 2026 Alexander Bogomaz, Bryanskin alueen kuvernööri, raportoi, että Venäjän ilmapuolustusyksiköt tuhosivat 128 Ukrainan dronea alueen yllä. Operaatioon osallistuivat puolustusministeriön ilmapuolustusyksiköt, BARS-Bryanskin prikaatin mobile-fire-ryhmät sekä Rosgvardiyan erikoisyksiköt. Uhri- tai vahinkotilastoja ei raportoitu. [3]
 
-**COMMENT:** Tulipalon sammutus Krasnodarin öljyterminaalissa ylläpitää toiminnallista eheyttä tärkeässä alueellisessa laitoksessa, kun taas Chuyanin tuomio korostaa jatkuvia ponnisteluja korruption torjumiseksi Venäjän valtion elimissä, mikä voi vaikuttaa institutionaaliseen vakauteen.
+**COMMENT:** 128 dronea onnistunut keskeyttäminen heijastaa jatkuvan ilmasta käsin tapahtuvan väkivallan intensiivisyyttä Ukrainassa ja korostaa Venäjän ilmapuolustusjärjestelmien kykyjä suojella sen alueita, mikä voi vaikuttaa Ukrainan tuleviin operatiivisiin päätöksiin.
 
-**KEYWORD:** #russia; #россия; #командование; #корпус; #сво; #про
-
-
-
-## ISS:n Korkeus Nostettu 1,1 Kilometriä
-
-Maaliskuun 13. päivänä 2026 Kansainvälisen avaruusaseman (ISS) korkeus nostettiin 1,1 kilometrillä, saavuttaen keskimääräisen korkeuden 421,54 kilometrin korkeudella maapallon pinnasta, Roscosmoksen mukaan. Tämä säätö tehtiin Progress MS-32 -konteilla, joka aktivoi moottorinsa noin 634,7 sekuntia. [6]
-
-**COMMENT:** ISS:n radan onnistunut nostaminen heijastaa jatkuvia parannuksia avaruusasematoiminnoissa ja voi vaikuttaa tuleviin tehtäviin ja satelliittien sijoitteluun, mikä osoittaa Venäjän jatkuvaa sitoutumista avaruusohjelmaansa kansainvälisessä kilpailussa.
-
-**KEYWORD:** #russia; #про
+**KEYWORD:** #russia; #пво; #сво; #беспилотник; #бпла
 
 
 
-## Kuolleiden Määrä Nousi Kahdeksaan Ukrainalaisten Ohjushyökkäyksessä Bryanskissa
+## Moskova raportoi 65 Ukrainan dronea kaataneista
 
-Maaliskuun 13. päivänä 2026 Ukrainalaisten asevoimien (APU) ohjushyökkäys Bryanskiin, jossa käytettiin brittiläisiä Storm Shadow -ohjuksia, johti kahdeksaan kuolemaan ja 47 loukkaantumiseen. Hyökkäys vahingoitti yli 70 infrastruktuurilaitosta, ja Venäjän tutkintakomitea on avannut terrorismitapauksen. Yhdeksän loukkaantunutta saa hoitoa Moskovassa. [7]
+Maaliskuun 14. päivänä 2026 Moskova pormestari Sergei Sobyanin ilmoitti, että hätäpalvelut reagoi droneen, joka kohdistui pääkaupunkiin. Tämä tapahtuma seuraa aiempaa raporttia, jonka mukaan 64 Ukrainan dronea kaadettiin Moskovaan lähestyessään, mikä viittaa jatkuvaan ilmauhkaukseen Ukrainasta. [4]
 
-**COMMENT:** Tämä vihollisuuksien kärjistyminen voi nostaa jännitteitä Venäjän ja Ukrainan välillä, mikä voi johtaa lisääntyneeseen sotilaalliseen mobilisaatioon ja diplomaattisiin vastauksiin kummaltakin puolelta, kun he käsittelevät tämän hyökkäyksen seurauksia.
+**COMMENT:** Jatkuvat dronehyökkäykset Moskova kohti tarkoittavat Ukrainan kykyjen ja taktiikoiden eskaloitumista, mikä voi johtaa Venäjän viranomaisten tehostettuihin puolustustoimiin ja vaikuttaa alueen strategiseen maisemaan.
 
-**KEYWORD:** #вс россии; #удар; #сво; #про
+**KEYWORD:** #russia; #беспилотник; #бпла
 
 
 
-## Britannia ja Ranska Kutsuttiin APU:n Hyökkäyksen Jälkeen Bryanskissa
+## Moskovassa raportoi lisääntyneistä UAV-tuhoutumisista, nyt yhteensä 64
 
-Maaliskuun 13. päivänä 2026 Ukrainan asevoimat (APU) hyökkäsivät Bryanskiin käyttäen brittiläisiä Storm Shadow -ohjuksia, mikä johti seitsemän henkilön kuolemaan ja 42 muun loukkaantumiseen. Hyökkäys aiheutti merkittävää vahinkoa yli 70 infrastruktuurilaitokselle ja ajoneuvoille, mikä sai Venäjän viranomaiset luokittelemaan tapahtuman terrorismihyökkäykseksi. Vastauksena Venäjän ulkoministeriö kutsui Britannian ja Ranskan suurlähettiläät neuvotteluihin heidän osallisuudestaan. [8]
+Maaliskuun 14. päivänä 2026 Moskova pormestari Sergei Sobyanin ilmoitti, että Ukrainan UAV:ien lukumäärä, joka on kaadettu Moskovaa lähestyessään, on noussut 64:ään aiemmin tuhottujen kahden dronen jälkeen. Hätäpalvelut reagoivat parhaillaan näiden tapahtumien romujen kanssa. [5]
 
-**COMMENT:** Tämä tapaus merkitsee kärjistymistä sotilaallisessa vihollisuudessa ja osoittaa mahdollisen muutoksen alueellisen turvallisuuden dynamiikassa, erityisesti ulkomaisen tuen kontekstissa Ukrainalle. Britannian ja Ranskan suurlähettiläiden kutsuminen viittaa kasvaviin diplomaattisiin jännitteisiin, kun Venäjä pyrkii käsittelemään havaittuja suvereniteettihäiriöitä.
+**COMMENT:** UAV:ien lisääntyneet keskeyttämiset viittaavat siihen, että Ukraina jatkaa dronehyökkäyksiä Venäjän kaupunkiin, mikä voi nostaa konflikti-intensiivisyyttä ja saa aikaan lisäturvatoimia pääkaupunkiseudulla.
 
-**KEYWORD:** #вс россии; #удар; #сво; #про
+**KEYWORD:** #russia; #беспилотник; #бпла
+
+
+
+## Moskovassa kaadettiin 15 lisää UAV:ta maaliskuun 14. päivänä
+
+Maaliskuun 14. päivänä 2026 Moskova pormestari Sergei Sobyanin raportoi, että 15 lisää miehittämätöntä ilma-alusta (UAV) tuhoutui, kun ne lähestyivät pääkaupunkia, mikä nosti päivän kaatuneiden kokonaismäärän 62:een. Hätäpalvelut ovat parhaillaan paikalla hoitamassa romuja. [6]
+
+**COMMENT:** Jatkuva tiettyjen UAV:ien tuhoaminen, jotka kohdistuvat Moskovaan, viittaa jatkuviin ilmauhkauksiin, todennäköisesti vihamielisiltä osastoilta, jotka yrittävät haastaa Venäjän ilmapuolustuksen. Tämä tilanne voi nostaa jännitteitä ja provosoida vastatoimia.
+
+**KEYWORD:** #russia; #беспилотник; #бпла
+
+
+
+## Sähköt katkeavat Zaporižžjan alueella
+
+Maaliskuun 14. päivänä 2026 sähkösyössä tapahtui häiriöitä kolmeen kunnalliseen alueeseen Zaporižžjan alueella, vaikuttaen noin 10 000 asiakasta Vasilievskin alueella sekä osittain Kuibyshevskin ja Mikhailovskin alueilla. Kuvernööri Jevgeni Balitski ilmoitti katkoista Telegram-kanavallaan, mutta ei tarkentanut sulkemisen syitä tai muita kunnallisia talouksia. Hän ilmoitti, että palautustyöt alkavat heti, kun operatiivinen ympäristö sallii. [7]
+
+**COMMENT:** Sähkön katkaisu tässä alueessa voi viitata jatkuviin infrastruktuurihaavoittuvuuksiin, jotka voivat vaikeuttaa sotilastoimintaa ja heikentää siviilien moraalia laajemman konfliktin kontekstissa. Tilannetta on syytä seurata, sillä se voi heijastaa käynnissä olevien sotilaallisten toimintojen vaikutuksia alueella.
+
+**KEYWORD:** #russia; #сво
+
+
+
+## Väliaikaiset lentorajoitukset Krasnodarin lentokentällä
+
+Maaliskuun 14. päivänä 2026 Krasnodarin lentokentällä (Pashkovsky) toteutettiin väliaikaisia rajoituksia lentokoneiden vastaanottamiselle ja vapauttamiselle Rosaviatsian lehdistötiedotteen mukaan. Toimenpiteet tähtäävät lentoturvallisuuden varmistamiseen. Krasnodarin lentokenttä aloitti toimintansa uudelleen syyskuussa 2025 sen ollessa suljettuna yli kolme vuotta. [8]
+
+**COMMENT:** Lentorajoitusten asettaminen Krasnodarin lentokentällä voi tarkoittaa jatkuvia turvallisuushuolia tai valmisteluja, jotka liittyvät lisääntyneisiin ilmailutoimiin, mikä voi vaikuttaa alueelliseen lentoliikenteeseen ja sotilaallisiin logistisiin rakenteisiin.
+
+**KEYWORD:** #russia; #пуск
+
+
+
+## Venäjän ilmapuolustus keskeytti 280 Ukrainan dronea yhdessä päivässä
+
+Maaliskuun 21. päivänä 2023 Venäjän ilmapuolustusyksiköt raportoivat 280 Ukrainan dronea tuhotuiksi useilla alueilla, mukaan lukien Bryansk, Kaluga ja Moskova. Kuvernööri Alexander Bogomaz ilmoitti 128 dronea keskeytetyiksi erityisesti Bryanskin alueella ilman että uhreja tai vahinkoja raportoitiin. Lisäksi Belgorod alueella raportoitiin neljän siviilin kärsineen erillisessä dronehyökkäyksessä. [9]
+
+**COMMENT:** Merkittävän määrän UAV:ien onnistunut keskeyttäminen viittaa Venäjän lisääntyvään painotukseen ilmapuolustuskytkeytymistä, erityisesti rajaseuduilla. Tämä voi nostaa jännitteitä alueella, kun jatkuva drone-sota vaikuttaa siviilialueisiin ja provosoi vastatoimia.
+
+**KEYWORD:** #российские; #минобороны рф; #минобороны россии; #российские военные; #минобороны; #министерство обороны; #пво; #удар; #сво; #беспилотник; #бпла; #перехват; #про
+
+
+
+## Venäjän ilmapuolustus tuhoaa 128 Ukrainan dronea Bryanskin alueella
+
+Maaliskuun 14. päivänä 2026 Alexander Bogomaz, Bryanskin alueen kuvernööri, ilmoitti, että Venäjän ilmapuolustusyksiköt, yhdessä BARS-Bryanskin prikaatin ja GRU:n erikoisyksiköiden kanssa, havaitsivat ja tuhosivat onnistuneesti 128 Ukrainan UAV:ta alueella. Muun muassa kenenkään vahingoista tai tuhoista ei raportoitu. [10]
+
+**COMMENT:** Merkittävän määrän dronejen tuhoaminen viittaa jatkuviin ilmasodankäynnin toimenpiteisiin ja Venäjän ilmapuolustuksen kykyjen tehokkuuteen. Tämä kehitys voi vaikuttaa operatiivisiin strategioihin alueella ja nostaa jännitteitä Venäjän ja Ukrainan konfliktissa.
+
+**KEYWORD:** #russia; #пво; #сво; #беспилотник; #бпла
+
+
+
+## Venäjän asevoimat tuhoavat 280 Ukrainan dronea maaliskuun 14. päivänä
+
+Maaliskuun 14. päivänä 2026 Venäjän ilmapuolustusjärjestelmät keskeyttivät ja neutralisoivat 280 Ukrainan dronea useilla alueilla, mukaan lukien Bryansk, Kaluga, Belgorod, Tver, Smolensk, Kursk, Krasnodar alue ja Moskovan alue. Erityisesti 47 näistä droneista raportoitiin suuntautuvan Moskovaan, mikä korostaa Ukrainalaisten UAV:ien jatkuvaa uhkaa. [11]
+
+**COMMENT:** Keskeytettyjen dronejen mittakaava viittaa jatkuviin sotilaallisiin uhkiin ja Venäjän ilmapuolustuksen tehokkuuteen. Tämä kehitys voi vaikuttaa operatiiviseen suunnitteluun molemmilla puolilla, kun jännitteet säilyvät korkeina alueella.
+
+**KEYWORD:** #russia; #вс рф; #министерство обороны; #беспилотник; #бпла; #перехват; #про
+
+
+
+## Ukrainan dronehyökkäys vahingoittaa neljää naista Belgorodin alueella
+
+Maaliskuun 14. päivänä 2026 neljä siviiliä vahingoittui Ukrainan dronehyökkäyksessä Venäjän Belgorodin alueella, joka kohdistui erityisesti kaupalliseen tilaan Shebekinossa. Alueen kuvernööri Vyacheslav Gladkov raportoi, että uhrit kärsivät barotraumoista ja saavat avovastaanottokäsittelyä. Hyökkäyksen aiheuttama vahinko sisältää rikotut ikkunat, vaurioituneen katon sekä tuhoutuneet lähellä olevat ajoneuvot ja infrastruktuurin. [12]
+
+**COMMENT:** Tämä tapaus korostaa jatkuvia konfliktidynamiikkoja Ukrainan ja Venäjän välillä, kun rajat ylittävät dronehyökkäykset osoittavat vihamielisyyksien eskaloituvan ja mahdollisten siviilien turvallisuuteen ja alueellisiin turvallisuuspulmakohtiin vaikuttavan.
+
+**KEYWORD:** #russia; #корпус; #удар; #сво; #беспилотник; #про
+
+
+
+## 47 dronea kaadettiin Moskovaa lähestyessään
+
+Maaliskuun 14. päivänä 2026 pormestari Sergey Sobyanin ilmoitti, että yhteensä 47 dronea kaadettiin, kun ne lähestyivät Moskovaa. Tämä sisälsi 15 muuta dronetta, jotka tuhottiin myöhemmin päivällä. Hätäpalvelut ovat parhaillaan reagoimassa romuttuneiden UAV:ien onnettomuuksiin. [13]
+
+**COMMENT:** Näiden dronejen keskeyttäminen korostaa Moskovassa jatkuvia turvallisuushuolia ja viittaa mahdollisiin operatiivisiin valmiuksiin tai drone-kykyjen eskaloitumiseen vihollisilta. Tapaus voi johtaa lisääntyneisiin sotilaallisiin ja siviilipuolustus toimiin alueella.
+
+**KEYWORD:** #russia; #сво; #беспилотник; #бпла
+
+
+
+## Venäjän asevoimat iskevät merkittävästi Ukrainan sotilas-teollisuuden kompleksiin
+
+Maaliskuun 14. päivänä 2026 Venäjän asevoimat suorittivat suuren hyökkäyksen Ukrainan sotilas-teollisuuden kompleksin laitoksiin, vaikuttaen merkittävästi Ukrainan puolustuskykyihin jatkuvien vihamielisyyksien keskellä. [14]
+
+**COMMENT:** Tämä kehitys korostaa Ukrainan jatkuvaa sota- ja sotilaallista painetta, mikä voi heikentää sen logistisia ja operatiivisia kykyjä jatkuvassa konfliktissa.
+
+**KEYWORD:** #вс россии; #удар
 
 
 
 ## Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1077728?utm_source=top
-[2] interfax.ru - https://interfax.ru/russia/1077735?utm_source=top
-[3] interfax.ru - https://interfax.ru/russia/1077767?utm_source=top
-[4] interfax.ru - https://interfax.ru/russia/1077791
-[5] interfax.ru - https://interfax.ru/russia/1077779
-[6] interfax.ru - https://interfax.ru/russia/1077784
-[7] ria.ru - https://ria.ru/20260313/bryansk-2080566769.html
-[8] ria.ru - https://ria.ru/20260313/mid-2080520165.html
+[1] interfax.ru - https://interfax.ru/russia/1077909?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1077901?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1077903?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1077909
+[5] interfax.ru - https://interfax.ru/russia/1077908
+[6] interfax.ru - https://interfax.ru/russia/1077907
+[7] interfax.ru - https://interfax.ru/russia/1077906
+[8] interfax.ru - https://interfax.ru/russia/1077904
+[9] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[10] interfax.ru - https://interfax.ru/russia/1077903
+[11] interfax.ru - https://interfax.ru/russia/1077901
+[12] interfax.ru - https://interfax.ru/russia/1077900
+[13] interfax.ru - https://interfax.ru/russia/1077898
+[14] ria.ru - https://ria.ru/20260314/svo-2080650423.html
