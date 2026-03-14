@@ -330,106 +330,734 @@ S-400 Triumf SAM.png — Caption: "A TEL of a S-400 Triumf during a Victory Day 
 
 
 
-#### **2.2.3. Venäjän maavoimat / Russian Ground Forces (SV)**
+#### **2.2.3. Maavoimat**
 
-##### 9K720 Iskander
-9K720 Iskander (SS-26 Stone) (27102990117).jpg — Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin from Moscow, Russia | Source: https://commons.wikimedia.org/wiki/File:9K720_Iskander_(SS-26_Stone)_(27102990117).jpg
- | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
- | Changes: Resized for in-app display | Created: 6 May 2018, 08:18 | Uploaded: 
 
-9K720 Iskander (SS-26 Stone) (41253217174).jpg — Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin from Moscow, Russia | Source: https://commons.wikimedia.org/wiki/File:9K720_Iskander_(SS-26_Stone)_(41253217174).jpg
- | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
- | Changes: Resized for in-app display | Created: 6 May 2018, 07:48 | Uploaded: 
+##### taisteluajoneuvot
 
-##### 2S19 Msta-S
-2s19 msta-s.jpg — Caption: "152-mm self-propelled howitzer 2S19 «Msta-S» in Saint-Petersburg Artillery museum" | Author: One half 3544 | Source: https://commons.wikimedia.org/wiki/File:2s19_msta-s.jpg
- | License: Public Domain (released by copyright holder) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
- | Changes: Resized for in-app display | Created: 6 May 2007 | Uploaded: 
+###### BMO-T
 
-2S19 Msta-S 2.jpg — Caption: "2S19 Msta-S" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:2S19_Msta-S_2.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 22 August 2008, 00:05:23 | Uploaded: 19 April 2013
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmo-t/bmo-t-01.png`
 
-##### BM-21 Grad
-1 multiple rocket launcher BM-21 Grad.JPG — Caption: "Russia, transporting multiple rocket launcher BM-21 Grad by railroad" | Author: Sergeev Pavel | Source: https://commons.wikimedia.org/wiki/File:1_multiple_rocket_launcher_BM-21_Grad.JPG
- | License: Public Domain (released by copyright holder) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
- | Changes: Resized for in-app display | Created: 2010 | Uploaded: 27 June 2010
+Heavy flamethrower personnel carrier BMO-T (1).jpg â€” Caption: "Heavy flamethrower personnel carrier BMO-T during exercises of radiological, chemical and biological defense troops" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Heavy_flamethrower_personnel_carrier_BMO-T_(1).jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 9 November 2011 | Uploaded: see file page
 
-2 multiple rocket launcher BM-21 Grad.jpg — Caption: "Russia, transporting multiple rocket launcher BM-21 Grad by railroad" | Author: Sergeev Pavel | Source: https://commons.wikimedia.org/wiki/File:2_multiple_rocket_launcher_BM-21_Grad.jpg
- | License: Public Domain (released by copyright holder) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
- | Changes: Resized for in-app display | Created: 2010 | Uploaded: 27 June 2010
 
-##### BM-30 Smerch
-Army2016demo-070.jpg — Caption: "BM-30 Smerch (9A52) at ARMY-2016 (demo)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-070.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created:  | Uploaded: 
+### BMP-1
 
-BM-30 Smerch ARMY-2018.jpg — Caption: "9A52-2 launcher and 9T234-2 transporter-loader of 9K58 / BM-30 Smerch MLRS, International Miltary-Technical Forum ARMY-2018, Alabino, Moscow region, Russia" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:BM-30_Smerch_ARMY-2018.jpg
- | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 22 August 2018 | Uploaded: 
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-1/bmp-1-01.png`
 
-##### BMP-2
-BMP-2 of Russian Ground Forces.jpg — Caption: "BMP-2 of Russian Ground Forces" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-2_of_Russian_Ground_Forces.jpg
+467th Guards District Training Center (414-06).jpg â€” Commons file page: https://commons.wikimedia.org/wiki/File:467th_Guards_District_Training_Center_(414-06).jpg
+ | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/3/37/467th_Guards_District_Training_Center_%28414-06%29.jpg
+ | License: check file page
+ | Changes: Resized for in-app display
+
+
+### BMP-2
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-2/bmp-2-01.png`
+
+BMP-2 of Russian Ground Forces.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "BMP-2 of Russian Ground Forces" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-2_of_Russian_Ground_Forces.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 
 
-BMP-2 in winter.jpg — Caption: "BMP-2 in winter" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-2_in_winter.jpg
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-2/bmp-2-02.png`
+
+BMP-2 in winter.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "BMP-2 in winter" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-2_in_winter.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 
 
-##### BMP-3
-BMP-3.jpg — Caption: "BMP-3 of the 102nd Motorized Rifle Regiment of the 150th Motorized Rifle Division." | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-3.jpg
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-2/bmp-2-03.png`
+
+Army2016demo-007.jpg â€” Caption: "Ð‘ÐœÐŸ-2 (BMP-2)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-007.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 11 September 2016, 14:23:48 | Uploaded: 16 March 2017
+
+
+### BMP-3
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-3/bmp-3-01.png`
+
+BMP-3.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "BMP-3 of the 102nd Motorized Rifle Regiment of the 150th Motorized Rifle Division." | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-3.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created: 31 August 2018, 13:34:35 | Uploaded: 
 
-Bmp-3 tan.jpg — Caption: "A Russian BMP-3 infantry fighting vehicle." | Author: U.S. Army (via Commons upload) | Source: https://commons.wikimedia.org/wiki/File:Bmp-3_tan.jpg
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-3/bmp-3-02.png`
+
+Bmp-3 tan.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "A Russian BMP-3 infantry fighting vehicle." | Author: U.S. Army (via Commons upload) | Source: https://commons.wikimedia.org/wiki/File:Bmp-3_tan.jpg
  | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 16 November 2005
 
-##### BTR-82A
-BTR-82A.jpg — Caption: "BTR-82A" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:BTR-82A.jpg
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-3/bmp-3-03.png`
+
+Army2016demo-011.jpg â€” Caption: "Ð‘Ð¾ÐµÐ²Ð°Ñ Ð¼Ð°ÑˆÐ¸Ð½Ð° Ð¿ÐµÑ…Ð¾Ñ‚Ñ‹ Ð‘ÐœÐŸ-3 (BMP-3 infantry fighting vehicle)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-011.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 11 September 2016, 14:23:58 | Uploaded: 16 March 2017
+
+
+### BMPT Terminator
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmpt-terminator/bmpt-terminator-01.png`
+
+Tank support combat vehicle "Terminator".jpg â€” Caption: "Tank support combat vehicle 'Terminator' during the Armiya 2020 exhibition." | Author: Kirill Borisenko | Source: https://commons.wikimedia.org/wiki/File:Tank_support_combat_vehicle_%22Terminator%22.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 29 August 2020 | Uploaded: 5 September 2020
+
+
+### BTR-50
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-50/btr-50-01.png`
+
+BTR-50 Museum of National Military History (Russia).jpg â€” Caption: "BTR-50 in the Museum of National Military History" | Author: ÐœÑƒÐ·ÐµÐ¹ Ð¾Ñ‚ÐµÑ‡ÐµÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð¹ Ð²Ð¾ÐµÐ½Ð½Ð¾Ð¹ Ð¸ÑÑ‚Ð¾Ñ€Ð¸Ð¸ | Source: https://commons.wikimedia.org/wiki/File:BTR-50_Museum_of_National_Military_History_(Russia).jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 24 April 2016 | Uploaded: 17 May 2016
+
+
+### BTR-60
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-60/btr-60-01.png`
+
+BTR-60PB DA-ST-89-06597.jpg â€” Caption: "A left front view of a Soviet BTR-60PB eight-wheeled armored personnel carrier armed with a 14.5mm KPV machine gun." | Author: U.S. Department of Defense employee | Source: https://commons.wikimedia.org/wiki/File:BTR-60PB_DA-ST-89-06597.jpg
+ | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | Changes: Resized for in-app display | Created: 27 Apr 1989 | Uploaded: 14 May 2006
+
+
+### BTR-70
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-70/btr-70-01.png`
+
+BTR70 002.jpg â€” Caption: "BTR70 in Nizhny Novgorod" | Author: Torin | Source: https://commons.wikimedia.org/wiki/File:BTR70_002.jpg
+ | License: Public Domain / CC0-style release by uploader on file page | Changes: Resized for in-app display | Created: 8 June 2008 | Uploaded: 24 June 2008
+
+
+### BTR-82A
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-82a/btr-82a-01.png`
+
+BTR-82A.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "BTR-82A" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:BTR-82A.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 22 February 2013 | Uploaded: 
 
-BTR-82A turret - June 2023.jpg — Caption: "BTR-82A turret" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BTR-82A_turret_-_June_2023.jpg
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-82a/btr-82a-02.png`
+
+BTR-82A turret - June 2023.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "BTR-82A turret" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BTR-82A_turret_-_June_2023.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 8 June 2023
 
-##### MT-LB
-MT-LB multi-purpose tracked vehicle.JPEG — Caption: "A left side view of a MT-LB multi-purpose tracked vehicle capable of transporting 11 troops with a crew of two." | Author: Unknown author (US DoD) | Source: https://commons.wikimedia.org/wiki/File:MT-LB_multi-purpose_tracked_vehicle.JPEG
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-82a/btr-82a-03.png`
+
+Bronetransport 80.jpg â€” Caption: "Ð‘Ð¢Ð -80 Ð¿ÐµÑ€ÐµÐ´ ÐŸÐ°Ñ€Ð°Ð´Ð¾Ð¼" | Author: Ð’Ð»Ð°Ð´Ð¸ÑÐ»Ð°Ð² Ð¤Ð°Ð»ÑŒÑˆÐ¸Ð²Ð¾Ð¼Ð¾Ð½ÐµÑ‚Ñ‡Ð¸Ðº | Source: https://commons.wikimedia.org/wiki/File:Bronetransport_80.jpg
+ | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: date not stated on file page summary | Uploaded: 15 May 2009
+
+
+### BTR-90
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-90/btr-90-01.png`
+
+BTR-90 (2).jpg â€” Caption: "BTR-90" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:BTR-90_(2).jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 21 August 2008 | Uploaded: see file page
+
+
+### Kamaz Typhoon
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/kamaz-typhoon/kamaz-typhoon-01.png`
+
+KamAZ-63968 Typhoon - Engineering technologies 2012 (1).jpg â€” Caption: "KamAZ-63968 Typhoon at the exhibition Engineering technologies 2012." | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:KamAZ-63968_Typhoon_-_Engineering_technologies_2012_(1).jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 2012 | Uploaded: see file page
+
+
+### KAMAZ-5350-379
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/kamaz-5350-379/kamaz-5350-379-01.png`
+
+KamAZ-5350-379.jpg â€” Commons file page: https://commons.wikimedia.org/wiki/File:KamAZ-5350-379.jpg
+ | License: check file page
+ | Changes: Resized for in-app display
+
+
+### MT-LB
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/mt-lb/mt-lb-01.png`
+
+MT-LB multi-purpose tracked vehicle.JPEG ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "A left side view of a MT-LB multi-purpose tracked vehicle capable of transporting 11 troops with a crew of two." | Author: Unknown author (US DoD) | Source: https://commons.wikimedia.org/wiki/File:MT-LB_multi-purpose_tracked_vehicle.JPEG
  | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
  | Changes: Resized for in-app display | Created: 1983 | Uploaded: 11 October 2008
 
-MT-LB APC.jpg — Caption: "A MT-LB Armoured personnel carrier." | Author: U.S. Air Force (via Commons upload) | Source: https://commons.wikimedia.org/wiki/File:MT-LB_APC.jpg
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/mt-lb/mt-lb-02.png`
+
+MT-LB APC.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "A MT-LB Armoured personnel carrier." | Author: U.S. Air Force (via Commons upload) | Source: https://commons.wikimedia.org/wiki/File:MT-LB_APC.jpg
  | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 3 May 2006
 
-##### T-72B3
-T-72B3.jpg — Caption: "Newest T-73B3 upgrade of the T-72B in Russian army service." | Author: Vitaly Kuzmin | Source: https://commons.wikimedia.org/wiki/File:T-72B3.jpg
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/mt-lb/mt-lb-03.png`
+
+RWS2017-37.jpg â€” Caption: "ÐœÐ¢-Ð›Ð‘ (MT-LB)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:RWS2017-37.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 7 June 2017, 12:07:33 | Uploaded: see file page
+
+
+### SBA-60K2 Bulat
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/sba-60k2-bulat/sba-60k2-bulat-01.png`
+
+Russia Arms Expo 2013 (531-46).jpg â€” Caption: "SBA-60K2 Bulat armored vehicle with remote weapons turret" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Russia_Arms_Expo_2013_(531-46).jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 September 2013 | Uploaded: see file page
+
+
+### T-54/T-55
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-54/t-54-01.png`
+
+BAHNA_2018_-_189.jpg â€” Commons file page: https://commons.wikimedia.org/wiki/File:BAHNA_2018_-_189.jpg
+ | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/1/14/BAHNA_2018_-_189.jpg
+ | License: check file page
+ | Changes: Resized for in-app display
+
+
+### T-62
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-62/t-62-01.png`
+
+Verkhnyaya Pyshma Tank Museum 2011 187.jpg â€” Caption: "Verkhnyaya Pyshma Tank Museum 2011" | Author: Ð’Ð»Ð°Ð´Ð¸Ð¼Ð¸Ñ€ Ð¡Ð°Ð¿Ð¿Ð¸Ð½ÐµÐ½ | Source: https://commons.wikimedia.org/wiki/File:Verkhnyaya_Pyshma_Tank_Museum_2011_187.jpg
+ | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 4 September 2011 | Uploaded: 24 October 2013
+
+
+### T-64
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-64/t-64-01.png`
+
+2019-05-09. Ð”ÐµÐ½ÑŒ ÐŸÐ¾Ð±ÐµÐ´Ñ‹ Ð² Ð”Ð¾Ð½ÐµÑ†ÐºÐµ N 146.jpg â€” Commons file page: https://commons.wikimedia.org/wiki/File:2019-05-09._%D0%94%D0%B5%D0%BD%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B5_N_146.jpg
+ | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/2/20/2019-05-09._%D0%94%D0%B5%D0%BD%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B5_N_146.jpg
+ | License: check file page
+ | Changes: Resized for in-app display
+
+
+### T-72B3
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-72b3/t-72b3-01.png`
+
+T-72B3.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "Newest T-73B3 upgrade of the T-72B in Russian army service." | Author: Vitaly Kuzmin | Source: https://commons.wikimedia.org/wiki/File:T-72B3.jpg
  | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 30 December 2015 | Uploaded: 
 
-T-72 B3 (27053439397).jpg — Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin | Source: https://commons.wikimedia.org/wiki/File:T-72_B3_(27053439397).jpg
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-72b3/t-72b3-02.png`
+
+T-72 B3 (27053439397).jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin | Source: https://commons.wikimedia.org/wiki/File:T-72_B3_(27053439397).jpg
  | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created: 6 May 2018 | Uploaded: 10 February 2019
 
-##### T-80BVM
-T-80BVM frontal view Army-2022.jpg — Caption: "Russian main battle tank T-80BVM on static display at military-technical forum ARMY-2022, Park Patriot, Moscow region, Russian Federation" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:T-80BVM_frontal_view_Army-2022.jpg
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-72b3/t-72b3-03.png`
+
+2021 Moscow Victory Day Parade 022.jpg â€” Caption: see file page | Author/Attribution: Kremlin.ru / uploaded by Roman Kubanskiy | Source: https://commons.wikimedia.org/wiki/File:2021_Moscow_Victory_Day_Parade_022.jpg
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 2021 | Uploaded: 11 May 2021
+
+
+### T-80BVM
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-80bvm/t-80bvm-01.png`
+
+T-80BVM frontal view Army-2022.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "Russian main battle tank T-80BVM on static display at military-technical forum ARMY-2022, Park Patriot, Moscow region, Russian Federation" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:T-80BVM_frontal_view_Army-2022.jpg
  | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 16 August 2022 | Uploaded: 
 
-T-80BVM (2).jpg — Caption: "T-80BVM" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:T-80BVM_(2).jpg
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-80bvm/t-80bvm-02.png`
+
+T-80BVM (2).jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "T-80BVM" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:T-80BVM_(2).jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 5 April 2021
 
-##### T-90M
-T-90M.jpg — Caption: "T-90M main battle tank." | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:T-90M.jpg
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-80bvm/t-80bvm-03.png`
+
+T-80BVM.jpg â€” Caption: "T-80BVM" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:T-80BVM.jpg
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 15 September 2017 | Uploaded: 29 May 2019
+
+
+### T-90M
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-90m/t-90m-01.png`
+
+T-90M.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "T-90M main battle tank." | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:T-90M.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created: 7 April 2020, 09:19:16 | Uploaded: 
 
-T-90M 08.jpg — Caption: "T-90M." | Author: Nickel nitride | Source: https://commons.wikimedia.org/wiki/File:T-90M_08.jpg
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-90m/t-90m-02.png`
+
+T-90M 08.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "T-90M." | Author: Nickel nitride | Source: https://commons.wikimedia.org/wiki/File:T-90M_08.jpg
  | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC0_button.svg
- | Changes: Resized for in-app display | Created: 27 August 2021, 13:14:31 | Uploaded: 
+ | Changes: Resized for in-app display | Created: 27 August 2021, 13:14:31 | Uploaded:
+
+
+### Ural Typhoon
+
+Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/ural-typhoon/ural-typhoon-01.png`
+
+Ural-63099 armored vehicle-2012-04.jpg â€” Caption: "Ural Typhoon armored vehicle" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Ural-63099_armored_vehicle-2012-04.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 23 May 2012 | Uploaded: see file page
+
+
+## tiedustelu-valvonta-kalusto
+
+### 1L122 Garmony
+
+Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/1l122-garmony/1l122-garmony-01.png`
+
+Almaz-Antey 1L122-2E at MAKS-2009.jpg â€” Type: Air surveillance radar | Origin: Russia | Source article entry: 1L122 Garmony on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Almaz-Antey_1L122-2E_at_MAKS-2009.jpg/250px-Almaz-Antey_1L122-2E_at_MAKS-2009.jpg
+ | Notes: Portable version is supplied.
+
+
+### 9S15 Obzor
+
+Image file: `images/01-puolustushaarat/01-maavoimat/9s15-obzor/9s15-obzor-01.png`
+
+9S15M Obzor-3 acquisition radar (1).jpg â€” Type: Target acquisition radar for S-300V | Origin: Soviet Union / Russia | Source article entry: 9S15 Obzor on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/9S15M_Obzor-3_acquisition_radar_%281%29.jpg/250px-9S15M_Obzor-3_acquisition_radar_%281%29.jpg
+
+
+### BRDM-2
+
+Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/brdm-2/brdm-2-01.png`
+
+BRDM-2 in Korolyov Moscow Oblast.jpg â€” Commons file page: https://commons.wikimedia.org/wiki/File:BRDM-2_in_Korolyov_Moscow_Oblast.jpg
+ | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/6/64/BRDM-2_in_Korolyov_Moscow_Oblast.jpg
+ | License: check file page
+ | Changes: Resized for in-app display
+
+
+### BRM-1K
+
+Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/brm-1k/brm-1k-01.png`
+
+TB2015ExhibitionP2-33.jpg â€” Commons file page: https://commons.wikimedia.org/wiki/File:TB2015ExhibitionP2-33.jpg
+ | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/5/5c/TB2015ExhibitionP2-33.jpg
+ | License: check file page
+ | Changes: Resized for in-app display
+
+
+### K-612-O / KDKhR-1N
+
+Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/k-612-o-kdkhr-1n/k-612-o-kdkhr-1n-01.png`
+
+K-612-O nuclear explosions detection station (4).jpg â€” Type: Nuclear explosions detection station / Chemical analysis station | Origin: Soviet Union | Source article entry: K-612-O / KDKhR-1N on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/K-612-O_nuclear_explosions_detection_station_%284%29.jpg/250px-K-612-O_nuclear_explosions_detection_station_%284%29.jpg
+ | Notes: The source page states that K-612-O is in the photo, while KDKhR-1N is based on an MT-LBu vehicle.
+
+
+### Nebo-SV/S / Nebo-M
+
+Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/nebo-sv-s-nebo-m/nebo-sv-s-nebo-m-01.png`
+
+55Zh6M Nebo-M - MAKS-2017part3-073.jpg â€” Type: Air surveillance radar | Origin: Soviet Union / Russia | Source article entry: Nebo-SV/S / Nebo-M on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/55Zh6M_Nebo-M_-_MAKS-2017part3-073.jpg/250px-55Zh6M_Nebo-M_-_MAKS-2017part3-073.jpg
+ | Notes: As of 25 October 2025 at least 5 systems, including 1L119 Nebo-SVU and 55Zh6U Nebo-U variants, have been lost in the Russian invasion of Ukraine.
+
+
+### Zoopark-1
+
+Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/zoopark-1/zoopark-1-01.png`
+
+1L219M back view MAKS2005.jpg â€” Type: Counter-battery radar | Origin: Russia | Source article entry: Zoopark-1 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/1L219M_back_view_MAKS2005.jpg/250px-1L219M_back_view_MAKS2005.jpg
+ | Notes: As of 25 October 2025 at least 25 have been lost in the Russian invasion of Ukraine.
+
+
+## elso-kalusto
+
+### 1L267 Moskva-1
+
+Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/1l267-moskva-1/1l267-moskva-1-01.png`
+
+MAKS2015part6-37.jpg â€” Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: 1L267 Moskva-1 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/MAKS2015part6-37.jpg/250px-MAKS2015part6-37.jpg
+
+
+### 1L269 Krasukha-2
+
+Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/1l269-krasukha-2/1l269-krasukha-2-01.png`
+
+Krasukha-2 (ÐšÑ€Ð°ÑÑƒÑ…Ð°-2) Unloaded.jpg â€” Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: 1L269 Krasukha-2 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Krasukha-2_%28%D0%9A%D1%80%D0%B0%D1%81%D1%83%D1%85%D0%B0-2%29_Unloaded.jpg/250px-Krasukha-2_%28%D0%9A%D1%80%D0%B0%D1%81%D1%83%D1%85%D0%B0-2%29_Unloaded.jpg
+
+
+### 1RL257 Krasukha-4
+
+Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/1rl257-krasukha-41rl257-krasukha-4/1rl257-krasukha-4-01.png`
+
+MAKS2015part6-51.jpg â€” Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: 1RL257 Krasukha-4 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/MAKS2015part6-51.jpg/250px-MAKS2015part6-51.jpg
+ | Notes: As of 25 October 2025 at least 1 has been lost in the Russian invasion of Ukraine.
+
+
+### Borisoglebsk 2
+
+Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/borisoglebsk-2/borisoglebsk-2-01.png`
+
+Borisoglebsk-2.png â€” Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: Borisoglebsk 2 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Borisoglebsk-2.png/250px-Borisoglebsk-2.png
+ | Notes: As of 25 October 2025 at least 20 R-330BMV and R-394BMV Borisoglebsk-2B have been lost in the Russian invasion of Ukraine.
+
+
+### Leer-2
+
+Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/leer-2/leer-2-01.png`
+
+85Ya6 Leer-2 (2).jpg â€” Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: Leer-2 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/85Ya6_Leer-2_%282%29.jpg/250px-85Ya6_Leer-2_%282%29.jpg
+ | Notes: Carried by a Tigr all-terrain vehicle. As of 25 October 2025 at least 6 have been lost in the Russian invasion of Ukraine.
+
+
+### R-330Zh Zhitel / R-330M1P "Diabazol"
+
+Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/r-330zh-zhitel-r-330m1p-diabazol/r-330zh-zhitel-r-330m1p-diabazol-01.png`
+
+TB2015ExhibitionP2-51.jpg â€” Type: Mobile electronic warfare complexes | Origin: Russia | Source article entry: R-330Zh Zhitel and R-330M1P "Diabazol" on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TB2015ExhibitionP2-51.jpg/250px-TB2015ExhibitionP2-51.jpg
+ | Notes: Based on a KAMAZ vehicle. As of 25 October 2025 at least 23 R-330ZH and 1 R-330M1P have been lost in the Russian invasion of Ukraine.
+
+
+### RB-341V Leer-3
+
+Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/rb-341v-leer-3/rb-341v-leer-3-01.png`
+
+TB2015ExhibitionP2-47.jpg â€” Type: Mobile electronic countermeasures complex | Origin: Russia | Source article entry: RB-341V Leer-3 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/TB2015ExhibitionP2-47.jpg/250px-TB2015ExhibitionP2-47.jpg
+ | Notes: Equipped with 3 Orlan-10 unmanned aerial vehicles for communications jamming and SIGINT. As of 25 October 2025 at least 3 have been lost in the Russian invasion of Ukraine.
+
+
+## johtamiskalusto
+
+### 1B110
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/1b110/1b110-01.png`
+
+1V110 - 4th Separate Tank Brigade.jpg â€” Type: Command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/1V110_-_4th_Separate_Tank_Brigade.jpg/250px-1V110_-_4th_Separate_Tank_Brigade.jpg
+
+
+### 9S737M Ranzhir-M
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/9s737m-ranzhir-m/9s737m-ranzhir-m-01.png`
+
+MAKS Airshow 2013 (Ramenskoye Airport, Russia) (521-41).jpg â€” Type: Air defence battle management system | Origin: Soviet Union | Source article entry: 9S737M Ranzhir-M on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MAKS_Airshow_2013_%28Ramenskoye_Airport%2C_Russia%29_%28521-41%29.jpg/250px-MAKS_Airshow_2013_%28Ramenskoye_Airport%2C_Russia%29_%28521-41%29.jpg
+
+
+### Akatsiya-ME
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/akatsiya-me/akatsiya-me-01.png`
+
+Engineering Technologies 2010 Part6 0039 copy.jpg â€” Type: Command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Engineering_Technologies_2010_Part6_0039_copy.jpg/250px-Engineering_Technologies_2010_Part6_0039_copy.jpg
+
+
+### AM-1/Medovukha and P-230T/P-234PMB
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/medovukha/medovukha-01.png`
+
+P-230T Tigr-M.jpg â€” Type: All-terrain vehicle / Mobile telecommunications system and command-staff vehicle / Mobile field system | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/P-230T_Tigr-M.jpg/250px-P-230T_Tigr-M.jpg
+ | Notes: Four-wheelers, used by special forces. Built on a Tigr vehicle. The P-230T is visible in the photo. As of 25 October 2025 at least 3 P-230T have been lost in the Russian invasion of Ukraine.
+
+
+### Barnaul-T
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/barnaul-t/barnaul-t-01.png`
+
+9S932-1 at the MAKS-2011 (01).jpg â€” Type: Air defence battle management system | Origin: Russia | Source article entry: Barnaul-T on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/9S932-1_at_the_MAKS-2011_%2801%29.jpg/250px-9S932-1_at_the_MAKS-2011_%2801%29.jpg
+ | Notes: As of 25 October 2025 at least 8 pieces of Barnaul-T-related equipment have been lost in the Russian invasion of Ukraine.
+
+
+### MPPU
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/mppu/mppu-01.png`
+
+Tactical exercises of Radiological, Chemical and Biological Protection Troops units at Shikhani training ground (411-40).jpg â€” Type: Command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tactical_exercises_of_Radiological%2C_Chemical_and_Biological_Protection_Troops_units_at_Shikhani_training_ground_%28411-40%29.jpg/250px-Tactical_exercises_of_Radiological%2C_Chemical_and_Biological_Protection_Troops_units_at_Shikhani_training_ground_%28411-40%29.jpg
+
+
+### PPRU-1 Ovod-M-SV
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/ppru-1-ovod-m-sv/ppru-1-ovod-m-sv-01.png`
+
+PPRU-1.jpg â€” Type: Air defence battle management system | Origin: Soviet Union | Source article entry: PPRU-1 Ovod-M-SV on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPRU-1.jpg/250px-PPRU-1.jpg
+
+
+### R-145BM/1/A
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-145bm-1-a/r-145bm-1-a-01.png`
+
+R-145BM command vehicle on BTR-60 base.jpg â€” Type: Armoured command-staff vehicle | Origin: Soviet Union / Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/R-145BM_command_vehicle_on_BTR-60_base.jpg/250px-R-145BM_command_vehicle_on_BTR-60_base.jpg
+ | Notes: As of 25 October 2025 at least 13 have been lost in the Russian invasion of Ukraine.
+
+
+### R-149AKSh
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-149aksh/r-149aksh-01.png`
+
+R-149AKSh - SignalExerÑise2017-01.jpg â€” Type: Command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/R-149AKSh_-_SignalExer%D1%81ise2017-01.jpg/250px-R-149AKSh_-_SignalExer%D1%81ise2017-01.jpg
+ | Notes: It is based on a KAMAZ-5350 vehicle. As of 25 October 2025 at least 23 have been lost in the Russian invasion of Ukraine.
+
+
+### R-149BMR
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-149bmr/r-149bmr-01.png`
+
+R-149BMR - ETIF-2010 (1).jpg â€” Type: Armoured command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/R-149BMR_-_ETIF-2010_%281%29.jpg/250px-R-149BMR_-_ETIF-2010_%281%29.jpg
+ | Notes: As of 25 October 2025 at least 4 have been lost in the Russian invasion of Ukraine.
+
+
+### R-149MA1/A3
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-149ma1-a3/r-149ma1-a3-01.png`
+
+R-149MA1 - Engineering technologies 2012 (2).jpg â€” Type: Armoured command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/R-149MA1_-_Engineering_technologies_2012_%282%29.jpg/250px-R-149MA1_-_Engineering_technologies_2012_%282%29.jpg
+ | Notes: As of 25 October 2025 at least 127 systems, including 86 R-149MA1 and 41 R-149MA3, have been lost in the Russian invasion of Ukraine.
+
+
+### R-166
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-166/r-166-01.png`
+
+R-166-0,5 radiostation - 27th Independent Sevastopol Guards Motor Rifle Brigade (7).jpg â€” Type: Armoured command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/R-166-0%2C5_radiostation_-_27th_Independent_Sevastopol_Guards_Motor_Rifle_Brigade_%287%29.jpg/250px-R-166-0%2C5_radiostation_-_27th_Independent_Sevastopol_Guards_Motor_Rifle_Brigade_%287%29.jpg
+ | Notes: It is based on BTR-80 or a KAMAZ-5350 vehicle. As of 25 October 2025 at least 24 have been lost in the Russian invasion of Ukraine.
+
+
+### R-419L1
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-419l1/r-419l1-01.png`
+
+Ð¦Ð¸Ñ„Ñ€Ð¾Ð²Ð°Ñ Ñ€Ð°Ð´Ð¸Ð¾Ñ€ÐµÐ»ÐµÐ¹Ð½Ð°Ñ ÑÑ‚Ð°Ð½Ñ†Ð¸Ñ Ð -419Ð›1.jpg â€” Type: Communications vehicle | Origin: Russia | Source article entry: R-419L1 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%80%D0%B5%D0%BB%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%A0-419%D0%9B1.jpg/250px-%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%80%D0%B5%D0%BB%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%A0-419%D0%9B1.jpg
+ | Notes: Carried by a KAMAZ-4350 vehicle. Upgraded L1M version based on a KAMAZ-5350 vehicle is delivered. As of 25 October 2025 at least 3 have been lost in the Russian invasion of Ukraine.
+
+
+### R-439MD2
+
+Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-439md2/r-439md2-01.png`
+
+International Mine Action Center in Syria (Aleppo) 17 (cropped).jpg â€” Type: Satellite communication station | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/International_Mine_Action_Center_in_Syria_%28Aleppo%29_17_%28cropped%29.jpg/250px-International_Mine_Action_Center_in_Syria_%28Aleppo%29_17_%28cropped%29.jpg
+ | Notes: As of 25 October 2025 at least 2 have been lost in the Russian invasion of Ukraine.
+
+
+## ilmatorjunta
+
+### 9A53-G Tornado-G
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/9a53-g-tornado-g/9a53-g-tornado-g-01.png`
+
+Model: 9A53-G Tornado-G | Type: 122 mm multiple rocket launcher | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Combat_vehicle_2B17-1_from_9K51M_Tornado-G_MLRS_-_TankBiathlon14part2-47.jpg/250px-Combat_vehicle_2B17-1_from_9K51M_Tornado-G_MLRS_-_TankBiathlon14part2-47.jpg
+ | Notes: As of 25 October 2025, at least 22 have been lost in the Russian invasion of Ukraine.
+
+
+### 9K22 Tunguska
+
+Image file: `images/01-puolustushaarat/01-maavoimat/ilmatorjunta/9k22-tunguska/9k22-tunguska-01.png`
+
+Model: 9K22 Tunguska | Type: Surface-to-air missile system | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/VDay_Parade_Rehearsal_Moscow03.jpg/250px-VDay_Parade_Rehearsal_Moscow03.jpg
+ | Notes: Designated SA-19 "Grison" by NATO. 50 in storage. As of 25 October 2025, at least 15 have been lost in the Russian invasion of Ukraine.
+
+
+### 9K33 Osa
+
+Image file: `images/01-puolustushaarat/01-maavoimat/ilmatorjunta/9k33-osa/9k33-osa-01.png`
+
+Model: 9K33 Osa | Type: Surface-to-air missile system | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/9K33_Osa_of_the_Russian_Army.jpg/250px-9K33_Osa_of_the_Russian_Army.jpg
+ | Notes: Designated SA-8 "Gecko" by NATO. 150 in storage. As of 25 October 2025, at least 32 have been lost in the Russian invasion of Ukraine.
+
+
+### 9K35M3 Strela-10M3/MN
+
+Image file: `images/01-puolustushaarat/01-maavoimat/ilmatorjunta/9k35m3-strela-10m3-mn/9k35m3-strela-10m3-mn-01.png`
+
+Model: 9K35M3 Strela-10M3/MN | Type: Short range | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Strela_10.jpg/250px-Strela_10.jpg
+ | Notes: Designated SA-13 "Gopher" by NATO. As of 25 October 2025, at least 56 have been lost in the Russian invasion of Ukraine.
+
+
+### 9K515 Tornado S
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/9k515-tornado-s/9k515-tornado-s-01.png`
+
+Model: 9K515 Tornado S | Type: 300 mm multiple rocket launcher | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tornado-S_-_Army_2024-08-14_44.jpg/250px-Tornado-S_-_Army_2024-08-14_44.jpg
+
+
+### Buk
+
+Image file: `images/01-puolustushaarat/01-maavoimat/ilmatorjunta/buk/buk-01.png`
+
+Model: Buk missile system | Type: Medium range | Origin: Soviet Union / Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Buk-MB3K_missile_loading_machine_%286%29.jpg/250px-Buk-MB3K_missile_loading_machine_%286%29.jpg
+ | Notes: 100 in storage. As of 25 October 2025, at least 125 have been lost in the Russian invasion of Ukraine.
+
+
+### S-300
+
+Image file: `images/01-puolustushaarat/01-maavoimat/ilmatorjunta/s-300/s-300-01.png`
+
+Model: Almaz Antey S-300/S-300V4 | Type: Long range | Origin: Soviet Union / Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/9A83ME_TEL_-_Antey-2500_SAM_02.jpg/250px-9A83ME_TEL_-_Antey-2500_SAM_02.jpg
+ | Notes: Designated SA-12A/B "Gladiator/Giant" by NATO. As of 25 October 2025, at least 12 have been lost in the Russian invasion of Ukraine.
+
+
+### Tor
+
+Image file: `images/01-puolustushaarat/01-maavoimat/ilmatorjunta/tor/tor-01.png`
+
+Model: Tor missile system | Type: Surface-to-air missile system | Origin: Soviet Union / Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TOR-2M_%2827102989757%29.jpg/250px-TOR-2M_%2827102989757%29.jpg
+ | Notes: Designated SA-15 "Gauntlet" by NATO. M1/M2/M2U/M2DT variants used. As of 25 October 2025, at least 68 have been lost in the Russian invasion of Ukraine.
+
+
+## heitin-kalusto
+
+### 2S19 Msta-S
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/2s19-msta-s/2s19-msta-s-01.png`
+
+2s19 msta-s.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "152-mm self-propelled howitzer 2S19 ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â«Msta-SÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â» in Saint-Petersburg Artillery museum" | Author: One half 3544 | Source: https://commons.wikimedia.org/wiki/File:2s19_msta-s.jpg
+ | License: Public Domain (released by copyright holder) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 6 May 2007 | Uploaded: 
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/2s19-msta-s/2s19-msta-s-02.png`
+
+2S19 Msta-S 2.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "2S19 Msta-S" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:2S19_Msta-S_2.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 22 August 2008, 00:05:23 | Uploaded: 19 April 2013
+
+
+### BM-21 Grad
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-21-grad/bm-21-grad-03.png`
+
+Model: BM-21 Grad | Type: 122 mm multiple rocket launcher | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Russian_BM-21_Grad_in_Saint_Petersburg.JPG/250px-Russian_BM-21_Grad_in_Saint_Petersburg.JPG
+ | Notes: 700 in storage. As of 25 October 2025, at least 308 have been lost in the Russian invasion of Ukraine.
+
+
+### BM-21 Grad
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-21-grad/bm-21-grad-01.png`
+
+1 multiple rocket launcher BM-21 Grad.JPG ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "Russia, transporting multiple rocket launcher BM-21 Grad by railroad" | Author: Sergeev Pavel | Source: https://commons.wikimedia.org/wiki/File:1_multiple_rocket_launcher_BM-21_Grad.JPG
+ | License: Public Domain (released by copyright holder) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 2010 | Uploaded: 27 June 2010
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-21-grad/bm-21-grad-02.png`
+
+2 multiple rocket launcher BM-21 Grad.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "Russia, transporting multiple rocket launcher BM-21 Grad by railroad" | Author: Sergeev Pavel | Source: https://commons.wikimedia.org/wiki/File:2_multiple_rocket_launcher_BM-21_Grad.jpg
+ | License: Public Domain (released by copyright holder) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 2010 | Uploaded: 27 June 2010
+
+
+### BM-27 Uragan
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-27-uragan/bm-27-uragan-01.png`
+
+Model: BM-27 Uragan | Type: 220 mm multiple rocket launcher | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/9K57_Uragan_2.jpg/250px-9K57_Uragan_2.jpg
+ | Notes: 550 in storage. As of 25 October 2025, at least 98 have been lost in the Russian invasion of Ukraine.
+
+
+### BM-30 Smerch
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-30-smerch/bm-30-smerch-03.png`
+
+Model: BM-30 Smerch | Type: 300 mm multiple rocket launcher | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/9%D0%9A58_%D0%A1%D0%BC%D0%B5%D1%80%D1%87_3.jpg/250px-9%D0%9A58_%D0%A1%D0%BC%D0%B5%D1%80%D1%87_3.jpg
+ | Notes: As of 25 October 2025, at least 3 have been lost in the Russian invasion of Ukraine.
+
+
+### BM-30 Smerch
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-30-smerch/bm-30-smerch-01.png`
+
+Army2016demo-070.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "BM-30 Smerch (9A52) at ARMY-2016 (demo)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-070.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created:  | Uploaded: 
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-30-smerch/bm-30-smerch-02.png`
+
+BM-30 Smerch ARMY-2018.jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "9A52-2 launcher and 9T234-2 transporter-loader of 9K58 / BM-30 Smerch MLRS, International Miltary-Technical Forum ARMY-2018, Alabino, Moscow region, Russia" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:BM-30_Smerch_ARMY-2018.jpg
+ | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 22 August 2018 | Uploaded:
+
+
+### TOS-1A Solntsepyok
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/tos-1a-solntsepyok/tos-1a-solntsepyok-01.png`
+
+Model: TOS-1A Solntsepyok | Type: 220 mm thermobaric multiple rocket launcher | Origin: Soviet Union / Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Army2016-487.jpg/250px-Army2016-487.jpg
+ | Notes: TOS-1 Buratino was developed in the 1980s for the Soviet Army. The improved TOS-1A variant entered service in 2001â€“2003. As of 25 October 2025, at least 34 have been lost in the Russian invasion of Ukraine.
+
+
+### TOS-2 Tosochka
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/tos-2-tosochka/tos-2-tosochka-01.png`
+
+Model: TOS-2 Tosochka | Type: 220 mm thermobaric multiple rocket launcher | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TOS-2_on_Ural-63706_Army-2022_2022-08-20_2300.jpg/250px-TOS-2_on_Ural-63706_Army-2022_2022-08-20_2300.jpg
+ | Notes: As of 25 October 2025, at least 2 have been lost in the Russian invasion of Ukraine.
+
+
+### TOS-3 Drakon
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/tos-3-drakon/tos-3-drakon-01.png`
+
+Model: TOS-3 Drakon | Type: 220 mm thermobaric multiple rocket launcher | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/TOS-3_Dragon.png/250px-TOS-3_Dragon.png
+ | Notes: Undergoing trials.
+
+
+### Uragan-1M
+
+Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/uragan-1m/uragan-1m-01.png`
+
+Model: Uragan-1M | Type: Universal 220 mm-300 mm multiple rocket launcher | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
+ | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%D0%A3%D1%80%D0%B0%D0%B3%D0%B0%D0%BD-1%D0%9C_-_%D0%A2%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BA%D1%83%D1%80%D1%81%D0%B0%D0%BD%D1%82%D0%BE%D0%B2_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B0%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_02.jpg/250px-%D0%A3%D1%80%D0%B0%D0%B3%D0%B0%D0%BD-1%D0%9C_-_%D0%A2%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BA%D1%83%D1%80%D1%81%D0%B0%D0%BD%D1%82%D0%BE%D0%B2_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B0%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_02.jpg
+ | Notes: Built to replace BM-27 Uragan and BM-30 Smerch.
+
+
+## ohjuskalusto
+
+### 9K720 Iskander
+
+Image file: `images/01-puolustushaarat/01-maavoimat/ohjuskalusto/9k720-iskander/9k720-iskander-01.png`
+
+9K720 Iskander (SS-26 Stone) (27102990117).jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin from Moscow, Russia | Source: https://commons.wikimedia.org/wiki/File:9K720_Iskander_(SS-26_Stone)_(27102990117).jpg
+ | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 6 May 2018, 08:18 | Uploaded: 
+
+Image file: `images/01-puolustushaarat/01-maavoimat/ohjuskalusto/9k720-iskander/9k720-iskander-02.png`
+
+9K720 Iskander (SS-26 Stone) (41253217174).jpg ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin from Moscow, Russia | Source: https://commons.wikimedia.org/wiki/File:9K720_Iskander_(SS-26_Stone)_(41253217174).jpg
+ | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
+ | Changes: Resized for in-app display | Created: 6 May 2018, 07:48 | Uploaded:
+
+
+### 9P149 Shturm-S/SM
+
+Image file: `images/01-puolustushaarat/01-maavoimat/9p149-shturm-s-sm/9p149-shturm-s-sm-01.png`
+
+9P149.jpg â€” Commons file page: https://commons.wikimedia.org/wiki/File:9P149.jpg
+ | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/7/76/9P149.jpg
+ | License: check file page
+ | Changes: Resized for in-app display
+
+
+### 9P157-2 Khrizantema-S/SP
+
+Image file: `images/01-puolustushaarat/01-maavoimat/ohjuskalusto/9p157-2-khrizantema-s-sp/9p157-2-khrizantema-s-sp-01.png`
+
+Khrizantema 1.jpg â€” Caption: "9P157-2 vehicle with 9M123 missiles of anti-tank complex Khrizantema at Engineering Technologies 2012 international forum" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Khrizantema_1.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 27 June 2012 | Uploaded: see file page
+
+
+### 9P163-3 Kornet-D
+
+Image file: `images/01-puolustushaarat/01-maavoimat/ohjuskalusto/9p163-3-kornet-d/9p163-3-kornet-d-01.png`
+
+VDayRehearsal05052016-05.jpg â€” Commons file page: https://commons.wikimedia.org/wiki/File:VDayRehearsal05052016-05.jpg
+ | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/0/09/VDayRehearsal05052016-05.jpg
+ | License: check file page
+ | Changes: Resized for in-app display
+
+
+--------
+
+
+### 9P163M-1 Kornet-T
+
+Image file: `images/01-puolustushaarat/01-maavoimat/ohjuskalusto/9p163m-1-kornet-t/9p163m-1-kornet-t-01.png`
+
+Kornet-T in 1000th Training Center of Rocket and Artillery Troops 01.jpg â€” Caption: "Kornet-T on BMP-3 chassis during training of artillery units in the 1000th training center" | Author: Yevgeny Kel | Source: https://commons.wikimedia.org/wiki/File:Kornet-T_in_1000th_Training_Center_of_Rocket_and_Artillery_Troops_01.jpg
+ | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 6 November 2014 | Uploaded: 28 October 2017
 
 
 
