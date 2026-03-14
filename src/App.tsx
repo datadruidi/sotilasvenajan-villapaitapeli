@@ -22,7 +22,7 @@ import { getRanksReviewPool } from './lib/ranksLogic'
 import type { RanksLanguage } from './lib/ranksLogic'
 import type { RankGameEntry } from './lib/ranksLogic'
 import type { MilitaryDistrictInsigniaSubset } from './lib/militaryDistrictInsigniaLogic'
-import type { AppLanguage, NavySubMode, VehicleBranch, WordEntry, WordsDirection, WordsDifficulty } from './types/game'
+import type { AppLanguage, ArmySubMode, NavySubMode, VehicleBranch, WordEntry, WordsDirection, WordsDifficulty } from './types/game'
 
 type ContentType = 'vehicles' | 'words' | 'garrisons' | 'tactical-signs' | 'ranks' | 'venajan-asevoimat' | 'osint-daily'
 type DailyBriefPage = 'current' | 'archive'
@@ -39,8 +39,8 @@ const CONTENT_TYPES: { id: ContentType; label: string; available: boolean }[] = 
 
 /** Sub-options under Venäjän asevoimat (same structure as before, just grouped) */
 const VENAJAN_ASEVOIMAT_OPTIONS: { id: ContentType; label: string; available: boolean }[] = [
-  { id: 'garrisons', label: '2.1. Sotilaspiirit', available: true },
-  { id: 'vehicles', label: '2.2. Suorituskyvyt', available: true },
+  { id: 'vehicles', label: '2.1. Suorituskyvyt', available: true },
+  { id: 'garrisons', label: '2.2. Sotilaspiirit', available: true },
 ]
 
 function stripMenuNumber(label: string): string {
@@ -48,12 +48,22 @@ function stripMenuNumber(label: string): string {
 }
 
 const BRANCHES: { id: BranchButtonId; label: string; disabled?: boolean }[] = [
-  { id: 'navy', label: '2.2.1. Merivoimat' },
-  { id: 'airforce', label: '2.2.2. Ilma- ja avaruusvoimat' },
-  { id: 'army', label: '2.2.3. Maavoimat' },
+  { id: 'army', label: '2.2.1. Maavoimat' },
+  { id: 'navy', label: '2.2.2. Merivoimat' },
+  { id: 'airforce', label: '2.2.3. Ilma- ja avaruusvoimat' },
   { id: 'strategic-missile', label: '2.2.4. Strategiset ohjusjoukot' },
   { id: 'airborne', label: '2.2.5. Maahanlaskujoukot' },
   { id: 'uav-systems', label: '2.2.6. Miehittämättömien järjestelmien joukot' },
+]
+
+const ARMY_SUB_MODES: { id: ArmySubMode; labelFi: string; labelEn: string }[] = [
+  { id: 'elso-kalusto', labelFi: 'ELSO-kalusto', labelEn: 'Electronic Warfare Equipment' },
+  { id: 'heitin-kalusto', labelFi: 'Heitinkalusto', labelEn: 'Artillery Equipment' },
+  { id: 'ilmatorjunta', labelFi: 'Ilmatorjuntakalusto', labelEn: 'Air Defense Equipment' },
+  { id: 'johtamiskalusto', labelFi: 'Johtamiskalusto', labelEn: 'Command and Control Equipment' },
+  { id: 'ohjuskalusto', labelFi: 'Ohjuskalusto', labelEn: 'Missile Equipment' },
+  { id: 'taisteluajoneuvot', labelFi: 'Taisteluajoneuvokalusto', labelEn: 'Combat Vehicles' },
+  { id: 'tiedustelu-valvonta-kalusto', labelFi: 'Tiedustelu- ja valvontakalusto', labelEn: 'Reconnaissance and Surveillance Equipment' },
 ]
 
 /** Military districts under Sotilaspiirit; only Leningrad is selectable and shows the 4 responsibility areas */
@@ -163,23 +173,29 @@ function App() {
   }
   const getMilitaryOrgOptionLabel = (id: ContentType): string => {
     if (!isEnglish) return VENAJAN_ASEVOIMAT_OPTIONS.find((opt) => opt.id === id)?.label ?? id
-    if (id === 'garrisons') return '2.1. Military Districts'
-    if (id === 'vehicles') return '2.2. Military Capabilities'
+    if (id === 'vehicles') return '2.1. Military Capabilities'
+    if (id === 'garrisons') return '2.2. Military Districts'
     return id
   }
   const getVehicleBranchLabel = (id: BranchButtonId, fallback: string): string => {
     if (!isEnglish) return fallback
-    if (id === 'navy') return '2.2.1. Navy'
-    if (id === 'airforce') return '2.2.2. Aerospace Forces'
-    if (id === 'army') return '2.2.3. Ground Forces'
+    if (id === 'army') return '2.2.1. Ground Forces'
+    if (id === 'navy') return '2.2.2. Navy'
+    if (id === 'airforce') return '2.2.3. Aerospace Forces'
     if (id === 'strategic-missile') return '2.2.4. Strategic Missile Forces'
     if (id === 'airborne') return '2.2.5. Airborne Forces'
     if (id === 'uav-systems') return '2.2.6. Unmanned Systems Forces'
     return fallback
   }
+  const getArmySubModeLabel = (id: ArmySubMode): string => {
+    const match = ARMY_SUB_MODES.find((mode) => mode.id === id)
+    if (!match) return id
+    return isEnglish ? match.labelEn : match.labelFi
+  }
   const [selectedContentType, setSelectedContentType] = useState<ContentType | null>(null)
   const [selectedBranch, setSelectedBranch] = useState<VehicleBranch | null>(null)
   const [selectedNavySubMode, setSelectedNavySubMode] = useState<NavySubMode | null>(null)
+  const [selectedArmySubMode, setSelectedArmySubMode] = useState<ArmySubMode | null>(null)
   const [selectedWordsDirection, setSelectedWordsDirection] = useState<WordsDirection | null>(null)
   const [showDirectionPopup, setShowDirectionPopup] = useState(false)
   const [showRanksReviewDirectionPopup, setShowRanksReviewDirectionPopup] = useState(false)
@@ -373,6 +389,7 @@ function App() {
     setGameMenuTitle(stripMenuNumber(branchMenuLabel))
     setSelectedBranch(branch)
     setSelectedNavySubMode(navySubMode ?? null)
+    setSelectedArmySubMode(null)
     setPendingView('vehicles-game')
     setShowLadataanIkkuna(true)
   }
@@ -380,6 +397,15 @@ function App() {
   const startNavySubMode = (mode: NavySubMode) => {
     setGameMenuTitle(mode === 'class' ? (isEnglish ? 'Naval Ship Classes' : 'Alusluokat') : (isEnglish ? 'Naval Ship Names' : 'Alusten nimet'))
     setSelectedNavySubMode(mode)
+    setSelectedArmySubMode(null)
+    setPendingView('vehicles-game')
+    setShowLadataanIkkuna(true)
+  }
+
+  const startArmySubMode = (mode: ArmySubMode) => {
+    setGameMenuTitle(getArmySubModeLabel(mode))
+    setSelectedArmySubMode(mode)
+    setSelectedNavySubMode(null)
     setPendingView('vehicles-game')
     setShowLadataanIkkuna(true)
   }
@@ -461,6 +487,7 @@ function App() {
     setShowLadataanIkkuna(false)
     setSelectedBranch(null)
     setSelectedNavySubMode(null)
+    setSelectedArmySubMode(null)
     setSelectedWordsCategory(null)
     setSelectedWordsList(null)
     setPerussanastoPool([])
@@ -492,6 +519,7 @@ function App() {
     setSelectedContentType(null)
     setSelectedBranch(null)
     setSelectedNavySubMode(null)
+    setSelectedArmySubMode(null)
     setSelectedWordsCategory(null)
     setSelectedWordsList(null)
     setSelectedWordsDirection(null)
@@ -522,6 +550,8 @@ function App() {
     const vehiclesKey =
       selectedBranch === 'navy' && selectedNavySubMode
         ? getRoundsKey('vehicles', `russia_navy_${selectedNavySubMode}`)
+        : selectedBranch === 'army' && selectedArmySubMode
+          ? getRoundsKey('vehicles', `russia_army_${selectedArmySubMode}`)
         : getRoundsKey('vehicles', `russia_${selectedBranch}`)
     return (
       <GameView
@@ -530,6 +560,7 @@ function App() {
         branchLabel={branchLabel}
         menuTitle={gameMenuTitle}
         navySubMode={selectedNavySubMode ?? undefined}
+        armySubMode={selectedArmySubMode ?? undefined}
         appLanguage={appLanguage}
         muted={muted}
         onToggleMute={toggleMute}
@@ -1300,6 +1331,8 @@ function App() {
               const vehiclesKey =
                 b.id === 'navy'
                   ? null
+                  : b.id === 'army'
+                    ? null
                   : b.id !== 'coming-soon'
                     ? getRoundsKey('vehicles', `russia_${b.id}`)
                     : null
@@ -1311,6 +1344,8 @@ function App() {
                         getRounds(getRoundsKey('vehicles', 'russia_navy_class')),
                         getRounds(getRoundsKey('vehicles', 'russia_navy_vesselName'))
                       )
+                    : b.id === 'army'
+                      ? Math.max(...ARMY_SUB_MODES.map((mode) => getRounds(getRoundsKey('vehicles', `russia_army_${mode.id}`))))
                     : 0
               const roundsDisplay = formatRoundsDisplay(rounds)
               return (
@@ -1326,6 +1361,9 @@ function App() {
                     if (b.id === 'navy') {
                       playButtonClick(muted)
                       setSelectedBranch('navy')
+                    } else if (b.id === 'army') {
+                      playButtonClick(muted)
+                      setSelectedBranch('army')
                     } else {
                       startVehiclesGame(b.id as VehicleBranch)
                     }
@@ -1346,19 +1384,41 @@ function App() {
           <h2 className="section-heading">{isEnglish ? 'Navy' : 'Merivoimat'}</h2>
           <div className="options-grid">
             <OptionWithRoundsRow
-              label={isEnglish ? '2.2.1.1. Naval Ship Classes' : '2.2.1.1. Alusluokat'}
+              label={isEnglish ? '2.2.2.1. Naval Ship Classes' : '2.2.2.1. Alusluokat'}
               rounds={formatRoundsDisplay(getRounds(getRoundsKey('vehicles', 'russia_navy_class')))}
               onClick={() => {
                 startNavySubMode('class')
               }}
             />
             <OptionWithRoundsRow
-              label={isEnglish ? '2.2.1.2. Naval Ship Names' : '2.2.1.2. Alusten nimet'}
+              label={isEnglish ? '2.2.2.2. Naval Ship Names' : '2.2.2.2. Alusten nimet'}
               rounds={formatRoundsDisplay(getRounds(getRoundsKey('vehicles', 'russia_navy_vesselName')))}
               onClick={() => {
                 startNavySubMode('vesselName')
               }}
             />
+          </div>
+          <button type="button" className="back-btn back-btn-inline" onClick={() => setSelectedBranch(null)}>
+            ? Takaisin kaluston osastoon
+          </button>
+        </section>
+      )}
+
+      {selectedContentType === 'vehicles' && selectedBranch === 'army' && (
+        <section className="section">
+          <h2 className="section-heading">{isEnglish ? 'Ground Forces' : 'Maavoimat'}</h2>
+          <div className="options-grid">
+            {ARMY_SUB_MODES.map((mode, idx) => (
+              <OptionWithRoundsRow
+                key={mode.id}
+                label={isEnglish ? `2.2.1.${idx + 1}. ${mode.labelEn}` : `2.2.1.${idx + 1}. ${mode.labelFi}`}
+                rounds={formatRoundsDisplay(getRounds(getRoundsKey('vehicles', `russia_army_${mode.id}`)))}
+                onClick={() => {
+                  playButtonClick(muted)
+                  startArmySubMode(mode.id)
+                }}
+              />
+            ))}
           </div>
           <button type="button" className="back-btn back-btn-inline" onClick={() => setSelectedBranch(null)}>
             ? Takaisin kaluston osastoon

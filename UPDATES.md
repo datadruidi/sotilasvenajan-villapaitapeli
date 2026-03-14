@@ -2,7 +2,53 @@
 
 This file is a cumulative changelog: newest versions are listed first. Older entries are kept.
 
-**Current version:** 1.0.8
+**Current version:** 1.0.10
+
+---
+
+## Version 1.0.10 (2026-03-14)
+
+This update focuses on the Ground Forces vehicle refresh and military organization menu renumbering.
+
+- Replaced the Russia Ground Forces image set with the new two-level folder structure and regenerated the image index.
+- Added a new Ground Forces category picker before the vehicle quiz starts:
+  - Finnish and English labels were added for all seven Ground Forces vehicle categories.
+  - The quiz now filters images by the chosen category and still answers from the vehicle folder below it.
+- Reordered and renumbered the military capabilities menu:
+  - `2.2.1` is now **Maavoimat / Ground Forces**.
+  - Navy and Aerospace Forces numbering was shifted to match the new order.
+- Swapped the military organization submenu numbering:
+  - `2.1` is now **Suorituskyvyt / Military Capabilities**.
+  - `2.2` is now **Sotilaspiirit / Military Districts**.
+- Updated app version metadata to `1.0.10`:
+  - `package.json` version -> `1.0.10`
+  - Android `versionName` -> `1.0.10`
+  - Android `versionCode` -> `12`
+
+---
+
+## Version 1.0.9 (2026-03-13)
+
+This update focuses on the new military abbreviations study mode, expanded vocabulary content, and refreshed bundled OSINT brief content for Android.
+
+- Added a new **1.2. Sotilaslyhenteet / Military Abbreviations** category under the vocabulary section:
+  - Split into six playable abbreviation sublists plus **1.2.7 Review**.
+  - Added dedicated CSV-backed datasets for Finnish and English app language variants.
+  - Added list labels, menu routing, and loading support for all new abbreviation modules.
+- Added a separate **Lyhenteet review list** flow:
+  - Players can save abbreviation prompts for later review from the quiz view.
+  - Review entries are stored separately from the main vocabulary review list in local storage.
+  - The review module launches directly in the fixed abbreviation answer direction.
+- Expanded vocabulary coverage:
+  - Added the new **1.1.8 Kyberturvallisuuden käsitteistöä / Cybersecurity Terminology** module.
+  - Updated README/content structure text to reflect currently playable modules.
+- Refreshed bundled markdown content used by the app:
+  - Updated the packaged **OSINT Daily Brief** and archive markdown files included in Android builds.
+  - Kept source/license references aligned with the new abbreviations section.
+- Updated app version metadata to `1.0.9`:
+  - `package.json` version -> `1.0.9`
+  - Android `versionName` -> `1.0.9`
+  - Android `versionCode` -> `11`
 
 ---
 

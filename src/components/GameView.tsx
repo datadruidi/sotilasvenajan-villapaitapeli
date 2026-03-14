@@ -1,5 +1,5 @@
 ﻿import { useCallback, useEffect, useState } from 'react'
-import type { AppLanguage, CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
+import type { AppLanguage, ArmySubMode, CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
 import {
   checkAnswer,
   formatVesselName,
@@ -21,6 +21,7 @@ interface GameViewProps {
   branchLabel: string
   menuTitle: string
   navySubMode?: NavySubMode
+  armySubMode?: ArmySubMode
   appLanguage: AppLanguage
   muted: boolean
   onToggleMute: () => void
@@ -43,7 +44,7 @@ function getAchievementMessage(score: number, appLanguage: AppLanguage): string 
   return 'Jatka vain! Paatset maaraan.'
 }
 
-export function GameView({ country, branch, branchLabel, menuTitle, navySubMode, appLanguage, muted, onToggleMute, onBack, onRoundComplete }: GameViewProps) {
+export function GameView({ country, branch, branchLabel, menuTitle, navySubMode, armySubMode, appLanguage, muted, onToggleMute, onBack, onRoundComplete }: GameViewProps) {
   const isEnglish = appLanguage === 'eng'
   const [pool, setPool] = useState<ImageEntry[]>([])
   const [currentEntry, setCurrentEntry] = useState<ImageEntry | null>(null)
@@ -55,7 +56,7 @@ export function GameView({ country, branch, branchLabel, menuTitle, navySubMode,
   const [gameOver, setGameOver] = useState(false)
 
   const startRound = useCallback((roundNumber: number) => {
-    const filtered = getFilteredPool(country, branch, navySubMode)
+    const filtered = getFilteredPool(country, branch, navySubMode, armySubMode)
     setPool(filtered)
     const entry = selectImageFromPool(filtered)
     if (!entry) {
@@ -68,7 +69,7 @@ export function GameView({ country, branch, branchLabel, menuTitle, navySubMode,
     setSelectedAnswer(null)
     setShowResult(false)
     setRound(roundNumber)
-  }, [country, branch, navySubMode])
+  }, [country, branch, navySubMode, armySubMode])
 
   const startNewGame = useCallback(() => {
     setScore(0)
@@ -110,6 +111,8 @@ export function GameView({ country, branch, branchLabel, menuTitle, navySubMode,
   const sessionInfo =
     branch === 'navy' && navySubMode
       ? `${isEnglish ? 'Russia -> Branch capabilities' : 'Venaja -> Puolustushaarojen suorituskyvyt'} -> ${branchLabel} -> ${navySubMode === 'class' ? (isEnglish ? 'Vessel classes' : 'Alusluokat') : (isEnglish ? 'Vessel names' : 'Alusten nimet')}`
+      : branch === 'army' && armySubMode
+        ? `${isEnglish ? 'Russia -> Branch capabilities' : 'Venaja -> Puolustushaarojen suorituskyvyt'} -> ${branchLabel} -> ${menuTitle}`
       : `${isEnglish ? 'Russia -> Branch capabilities' : 'Venaja -> Puolustushaarojen suorituskyvyt'} -> ${branchLabel}`
 
   if (pool.length === 0 && !currentEntry && !gameOver) {

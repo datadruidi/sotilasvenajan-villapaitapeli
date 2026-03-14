@@ -3,7 +3,7 @@
  * Navy pool is built from file list + filename parser; other branches use the registry.
  */
 
-import type { CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
+import type { ArmySubMode, CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
 import { AIRBORNE_FORCES_IMAGE_PATHS } from '../data/airborneForcesImagePaths'
 import { IMAGE_REGISTRY } from '../data/imageRegistry'
 import { AEROSPACE_FORCES_IMAGE_PATHS } from '../data/aerospaceForcesImagePaths'
@@ -119,8 +119,9 @@ function getGroundForcesImageEntries(): ImageEntry[] {
     const assetPath = GROUND_FORCES_IMAGE_PATHS[i]
     const parts = assetPath.split('/').filter(Boolean)
     const baseIndex = parts.indexOf('ground_forces')
-    const classKey = baseIndex >= 0 ? (parts[baseIndex + 1] ?? '') : ''
-    if (!classKey) continue
+    const armySubMode = baseIndex >= 0 ? (parts[baseIndex + 1] ?? '') : ''
+    const classKey = baseIndex >= 0 ? (parts[baseIndex + 2] ?? '') : ''
+    if (!armySubMode || !classKey) continue
     entries.push({
       id: `ru-army-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,
       assetPath,
@@ -128,6 +129,7 @@ function getGroundForcesImageEntries(): ImageEntry[] {
       branch: 'army',
       correctClassName: `${formatGroundForcesClassName(classKey)} class`,
       active: true,
+      armySubMode: armySubMode as ArmySubMode,
     })
   }
   return entries
@@ -217,7 +219,8 @@ function getUnmannedSystemsImageEntries(): ImageEntry[] {
 export function getFilteredPool(
   country: CountryId,
   branch: VehicleBranch,
-  navySubMode?: NavySubMode
+  navySubMode?: NavySubMode,
+  armySubMode?: ArmySubMode
 ): ImageEntry[] {
   if (country === 'russia' && branch === 'navy') {
     let pool = getNavyImageEntries()
@@ -233,7 +236,9 @@ export function getFilteredPool(
     return getAerospaceForcesImageEntries()
   }
   if (country === 'russia' && branch === 'army') {
-    return getGroundForcesImageEntries()
+    const pool = getGroundForcesImageEntries()
+    if (!armySubMode) return pool
+    return pool.filter((entry) => entry.armySubMode === armySubMode)
   }
   if (country === 'russia' && branch === 'strategic-missile') {
     return getStrategicMissileForcesImageEntries()

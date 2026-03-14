@@ -10,6 +10,14 @@ export type AppLanguage = 'fin' | 'eng'
 
 /** Navy-only: quiz by vessel class (e.g. Steregushchiy) or by vessel name (e.g. Boikiy). */
 export type NavySubMode = 'class' | 'vesselName'
+export type ArmySubMode =
+  | 'elso-kalusto'
+  | 'heitin-kalusto'
+  | 'ilmatorjunta'
+  | 'johtamiskalusto'
+  | 'ohjuskalusto'
+  | 'taisteluajoneuvot'
+  | 'tiedustelu-valvonta-kalusto'
 
 /**
  * Single source-of-truth entry for one image.
@@ -28,6 +36,8 @@ export interface ImageEntry {
   active: boolean
   /** Navy only: vessel name (e.g. Boikiy) when filename is class_vesselname.jpg. Used for "Alusten nimet" mode. */
   vesselName?: string
+  /** Ground Forces only: top-level category under /ground_forces/. */
+  armySubMode?: ArmySubMode
 }
 
 export interface GameSessionConfig {
