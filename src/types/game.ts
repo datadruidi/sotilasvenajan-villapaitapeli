@@ -31,7 +31,7 @@ export type ArmySubMode =
 export interface ImageEntry {
   /** Unique id for this image (e.g. for deduplication in options). */
   id: string
-  /** Path to the image asset (e.g. /assets/vehicles/russia/navy/xyz.jpg). */
+  /** Path to the image asset (e.g. /assets/suorituskyvyt/02-merivoimat/taistelualukset/xyz/xyz-01.jpg). */
   assetPath: string
   country: CountryId
   branch: VehicleBranch
@@ -79,3 +79,4 @@ export type WordEntry = WordPair | WordCardPrompt
 export function isWordCardPrompt(entry: WordEntry): entry is WordCardPrompt {
   return 'prompt' in entry && 'wrongOptions' in entry
 }
+

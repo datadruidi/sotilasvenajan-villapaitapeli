@@ -1,6 +1,6 @@
 /**
  * Game logic: image selection and answer generation.
- * Russia branch pools are built from file lists; everything else uses the registry.
+ * Russia branch pools are built from file lists under public/assets; everything else uses the registry.
  */
 
 import type { ArmySubMode, CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
@@ -48,17 +48,15 @@ function formatNavyClassName(raw: string): string {
 
 /**
  * Build navy image entries from path list.
- * Class name is derived from /navy/<category>/<class>/ so the new categorized structure drives the quiz.
- * Legacy flat navy folders are ignored.
+ * The final folder structure is /<branch>/<category>/<class>/<image>.
  */
 function getNavyImageEntries(): ImageEntry[] {
   const entries: ImageEntry[] = []
   for (let i = 0; i < NAVY_IMAGE_PATHS.length; i++) {
     const assetPath = NAVY_IMAGE_PATHS[i]
     const parts = assetPath.split('/').filter(Boolean)
-    const baseIndex = parts.indexOf('navy')
-    const navySubMode = baseIndex >= 0 ? (parts[baseIndex + 1] ?? '') : ''
-    const classKey = baseIndex >= 0 ? (parts[baseIndex + 2] ?? '') : ''
+    const navySubMode = parts[parts.length - 3] ?? ''
+    const classKey = parts[parts.length - 2] ?? ''
     if (!NAVY_SUB_MODE_SET.has(navySubMode as NavySubMode) || !classKey) continue
     entries.push({
       id: `ru-navy-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,
@@ -120,15 +118,14 @@ function formatGroundForcesClassName(raw: string): string {
 
 /**
  * Build Aerospace Forces image entries from path list.
- * Class name is derived from the folder under /aerospace_forces/.
+ * Class name is derived from the folder above the image file.
  */
 function getAerospaceForcesImageEntries(): ImageEntry[] {
   const entries: ImageEntry[] = []
   for (let i = 0; i < AEROSPACE_FORCES_IMAGE_PATHS.length; i++) {
     const assetPath = AEROSPACE_FORCES_IMAGE_PATHS[i]
     const parts = assetPath.split('/').filter(Boolean)
-    const baseIndex = parts.indexOf('aerospace_forces')
-    const classKey = baseIndex >= 0 ? (parts[baseIndex + 1] ?? '') : ''
+    const classKey = parts[parts.length - 2] ?? ''
     if (!classKey) continue
     entries.push({
       id: `ru-airforce-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,
@@ -144,16 +141,15 @@ function getAerospaceForcesImageEntries(): ImageEntry[] {
 
 /**
  * Build Ground Forces image entries from path list.
- * Class name is derived from the folder under /ground_forces/.
+ * The final folder structure is /<branch>/<sub-mode>/<class>/<image>.
  */
 function getGroundForcesImageEntries(): ImageEntry[] {
   const entries: ImageEntry[] = []
   for (let i = 0; i < GROUND_FORCES_IMAGE_PATHS.length; i++) {
     const assetPath = GROUND_FORCES_IMAGE_PATHS[i]
     const parts = assetPath.split('/').filter(Boolean)
-    const baseIndex = parts.indexOf('ground_forces')
-    const armySubMode = baseIndex >= 0 ? (parts[baseIndex + 1] ?? '') : ''
-    const classKey = baseIndex >= 0 ? (parts[baseIndex + 2] ?? '') : ''
+    const armySubMode = parts[parts.length - 3] ?? ''
+    const classKey = parts[parts.length - 2] ?? ''
     if (!armySubMode || !classKey) continue
     entries.push({
       id: `ru-army-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,
@@ -175,15 +171,14 @@ function formatStrategicMissileClassName(raw: string): string {
 
 /**
  * Build Strategic Missile Forces image entries from path list.
- * Class name is derived from the folder under /strategic_missile_forces/.
+ * Class name is derived from the folder above the image file.
  */
 function getStrategicMissileForcesImageEntries(): ImageEntry[] {
   const entries: ImageEntry[] = []
   for (let i = 0; i < STRATEGIC_MISSILE_FORCES_IMAGE_PATHS.length; i++) {
     const assetPath = STRATEGIC_MISSILE_FORCES_IMAGE_PATHS[i]
     const parts = assetPath.split('/').filter(Boolean)
-    const baseIndex = parts.indexOf('strategic_missile_forces')
-    const classKey = baseIndex >= 0 ? (parts[baseIndex + 1] ?? '') : ''
+    const classKey = parts[parts.length - 2] ?? ''
     if (!classKey) continue
     entries.push({
       id: `ru-strategic-missile-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,
@@ -199,15 +194,14 @@ function getStrategicMissileForcesImageEntries(): ImageEntry[] {
 
 /**
  * Build Airborne Forces image entries from path list.
- * Class name is derived from the folder under /airborne_forces/.
+ * Class name is derived from the folder above the image file.
  */
 function getAirborneForcesImageEntries(): ImageEntry[] {
   const entries: ImageEntry[] = []
   for (let i = 0; i < AIRBORNE_FORCES_IMAGE_PATHS.length; i++) {
     const assetPath = AIRBORNE_FORCES_IMAGE_PATHS[i]
     const parts = assetPath.split('/').filter(Boolean)
-    const baseIndex = parts.indexOf('airborne_forces')
-    const classKey = baseIndex >= 0 ? (parts[baseIndex + 1] ?? '') : ''
+    const classKey = parts[parts.length - 2] ?? ''
     if (!classKey) continue
     entries.push({
       id: `ru-airborne-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,
@@ -223,15 +217,14 @@ function getAirborneForcesImageEntries(): ImageEntry[] {
 
 /**
  * Build Unmanned Systems Forces image entries from path list.
- * Class name is derived from the folder under /unmanned_system_forces/.
+ * The final folder structure is /<branch>/<platform-type>/<class>/<image>.
  */
 function getUnmannedSystemsImageEntries(): ImageEntry[] {
   const entries: ImageEntry[] = []
   for (let i = 0; i < UNMANNED_SYSTEMS_IMAGE_PATHS.length; i++) {
     const assetPath = UNMANNED_SYSTEMS_IMAGE_PATHS[i]
     const parts = assetPath.split('/').filter(Boolean)
-    const baseIndex = parts.indexOf('unmanned_system_forces')
-    const classKey = baseIndex >= 0 ? (parts[baseIndex + 1] ?? '') : ''
+    const classKey = parts[parts.length - 2] ?? ''
     if (!classKey) continue
     entries.push({
       id: `ru-uav-systems-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,

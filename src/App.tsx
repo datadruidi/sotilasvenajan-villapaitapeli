@@ -90,11 +90,13 @@ const GARRISON_BASE_DISTRICT_OPTIONS: { id: MilitaryDistrictInsigniaSubset; labe
 
 const MUTE_STORAGE_KEY = 'miliingo-muted'
 const APP_LANGUAGE_STORAGE_KEY = 'miliingo-app-language'
-const INTRO_2_URL = `${import.meta.env.BASE_URL}audio/intro_2.mp3`
-const DAILY_BRIEF_URL = `${import.meta.env.BASE_URL}osint-daily.md`
-const DAILY_BRIEF_ARCHIVE_URL = `${import.meta.env.BASE_URL}analysis-archive.md`
-const DAILY_BRIEF_FINNISH_URL = `${import.meta.env.BASE_URL}osint-daily-fin.md`
-const DAILY_BRIEF_FINNISH_ARCHIVE_URL = `${import.meta.env.BASE_URL}analysis-archive_fin.md`
+const SETTINGS_AUDIO_BASE_URL = `${import.meta.env.BASE_URL}tiedot-ja-asetukset/audio/`
+const INTRO_2_URL = `${SETTINGS_AUDIO_BASE_URL}intro_2.mp3`
+const SITREP_BASE_URL = `${import.meta.env.BASE_URL}sitrep/`
+const DAILY_BRIEF_URL = `${SITREP_BASE_URL}osint-daily.md`
+const DAILY_BRIEF_ARCHIVE_URL = `${SITREP_BASE_URL}analysis-archive.md`
+const DAILY_BRIEF_FINNISH_URL = `${SITREP_BASE_URL}osint-daily-fin.md`
+const DAILY_BRIEF_FINNISH_ARCHIVE_URL = `${SITREP_BASE_URL}analysis-archive_fin.md`
 
 function preserveBlankMarkdownLines(markdown: string): string {
   const lines = markdown.replace(/\r\n?/g, '\n').split('\n')
@@ -291,6 +293,16 @@ function App() {
     } catch {
       /* ignore */
     }
+  }
+
+  const openDailyBriefFromSplash = () => {
+    playButtonClick(muted)
+    setDailyBriefPage('current')
+    setDailyBriefContent(null)
+    setDailyBriefError(null)
+    setShowDailyBriefInfo(false)
+    setSelectedContentType('osint-daily')
+    setShowSplash(false)
   }
 
   useEffect(() => {
@@ -555,7 +567,7 @@ function App() {
   }
 
   if (showSplash) {
-    return <SplashScreen appLanguage={appLanguage} muted={muted} onPlay={handleSplashPlay} onChangeLanguage={changeAppLanguage} />
+    return <SplashScreen appLanguage={appLanguage} muted={muted} onPlay={handleSplashPlay} onOpenDailyBrief={openDailyBriefFromSplash} onChangeLanguage={changeAppLanguage} />
   }
 
   if (view === 'vehicles-game' && selectedBranch) {
@@ -750,16 +762,6 @@ function App() {
             </div>
           </div>
         </div>
-        <button
-          type="button"
-          className="option-btn landing-osint-btn"
-          onClick={() => {
-            playButtonClick(muted)
-            setSelectedContentType('osint-daily')
-          }}
-        >
-          {isEnglish ? 'OSINT Daily Brief' : 'OSINT-p\u00E4iv\u00E4katsaus'}
-        </button>
       </header>
 
       <div className="landing-scroll">
@@ -1010,7 +1012,7 @@ function App() {
                     }
                   }}
                 >
-                  <span className="option-btn-label">{dir === 'fi-ru' ? (isEnglish ? 'Answer in English' : 'Vastaa suomeksi') : (isEnglish ? 'Answer in Russian' : 'Vastaa ??-??????')}</span>
+                  <span className="option-btn-label">{dir === 'fi-ru' ? (isEnglish ? 'Answer in English' : 'Vastaa suomeksi') : (isEnglish ? 'Answer in Russian' : 'Vastaa venäjäksi')}</span>
                 </button>
               ))}
             </div>
@@ -1052,7 +1054,7 @@ function App() {
                     setShowRanksReviewDirectionPopup(false)
                   }}
                 >
-                  <span className="option-btn-label">{dir === 'fi-ru' ? (isEnglish ? 'Answer in English' : 'Vastaa suomeksi') : (isEnglish ? 'Answer in Russian' : 'Vastaa ??-??????')}</span>
+                  <span className="option-btn-label">{dir === 'fi-ru' ? (isEnglish ? 'Answer in English' : 'Vastaa suomeksi') : (isEnglish ? 'Answer in Russian' : 'Vastaa venäjäksi')}</span>
                 </button>
               ))}
             </div>

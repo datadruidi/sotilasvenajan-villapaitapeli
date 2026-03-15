@@ -149,6 +149,62 @@
   margin-top: -0.35rem;
 }
 
+.splash-store-links {
+  width: 100%;
+  max-width: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 0.1rem;
+  flex-shrink: 0;
+}
+
+.splash-store-links-label {
+  font-size: 0.78rem;
+  line-height: 1;
+  color: #334155;
+  font-weight: 600;
+}
+
+.splash-store-links-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.splash-store-link-btn {
+  width: 2.9rem;
+  height: 2.4rem;
+  min-height: 2.4rem;
+  padding: 0;
+  border: 2px solid #005bbb;
+  border-radius: 0.75rem;
+  background: #ffffff;
+  color: #005bbb;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+  outline: 2px solid #000;
+  outline-offset: -1px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.splash-store-link-btn:hover {
+  background: #e8f0fe;
+  border-color: #004fa5;
+  transform: translateY(-1px);
+}
+
+.splash-store-link-icon {
+  width: 1.28rem;
+  height: 1.28rem;
+  display: block;
+}
+
 .splash-play-btn {
   width: 100%;
 }
@@ -205,6 +261,10 @@
   border: 2px solid #005bbb;
   border-radius: 0.9rem;
   box-shadow: 0 10px 24px rgba(0, 47, 108, 0.18);
+}
+
+.splash-menu-card-wide {
+  width: min(100%, 420px);
 }
 
 .splash-menu-header {
@@ -350,6 +410,14 @@
 
 .splash-info-markdown p {
   margin: 0 0 0.5rem;
+}
+
+.splash-info-markdown img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0.5rem 0;
+  border-radius: 0.5rem;
 }
 
 .splash-info-markdown ul {

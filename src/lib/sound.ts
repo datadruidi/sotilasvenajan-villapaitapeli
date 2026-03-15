@@ -1,6 +1,6 @@
 /**
  * Play feedback sounds for correct/wrong answers and round complete.
- * Place your MP3 files in public/audio/:
+ * Place your MP3 files in public/tiedot-ja-asetukset/audio/:
  *   - correct.mp3  (played when answer is correct)
  *   - wrong.mp3    (played when answer is wrong)
  *   - complete.mp3 (played when the round is complete, after 10 questions)
@@ -8,10 +8,10 @@
  */
 
 const getAudioUrl = (path: string) => `${import.meta.env.BASE_URL}${path.replace(/^\//, '')}`
-const CORRECT_URL = getAudioUrl('/audio/correct.mp3')
-const WRONG_URL = getAudioUrl('/audio/wrong.mp3')
-const COMPLETE_URL = getAudioUrl('/audio/complete.mp3')
-const BUTTON_URL = getAudioUrl('/audio/button.mp3')
+const CORRECT_URL = getAudioUrl('/tiedot-ja-asetukset/audio/correct.mp3')
+const WRONG_URL = getAudioUrl('/tiedot-ja-asetukset/audio/wrong.mp3')
+const COMPLETE_URL = getAudioUrl('/tiedot-ja-asetukset/audio/complete.mp3')
+const BUTTON_URL = getAudioUrl('/tiedot-ja-asetukset/audio/button.mp3')
 
 function playSound(url: string): void {
   try {

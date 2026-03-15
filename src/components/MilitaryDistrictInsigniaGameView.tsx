@@ -135,8 +135,8 @@ export function MilitaryDistrictInsigniaGameView({
           <p className="session-info">{isEnglish ? 'Military District Insignia' : 'Sotilaspiirien tunnukset'}</p>
           <p className="placeholder-note">
             {isEnglish
-              ? 'Add images under public/assets/garrisons/military-district-insignia/<district>/ and run: node scripts/list-military-district-insignia-images.cjs'
-              : 'Lisaa kuvia kansioihin public/assets/garrisons/military-district-insignia/<piiri>/ ja aja: node scripts/list-military-district-insignia-images.cjs'}
+              ? 'Add images under public/assets/sotilaspiirit/military-district-insignia/<district>/ and run: node scripts/list-military-district-insignia-images.cjs'
+              : 'Lisaa kuvia kansioihin public/assets/sotilaspiirit/military-district-insignia/<piiri>/ ja aja: node scripts/list-military-district-insignia-images.cjs'}
           </p>
           <button type="button" className="back-btn" onClick={onBack}>
             {isEnglish ? '<- Back to menu' : '<- Takaisin alkuun'}
@@ -260,3 +260,4 @@ export function MilitaryDistrictInsigniaGameView({
     </div>
   )
 }
+

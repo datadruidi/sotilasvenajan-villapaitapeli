@@ -2,7 +2,7 @@
 import type { AppLanguage } from '../types/game'
 
 const LADAAN_IKKUNA_DURATION_MS = 3000
-const LOADING_MUSIC_SRC = `${import.meta.env.BASE_URL}audio/loading.mp3`
+const LOADING_MUSIC_SRC = `${import.meta.env.BASE_URL}tiedot-ja-asetukset/audio/loading.mp3`
 
 interface LadataanIkkunaProps {
   onComplete: () => void

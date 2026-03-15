@@ -1,51 +1,172 @@
-﻿import { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import ReactMarkdown from 'react-markdown'
 import type { AppLanguage } from '../types/game'
 import { playButtonClick } from '../lib/sound'
 
 const FAVICON_SRC = `${import.meta.env.BASE_URL}favicon.png`
-const INTRO_URL = `${import.meta.env.BASE_URL}audio/intro.mp3`
-const LAHTEET_URL = `${import.meta.env.BASE_URL}lahteet.md`
-const TIETOA_URL = `${import.meta.env.BASE_URL}README.md`
-const UPDATES_URL = `${import.meta.env.BASE_URL}UPDATES.md`
-const SOUNDTRACK_URL = `${import.meta.env.BASE_URL}soundtrack.md`
-const KALUSTOKUVASTO_URL = 'https://github.com/datadruidi/venajan-sotilastoiminnan-perusteet/tree/main/docs/01-puolustushaarat'
+const SETTINGS_PAGES_BASE_URL = `${import.meta.env.BASE_URL}tiedot-ja-asetukset/`
+const SETTINGS_SOURCES_BASE_URL = `${SETTINGS_PAGES_BASE_URL}sources/`
+const SETTINGS_AUDIO_BASE_URL = `${SETTINGS_PAGES_BASE_URL}audio/`
+const INTRO_URL = `${SETTINGS_AUDIO_BASE_URL}intro.mp3`
+const TIETOA_URL = `${SETTINGS_PAGES_BASE_URL}README.md`
+const UPDATES_URL = `${SETTINGS_PAGES_BASE_URL}UPDATES.md`
+const SOUNDTRACK_URL = `${SETTINGS_PAGES_BASE_URL}soundtrack.md`
+const GITHUB_URL = 'https://github.com/datadruidi/sotilasvenajan-villapaitapeli'
+const GOOGLE_PLAY_URL = 'https://play.google.com/store/apps/details?id=com.sotilasvenajan.villapaitapeli&hl=en_NZ'
 
-type InfoPage = 'lahteet' | 'tietoa' | 'paivitykset' | 'soundtrack' | null
+type InfoPage =
+  | 'tietoa'
+  | 'paivitykset'
+  | 'soundtrack'
+  | 'sources-sotilassanasto'
+  | 'sources-puolustushaarat'
+  | 'sources-sotilaspiirit'
+  | 'sources-sotilasarvot'
+  | 'sources-sotilasmerkisto'
+  | 'kalustokuvasto-maavoimat'
+  | 'kalustokuvasto-merivoimat'
+  | 'kalustokuvasto-ilma-avaruusvoimat'
+  | 'kalustokuvasto-miehittamattomat-jarjestelmat'
+  | 'kalustokuvasto-maahanlaskujoukot'
+  | 'kalustokuvasto-strategiset-ohjusjoukot'
+  | null
+
+const EQUIPMENT_CATALOG_OPTIONS = [
+  {
+    id: 'kalustokuvasto-maavoimat' as const,
+    file: 'maavoimat.md',
+    labelFi: 'Maavoimat',
+    labelEn: 'Ground Forces',
+  },
+  {
+    id: 'kalustokuvasto-merivoimat' as const,
+    file: 'merivoimat.md',
+    labelFi: 'Merivoimat',
+    labelEn: 'Navy',
+  },
+  {
+    id: 'kalustokuvasto-ilma-avaruusvoimat' as const,
+    file: 'ilma-avaruusvoimat.md',
+    labelFi: 'Ilma-avaruusvoimat',
+    labelEn: 'Aerospace Forces',
+  },
+  {
+    id: 'kalustokuvasto-miehittamattomat-jarjestelmat' as const,
+    file: 'miehittamattomat-jarjestelmat.md',
+    labelFi: 'Miehittamattomat järjestelmät',
+    labelEn: 'Unmanned Systems',
+  },
+  {
+    id: 'kalustokuvasto-maahanlaskujoukot' as const,
+    file: 'maahanlaskujoukot.md',
+    labelFi: 'Maahanlaskujoukot',
+    labelEn: 'Airborne Forces',
+  },
+  {
+    id: 'kalustokuvasto-strategiset-ohjusjoukot' as const,
+    file: 'strategiset-ohjusjoukot.md',
+    labelFi: 'Strategiset ohjusjoukot',
+    labelEn: 'Strategic Missile Forces',
+  },
+]
+
+const SOURCES_OPTIONS = [
+  {
+    id: 'sources-sotilassanasto' as const,
+    file: '00-sotilassanasto-sources.md',
+    labelFi: 'Sotilassanasto',
+    labelEn: 'Military Vocabulary',
+  },
+  {
+    id: 'sources-puolustushaarat' as const,
+    file: '01-puolustushaarat-sources.md',
+    labelFi: 'Puolustushaarat',
+    labelEn: 'Military Branches',
+  },
+  {
+    id: 'sources-sotilaspiirit' as const,
+    file: '02-sotilaspiirit-sources.md',
+    labelFi: 'Sotilaspiirit',
+    labelEn: 'Military Districts',
+  },
+  {
+    id: 'sources-sotilasarvot' as const,
+    file: '03-sotilasarvot-sources.md',
+    labelFi: 'Sotilasarvot',
+    labelEn: 'Military Ranks',
+  },
+  {
+    id: 'sources-sotilasmerkisto' as const,
+    file: '04-sotilasmerkisto-sources.md',
+    labelFi: 'Sotilasmerkisto',
+    labelEn: 'Military Symbology',
+  },
+]
 
 interface SplashScreenProps {
   onPlay: () => void
+  onOpenDailyBrief: () => void
   muted: boolean
   appLanguage: AppLanguage
   onChangeLanguage: (language: AppLanguage) => void
 }
 
-export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: SplashScreenProps) {
+function GitHubIcon() {
+  return (
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" className="splash-store-link-icon">
+      <path
+        fill="currentColor"
+        d="M12 .5a12 12 0 0 0-3.79 23.39c.6.11.82-.26.82-.58v-2.02c-3.34.73-4.04-1.41-4.04-1.41-.55-1.37-1.33-1.73-1.33-1.73-1.09-.73.08-.72.08-.72 1.2.09 1.83 1.22 1.83 1.22 1.08 1.82 2.82 1.3 3.5 1 .11-.76.42-1.3.77-1.6-2.67-.3-5.47-1.31-5.47-5.86 0-1.3.47-2.36 1.22-3.2-.12-.3-.53-1.52.12-3.16 0 0 1-.32 3.3 1.22a11.6 11.6 0 0 1 6 0c2.3-1.54 3.3-1.22 3.3-1.22.65 1.64.24 2.86.12 3.16.76.84 1.22 1.9 1.22 3.2 0 4.56-2.8 5.56-5.48 5.85.43.37.81 1.1.81 2.22v3.29c0 .32.21.69.82.58A12 12 0 0 0 12 .5Z"
+      />
+    </svg>
+  )
+}
+
+function GooglePlayIcon() {
+  return (
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" className="splash-store-link-icon">
+      <path fill="#00d07f" d="M3.18 2.36c-.27.3-.43.74-.43 1.31v16.66c0 .57.16 1.01.43 1.31l.07.07L12.6 12 3.25 2.29l-.07.07Z" />
+      <path fill="#00a1ff" d="m15.72 15.13-3.12-3.13L3.18 21.64c.42.45 1.1.5 1.88.08l10.66-6.59Z" />
+      <path fill="#ff4d6d" d="M15.83 8.76 5.13 2.12c-.78-.42-1.46-.37-1.88.08L12.6 12l3.23-3.24Z" />
+      <path fill="#ffb703" d="M21.26 10.95 15.83 8.76 12.6 12l3.12 3.13 5.52-3.42c.92-.57.92-1.5.02-1.86Z" />
+    </svg>
+  )
+}
+
+export function SplashScreen({ onPlay, onOpenDailyBrief, muted, appLanguage, onChangeLanguage }: SplashScreenProps) {
   const isEnglish = appLanguage === 'eng'
   const [infoPage, setInfoPage] = useState<InfoPage>(null)
   const [isInfoMenuOpen, setIsInfoMenuOpen] = useState(false)
+  const [isEquipmentMenuOpen, setIsEquipmentMenuOpen] = useState(false)
+  const [isSourcesMenuOpen, setIsSourcesMenuOpen] = useState(false)
   const [pageContent, setPageContent] = useState<string | null>(null)
   const [pageError, setPageError] = useState<string | null>(null)
   const introAudioRef = useRef<HTMLAudioElement | null>(null)
 
-  const pageUrl = infoPage === 'lahteet'
-    ? LAHTEET_URL
-    : infoPage === 'tietoa'
+  const equipmentCatalogPage = EQUIPMENT_CATALOG_OPTIONS.find((option) => option.id === infoPage)
+  const sourcesPage = SOURCES_OPTIONS.find((option) => option.id === infoPage)
+  const pageUrl = infoPage === 'tietoa'
       ? TIETOA_URL
       : infoPage === 'paivitykset'
         ? UPDATES_URL
         : infoPage === 'soundtrack'
           ? SOUNDTRACK_URL
-          : null
-  const pageTitle = infoPage === 'lahteet'
-    ? (isEnglish ? 'Sources and licenses' : 'Lahteet ja lisenssit')
-    : infoPage === 'tietoa'
+          : sourcesPage
+            ? `${SETTINGS_SOURCES_BASE_URL}${sourcesPage.file}`
+          : equipmentCatalogPage
+            ? `${import.meta.env.BASE_URL}kalustokuvasto/${equipmentCatalogPage.file}`
+            : null
+  const pageTitle = infoPage === 'tietoa'
       ? (isEnglish ? 'About' : 'Tietoa')
       : infoPage === 'paivitykset'
         ? (isEnglish ? 'Updates' : 'Paivitykset')
         : infoPage === 'soundtrack'
           ? (isEnglish ? 'Soundtrack' : 'Soundtrack')
-        : ''
+          : sourcesPage
+            ? (isEnglish ? sourcesPage.labelEn : sourcesPage.labelFi)
+          : equipmentCatalogPage
+            ? (isEnglish ? equipmentCatalogPage.labelEn : equipmentCatalogPage.labelFi)
+            : ''
 
   useEffect(() => {
     const showMainSplash = infoPage === null
@@ -81,12 +202,24 @@ export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: S
   const openInfoPage = (page: InfoPage) => {
     playButtonClick(muted)
     setIsInfoMenuOpen(false)
+    setIsEquipmentMenuOpen(false)
+    setIsSourcesMenuOpen(false)
     setInfoPage(page)
   }
 
-  const openKalustokuvasto = () => {
+  const openKalustokuvastoMenu = () => {
     playButtonClick(muted)
-    window.open(KALUSTOKUVASTO_URL, '_blank', 'noopener,noreferrer')
+    setIsEquipmentMenuOpen(true)
+  }
+
+  const openGithub = () => {
+    playButtonClick(muted)
+    window.open(GITHUB_URL, '_blank', 'noopener,noreferrer')
+  }
+
+  const openGooglePlay = () => {
+    playButtonClick(muted)
+    window.open(GOOGLE_PLAY_URL, '_blank', 'noopener,noreferrer')
   }
 
   const openInfoMenu = () => {
@@ -94,9 +227,24 @@ export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: S
     setIsInfoMenuOpen(true)
   }
 
+  const openSourcesMenu = () => {
+    playButtonClick(muted)
+    setIsSourcesMenuOpen(true)
+  }
+
   const closeInfoMenu = () => {
     playButtonClick(muted)
     setIsInfoMenuOpen(false)
+  }
+
+  const closeEquipmentMenu = () => {
+    playButtonClick(muted)
+    setIsEquipmentMenuOpen(false)
+  }
+
+  const closeSourcesMenu = () => {
+    playButtonClick(muted)
+    setIsSourcesMenuOpen(false)
   }
 
   const handleLogoClick = () => {
@@ -118,7 +266,7 @@ export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: S
         <div className="splash-info-page">
           <div className="splash-info-header">
             <button type="button" className="splash-info-back" onClick={() => setInfoPage(null)} aria-label={isEnglish ? 'Back to start' : 'Aloitusnaytolle'}>
-              🏠
+              ??
             </button>
             <h1 className="splash-info-page-title">{pageTitle}</h1>
             <span className="splash-info-header-spacer" aria-hidden="true" />
@@ -167,10 +315,10 @@ export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: S
           <span className="splash-language-label">{isEnglish ? 'Choose language' : 'Valitse kieli'}</span>
           <div className="landing-language-switch" role="group" aria-label="Language">
             <button type="button" className={`lang-btn ${appLanguage === 'fin' ? 'active' : ''}`} onClick={() => onChangeLanguage('fin')}>
-              <span className="lang-flag" aria-hidden="true">🇫🇮</span> FIN
+              <span className="lang-flag" aria-hidden="true">{"\uD83C\uDDEB\uD83C\uDDEE"}</span> FIN
             </button>
             <button type="button" className={`lang-btn ${appLanguage === 'eng' ? 'active' : ''}`} onClick={() => onChangeLanguage('eng')}>
-              <span className="lang-flag" aria-hidden="true">🇬🇧</span> ENG
+              <span className="lang-flag" aria-hidden="true">{"\uD83C\uDDEC\uD83C\uDDE7"}</span> ENG
             </button>
           </div>
         </div>
@@ -178,12 +326,38 @@ export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: S
           <button type="button" className="splash-play-btn" onClick={onPlay}>
             {isEnglish ? 'Play' : 'Pelaa'}
           </button>
-          <button type="button" className="splash-info-btn" onClick={openKalustokuvasto}>
+          <button type="button" className="splash-info-btn" onClick={onOpenDailyBrief}>
+            {isEnglish ? 'OSINT Daily Brief' : 'OSINT-päiväkatsaus'}
+          </button>
+          <button type="button" className="splash-info-btn" onClick={openKalustokuvastoMenu}>
             {isEnglish ? 'Equipment Catalog' : 'Kalustokuvasto'}
           </button>
           <button type="button" className="splash-info-btn" onClick={openInfoMenu}>
             {isEnglish ? 'Information & Settings' : 'Tiedot ja asetukset'}
           </button>
+        </div>
+        <div className="splash-store-links" aria-label={isEnglish ? 'External links' : 'Ulkoiset linkit'}>
+          <span className="splash-store-links-label">{isEnglish ? 'Available on:' : 'Saatavilla:'}</span>
+          <div className="splash-store-links-row">
+            <button
+              type="button"
+              className="splash-store-link-btn"
+              onClick={openGithub}
+              aria-label={isEnglish ? 'Open GitHub page' : 'Avaa GitHub-sivu'}
+              title="GitHub"
+            >
+              <GitHubIcon />
+            </button>
+            <button
+              type="button"
+              className="splash-store-link-btn"
+              onClick={openGooglePlay}
+              aria-label={isEnglish ? 'Open Google Play page' : 'Avaa Google Play -sivu'}
+              title="Google Play"
+            >
+              <GooglePlayIcon />
+            </button>
+          </div>
         </div>
         {isInfoMenuOpen && (
           <div className="splash-menu-overlay" role="dialog" aria-modal="true" aria-label={isEnglish ? 'Information and settings' : 'Tiedot ja asetukset'}>
@@ -192,7 +366,7 @@ export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: S
               <div className="splash-menu-header">
                 <h2 className="splash-menu-title">{isEnglish ? 'Information & Settings' : 'Tiedot ja asetukset'}</h2>
                 <button type="button" className="splash-menu-close" onClick={closeInfoMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'}>
-                  ✕
+                  ?
                 </button>
               </div>
               <div className="splash-menu-buttons">
@@ -202,7 +376,7 @@ export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: S
                 <button type="button" className="splash-info-btn" onClick={() => openInfoPage('paivitykset')}>
                   {isEnglish ? 'Updates' : 'Päivitykset'}
                 </button>
-                <button type="button" className="splash-info-btn" onClick={() => openInfoPage('lahteet')}>
+                <button type="button" className="splash-info-btn" onClick={openSourcesMenu}>
                   {isEnglish ? 'Sources & Licenses' : 'Lähteet ja lisenssit'}
                 </button>
                 <button type="button" className="splash-info-btn" onClick={() => openInfoPage('soundtrack')}>
@@ -212,7 +386,48 @@ export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: S
             </div>
           </div>
         )}
+        {isSourcesMenuOpen && (
+          <div className="splash-menu-overlay" role="dialog" aria-modal="true" aria-label={isEnglish ? 'Sources and licenses' : 'Lähteet ja lisenssit'}>
+            <button type="button" className="splash-menu-backdrop" onClick={closeSourcesMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'} />
+            <div className="splash-menu-card splash-menu-card-wide">
+              <div className="splash-menu-header">
+                <h2 className="splash-menu-title">{isEnglish ? 'Sources & Licenses' : 'Lähteet ja lisenssit'}</h2>
+                <button type="button" className="splash-menu-close" onClick={closeSourcesMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'}>
+                  ?
+                </button>
+              </div>
+              <div className="splash-menu-buttons">
+                {SOURCES_OPTIONS.map((option) => (
+                  <button key={option.id} type="button" className="splash-info-btn" onClick={() => openInfoPage(option.id)}>
+                    {isEnglish ? option.labelEn : option.labelFi}
+                  </button>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
+        {isEquipmentMenuOpen && (
+          <div className="splash-menu-overlay" role="dialog" aria-modal="true" aria-label={isEnglish ? 'Equipment catalog' : 'Kalustokuvasto'}>
+            <button type="button" className="splash-menu-backdrop" onClick={closeEquipmentMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'} />
+            <div className="splash-menu-card splash-menu-card-wide">
+              <div className="splash-menu-header">
+                <h2 className="splash-menu-title">{isEnglish ? 'Equipment Catalog' : 'Kalustokuvasto'}</h2>
+                <button type="button" className="splash-menu-close" onClick={closeEquipmentMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'}>
+                  ?
+                </button>
+              </div>
+              <div className="splash-menu-buttons">
+                {EQUIPMENT_CATALOG_OPTIONS.map((option) => (
+                  <button key={option.id} type="button" className="splash-info-btn splash-equipment-btn" onClick={() => openInfoPage(option.id)}>
+                    {isEnglish ? option.labelEn : option.labelFi}
+                  </button>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
       </div>
     </div>
   )
 }
+

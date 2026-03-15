@@ -2,21 +2,21 @@
  * Varuskunnat (garrisons) quiz data.
  * Each entry has an image (map-style) and the correct garrison name.
  *
- * Image location: public/assets/garrisons/
+ * Image location: public/assets/sotilaspiirit/
  * Naming: use the correct answer as filename, e.g. Santahamina.jpg, Upinniemi.jpg
  * Names with spaces: Utin lentoasema.jpg (path is URL-encoded automatically).
  */
 
 export interface GarrisonEntry {
   id: string
-  /** Path to image asset. Built from correctAnswer → /assets/garrisons/{correctAnswer}.jpg */
+  /** Path to image asset. Built from correctAnswer → /assets/sotilaspiirit/{correctAnswer}.jpg */
   imagePath: string
   /** Correct answer shown as one of the four options. Also used for image filename. */
   correctAnswer: string
   active: boolean
 }
 
-const GARRISONS_BASE = '/assets/garrisons'
+const GARRISONS_BASE = '/assets/sotilaspiirit'
 
 /** Image path from garrison name: e.g. "Santahamina" → .../Santahamina.jpg */
 function imagePathFromName(correctAnswer: string): string {
@@ -93,3 +93,5 @@ export function getGarrisonsPoolFromIds(ids: string[]): GarrisonEntry[] {
   const idSet = new Set(ids)
   return GARRISONS_REGISTRY.filter((e) => e.active && idSet.has(e.id))
 }
+
+
