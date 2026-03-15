@@ -1,6 +1,6 @@
 /**
  * Game logic: image selection and answer generation.
- * Navy pool is built from file list + filename parser; other branches use the registry.
+ * Russia branch pools are built from file lists; everything else uses the registry.
  */
 
 import type { ArmySubMode, CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
@@ -11,30 +11,63 @@ import { GROUND_FORCES_IMAGE_PATHS } from '../data/groundForcesImagePaths'
 import { NAVY_IMAGE_PATHS } from '../data/navyImagePaths'
 import { STRATEGIC_MISSILE_FORCES_IMAGE_PATHS } from '../data/strategicMissileForcesImagePaths'
 import { UNMANNED_SYSTEMS_IMAGE_PATHS } from '../data/unmannedSystemsImagePaths'
-import { parseNavyFilename } from './navyFilenameParser'
+
+const NAVY_SUB_MODE_SET = new Set<NavySubMode>([
+  'maihinnousualukset',
+  'miinantorjunta-alukset',
+  'sukellusveneet',
+  'taistelualukset',
+  'tiedustelualukset',
+])
+
+function formatNavyClassName(raw: string): string {
+  const parts = raw
+    .trim()
+    .split(/[_\s]+/)
+    .flatMap((segment) => segment.split('-').map((part) => part.trim()).filter(Boolean))
+
+  if (parts.length === 0) return raw
+
+  return parts
+    .map((part) => {
+      if (/^(i|ii|iii|iv|v|vi|vii|viii|ix|x)$/i.test(part)) return part.toUpperCase()
+      if (/^[a-z]$/i.test(part)) return part.toUpperCase()
+      return part.charAt(0).toUpperCase() + part.slice(1).toLowerCase()
+    })
+    .reduce<string[]>((acc, part) => {
+      const previous = acc[acc.length - 1] ?? ''
+      if (/^[A-Z]$/.test(part) && previous.length > 0) {
+        acc[acc.length - 1] = `${previous}-${part}`
+        return acc
+      }
+      acc.push(part)
+      return acc
+    }, [])
+    .join(' ')
+}
 
 /**
- * Build navy image entries from path list; class and vessel name are derived from filenames.
- * - class_01.jpg → class only (Alusluokat).
- * - class_vesselname_01.jpg or class_vesselname.jpg → class + vessel name (both modes).
+ * Build navy image entries from path list.
+ * Class name is derived from /navy/<category>/<class>/ so the new categorized structure drives the quiz.
+ * Legacy flat navy folders are ignored.
  */
 function getNavyImageEntries(): ImageEntry[] {
   const entries: ImageEntry[] = []
   for (let i = 0; i < NAVY_IMAGE_PATHS.length; i++) {
     const assetPath = NAVY_IMAGE_PATHS[i]
-    const parsed = parseNavyFilename(assetPath)
-    if (!parsed) continue
-    // When there is no vessel name (e.g. ivan_gren_01.jpg), use class name so the same name
-    // is shown in both Alusluokat and Alusten nimet.
-    const vesselName = parsed.vesselName ?? parsed.classDisplay
+    const parts = assetPath.split('/').filter(Boolean)
+    const baseIndex = parts.indexOf('navy')
+    const navySubMode = baseIndex >= 0 ? (parts[baseIndex + 1] ?? '') : ''
+    const classKey = baseIndex >= 0 ? (parts[baseIndex + 2] ?? '') : ''
+    if (!NAVY_SUB_MODE_SET.has(navySubMode as NavySubMode) || !classKey) continue
     entries.push({
       id: `ru-navy-${i}-${assetPath.replace(/\//g, '-').replace(/\s/g, '_')}`,
       assetPath,
       country: 'russia',
       branch: 'navy',
-      correctClassName: `${parsed.classDisplay} class`,
+      correctClassName: `${formatNavyClassName(classKey)} class`,
       active: true,
-      vesselName,
+      navySubMode: navySubMode as NavySubMode,
     })
   }
   return entries
@@ -212,10 +245,7 @@ function getUnmannedSystemsImageEntries(): ImageEntry[] {
   return entries
 }
 
-/**
- * Filters the image pool to entries matching country and branch, active only.
- * Navy uses file list + parser; for navy + vesselName mode, only entries with vesselName are included.
- */
+/** Filters the image pool to entries matching country and branch, active only. */
 export function getFilteredPool(
   country: CountryId,
   branch: VehicleBranch,
@@ -223,11 +253,9 @@ export function getFilteredPool(
   armySubMode?: ArmySubMode
 ): ImageEntry[] {
   if (country === 'russia' && branch === 'navy') {
-    let pool = getNavyImageEntries()
-    if (navySubMode === 'vesselName') {
-      pool = pool.filter((e) => e.vesselName != null && e.vesselName.trim() !== '')
-    }
-    return pool
+    const pool = getNavyImageEntries()
+    if (!navySubMode) return pool
+    return pool.filter((entry) => entry.navySubMode === navySubMode)
   }
   if (country === 'russia' && branch === 'uav-systems') {
     return getUnmannedSystemsImageEntries()
@@ -261,50 +289,18 @@ export function selectImageFromPool(pool: ImageEntry[]): ImageEntry | null {
   return pool[index]
 }
 
-/**
- * All distinct class names from the pool (for generating wrong answers).
- */
+/** All distinct class names from the pool (for generating wrong answers). */
 function getClassNamesFromPool(pool: ImageEntry[]): string[] {
   const set = new Set(pool.map((e) => e.correctClassName))
   return [...set]
 }
 
-/**
- * All distinct vessel names from the pool (navy vesselName mode).
- */
-function getVesselNamesFromPool(pool: ImageEntry[]): string[] {
-  const names: string[] = []
-  for (const e of pool) {
-    if (e.vesselName != null && e.vesselName.trim() !== '') {
-      names.push(e.vesselName.trim())
-    }
-  }
-  return [...new Set(names)]
-}
-
-/**
- * Returns four option strings: the correct class name plus three other
- * plausible options from the same country and branch. Options are shuffled.
- */
+/** Returns four option strings: the correct class name plus three other plausible options. */
 export function generateOptions(
   selectedEntry: ImageEntry,
   pool: ImageEntry[],
-  navySubMode?: NavySubMode
+  _navySubMode?: NavySubMode
 ): string[] {
-  if (navySubMode === 'vesselName' && selectedEntry.vesselName != null) {
-    const correct = selectedEntry.vesselName.trim()
-    const allVesselNames = getVesselNamesFromPool(pool)
-    const others = allVesselNames.filter((name) => normalizeVesselName(name) !== normalizeVesselName(correct))
-    const wrongOptions: string[] = []
-    const shuffled = [...others].sort(() => Math.random() - 0.5)
-    for (const name of shuffled) {
-      if (wrongOptions.length >= 3) break
-      wrongOptions.push(name)
-    }
-    const options = [correct, ...wrongOptions]
-    return shuffleArray(options)
-  }
-
   const correct = selectedEntry.correctClassName
   const allClassNames = getClassNamesFromPool(pool)
   const others = allClassNames.filter((name) => name !== correct)
@@ -320,58 +316,29 @@ export function generateOptions(
   return shuffleArray(options)
 }
 
-/**
- * Correct answer for the current question (class or vessel name depending on navy sub-mode).
- */
-export function getCorrectAnswer(entry: ImageEntry, navySubMode?: NavySubMode): string {
-  if (navySubMode === 'vesselName' && entry.vesselName != null && entry.vesselName.trim() !== '') {
-    return entry.vesselName.trim()
-  }
+/** Correct answer for the current question. */
+export function getCorrectAnswer(entry: ImageEntry, _navySubMode?: NavySubMode): string {
   return entry.correctClassName
 }
 
 function shuffleArray<T>(arr: T[]): T[] {
   const out = [...arr]
   for (let i = out.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [out[i], out[j]] = [out[j], out[i]]
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[out[i], out[j]] = [out[j], out[i]]
   }
   return out
 }
 
-/**
- * Checks the user's answer against the correct answer (class or vessel name).
- */
+/** Checks the user's answer against the correct class name. */
 export function checkAnswer(
   userAnswer: string,
-  correctAnswer: string,
-  isVesselName: boolean = false
+  correctAnswer: string
 ): boolean {
-  if (isVesselName) {
-    return normalizeVesselName(userAnswer) === normalizeVesselName(correctAnswer)
-  }
   return normalizeClassLabel(userAnswer) === normalizeClassLabel(correctAnswer)
 }
 
-/**
- * Strips trailing " class" (case-insensitive) for display; answers are shown without "class".
- */
+/** Strips trailing " class" (case-insensitive) for display; answers are shown without "class". */
 export function normalizeClassLabel(name: string): string {
   return name.trim().replace(/\s+class$/i, '')
-}
-
-/**
- * Normalize vessel name for comparison (trim, case-insensitive).
- */
-export function normalizeVesselName(name: string): string {
-  return name.trim().toLowerCase()
-}
-
-/**
- * Display form of vessel name (capitalize each word).
- */
-export function formatVesselName(name: string): string {
-  const t = name.trim()
-  if (t.length === 0) return t
-  return t.split(/\s+/).map((w) => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join(' ')
 }

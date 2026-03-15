@@ -2,7 +2,6 @@
 import type { AppLanguage, ArmySubMode, CountryId, ImageEntry, NavySubMode, VehicleBranch } from '../types/game'
 import {
   checkAnswer,
-  formatVesselName,
   generateOptions,
   getCorrectAnswer,
   getFilteredPool,
@@ -81,12 +80,11 @@ export function GameView({ country, branch, branchLabel, menuTitle, navySubMode,
     startRound(1)
   }, [startRound])
 
-  const isVesselNameMode = branch === 'navy' && navySubMode === 'vesselName'
   const correctAnswer = currentEntry ? getCorrectAnswer(currentEntry, navySubMode) : ''
 
   const handleOptionClick = (option: string) => {
     if (showResult) return
-    const isCorrect = checkAnswer(option, correctAnswer, isVesselNameMode)
+    const isCorrect = checkAnswer(option, correctAnswer)
     setSelectedAnswer(option)
     setShowResult(true)
     if (isCorrect) {
@@ -110,10 +108,10 @@ export function GameView({ country, branch, branchLabel, menuTitle, navySubMode,
 
   const sessionInfo =
     branch === 'navy' && navySubMode
-      ? `${isEnglish ? 'Russia -> Branch capabilities' : 'Venaja -> Puolustushaarojen suorituskyvyt'} -> ${branchLabel} -> ${navySubMode === 'class' ? (isEnglish ? 'Vessel classes' : 'Alusluokat') : (isEnglish ? 'Vessel names' : 'Alusten nimet')}`
+      ? `${isEnglish ? 'Russia -> Branch capabilities' : 'Venaja -> Puolustushaarojen suorituskyvyt'} -> ${branchLabel} -> ${menuTitle}`
       : branch === 'army' && armySubMode
         ? `${isEnglish ? 'Russia -> Branch capabilities' : 'Venaja -> Puolustushaarojen suorituskyvyt'} -> ${branchLabel} -> ${menuTitle}`
-      : `${isEnglish ? 'Russia -> Branch capabilities' : 'Venaja -> Puolustushaarojen suorituskyvyt'} -> ${branchLabel}`
+        : `${isEnglish ? 'Russia -> Branch capabilities' : 'Venaja -> Puolustushaarojen suorituskyvyt'} -> ${branchLabel}`
 
   if (pool.length === 0 && !currentEntry && !gameOver) {
     return (
@@ -171,20 +169,18 @@ export function GameView({ country, branch, branchLabel, menuTitle, navySubMode,
 
   if (!currentEntry) return null
 
-  const isCorrect = selectedAnswer !== null && checkAnswer(selectedAnswer, correctAnswer, isVesselNameMode)
+  const isCorrect = selectedAnswer !== null && checkAnswer(selectedAnswer, correctAnswer)
 
   const getOptionState = (option: string) => {
     if (!showResult) return ''
-    const norm = isVesselNameMode ? (s: string) => s.trim().toLowerCase() : (s: string) => normalizeClassLabel(s)
+    const norm = (s: string) => normalizeClassLabel(s)
     if (norm(option) === norm(correctAnswer)) return 'correct'
     if (option === selectedAnswer && !isCorrect) return 'incorrect'
     return 'revealed'
   }
 
-  const quizPrompt = isVesselNameMode
-    ? (isEnglish ? 'What is the vessel name?' : 'Mika aluksen nimi on?')
-    : (isEnglish ? 'What class is this?' : 'Mika luokka tama on?')
-  const formatOption = (opt: string) => (isVesselNameMode ? formatVesselName(opt) : normalizeClassLabel(opt))
+  const quizPrompt = isEnglish ? 'What class is this?' : 'Mika luokka tama on?'
+  const formatOption = (opt: string) => normalizeClassLabel(opt)
 
   return (
     <div className="app">

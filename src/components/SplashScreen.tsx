@@ -9,6 +9,7 @@ const LAHTEET_URL = `${import.meta.env.BASE_URL}lahteet.md`
 const TIETOA_URL = `${import.meta.env.BASE_URL}README.md`
 const UPDATES_URL = `${import.meta.env.BASE_URL}UPDATES.md`
 const SOUNDTRACK_URL = `${import.meta.env.BASE_URL}soundtrack.md`
+const KALUSTOKUVASTO_URL = 'https://github.com/datadruidi/venajan-sotilastoiminnan-perusteet/tree/main/docs/01-puolustushaarat'
 
 type InfoPage = 'lahteet' | 'tietoa' | 'paivitykset' | 'soundtrack' | null
 
@@ -22,6 +23,7 @@ interface SplashScreenProps {
 export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: SplashScreenProps) {
   const isEnglish = appLanguage === 'eng'
   const [infoPage, setInfoPage] = useState<InfoPage>(null)
+  const [isInfoMenuOpen, setIsInfoMenuOpen] = useState(false)
   const [pageContent, setPageContent] = useState<string | null>(null)
   const [pageError, setPageError] = useState<string | null>(null)
   const introAudioRef = useRef<HTMLAudioElement | null>(null)
@@ -78,7 +80,23 @@ export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: S
 
   const openInfoPage = (page: InfoPage) => {
     playButtonClick(muted)
+    setIsInfoMenuOpen(false)
     setInfoPage(page)
+  }
+
+  const openKalustokuvasto = () => {
+    playButtonClick(muted)
+    window.open(KALUSTOKUVASTO_URL, '_blank', 'noopener,noreferrer')
+  }
+
+  const openInfoMenu = () => {
+    playButtonClick(muted)
+    setIsInfoMenuOpen(true)
+  }
+
+  const closeInfoMenu = () => {
+    playButtonClick(muted)
+    setIsInfoMenuOpen(false)
   }
 
   const handleLogoClick = () => {
@@ -160,19 +178,40 @@ export function SplashScreen({ onPlay, muted, appLanguage, onChangeLanguage }: S
           <button type="button" className="splash-play-btn" onClick={onPlay}>
             {isEnglish ? 'Play' : 'Pelaa'}
           </button>
-          <button type="button" className="splash-info-btn" onClick={() => openInfoPage('tietoa')}>
-            {isEnglish ? 'About' : 'Tietoa'}
+          <button type="button" className="splash-info-btn" onClick={openKalustokuvasto}>
+            {isEnglish ? 'Equipment Catalog' : 'Kalustokuvasto'}
           </button>
-          <button type="button" className="splash-info-btn" onClick={() => openInfoPage('paivitykset')}>
-            {isEnglish ? 'Updates' : 'Päivitykset'}
-          </button>
-          <button type="button" className="splash-info-btn" onClick={() => openInfoPage('lahteet')}>
-            {isEnglish ? 'Sources and licenses' : 'Lähteet ja lisenssit'}
-          </button>
-          <button type="button" className="splash-info-btn" onClick={() => openInfoPage('soundtrack')}>
-            {isEnglish ? 'Soundtrack' : 'Soundtrack'}
+          <button type="button" className="splash-info-btn" onClick={openInfoMenu}>
+            {isEnglish ? 'Information & Settings' : 'Tiedot ja asetukset'}
           </button>
         </div>
+        {isInfoMenuOpen && (
+          <div className="splash-menu-overlay" role="dialog" aria-modal="true" aria-label={isEnglish ? 'Information and settings' : 'Tiedot ja asetukset'}>
+            <button type="button" className="splash-menu-backdrop" onClick={closeInfoMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'} />
+            <div className="splash-menu-card">
+              <div className="splash-menu-header">
+                <h2 className="splash-menu-title">{isEnglish ? 'Information & Settings' : 'Tiedot ja asetukset'}</h2>
+                <button type="button" className="splash-menu-close" onClick={closeInfoMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'}>
+                  ✕
+                </button>
+              </div>
+              <div className="splash-menu-buttons">
+                <button type="button" className="splash-info-btn" onClick={() => openInfoPage('tietoa')}>
+                  {isEnglish ? 'About' : 'Tietoa'}
+                </button>
+                <button type="button" className="splash-info-btn" onClick={() => openInfoPage('paivitykset')}>
+                  {isEnglish ? 'Updates' : 'Päivitykset'}
+                </button>
+                <button type="button" className="splash-info-btn" onClick={() => openInfoPage('lahteet')}>
+                  {isEnglish ? 'Sources & Licenses' : 'Lähteet ja lisenssit'}
+                </button>
+                <button type="button" className="splash-info-btn" onClick={() => openInfoPage('soundtrack')}>
+                  {isEnglish ? 'Soundtrack' : 'Soundtrack'}
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
       </div>
     </div>
   )

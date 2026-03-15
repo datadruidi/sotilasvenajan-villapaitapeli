@@ -8,8 +8,13 @@ export type CountryId = 'russia' | 'usa' | 'china'
 export type VehicleBranch = 'army' | 'navy' | 'airforce' | 'other' | 'uav-systems' | 'strategic-missile' | 'airborne'
 export type AppLanguage = 'fin' | 'eng'
 
-/** Navy-only: quiz by vessel class (e.g. Steregushchiy) or by vessel name (e.g. Boikiy). */
-export type NavySubMode = 'class' | 'vesselName'
+/** Navy-only: top-level category under /navy/. */
+export type NavySubMode =
+  | 'maihinnousualukset'
+  | 'miinantorjunta-alukset'
+  | 'sukellusveneet'
+  | 'taistelualukset'
+  | 'tiedustelualukset'
 export type ArmySubMode =
   | 'elso-kalusto'
   | 'heitin-kalusto'
@@ -34,8 +39,8 @@ export interface ImageEntry {
   correctClassName: string
   /** If false, this image is excluded from the game pool. */
   active: boolean
-  /** Navy only: vessel name (e.g. Boikiy) when filename is class_vesselname.jpg. Used for "Alusten nimet" mode. */
-  vesselName?: string
+  /** Navy only: top-level category under /navy/. */
+  navySubMode?: NavySubMode
   /** Ground Forces only: top-level category under /ground_forces/. */
   armySubMode?: ArmySubMode
 }
