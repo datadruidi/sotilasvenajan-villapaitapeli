@@ -2,7 +2,33 @@
 
 This file is a cumulative changelog: newest versions are listed first. Older entries are kept.
 
-**Current version:** 1.0.10
+**Current version:** 1.0.11
+
+---
+
+## Version 1.0.11 (2026-03-15)
+
+This update focuses on splash-screen navigation, reorganized bundled reference content, expanded branch study materials, and Android release preparation.
+
+- Reworked the main splash/start experience:
+  - Added a direct **OSINT Daily Brief / OSINT-paivakatsaus** entry from the splash screen.
+  - Added new splash menus for **Sources**, **Equipment catalogs**, and supporting info pages.
+  - Added quick-link buttons for **GitHub** and **Google Play** on the main screen.
+- Reorganized bundled app content and markdown locations:
+  - Moved settings/info assets under `public/tiedot-ja-asetukset/`.
+  - Moved bundled OSINT brief files under `public/sitrep/`.
+  - Updated app audio/content URLs to use the new folder structure.
+- Expanded playable military branch and reference content:
+  - Reworked **Navy** into category-based submodes instead of only ship class/name.
+  - Added large bundled source/reference sets and kalustokuvasto markdown for branches, military districts, and military symbology.
+  - Updated bundled **Aerospace Forces** sources, image assets, and kalustokuvasto to the current structured version.
+- Improved Android release readiness:
+  - Updated release version metadata to `1.0.11`.
+  - Added safer Android signing-keystore checks so an invalid `storeFile` path is not applied automatically during release configuration.
+- Updated app version metadata to `1.0.11`:
+  - `package.json` version -> `1.0.11`
+  - Android `versionName` -> `1.0.11`
+  - Android `versionCode` -> `13`
 
 ---
 
