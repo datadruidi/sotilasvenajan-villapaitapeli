@@ -1,152 +1,163 @@
-# 2026-03-16
+# 2026-03-17
 
 ## Tiivistelma
 
-Tarkastelujaksolla väkivaltaiset tapahtumat Venäjällä heijastavat kasvaneita jännitteitä ja jatkuvia sotilaallisia toimia. Erityisesti merkittäviä dronejen keskeytyksiä ja hyökkäyksiä raportoitiin, mikä korosti Ukrainan kanssa käytävän ilmasodan voimistumista, samaan aikaan kun kehitystä tapahtui yritysregulaatiossa ja kansainvälisessä resurssihankkeessa Afrikassa. Lisäksi Itä-Ukrainassa esiintyvät jatkuvat sotilaalliset kehitykset viittaavat siihen, että Venäjän joukot pyrkivät strategisesti parantamaan asemaansa, mikä saattaa muuttaa alueellisia voimadynamiikkoja ja provosoida vastatoimia Ukrainalta ja sen liittolaisilta.
+Tarkastelujaksolla Venäjän sisäisen ja ulkoisen turvallisuuden kentällä tapahtui merkittäviä kehityksiä, joista erityisesti UAV-liittyvien tapausten lisääntyminen korosti jatkuvaa konfliktia Ukrainan kanssa. Lisäksi maatalouden ja matkailun kaltaisilla aloilla tapahtuvat sääntelymuutokset heijastavat hallituksen pyrkimyksiä vahvistaa taloudellista vakautta geopoliittisten jännitteiden keskellä, mukaan lukien Liettuan ilmaisemat huolenaiheet Valkovenäjän ydintoiminnasta. Laaja tapahtumakirjo korostaa kotimaisen politiikan säätöjen ja alueellisten turvallisuusuhkien monimutkaista vuorovaikutusta.
 
 
-## Ulkoministeriö takavarikoi 32 miljardia ruplaa SGC:ltä
+## Kreml tunnustaa suuria eläinsuojelutapaturmia Novosibirskin alueella
 
-Maaliskuun 16. päivänä 2026 Moskovassa julkistettiin takavarikon suorittaminen, jossa ulosottovirasto takavarikoi 32,1 miljardia ruplaa kultakaivosyhtiö SGC:ltä tuomioistuimen määräyksen mukaan, joka oli annettu Moskovan kaupungin oikeudessa. Tämä määräys johtuu päätöksestä, joka velvoittaa SGC:n siirtämään kaikki jakamattomat voitot vuodelta 2025 ja aiemmista kausista tuomioistuimen talletustilille. Analyysin jälkeen SGC:n osakkeen hinta laski merkittävästi lähes 19%, mutta korjasi itsensä noin 11%:iin kaupankäynnin päättyessä. [1]
+Maaliskuun 17. päivänä 2026 Kremlin tiedottaja Dmitri Peskov vahvisti suuria eläinsuojelutapaturmia Novosibirskin alueella ja viittasi alueellisten viranomaisten nopeisiin toimiin. Tämä seuraa hätätilan julistamista maaliskuun 16. päivänä eläintautien ja raivotautikaranteenien vuoksi Penkovon kylässä, jonka määräsi kuvernööri Andrei Travnivov. Maatalousministeriö koordinoi toimia paikallisten viranomaisten kanssa. [1]
 
-**COMMENT:** Merkittävä taloudellinen takavarikko viittaa lisääntyneeseen valvontaan yritysten taloudellisissa käytännöissä Venäjällä, mikä voi merkitä lisäsääntelytoimia vastaavilla aloilla toimiville yrityksille. Tämä tapahtuma voi vaikuttaa sijoittajien luottamukseen ja markkinoiden vakauttamiseen Venäjän kaivosalalla.
+**COMMENT:** Eläintautien tunnustaminen heijastaa alueen maataloudellisia haavoittuvuuksia, jotka voivat vaikuttaa ruokaturvaan ja maanviljelijöiden toimeentuloon. Tilanne voi vaatia lisäliittovaltion resursseja ja huomiota, jotta mahdolliset taloudelliset ja terveysvaikutukset voitaisiin minimoida.
 
-**KEYWORD:** #russia; #удар; #сф; #про
-
-
-
-## Dronejäänteitä löytyi Kostroman Gymnasium No. 28 läheltä
-
-Maaliskuun 16. päivänä 2026 dronejäänteitä löydettiin Gymnasium No. 28 läheltä Kostromaa. Alueen kuvernööri Sergey Sitnikov ilmoitti, että jäänteet saattavat sisältää räjähdehiukkasia, mikä johti jätteiden tuhoamiseen paikalla ja lähistön asukkaiden väliaikaiseen evakuointiin Lyseoon No. 34. Paikalliset operatiiviset palvelut koordinoivat toimintaa. [2]
-
-**COMMENT:** Dronejäänteiden löytyminen, joka todennäköisesti sisältää räjähteitä, herättää huolta turvallisuudesta ja miehittämättömien ilma-alusten läsnäolosta siviili-alueilla. Tämä tapaus voi viitata dronettoiminnan tai uhkien lisääntymiseen Venäjällä.
-
-**KEYWORD:** #russia; #корпус; #беспилотник; #про
+**KEYWORD:** #russia; #пуск; #про
 
 
 
-## Venäjän puolustusministeriö raportoi 59 dronea tuhotuiksi neljässä tunnissa
+## Shoigu varoittaa kaikkien Venäjän alueiden olevan alttiita UAV-uhille
 
-Maaliskuun 16. päivänä 2026 Venäjän puolustusministeriö ilmoitti, että sen ilmapuolustusjoukot keskeyttivät ja tuhoivat 59 ukrainalaista dronea klo 16.00-20.00 välillä. Suurin osa keskeytyksistä tapahtui Bryanskin alueella (34 dronea) ja Moskovan alueella (13 dronea, mukaan lukien 12 kohti Moskovaa), ja lisää kohteita kaadettiin useilla muilla alueilla, mukaan lukien Kaluga, Smolensk, Tver, Belgorod ja Adygea. [3]
+Maaliskuun 17. päivänä 2026 Venäjän turvallisuusneuvoston sihteeri Sergey Shoigu totesi tapaamisessa Jekaterinburgissa, että Ukrainan dronejen kehittyvät kyvyt muodostavat uhan kaikille Venäjän alueille, mukaan lukien aikaisemmin turvalliseksi koettu Uralin liittovaltion alue. Alueen teollinen ja puolustusinfrastruktuuri lisää riskiä. Shoigun kommentit heijastavat huolta Ukrainan laajentuvista drone-kyvyistä ja niiden mahdollisista vaikutuksista Venäjän kansalliseen turvallisuuteen. [2]
 
-**COMMENT:** Tämä merkittävä drone-keskeytys korostaa alueen sotilaallisten toimien jatkuvaa intensiivisyyttä, mikä viittaa pysyviin ukrainalaisiin ilmatukioperaatioihin Venäjän alueita vastaan, samalla vahvistaen Venäjän puolustusasennetta.
-
-**KEYWORD:** #russia; #российские; #минобороны рф; #российские военные; #минобороны; #пво; #беспилотник; #бпла
-
-
-
-## Venäjä pyrkii kehittämään uraaniesiintymää Namibiassa
-
-Maaliskuun 16. päivänä 2026 Venäjä ilmaisi kiinnostuksensa osallistua 'Wings'-uraaniesiintymän kehittämiseen Namibiassa Venäjän ja Namibian hallitusten välisen kauppa- ja talousyhteistyökomission kokouksessa. Keskustelut sisälsivät mahdollisen yhteistyön ydinenergian alalla ja valmistelemisen hallitustenvälistä sopimusta varten, mikä korostaa Venäjän strategisia etuja Afrikan uraanivarantoissa. [4]
-
-**COMMENT:** Tämä osallistuminen heijastaa Venäjän jatkuvia pyrkimyksiä laajentaa vaikutusvaltaansa Afrikassa, erityisesti ydinenergialle kriittisillä aloilla, vahvistaen sen geopoliittista jalansijaa kasvavan resurssikilpailun keskellä.
-
-**KEYWORD:** #russia; #россия; #сво; #сф; #про
-
-
-
-## Dronehyökkäys Belgorodin alueella; Venäjän edistys raportoitu
-
-Lokakuun 23. päivänä 2023 kolme FPV-dronea kohdistuivat maatalousyrittäjyyteen Gruzskoyessa, Belgorodin alueella, vahingoittaen yhtä naista, joka sai barotrauma. Samanaikaisesti Venäjän joukoilla raportoidaan olevan edistystä kohti Dobropolyet, ja merkittävää taistelua tapahtuu Grishinon, Uuden Donbassin ja Konstantinovkan alueilla. Venäjän yleinen päämaja väittää, että he ovat valloittaneet yli 60 % Konstantinovkasta ja ovat aktiivisesti mukana operaatioissa ukrainalaisten joukkojen eliminoimiseksi alueella. [5]
-
-**COMMENT:** Droneaktiviteetin ja Venäjän edistymisen intensiivistyminen Itä-Ukrainassa viittaa vihollisuuksien voimistumiseen, mikä saattaa saada aikaan vahvistetun ukrainalaisen vastauksen ja entistä monimutkaisempia turvallisuusdynamiikkoja alueella.
-
-**KEYWORD:** #российские; #минобороны рф; #вс рф; #российская армия; #минобороны; #генштаб; #полигон; #штаб; #начальник генштаба; #полк; #удар; #сво; #беспилотник; #бпла; #армия; #про
-
-
-
-## UAV-hyökkäys Belgorodin alueella vahingoittaa naista
-
-Maaliskuun 16. päivänä 2026 Borisovin piirissä Belgorodin alueella kolme FPV-dronea hyökkäsi maatalousyhtiöön Gruzskoyessa, vahingoittaen naista, joka sai barotrauma ja saa avohoitoa. Lisäksi dronehyökkäykset vahingoittivat ajoneuvoja ja infrastruktuuria useilla alueilla, mukaan lukien kylät Punainen lokakuu, Golovchino ja Gora-Podil. [6]
-
-**COMMENT:** Dronehyökkäysten tiheyden lisääntyminen Belgorodin alueella viittaa konfliktin kasvavaan tasoon, joka voi olla merkki laajemmista sotilaallisista operaatioista tai paikallisista yhteenotoista. Tämä voi nostaa jännitteitä alueella ja provosoida laajempaa reaktiota Venäjän viranomaisilta.
+**COMMENT:** Shoigun varoitus osoittaa kasvavaa tunnustusta UAV-uhalle Venäjän alueelliselle koskemattomuudelle, mikä voi johtaa parannettuun sotilaalliseen valmiuteen ja droneja vastaan ​​suunnattuihin toimiin kriittisillä teollisuusalueilla.
 
 **KEYWORD:** #russia; #удар; #беспилотник; #бпла; #про
 
 
 
-## Venäläinen kenraaliluutnantti Gerasimov raportoi edistymisestä ukrainalaisia joukkoja vastaan Oskolin joella
+## Kreml kiistää tietävänsä Telegramin estämiseen liittyvistä keskusteluista
 
-Maaliskuun 16. päivänä 2026 Venäläinen kenraaliluutnantti Valery Gerasimov ilmoitti, että Lännen joukot jatkavat operaatioita ukrainalaisten sotilasjoukkojen eliminoimiseksi Oskolin joen itärannalla, erityisesti lähellä Novoosinovoa. Hän mainitsi, että 85 % alueesta on valloitettu ja katutaistelu on käynnissä, mikä viittaa alueen sotilaallisten toimien voimistumiseen. [7]
+Maaliskuun 17. päivänä 2026 Kremlin tiedottaja Dmitri Peskov totesi, että Venäjän viranomaiset eivät ole yhteydessä Telegramiin koskien mahdollista viestintäpalvelun estämistä Venäjällä. Peskov viittasi aiempiin lausuntoihin ministeriöltä ja Roskomnadzorilta asiasta, mutta ilmoitti, ettei hänellä ole uusia tietoja annettavaksi. [3]
 
-**COMMENT:** Jatkuvat operaatiot heijastavat Venäjän joukkojen strategista pyrkimystä vahvistaa valtaa Itä-Ukrainassa, mikä voi voimistaa jännitteitä ja muuttaa alueen voimadynamiikkaa. Kaupunkitaisteluun keskittymisen korostaminen viittaa halukkuuteen hävittää kaikki jäljellä oleva ukrainalainen läsnäolo, vaikka se voisi aiheuttaa uhreja ja resurssien menetyksiä.
+**COMMENT:** Kremlin kiistäminen Telegramin kanssa käytävistä keskusteluista voi viitata varovaiseen lähestymistapaan digitaalisten viestintäkanavien sääntelyssä, mikä heijastaa jatkuvia jännitteitä Venäjän viranomaisten ja internet-alustojen välillä. Tämä kehitys voi vaikuttaa digitaalisten palveluiden toimintaolosuhteisiin Venäjällä.
 
-**KEYWORD:** #russia; #вс рф; #генштаб; #штаб; #начальник генштаба; #про
-
-
-
-## Tulipalo öljysäiliössä Labinskissa sammutettu hätähenkilöstön toimesta
-
-Maaliskuun 16. päivänä 2026 öljysäiliössä Labinskissa syttyneelle tulipalolle annettiin viisi palokuntaa, jotka sammutti tulipalon dronehyökkäyksen seurauksena. Iltapäivään mennessä tuli saatiin hallintaan, ja vaurioiden laajuutta ei ole määritelty, mutta uhreja ei raportoitu. Krasnodarin alueen hätäpoliisit olivat aktiivisesti mukana reagointitoimissa. [8]
-
-**COMMENT:** Tämä tapaus korostaa Venäjän kriittisen infrastruktuurin haavoittuvuutta UAV-hyökkäyksille, mikä osoittaa tarvetta parantaa turvallisuustoimia. Tapaus heijastaa myös jatkuvia jännitteitä ja mahdollisuuksia laajentaa konflikteja drone-teknologian kautta.
-
-**KEYWORD:** #russia; #штаб; #сво; #бпла; #про
+**KEYWORD:** #russia; #про
 
 
 
-## Venäjän ulkoministeriö raportoi kaasupäästöistä vaurioituneesta laivasta Arctic Metagas
+## Ulkomaiset turistit jääneet Venäjälle Iranin konfliktin vuoksi palaavat kotiin
 
-Maaliskuun 16. päivänä 2026 Venäjän ulkoministeriö ilmoitti, että kaasunsiirtolaiva Arctic Metagas, joka sai merkittäviä vaurioita maaliskuun alussa Maltan lähettyvillä, on nyt vailla ohjausta Välimerellä. Alus, ilman miehistöä, keinuu voimakkaasti ja on rekisteröitynyt kaasupäästöjä, vaikka se sisältää edelleen polttoainetta. Ministeriö ilmoittaa valvovansa tilannetta tarkasti ja koordinoiva aluksen omistajan ja asiaankuuluvien ulkomaisten viranomaisten kanssa mahdollisten ekologisten riskien vähentämiseksi. [9]
+Maaliskuun 17. päivänä 2026 Venäjän matkanjärjestäjien liitto ilmoitti, että kaikki ulkomaiset turistit, jotka olivat jääneet Venäjälle Iranin konfliktin vuoksi, joka escaloi 28. helmikuuta, ovat palanneet turvallisesti kotiin. Paluu tapahtui sen jälkeen, kun lennot Persianlahden alueelle aloitettiin uudelleen, vaikka sisään tuleva matkailu oli yleensä vähentynyt helmi-maaliskuun vaihteessa. [4]
 
-**COMMENT:** Tämä tapaus herättää huolta meri- ja ympäristöturvallisuudesta Välimerellä, korostaen kansainvälisen yhteistyön tarvetta kriisien ratkaisemiseen, jotka liittyvät vaurioituneisiin aluksiin.
+**COMMENT:** Turistien paluu osoittaa matkustolosuhteiden vakautumista Iranin konfliktin jälkeen, mutta häiriö korostaa matkailusektorin haavoittuvuutta geopoliittisille jännitteille. Tämä voi vaikuttaa tuleviin matkatrendeihin Lähi-idän ja Venäjän välillä.
 
-**KEYWORD:** #russia; #российский; #российские; #удар; #сво; #беспилотник; #про
-
-
-
-## Progress MS-31 rahtilaiva tulvii Tyynessä valtameressä deorbitin jälkeen
-
-Maaliskuun 16. päivänä 2026 Progress MS-31 rahtilaivan raportoitiin tulvivan Etelä-Tyynessä valtameressä sen jälkeen, kun se oli irrotettu Kansainvälisestä avaruusasemasta (ISS). Roskosmos vahvisti, että alus, joka oli toiminut heinäkuusta 2025, deorbitattiin ja romahti uudelleen ilmakehään. Aluksesta palamattomat romut putosivat navigoimattomaan merialueeseen. Seuraava rahtilaiva, Progress MS-33, on suunniteltu laukaistavaksi maaliskuun 22. päivänä Baikonurin avaruuskeskuksesta. [10]
-
-**COMMENT:** Progress MS-31:n deorbitointi osoittaa Venäjän jatkuvia toimia, jotka tukevat ISS:n venäläistä segmenttiä, mikä heijastaa Venäjän jatkuvaa sitoutumista avaruusoperaatioihin. Ajankohtainen Progress MS-33:n laukaisu voi olla tärkeä ISS:n toimitusten ja toimivuuden ylläpitämiseksi voimistuvissa geopoliittisissa jännitteissä.
-
-**KEYWORD:** #russia; #пуск; #сф; #про
+**KEYWORD:** #russia; #российские; #удар; #сво; #авиаудар; #про
 
 
 
-## Merkittäviä tapahtumia maaliskuun 16. päivänä: pidätykset, drone-tapaukset ja Israelin toimet
+## Venäjän valtionduuma vie eteenpäin lakiesitystä vesiliikennesääntöjä rikkovien sakkojen määräämiseksi
 
-Maaliskuun 16. päivänä 2026 useita merkittäviä tapahtumia tapahtui Venäjällä ja ympäri aluetta. Ulosottovirasto hyväksyi Juzhuralzolot-varojen pidätyksen, joka ylittää 32,1 miljardia ruplaa. Venäjän ilmapuolustus raportoi 61 dronen kaatamisesta kohti Moskova. Samanaikaisesti Israelin puolustusvoimat ilmoittivat käynnistävänsä kohdennetun maasodan Hezbollahia vastaan Etelä-Libanonissa. Lisäksi Telegram sai 35 miljoonan ruplan sakon Venäjällä kielletyn sisällön poistamatta. [11]
+Maaliskuun 17. päivänä 2026 Venäjän federaation valtionduuma hyväksyi lakiesityksen ensimmäisessä käsittelyssä, joka mahdollistaa hallinnollisten sakkousten määräämisen sisävesiliikenteen rikkomuksista ilman muodollista protokollaa. Tämä hallituksen esittämä lakiesitys mahdollistaa automaattiset rangaistukset videon ja valokuvien perusteella eri rikkomuksista, mukaan lukien nopeusrajoitusten ylittäminen ja navigointimerkkien noudattamatta jättäminen veneiden kapteeneilta ja alusten käyttäjiltä. [5]
 
-**COMMENT:** Moskovaa kohti suuntautuvien dronien kaataminen viittaa voimistuneisiin jännitteisiin ja mahdollisiin uhkiin Venäjän turvallisuudelle. Samaan aikaan Israelin toimet Libanonissa voivat vaikuttaa alueelliseen vakauteen ja Venäjän vaikutusvaltaan Lähi-idässä.
+**COMMENT:** Lainsäädäntö heijastaa Venäjän hallituksen keskittymistä sääntelytoimien vahvistamiseen merialalla, mikä saattaa johtaa turvallisuuden ja noudattamisen parantamiseen sisävesillä. Jos laki hyväksytään, se voi johtaa valvonnan ja valvontakäytännöjen parantamiseen, mikä vaikuttaa vesiliikennettä hoitavien yritysten toimintaan.
 
-**KEYWORD:** #russia; #российский; #сво; #беспилотник; #бпла; #армия; #про
-
-
-
-## Trump väittää, että Venäjä pelkää Yhdysvaltoja
-
-Maaliskuun 16. päivänä 2026 Yhdysvaltain presidentti Donald Trump ilmoitti, että Venäjä pelkää Yhdysvaltoja ja sen armeijaa, mutta ei tunne samaa pelkoa Euroopan maita kohtaan. Tämä väite esitettiin tiedotustilaisuudessa Valkoisessa talossa, jossa hän mainitsi myös Naton roolin suojelemisessa maissa, joilla on negatiivinen näkemys Hormuzinsalmen turvallisuudesta. [12]
-
-**COMMENT:** Trumpin kommentit korostavat jatkuvia geopoliittisia jännitteitä Yhdysvaltain ja Venäjän välillä, mikä viittaa valladynamiikan käsitykseen, joka voi vaikuttaa Naton strategiseen asemaan ja Amerikan rooliin Euroopan turvallisuudessa.
-
-**KEYWORD:** #россия; #сво; #про
+**KEYWORD:** #russia; #тоф; #про
 
 
 
-## Venäjän joukot raportoivat hallitsevansa yli puolet Krasny Limanista
+## Neljä teini-ikäistä joutuu oikeuteen Murmanskin alueella tuhopoltosta
 
-Maaliskuun 16. päivänä 2026 Venäjän asevoimat raportoivat, että he ovat varmistaneet yli puolet kaupungista Krasny Liman jatkuvien rajatilaisten konfliktien aikana. Kenraali Valery Gerasimov ilmoitti, että Lännen joukko on aktiivisesti mukana taisteluissa kaupungin vapauttamiseksi, ottaen äskettäin hallintaansa lähiseutujen kuten Drobyshevon, Kevät- ja Sosnovoe-palveluja, ja operaatio Alexandrovkassa on lähellä valmistumista. [13]
+Maaliskuun 17. päivänä 2026 Lännen alueellinen kuljetustutkintaviranomainen ilmoitti, että neljä teini-ikäistä Murmanskin alueella joutuu oikeuteen tuhopoltosta, joka liittyy terroristisiin toimintoihin. Syytteet liittyvät huhtikuussa 2024 tapahtuneisiin tapauksiin, joissa he väitetään sytyttäneen tuleen radiolähetysaseman ja osallistuneen lisähyökkäyksiin, vanhempien osallistujien ollessa tuntemattomien henkilöiden vaikutuksen alaisena viestintäalustojen kautta. [6]
 
-**COMMENT:** Krasny Limanin kaataminen voi parantaa Venäjän sotilaallista asemaa Donetskin alueella, mikä voi mahdollisesti muuttaa itäisen Ukrainan voimadynamiikkaa. Jatkuvat alueelliset voitot voivat voimistaa vihollisuuksia ja provosoida reaktioita ukrainalaisilta ja liittolaisilta.
+**COMMENT:** Tämä tapaus korostaa nuorten radikalisaation mahdollisuutta ja digitaalisen viestinnän käyttöä terrorististen tekojen järjestämisessä. Se herättää huolta kriittisten infrastruktuurien turvallisuusjärjestelmistä ja etäohjeiden vaikutuksesta haavoittuville yksilöille.
 
-**KEYWORD:** #russia; #вооруженные силы россии; #вс рф; #генштаб; #штаб; #начальник генштаба; #сво; #про
+**KEYWORD:** #russia; #про
+
+
+
+## Kolmannen kadonneen lapsen ruumis löydetty Zvenigorodista
+
+Maaliskuun 17. päivänä 2026 Andrei Ivanov, Odintsovo kaupunginosan päällikkö, ilmoitti tytön ruumiin löytymisestä, joka oli kolmas lapsi, joka katosi Zvenigorodista, Moskovan joesta. Etsintäoperaatio päättyi tähän löytöön aikaisemman kahden pojan palautuksen jälkeen maaliskuun 11. ja 13. päivänä. Paikalliset viranomaiset ovat sitoutuneet antamaan tarvittavaa apua perheille, joita tilanne koskee. [7]
+
+**COMMENT:** Traaginen tapaus korostaa jatkuvia turvallisuushuolia Moskovan esikaupunkialueilla ja korostaa tarpeen parantaa yhteisön sitoutumista ja ennakoivia toimia lasten suojelemiseksi. Lasten katoamisen ja myöhempien löytämisten olosuhteet voivat vaikuttaa yleiseen mielipiteeseen ja turvallisuuspolitiikkaan alueella.
+
+**KEYWORD:** #russia; #сво; #про
+
+
+
+## Liettua kehottaa EU:ta keskeyttämään Valkovenäjän ydinvoimaloiden toiminnan
+
+Maaliskuun 17. päivänä 2026 Liettuan ympäristöministeri Kastitis Zhuromskas kehotti EU:n ympäristövaliokuntaa Brysselissä keskeyttämään Valkovenäjän ydinvoimalan toiminnan (NPP) ja lopettamaan sen suunnitellun laajentamisen. Liettua ilmaisi huolensa Ostrovetin ydinvoimalalle, joka sijaitsee 40 km päässä Vilnasta, aiheuttamista ympäristö- ja turvallisuusuhkista. Kehotus sai vauhtia Valkovenäjän aikeista rakentaa kolmas ydinreaktori, jonka Liettua väittää tarvitsemalla kattavan turvallisuusarvioinnin. [8]
+
+**COMMENT:** Liettuan pyyntö korostaa jatkuvia alueellisia jännitteitä ydinvoiman turvallisuuden ja turvallisuuden ympärillä Itä-Euroopassa, mikä voi johtaa lisääntyneeseen paineeseen Valkovenäjään EU:n taholta ja vaikuttaa alueellisiin energiapolitiikkoihin.
+
+**KEYWORD:** #российский; #полигон; #про
+
+
+
+## Venäjän Duma vie eteenpäin lakiesitystä valtion salaisuuksien suojelun parantamiseksi
+
+Maaliskuun 17. päivänä 2026 Venäjän valtionduuma hyväksyi lakiesityksen ensimmäisessä käsittelyssä, joka tähtää valtion salaisuuksina luokitellun tiedon turvallisuuden parantamiseen. Lainsäädäntö, jota viitataan numeroon 1147230-8, pyrkii poistamaan lisenssivaatimukset 1. tammikuuta 2027 mennessä aseiden ja sotilaskaluston kehittämiseen ja ylläpitoon liittyviltä toiminnoilta, joita johtavat sotilasyksiköt presidentin erikoisohjelmien pääosastolla. [9]
+
+**COMMENT:** Tämä lakiesitys merkitsee Venäjän hallituksen voimistunutta keskittymistä herkkien sotilastietojen suojaamiseen, mikä voi parantaa toiminnallista turvallisuutta valtiollisissa ja sotilasasioissa. Liike voi viitata strategiseen muutokseen käsiteltäessä havaittuja haavoittuvuuksia valtion puolustus- ja mobilisaatioprosesseissa.
+
+**KEYWORD:** #russia; #удар; #про
+
+
+
+## Venäläiset lentoyhtiöt keskeyttävät lennot Israeliin maaliskuun loppuun asti
+
+Maaliskuun 17. päivänä 2026 Azimuth Airlines ilmoitti peruneensa lennot Tel Aviviin maaliskuun loppuun asti jatkuvien konfliktien vuoksi, jotka johtuvat lisääntyneestä jännityksestä Lähi-idässä. Lentoyhtiön varausjärjestelmä osoitti, että Krasnodarista, Sochista ja Mineral Vedenistä perutut lennot vaikuttivat erityisesti, ja aikaisemmin suunnitellut lennot, jotka oli asetettu 29. maaliskuuta, siirrettiin huomattavasti. Azimuth Airlines seuraa aktiivisesti tilannetta ja pitää matkustajat ajan tasalla kaikista muutoksista. [10]
+
+**COMMENT:** Venäläisten lentoyhtiöiden jatkuva lentojen peruminen Israeliin korostaa alueen pysyviä geopoliittisia jännitteitä, jotka voivat vaikuttaa matkustusmalleihin ja ilmaliikenteeseen naapurimaissa. Tämä kehitys korostaa konfliktin laajempia vaikutuksia kaupalliseen ilmailuun ja voi vaikuttaa diplomaattisiin neuvotteluihin Venäjän ja Israelin välillä.
+
+**KEYWORD:** #russia; #про
+
+
+
+## Maatalouseläinmaapinta-alan siirto matkailun helpottamiseksi yksinkertaistettiin valtion duuman muutoksilla
+
+Maaliskuun 17. päivänä 2026 Venäjän valtionduuma hyväksyi muutoksia ensimmäisessä käsittelyssä, jotka tähtäävät maatalousmaan siirron yksinkertaistamiseen maaseutumatkailun kehittämiseksi. Esitetty lakiesitys, joka esiteltiin syyskuussa 2025 eräiltä edustajilta, mahdollistaa tällä hetkellä käyttämättömän maatalousmaan luokittelemisen virkistysmaaksi matkailuprojekteille alueen suunnitteludokumenttien perusteella ja vaatii ennakkokoordinointia maatalousministeriön kanssa. Tämä aloite on osa laajempia pyrkimyksiä parantaa maaseutumatkailua maassa. [11]
+
+**COMMENT:** Tämän lakiesityksen hyväksyminen voi merkittävästi vaikuttaa maaseudun talouskehitykseen Venäjällä helpottamalla maankäyttösääntöjä matkailun osalta. Maaseutumatkailun infrastruktuurin parantaminen voi myös vaikuttaa alueelliseen vakauteen ja paikallisiin työllisyysnäkymiin.
+
+**KEYWORD:** #russia; #пуск; #про
+
+
+
+## Ukrainan dronehyökkäykset aiheuttavat uhreja Khersonin ja Zaporozhyen alueilla maaliskuun 17. päivänä
+
+Maaliskuun 17. päivänä 2023 kuvernööri Vladimir Sald ilmoitti kahdesta kuolemasta ja useista vammoista Khersonissa Ukrainan dronehyökkäysten seurauksena, mukaan lukien yksi kuolema Genichaya Gorkassa ja toinen Tavriyskissa. Zaporozhyen alueella kuvernööri Jevgeni Balitski ilmoitti, että kolme henkilöä oli loukkaantunut, joista kaksi oli autossa UAV-hyökkäyksen aikana. Sinä päivänä Venäjän puolustusministeriö väitti alas ampuneensa 421 ukrainalaista dronea. [12]
+
+**COMMENT:** Nämä jatkuvat dronehyökkäykset korostavat UAV:iden sustained käyttöä konfliktissa, mikä viittaa ilmatoimintojen lisääntymiseen ja mahdollisiin muutoksiin operatiivisissa taktiikoissa. Suuri määrä esitettyjä alas ammuttuja ukrainalaisia droneja viittaa vahvaan Venäjän ilmapuolustukseen, mutta se ei välttämättä estä jatkuvia ukrainalaisten ilmatoimintoja.
+
+**KEYWORD:** #российские; #минобороны рф; #российские войска; #российские военные; #минобороны; #министерство обороны; #генштаб; #пво; #штаб; #начальник генштаба; #удар; #сво; #беспилотник; #бпла; #про
+
+
+
+## UAV-hyökkäys vahingoittaa asukasta Grayvoronissa
+
+Maaliskuun 17. päivänä 2026 FPV-drooni hyökkäsi ajoneuvoon Grayvoronissa, vahingoittaen lähellä ollutta asukasta, joka myöhemmin diagnosoitiin miina- ja räjähdystrauman ja barotraumaan. Belgorodin alueen kuvernööri Vyacheslav Gladkov vahvisti tapauksen ja ilmoitti, että uhri saa avohoitoa. [13]
+
+**COMMENT:** Tämä hyökkäys korostaa jatkuvia jännitteitä Belgorodin alueella ja näyttää UAV:iden lisääntyvän käytön alueilla, mikä herättää huolta siviilien turvallisuudesta ja mahdollisista jännitteistä.
+
+**KEYWORD:** #russia; #бпла
+
+
+
+## Venäjän asevoimat vapauttavat Kalenikin kylän DPR:ssä
+
+Maaliskuun 17. päivänä 2026 Venäjän asevoimat ilmoittivat Kalenikin kylän vapauttamisesta Donetskin kansantasavallassa (DPR). Tämä operaatio on osa jatkuvaa sotilaallista toimintaa alueella, jonka tavoitteena on vakiinnuttaa hallinta Venäjän vaatimalla alueella. [14]
+
+**COMMENT:** Kalenikin vapauttaminen voi helpottaa Venäjän joukojen lisäedistymistä DPR:ssä, mikä saattaa muuttaa taktista maisemaa Itä-Ukrainassa ja vaikuttaa konfliktin ympärillä käytäviin neuvotteluihin.
+
+**KEYWORD:** #вс россии; #сво
 
 
 
 ## Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1078212?utm_source=top
-[2] interfax.ru - https://interfax.ru/russia/1078243
-[3] interfax.ru - https://interfax.ru/russia/1078242
-[4] interfax.ru - https://interfax.ru/russia/1078241
-[5] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
-[6] interfax.ru - https://interfax.ru/russia/1078238
-[7] interfax.ru - https://interfax.ru/russia/1078240
-[8] interfax.ru - https://interfax.ru/russia/1078239
-[9] interfax.ru - https://interfax.ru/russia/1078237
-[10] interfax.ru - https://interfax.ru/russia/1078236
-[11] interfax.ru - https://interfax.ru/russia/1078234
-[12] interfax.ru - https://interfax.ru/world/1078233
-[13] interfax.ru - https://interfax.ru/russia/1078231
+[1] interfax.ru - https://interfax.ru/russia/1078381?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1078376?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1078367?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1078320?utm_source=top
+[5] interfax.ru - https://interfax.ru/russia/1078415
+[6] interfax.ru - https://interfax.ru/russia/1078416
+[7] interfax.ru - https://interfax.ru/russia/1078417
+[8] interfax.ru - https://interfax.ru/world/1078413
+[9] interfax.ru - https://interfax.ru/russia/1078412
+[10] interfax.ru - https://interfax.ru/russia/1078410
+[11] interfax.ru - https://interfax.ru/russia/1078409
+[12] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[13] interfax.ru - https://interfax.ru/russia/1078408
+[14] ria.ru - https://ria.ru/20260317/kaleniki-2081199709.html
