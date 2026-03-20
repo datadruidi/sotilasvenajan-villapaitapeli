@@ -2,7 +2,7 @@
 
 ## Summary
 Raportointijakson aikana tunnistettiin useita merkittäviä tapahtumia Venäjällä ja sen vaikutuspiirissä. Venäjän puolustusministeriö ilmoitti onnistuneista dronejen tuhoamisista ja harjoituksista, jotka viittaavat lisääntyvään sotilaalliseen aktiivisuuteen. Samalla Kirill Dmitrievin kieltäytyminen tietojen jakamisesta Yhdysvaltojen kanssa korostaa jännitteitä venäläisten ja länsimaisten suhteiden välillä. Lisäksi teollisuudessa, kuten metalliteollisuudessa, raportoitiin tuotannon vähenemisestä, mikä osoittaa taloudellisia haasteita maassa. Lähitulevaisuudessa geopoliittiset ja sotilaalliset kehityskulut näyttävät voimakkaasti vaikuttavan Venäjän toimintaan ja strategisiin päätöksiin.
-
+------
 ## Dmitriev Denies Report of US Intelligence Proposal
 Kirill Dmitriev, Venäjän presidentin erityisedustaja, torjui 20. maaliskuuta 2026 Politico-julkaisun raportin, jonka mukaan hän oli ehdottanut tietojenvaihtoa Yhdysvaltojen kanssa. Dmitriev piti väitteitä "valeuutisina", viitaten siihen, että hän oli ehdottanut Venäjän tiedustelutoiminnan pysäyttämistä Yhdysvaltojen Keskustiedustelupalvelun tuella Ukrainalle.
 
@@ -11,7 +11,7 @@ Kirill Dmitriev, Venäjän presidentin erityisedustaja, torjui 20. maaliskuuta 2
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [MAP](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
 **KEYWORDS:** #russia #россия #про
-
+------
 ## MMK's Production Capacity Declines to 60% with Investment Program Nearly Halted
 Magnitogorskin metallurginen yhdyskunta (MMK) ilmoitti 20. maaliskuuta 2026 tuotantokapasiteettinsa laskeneen noin 60 prosenttiin. Vähentyneen kysynnän vuoksi MMK vetää pois käyttämättömiä yksiköitä ja on lähes keskeyttänyt investointiohjelmansa.
 
@@ -20,7 +20,7 @@ Magnitogorskin metallurginen yhdyskunta (MMK) ilmoitti 20. maaliskuuta 2026 tuot
 **LOCATION:** Magnitogorsk / Magnitogorsk, 53.4070173, 58.9811297 [MAP](https://www.openstreetmap.org/?mlat=53.407017&mlon=58.981130#map=8/53.407017/58.981130) (Магнитогорск)
 
 **KEYWORDS:** #российский #сво #пуск #часть #про
-
+------
 ## Cheboksar Airport Suspends Flight Operations
 Cheboksaryn lentokenttä Chuvashiassa keskeytti kaikki lentotoiminnot 20. maaliskuuta 2026 Rosaviatsiyan määräämien tilapäisten turvallisuustoimenpiteiden vuoksi.
 
