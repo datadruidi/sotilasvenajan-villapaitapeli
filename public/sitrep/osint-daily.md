@@ -1,97 +1,64 @@
-# 2026-03-18
+# 2026-03-20
 
 ## Summary
 
-During the reporting period, significant developments were observed in the ongoing Russia-Ukraine conflict, with Ukraine's shelling causing substantial power outages in Kherson and Russia reinforcing its military presence in Ukraine. Simultaneously, Russia's Ministry of Health introduced measures to influence reproductive behavior amidst demographic concerns, while the European Commission pushed for non-Russian gas imports, highlighting shifts in energy policy in response to Middle Eastern tensions. These events underscore ongoing geopolitical shifts and the intricate interplay between military actions and domestic policy responses.
+During the reporting period, a series of significant developments unfolded in Russia, reflecting ongoing geopolitical tensions and internal challenges. The U.S. updated its license for transporting specific Russian oil cargoes, raising concerns among EU allies about potential sanction relaxations, while LUKOIL faced major financial implications due to U.S. restrictions. In addition, local authorities reported successful disease containment in Novosibirsk and efforts to control educational resources amid internet instability, indicating both regulatory and health-related focuses in the region.
 
 
-## Russian Health Ministry Recommends Psychological Consultations for Women Not Planning Children
+## US Updates License for Transporting Russian Oil Cargoes
 
-On March 18th, 2026, the Russian Ministry of Health issued new recommendations stating that women of reproductive age who express a desire not to have children during medical examinations should be referred to consultations with psychologists. This initiative aims to support the formation of positive attitudes towards childbirth, particularly for those indicating no intention to have children in their reproductive health assessments. [1]
+On March 19th, 2026, the U.S. administration updated a license that permits the transportation and sale of specific cargoes of Russian oil, effective from March 12th. This updated license does not apply to transactions with Cuba, North Korea, or Iran and will expire on April 11, 2026. The update has raised concerns within the EU regarding potential easing of anti-Russian sanctions. [1]
 
-**COMMENT:** This approach reflects an effort by the Russian government to address demographic concerns and potentially influence reproductive behaviors amid declining birth rates. By promoting psychological support in reproductive health, authorities may be aiming to reshape societal attitudes towards parenthood.
+**COMMENT:** The U.S. decision to allow the shipment of certain Russian oil cargoes could indicate a shift in energy policy, potentially impacting global oil markets and increasing tensions with European allies wary of sanction relaxations.
 
-**KEYWORD:** #russia; #россия; #про
-
-
-
-## Ukrainian Shelling Leaves Over 50,000 Without Power in Kherson Region
-
-On March 18th, 2026, more than 50,000 residents in the Kherson region were left without electricity following Ukrainian shelling of a substation in the Zaporizhzhia region. The governor of Kherson, Vladimir Saldo, reported that four municipalities were affected, with 27 significant facilities switched to backup power sources due to the emergency outage. [2]
-
-**COMMENT:** This incident highlights the ongoing conflict's impact on civilian infrastructure and reinforces the need for both sides to manage the humanitarian implications of their military actions. The disruption of power supplies in the Kherson region could escalate tensions and affect civilian morale.
-
-**KEYWORD:** #russia; #удар; #сво; #часть; #про
+**KEYWORD:** #российские; #про
 
 
 
-## European Commission Urges Removal of Barriers to Non-Russian Gas Amid Iran Conflict
+## Novosibirsk Region Reports No New Cases of Pasteurellosis for 15 Days
 
-On March 18th, 2026, the European Commission emphasized the importance of facilitating imports of non-Russian gas to the EU in light of the ongoing conflict in the Middle East. The Commission released updated recommendations regarding the REPowerEU Gas Regulation, providing procedural clarity on import permits for non-Russian gas. A phased ban on Russian gas imports, with specific exceptions for contracts established before June 17, 2025, also took effect on the same day, further highlighting shifts in European energy policy. [3]
+On March 20th, 2026, the governor of the Novosibirsk region, Andrei Travnikov, announced via Telegram that there have been no new cases of pasteurellosis in the region for the past 15 days. This statement highlights the effectiveness of the strict measures implemented to control the outbreak, which had previously impacted livestock. The governor emphasized that the actions taken are in compliance with legal and veterinary regulations. [2]
 
-**COMMENT:** The Commission's focus on non-Russian gas imports signifies a strategic pivot in EU energy security, particularly in the context of increasing volatility in the Middle East. This move aims to reduce dependency on Russian energy amid geopolitical tensions.
+**COMMENT:** The situation indicates a successful containment of the disease, which has significant implications for local agriculture and animal husbandry. Continued vigilance and adherence to health measures will be crucial in preventing future outbreaks and maintaining livestock health in the region.
 
-**KEYWORD:** #российские; #учения; #сво; #часть; #про
-
-
-
-## U.S. Intelligence: Russia Maintains Superiority in Ukrainian Conflict
-
-On March 18th, 2026, U.S. Director of National Intelligence Tulsi Gabbard stated that Russia has maintained a military advantage in its conflict with Ukraine over the past year. Gabbard indicated that Russia aims to weaken Ukraine's capacity and determination to resist, while the U.S. continues to pursue efforts for conflict resolution. Until a resolution is reached, Russia is expected to sustain its war of attrition against Ukraine. [4]
-
-**COMMENT:** The assessment from U.S. intelligence suggests that Russia is fortified in its military approach, potentially prolonging the conflict. This could impact international diplomatic efforts and regional security dynamics in Eastern Europe.
-
-**KEYWORD:** #россия; #про
+**KEYWORD:** #russia; #сво; #про
 
 
 
-## Russian Health Ministry Implements Psychologist Consultations for Non-Planned Pregnancies
+## Russian Ministry of Education Proposes 'White List' for Educational Resources
 
-On March 18th, 2026, the Russian Ministry of Health announced that consultations with psychologists for women not planning children will only occur with the patient's consent. This initiative, articulated by Natalia Dolgushina, aims to prevent artificial abortions and bolster birth rates in Russia, emphasizing the voluntary nature of such consultations under newly approved reproductive health guidelines. [5]
+On March 20th, 2026, the Russian Ministry of Education proposed to the Ministry of Digital Services a list of educational websites and digital services for inclusion in a 'white list' aimed at ensuring uninterrupted access to these resources during periods of internet slowdown or outages. This initiative seeks to maintain the educational process by guaranteeing access to essential platforms for students and educators. [3]
 
-**COMMENT:** This measure reflects the Russian government's ongoing efforts to influence demographic trends amid concerns about declining birth rates. By promoting psychological consultations, Russia seeks to address reproductive health proactively, potentially impacting societal attitudes towards childbirth.
+**COMMENT:** This move reflects efforts by the Russian government to mitigate disruptions in education caused by internet connectivity issues, potentially increasing state control over digital educational resources and information access.
 
-**KEYWORD:** #russia; #россия; #про
-
-
-
-## Russian Defense Minister Inspects Troops in Ukraine
-
-On March 17th, 2026, Russian Defense Minister Andrei Belousov conducted an inspection of the 'North' group of troops in the zone of special military operations. He focused on expanding the security strip in the Sumy and Kharkiv regions and strengthening defenses along the Russian border. Additionally, reports from Kherson indicate that over 50,000 residents were left without electricity due to Ukrainian shelling of critical infrastructure. [6]
-
-**COMMENT:** This inspection highlights ongoing military operations and resource allocation by Russia in Ukraine, suggesting a sustained commitment to securing border areas amid heightened conflict. The impact of infrastructure damage on civilian populations could further escalate tensions.
-
-**KEYWORD:** #российские; #минобороны рф; #российские войска; #российские военные; #минобороны; #министерство обороны; #пво; #министр обороны; #батальон; #удар; #сво; #беспилотник; #бпла; #перехват; #склад боеприпасов; #про
+**KEYWORD:** #russia; #сф; #про
 
 
 
-## Russian Defense Minister Inspects Northern Troop Group in Special Operation Zone
+## Rosselkhoznadzor Denies Issuing Fake Order in Novosibirsk Region
 
-On March 17th, 2026, Russian Defense Minister Andrei Belousov inspected the Northern troop group in the special military operation zone, focusing on enhancing security along the borders in the Sumy and Kharkiv regions. This visit included reviewing the execution of combat missions and awarding distinguished servicemen. [7]
+On March 20th, 2026, Rosselkhoznadzor publicly denied the authenticity of a document circulated in the Novosibirsk region that falsely claimed to be an order from the veterinary service. The circulated regulation included demands for veterinarians and threatened sanctions for non-compliance. Rosselkhoznadzor confirmed that the document, which instructed veterinarians to cease animal outdoor services immediately and provide detailed information by the same day, was a forgery sent to veterinary clinics and professionals in the area. [4]
 
-**COMMENT:** The inspection highlights ongoing military activities in Eastern Ukraine as Russia seeks to reinforce its defensive positions, potentially indicating a strategic shift in its operational focus in the region.
+**COMMENT:** This incident highlights ongoing issues with misinformation and potential manipulation within the veterinary sector in Russia, raising concerns over regulatory compliance and operational integrity in animal health management.
 
-**KEYWORD:** #russia; #российские; #минобороны рф; #российские войска; #минобороны; #генштаб; #штаб; #министр обороны; #начальник генштаба; #удар; #сво; #про
+**KEYWORD:** #russia; #про
 
 
 
-## U.S.-Israeli Military Operation Against Iran on February 28th
+## LUKOIL Writes Off 1.66 Trillion Rubles Investment in LUKOIL International
 
-On February 28th, 2026, Israeli and U.S. forces launched an attack against Iran, following U.S. President Donald Trump's commitment to prevent Iran from acquiring nuclear weapons. In response, Iran launched missile strikes targeting Israel and a U.S. Fifth Fleet service center in Bahrain. [8]
+On March 20th, 2026, LUKOIL reported a complete write-off of its investment in LUKOIL International GmbH, recognizing an impairment loss of 1.66 trillion rubles. The write-off reflects the cessation of control over international assets, which were excluded from the consolidated financial statements as of November 21, 2025. This decision follows the imposition of U.S. restrictive measures against the company, effective October 22, 2025, which limited operations with its foreign subsidiaries. [5]
 
-**COMMENT:** This escalation marks a significant uptick in U.S.-Iran tensions, with potential implications for regional stability and military readiness in the Middle East.
+**COMMENT:** LUKOIL's write-off signals a significant financial setback and may indicate strategic shifts in response to U.S. sanctions, potentially affecting the company's global operations and partnerships. The impairment also highlights the broader impact of geopolitical tensions on Russian enterprises.
 
-**KEYWORD:** #россия; #российские; #флот; #штаб; #удар; #сво; #авиаудар; #сф; #армия; #про
+**KEYWORD:** #российские; #учения; #про
 
 
 
 ## Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1078598?utm_source=top
-[2] interfax.ru - https://interfax.ru/russia/1078614?utm_source=top
-[3] interfax.ru - https://interfax.ru/world/1078662
-[4] interfax.ru - https://interfax.ru/world/1078663
-[5] interfax.ru - https://interfax.ru/russia/1078652
-[6] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
-[7] interfax.ru - https://interfax.ru/russia/1078654
-[8] iz.ru - https://iz.ru/story/voennaia-operatciia-ssha-i-izrailia-protiv-irana
+[1] interfax.ru - https://interfax.ru/world/1078937?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1078970?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1078955?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1079001
+[5] interfax.ru - https://interfax.ru/business/1078993
