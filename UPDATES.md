@@ -2,7 +2,27 @@
 
 This file is a cumulative changelog: newest versions are listed first. Older entries are kept.
 
-**Current version:** 1.0.11
+**Current version:** 1.0.12
+
+---
+
+## Version 1.0.12 (2026-03-15)
+
+This update focuses on slimming the bundled Android payload and preparing a fresh release package after asset cleanup.
+
+- Reduced bundled image payload size for Android:
+  - Removed duplicate `01-puolustushaarat` asset tree references and old Aerospace Forces flat image folders.
+  - Removed unused UI image files that were no longer referenced by the app.
+  - Removed extra images from Navy, Aerospace Forces, Strategic Missile Forces, Airborne Forces, and Unmanned Systems image folders to lower packaged asset size.
+  - Reduced `public/assets` to under `200 MB` in the current project state before the new release build.
+- Kept gameplay asset indices aligned with the cleaned folders:
+  - Regenerated bundled image path data for Aerospace Forces and Unmanned Systems.
+  - Preserved answer formatting improvements for Aerospace Forces equipment names.
+- Prepared a new Android release package:
+  - Updated release version metadata to `1.0.12`.
+  - Android `versionCode` -> `14`
+  - Android `versionName` -> `1.0.12`
+  - `package.json` version -> `1.0.12`
 
 ---
 
