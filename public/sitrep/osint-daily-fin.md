@@ -3,6 +3,7 @@
 ## Summary
 Raportointikaudella Venäjän poliittinen ja sotilaallinen ilmapiiri on jännittynyt. Erityisesti tiedusteluvaihdosta Yhdysvaltojen kanssa on syntynyt kiistoja, mikä viittaa Venäjän puolustusasenteeseen suurvaltojen välisten suhteiden osalta. Taloussektorilla tuotanto ja investoinnit painuvat alas, mikä voi vaikuttaa työllisyyteen ja alueelliseen talouden vakauteen. Lentoliikennettä ja dronitoimintaa koskevat rajoitukset viittaavat turvallisuusongelmiin. Ongoing sotatoimissa Venäjä näyttää jatkavan aktiivista toimintaa Ukrainassa, mikä heijastaa konflikteja ja sen vaikutuksia alueella.
 
+
 ## Dmitriev kumoaa raportin USA:n tiedusteluehdotuksesta [1]
 Maaliskuun 20. päivänä 2026, Venäjän presidentin erityisedustaja Kirill Dmitriev torjui Politicon raportin väärennöksenä, joka väitti hänen ehdottaneen tiedusteluyhteistyötä USA:n kanssa. Dmitriev vastasi sosiaalisessa mediassa ja nimitti väitteet 'valeuutisiksi', ja mainitsi, että hän oli ehdottanut Venäjän tiedustelun lopettamista USA:n sotilasliikkeitä kohtaan Lähi-idässä vastineena USA:n tiedustelun lopettamiselle Ukrainalle.
 
