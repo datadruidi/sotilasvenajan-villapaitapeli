@@ -1,150 +1,178 @@
-# Report Date: 2026-03-21
+# Report Date: 2026-03-22
 
 ## Summary
-Raportointijaksolla Venäjän hallitus on ollut aktiivinen vastauksissaan turvallisuus- ja infrastruktuurikysymyksiin, kuten internetin sääntelyyn ja lentoliikenteen turvallisuuteen. Useat tapahtumat osoittavat, että maan sisäiset ja ulkoiset uhkat jatkuvat, mikä vaikuttaa muun muassa paikallisyhteisöjen turvallisuuteen ja hallitusten toimiin. Lyhyellä aikavälillä voidaan odottaa lisää toimenpiteitä drone-uhkien torjumiseksi sekä valmistautumista mahdollisiin lisäiskuisiin.
+Raportointijaksolla Venäjän avaruustoiminta on vahvistumassa, kun Oleg Kononenko nimettiin Gagarin-kosmonauttikoulutuskeskuksen johtajaksi. Tämä muutos osoittaa Venäjän sitoutumisen ihmiskosmonauttiprogrammiin sekä tähtää uusien avaruusasemien kehittämiseen. Samanaikaisesti Ukrainalaiset asevoimat ovat hyökänneet Rylskin kaupunkiin Kurskin alueella, mikä viittaa rajoja ylittävän sotilaallisen toiminnan jatkumiseen. Lentoliikenteen rajoitukset Pulkovo Lentokentällä St. Petersburgissa kielivät mahdollisista turvallisuushaasteista, kun taas Belgorodin alueella UAV:iden tuhoaminen ja hyökkäykset sosiaalisiin kohteisiin korostavat alueellisten jännitysten lisääntymistä.
 
-## Ministeriö kieltää huhut "valkoisista listoista" kotiverkossa
-Maaliskuun 21. päivänä 2026 Venäjän digitaalisten asioiden ministeriö ilmoitti, että äskettäiset mediatiedot "valkoisista listoista" kiinteän internetin palveluissa ovat virheellisiä. Ministeriö tarkensi, että tällaiset listat ovat voimassa vain tilanteissa, joissa mobiili-internet kohtaa rajoituksia vihollisdronien turvallisuusuhkien vuoksi, varmistaen samalla, että kotiverkkopalvelut pysyvät ennallaan. [1]
+## Oleg Kononenko nimetty Gagarin-kosmonauttikoulutuskeskuksen johtajaksi
+Maaliskuun 22. päivänä 2026 Oleg Kononenko nimettiin virallisesti Gagarin-kosmonauttikoulutuskeskuksen johtajaksi Roskosmosin toimitusjohtajan Dmitry Bakanovin ilmoituksen mukaan. Kononenko, tunnettu kosmonautti ja Venäjän sankari, aikoo keskittyä astronauttien valmisteluun Kansainväliselle avaruusasemalle ja uuden venäläisen orbitaali-aseman kehittämiseen. [1]
 
-**COMMENT:** Kieltämisessä näkyy hallituksen pyrkimys hallita internetin sääntelyyn liittyvää narratiivia turvallisuuskysymysten keskellä. Tämä voi merkitä myös julkisen luottamuksen ylläpitämistä kiinteän internetin palveluiden vakauteen.
+**COMMENT:** Tämä nimitys heijastaa Venäjän avaruusoperatiivisuuksia korostavaa strategista agendaa, erityisesti ihmiskosmonauttien koulutuksessa ja aseman kehittämisessä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #сво #беспилотник #бпла #про
-
-
-## Seitsemän jälkijäristystä havaittu Kamchatkan rannikolla
-Maaliskuun 21. päivänä 2026 Venäjän hätätilaministeriö raportoi seitsemästä huomattavasta jälkijäristyksestä Kamchatkan rannikolla voimakkaan maanjäristyksen jälkeen 30. heinäkuuta 2025. Jälkijäristysten magnituudit vaihtelivat 3,5:stä 5,0:een, ja yksi tuntui paikallisissa asutuksissa voimakkuudella jopa 2. [2]
-
-**COMMENT:** Jatkuva seisminen aktiivisuus Kamchatkassa korostaa alueen alttiutta luonnonkatastrofeille, mikä vaikuttaa paikallisyhteisöihin ja hätäpalvelu努力ihin. Jatkuvat jälkijäristykset voivat vaatia lisää valmius- ja seurantatoimia Venäjän viranomaisilta.
-
-**LOCATION:** Kamchatka Krai / Kamchatka, 57.1914882, 160.0383819 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.191488&mlon=160.038382#map=8/57.191488/160.038382)
-
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #russia #сво #про
 
 
-## Jaroslavlin lentoasema keskeytti lentotoiminnan turvallisuustoimenpiteiden vuoksi
-Maaliskuun 21. päivänä 2026 Jaroslavlin lentoasema Tunoshna keskeytti tilapäisesti lentopalvelut Rosaviatsian raportin mukaan. Tämä toimenpide toteutettiin lentoturvallisuuden varmistamiseksi operatiivisten huolien vuoksi. [3]
+## Soyuz-2.1a raketti laukaisee Progress MS-33 kartoittajavenheen Baikonurista
+Maaliskuun 22. päivänä 2026 Soyuz-2.1a kantoraketti laukaistiin Baikonurin avaruuskeskuksesta, kuljettaen Progress MS-33 kartoittajavenheen Kansainväliselle avaruusasemalle. Tämä tehtävä, jonka on määrä toimittaa yli 2,5 tonnia tarvikkeita, mukaan lukien polttoainetta ja happea, on rutiininomainen mutta kriittinen osa Venäjän jatkuvaa tukea ISS:lle. [2]
 
-**COMMENT:** Lentoasematoiminnan keskeyttäminen Jaroslavlissa heijastaa lisääntynyttä huomiota ilmailuturvallisuusprotokolliin Venäjällä. Tämä kehitys voi myös viitata lentoasematoimintojen arviointiin ja turvallisuuden merkitykseen ilmailun hallinnassa.
+**COMMENT:** Onnistunut laukaisu korostaa Venäjän kykyjä ylläpitää läsnäoloaan ja operatiivista logistiikkaansa avaruudessa, erityisesti ISS:n osalta.
 
-**LOCATION:** Jaroslavlin lentoasema / Yaroslavl Airport, Unknown, Unknown
+**LOCATION:** Baikonurin avaruuskeskus / Baikonur Cosmodrome, 45.9178932, 63.4083721 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.917893&mlon=63.408372#map=8/45.917893/63.408372) (Байконур)
+
+**KEYWORDS:** #russia #учения #пуск #сф #про
+
+
+## Kaksi haavoittunutta APU-hyökkäyksessä Kurskin alueella
+Maaliskuun 22. päivänä 2026 kaksi henkilöä haavoittui Ukrainan asevoimien hyökkäyksessä Rylskin kaupungissa Kurskin alueella, gubernööri Alexander Khinshteinin mukaan. Hyökkäys aiheutti vahinkoja ajoneuvoille ja asuinrakennuksille, yhden uhrin ollessa sairaalahoidossa. [3]
+
+**COMMENT:** Tämä tapaus korostaa jatkuvia vihamielisyyksiä Kurskin alueella, mikä voi viitata alueiden ylittävän sotilasoperaatioiden lisääntymiseen.
+
+**LOCATION:** Ryl'sk / Rylsk, 51.570538, 34.683506 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.570538&mlon=34.683506#map=8/51.570538/34.683506) (Рыльск)
+
+**KEYWORDS:** #russia #сво
+
+
+## Oleg Kononenko nimetty Gagarin-kosmonauttikoulutuskeskuksen johtajaksi
+Maaliskuun 22. päivänä 2026 Oleg Kononenko nimettiin Gagarin-kosmonauttikoulutuskeskuksen johtajaksi Roskosmosin toimitusjohtaja Dmitry Bakanovin toimesta. Tämä johtajuusmuutos korostaa keskuksen keskittymistä astronauttien valmisteluun tulevia tehtäviä varten Kansainväliselle avaruusasemalle sekä upcoming venäläiselle orbitaali-asemalle. [4]
+
+**COMMENT:** Tunnetun kosmonautin nimittäminen johtamaan koulutuskeskusta osoittaa Venäjän jatkuvaa sitoutumista kilpailukykyiseen avaruusohjelmaan.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #сво #про
+
+
+## Kaksi UAV:ta tuhottu Leningradin alueella
+Maaliskuun 22. päivänä 2026 kaksi dronea tuhoutui Leningradin alueella, gubernööri Alexander Drozdenkon mukaan. Ensimmäisten arvioiden mukaan tapauksesta ei johtunut vammoja tai tuhoa. [5]
+
+**COMMENT:** UAV:iden tuhoaminen Leningradin alueella heijastaa jatkuvia huolia ilmatuhotusta ja mahdollisten turvallisuusvalmiuksien lisäämisestä.
+
+**LOCATION:** Leningrad Oblast / Leningrad Oblast, 60.1853296, 32.3925325 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.185330&mlon=32.392533#map=8/60.185330/32.392533) (Ленинградская область)
+
+**KEYWORDS:** #russia #сво #беспилотник #бпла #пуск
+
+
+## Pulkovo Lentokenttä rajoittaa operaatioita turvallisuustoimenpiteiden vuoksi
+Maaliskuun 22. päivänä 2026 Pulkovo Lentokenttä St. Petersburgissa ilmoitti väliaikaisista rajoituksista lentotoiminnalle turvallisuussyistä, Rosaviatsiyan raportin mukaan. Nämä toimenpiteet tulevat voimaan UAV-tapahtumien lisääntyessä Leningradin alueella. [6]
+
+**COMMENT:** Tämä rajoitus viittaa proaktiiviseen lähestymistapaan Venäjän ilmailuviranomaisilta turvallisuusuhkien vuoksi.
+
+**LOCATION:** Pulkovo Lentokenttä / Pulkovo Airport, 59.8016986, 30.2676011 [Click for Map Location](https://www.openstreetmap.org/?mlat=59.801699&mlon=30.267601#map=8/59.801699/30.267601) (Пулково)
+
+**KEYWORDS:** #russia #бпла #пуск
+
+
+## Rakettiammus osuu sosiaalisiin kohteisiin Belgorodin alueella
+Maaliskuun 22. päivänä 2026 Ukrainan joukot ovat toteuttaneet ohjusisku kahteen sosiaaliseen kohteeseen Bytsenkovin kylässä Belgorodin alueella, mikä aiheutti rakenteellista vahinkoa. Uhritietoja ei ole raportoitu. [7]
+
+**COMMENT:** Tämä tapahtuma heijastaa jatkuvia jännitteitä ja konfliktimuotoja Belgorodin alueella, mikä saattaa vaikuttaa paikalliseen vakauteen.
+
+**LOCATION:** Belgorodin alue / Belgorod Oblast, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762) (Белгородская область)
+
+**KEYWORDS:** #russia #сво #беспилотник #про
+
+
+## Pulkovo Lentokenttä toimii rajoitetusti turvallisuustoimenpiteiden vuoksi
+Maaliskuun 22. päivänä 2026 Pulkovo Lentokenttä St. Petersburgissa ilmoitti, että sen toiminta on rajoitettua turvallisuuden varmistamiseksi. Ilmoitetut muutokset lentoaikataulussa voivat olla käytössä. [8]
+
+**COMMENT:** Toimintarajoitukset osoittavat valtakunnallisia turvallisuuskäytäntöjä ja saattavat aiheuttaa merkittäviä häiriöitä alueellisessa matkustamisessa.
+
+**LOCATION:** St. Petersburg / St. Petersburg, Unknown, Unknown [Click for Map Location](Unknown) (Санкт-Петербург)
 
 **KEYWORDS:** #russia #пуск
 
 
-## Domodedovo, Zhukovsky ja Kalugan lentoasemat palauttavat toiminnan
-Maaliskuun 21. päivänä 2026 Venäjän ilmailuviranomainen Rosaviatsiya ilmoitti Domodedovan ja Zhukovskin lentoasemien sekä Kalugan lentoaseman toiminnan palauttamisesta aiemmin asetettujen lentoturvallisuutta koskevien rajoitusten purkamisen jälkeen. Tämä päätös heijastaa muutosta ilmatilanhallinnassa ja osoittaa paluuta normaaliin lentoliikenteeseen näillä alueilla. [4]
+## Yli 25 dronetta tuhottu Belgorodin alueella yhden päivän aikana
+Maaliskuun 22. päivänä 2026 Belgorodin alueen governori Vyacheslav Gladkov raportoi, että 25 miehittämätöntä ilmailuajoneuvoa tuhoutui 'BARS-Belgorod' ja 'Orlan' yksiköiden toimesta 24 tunnin aikana. Toimet olivat monimutkaisessa yhdistelmässä sähköisen sodankäynnin ja pienaseiden käyttöä. [9]
 
-**COMMENT:** Lentoasematoimintojen palauttaminen viittaa parantuneisiin turvallisuusolosuhteisiin ja voi merkitä hallituksen valvontakontrollien muutosta ilmailuturvallisuuteen liittyen.
+**COMMENT:** Tällä hetkellä tuhottujen UAV:iden merkittävä määrä viittaa lisääntyneisiin ilmaoperaatioihin ja puolustustoimintaan Belgorodin alueella.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Belgorodin alue / Belgorod Oblast, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762) (Белгородская область)
 
-**KEYWORDS:** #russia #пуск
-
-
-## Kolme Bryanskin ohjushyökkäyksen uhria on vakavassa tilassa
-Maaliskuun 21. päivänä 2026 Venäjän terveysministeriö raportoi, että kolme kahdestatoista Bryanskissa 10. maaliskuuta tapahtuneen ohjushyökkäyksen uhrista on edelleen vakavassa tilassa, kun taas muut toipuvat eri asteisesti. Hyökkäys, jonka Ukrainan joukkojen sanotaan aiheuttaneen, johti seitsemään kuolemaan ja yli neljänkymmenen vammoihin. [5]
-
-**COMMENT:** Tämä tapaus korostaa Venäjän ja Ukrainan välisten jännitteiden ja sotilaallisten toimien jatkuvuutta, mikä vaikuttaa merkittävästi siviiliväestöön. Tällaiset jatkuvat hyökkäykset voivat pahentaa sisäisiä turvallisuushuolia ja vaikuttaa julkiseen mielipiteeseen konfliktista.
-
-**LOCATION:** Bryansk / Bryansk, 53.2423778, 34.3668288 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.242378&mlon=34.366829#map=8/53.242378/34.366829)
-
-**KEYWORDS:** #russia #удар #про
+**KEYWORDS:** #russia #подразделение #сво #рэб #беспилотник #бпла #про
 
 
-## Putin vahvistaa Venäjän ystävyyden ja kumppanuuden Iranin kanssa
-Maaliskuun 21. päivänä 2026 Presidentti Vladimir Putin toisti Venäjän sitoutumisen olla uskollinen ystävä ja luotettava kumppani Iranille haastavassa vaiheessa. Hänen virallinen onnittelunsa iranilaisille johtajille osui yhteen Nowruz-juhlan kanssa, mikä heijastaa jatkuvia diplomaattisia siteitä alueen vaikeuksista huolimatta. [6]
+## Progress MS-33 rahtialus laukaistu ISS:lle
+Maaliskuun 22. päivänä 2026 Soyuz-2.1a raketti onnistuneesti laukaisi Progress MS-33 rahtialuksen kiertoradalle, mikä merkitsee sen matkan alkua Kansainväliselle avaruusasemalle (ISS). Aluksen odotetaan dokkaavan ISS:lle maaliskuun 24. päivänä. [10]
 
-**COMMENT:** Tämä tuki Iranille korostaa Venäjän strategista kumppanuutta alueella, mikä voi vaikuttaa geopoliittisiin suuntiin. Aikataulu viittaa myös siihen, että Venäjä pyrkii vahvistamaan liittolaisuuttaan kohdatessaan erilaisia ulkoisia paineita.
+**COMMENT:** Onnistunut laukaisu ja tuleva dockaus korostavat Venäjän sitoutumista kansainvälisiin avaruusyhteistyötoimiin.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #российский #удар #сво #сф #часть #про
-
-
-## Venäjän iskut osuvat strategisiin kohteisiin Harkovissa
-Maaliskuun 20. päivänä 2026 Harkovissa koettiin voimakkaita räjähdyksiä, kun Venäjän asevoimat suorittivat kohdistettuja iskuja tärkeisiin kohteisiin, mukaan lukien Harkovin fysiikan ja teknologian instituutti sekä Harkovin traktori-tehdas. Nämä toimet muodostavat järjestelmällisen pyrkimyksen Venäjän armeijalta heikentää kaupungin demilitarisointia ja Ukrainan sotilaallisia kykyjä. [7]
-
-**COMMENT:** Hyökkäykset kriittiseen infrastruktuuriin Harkovissa viittaavat Venäjän sotilaallisten operaatioiden kiihtymiseen, jonka tavoitteena on heikentää Ukrainan strategisia resursseja. Tämä lähestymistapa voi johtaa intensiivistymiseen konflikteja, kun Ukraina pyrkii vahvistamaan puolustuskykyään kohdistettuihin hyökkäyksiin merkittävissä sotilaallisissa kohteissa.
-
-**LOCATION:** Harkov / Kharkiv, 49.9923181, 36.2310146 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.992318&mlon=36.231015#map=8/49.992318/36.231015)
-
-**KEYWORDS:** #российские #вс рф #российские военные #вооружение #полк #удар #разведка #беспилотник #бпла #пуск #про
+**KEYWORDS:** #russia #учения #сф #про
 
 
-## Kaksi dronea ammutaan alas Tulan alueella
-Maaliskuun 21. päivänä 2023, kaksi miehittämätöntä ilma-alusta (UAV) ammuttiin alas Tulan alueen yllä, paikallisen gobernööri Dmitri Milyaevin mukaan. Onneksi tapauksesta ei raportoitu vammoja tai vaurioita, mutta gouverneuri varoitti, että dronehyökkäysten uhka pysyy alueella. [8]
+## Solovyov kutsuu lisää yhteistyötä Venäjän ja Kiinan sotaharjoituksissa
+Maaliskuun 22. päivänä 2026 Vladimir Solovyov vaati kiinteämmän yhteistyön lisäämistä Venäjän ja Kiinan yhteisissä sotaharjoituksissa. Hän korosti, että tämä yhteistyö on tarpeellista Lännen uhkatietoisuuden vuoksi. [11]
 
-**COMMENT:** Tämä tapaus korostaa jatkuvia turvallisuushuolia koskien drone-toimintaa ja mahdollisia hyökkäyksiä Venäjän alueella. Jatkuvat drone-uhkat voivat johtaa lisätoimiin ja turvallisuustoimenpiteisiin Tulan alueella.
+**COMMENT:** Tämä lausunto heijastaa Venäjän ja sen liittolaisten välistä jatkuvaa sotilaallista yhteistyötä.
 
-**LOCATION:** Tulan alue / Tula Oblast, 53.9570701, 37.3690909 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.957070&mlon=37.369091#map=8/53.957070/37.369091)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #пво #противовоздушная оборона #удар #беспилотник #бпла #сф #про
-
-
-## Kaksi lisää ruumista löydetty AFU:n iskusta Belgorodissa
-Maaliskuun 21. päivänä 2026 kaksi lisäruumista löydettiin raunioiden alta Smorodinossa, Belgorodin alueella, AFU:n iskun jälkeen, joka vaati yhteensä neljän siviilin hengen. Gouverneuri raportoi, että yksi siviili on edelleen vakavassa tilassa hyökkäyksen jälkeen, joka kohdistui sosiaaliseen laitokseen. [9]
-
-**COMMENT:** Belgorodin alueen jatkuvat iskut osoittavat kasvavaa jännitettä ja voivat viitata laajempaan operatiiviseen strategiaan AFU:sta. Jatkuvat siviilitappiot voivat provosoida voimakkaampia reaktioita Venäjän viranomaisilta ja vaikuttaa alueelliseen turvallisuuteen.
-
-**LOCATION:** Smorodino / Smorodino, Unknown, Unknown
-
-**KEYWORDS:** #россия #удар #бпла #сф #про
+**KEYWORDS:** #россия #российский #мо рф #минобороны #учения #удар #сф #про
 
 
-## Kurskin alueen orvot saavat avaimet uusiin asuntoihin
-Maaliskuun 21. päivänä 2026 governööri Alexander Khinshtein ilmoitti, että 26 orvosta Kurskin alueelta sai avaimet uusiin asuntoihinsa osana laajempaa aloitetta, joka tukee pommitusten uhreja. Tämä muutos seuraa äskettäistä muutosta liittovaltion lakiin, joka helpotti asunnon siirtoa tuhon jälkeen, ja korostaa vastausta paikallisiin asumishaasteisiin. [10]
+## Krasnogorsk muistaa uhreja Crocus-terroristi-iskun vuosipäivänä
+Maaliskuun 22. päivänä 2026 venäläiset kokoontuivat muistomerkille Krasnogorskissa lähellä Moskovaa kunnioittamaan terroristihyökkäyksen uhreja, joka tapahtui Crocus City Hall -konserttihallissa. [12]
 
-**COMMENT:** Tämä tapahtuma heijastaa merkittävää hallituksen vastausta haavoittuvien ihmisryhmien humanitaarisiin tarpeisiin, jotka ovat kärsineet jatkuvasta konfliktista. Asuntojen nopea tarjoaminen voi merkitä strategista painotusta sosiaalisen vakauden ylläpitämisessä rajaseuduilla turvallisuushuolien keskellä.
+**COMMENT:** Muistojuhla heijastaa yhteiskunnallisia vaikutuksia terroristi-iskusta ja korkeaa tietoutta turvallisuudesta.
 
-**LOCATION:** Kursk / Kursk, 51.7270357, 36.192248 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.727036&mlon=36.192248#map=8/51.727036/36.192248)
+**LOCATION:** Krasnogorsk / Krasnogorsk, 55.8204707, 37.3196942 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.820471&mlon=37.319694#map=8/55.820471/37.319694) (Красногорск)
 
-**KEYWORDS:** #россия #вс рф #удар #сво #сф #про
-
-
-## Liikenneonnettomuus Lefortovon tunnelissa aiheuttaa ruuhkaa Moskovassa
-Maaliskuun 21. päivänä 2026 liikenneonnettomuus tapahtui Lefortovon tunnelissa Kolmannella liikennekehällä Moskovassa, jossa kaksi ajoneuvoa törmäsi. Tämän seurauksena liikenne alueella on voimakkaasti tukkeutunut, ja operatiiviset palvelut hallitsevat parhaillaan tilannetta ja arvioivat mahdollisia vammoja. [11]
-
-**COMMENT:** Tämä tapahtuma korostaa jatkuvia infrastruktuurisia haasteita Moskovassa erityisesti liikenteen hallinnassa. Kaupunkipalveluiden tehokas reagointi saattaa viitata vahvoihin hätäprotokolliin, mutta se myös korostaa kaupunkijärjestelmän haavoittuvuutta onnettomuuksille.
-
-**LOCATION:** Lefortovon tunneli / Lefortovo tunnel, Unknown, Unknown
-
-**KEYWORDS:** #россия #удар #сф #про
+**KEYWORDS:** #россия #сво #сф #про
 
 
-## Domodedovo, Zhukovsky ja Kaluga lentoasemat palauttavat lentojaan
-Maaliskuun 21. päivänä 2026 Domodedovo, Zhukovsky ja Kalugan lentoasemat Moskovan alueella palauttivat lentotoiminnan väliaikaisten rajoitusten jälkeen, jotka asetettiin aikaisemmin päivällä lentoturvallisuuden parantamiseksi. [12]
+## Oleg Kononenko nimetty Gagarin-kosmonauttikoulutuskeskuksen johtajaksi
+Maaliskuun 22. päivänä 2026 venäläinen kosmonautti Oleg Kononenko nimettiin Gagarin-kosmonauttikoulutuskeskuksen johtajaksi Roskosmosin johtaja Dmitry Bakanovin toimesta. Hän korosti, että tärkeimpänä tavoitteena on valmistella astronautteja Kansainväliselle avaruusasemalle ja kehittää keskusta uuden venäläisen orbitaali-aseman suuntaan. [13]
 
-**COMMENT:** Lentojen palauttaminen näillä kriittisillä lentoasemilla viittaa aiemmin asetettujen turvallisuustoimenpiteiden mahdolliseen hellittämiseen, heijastaen operatiivista vakautta Venäjän ilmailusektorilla.
+**COMMENT:** Tämä nimitys heijastaa Venäjän valtion jatkuvaa investointia avaruusohjelmaansa.
 
-**LOCATION:** Domodedovo / Domodedovo, Unknown, Unknown
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #удар #сво #пуск #сф #про
+**KEYWORDS:** #российский #пуск #про
+
+
+## Leningradin alueen governori raportoi kahden UAV:n tuhoutumisesta
+Maaliskuun 22. päivänä 2026 Leningradin alueen governori Alexander Drozdenko ilmoitti, että ilmapuolustusjoukot tuhosivat kaksi miehittämätöntä ilmailuvehjettä (UAV) alueen yllä. [14]
+
+**COMMENT:** UAV:iden tuhoaminen Leningradin alueella osoittaa jatkuvia turvallisuushaasteita.
+
+**LOCATION:** Leningrad Oblast / Leningrad Oblast, 60.1853296, 32.3925325 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.185330&mlon=32.392533#map=8/60.185330/32.392533) (Ленинградская область)
+
+**KEYWORDS:** #минобороны рф #минобороны #пво #беспилотник #бпла #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1079238?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1079336?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1079203?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1079324?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1079251
+[3] interfax.ru - https://interfax.ru/russia/1079338
 
-[4] interfax.ru - https://interfax.ru/russia/1079250
+[4] interfax.ru - https://interfax.ru/russia/1079336
 
-[5] interfax.ru - https://interfax.ru/russia/1079248
+[5] interfax.ru - https://interfax.ru/russia/1079335
 
-[6] aif.ru - https://aif.ru/politics/putin-rossiya-ostaetsya-vernym-drugom-i-partnerom-irana
+[6] interfax.ru - https://interfax.ru/russia/1079334
 
-[7] aif.ru - https://aif.ru/society/tanki-goryat-samolety-vzryvayutsya-moshchnye-udary-zvuchat-uzhe-v-harkove
+[7] interfax.ru - https://interfax.ru/russia/1079333
 
-[8] www.vesti.ru - https://www.vesti.ru/ns/dva-bespilotnika-sbity-nad-territoriej-tulskoj-oblasti
+[8] interfax.ru - https://interfax.ru/russia/1079332
 
-[9] www.vesti.ru - https://www.vesti.ru/ns/pod-zavalami-posle-udara-vsu-v-belgorodskoj-oblasti-nashli-eshche-dvukh-pogibshikh
+[9] interfax.ru - https://interfax.ru/russia/1079326
 
-[10] www.vesti.ru - https://www.vesti.ru/ns/deti-siroty-iz-kurskogo-prigranichya-poluchili-klyuchi-ot-novykh-kvartir
+[10] interfax.ru - https://interfax.ru/russia/1079325
 
-[11] www.vesti.ru - https://www.vesti.ru/ns/v-lefortovskom-tonnele-na-tretem-transportnom-kolce-proizoshlo-dtp
+[11] www.vesti.ru - https://www.vesti.ru/ns/solovyov-prizval-povysit-uroven-sovmestnykh-rossijsko-kitajskikh-uchenij
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/aehroporty-domodedovo-zhukovskij-i-vozdushnaya-gavan-kalugi-vozobnovili-polety
+[12] iz.ru - https://iz.ru/2064099/v-krasnogorske-pochtili-pamiat-zhertv-v-godovshchinu-terakta-v-krokuse-izi
+
+[13] iz.ru - https://iz.ru/2064104/2026-03-22/oleg-kononenko-naznachen-rukovoditelem-tcentra-podgotovki-kosmonavtov
+
+[14] iz.ru - https://iz.ru/2064115/2026-03-22/gubernator-lenoblasti-soobshchil-o-likvidatcii-dvukh-bpla-nad-regionom?main_click
+
+[15] iz.ru - https://iz.ru/2064104/2026-03-22/oleg-kononenko-naznachen-rukovoditelem-tcentra-podgotovki-kosmonavtov?main_click
+
+[16] iz.ru - https://iz.ru/2064099/v-krasnogorske-pochtili-pamiat-zhertv-v-godovshchinu-terakta-v-krokuse-izi?main_click

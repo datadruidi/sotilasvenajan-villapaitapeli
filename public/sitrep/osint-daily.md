@@ -1,150 +1,198 @@
-# Report Date: 2026-03-21
+# Report Date: 2026-03-22
 
 ## Summary
-During the reporting period, several significant events unfolded, highlighting both domestic and international tensions in Russia. The Russian Ministry of Digital Affairs denied rumors regarding Internet regulations amid concerns about drone activities. Seismic activity in Kamchatka has raised alarms, while Yaroslavl Airport temporarily suspended services for safety reasons. Amid ongoing military operations, further casualties were reported from a missile attack in Bryansk. Additionally, President Putin reaffirmed alliances with Iran and strikes were conducted in Kharkiv, raising regional tensions. Operational adjustments in aviation, such as the resumption of services at several airports, reflect changing safety conditions. Continued drone threats and civilian casualties may provoke further government responses.
+During the reporting period, several significant events occurred in Russia, reflecting ongoing military tensions and dedicated efforts in space exploration. Notably, the appointment of Oleg Kononenko as the head of the Gagarin Center for Cosmonaut Training signifies an emphasis on advancing Russia's space capabilities. Additionally, military actions including UAV destruction in the Leningrad and Belgorod regions indicate an escalation in combat operations. These developments suggest that Russia continues to enhance its military readiness while also maintaining a focus on space mission initiatives.
 
-## Ministry of Digital Affairs Denies Rumors of 'White Lists' for Home Internet
-On March 21st, 2026, the Russian Ministry of Digital Affairs announced that recent media claims regarding the introduction of 'white lists' for fixed Internet services are false. The ministry clarified that such lists are only applicable in situations where mobile Internet faces restrictions due to security threats from enemy drones, asserting that home Internet services remain unaffected. [1]
+## Oleg Kononenko Appointed Head of Cosmonaut Training Center
+On March 22nd, 2026, Oleg Kononenko was officially appointed as the head of the Gagarin Center for Cosmonaut Training, as announced by Dmitry Bakanov, CEO of Roscosmos. Kononenko, a renowned cosmonaut and Hero of Russia, plans to prioritize astronaut preparation for missions to the International Space Station and the development of a new Russian orbital station. [1]
 
-**COMMENT:** The denial reflects the government's ongoing efforts to manage the narrative around internet regulation amid security concerns related to drone activity. Moving forward, this clarification may signify a focus on maintaining public confidence in the stability of fixed internet services despite heightened security measures.
+**COMMENT:** This appointment reflects ongoing prioritization of space operations within Russia's strategic agenda, particularly concerning human spaceflight and station development. Strengthening leadership in the Cosmonaut Training Center may signal an intention to bolster Russia's capabilities in maintaining a competitive edge in space exploration.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #сво #беспилотник #бпла #про
-
-
-## Seven Aftershocks Registered Off the Coast of Kamchatka
-On March 21st, 2026, the Russian Emergencies Ministry reported seven noticeable aftershocks off the coast of Kamchatka following a powerful earthquake on July 30, 2025. The aftershocks, with magnitudes ranging from 3.5 to 5.0, included one felt in local settlements with a force of up to 2 points. [2]
-
-**COMMENT:** The ongoing seismic activity in Kamchatka underscores the region's vulnerability to natural disasters, impacting local communities and emergency response efforts. Continued aftershocks may necessitate heightened readiness and monitoring by Russian authorities.
-
-**LOCATION:** Kamchatka Krai / Kamchatka, 57.1914882, 160.0383819 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.191488&mlon=160.038382#map=8/57.191488/160.038382) (Камчатка)
-
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #russia #сво #про
 
 
-## Yaroslavl Airport Suspends Flight Service Due to Safety Measures
-On March 21st, 2026, Yaroslavl Airport in Tunoshna temporarily suspended flight services as reported by Rosaviatsia. This action was taken to implement necessary restrictions for ensuring flight safety amidst operational concerns. [3]
+## Soyuz-2.1a Rocket Launches Progress MS-33 Cargo Ship from Baikonur
+On March 22nd, 2026, the Soyuz-2.1a carrier rocket was launched from Baikonur Cosmodrome, carrying the Progress MS-33 cargo ship towards the International Space Station. This mission, set to deliver over 2.5 tons of supplies, including essential fuel and oxygen, is a routine yet critical component of Russia's ongoing support for the ISS. [2]
 
-**COMMENT:** The suspension of flight services at Yaroslavl Airport reflects heightened attention to aviation safety protocols within Russia. This development may indicate ongoing assessments of airport operational capacities and the importance of safety in aviation management.
+**COMMENT:** The successful launch underscores Russia's capabilities in maintaining its presence and operational logistics in space, particularly concerning the ISS. Future missions like this may reflect Russia's intentions to sustain its role in international space cooperation amidst geopolitical tensions.
 
-**LOCATION:** Yaroslavl Airport / Yaroslavl Airport, Unknown, Unknown [Click for Map Location](Unknown) (Ярославль)
+**LOCATION:** Baikonur Cosmodrome / Baikonur Cosmodrome, 45.9178932, 63.4083721 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.917893&mlon=63.408372#map=8/45.917893/63.408372)
+
+**KEYWORDS:** #russia #учения #пуск #сф #про
+
+
+## Two Injured in APU Attack in Kursk Region
+On March 22nd, 2026, two individuals were injured in an attack by Ukraine's Armed Forces on the city of Rylsk in the Kursk region, as reported by Governor Alexander Khinshtein. The attack resulted in damage to vehicles and residential property, with one victim transported to a regional hospital for treatment. [3]
+
+**COMMENT:** This incident highlights ongoing hostilities affecting the Kursk region, potentially signaling an escalation in cross-border military activities. Continued attacks may raise local security concerns and prompt a reassessment of military readiness along the border.
+
+**LOCATION:** Ryl'sk / Ryl'sk, 51.570538, 34.683506 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.570538&mlon=34.683506#map=8/51.570538/34.683506)
+
+**KEYWORDS:** #russia #сво
+
+
+## Oleg Kononenko Appointed Head of the Cosmonaut Training Center
+On March 22nd, 2026, Oleg Kononenko was appointed as the head of the Gagarin Center for Cosmonaut Training by Roscosmos CEO Dmitry Bakanov. This leadership change emphasizes the Center's focus on preparing astronauts for future missions to the International Space Station and the upcoming Russian orbital station. [4]
+
+**COMMENT:** The appointment of a prominent cosmonaut to head the training center highlights Russia's ongoing commitment to maintaining a competitive space program. This leadership transition could indicate a renewed focus on expanding Russia's capabilities in human spaceflight and orbital operations.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #russia #сво #про
+
+
+## Two UAVs Destroyed Over Leningrad Region
+On March 22nd, 2026, two drones were eliminated over the territory of the Leningrad region, as reported by Governor Alexander Drozdenko. Preliminary assessments indicate that there were no injuries or destruction resulting from the incident. [5]
+
+**COMMENT:** The destruction of UAVs in the Leningrad region reflects ongoing concerns about aerial threats and the potential for escalating security measures in the area. Monitoring the implications of such incidents may reveal adjustments in Russia's air defense posture and engagements with UAV technology.
+
+**LOCATION:** Leningrad Oblast / Leningrad Oblast, 60.1853296, 32.3925325 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.185330&mlon=32.392533#map=8/60.185330/32.392533)
+
+**KEYWORDS:** #russia #сво #беспилотник #бпла #пуск
+
+
+## Pulkovo Airport Implements Temporary Flight Restrictions
+On March 22nd, 2026, Pulkovo Airport in St. Petersburg announced temporary restrictions on aircraft operations due to safety concerns, as reported by Rosaviatsiya. These measures come amid increased vigilance following incidents involving unmanned aerial vehicles (UAVs) in the Leningrad region, indicating heightened security protocols at key transport hubs. [6]
+
+**COMMENT:** The implementation of these restrictions suggests a proactive approach by Russian aviation authorities in response to potential security threats involving UAVs. This could signal a broader increase in aviation security measures across the country as authorities seek to mitigate risks associated with aerial threats.
+
+**LOCATION:** Pulkovo Airport / Pulkovo Airport, 59.8016986, 30.2676011 [Click for Map Location](https://www.openstreetmap.org/?mlat=59.801699&mlon=30.267601#map=8/59.801699/30.267601)
+
+**KEYWORDS:** #russia #бпла #пуск
+
+
+## Rocket Fire Hits Social Facilities in Belgorod Region
+On March 22nd, 2026, Ukrainian forces conducted missile shelling on two social facilities in the village of Bytsenkov, located in the Krasnoyaruz district of the Belgorod region. The attack resulted in structural damage to the facilities, impacting nearby homes and infrastructure, although no casualties were reported. [7]
+
+**COMMENT:** This incident reflects ongoing tensions and conflict dynamics in the Belgorod region, which remains strategically significant to Russian security. The continued targeting of social infrastructure may affect local stability and provoke further military responses from Russia.
+
+**LOCATION:** Belgorod Oblast / Belgorod Oblast, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762)
+
+**KEYWORDS:** #russia #сво #беспилотник #про
+
+
+## Pulkovo Airport Operations Limited Due to Safety Measures
+On March 22nd, 2026, Pulkovo Airport in St. Petersburg announced that its operations are limited in coordination with Rosaviatsiya to ensure flight safety. The airport will continue to receive and send flights while potential adjustments to the flight schedule may be implemented. [8]
+
+**COMMENT:** The limitations on Pulkovo Airport's operations indicate heightened safety protocols which may reflect broader security concerns in Russia's air traffic management. Continued operational limitations could signal a temporary but significant disruption in regional travel or a response to emerging threats.
+
+**LOCATION:** St. Petersburg / St. Petersburg, Unknown, Unknown
 
 **KEYWORDS:** #russia #пуск
 
 
-## Domodedovo, Zhukovsky, and Kaluga Airports Resume Operations
-On March 21st, 2026, the Russian civil aviation authority, Rosaviatsiya, announced the resumption of operations at Domodedovo and Zhukovsky airports, along with Kaluga airport, after lifting previously imposed restrictions aimed at ensuring flight safety. This decision reflects a recent change in air traffic management and indicates a return to normalcy for air travel in these regions. [4]
+## Over 25 Drones Destroyed in Belgorod Region in One Day
+On March 22nd, 2026, the Governor of Belgorod region, Vyacheslav Gladkov, reported that 25 unmanned aerial vehicles (UAVs) were eliminated by units 'BARS-Belgorod' and 'Orlan' within a 24-hour period. The countermeasure operations involved a mix of electronic warfare and small arms engagement in various districts of the region. [9]
 
-**COMMENT:** The resumption of airport operations suggests improved safety conditions and could indicate a shift in governmental controls related to aviation security. Monitoring how these changes affect overall air traffic and safety perceptions may yield insight into broader state responses to aviation-related incidents in the future.
+**COMMENT:** The significant number of UAVs destroyed indicates intensified aerial conflicts and ongoing military readiness in the Belgorod region, potentially linked to broader security concerns in the area. This event may signal heightened military operations and the effective use of counter-drone technologies in response to increasing UAV threats.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Belgorod Oblast / Belgorod Oblast, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762)
 
-**KEYWORDS:** #russia #пуск
-
-
-## Three Victims of Bryansk Missile Attack Remain in Serious Condition
-On March 21st, 2026, the Russian Ministry of Health reported that three of the twelve victims from the missile attack in Bryansk on March 10th remain in serious condition, while the rest are recovering with varying degrees of severity. The attack, attributed to Ukrainian forces, resulted in seven fatalities and over forty injuries, prompting further medical treatment for some victims in Moscow. [5]
-
-**COMMENT:** This incident highlights the ongoing tensions and military engagements between Russia and Ukraine, with significant collateral damage impacting civilians. Continued attacks of this nature may exacerbate internal security concerns and influence public sentiment regarding the ongoing conflict.
-
-**LOCATION:** Bryansk / Bryansk, 53.2423778, 34.3668288 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.242378&mlon=34.366829#map=8/53.242378/34.366829) (Брянск)
-
-**KEYWORDS:** #russia #удар #про
+**KEYWORDS:** #russia #подразделение #сво #рэб #беспилотник #бпла #про
 
 
-## Putin Affirms Russia's Friendship and Partnership with Iran
-On March 21st, 2026, President Vladimir Putin reiterated Russia's commitment to being a loyal friend and reliable partner to Iran during a challenging period. His official message of congratulations to Iranian leaders coincided with the Nowruz celebration, reflecting continued diplomatic ties amid regional difficulties. [6]
+## Progress MS-33 Space Truck Launched to ISS
+On March 22nd, 2026, the Soyuz-2.1a rocket successfully launched the Progress MS-33 cargo spacecraft into orbit, marking the beginning of its two-day journey to the International Space Station (ISS). Scheduled to dock with the ISS on March 24th, the spacecraft will deliver over 2.5 tons of supplies, including fuel and water, enhancing the operational capacity of the ISS's Russian segment. [10]
 
-**COMMENT:** This affirmation of support for Iran underscores Russia's strategic partnership in the region, which may influence geopolitical alignments. The timing also suggests that Russia is keen to fortify its alliances as it navigates various external pressures.
+**COMMENT:** The successful launch and upcoming docking of Progress MS-33 underscore Russia's ongoing commitment to maintaining its role in international space cooperation. This operation may serve to reaffirm Russian technological capabilities and enhance its presence in space amidst evolving geopolitical dynamics.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #россия #российский #удар #сво #сф #часть #про
-
-
-## Russian Strikes Hit Strategic Targets in Kharkiv
-On March 20th, 2026, Kharkiv experienced a series of powerful explosions as Russian military forces conducted targeted strikes against key facilities, including the Kharkiv Institute of Physics and Technology and the Kharkiv Tractor Plant. These operations are part of a systematic effort by the Russian military to demilitarize the city and diminish Ukraine's military capabilities. [7]
-
-**COMMENT:** The attacks on critical infrastructure in Kharkiv signal an escalation in Russian military operations aimed at weakening Ukraine's strategic assets. This approach may lead to intensified conflicts as Ukraine seeks to strengthen its defenses against targeted assaults on significant military-related facilities.
-
-**LOCATION:** Kharkiv / Kharkiv, 49.9923181, 36.2310146 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.992318&mlon=36.231015#map=8/49.992318/36.231015) (Харьков)
-
-**KEYWORDS:** #российские #вс рф #российские военные #вооружение #полк #удар #разведка #беспилотник #бпла #пуск #про
+**KEYWORDS:** #russia #учения #сф #про
 
 
-## Two Drones Shot Down Over Tula Region
-On March 21st, 2023, two unmanned aerial vehicles (UAVs) were shot down over the Tula region, according to local Governor Dmitry Milyaev. Fortunately, there were no injuries or damages reported from the incident, but the governor warned that the threat of drone attacks persists in the area. [8]
+## Solovyov Calls for Increased Collaboration in Russian-Chinese Military Exercises
+On March 22nd, 2023, Vladimir Solovyov advocated for enhancing the intensity of joint military exercises between Russia and China, proposing the inclusion of Belarus and North Korea. He emphasized the need for this increase in military cooperation due to the perceived threat posed by the West. [11]
 
-**COMMENT:** This incident highlights ongoing security concerns regarding drone activity and potential attacks within Russian territory. Continued drone threats could prompt further military responses and security measures in the Tula region.
+**COMMENT:** This statement reflects an ongoing shift towards greater military collaboration among Russia and its allies, highlighting concerns over Western military support to Ukraine. Such developments could signal an intensification of military preparedness and strategic alignment in the region.
 
-**LOCATION:** Tula Oblast / Tula Oblast, 53.9570701, 37.3690909 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.957070&mlon=37.369091#map=8/53.957070/37.369091) (Тульская область)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #россия #пво #противовоздушная оборона #удар #беспилотник #бпла #сф #про
-
-
-## Two More Bodies Found After AFU Strike in Belgorod Region
-On March 21st, 2026, two additional bodies were discovered under the rubble in Smorodino, Belgorod region, following an AFU strike that killed four civilians in total. The governor reported that one civilian remains in serious condition after the attack targeting a social facility. [9]
-
-**COMMENT:** The ongoing strikes in the Belgorod region indicate escalating tensions and could point to a broader operational strategy by the AFU. Continued civilian casualties may provoke stronger responses from Russian authorities and impact regional security dynamics.
-
-**LOCATION:** Smorodino / Smorodino, Unknown, Unknown [Click for Map Location](Unknown) (Смородино)
-
-**KEYWORDS:** #россия #удар #бпла #сф #про
+**KEYWORDS:** #россия #российский #мо рф #минобороны #учения #удар #сф #про
 
 
-## Kursk Region Orphans Receive Keys to New Apartments
-On March 21st, 2026, Governor Alexander Khinshtein announced that 26 orphans from the Kursk region received keys to new apartments, part of a broader initiative to support residents affected by shelling. This change follows a recent alteration in federal law that eased the transfer of housing in the aftermath of destruction, highlighting a response to local housing challenges. [10]
+## Krasnogorsk Commemorates Victims on Anniversary of Crocus Terrorist Attack
+On March 22nd, 2026, Russians gathered at a memorial in Krasnogorsk near Moscow to honor the victims of the terrorist attack that occurred at the Crocus City Hall concert hall. Enhanced security measures were implemented, including metal detectors and security personnel, while attendees laid flowers and candles in remembrance of those lost in the tragedy. [12]
 
-**COMMENT:** This event reflects a significant government response to the humanitarian needs of vulnerable populations affected by ongoing conflict. The rapid provision of housing may indicate a strategic emphasis on maintaining social stability in border regions amid security concerns.
+**COMMENT:** The commemoration reflects ongoing societal impacts from the terrorist incident, highlighting collective memory as a factor in public consciousness. This could influence future security policies and measures during public events, particularly at high-profile venues.
 
-**LOCATION:** Kursk / Kursk, 51.7270357, 36.192248 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.727036&mlon=36.192248#map=8/51.727036/36.192248) (Курск)
+**LOCATION:** Krasnogorsk / Krasnogorsk, 55.8204707, 37.3196942 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.820471&mlon=37.319694#map=8/55.820471/37.319694)
 
-**KEYWORDS:** #россия #вс рф #удар #сво #сф #про
-
-
-## Traffic Accident in Lefortovo Tunnel Causes Jam in Moscow
-On March 21st, 2026, a traffic accident occurred in the Lefortovo tunnel on the Third Transport Ring in Moscow, involving a collision between two vehicles. As a result, traffic in the area is heavily congested, and operational services are currently managing the situation and assessing any potential injuries. [11]
-
-**COMMENT:** This incident highlights ongoing infrastructure challenges in Moscow, particularly regarding traffic management. The effective response by city services may indicate robust emergency protocols but also underscores the vulnerability of urban transport systems to accidents.
-
-**LOCATION:** Lefortovo tunnel / Lefortovo tunnel, Unknown, Unknown [Click for Map Location](Unknown) (Лефортово)
-
-**KEYWORDS:** #россия #удар #сф #про
+**KEYWORDS:** #россия #сво #сф #про
 
 
-## Domodedovo, Zhukovsky, and Kaluga Airports Resume Flights
-On March 21st, 2026, Domodedovo, Zhukovsky, and Kaluga airports in the Moscow region resumed flight operations after temporary restrictions imposed earlier in the day. These measures were put in place to enhance flight safety due to unspecified concerns. [12]
+## Oleg Kononenko Appointed Head of Gagarin Cosmonaut Training Center
+On March 22nd, 2026, Russian cosmonaut Oleg Kononenko was appointed the head of the Gagarin Cosmonaut Training Center by Roscosmos chief Dmitry Bakanov. Kononenko stated that his main objectives will be preparing astronauts for missions to the International Space Station and developing the Center in anticipation of a new Russian orbital station. [13]
 
-**COMMENT:** The resumption of flights at these critical airports indicates a possible easing of previously imposed safety measures, reflecting operational stability within the Russian aviation sector. Continued monitoring will be essential to assess any further changes in air traffic management and safety protocols.
+**COMMENT:** This appointment reflects the Russian state's continued investment in its space program and readiness to advance astronaut training capabilities. As Russia aims for greater presence in space, this leadership change may enhance its strategic initiatives in producing new space missions.
 
-**LOCATION:** Domodedovo / Domodedovo, Unknown, Unknown [Click for Map Location](Unknown) (Домодедово)
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
-**KEYWORDS:** #россия #удар #сво #пуск #сф #про
+**KEYWORDS:** #российский #пуск #про
+
+
+## Leningrad Region Governor Reports Destruction of Two UAVs
+On March 22, 2026, the Governor of the Leningrad region, Alexander Drozdenko, announced that air defense forces had destroyed two unmanned aerial vehicles (UAVs) over the region. There were no reported injuries or damage, and the governor warned residents about potential UAV threats later in the day. [14]
+
+**COMMENT:** The destruction of UAVs by air defense in the Leningrad region signals ongoing security challenges related to unmanned aerial threats. This development may lead to heightened vigilance and further measures to enhance air defense capabilities across other strategic areas in Russia.
+
+**LOCATION:** Leningrad Oblast / Leningrad Oblast, 60.1853296, 32.3925325 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.185330&mlon=32.392533#map=8/60.185330/32.392533)
+
+**KEYWORDS:** #минобороны рф #минобороны #пво #беспилотник #бпла #про
+
+
+## Oleg Kononenko Appointed Head of Gagarin Cosmonaut Training Center
+On March 22nd, 2026, Russian cosmonaut Oleg Kononenko was appointed as the head of the Gagarin Cosmonaut Training Center by Dmitry Bakanov, the head of Roscosmos. Kononenko emphasized the importance of preparing astronauts for missions to the International Space Station and for the upcoming Russian orbital station. [15]
+
+**COMMENT:** This appointment signifies a strategic move to enhance Russia's capabilities in human spaceflight and astronaut training. The focus on preparing for a new orbital station indicates a commitment to expanding Russia's presence and influence in space exploration.
+
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+
+**KEYWORDS:** #российский #пуск #про
+
+
+## Memorial Held in Krasnogorsk for Victims of Crocus Terrorist Attack
+On March 22nd, 2026, Russians gathered at a memorial in Krasnogorsk near Moscow to honor the victims of the terrorist attack at the Crocus City Hall concert hall. Enhanced security measures were implemented, including metal detectors and bag checks, as attendees brought flowers and candles to commemorate those who lost their lives in the tragedy. [16]
+
+**COMMENT:** The memorial gathering reflects ongoing public sentiment and trauma associated with the attack, indicating a heightened awareness of security and communal grief. Future responses may involve increased security at public events as the state navigates the impacts of past violence and the urgency of ensuring public safety.
+
+**LOCATION:** Krasnogorsk / Krasnogorsk, 55.8204707, 37.3196942 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.820471&mlon=37.319694#map=8/55.820471/37.319694)
+
+**KEYWORDS:** #россия #сво #сф #про
 
 
 # Sources
 
-[1] Interfax - https://interfax.ru/russia/1079238?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1079336?utm_source=top
 
-[2] Interfax - https://interfax.ru/russia/1079203?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1079324?utm_source=top
 
-[3] Interfax - https://interfax.ru/russia/1079251
+[3] interfax.ru - https://interfax.ru/russia/1079338
 
-[4] Interfax - https://interfax.ru/russia/1079250
+[4] interfax.ru - https://interfax.ru/russia/1079336
 
-[5] Interfax - https://interfax.ru/russia/1079248
+[5] interfax.ru - https://interfax.ru/russia/1079335
 
-[6] AIF - https://aif.ru/politics/putin-rossiya-ostaetsya-vernym-drugom-i-partnerom-irana
+[6] interfax.ru - https://interfax.ru/russia/1079334
 
-[7] AIF - https://aif.ru/society/tanki-goryat-samolety-vzryvayutsya-moshchnye-udary-zvuchat-uzhe-v-harkove
+[7] interfax.ru - https://interfax.ru/russia/1079333
 
-[8] Vesti - https://www.vesti.ru/ns/dva-bespilotnika-sbity-nad-territoriej-tulskoj-oblasti
+[8] interfax.ru - https://interfax.ru/russia/1079332
 
-[9] Vesti - https://www.vesti.ru/ns/pod-zavalami-posle-udara-vsu-v-belgorodskoj-oblasti-nashli-eshche-dvukh-pogibshikh
+[9] interfax.ru - https://interfax.ru/russia/1079326
 
-[10] Vesti - https://www.vesti.ru/ns/deti-siroty-iz-kurskogo-prigranichya-poluchili-klyuchi-ot-novykh-kvartir
+[10] interfax.ru - https://interfax.ru/russia/1079325
 
-[11] Vesti - https://www.vesti.ru/ns/v-lefortovskom-tonnele-na-tretem-transportnom-kolce-proizoshlo-dtp
+[11] www.vesti.ru - https://www.vesti.ru/ns/solovyov-prizval-povysit-uroven-sovmestnykh-rossijsko-kitajskikh-uchenij
 
-[12] Vesti - https://www.vesti.ru/ns/aehroporty-domodedovo-zhukovskij-i-vozdushnaya-gavan-kalugi-vozobnovili-polety
+[12] iz.ru - https://iz.ru/2064099/v-krasnogorske-pochtili-pamiat-zhertv-v-godovshchinu-terakta-v-krokuse-izi
+
+[13] iz.ru - https://iz.ru/2064104/2026-03-22/oleg-kononenko-naznachen-rukovoditelem-tcentra-podgotovki-kosmonavtov
+
+[14] iz.ru - https://iz.ru/2064115/2026-03-22/gubernator-lenoblasti-soobshchil-o-likvidatcii-dvukh-bpla-nad-regionom?main_click
+
+[15] iz.ru - https://iz.ru/2064104/2026-03-22/oleg-kononenko-naznachen-rukovoditelem-tcentra-podgotovki-kosmonavtov?main_click
+
+[16] iz.ru - https://iz.ru/2064099/v-krasnogorske-pochtili-pamiat-zhertv-v-godovshchinu-terakta-v-krokuse-izi?main_click
