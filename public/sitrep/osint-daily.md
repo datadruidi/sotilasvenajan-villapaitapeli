@@ -1,174 +1,114 @@
-# Report Date: 2026-03-24
+# Report Date: 2026-03-26
 
 ## Summary
-The reporting period is marked by significant announcements and incidents in Russia, highlighting ongoing challenges in law enforcement, public safety, and military operations amid escalated tensions with Ukraine. There is an evident focus on increasing regulatory measures, improving internal security, and addressing health crises with the identification of a monkeypox case. These developments may lead to tighter security protocols, public health responses, and continued military engagements in the region.
+During the reporting period, several significant events occurred in Russia, highlighting economic developments, military decisions, and cultural dynamics. Russia's strategy of selling oil at premium prices indicates a robust demand even amidst global logistical challenges. Pskov Airport's return to normal operations and ongoing negotiations around oil taxation reveal adjustments in domestic aviation and energy policy. The construction of a National Center aims to bolster national identity, while military management strategies reflect concerns about troop deployment. Increasing state control over media is evident with the ban on a critical documentary, signaling tighter censorship as political events approach.
 
-## Ministry of Internal Affairs Unable to Issue Fines for Lack of OSAGO Insurance Through Automated Systems
-On March 24th, 2026, the Russian Ministry of Internal Affairs announced that it lacks the technical capability to issue fines to drivers for not having mandatory OSAGO insurance through automated photo- and video-monitoring systems. This statement comes amid discussions in the media about the potential enforcement of penalties based on data from these systems. [1]
+## Russia Begins Selling Oil Without Discounts or Even at Premium Prices
+On March 26th, 2026, Russia started selling its oil and oil products either at zero discount or even at premium prices due to increased demand, as stated by Deputy Prime Minister Alexander Novak. This shift comes in response to a market deficit, indicating a robust demand for Russian oil despite rising shipping costs owing to tanker congestion in the Strait of Hormuz. [1]
 
-**COMMENT:** The announcement reflects ongoing technical and administrative challenges within Russian law enforcement related to automated traffic monitoring. This may impact the enforcement of financial penalties, potentially leading to discussions about the regulatory framework surrounding vehicle insurance compliance in Russia.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #пуск #про
-
-
-## Court Sentences Six Participants of Wildberries Office Shootout
-On March 24th, 2026, the Presnensky Court in Moscow sentenced six individuals involved in a shootout near the Wildberries office in September 2024. The defendants received varying prison terms for hooliganism and other charges related to the incident. [2]
-
-**COMMENT:** This court ruling reflects ongoing issues of public security and violence in notable commercial areas in Russia. The implications of such incidents may further prompt law enforcement to tighten security measures around key businesses.
+**COMMENT:** The decision to sell oil at premium prices reflects an effective leveraging of demand dynamics in a constrained global market. Future trends may see Russia focusing on maximizing export revenues as it navigates increased logistical challenges.
 
 **LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #россия #сво #про
 
 
-## Russian Ministry of Internal Affairs to Charge Banks for Access to Citizen Data
-On March 24th, 2026, the Russian Ministry of Internal Affairs proposed a new regulation to charge banks and credit organizations for access to citizen information from police databases. This initiative is expected to generate over 110 billion rubles in annual revenue for the federal budget. [3]
+## Pskov Airport Lifts Restrictions on Flight Operations
+On March 26th, 2026, Pskov Airport in Russia lifted temporary restrictions on the acceptance and departure of flights, as reported by Rosaviatsiya. These restrictions had been imposed earlier in the day to ensure flight safety. [2]
 
-**COMMENT:** This move reflects an ongoing trend of monetizing state-held data, indicating the government's interest in generating additional revenue streams. In the near term, the implementation of such charges may increase scrutiny and regulation surrounding data privacy and access in Russia.
+**COMMENT:** The lifting of these restrictions suggests a return to normal operations at Pskov Airport, potentially indicating improved safety conditions. Such developments may reflect broader operational adjustments within Russian aviation as security protocols evolve.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Pskov / Pskov, 57.8173923, 28.3343465 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.817392&mlon=28.334346#map=8/57.817392/28.334346) (Псков)
 
-**KEYWORDS:** #russia #удар #про
-
-
-## Investigative Committee Opens Case After Explosion in Sevastopol Apartment Building
-On March 24th, 2026, the Investigative Committee of Russia initiated a criminal case regarding the illegal acquisition and storage of an explosive device following an explosion in a residential apartment building in Sevastopol. The explosion, which occurred on the balcony of a first-floor apartment, is under investigation for causing death through negligence and unlawful handling of an unspecified explosive device. [4]
-
-**COMMENT:** This incident highlights ongoing concerns regarding security and safety in residential areas, potentially indicating broader issues related to illicit explosives. The investigation may prompt increased scrutiny on explosive materials and related criminal activities in the region.
-
-**LOCATION:** Sevastopol / Sevastopol, 55.7544976, 37.6157186 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.754498&mlon=37.615719#map=8/55.754498/37.615719) (Севастополь)
-
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #russia #пуск
 
 
-## Monkeypox Case Identified in Saint Petersburg
-On March 24th, 2026, a monkeypox case was confirmed in a resident of Saint Petersburg, leading to their hospitalization in an infectious diseases facility. Epidemiological investigations are underway, and enhanced sanitary and quarantine controls are being implemented due to the potential risk of infection during the upcoming tourist season. [5]
+## Dialogue with Finance Ministry on Drilling Stimulus and Fuel Tax Adjustment
+On March 26th, 2026, Alexander Dyukov, head of Gazprom Neft, announced that oil companies are in discussions with the Finance Ministry regarding the expansion of the fourth group of fields under the profit-based tax regime. The conversation also includes topics on stimulating drilling and potentially adjusting the fuel tax for long-term needs. [3]
 
-**COMMENT:** The identification of a monkeypox case raises public health concerns, particularly with the tourist season approaching. Continued vigilance and effective response measures will be crucial in managing potential outbreaks and ensuring regional safety.
-
-**LOCATION:** Saint Petersburg / Saint Petersburg, 59.938732, 30.316229 [Click for Map Location](https://www.openstreetmap.org/?mlat=59.938732&mlon=30.316229#map=8/59.938732/30.316229) (Санкт-Петербург)
-
-**KEYWORDS:** #russia #удар #пуск #про
-
-
-## Ministry of Finance Proposes Extension of Export Revenue Repatriation Decree
-On March 24th, 2026, Ivan Chebeskov, Deputy Minister of Finance of Russia, stated the Ministry's position on extending the decree regarding mandatory repatriation and sale of export revenue, which is set to expire in May. The Ministry emphasizes the importance of ongoing monitoring and control by Rosfinmonitoring as part of this framework. [6]
-
-**COMMENT:** The potential extension of the export revenue repatriation decree highlights ongoing efforts to regulate currency flows amid economic pressures. This move may indicate a commitment to further tighten financial oversight, particularly in light of the increasing significance of cryptocurrency in transactions.
+**COMMENT:** This development highlights the ongoing engagement between the oil sector and the government, indicating a strategic focus on enhancing oil production from difficult reserves. Future policy adjustments in this area could reflect the government's response to economic challenges and the pressures faced by the oil industry.
 
 **LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #российские #сво #сф #часть #про
+**KEYWORDS:** #российский #про
 
 
-## Russian Forces Capture Peschanoe Village in Kharkiv Oblast
-On March 24th, 2026, Russian forces established control over the village of Peschanoe in Kharkiv Oblast, as reported by the Russian Ministry of Defense. The capture was part of ongoing military operations against Ukrainian troops, with elite units reportedly being deployed to retain the area, leading to the retreat of surviving Ukrainian forces. [7]
+## Putin Launches Construction of the National Center 'Russia' in Moscow
+On March 26th, 2026, President Vladimir Putin inaugurated the construction of the National Center 'Russia' in Moscow via a virtual ceremony. The center will be located in the Moscow International Business Center 'Moscow-City', with an estimated construction cost of 80 billion rubles, reflecting the Russian government's commitment to promoting national pride and identity through this project. [4]
 
-**COMMENT:** The successful capture of Peschanoe reflects the continuing operational capabilities of Russian forces in the region and suggests a possible escalation in military efforts against Ukraine. This development may indicate a shift in frontline dynamics and could lead to further territorial advances by Russia in the coming days.
-
-**LOCATION:** Peschanoe / Peschanoe, Unknown, Unknown [Click for Map Location](#) (Пещаное)
-
-**KEYWORDS:** #российские #минобороны рф #вс рф #минобороны #сво #сф #часть #про
-
-
-## Mountains of Bodies Found Near Kupiansk: Key News from the Frontlines on March 24th
-On March 24th, 2026, retired Colonel Anatoly Matviychuk reported on the situation near Kupiansk in the SVO zone, highlighting the impact of poor weather conditions on military operations for both sides. He noted that Ukrainian soldiers are struggling in muddy trenches, while Western tanks are failing due to the adverse weather, and mentioned strategic objectives in the Kharkov region that Russia aims to control. [8]
-
-**COMMENT:** This development indicates the ongoing strain on Ukrainian forces caused by challenging logistical conditions, potentially hindering their operational effectiveness. The Russian military's focus on seizing key industrial and strategic sites may signal an intent to consolidate power and resources in the region.
-
-**LOCATION:** Kupiansk / Kupiansk, 49.7132963, 37.6141992 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.713296&mlon=37.614199#map=8/49.713296/37.614199) (Купянск)
-
-**KEYWORDS:** #россия #вс рф #полк #сво #артиллерия #беспилотник #сф #часть #про
-
-
-## Ukrainian Forces Attack Enterprise in Kursk Oblast, Injuring Seven More
-On March 24th, 2026, Ukrainian forces carried out a repeated drone attack on the 'Veles-Agro' enterprise in Khomutovsky district, Kursk Oblast, resulting in an increase of total injuries to 13. The regional governor, Alexander Khinshtein, reported that among the injured, two individuals are in serious condition and are being transported to the regional clinical hospital. [9]
-
-**COMMENT:** This repeated attack underscores ongoing security threats facing critical infrastructure in Russia's border regions. Continued assaults may escalate tensions and lead to a reevaluation of security measures along the Russia-Ukraine border.
-
-**LOCATION:** Kursk Oblast / Kursk Oblast, 51.6568453, 36.4852695 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.656845&mlon=36.485270#map=8/51.656845/36.485270) (Курская область)
-
-**KEYWORDS:** #россия #удар #сво #беспилотник #бпла #сф #про
-
-
-## Explosion in Residential Building in Sevastopol Confirmed by Investigators
-On March 24th, 2023, an explosion occurred in a residential building on Pavel Korchagin Street in Sevastopol, with the epicenter located on the balcony of a first-floor apartment. The incident resulted in the death of a 50-year-old woman, while her four daughters sustained injuries and are hospitalized, and her 20-year-old son is reported missing. [10]
-
-**COMMENT:** This incident reflects broader security concerns regarding public safety in residential areas within Russia. The implications of the event may prompt increased scrutiny and potential regulatory changes concerning building safety standards and emergency response protocols.
-
-**LOCATION:** Sevastopol / Sevastopol, 55.7544976, 37.6157186 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.754498&mlon=37.615719#map=8/55.754498/37.615719) (Севастополь)
-
-**KEYWORDS:** #россия #удар #сф #про
-
-
-## Russia's Security Council Sees No Prospects for Resolution of Iran Conflict
-On March 24th, 2026, Russian Security Council Secretary Sergey Shoigu stated that there are currently no signs that the United States and Israel intend to end their military operations against Iran. During a meeting with Vietnamese Prime Minister Pham Minh Chinh, Shoigu emphasized the complex military-political situation and the belligerent statements from Washington and Tel Aviv regarding their continued military objectives. [11]
-
-**COMMENT:** Shoigu's remarks indicate a persistent distrust toward U.S. and Israeli intentions in the region, suggesting ongoing military engagement may further destabilize the Middle East. This could prompt Russia to reassess its strategic positioning and diplomatic efforts in response to heightened tensions.
+**COMMENT:** This construction initiative demonstrates the Russian government's focus on national identity and cultural projects, signaling an investment in state-sponsored narratives. The planned opening in 2029 may bolster domestic public sentiment and project a sense of stability and strength within the country as it approaches that date.
 
 **LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #удар #сво #сф #часть #про
+
+
+## General Identifies Strange Object in Konstantinovka, Likely Grave for Ukrainian Soldiers
+On March 26th, 2026, General Sergey Lipovoy, head of the Officers of Russia organization, commented on the mass surrender of soldiers from the Ukrainian Army's 5th Separate Assault Brigade near Konstantinovka. He attributed this to supply failures by the Ukrainian command, leading to soldiers being left without food, water, or ammunition, ultimately resulting in their decision to surrender. [5]
+
+**COMMENT:** This incident underscores the ongoing operational challenges faced by the Ukrainian military, likely indicating significant logistical issues. As the situation develops, it may influence the dynamics of engagement in eastern Ukraine, potentially impacting Russian military strategy.
+
+**LOCATION:** Konstantinovka / Konstantinovka, Unknown, Unknown [Click for Map Location](Unknown) (Константиновка)
+
+**KEYWORDS:** #вс #рф #командование #офицер #сво #сф #часть #про
+
+
+## Russia Promises Firm Response to Drone Attacks in Leningrad Region
+On March 26th, 2026, Russian military expert Vasily Dandikin stated that Russia will respond to recent drone attacks from Ukraine on the Leningrad region, including the city of Vyborg. Over two consecutive nights, residents reported multiple explosions as Russian forces shot down 21 enemy drones, highlighting the region's strategic importance for hydrocarbon transport. [6]
+
+**COMMENT:** The ongoing drone attacks signal heightened tensions between Russia and Ukraine, prompting a firm military response from Russian authorities. This situation may lead to increased military activity and surveillance in the region, exacerbating the already strained relations.
+
+**LOCATION:** Vyborg / Vyborg, 60.709217, 28.744051 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.709217&mlon=28.744051#map=8/60.709217/28.744051) (Выборг)
+
+**KEYWORDS:** #российские #российские #военные #сво #бпла #сф #часть #про
+
+
+## Russian State Duma Confirms No New Recruits Will Be Deployed to Special Military Operation Zone
+On March 26th, 2026, the head of the State Duma Defense Committee, Andrey Kartapolov, announced that recruits being conscripted for military service starting April 1 will not be sent to the zone of the special military operation. This follows a presidential decree allowing year-round conscription and confirms that the spring draft will continue until July without deployment to conflict areas. [7]
+
+**COMMENT:** This decision indicates a strategic shift in military personnel management, potentially reflecting concerns over both recruitment stability and operational pressures. In the near term, avoiding deployment may help maintain public support for the military while reducing risks associated with troop morale.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #минобороны #россии #минобороны #призыв #военкомат #удар #сво #пуск #сф #армия #про
+
+
+## Emergency Ministry Develops Contract Military Service Bill for Fire Service
+On March 26th, 2026, the Russian Ministry of Emergency Situations announced the development of a presidential decree that would allow contract military service within the Federal Fire Service. This new policy aims to offer an alternative for contract servicemen, enabling them to serve in firefighting units instead of the regular armed forces. [8]
+
+**COMMENT:** This initiative reflects the Russian government's efforts to strengthen emergency response capabilities amid increasing domestic challenges. The move may signal a shift in resource allocation within state security structures, potentially impacting military recruitment and operational readiness.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #минобороны #рф #мо #рф #вооруженные #силы #рф #вс #рф #минобороны #подразделение #удар #сво #сф #про
+
+
+## Court Bans Screening of the Film 'Mr. Nobody Against Putin'
+On March 26th, 2026, the Central District Court of Chelyabinsk ruled to ban the documentary film 'Mr. Nobody Against Putin,' following a lawsuit filed by the local prosecutor's office. The film, directed by Pavel Talankin, was deemed to express negative sentiments against the state and the president, particularly after the onset of the military operation. [9]
+
+**COMMENT:** The court's decision reflects ongoing state control over media expressions that challenge government narratives, highlighting a trend towards stricter censorship. This may indicate increasing efforts by authorities to suppress dissenting views in the lead-up to significant political events.
+
+**LOCATION:** Chelyabinsk / Chelyabinsk, 55.1598408, 61.4025547 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.159841&mlon=61.402555#map=8/55.159841/61.402555) (Челябинск)
 
 **KEYWORDS:** #россия #удар #сво #сф #про
 
 
-## Central Bank Reports Minimal Impact of VAT Increase on Inflation
-On March 24th, 2026, Elvira Nabiullina, the head of the Central Bank of Russia, stated that the increase in the value-added tax (VAT) from 20% to 22% has had a limited effect on inflation, contributing just over one percentage point. This announcement was made during her speech in the State Duma, where she assured that the recent tax changes would not lead to significant price increases. [12]
-
-**COMMENT:** The Central Bank's assessment may reflect a broader attempt to manage public perception regarding inflationary pressures amid economic challenges. Such reassurances could indicate stability in state policies but may also be a preemptive measure against potential public dissatisfaction with rising costs.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #удар #сф #про
-
-
-## Russia Develops Fully Import-Substituted Aircraft, Says Aviation Chief
-On March 24th, 2026, Dmitry Yadrov, the head of Rosaviation, announced that Russia has achieved the capability to produce fully import-substituted aircraft. He emphasized the development of a domestic component base, enabling the country to create new aircraft within six to seven years, setting it apart from major international manufacturers like Airbus and Boeing. [13]
-
-**COMMENT:** This development indicates a significant shift in Russia's aviation industry towards self-sufficiency, which may enhance the country's strategic autonomy in military and civil aviation. In the near term, this could influence Russia's approach to international aviation partnerships and affect its military capabilities.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #российские #удар #сво #мто #сф #про
-
-
-## Russia Launches Satellites for Internet Access from Space
-On March 24th, 2026, the Russian aerospace company Bureau 1440 successfully launched satellites to form a low-orbit constellation called 'Rassvet.' This project aims to provide sovereign internet access primarily to users in Siberia and the Arctic, reflecting Russia's focus on enhancing its telecommunications infrastructure, particularly in remote regions. [14]
-
-**COMMENT:** The successful launch indicates a significant step toward improving internet connectivity across underserved areas, enhancing state control over information flow. It may also signal broader state priorities in maintaining sovereign technology capabilities while reducing reliance on foreign systems.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #пуск #про
-
-
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1079711?utm_source=top
+[1] interfax.ru - https://interfax.ru/business/1080231?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1079749?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1080310
 
-[3] interfax.ru - https://interfax.ru/russia/1079780
+[3] interfax.ru - https://interfax.ru/business/1080299
 
-[4] interfax.ru - https://interfax.ru/russia/1079781
+[4] aif.ru - https://aif.ru/society/putin-polozhil-nachalo-stroitelstvu-nacionalnogo-centra-rossiya
 
-[5] interfax.ru - https://interfax.ru/russia/1079778
+[5] aif.ru - https://aif.ru/society/betonnaya-mogila-na-sotni-tel-general-nashel-strannyy-obekt-konstantinovki
 
-[6] interfax.ru - https://interfax.ru/business/1079775
+[6] aif.ru - https://aif.ru/society/bpla-leteli-iz-pribaltiki-evrope-obeshchan-zhestkiy-otvet-za-ataki-lenoblasti
 
-[7] aif.ru - https://aif.ru/society/vs-rf-osvobodili-selo-peschanoe-v-harkovskoy-oblasti
+[7] www.vesti.ru - https://www.vesti.ru/ns/v-gosdume-isklyuchili-otpravku-novykh-prizyvnikov-v-zonu-svo
 
-[8] aif.ru - https://aif.ru/society/pod-kupyanskom-nashli-gory-tel-glavnaya-novost-svo-24-marta
+[8] www.vesti.ru - https://www.vesti.ru/ns/mchs-razrabotalo-zakonoproekt-o-voennoj-sluzhbe-po-kontraktu-v-fps
 
-[9] www.vesti.ru - https://www.vesti.ru/ns/vsu-povtorno-atakovali-predpriyatie-v-kurskoj-oblasti-postradali-eshche-7-chelovek
-
-[10] www.vesti.ru - https://www.vesti.ru/ns/ustanovlen-ochag-vzryva-v-zhilom-dome-v-sevastopole
-
-[11] www.vesti.ru - https://www.vesti.ru/ns/v-sb-rf-poka-ne-vidyat-perspektiv-okonchaniya-konflikta-vokrug-irana
-
-[12] www.vesti.ru - https://www.vesti.ru/ns/v-cb-zayavili-chto-povyshenie-nds-neznachitelno-povliyalo-na-inflyaciyu
-
-[13] www.vesti.ru - https://www.vesti.ru/ns/yadrov-zayavil-chto-rossiya-nauchilas-delat-polnostyu-importozameshchennye-samolety
-
-[14] www.kp.ru - https://www.kp.ru/daily/27767.4/5226650/
+[9] www.vesti.ru - https://www.vesti.ru/ns/film-gospodin-nikto-protiv-putina-zapretili-k-pokazu

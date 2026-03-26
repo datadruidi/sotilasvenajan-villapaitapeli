@@ -1,174 +1,116 @@
-# Raportti päivänä: 24. maaliskuuta 2026
+# Raportti päivämäärä: 26. maaliskuuta 2026
 
-## Summary
-Raportointijaksolla Venäjän viranomaiset ovat käsitelleet useita turvallisuuteen, terveydentilaan ja sääntelemiseen liittyviä asioita. Tärkeimpinä tapahtumina ovat olleet OSAKO-vakuutuksen puutteeseen liittyvät vaatimukset, oikeuden langettamat tuomiot ampumisten vuoksi sekä merkittävät terveys- ja turvallisuusuhat erilaisista onnettomuuksista. Tulevaisuudessa voidaan odottaa lisäpainetta lainsäädäntöön sekä mahdollisia uusia säädöksiä terveyden ja turvallisuuden parantamiseksi eri sektoreilla.
+## Yhteenveto
+Raportointijaksolla Venäjä on tehnyt merkittäviä liikkeitä energiasektorilla ja sisäpolitiikassa. Venäjä aloitti öljyn myynnin ilman alennuksia tai jopa korkeamman hinnan mukaisesti, mikä viittaa vahvaan kysyntään. Samalla Pskovin lentoasema nosti lentotoimintarajoituksia ja Moskovassa keskustellaan vero- ja kaivostukien sääntelystä. Presidentti Putin on myös aloittanut kansallisen keskuksen rakentamisen, mikä korostaa valtiojohtajuuden painotusta kansalliseen identiteettiin. Samanaikaisesti dronehyökkäykset Leningradin alueella ovat aiheuttaneet tiukkaa vastareaktiota Venäjän joukkojen taholta, ja tuomioistuimet kieltävät valtiovastaisia elokuvia, mikä osoittaa vahvistuvaa sensuuria. 
 
-## Venäjän sisäministeriö ei voi langettaa sakkoja OSAKO-vakuutuksen puutteen vuoksi
-24. maaliskuuta 2026 Venäjän sisäministeriö ilmoitti, että sillä ei ole teknisiä valmiuksia langettaa sakkoja autoilijoille pakollisen OSAKO-vakuutuksen puutteen vuoksi automatisoitujen valvontajärjestelmien kautta. Tämä ilmoitus esitetään mediassa keskustelujen ohella näiden järjestelmien perusteella mahdollisesti tapahtuvista seuraamuksista. [1]
+Lähiaikojen kehitys voi keskittyä öljyviennin optimointiin sekä liittovaltion sisäisten turvallisuus- ja hallintokysymysten ratkaisuihin.
 
-**COMMENT:** Ilmoitus heijastaa jatkuvia teknisiä ja hallinnollisia haasteita Venäjän lainvalvontaviranomaisten keskuudessa suhteessa automatisoituihin liikenneseurantoihin. Tämä voi vaikuttaa taloudellisten seuraamusten täytäntöönpanoon ja johtaa keskusteluihin säännöstön ympärillä, joka liittyy ajoneuvojen vakuutusvaatimusten toteuttamiseen Venäjällä.
+## Venäjä aloittaa öljyn myynnin ilman alennuksia tai jopa premium-hinnoilla
+Maaliskuun 26. päivänä 2026 Venäjä alkoi myydä öljyä ja öljytuotteita joko ilman alennusta tai jopa korkeammalla hinnalla kasvaneen kysynnän vuoksi, kertoi varapääministeri Alexander Novak. Tämä muutos on vastauksena markkinapulaan, mikä osoittaa voimakasta kysyntää Venäjän öljylle huolimatta kuljetuskustannusten noususta Hormuzinsalmessa tapahtuvan tankerikohtauksen vuoksi. [1]
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**COMMENT:** Öljyn myynnin päätös premium-hinnoilla heijastaa tehokasta kysynnän dynamiikan hyödyntämistä rajoittuneilla globaaleilla markkinoilla. Tulevat trendit voivat nähdä Venäjän keskittyvän vientitulojen maksimoimiseen samalla kun se navigoi lisääntyvissä logistisissa haasteissa.
 
-**KEYWORDS:** #russia #пуск #про
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-
-## Oikeus tuomitsee kuusi Wildberries-toimiston ampuma-aserikokouksen osallistujaa
-24. maaliskuuta 2026 Presnenskin tuomioistuin Moskovassa tuomitsi kuusi henkilöä, jotka olivat mukana ampuma-aserikokouksessa Wildberries-toimiston lähistöllä syyskuussa 2024. Syytetyt saivat eri pituisia vankeusrangaistuksia huliganismista ja muista syytteistä. [2]
-
-**COMMENT:** Tämä tuomio heijastaa jatkuvia julkisen turvallisuuden ja väkivallan ongelmia merkittävillä kaupallisilla alueilla Venäjällä. Tällaisilla tapahtumilla voi olla vaikutusta lainvalvontaviranomaisten turvatoimien tiukentamiseen tärkeiden liiketoimintojen ympärillä.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
-
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #россия #сво #про
 
 
-## Venäjän sisäministeriö veloittaa pankkeja kansalaistiedosta
-24. maaliskuuta 2026 Venäjän sisäministeriö ehdotti uutta sääntelyä, joka velvoittaa pankkeja ja luottolaitoksia maksamaan pääsyn kansalaistietoihin poliisirekistereistä. Tämän aloitteen odotetaan tuottavan yli 110 miljardia ruplaa vuosittain valtion budjetille. [3]
+## Pskovin lentoasema nostaa rajoituksia lentotoiminnassa
+Maaliskuun 26. päivänä 2026 Pskovin lentoasema Venäjällä nosti väliaikaisia rajoituksia lentojen vastaanottamiselle ja lähdölle, raportoi Rosaviatsiya. Nämä rajoitukset oli asetettu aikaisemmin päivällä lentoturvallisuuden varmistamiseksi. [2]
 
-**COMMENT:** Tämä toimenpide heijastaa jatkuvaa valtion pitämien tietojen kaupallistamisen suuntausta, mikä osoittaa hallituksen kiinnostuksen uusien tulovirtalinjojen luomiseen. Lyhyellä aikavälillä tällainen veloitus voi lisätä valvontaa ja sääntelyä tietosuojaan ja pääsyyn liittyen Venäjällä.
+**COMMENT:** Rajoitusten purkaminen viittaa normaalien toimintojen paluuseen Pskovin lentoasemalla, mahdollistaen parantuneet turvallisuusolot. Tällaiset kehitykset voivat heijastaa laajempia operatiivisia säätöjä Venäjän ilmailussa turvallisuusprotokollien muuttuessa.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Pskov / Pskov, 57.8173923, 28.3343465 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.817392&mlon=28.334346#map=8/57.817392/28.334346) (Псков)
 
-**KEYWORDS:** #russia #удар #про
-
-
-## Tutkintakomitea avaa tutkinnan Sevastopolin asuinrakennuksen räjähdyksen jälkeen
-24. maaliskuuta 2026 Venäjän tutkintakomitea aloitti rikostutkinnan räjähteen laittomasta hankinnasta ja varastamisesta asuinrakennuksessa Sevastopolissa tapahtuneen räjähdyksen jälkeen. Räjähdys, joka tapahtui ensimmäisen kerroksen asunnon parvekkeella, on tutkinnassa, jossa selvitetään huolimattomuudesta johtuvaa kuoleman aiheuttamista ja lainvastaista räjähdeaineiden käsittelyä. [4]
-
-**COMMENT:** Tämä tapahtuma nostaa esiin jatkuvia huolia turvallisuudesta ja turvallisuudesta asuinalueilla, mikä voi viitata laajempiin ongelmiin liittyen laittomiin räjähteisiin. Tutkinta saattaa johtaa kasvavaan valvontaan räjähteiden ja niihin liittyvien rikollisten toimintojen osalta alueella.
-
-**LOCATION:** Sevastopol / Sevastopol, 55.7544976, 37.6157186 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.754498&mlon=37.615719#map=8/55.754498/37.615719)
-
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #russia #пуск
 
 
-## Apinoiden isorokkorokotetapaus vahvistettu Pietarissa
-24. maaliskuuta 2026 apinoiden isorokkorokotus tapaus vahvistettiin Pietarin asukkaalla, mikä johti sairaalaan päätyyn infektiotaudeille. Epidemiologiset tutkimukset ovat käynnissä, ja tehostettu hygienian ja karanteenin valvonta on otettu käyttöön, johtuen mahdollisesta tartuntariskistä tulevana matkailusesonkina. [5]
+## Keskustelut talousministeriön kanssa poraustukien ja polttoaineveron säätelystä
+Maaliskuun 26. päivänä 2026 Alexander Dyukov, Gazprom Neftin johtaja, ilmoitti, että öljy-yhtiöt käyvät keskusteluja talousministeriön kanssa suhteessa neljännen kenttäryhmän laajentamiseen voittoverotuksen alaisena. Keskustelut kattavat myös poraamisen stimuloimisen ja mahdollisen polttoaineveron säätelyn pitkäaikaisia tarpeita varten. [3]
 
-**COMMENT:** Apinoiden isorokkojupakan vahvistaminen herättää huolta kansanterveydestä, erityisesti matkailukauden lähestyessä. Jatkuva valppaus ja tehokkaat toimenpiteet ovat ensiarvoisen tärkeitä mahdollisten epidemioiden hallitsemiseksi ja alueen turvallisuuden varmistamiseksi.
+**COMMENT:** Tämä kehitys korostaa öljysektorin ja hallituksen jatkuvaa vuorovaikutusta, mikä viittaa strategiseen keskittymiseen öljyntuotannon parantamiseen vaikeista esiintymistä. Tulevat poliittiset säädöt tässä asiassa voivat heijastaa hallituksen reaktiota taloudellisiin haasteisiin sekä öljyteollisuuden kohtaamiin paineisiin.
 
-**LOCATION:** Pietari / Saint Petersburg, 59.938732, 30.316229 [Click for Map Location](https://www.openstreetmap.org/?mlat=59.938732&mlon=30.316229#map=8/59.938732/30.316229)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #удар #пуск #про
-
-
-## Rahoitusministeriö ehdottaa vientitulojen kotiutusasetuksen pidentämistä
-24. maaliskuuta 2026 Ivan Chebeskov, Venäjän rahoitusministerin varapäällikkö, totesi ministeriön kannan vientitulojen pakollisen kotiutuksen ja myynnin säädöksen pidentämisestä, joka on määrä vanhentua toukokuussa. Ministeriö korostaa jatkuvan valvonnan ja ohjauksen tärkeyttä Rosfinmonitoringin osalta tämän kehyksen mukaisena. [6]
-
-**COMMENT:** Vienti-tuottojen kotiutusasetuksen mahdollinen pidentäminen heijastaa jatkuvia pyrkimyksiä säännellä valuuttavirtoja taloudellisten paineiden keskellä. Tämä toimi voi viitata sitoutumiseen tiukempaan taloudelliseen valvontaan, erityisesti kryptovaluuttojen merkityksen kasvaessa liiketoimissa.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
-
-**KEYWORDS:** #российские #сво #сф #часть #про
+**KEYWORDS:** #российский #про
 
 
-## Venäläiset joukot valtaavat Peschanoen kylän Harkovissa
-24. maaliskuuta 2026 Venäläiset joukot ovat vakiinnuttaneet hallinnan Peschanoen kylästä Harkovin alueella, kuten Venäjän puolustusministeriö on raportoinut. Valtauksen taustalla ovat käynnissä olevat sotilaalliset operaatiot ukrainalaisia joukkoja vastaan, ja kerrotaan, että erikoisjoukkoja on lähetetty alueen säilyttämiseksi, mikä on johtanut selviytyneiden ukrainalaisten joukkojen pakoon. [7]
+## Putin aloittaa kansallisen keskuksen 'Venäjä' rakentamisen Moskovassa
+Maaliskuun 26. päivänä 2026 presidentti Vladimir Putin avasi kansallisen keskuksen 'Venäjä' rakentamisen Moskovassa virtuaalitilaisuudessa. Keskus tulee sijaitsemaan Moskovan kansainvälisessä liiketoimintakeskuksessa 'Moscow-City', ja sen rakennuskustannusten arvioidaan olevan 80 miljardia ruplaa, mikä heijastaa Venäjän hallituksen sitoutumista kansallisen ylpeyden ja identiteetin edistämiseen tämän projektin kautta. [4]
 
-**COMMENT:** Peschanoen onnistunut valtaus heijastaa Venäläisten joukkojen jatkuneita operatiivisia kykyjä alueella ja viittaa mahdolliseen sotilaallisen toiminnan eskalaatioon Ukrainaa vastaan. Tämä kehitys saattaa merkitä muutosta etulinjan dynamiikassa ja voi johtaa uusiin territoriaalisiin saavutuksiin Venäjältä tulevina päivinä.
+**COMMENT:** Tämä rakentamisaloite osoittaa Venäjän hallituksen fokuksen kansalliseen identiteettiin ja kulttuuriprojekteihin, merkiten investointia valtion tukemaan narratiiviin. Suunniteltu avaus vuodelle 2029 saattaa nostaa kotimaista julkista mielipidettä ja luoda tunnetta vakaudesta ja voimasta maan lähestyessä tätä päivämäärää.
 
-**LOCATION:** Peschanoe / Peschanoe, Unknown, Unknown [Click for Map Location](Unknown)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #российские #минобороны рф #вс рф #минобороны #сво #сф #часть #про
-
-
-## Ruumiiden vuori löydetty Kupianskin lähellä: Pääuutiset rintamalta 24. maaliskuuta
-24. maaliskuuta 2026 eläkkeellä oleva eversti Anatoly Matviychuk raportoi Kupianskin tilanteesta SVO-alueella, korostaen huonojen sääolosuhteiden vaikutusta sotilaallisiin operaatioihin molemmilla puolilla. Hän huomautti, että ukrainalaiset sotilaat kamppailevat mudassa olevissa trenchseissä, kun taas Lännen tankit epäonnistuvat huonon sään vuoksi, ja mainitsi strategiset tavoitteet Harkovin alueella, joita Venäjän pyritään hallitsemaan. [8]
-
-**COMMENT:** Tämä kehitys osoittaa, että ukrainalaisille joukoille aiheutuu jatkuvaa rasitusta haasteiden logististen olosuhteiden vuoksi, mikä voi heikentää niiden operatiivista tehokkuutta. Venäjän armeijan keskittyminen keskeisten teollisten ja strategisten kohteiden valtaamiseen voi viitata aikomukseen vahvistaa valtaa ja resursseja alueella.
-
-**LOCATION:** Kupiansk / Kupiansk, 49.7132963, 37.6141992 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.713296&mlon=37.614199#map=8/49.713296/37.614199)
-
-**KEYWORDS:** #россия #вс рф #полк #сво #артиллерия #беспилотник #сф #часть #про
+**KEYWORDS:** #россия #удар #сво #сф #часть #про
 
 
-## Ukrainan joukot hyökkäävät yritystä vastaan Kurskin alueella, saaden seitsemän lisää vammautuneita
-24. maaliskuuta 2026 Ukrainan joukot ovat toteuttaneet toistuvan dronehyökkäyksen 'Veles-Agro' yritykseen Khomutovskin piirissä, Kurskin alueella, mikä on nostanut vammamäärän 13:een. Alueen kuvernööri Alexander Khinshtein raportoi, että vammautuneista kaksi ovat vakavassa tilassa ja kuljetetaan alueen kliiniseen sairaalaan. [9]
+## Kenraali tunnistaa outoa kohdetta Konstantinovkassa, todennäköisesti ukrainalaisten sotilaiden hauta
+Maaliskuun 26. päivänä 2026 kenraali Sergey Lipovoy Venäjän upseerien organisaatiosta kommentoi ukrainalaisten 5. erikoisrykmentin sotilaiden massoittain antautumista Konstantinovkan lähellä. Hän liitti tämän ukrainalaisten komentajien huoltovirheisiin, mikä johti siihen, että sotilaat jäivät ilman ruokaa, vettä tai ammuksia, mikä lopulta johti heidän antautumiseensa. [5]
 
-**COMMENT:** Tämä toistuva hyökkäys alleviivaa jatkuvia turvallisuusuhkia, joita kriittiselle infrastruktuurille Venäjän rajaseuduilla kohdistuu. Jatkuvat hyökkäykset voivat tiivistää jännitteitä ja johtaa turvallisuustoimenpiteiden uudelleenarvioimiseen Venäjän ja Ukrainan rajalla.
+**COMMENT:** Tämä tapaus korostaa ukrainalaisen armeijan jatkuvia operatiivisia haasteita, mikä viittaa merkittäviin logistisiin ongelmiin. Tilanteen kehittyminen saattaa vaikuttaa Itä-Ukrainan taisteludynamiikkaan ja mahdollisesti vaikuttaa Venäjän sotastrategiaan.
 
-**LOCATION:** Kurskin alue / Kursk Oblast, 51.6568453, 36.4852695 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.656845&mlon=36.485270#map=8/51.656845/36.485270)
+**LOCATION:** Konstantinovka / Konstantinovka, Unknown [Click for Map Location](Unknown) (Константиновка)
 
-**KEYWORDS:** #россия #удар #сво #беспилотник #бпла #сф #про
-
-
-## Sevastopolissa tapahtunut räjähdys asuinrakennuksessa vahvistettu tutkijoiden toimesta
-24. maaliskuuta 2026 asuinrakennuksessa Pavel Korchagin kadulla Sevastopolissa tapahtui räjähdys, jonka keskus sijaitsi ensimmäisen kerroksen asunnon parvekkeella. Tapahtumassa menehtyi 50-vuotias nainen, kun taas hänen neljä tytärtään vammautui ja ovat sairaalassa, ja hänen 20-vuotias poikansa on ilmoitettu olevan kateissa. [10]
-
-**COMMENT:** Tämä tapaus heijastaa laajempia turvallisuushuolia julkisen turvallisuuden osalta asuinalueilla Venäjällä. Tapahtuman vaikutukset voivat johtaa lisääntyneeseen valvontaan ja mahdollisiin sääntelymuutoksiin rakennusten turvallisuusstandardeihin ja hätävastaukseen liittyen.
-
-**LOCATION:** Sevastopol / Sevastopol, 55.7544976, 37.6157186 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.754498&mlon=37.615719#map=8/55.754498/37.615719)
-
-**KEYWORDS:** #россия #удар #сф #про
+**KEYWORDS:** #вс рф #командование #офицер #сво #сф #часть #про
 
 
-## Venäjän turvallisuusneuvosto ei näe mahdollisuuksia Iranin konfliktin ratkaisulle
-24. maaliskuuta 2026 Venäjän turvallisuusneuvoston sihteeri Sergey Shoigu totesi, että tällä hetkellä ei ole merkkejä siitä, että Yhdysvallat ja Israel aikovat lopettaa sotilaalliset toimenpiteensä Irania vastaan. Shoigu korosti monimutkaista sotilaallista ja poliittista tilannetta sekä vihamielisiä lausuntoja Washingtonin ja Tel Avivin taholta heidän jatkuneista sotilaallisista tavoitteistaan. [11]
+## Venäjä lupaa tiukan vastauksen drone-hyökkäyksiin Leningradin alueella
+Maaliskuun 26. päivänä 2026 venäläinen sotilasasiantuntija Vasily Dandikin ilmoitti, että Venäjä vastaa Ukrainasta tulleisiin äskettäisiin drone-hyökkäyksiin Leningradin alueella, mukaan lukien Vyborgin kaupunki. Yli kahden peräkkäisen yön aikana asukkaat raportoivat useista räjähdyksistä, kun venäläiset joukot ampuivat alas 21 vihollisdronia, mikä korostaa alueen strategista merkitystä hiilivetykuljetuksille. [6]
 
-**COMMENT:** Shoigun lausunnot viittaavat jatkuvaan epäluottamukseen Yhdysvaltojen ja Israeliin aikomuksista alueella, mikä viittaa siihen, että jatkuva sotilaallinen osallistuminen saattaa edelleen horjuttaa Lähi-idän vakautta. Tämä voi rohkaista Venäjää arvioimaan uudelleen strategista asemaansa ja diplomaattisia pyrkimyksiään vastauksena lisääntyneisiin jännitteisiin.
+**COMMENT:** Jatkuvat drone-hyökkäykset merkitsevät Venäjän ja Ukrainan välisen jännityksen nousua, mikä johtaa tiukkaan sotilaalliseen vastareaktioon Venäjän viranomaisilta. Tämä tilanne voi johtaa lisääntyneeseen sotilaalliseen toimintaan ja valvontaan alueella, pahantahtoisen suhteiden kärjistymisen myötä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Vyborg / Vyborg, 60.709217, 28.744051 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.709217&mlon=28.744051#map=8/60.709217/28.744051) (Выборг)
+
+**KEYWORDS:** #российские #российские военные #сво #бпла #сф #часть #про
+
+
+## Venäjän valtionduuma vahvistaa, että uusia varusmiehiä ei lähetetä erikoissotatoiminta-alueelle
+Maaliskuun 26. päivänä 2026 valtionduuman puolustustoimikunnan puheenjohtaja Andrey Kartapolov ilmoitti, että huhtikuun 1. päivästä alkaen varusmiespalvelukseen kutsuttavat eivät tule tulemasta erikoissotatoiminta-alueelle. Tämä seuraa presidentin asetusta, joka mahdollistaa ympäri vuoden rekrytoinnin, ja vahvistaa, että kevätvärväys jatkuu heinäkuuhun ilman sijoittamista konfliktialueille. [7]
+
+**COMMENT:** Tämä päätös viittaa strategiseen muutokseen sotilasvoimien hallinnassa, mahdollisesti heijastaen huolta sekä rekrytoinnin vakaudesta että operatiivisista paineista. Lyhyellä aikavälillä, sijoittamisen välttäminen voi auttaa ylläpitämään julkista tukea armeijalle samalla vähentäen joukkojen moraaliin liittyviä riskejä.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #минобороны россии #минобороны #призыв #военкомат #удар #сво #пуск #сф #армия #про
+
+
+## Hätätorjuntaministeri kehittää lainsäädäntöä sopimusmilitarisoinnista palontorjuntajoukoille
+Maaliskuun 26. päivänä 2026 Venäjän hätätorjuntaministeriö ilmoitti kehittävänsä presidentin asetusta, joka mahdollistaisi sopimusmilitarisoinnin Federaaliseen Palontorjuntapalveluun. Tämä uusi politiikka tavoittelee vaihtoehdon tarjoamista sopimuspalvelusmiehille, mahdollistaen heidän palvella palontorjuntayksiköissä tavallisten asevoimien sijaan. [8]
+
+**COMMENT:** Tämä aloite kuvastaa Venäjän hallituksen pyrkimyksiä vahvistaa hätätilannevastuuvalmiuksia kasvavien sisäisten haasteiden myötä. Liike voi merkitä resurssien uudelleenjakamista valtion turvallisuusrakenteissa, mahdollisesti vaikuttaen sotilaalliseen rekrytointiin ja operatiiviseen valmiuteen.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #минобороны рф #мо рф #вооруженные силы рф #вс рф #минобороны #подразделение #удар #сво #сф #про
+
+
+## Tuomioistuin kieltää elokuvan 'Herra Kukaan Putinia vastaan' esittämisen
+Maaliskuun 26. päivänä 2026 Tšeljabinskin keskuspiirin tuomioistuin päätti kieltää dokumenttielokuvan 'Herra Kukaan Putinia vastaan' esittämisen, paikallisen syyttäjänviraston nostaman kanteen seurauksena. Elokuvan, jonka ohjasi Pavel Talankin, katsottiin ilmentävän kielteisiä tunteita valtiota ja presiidenttiä kohtaan erityisesti sotilaallisen toiminnan alkamisen jälkeen. [9]
+
+**COMMENT:** Tuomioistuimen päätös heijastaa jatkuvaa valtion kontrollia medioihin, jotka haastavat hallituksen narratiiveja, korostaen tiukemman sensuurin suuntausta. Tämä voi viitata lisääntyviin ponnisteluihin viranomaisten taholta tukahduttaa poikkeavia näkemyksiä merkittävien poliittisten tapahtumien lähestyessä.
+
+**LOCATION:** Tšeljabinsk / Chelyabinsk, 55.1598408, 61.4025547 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.159841&mlon=61.402555#map=8/55.159841/61.402555) (Челябинск)
 
 **KEYWORDS:** #россия #удар #сво #сф #про
 
 
-## Keskuspankki raportoi arvonlisäveron (ALV) korotuksen vähäisestä vaikutuksesta inflaatioon
-24. maaliskuuta 2026 Elvira Nabiullina, Venäjän keskuspankin pääjohtaja, totesi, että arvonlisäveron (ALV) korottaminen 20 %:sta 22 %:iin on vaikuttanut vain rajallisesti inflaatioon, ja se on aiheuttanut vain hieman yli yhden prosenttiyksikön nousua. Tämä ilmoitus tehtiin hänen puheessaan valtionduumassa, jossa hän vakuutti, että viimeisimmät veromuutokset eivät aiheuta merkittäviä hintojen nousuja. [12]
+# Lähteet
 
-**COMMENT:** Keskuspankin arvio voi heijastaa laajempaa yritystä hallita julkista käsitystä inflaatiopaineista taloudellisten haasteiden keskellä. Tällaiset vakuutukset voivat viitata vakauteen valtion politiikoissa, mutta voivat myös olla ennakoivia toimenpiteitä mahdollisia julkisia tyytymättömyyksiä kohden nousevien kustannusten vuoksi.
+[1] interfax.ru - https://interfax.ru/business/1080231?utm_source=top
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+[2] interfax.ru - https://interfax.ru/russia/1080310
 
-**KEYWORDS:** #россия #удар #сф #про
+[3] interfax.ru - https://interfax.ru/business/1080299
 
+[4] aif.ru - https://aif.ru/society/putin-polozhil-nachalo-stroitelstvu-nacionalnogo-centra-rossiya
 
-## Venäjä kehittää täysin tuontikorvattuja lentokoneita, sanoo ilmailupäällikkö
-24. maaliskuuta 2026 Dmitry Yadrov, Rosaviationin johtaja, ilmoitti, että Venäjä on saavuttanut kyvyn tuottaa täysin tuontikorvattuja lentokoneita. Hän korosti kotimaisten komponenttien kehittämistä, mikä mahdollistaa maan luoda uusia lentokoneita kuuden tai seitsemän vuoden sisällä, erottamalla sen isoista kansainvälisistä valmistajista, kuten Airbus ja Boeing. [13]
+[5] aif.ru - https://aif.ru/society/betonnaya-mogila-na-sotni-tel-general-nashel-strannyy-obekt-konstantinovki
 
-**COMMENT:** Tämä kehitys viittaa merkittävään siirtymään Venäjän ilmailuteollisuudessa kohti omavaraisuutta, mikä voi parantaa maan strategista autonomiaa sotilas- ja siviili-ilmailussa. Lyhyellä aikavälillä tämä voi vaikuttaa Venäjän lähestymistapaan kansainvälisiin ilmailukumppanuuksiin ja vaikuttaa sen sotilaallisiin kykyihin.
+[6] aif.ru - https://aif.ru/society/bpla-leteli-iz-pribaltiki-evrope-obeshchan-zhestkiy-otvet-za-ataki-lenoblasti
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+[7] www.vesti.ru - https://www.vesti.ru/ns/v-gosdume-isklyuchili-otpravku-novykh-prizyvnikov-v-zonu-svo
 
-**KEYWORDS:** #россия #российские #удар #сво #мто #сф #про
+[8] www.vesti.ru - https://www.vesti.ru/ns/mchs-razrabotalo-zakonoproekt-o-voennoj-sluzhbe-po-kontraktu-v-fps
 
-
-## Venäjä lanseeraa satelliitteja internetyhteyden tarjoamiseksi avaruudesta
-24. maaliskuuta 2026 venäläinen avaruusyhtiö Bureau 1440 onnistui lanseeraamaan satelliitteja, jotka muodostavat alhaisen kiertoradan tähtikonnstellaation nimeltä 'Rassvet.' Tämä projekti pyrkii tarjoamaan itsenäistä internetyhteyttä pääasiassa käyttäjille Siperiassa ja arktisilla alueilla, mikä heijastaa Venäjän keskittymistä parantaakseen viestintäinfrastruktuuriaan, erityisesti syrjäisillä alueilla. [14]
-
-**COMMENT:** Onnistunut laukaisu merkitsee merkittävää askelta internet-yhteyksien parantamiseksi huonosti palvelluille alueille, mikä lisää valtion kontrollia tiedonkulussa. Se voi myös viitata laajempiin valtioprioriteetteihin säilyttää itsenäisiä teknologisia kykyjä ja vähentää riippuvuutta ulkomaisista järjestelmistä.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #россия #пуск #про
-
-
-# Sources
-
-[1] interfax.ru - https://interfax.ru/russia/1079711?utm_source=top
-
-[2] interfax.ru - https://interfax.ru/russia/1079749?utm_source=top
-
-[3] interfax.ru - https://interfax.ru/russia/1079780
-
-[4] interfax.ru - https://interfax.ru/russia/1079781
-
-[5] interfax.ru - https://interfax.ru/russia/1079778
-
-[6] interfax.ru - https://interfax.ru/business/1079775
-
-[7] aif.ru - https://aif.ru/society/vs-rf-osvobodili-selo-peschanoe-v-harkovskoy-oblasti
-
-[8] aif.ru - https://aif.ru/society/pod-kupyanskom-nashli-gory-tel-glavnaya-novost-svo-24-marta
-
-[9] www.vesti.ru - https://www.vesti.ru/ns/vsu-povtorno-atakovali-predpriyatie-v-kurskoj-oblasti-postradali-eshche-7-chelovek
-
-[10] www.vesti.ru - https://www.vesti.ru/ns/ustanovlen-ochag-vzryva-v-zhilom-dome-v-sevastopole
-
-[11] www.vesti.ru - https://www.vesti.ru/ns/v-sb-rf-poka-ne-vidyat-perspektiv-okonchaniya-konflikta-vokrug-irana
-
-[12] www.vesti.ru - https://www.vesti.ru/ns/v-cb-zayavili-chto-povyshenie-nds-neznachitelno-povliyalo-na-inflyaciyu
-
-[13] www.vesti.ru - https://www.vesti.ru/ns/yadrov-zayavil-chto-rossiya-nauchilas-delat-polnostyu-importozameshchennye-samolety
-
-[14] www.kp.ru - https://www.kp.ru/daily/27767.4/5226650/
+[9] www.vesti.ru - https://www.vesti.ru/ns/film-gospodin-nikto-protiv-putina-zapretili-k-pokazu
