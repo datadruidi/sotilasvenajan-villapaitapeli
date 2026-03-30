@@ -1,258 +1,190 @@
-# Report Date: 2026-03-29
+# Raporttipäivämäärä: 2026-03-30
 
-## Summary
-Raportointijaksolla tapahtui useita merkittäviä turvallisuustapahtumia Venäjällä ja sen ympäristössä, mukaan lukien drone-hyökkäykset, joka herättää huolta kriittisen infrastruktuurin haavoittuvuudesta. Venäjän armeija on aktiivisesti torjunut drone-uhkia ja lisännyt puolustusvalmiuksiaan. Samalla vaatimukset korruption torjumiselle paikallisessa hallinnossa ovat kasvaneet. Nämä tapahtumat viittaavat mahdollisiin tuleviin kehittymiin, kuten lisääntyvään valvontaan ja toimiin kriittisten infrastruktuurien suojelemiseksi, sekä tiukempaan lainvalvontaan.
+## Yhteenveto
+Raportointijaksolla Venäjän hallitus otti useita toimia digitaalisten palveluiden sääntelyn tiukentamiseksi, mukaan lukien Apple-palveluiden maksujen mahdollinen keskeyttäminen ja VPN-palveluiden maksujen käyttöönotto. Samaan aikaan Makhachkalassa yli 30 000 asukasta jäi ilman sähköä tulvien vuoksi. Venäjä myös vahvisti sitoutumistaan muille maille, kuten Kuuballe, samalla kun se reagoi voimistuneeseen drone-uhkaan. Välikohtaus osoittaa, että alueen geopoliittiset jännitteet ovat kasvamassa.
 
-## Tulipalo Ust-Lugan satamassa drone-hyökkäyksen seurauksena hallittiin
-Maaliskuun 29. päivänä 2026, tulipalo Ust-Lugan satamassa Leningradin alueella saatiin onnistuneesti hallintaan drone-hyökkäyksen jälkeen. Gouverneur Alexander Drozdenko raportoi, että lisäpalontorjuntavälineitä, mukaan lukien kaksi palontorjuntajunaa, lähetettiin tilanteen hallintaan, ja ilmatorjuntajoukot pysyvät korkealla hälytystasolla. [1]
+## Venäjän digitaalisen kehityksen ministeriö harkitsee Apple-palveluiden maksujen keskeyttämistä
+Maaliskuun 30. päivänä 2026 Venäjän digitaalisen kehityksen ministeriö keskusteli toimenpiteistä, joilla pakotettaisiin Apple palauttamaan suosittuja venäläisiä sovelluksia App Storeen, mahdollisesti keskeyttämällä maksut sen palveluista matkapuhelinmaksujen kautta. Tämä keskustelu käytiin eräässä kokouksessa suurten teleoperaattoreiden kanssa maaliskuun 28. päivänä, tavoitteenaan kannustaa noudattamaan venäläistä lainsäädäntöä taloudellisella paineella teknologiajättiä kohtaan. [1]
 
-**COMMENT:** Drone-hyökkäys Ust-Lugan satamaan korostaa jatkuvia haavoittuvuuksia kriittisessä infrastruktuurissa kasvavien turvallisuushuolien keskellä. Tapaus saattaa saada aikaan tiukempia puolustusmenettelyjä ja drone-toiminnan tarkastelua alueella.
+**COMMENT:** Tämä toimi osoittaa Venäjän viranomaisten kasvavaa pyrkimystä valvoa paikallisia sääntöjä ulkomaisille teknologiayrityksille. Tällaiset toimenpiteet voivat kiristää suhteita Venäjän ja kansainvälisten teknologiayritysten välillä, mikä vaikuttaa niiden toimintaympäristöön maassa.
 
-**LOCATION:** Ust-Luga / Ust-Luga, Unknown, Unknown [Click for Map Location](Unknown) (Уст-Луга)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #пво #беспилотник #бпла
+**KEYWORDS:** #russia #российские #сво #про
 
 
-## Apulaispormestarin pidätys Korruptiosta Chelyabinskissa
-Maaliskuun 29. päivänä 2026, Traktorozavodskyn piirioikeus Chelyabinskissa määräsi apulaispormestari Alexander Astakhovin pidätettäväksi kahdeksi kuukaudeksi korruptiosyytösten vuoksi. Häntä syytetään virantoimituksen väärinkäytöstä epäselvien sopimusten yhteydessä, jotka liittyvät kaupungin viemärijärjestelmän korjauksiin vuosina 2024–2025. [2]
+## Telekomoperaattorit voivat alkaa veloittaa VPN-käytöstä Venäjällä
+Maaliskuun 30. päivänä 2026 digitaalisen kehityksen ministeri Maksut Shadaev keskusteli teleoperaattoreiden ja digitaalisten alustojen kanssa maksujen käyttöönotosta VPN-palveluille. Ehdotukset sisältävät käyttäjien rajoittamisen, jotka käyttävät VPN:ää pääseeakseen palveluihin sekä maksujen perimisen yli 15 Gt kansainvälisestä liikenteestä matkapuhelinverkoissa. [2]
 
-**COMMENT:** Korkean tason viranomaisen, kuten apulaispormestarin, pidätys korostaa jatkuvia anti-korruptiomittauksia paikallisessa hallinnossa Chelyabinskissa. Tämä tapaus saattaa viitata laajempaan korruption vastaisiin toimiin, jotka liittyvät julkisiin sopimuksiin alueella.
+**COMMENT:** Tämän päätöksen myötä Venäjän viranomaiset pyrkivät hallitsemaan internetin käyttöä ja estämään sensuurin kiertämiseen tarkoitettujen työkalujen käyttöä. Tämä toimi voi johtaa valtion valvonnan lisääntymiseen internetin käytössä.
 
-**LOCATION:** Chelyabinsk / Chelyabinsk, 55.1598408, 61.4025547 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.159841&mlon=61.402555#map=8/55.159841/61.402555) (Челябинск)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #russia #сво #пуск #про
 
 
-## Hätätila julistettu Buinakskissa, Daghestanissa vakavien sääolosuhteiden vuoksi
-Maaliskuun 29. päivänä 2026, viranomaiset Buinakskissa, Daghestanissa julistivat hätätilan vastauksena vakaviin sääolosuhteisiin, jotka aiheuttavat tulvia. Hätätoimenpiteet sisältävät tilapäisten majoituspaikkojen perustamisen affected-asukkaille, koska raskaat sateet ovat johtaneet maanvyöryihin ja sähkökatkoihin alueella. [3]
+## Yli 30 000 asukasta Makhachkalassa ilman sähköä tulvien vuoksi
+Maaliskuun 30. päivänä 2026 yli 30 000 asukasta Makhachkalassa jäi ilman sähköä tulvien vuoksi, joita aiheutti voimakkaat sateet, kertoi Dagestanin johtajan Sergey Melikovin tiedottaja. Käynnissä ovat toimet veden pumppaamiseksi pois ja toimintojen palauttamiseksi, yli 50 hätätyöntekijää on paikalla käyttämässä raskasta kalustoa jatkuvaan veden poistamiseen. [3]
 
-**COMMENT:** Tämä hätätila heijastaa Daghestanin kasvavia haavoittuvuuksia äärimmäisille sääilmiöille, joita saattaa pahentaa ilmastonmuutos. Hallituksen vastaus on tärkeää sekä välittömien humanitaaristen tarpeiden että pitkän aikavälin infrastruktuurin kestävyysongelmien hallinnassa.
+**COMMENT:** Makhachkalan sähkökatko heijastaa paikallisen infrastruktuurin haavoittuvuutta äärimmäisille sääilmiöille, mikä voi vaikuttaa kansalaisten turvallisuuteen ja hätätilanteiden hallintaan.
 
-**LOCATION:** Buinaksk / Buinaksk, Unknown, Unknown [Click for Map Location](Unknown) (Буйнакск)
+**LOCATION:** Makhachkala / Makhachkala, 42.9830241, 47.5048717 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.983024&mlon=47.504872#map=8/42.983024/47.504872) (Махачкала)
 
-**KEYWORDS:** #russia #штаб #сво #про
+**KEYWORDS:** #russia #штаб #пуск #про
 
 
-## Venäläiset joukot etenevät Ukrainassa ja neutraloivat droneja
-Maaliskuun 20. päivänä 2026, venäläiset joukot "Vostok"-ryhmästä etenivät syvemmälle Ukrainan puolustuslinjoihin, kun taas "Sever", "Yuzhnaya", "Tsentr" ja "Dnepr" paransivat asemiaan erikoissotatoiminta-alueella, raportoi Venäjän puolustusministeriö. Lisäksi ukrainalaisia droneja neutraloitiin useilla alueilla, mukaan lukien Smolensk, Bryansk ja Pietari, mikä korostaa jatkuvia sotilaallisia toimenpiteitä ja ilmapuolustusvastauksia Venäjän alueilla. [4]
+## Lavrov keskustelee alueellisesta tilanteesta Persianlahden arabimaiden kanssa
+Maaliskuun 30. päivänä 2026 Venäjän ulkoministeri Sergei Lavrov piti videokonferenssin Persianlahden yhteistyöneuvoston jäsenvaltioiden ja Jordanian ulkoministerien johdon kanssa keskustellen alueen sotilaallis-poliittisesta tilanteesta. Keskusteluissa korostettiin viime kuukauden aikana tapahtunutta ennennäkemätöntä tilanteen kärjistymistä. [4]
 
-**COMMENT:** Tämä sotilaallisen toiminnan lisääntyminen ja menestys ukrainalaisten drone-uhkien torjunnassa viittaa jatkuvaan strategiseen keskittymiseen sekä hyökkäystoimintaan että kotimaan puolustustoimiin. Tällaiset toimet voivat merkitä sotilaallisten osallistumisten mahdollista eskaloitumista, mikä vaikuttaa alueen turvallisuusdynaamisiin.
+**COMMENT:** Tämä vuoropuhelu osoittaa Venäjän aktiivista sitoutumista Persianlahden geopoliittisiin kysymyksiin, erityisesti Yhdysvaltojen ja Israelin toimien suhteen Irania kohtaan.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #российские #минобороны рф #российские войска #российские военнослужащие #минобороны #министерство обороны #пво #удар #сво #беспилотник #бпла #про
+**KEYWORDS:** #russia #удар #про
 
 
-## Venäjän puolustusministeriö vahvistaa 27 ukrainalaisen drone:n tuhoamisen
-Maaliskuun 29. päivänä 2026, Venäjän puolustusministeriö raportoi, että ilmatorjuntajoukot intercepted ja tuhosivat 27 ukrainalaista dronea kello 13:00–20:00 Moskovan aikaa. Droneja ammuttiin alas Bryanskin, Kurskin, Belgorodin ja Krimin alueilla, mikä osoittaa jatkuvia sotilaallisia toimia Venäjän ja Ukrainan rajalla. [5]
+## Rusal valmistelee ehdotuksia kotimaiselle alumiinihinnoittelulle
+Maaliskuun 30. päivänä 2026 Rusal ilmoitti valmistavansa ehdotuksia alumiinin hinnoittelusta kotimarkkinoilla, taustalla liittovaltion kilpailuvirasto FAS:n antama varoitus. FAS on vaatinut sopimusehtojen muutoksia 30. huhtikuuta mennessä, jotta poistettaisiin säännökset, jotka aiheuttavat korkeampia hintoja venäläisille kuluttajille verrattuna vientihintoihin. [5]
 
-**COMMENT:** Tämä tapaus heijastaa Venäjän lisääntynyttä ilmatorjuntatoimintaa vastauksena jatkuviin drone-uhkiin Ukrainasta. Tällaiset toimet voivat johtaa sotilaallisten operaatioiden eskaloitumiseen ja keskittyä rajaturvallisuuden parantamiseen lähitulevaisuudessa.
+**COMMENT:** Tämä kehitys osoittaa käynnissä olevaa sääntelyä paikallisten hinnoittelumekanismien osalta keskeisillä toimialoilla, mikä korostaa ponnisteluja hintojen säätämiseksi paikallisten kuluttajien hyväksi.
 
-**LOCATION:** Bryansk / Bryansk, 53.2423778, 34.3668288 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.242378&mlon=34.366829#map=8/53.242378/34.366829) (Брянск)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #минобороны рф #минобороны #пво #беспилотник #бпла #перехват
+**KEYWORDS:** #российский #сф #про
 
 
-## Ukraina shell Shebekinon aluetta Belgorodissa
-Maaliskuun 29. päivänä 2026, Shebekinon alue Belgorodin oblastiin shellattiin ukrainalaisten joukkojen toimesta alueen kuvernööri Vyacheslav Gladkovin mukaan. Alustavat raportit osoittavat, että uhreja ei ole tapahtunut, mutta tilannetta arvioidaan edelleen mahdollisten lisävaikutusten osalta. [6]
+## Venäjän armeija reagoi voimakkaasti dronehyökkäyksiin Krasnodarissa ja Taganrogissa
+Maaliskuun 30. päivänä 2026 Venäjän armeijan viranomaiset ilmoittivat päättäväisestä vastauksestaan äskettäin dronehyökkäyksiin, jotka kohdistuivat Krasnodariin ja Taganrogiin, aiheuttaen siviiliuhria. Tämä vastaus sisältää iskut sotilaspaikkoihin ja päätöksentekokeskuksiin, joita käytetään dronejen laukaisemiseen. [8]
 
-**COMMENT:** Tämä tapaus korostaa jatkuvia jännitteitä ja vihamielisyyksiä Venäjän ja Ukrainan rajalla. Jatkuvat sotilaalliset toimet saattavat vaikuttaa alueen turvallisuustilanteeseen ja vaikuttaa Venäjän viranomaisten reaktioihin.
+**COMMENT:** Tämä koordinoitu vastaus osoittaa Venäjän armeijan korkeaa valmiutta dronehyökkäysten jälkeen. Tämä voi merkitä sotilasengagementin mahdollisen kielteisen kärjistymisen lisääntymistä alueella.
 
-**LOCATION:** Shebekino District / Shebekino District, Unknown, Unknown [Click for Map Location](Unknown) (Шебекино)
+**LOCATION:** Krasnodar / Krasnodar, 45.0351532, 38.9772396 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.035153&mlon=38.977240#map=8/45.035153/38.977240) (Краснодар)
 
-**KEYWORDS:** #russia #сво
+**KEYWORDS:** #российские #российские военные #удар #сво #бпла #пуск #сф #часть #про
 
 
-## Tulipalo hallittiin Ust-Lugan satamassa UAV-hyökkäyksen jälkeen
-Maaliskuun 29. päivänä 2026, tulipalo, joka aiheutui UAV-hyökkäyksestä Ust-Lugan satamassa Leningradin alueella, lokalisoitiin. Gouverneuri raportoi 36 dronen tuhoutuneen alueella, ja väliaikaiset rajoitukset asetettiin Pskovin ja Pulkovo-lentokentille Pietarissa. [7]
+## Pelastajat sammuttelevat kolmea palavaa venettä Moskva-joella
+Maaliskuun 30. päivänä 2026 pelastajat sammuttelevat parhaillaan kolmea venettä, jotka syttyivät tuleen Moskva-joen rannoilla luoteisessa Moskovassa. Onnettomuus, joka tapahtui Aviatsionnajan kadun varrella, ei ole johtanut loukkaantumisiin, sillä veneissä ei ollut ketään tulipalon aikana, ja 26 pelastajaa työskentelee kuuden palokunnan kaluston kanssa. [9]
 
-**COMMENT:** Tapaus korostaa jatkuvia turvallisuushaasteita, jotka liittyvät UAV-toimintaan alueella, mikä osoittaa kriittisen infrastruktuurin haavoittuvuudet. Lähitulevaisuudessa lisä sotilastoiminta tai drone-hyökkäykset voivat aiheuttaa korkeita turvallisuustoimia ja toiminnallisia muutoksia tärkeissä tiloissa Länsi-Venäjällä.
+**COMMENT:** Tämä tapaus korostaa jatkuvia haasteita turvallisuus- ja hätätilanteiden hallinnassa Moskovan kaupunkialueilla.
 
-**LOCATION:** Ust-Luga / Ust-Luga, Unknown, Unknown [Click for Map Location](Unknown) (Уст-Луга)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #сво #беспилотник #бпла #про
+**KEYWORDS:** #россия #гарнизон #удар #сф #про
 
 
-## Tulipalo Ust-Lugan satamassa drone-hyökkäyksen seurauksena hallittiin
-Maaliskuun 29. päivänä 2026, tulipalo Ust-Lugan satamassa Venäjällä, joka aiheutui drone-iskusta, saatiin onnistuneesti hallintaan, sanoo gobernador Alexander Drozdenko. Palontorjuntatoimiin osallistui alueen lisäresursseja, kuten kaksi palontorjuntajunaa, samalla kun ilmatorjuntajoukot pysyivät korkealla hälytystasolla. [8]
+## Dronehyökkäys Melitopolissa loukkaantui kuusi siviiliä
+Maaliskuun 30. päivänä 2023 kuusi siviiliä, mukaan lukien neljä naista ja kaksi miestä, kärsi vammoista drone-iskussa Melitopolissa, Ukrainassa. Hyökkäys tapahtui lähellä iskun keskipistettä, ja kaikki loukkaantuneet ovat tällä hetkellä lääketieteellisen valvonnan alaisina ilman hengenvaarallisia vammoja. [10]
 
-**COMMENT:** Tämä tapaus korostaa Venäjän kriittisen infrastruktuurin haavoittuvuutta drone-hyökkäyksille, mikä korostaa jatkuvia turvallisuushuolia. Alueellisten palontorjuntavälineiden mobilisointi ja lisääntynyt ilmatorjuntavalmius voivat viitata kasvavaan huomioon tiettyjen varojen suojelemiseksi.
+**COMMENT:** Tämä tapahtuma korostaa drone-sodan jatkuvaa riskiä konfliktialueilla, mikä saattaa aiheuttaa lisäreaktioita Venäjän armeijalta.
 
-**LOCATION:** Ust-Luga / Ust-Luga, Unknown, Unknown [Click for Map Location](Unknown) (Уст-Луга)
-
-**KEYWORDS:** #russia #пво #беспилотник #бпла
-
-
-## Venäläiset joukot isku Ukrainan joukkoja Shevchenkossa
-Maaliskuun 29. päivänä 2026, venäläiset sotajoukot suorittivat ilmaiskun FAB-500 pommeilla 158. mekanisoituun prikaatiin, joka kuuluu Ukrainan asevoimiin Shevchenkon asutuksessa, joka sijaitsee Dobropillia-rintamalla. Isku, joka kohdistui tiivistettyihin ukrainalaiseen henkilöstöön, on kuvattu kriittiseksi Ukrainan puolustuskyvyn heikentämisessä kyseisellä alueella, mikä johtaa merkittäviin vahinkoihin heidän linnoitettuihin asemiinsa. [9]
-
-**COMMENT:** Tämä tapaus merkitsee eskalaatiota käynnissä olevassa konfliktissa, joka osoittaa venäläisten sotilasstrategioiden tehokkuuden ukrainalaisten puolustuksien kohdistamisessa. Jatkuvien tarkkojen iskujen käyttö voi viitata venäläisten joukkojen voimistuvaan hyökkäysstrategiaan alueella.
-
-**LOCATION:** Shevchenko / Shevchenko, Unknown, Unknown [Click for Map Location](Unknown) (Шевченко)
-
-**KEYWORDS:** #российские #российские военные #полк #удар #сво #сф #часть #про
-
-
-## Venäjän ilmapuolustus ampuu alas 27 ukrainalaista dronea maaliskuun 29. päivänä 2026
-Maaliskuun 29. päivänä 2026, Venäjän ilmatorjuntajoukot neutraloivat ja tuhosivat 27 ukrainalaista dronea neljällä Venäjän alueella kello 13.00–20.00 Moskovan aikaa. Operaatio tapahtui Bryanskissa, Kurskissa, Belgorodissa ja Krimillä, mikä edisti 345 ukrainalaisen dronejen ja 13 ohjattavan pommin tuhoamista venäläisten joukkojen toimesta viikonlopun aikana. [10]
-
-**COMMENT:** Tämä tapaus korostaa jatkuvia vihamielisyyksiä ja venäläisten voimakkaasti keskittynyttä ilmapuolustusta ukrainalaisille ilmailuuhkille. Säilyttävä ns. toimet voivat viitata lisääntyneeseen sotilaalliseen valmiuteen alueella ja potentiaalisesti ennakoida lisää eskalaatiota ilmatilatoimissa.
-
-**LOCATION:** Bryansk / Bryansk, 53.2423778, 34.3668288 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.242378&mlon=34.366829#map=8/53.242378/34.366829) (Брянск)
-
-**KEYWORDS:** #россия #российские #минобороны россии #мо рф #минобороны #министерство обороны #пво #противовоздушная оборона #удар #беспилотник #бпла #перехват #сф #про
-
-
-## Liittovaltion verovirasto selventää tilin jäädyttämissääntöjä 3-NDFL-veroilmoituksen jättämättömyydestä
-Maaliskuun 29. päivänä 2026, Venäjän liittovaltion verovirasto ilmoitti, että tilin jäädyttäminen, joka liittyy 3-NDFL-veroilmoituksen jättämättömyyteen, vaikuttaa vain tiettyihin kansalaisryhmiin, mukaan lukien yritykset ja yksityiset yrittäjät. Tämä selvennys tavoittelee huolien helpottamista siitä, että kaikki asukkaat voisivat kohdata sellaisia rajoituksia 20. toukokuuta 2026 jälkeen. [11]
-
-**COMMENT:** Tämä kehitys viittaa tähänastiseen lähestymistapaan, joka Venäjän liittovaltion verovirastolla on lain noudattamiseen korkean tulotason ansaitsijoiden ja erityisten ammattilaisten keskuudessa. Lähitulevaisuudessa tämä voi johtaa lisääntyneeseen huomioon yksittäisten yrittäjien ja ammattilaisten taloudelliseen toimintaan.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #российские #удар #сво #сф #про
-
-
-## Kolme miljoonaa kansalaista toteuttaa uusia petostentorjuntatoimia
-Maaliskuun 29. päivänä 2026, raportoitiin, että kolme miljoonaa kansalaista Venäjällä on ottanut käyttöön uusia toimia suojautuakseen petoksilta vaatimalla toisen osapuolen valtuutusta ennen taloustoimien tekemistä. Tämä käytäntö vaatii, että luotettava henkilö, kuten perheenjäsen, vahvistaa minkä tahansa taloudellisen toiminnan laillisuuden. [12]
-
-**COMMENT:** Tämä kasvaminen petostentorjuntatoimissa viittaa lisääntyneeseen tietoisuuteen ja reaktioon taloudellisiin uhkiin venäläisten keskuudessa. Tämä suuntaus voi viitata jatkuviin huoliin taloudellisesta turvallisuudesta ja tarpeesta parantaa sääntelykehyksiä kansalaisten suojaamiseksi talousrikoksilta.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #учения #удар #тоф #сф #про
-
-
-## Tulipalo Ust-Lugan satamassa hillittiin drone-hyökkäyksen jälkeen
-Maaliskuun 29. päivänä 2026, palomiehet onnistuivat hallitsemaan tulipalon Ust-Lugan satamassa, joka syttyi drone-hyökkäyksen jälkeen, jota epäillään ukrainalaisten joukkojen suorittamaksi. Leningradin alueen kuvernööri Alexander Drozdenko vahvisti, että kaksi palontorjuntajunaa lähetettiin tilanteen hoitamiseen, ja yhden dronen romu vahingoitti asuinrakennusta alueella. [13]
-
-**COMMENT:** Tämä tapaus korostaa jatkuvia jännitteitä ja drone-sodan käyttöä Venäjän ja Ukrainan konfliktissa, mikä viittaa mahdolliseen vihamielisyyksien eskaloitumiseen. Tulipalon vaikutus kriittiseen infrastruktuuriin Ust-Lugassa voi johtaa lisääntyneisiin turvallisuustoimiin samanlaisten strategisten sijaintien suojelemiseksi.
-
-**LOCATION:** Ust-Luga / Ust-Luga, Unknown, Unknown [Click for Map Location](Unknown) (Уст-Луга)
+**LOCATION:** Unknown / Melitopol, Unknown, Unknown [Click for Map Location](Unknown) (Мелитополь)
 
 **KEYWORDS:** #россия #пво #удар #сво #беспилотник #бпла #сф #про
 
 
-## Buinakskissa, Dagestanissa asiantuntijat puuttuvat maanvyöryjen seurauksiin
-Maaliskuun 29. päivänä 2023, asiantuntijat Buinakskissa, Dagestanissa työskentelevät palauttaakseen infrastruktuurin, joka on vaurioitunut maanvyöryjen vuoksi, jotka ovat vaikuttaneet teihin, jalkakäytäviin ja yhteisön tiloihin. Tilanne on johtanut hätätilan julistamiseen, noin 20 asuinrakennuksen ollessa vaarassa, ja evakuointeja käynnissä äärimmäisten sääolosuhteiden vuoksi. [14]
+## Syyttäjä vaatii 19 vuoden vankilatuomiota ja 500 miljoonan ruplan sakkoa entiselle Kurskin alueen varapresidentille
+Maaliskuun 30. päivänä 2026 syyttäjä vaati 19 vuoden vankeusrangaistusta ja 500 miljoonan ruplan sakkoa Alexey Dedoville, entiselle Kurskin alueen varapresidentille, kahden lahjussyytöksen johdosta. Valtion syyttäjä myös pyrkii estämään Dedovia ottamasta mitään organisaatio-, hallinto- tai hallinnollisia tehtäviä määrätyksi ajaksi. [11]
 
-**COMMENT:** Dagestanissa tapahtuneet maanvyöryth korostavat infrastruktuurin kestävyysongelmia vaikeissa sääolosuhteissa, joita saattavat pahentaa ilmastonmuutos. Tämä tapaus voi saada aikaan lisää valtion huomiota ja tukea infrastruktuurin turvallisuustoimenpiteisiin alueilla, joilla esiintyy samanlaisia luonnonkatastrofeja.
+**COMMENT:** Tämä tapaus osoittaa Venäjän viranomaisten jatkuvia ponnisteluja korruption torjunnassa alueellisissa hallinnoissa.
 
-**LOCATION:** Buinaksk / Buinaksk, 42.8260906, 47.1219624 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.826091&mlon=47.121962#map=8/42.826091/47.121962) (Буйнакск)
+**LOCATION:** Kurskin alue / Kursk Oblast, 51.6568453, 36.4852695 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.656845&mlon=36.485270#map=8/51.656845/36.485270) (Курская область)
 
-**KEYWORDS:** #россия #удар #сф #про
-
-
-## Dagestan lisää pullotetun veden tarjontaa tulvien vuoksi
-Maaliskuun 29. päivänä 2023, Daghestanin hallitus ilmoitti pullotetun veden tarjonnan lisäämisestä paikallisiin kauppoihin jatkuvien tulvien seurauksena. Tämä päätös tehtiin Daghestanin pääministerin Abdulmuslim Abulmuslimovin ja alueen teollisuusministerin Nizam Khalilovin tapaamisen jälkeen, jotta vältettäisiin juomaveden puuthteet. [15]
-
-**COMMENT:** Tämä toimi heijastaa hallituksen ennakoivaa lähestymistapaa resurssien saatavuuden varmistamiseksi hätätilanteissa Daghestanissa. Tällaiset toimet voivat merkitä lisääntynyttä keskittymistä julkisten resurssien hallintaan tehokkaasti luonnonkatastrofien yhteydessä, mikä voi vaikuttaa sisäiseen vakauteen.
-
-**LOCATION:** Daghestan / Dagestan, 43.0, 47.0 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.000000&mlon=47.000000#map=8/43.000000/47.000000) (Дагестан)
-
-**KEYWORDS:** #россия #штаб #удар #мто #сф #про
+**KEYWORDS:** #россия #учения #удар #сво #сф #про
 
 
-## Poliisi tutkii Kirkorovia savuke-onnettomuuden vuoksi lentokentällä
-Maaliskuun 29. päivänä 2026, liikennepoliisi Altai Krajissa suorittaa tutkimusta venäläisestä laulajasta Philip Kirkorovista lentokentällä tapahtuneen savuke-incidentin vuoksi. Sosiaalisessa mediassa kiertävä video näyttää Kirkoroville savustavan sisätiloissa, mikä sai lainvalvontaviranomaiset toimimaan, samalla kun Kirkorov on ilmaissut halukkuutensa hyväksyä seuraamuksia ja maksaa mahdolliset sakot. [16]
+## FSB paljastaa brittivakoilijan Moskovassa
+Maaliskuun 30. päivänä 2026 Venäjän FSB ilmoitti paljastaneensa brittiläisen vakoilijan Albertus Gerardus Janse Van Rensburgin, joka toimi Britti-suurlähetystön henkilöstönä Moskovassa. FSB viittasi siihen, että hän antoi väärää tietoa maahan saapuessaan ja osallistui vakoilutoimintaan, joka uhkasi Venäjän turvallisuutta. [12]
 
-**COMMENT:** Tutkimus Kirkorovista korostaa jatkuvia lainvalvontatoimia savukkeita koskevissa säännöissä julkisissa tiloissa. Tämä tapaus voi vaikuttaa myös julkiseen käsitykseen julkkisten käytöksestä ja vastuullisuudesta Venäjällä.
+**COMMENT:** Tämä tapaus korostaa jatkuvia jännitteitä vakoilutoiminnassa Venäjän ja lännen välillä.
 
-**LOCATION:** Barnaul / Barnaul, 53.3475493, 83.7788448 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.347549&mlon=83.778845#map=8/53.347549/83.778845) (Барнаул)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #удар #сф #про
-
-
-## Energodarissa sähköverkkojen vahingot ratkaistu tykistöhälyn jälkeen
-Maaliskuun 29. päivänä 2026, viranomaiset Enerhodarissa raportoivat sähköverkkojen palauttamisesta, jotka vaurioituivat aikaisemman tykistöhälyn seurauksena. Kaupungin pormestari Maksim Pukhov ilmoitti lämmitys- ja vetohankkeiden vaiheittaisesta energisoimisesta, mikä osoittaa nopeaa vastausta elintärkeiden palvelujen palauttamiseksi hyökkäyksen jälkeen. [17]
-
-**COMMENT:** Tämä tapaus heijastaa jatkuvia sotilaallisia vihamielisyyksiä siviili-infrastruktuurin ympärillä Enerhodarissa, mikä herättää huolta paikallishallinnon ja infrastruktuurin kestävyydestä. Nopean palauttamisen ponnistelut saattavat viitata organisoituun reagointimenettelyyn jatkuvan konfliktin keskellä, mikä vaikuttaa tulevaan toimintavakauteen alueella.
-
-**LOCATION:** Enerhodar / Enerhodar, Unknown, Unknown [Click for Map Location](Unknown) (Энергодар)
-
-**KEYWORDS:** #россия #удар #сво #пуск #сф #про
+**KEYWORDS:** #россия #минобороны #пво #сво #разведка #сф #часть #про
 
 
-## Venäjä laajentaa kutsuntoja ympärivuotiseen rekrytointiin
-Maaliskuun 28. päivänä 2026, varatoimitusjohtaja Vladimir Tsymlyansky Venäjän yleisessä esikunnassa ilmoitti uusista säännöistä sotilasliittoon Venäjällä, jotka sallivat rekrytoinnin tapahtua ympärivuotisesti tammikuun 1. päivästä joulukuun 31. päivään. Tämä muutos tähtää rekrytointitoimistojen työtaakan tasaamiseen ja rekrytointimenettelyjen parantamiseen sekä kansalaisten odotusaikojen vähentämiseen sotilasrekrytointikeskuksissa. [18]
+## Sniperit osuvat ukrainalaisiin droneihin Dimitrovissa
+Maaliskuun 30. päivänä 2026 Venäjän tarkka-ampujat 5. kaartin prikaatista raportoi onnistuneesti ampuneensa alas raskaita ukrainalaisia hexakoptereita toiminnoissa Dimitrovissa. Tämä toimenpide merkitsee jatkuvaa pyrkimystä venäläisiltä joukoilta heikentää Ukrainan dronekyvykkyyksiä pitkäaikaisissa vihollisuuksissa alueella. [13]
 
-**COMMENT:** Kutsuntojen laajentaminen voi merkitä strategista vastausta jatkuviin sotilasvelvoitteisiin, mikä voi heijastaa lisääntyvää painotusta mobilisaatiotoimille. Rekrytointikauden laajentuessa se voi myös viitata suuremman sotilaallisen läsnäolon tarpeeseen nykyisten geopoliittisten jännitteiden valossa.
+**COMMENT:** Ukrainan dronejen tuhoaminen venäläisten tarkka-ampujien toimesta osoittaa konfliktin jatkuvaa intensiivisyyttä kohdistetuilla alueilla.
+
+**LOCATION:** Unknown / Dimitrov, Unknown, Unknown [Click for Map Location](Unknown) (Димитров)
+
+**KEYWORDS:** #россия #бригада #полк #сво #бпла #пуск #про
+
+
+## Venäjä harkitsee kieltoa Apple-palveluiden mobiilimaksuille
+Maaliskuun 28. päivänä 2026 Venäjän digitaalisen kehityksen ministeriön sisällä keskusteltiin väliaikaisista rajoituksista Apple-palveluiden maksuille matkapuhelintilien kautta. Tämä toimenpide pyrkii pakottamaan Apple palauttamaan suosittuja venäläisiä palveluja, kun yritys jatkaa rajoitusten selvittämistä, jotka johtuvat sanktioista. [14]
+
+**COMMENT:** Ehdotetut rajoitukset heijastavat Venäjän hallituksen ja ulkomaisten teknologiayritysten välisten suhteiden jännityksiä.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #российские #сво #про
+
+
+## Baltian maat ja Suomi etääntyvät Ukrainasta dronehyökkäysten myötä
+Maaliskuun 30. päivänä 2026 Ukrainan dronehyökkäykset kohdistuivat Venäjän luoteisosaan, mikä herätti huolta Baltian maissa ja Suomessakin, kun nämä droneet todennäköisesti kulkivat heidän ilmatilassaan. Baltian maat erosivat nopeasti tapahtumista, tunnustaen alas ammuttujen droneiden ukrainalaisen alkuperän ja viestivät huolestaan Venäjän sotilaallisesta vastauskyvystä. [15]
+
+**COMMENT:** Tämä kehitys korostaa alueen kasvavia jännitteitä, kun Ukraina hyödyntää drone-kapasiteettejaan Venäjää vastaan.
+
+**LOCATION:** Unknown / Northwestern Russia, Unknown, Unknown [Click for Map Location](Unknown) (Северо-Западная Россия)
+
+**KEYWORDS:** #российские #удар #сво #беспилотник #бпла #пуск #сф #армия #про
+
+
+## 2026 sotilasdraft Venäjällä: Avainasiat ja muutokset
+Maaliskuun 28. päivänä 2026 varadmirali Vladimir Tsymlyansky Venäjän yleisesikunnasta ilmoitti päivityksistä koskien sotilasdraft-prosessia Venäjällä. Muutoksiin kuuluu draft-jakson pidentäminen koko vuodeksi tehokkuuden parantamiseksi ja sotilasihin rekrytointiviranomaisille aiheutuvan taakan vähentämiseksi. [16]
+
+**COMMENT:** Tämä muutos sotilasdraft-järjestelmään viittaa siihen, että Venäjän armeija haluaa parantaa logistisia toimintojaan.
 
 **LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
 **KEYWORDS:** #вс рф #генштаб #учения #штаб #полк #призыв #военкомат #сво #про
 
 
-## Ukrainan drone'n romu vahingoittaa asuinrakennusta Leningradin alueella
-Maaliskuun 29. päivänä 2026, ukrainalaisista droneista peräisin oleva romu vahingoitti asuinrakennusta Sistopalkinon kylässä Leningradin alueella. Alueen kuvernööri Alexander Drozdenko raportoivat, että paikalliset viranomaiset auttavat asukkaita samalla kun ilmatorjuntajoukot pysyvät korkealla hälytystasolla useiden dronejen tunkeutumisten jälkeen alueella. [19]
+## Venäjä kutsuu konfliktin välitöntä lopettamista Persianlahden alueella
+Maaliskuun 30. päivänä 2026 Venäjän ulkoministeri Sergei Lavrov kehotti välittömään tulitaukoon Persianlahdella videokonferenssin ajan Persianlahden yhteistyöneuvoston ja Jordanian johtajien kanssa. Hän painotti, että konfliktin ratkaiseminen, johon liittyy Yhdysvaltojen ja Israeli aggressiiviset toimet Irania kohtaan, pitäisi toteuttaa poliittisin ja diplomaattisilla keinoilla. [17]
 
-**COMMENT:** Tämä tapaus korostaa jatkuvaa uhkaa ukrainalaisista drone-toiminnoista ja korostaa Venäjän sisäisen turvallisuuden mahdollisia haavoittuvuuksia. Drone-iskujen toistuminen Leningradin alueella voi johtaa lisääntyneeseen sotilaalliseen valmiuteen ja lisäpuolusto-toimiin alueella.
-
-**LOCATION:** Sistopalkino / Sistopalkino, Unknown, Unknown [Click for Map Location](Unknown) (Систопалькино)
-
-**KEYWORDS:** #российские #российские военные #пво #беспилотник #бпла #про
-
-
-## Venäläisille varoitus tilin jäädyttämisestä veroilmoituksen jättämisen laiminlyönnin vuoksi
-Maaliskuun 29. päivänä 2026, Venäjän liittovaltion verovirasto ilmoitti, että yksityiseen harjoitteluun tai yrittäjätoimintaan osallistuvat henkilöt saattavat kohdata tilin jäädyttämisen 3-NDFL-veroilmoituksen jättämisen laiminlyönnin vuoksi. Tämä toimi kohdistuu niihin, jotka eivät toimita veroilmouksiaan 20 päivän kuluessa määräpäivästä, korostaen hallituksen tiukkuutta verovelvoitteiden noudattamisessa. [20]
-
-**COMMENT:** Tämä kehitys korostaa Venäjän hallituksen lisääntyvää valvontaa henkilökohtaisessa taloudellisessa toiminnassa ja verovelvoitteiden noudattamisessa itsenäisten ammattilaisten keskuudessa. Mahdollisuus tilin jäädyttämiseen voi johtaa suurempaan taloudelliseen painostukseen kansalaisyrittäjiä kohtaan ja vaikuttaa tuleviin noudattamiskäyttäytymisiin.
+**COMMENT:** Tämä kutsu Venäjältä korostaa sen roolia välittäjänä alueen konflikteissa, vastustaen samalla länttä.
 
 **LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #сво #про
-
-
-## Venäläiset asevoimat iskevät ukrainalaiselle lentotukikohtaan, jossa on NATO:n lentokoneita
-Maaliskuun 29. päivänä 2026, Venäjän asevoimat suorittivat iskun ukrainalaiselle lentotukikohdalle, jossa NATO:n lentokoneita oli sijoitettu. Tämä toimi osoittaa jatkuvia jännitteitä ja korostaa Venäjän sotilaallisia vastauskykyjä Ukrainan konfliktissa. [21]
-
-**COMMENT:** Isku osoittaa Venäjän jatkuvaa operatiivista keskittymistä NATO:n läsnäoloon alueella, mikä viittaa jatkuvaan sotilaalliseen päättäväisyyteen. Tulevat toimet voivat eskaloitua, kun konflikti jatkuu, erityisesti jos NATO:n osallistuminen syvenee.
-
-**LOCATION:** Ukraina / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) (Украина)
-
-**KEYWORDS:** #вс россии #удар
+**KEYWORDS:** #россия #призыв #удар #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1080799?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1080905?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1080740?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1080997?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1080785?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1080977?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[4] interfax.ru - https://interfax.ru/russia/1081002
 
-[5] interfax.ru - https://interfax.ru/russia/1080806
+[5] interfax.ru - https://interfax.ru/business/1080999
 
-[6] interfax.ru - https://interfax.ru/russia/1080804
+[6] interfax.ru - https://interfax.ru/russia/1080997
 
-[7] interfax.ru - https://interfax.ru/russia/1080801
+[7] aif.ru - https://aif.ru/politics/peskov-rossiya-schitaet-svoim-dolgom-pomoch-kube-s-nefteproduktami
 
-[8] interfax.ru - https://interfax.ru/russia/1080799
+[8] aif.ru - https://aif.ru/society/zhestkiy-otvet-za-taganrog-i-krasnodar-nazvany-obekty-mesti-za-ataki-na-rf
 
-[9] aif.ru - https://aif.ru/society/kiev-poteryal-svoyu-zashchitu-glavnaya-novost-svo-29-marta
+[9] www.vesti.ru - https://www.vesti.ru/ns/pozharnye-tushat-tri-zagorevshikhsya-na-beregu-moskvy-reki-katera
 
-[10] www.vesti.ru - https://www.vesti.ru/ns/za-voskresene-nad-regionami-rossii-sbili-27-ukrainskikh-bpla
+[10] www.vesti.ru - https://www.vesti.ru/ns/v-rezultate-ataki-bpla-na-melitopol-raneniya-poluchili-shest-mirnykh-grazhdan
 
-[11] www.vesti.ru - https://www.vesti.ru/ns/fns-razyasnila-chi-scheta-mogut-byt-zablokirovany-za-nesdachu-deklaracii-3-ndfl
+[11] www.vesti.ru - https://www.vesti.ru/ns/dlya-ehks-zamgubernatora-kurskoj-oblasti-zaprosili-19-let-kolonii-i-shtraf-500-mln
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/tri-milliona-grazhdan-oformili-novye-mery-zashchity-ot-moshennikov
+[12] www.kp.ru - https://www.kp.ru/daily/27769/5228916/
 
-[13] www.vesti.ru - https://www.vesti.ru/ns/pozharnye-lokalizovali-vozgoranie-v-portu-ust-luga
+[13] www.kp.ru - https://www.kp.ru/daily/27769.5/5228826/
 
-[14] www.vesti.ru - https://www.vesti.ru/ns/v-dagestanskom-bujnakske-specialisty-ustranyayut-posledstviya-opolznej
+[14] www.kp.ru - https://www.kp.ru/daily/27769/5229254/
 
-[15] www.vesti.ru - https://www.vesti.ru/ns/v-dagestane-narastyat-postavki-butilirovannoj-vody-na-fone-navodneniya
+[15] www.kp.ru - https://www.kp.ru/daily/27769/5229130/
 
-[16] www.vesti.ru - https://www.vesti.ru/ns/policiya-zainteresovalas-kirkorovym-posle-incidenta-s-kureniem-v-aehroportu
+[16] www.kp.ru - https://www.kp.ru/daily/27769.5/5228651/
 
-[17] www.vesti.ru - https://www.vesti.ru/ns/v-ehnergodare-ustraneny-voznikshie-posle-artbostrela-povrezhdeniya-v-ehlektrosetyakh
-
-[18] www.kp.ru - https://www.kp.ru/daily/27769.5/5228651/
-
-[19] www.kp.ru - https://www.kp.ru/online/news/6891350/
-
-[20] www.kp.ru - https://www.kp.ru/online/news/6891347/
-
-[21] ria.ru - https://ria.ru/20260329/lebedev-2083594397.html
+[17] www.kp.ru - https://www.kp.ru/online/news/6893281/

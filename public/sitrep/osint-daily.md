@@ -1,258 +1,210 @@
-# Report Date: 2026-03-29
+# Report Date: 2026-03-30
 
 ## Summary
-During the reporting period, a series of significant incidents occurred in Russia and Ukraine, involving drone attacks, military operations, and political corruption. A fire at Ust-Luga Port, caused by a drone attack, highlights vulnerabilities in critical infrastructure. Additionally, a deputy mayor in Chelyabinsk was arrested on corruption charges, indicating ongoing anti-corruption efforts. The state of emergency in Dagestan following severe weather underscores the region's susceptibility to climate-related challenges. Military activities, including strikes against Ukrainian forces and neutralization of drones, suggest an escalation in hostilities. Continued scrutiny of financial activities reflects the government's increased regulatory focus.
+During the reporting period, there has been significant activity in Russia concerning digital regulations, military responses, and infrastructure challenges. The Russian government is intensifying measures against foreign technology firms, particularly Apple, and exploring new fees for VPN usage to strengthen oversight of internet access. Meanwhile, severe weather events have led to widespread power outages in Makhachkala. Militarily, Russia is responding decisively to drone attacks within its territory and reinforcing its engagement in geopolitics, particularly in relation to Cuba and the Gulf Cooperation Council. These actions suggest a continuing trend of heightened governmental control and military readiness in response to both domestic and international pressures.
 
-## Fire in Ust-Luga Port Caused by Drone Attack Contained
-On March 29th, 2026, a fire at the Ust-Luga Port in Leningrad Oblast was successfully contained following a drone attack. Governor Alexander Drozdenko reported that additional firefighting resources, including two fire trains, were deployed to manage the situation, and air defense forces remain on high alert. [1]
+## Russian Ministry of Digital Development Considers Suspending Apple Service Payments
+On March 30th, 2026, the Russian Ministry of Digital Development discussed measures to force Apple to restore popular Russian applications on the App Store, potentially by suspending payments for its services from mobile phone accounts. This discussion took place during a meeting with major telecom operators on March 28th, with the intent to encourage compliance with Russian legislation by imposing financial pressure on the tech giant. [1]
 
-**COMMENT:** The drone attack on Ust-Luga Port highlights ongoing vulnerabilities in critical infrastructure amid escalating security concerns. The incident may prompt enhanced defensive measures and scrutiny of drone activity in the region.
+**COMMENT:** This action indicates an increasing effort by Russian authorities to enforce local regulations on foreign technology companies. Such measures may escalate tensions between Russia and international tech firms, impacting their operational landscape in the country.
 
-**LOCATION:** Ust-Luga / Ust-Luga, Leningrad Oblast, Russia [Click for Map Location](https://nominatim.openstreetmap.org) 
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #пво #беспилотник #бпла
+**KEYWORDS:** #russia #российские #сво #про
 
 
-## Deputy Mayor of Chelyabinsk Arrested for Corruption
-On March 29th, 2026, the Traktorozavodsky District Court of Chelyabinsk ordered the arrest of Deputy Mayor Alexander Astakhov for two months on corruption charges. He is accused of abusing his official powers in connection with dubious contracts related to city drainage system repairs from 2024 to 2025. [2]
+## Telecom Operators May Charge for VPN Usage in Russia
+On March 30th, 2026, the head of the Ministry of Digital Development, Maksut Shadayev, discussed measures with telecommunications operators and digital platforms regarding the implementation of fees for VPN services. The proposals include restricting users who access services through VPNs and charging for exceeding 15 GB of international traffic on mobile networks. [2]
 
-**COMMENT:** The arrest of a high-ranking official like the Deputy Mayor highlights ongoing anti-corruption measures within local governance in Chelyabinsk. This case could imply a broader crackdown on corruption linked to public contracts in the region, potentially affecting future administrative practices.
+**COMMENT:** The move to charge for VPN usage indicates an increasing effort by Russian authorities to control internet access and curb the use of censorship circumvention tools. This decision could further escalate state monitoring of internet usage and reflect heightened measures to manage digital communications within the country.
 
-**LOCATION:** Chelyabinsk / Chelyabinsk, Chelyabinsk Oblast, Russia, 55.1598408, 61.4025547 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.159841&mlon=61.402555#map=8/55.159841/61.402555)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #про 
+**KEYWORDS:** #russia #сво #пуск #про
 
 
-## State of Emergency Declared in Buinaksk, Dagestan Due to Severe Weather
-On March 29th, 2026, authorities in Buinaksk, Dagestan declared a state of emergency in response to severe weather conditions causing flooding. The emergency measures include the establishment of temporary accommodation points for affected residents as heavy rains have resulted in landslides and disruptions to power supply in the region. [3]
+## Over 30,000 Residents of Makhachkala Without Electricity After Flooding
+On March 30th, 2026, over 30,000 residents in Makhachkala were left without electricity due to flooding at substations caused by heavy rains, as reported by the press service of Dagestan's head, Sergey Melikov. Efforts are underway to pump out water and restore operations, with over 50 emergency responders on-site using heavy equipment for continuous water removal. [3]
 
-**COMMENT:** This state of emergency reflects increasing vulnerabilities in Dagestan to extreme weather events, which may be exacerbated by climate change. The government's response will be crucial in managing both immediate humanitarian needs and longer-term infrastructure resilience.
+**COMMENT:** The power outage in Makhachkala reflects vulnerabilities in local infrastructure to extreme weather events, potentially impacting public safety and emergency response operations. Monitoring the recovery efforts will be crucial to assess the resilience of Dagestan's infrastructure against future incidents.
 
-**LOCATION:** Buinaksk / Buinaksk, Dagestan, Russia [Click for Map Location](https://www.openstreetmap.org/?mlat=42.826091&mlon=47.121962#map=8/42.826091/47.121962)
+**LOCATION:** Makhachkala / Makhachkala, 42.9830241, 47.5048717 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.983024&mlon=47.504872#map=8/42.983024/47.504872) (Махачкала)
 
-**KEYWORDS:** #russia #штаб #сво #про 
+**KEYWORDS:** #russia #штаб #пуск #про
 
 
-## Russian Forces Advance in Ukraine Offensive and Neutralize Drones
-On March 20th, 2026, Russian troops from the 'Vostok' group advanced deeper into Ukrainian defenses, while forces from 'Sever', 'Yuzhnaya', 'Tsentr', and 'Dnepr' improved their positions in the Special Military Operation zone, as reported by the Russian Ministry of Defense. Additionally, Ukrainian drones were neutralized over several regions, including Smolensk, Bryansk, and St. Petersburg, highlighting ongoing military actions and air defense responses within and around Russia. [4]
+## Lavrov Discusses Regional Situation with Gulf Arab States
+On March 30th, 2026, Russian Foreign Minister Sergei Lavrov held a videoconference with the leadership of foreign ministries from Gulf Cooperation Council member states and Jordan, discussing the military-political situation in the Gulf region. The discussions highlighted the unprecedented escalation in the situation over the past month, emphasizing the need for a political and diplomatic resolution taking into account the legitimate interests of all states involved. [4]
 
-**COMMENT:** This increase in military activity and success in countering Ukrainian drone threats indicates a continued strategic focus on both offensive operations and homeland defense measures. The persistence of such operations suggests a possible escalation of military engagements, with implications for regional security dynamics.
+**COMMENT:** This dialogue indicates Russia's active engagement in Gulf geopolitics, particularly amidst ongoing tensions involving the US and Israel's actions towards Iran. Future interactions may further reveal Russia's strategies to enhance its influence in the Middle East and counter Western narratives.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #российские #минобороны рф #российские войска #российские военнослужащие #минобороны #министерство обороны #пво #удар #сво #беспилотник #бпла #про 
+**KEYWORDS:** #russia #удар #про
 
 
-## Russian Defense Ministry Confirms Destruction of 27 Ukrainian Drones
-On March 29th, 2026, the Russian Defense Ministry reported that air defense units intercepted and destroyed 27 Ukrainian drones between 1:00 PM and 8:00 PM Moscow time. The drones were shot down over Bryansk, Kursk, Belgorod regions, and Crimea, indicating ongoing military engagements along the Russian-Ukrainian border. [5]
+## Rusal Prepares Proposals for Domestic Aluminum Pricing
+On March 30th, 2026, Rusal announced its preparation of proposals addressing aluminum pricing in the domestic market following a warning from the Federal Antimonopoly Service (FAS) of Russia. The FAS had mandated changes to contract terms by April 30th to eliminate provisions that resulted in higher prices for Russian consumers compared to export rates. [5]
 
-**COMMENT:** This incident reflects Russia's heightened air defense activity in response to ongoing drone threats from Ukraine. Such engagements may lead to an escalation of military operations and an increased focus on border security in the near term.
+**COMMENT:** This development indicates ongoing regulatory scrutiny of domestic pricing mechanisms in key industries, highlighting a push for price adjustments to favor local consumers. Future adjustments in aluminum pricing may reflect broader state efforts to control inflation and ensure stability in the domestic market.
 
-**LOCATION:** Bryansk / Bryansk, Bryansk Oblast, Russia, 53.2423778, 34.3668288 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.242378&mlon=34.366829#map=8/53.242378/34.366829)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #минобороны рф #минобороны #пво #беспилотник #бпла #перехват 
+**KEYWORDS:** #российский #сф #про
 
 
-## Ukrainian Forces Shell Shebekino District in Belgorod Oblast
-On March 29th, 2026, Shebekino District in Belgorod Oblast was shelled by Ukrainian forces according to regional Governor Vyacheslav Gladkov. Preliminary reports indicate no casualties have occurred, but the situation is still being assessed for further impacts. [6]
+## Telecom Operators May Charge for VPN Use in Russia
+On March 30th, 2026, in Moscow, discussions led by Minister of Digital Development Maksut Shadaev suggested that telecom operators might impose fees on VPN service usage, while digital platforms would restrict access to users utilizing bypass methods. This initiative aims to combat the use of VPNs among customers accessing international traffic over mobile networks beyond 15 GB monthly. [6]
 
-**COMMENT:** This incident underscores the ongoing tensions and hostilities along the Russia-Ukraine border. Continued military actions like this may affect regional security dynamics and influence responses from Russian authorities.
+**COMMENT:** This development indicates a tightening of internet regulations in Russia, reflecting the state's ongoing efforts to control online access and mitigate the use of VPNs. Such measures could lead to increased scrutiny of digital communications and further restrictions on press freedoms and information dissemination.
 
-**LOCATION:** Shebekino District / Shebekino District, Belgorod Oblast, Russia [Click for Map Location](https://nominatim.openstreetmap.org)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #сво 
+**KEYWORDS:** #russia #сво #пуск #про
 
 
-## Fire Extinguished at Ust-Luga Port Following UAV Attack
-On March 29th, 2026, a fire caused by a UAV attack at Ust-Luga port in Leningrad Oblast was localized. The governor reported the destruction of 36 drones over the region, with temporary restrictions imposed at the Pskov and Pulkovo airports in Saint Petersburg. [7]
+## Russia Committed to Providing Oil Products to Cuba, Says Peskov
+On March 30th, 2026, Dmitry Peskov, the press secretary of the Russian president, announced that Russia considers it a duty to assist Cuba with oil products amidst severe blockades affecting the island nation. He confirmed that a shipment of oil products has already arrived in Cuba to support essential services such as electricity generation and healthcare. [7]
 
-**COMMENT:** The incident underscores ongoing security challenges related to UAV activity in the region, highlighting vulnerabilities in critical infrastructure. In the near term, further military or drone activity could provoke heightened security measures and operational adjustments at key facilities across Northwest Russia.
+**COMMENT:** This development reflects Russia's strategic intent to strengthen ties with Cuba, particularly in the context of ongoing geopolitical tensions. It is likely to enhance Russia's influence in the region while providing Cuba with vital resources and support against external pressures.
 
-**LOCATION:** Ust-Luga / Ust-Luga, Leningrad Oblast, Russia [Click for Map Location](https://nominatim.openstreetmap.org)
+**LOCATION:** Cuba / Cuba, 23.0131338, -80.8328748 [Click for Map Location](https://www.openstreetmap.org/?mlat=23.013134&mlon=-80.832875#map=8/23.013134/-80.832875) (Куба)
 
-**KEYWORDS:** #russia #сво #беспилотник #бпла #про 
+**KEYWORDS:** #россия #российский #сво #сф #часть #про
 
 
-## Fire in Ust-Luga Port Triggered by Drone Attack Contained
-On March 29th, 2026, a fire in Ust-Luga Port, Russia, caused by a drone strike, was successfully localized according to Governor Alexander Drozdenko. The firefighting response involved additional resources from the Leningrad region and St. Petersburg, including two fire trains, while air defense forces remained on high alert. [8]
+## Russian Military to Respond Strongly to Drone Attacks in Krasnodar and Taganrog
+On March 30th, 2026, Russian military officials announced a decisive response to the recent drone attacks that targeted Krasnodar and Taganrog, resulting in civilian casualties. The response will involve strikes on military sites and decision-making centers used for launching the drones, as stated by Major General Sergey Lipovoy. [8]
 
-**COMMENT:** This incident highlights the vulnerabilities of critical infrastructure in Russia to drone attacks, underscoring ongoing security concerns. The mobilization of regional firefighting resources and heightened air defense readiness may indicate an increasing emphasis on protecting vital assets.
+**COMMENT:** This coordinated response indicates a heightened level of military readiness in Russia following attacks attributed to drones launched from Ukrainian border regions. The implications may include a potential escalation of military engagement in the region as Russia seeks to deter further drone incursions.
 
-**LOCATION:** Ust-Luga / Ust-Luga, Leningrad Oblast, Russia [Click for Map Location](https://nominatim.openstreetmap.org)
+**LOCATION:** Krasnodar / Krasnodar, 45.0351532, 38.9772396 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.035153&mlon=38.977240#map=8/45.035153/38.977240) (Краснодар)
 
-**KEYWORDS:** #russia #пво #беспилотник #бпла 
+**KEYWORDS:** #российские #российские #военные #удар #сво #бпла #пуск #сф #часть #про
 
 
-## Russian Military Strikes Ukrainian Troops in Shevchenko
-On March 29th, 2026, Russian military forces conducted an airstrike using FAB-500 bombs against the 158th Mechanized Brigade of the Ukrainian Armed Forces in the settlement of Shevchenko, located on the Dobropillia front. The strike, which targeted concentrated Ukrainian personnel, has been described as critical in undermining Ukraine's defensive capabilities in that area, leading to significant damage to their fortified positions. [9]
+## Firefighters Extinguish Three Burning Boats on the Banks of the Moskva River
+On March 30th, 2026, firefighters are currently extinguishing three boats that caught fire on the banks of the Moskva River in northwest Moscow. The incident, which occurred on Aviatsionnaya Street, has not resulted in any injuries as no one was on the boats at the time of the fire, and 26 firefighters are on-site working with six units of firefighting equipment. [9]
 
-**COMMENT:** This incident marks an escalation in the ongoing conflict, showcasing the effectiveness of Russian military strategies in targeting Ukrainian defenses. The continued use of precision strikes may signal an intensified offensive approach by Russian forces in the region.
+**COMMENT:** This incident underscores ongoing challenges related to safety and emergency response management in urban areas of Moscow. It may indicate a need for increased vigilance and resource allocation towards fire safety in recreational areas.
 
-**LOCATION:** Shevchenko / Shevchenko, Ukraine [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #российские #российские военные #полк #удар #сво #сф #часть #про 
+**KEYWORDS:** #россия #гарнизон #удар #сф #про
 
 
-## Russian Air Defense Shoots Down 27 Ukrainian Drones on March 29th, 2026
-On March 29th, 2026, Russian air defense forces intercepted and destroyed 27 Ukrainian drones over four regions of Russia from 1 PM to 8 PM Moscow time. The operation took place over Bryansk, Kursk, Belgorod, and Crimea, contributing to a total of 345 Ukrainian drones and 13 guided bombs eliminated by Russian forces over the weekend. [10]
+## Drone Attack in Melitopol Injures Six Civilians
+On March 30th, 2023, six civilians, including four women and two men, were injured by a drone strike in Melitopol, Ukraine. The attack occurred near the epicenter of the strike, and all injured individuals are currently under medical supervision without life-threatening injuries. [10]
 
-**COMMENT:** This incident highlights the ongoing hostilities and the significant Russian focus on enhancing air defense capabilities against Ukrainian aerial threats. The sustained level of engagements could indicate increased military preparedness in the region and potentially foreshadow further escalation in air operations.
+**COMMENT:** This incident underscores the ongoing risk posed by drone warfare in conflict zones, highlighting potential vulnerabilities for civilians in areas where military operations are active. Such attacks may provoke further responses from Russian military forces and impact local stability.
 
-**LOCATION:** Bryansk / Bryansk, Bryansk Oblast, Russia, 53.2423778, 34.3668288 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.242378&mlon=34.366829#map=8/53.242378/34.366829)
+**LOCATION:** Melitopol / Melitopol, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=0&mlon=0#map=8/0/0) (Мелитополь)
 
-**KEYWORDS:** #россия #российские #минобороны россии #мо рф #минобороны #министерство обороны #пво #противовоздушная оборона #удар #беспилотник #бпла #перехват #сф #про 
+**KEYWORDS:** #россия #пво #удар #сво #беспилотник #бпла #сф #про
 
 
-## Federal Tax Service Clarifies Account Blocking Rules for Non-Submission of 3-NDFL Tax Declaration
-On March 29th, 2026, the Federal Tax Service of Russia announced that account blocking related to the non-submission of the 3-NDFL tax declaration will only affect certain categories of citizens, including businesses and individual entrepreneurs. This clarification aims to alleviate concerns that all residents might face such restrictions after May 20th, 2026. [11]
+## Prosecutor Requests 19 Years in Prison and 500 Million Ruble Fine for Former Kursk Region Deputy Governor
+On March 30th, 2026, the prosecutor requested a 19-year prison sentence and a 500 million ruble fine for Alexey Dedov, the former deputy governor of the Kursk region, in connection with two bribery charges. The state prosecution also seeks to bar Dedov from holding any positions related to organizational, administrative, or governmental duties for a specified duration. [11]
 
-**COMMENT:** This development indicates a targeted approach by the Federal Tax Service to enforce tax compliance among high-income earners and particular professions. In the near term, this may lead to increased scrutiny of individual entrepreneurs and professionals, potentially impacting their financial operations.
+**COMMENT:** This case reflects ongoing efforts by Russian authorities to address corruption within regional administrations, indicating a potential shift in internal accountability measures. The heavy requested sentence could serve as a deterrent for similar cases and underscore the Kremlin's stance on corruption amid rising public scrutiny.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Kursk Oblast / Kursk Oblast, 51.6568453, 36.4852695 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.656845&mlon=36.485270#map=8/51.656845/36.485270) (Курская область)
 
-**KEYWORDS:** #россия #российские #удар #сво #сф #про 
+**KEYWORDS:** #россия #учения #удар #сво #сф #про
 
 
-## Three Million Citizens Implement New Fraud Protection Measures
-On March 29th, 2026, it was reported that three million citizens in Russia have adopted new measures to protect themselves from fraud by requiring authorization from a second party before conducting financial transactions. This practice mandates that a trusted individual, such as a family member, confirms the legitimacy of any financial operations. [12]
+## FSB Uncovers British Special Agent in Moscow
+On March 30th, 2026, the FSB of Russia announced the uncovering of a British spy, Albertus Gerardus Janse Van Rensburg, who operated under the guise of a British embassy staff member in Moscow. The FSB indicated that he provided false information when entering the country and engaged in espionage activities that threatened Russian security. [12]
 
-**COMMENT:** This increase in fraud protection measures indicates a heightened awareness and response to financial threats within the Russian population. The trend might signal ongoing concerns about economic security and the need for enhanced regulatory frameworks to safeguard citizens against financial crimes.
+**COMMENT:** This incident highlights ongoing tensions in espionage activities between Russia and Western nations, particularly concerning security threats. The disclosure may lead to heightened diplomatic strains and prompt increased scrutiny of foreign diplomatic staff in Russia.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #учения #удар #тоф #сф #про 
+**KEYWORDS:** #россия #минобороны #пво #сво #разведка #сф #часть #про
 
 
-## Fire Contained at Ust-Luga Port Following Drone Attack
-On March 29th, 2026, firefighters successfully contained a fire at Ust-Luga port that ignited following a drone attack believed to be conducted by Ukrainian forces. The Governor of Leningrad Oblast, Alexander Drozdenko, confirmed that two fire trains were deployed to address the situation, and debris from one drone caused damage to a residential building in the region. [13]
+## Snipers Target Ukrainian Drones in Dimitrov
+On March 30th, 2026, Russian snipers from the 5th Guards Brigade reported successfully shooting down heavy Ukrainian hexacopters during operations in Dimitrov. This action marks an ongoing effort by Russian forces to diminish Ukraine's drone capabilities amid prolonged hostilities in the region. [13]
 
-**COMMENT:** This incident underscores the ongoing tensions and the use of drone warfare in the conflict between Russia and Ukraine, indicating a potential escalation in hostilities. The fire's impact on critical infrastructure in Ust-Luga could prompt enhanced security measures at similar strategic locations.
+**COMMENT:** The destruction of Ukrainian drones by Russian snipers highlights the continued intensity of conflict in targeted areas, particularly in eastern Ukraine. Such targeted tactics may signal an adaptation in Russian military strategy aimed at countering Ukraine’s technological advantages in warfare.
 
-**LOCATION:** Ust-Luga / Ust-Luga, Leningrad Oblast, Russia [Click for Map Location](https://nominatim.openstreetmap.org)
+**LOCATION:** Dimitrov / Dimitrov, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=0&mlon=0#map=8/0/0) (Димитров)
 
-**KEYWORDS:** #россия #пво #удар #сво #беспилотник #бпла #сф #про 
+**KEYWORDS:** #россия #бригада #полк #сво #бпла #пуск #про
 
 
-## In Buynaksk, Dagestan, Specialists Address Landslide Aftermath
-On March 29th, 2023, specialists in Buynaksk, Dagestan, are working to restore infrastructure damaged by landslides that have affected roads, sidewalks, and community facilities. The situation has prompted the declaration of a state of emergency, with approximately 20 residential homes at risk and evacuations underway due to extreme weather conditions. [14]
+## Russia Considers Ban on Mobile Payments for Apple Services
+On March 28th, 2026, discussions were held within Russia's Ministry of Digital Development regarding temporary restrictions on payments for Apple services via mobile phone accounts. This measure aims to compel Apple to reinstate popular Russian services within its App Store as the company continues to navigate restrictions stemming from sanctions. [14]
 
-**COMMENT:** The landslides in Dagestan highlight vulnerabilities in infrastructure resilience amid adverse weather events, potentially exacerbated by climate change. This incident may prompt increased federal attention and support for infrastructure safety measures in regions prone to similar natural disasters.
+**COMMENT:** The proposed restrictions reflect ongoing tensions between the Russian government and foreign tech companies, with efforts to reinforce state control over digital services. If implemented, this measure could lead to further friction in Russia's relations with international technology firms and impact Russian users' access to global platforms.
 
-**LOCATION:** Buinaksk / Buinaksk, Dagestan, Russia [Click for Map Location](https://www.openstreetmap.org/?mlat=42.826091&mlon=47.121962#map=8/42.826091/47.121962)
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #удар #сф #про 
+**KEYWORDS:** #российские #сво #про
 
 
-## Dagestan Increases Bottled Water Supply Amid Flooding
-On March 29th, 2023, the government of Dagestan announced an increase in the supply of bottled water to local stores in response to ongoing flooding. This decision was taken following a meeting between Dagestan's Prime Minister Abdulmuslim Abulmuslimov and the regional Ministry of Industry head Nizam Khalilov to prevent shortages of drinking water. [15]
+## Baltic States and Finland Distance Themselves from Ukraine Amid Drone Attacks
+On March 30th, 2026, Ukrainian drone attacks targeted the northwestern regions of Russia, raising concerns among Baltic States and Finland as these drones likely traversed their airspace. The Baltic states quickly distanced themselves from the incidents, acknowledging the Ukrainian origin of the downed drones and signaling apprehension about Russia's military response. [15]
 
-**COMMENT:** This measure reflects the government's proactive approach to ensure resource availability during emergencies in Dagestan. Such actions may indicate a heightened focus on managing public resources effectively in the face of natural disasters, which could have implications for internal stability.
+**COMMENT:** This development highlights the growing tensions in the region as Ukraine utilizes drone capabilities against Russia, potentially drawing in nearby countries into the conflict's escalation. Such reactions from Baltic nations may indicate a cautious approach to addressing Ukrainian activities while managing their own security concerns regarding Russian reprisals.
 
-**LOCATION:** Dagestan / Dagestan, Russia [Click for Map Location](https://www.openstreetmap.org/?mlat=43.000000&mlon=47.000000#map=8/43.000000/47.000000)
+**LOCATION:** Northwestern Russia / Northwestern Russia, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=0&mlon=0#map=8/0/0) (Северо-Западная Россия)
 
-**KEYWORDS:** #россия #штаб #удар #мто #сф #про 
+**KEYWORDS:** #российские #удар #сво #беспилотник #бпла #пуск #сф #армия #про
 
 
-## Police Investigates Kirkorov After Smoking Incident at Airport
-On March 29th, 2026, the transport police in the Altai Krai region are conducting an investigation into Russian singer Philip Kirkorov following a smoking incident at Barnaul Airport. A video circulating on social media shows Kirkorov smoking indoors, prompting law enforcement to act, while Kirkorov has expressed willingness to accept the consequences and pay any fines. [16]
+## 2026 Military Draft in Russia: Key Details and Changes
+On March 28th, 2026, Vice Admiral Vladimir Tsymlyansky of the Russian General Staff announced updates regarding the military draft process in Russia. The changes include extending the draft period throughout the entire year to enhance efficiency and reduce the burden on military enlistment offices. [16]
 
-**COMMENT:** The investigation into Kirkorov highlights ongoing enforcement actions regarding smoking regulations in public spaces. This incident may also affect public perceptions of celebrity behavior and accountability in Russia.
+**COMMENT:** This adjustment to the military draft system suggests an increased focus on improving logistical operations within Russia's military infrastructure. The policy changes may lead to heightened scrutiny of draft compliance and potential adjustments in military manpower strategies.
 
-**LOCATION:** Barnaul / Barnaul, Altai Krai, Russia, 53.3475493, 83.7788448 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.347549&mlon=83.778845#map=8/53.347549/83.778845)
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #удар #сф #про 
+**KEYWORDS:** #вс #рф #генштаб #учения #штаб #полк #призыв #военкомат #сво #про
 
 
-## Damage to Power Networks in Enerhodar Resolved After Artillery Strike
-On March 29th, 2026, authorities in Enerhodar reported the restoration of power networks that were damaged due to an artillery strike earlier in the day. The city's mayor, Maksim Pukhov, announced the phased energization of heating and water supply facilities, indicating a prompt response to re-establish essential services after the attack. [17]
+## Russia Calls for Immediate Cessation of Conflict in the Persian Gulf Region
+On March 30th, 2026, Russian Foreign Minister Sergey Lavrov urged an immediate halt to hostilities in the Persian Gulf during a video conference with leaders of the Gulf Cooperation Council and Jordan. He emphasized that the resolution of the conflict, attributed to US and Israeli aggression against Iran, should be achieved through political and diplomatic means while considering the legitimate interests of all regional states. [17]
 
-**COMMENT:** This incident reflects ongoing military hostilities affecting civilian infrastructure in Enerhodar, raising concerns about the resilience of local governance and infrastructure. The swift restoration efforts may signal an organized response mechanism amidst continued conflict, impacting future operational stability in the region.
+**COMMENT:** This call from Russia highlights its stance as a mediator in ongoing conflicts in the region, positioning itself against Western influence. Such diplomatic efforts could lead to increased Russian engagement in Middle Eastern politics, potentially reshaping alliances and power dynamics.
 
-**LOCATION:** Enerhodar / Enerhodar, Ukraine [Click for Map Location](https://nominatim.openstreetmap.org)
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #удар #сво #пуск #сф #про 
-
-
-## Russia Expands Military Draft to Year-Round Recruitment
-On March 28th, 2026, Vice Admiral Vladimir Tsymlyansky of the Russian General Staff announced new rules for military conscription in Russia, allowing recruitment to occur year-round from January 1 to December 31. This change aims to distribute the workload on military enlistment offices more evenly, improve recruitment processes, and reduce citizens' waiting times in military commissariats. [18]
-
-**COMMENT:** This expansion of the military draft could signify a strategic response to ongoing military commitments, potentially reflecting an increased emphasis on mobilization efforts. As the recruitment period extends, it may also indicate a need for a larger military presence in light of current geopolitical tensions.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #вс рф #генштаб #учения #штаб #полк #призыв #военкомат #сво #про 
-
-
-## Debris from Ukrainian Drone Damages Residential Building in Leningrad Oblast
-On March 29th, 2026, debris from a Ukrainian drone damaged a residential building in the village of Sistopalkino, Leningrad Oblast. Regional Governor Alexander Drozdenko reported that local authorities are assisting the homeowners while air defense forces remain on high alert after multiple drone incursions in the area. [19]
-
-**COMMENT:** This incident underscores the ongoing threat from Ukrainian drone operations and highlights the potential vulnerabilities within Russian domestic security. The recurrence of drone strikes in Leningrad Oblast may prompt an increase in military readiness and further defensive measures in the region.
-
-**LOCATION:** Sistopalkino / Sistopalkino, Leningrad Oblast, Russia [Click for Map Location](https://nominatim.openstreetmap.org)
-
-**KEYWORDS:** #российские #российские военные #пво #беспилотник #бпла #про 
-
-
-## Russians Warned of Account Freezing for Failure to Submit Tax Declaration
-On March 29th, 2026, the Federal Tax Service of Russia announced that individuals involved in private practice or entrepreneurial activity may face account freezes for not submitting the 3-NDFL tax declaration. This measure targets those who fail to provide their tax declarations within 20 days of the deadline, reinforcing the government's rigor in tax compliance enforcement. [20]
-
-**COMMENT:** This development underscores the Russian government's increasing scrutiny of personal financial activities and tax compliance among independent professionals. The potential for account freezes may lead to greater financial pressure on citizen entrepreneurs, influencing compliance behaviors moving forward.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #россия #сво #про 
-
-
-## Russian Armed Forces Strike Ukrainian Airbase Housing NATO Aircraft
-On March 29th, 2026, the Russian Armed Forces conducted a strike on a Ukrainian airbase where NATO aircraft were stationed. This action illustrates ongoing tensions and highlights Russia's military response capabilities amid the conflict with Ukraine. [21]
-
-**COMMENT:** The strike indicates a sustained operational focus by Russia on NATO's presence in the region, suggesting continued military assertiveness. Future operations may escalate as the conflict persists, particularly if NATO's involvement deepens.
-
-**LOCATION:** Ukraine / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
-
-**KEYWORDS:** #вс россии #удар 
+**KEYWORDS:** #россия #призыв #удар #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1080799?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1080905?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1080740?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1080997?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1080785?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1080977?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[4] interfax.ru - https://interfax.ru/russia/1081002
 
-[5] interfax.ru - https://interfax.ru/russia/1080806
+[5] interfax.ru - https://interfax.ru/business/1080999
 
-[6] interfax.ru - https://interfax.ru/russia/1080804
+[6] interfax.ru - https://interfax.ru/russia/1080997
 
-[7] interfax.ru - https://interfax.ru/russia/1080801
+[7] aif.ru - https://aif.ru/politics/peskov-rossiya-schitaet-svoim-dolgom-pomoch-kube-s-nefteproduktami
 
-[8] interfax.ru - https://interfax.ru/russia/1080799
+[8] aif.ru - https://aif.ru/society/zhestkiy-otvet-za-taganrog-i-krasnodar-nazvany-obekty-mesti-za-ataki-na-rf
 
-[9] aif.ru - https://aif.ru/society/kiev-poteryal-svoyu-zashchitu-glavnaya-novost-svo-29-marta
+[9] www.vesti.ru - https://www.vesti.ru/ns/pozharnye-tushat-tri-zagorevshikhsya-na-beregu-moskvy-reki-katera
 
-[10] www.vesti.ru - https://www.vesti.ru/ns/za-voskresene-nad-regionami-rossii-sbili-27-ukrainskikh-bpla
+[10] www.vesti.ru - https://www.vesti.ru/ns/v-rezultate-ataki-bpla-na-melitopol-raneniya-poluchili-shest-mirnykh-grazhdan
 
-[11] www.vesti.ru - https://www.vesti.ru/ns/fns-razyasnila-chi-scheta-mogut-byt-zablokirovany-za-nesdachu-deklaracii-3-ndfl
+[11] www.vesti.ru - https://www.vesti.ru/ns/dlya-ehks-zamgubernatora-kurskoj-oblasti-zaprosili-19-let-kolonii-i-shtraf-500-mln
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/tri-milliona-grazhdan-oformili-novye-mery-zashchity-ot-moshennikov
+[12] www.kp.ru - https://www.kp.ru/daily/27769/5228916/
 
-[13] www.vesti.ru - https://www.vesti.ru/ns/pozharnye-lokalizovali-vozgoranie-v-portu-ust-luga
+[13] www.kp.ru - https://www.kp.ru/daily/27769.5/5228826/
 
-[14] www.vesti.ru - https://www.vesti.ru/ns/v-dagestanskom-bujnakske-specialisty-ustranyayut-posledstviya-opolznej
+[14] www.kp.ru - https://www.kp.ru/daily/27769/5229254/
 
-[15] www.vesti.ru - https://www.vesti.ru/ns/v-dagestane-narastyat-postavki-butilirovannoj-vody-na-fone-navodneniya
+[15] www.kp.ru - https://www.kp.ru/daily/27769/5229130/
 
-[16] www.vesti.ru - https://www.vesti.ru/ns/policiya-zainteresovalas-kirkorovym-posle-incidenta-s-kureniem-v-aehroportu
+[16] www.kp.ru - https://www.kp.ru/daily/27769.5/5228651/
 
-[17] www.vesti.ru - https://www.vesti.ru/ns/v-ehnergodare-ustraneny-voznikshie-posle-artbostrela-povrezhdeniya-v-ehlektrosetyakh
-
-[18] www.kp.ru - https://www.kp.ru/daily/27769.5/5228651/
-
-[19] www.kp.ru - https://www.kp.ru/online/news/6891350/
-
-[20] www.kp.ru - https://www.kp.ru/online/news/6891347/
-
-[21] ria.ru - https://ria.ru/20260329/lebedev-2083594397.html
+[17] www.kp.ru - https://www.kp.ru/online/news/6893281/
