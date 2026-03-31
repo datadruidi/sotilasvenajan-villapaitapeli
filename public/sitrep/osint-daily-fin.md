@@ -1,190 +1,198 @@
-# Raporttipäivämäärä: 2026-03-30
+# Report Date: 2026-03-31
 
-## Yhteenveto
-Raportointijaksolla Venäjän hallitus otti useita toimia digitaalisten palveluiden sääntelyn tiukentamiseksi, mukaan lukien Apple-palveluiden maksujen mahdollinen keskeyttäminen ja VPN-palveluiden maksujen käyttöönotto. Samaan aikaan Makhachkalassa yli 30 000 asukasta jäi ilman sähköä tulvien vuoksi. Venäjä myös vahvisti sitoutumistaan muille maille, kuten Kuuballe, samalla kun se reagoi voimistuneeseen drone-uhkaan. Välikohtaus osoittaa, että alueen geopoliittiset jännitteet ovat kasvamassa.
+## Summary
+Raportointijaksolla todettiin useita merkittäviä tapahtumia Venäjällä, mukaan lukien teollisuusturvallisuuteen liittyvät onnettomuudet ja lainsäädäntöuudistukset, jotka koskevat digitaalista hallintoa ja sosiaalista turvallisuutta. Teollisuudessa, erityisesti kemianteollisuudessa, tapahtuneet onnettomuudet korostavat turvallisuusprotokollien heikkouksia, mikä saattaa johtaa tiukempaan sääntelyyn. Samanaikaisesti digitaalisen viestinnän valvonnan tiukentaminen voi aiheuttaa vastareaktioita kansalaisten keskuudessa. Elinajan odotetaan myös nousevan eri toimien myötä.
 
-## Venäjän digitaalisen kehityksen ministeriö harkitsee Apple-palveluiden maksujen keskeyttämistä
-Maaliskuun 30. päivänä 2026 Venäjän digitaalisen kehityksen ministeriö keskusteli toimenpiteistä, joilla pakotettaisiin Apple palauttamaan suosittuja venäläisiä sovelluksia App Storeen, mahdollisesti keskeyttämällä maksut sen palveluista matkapuhelinmaksujen kautta. Tämä keskustelu käytiin eräässä kokouksessa suurten teleoperaattoreiden kanssa maaliskuun 28. päivänä, tavoitteenaan kannustaa noudattamaan venäläistä lainsäädäntöä taloudellisella paineella teknologiajättiä kohtaan. [1]
+## Kuolemantapaukset Nousivat Kaksi Nizhnekamskneftekhim -teollisuustapaturmassa
+Maaliskuun 31. päivänä 2026 tapahtui tulipalo Nizhnekamskneftekhim-laitoksessa Tatarstanissa, mikä johti kahden henkilön kuolemaan ja 72 loukkaantumiseen. Tulipalon syy oli kaasu-seoksen räjähdys, joka aiheutti merkittäviä toimintahäiriöitä tehtaalla. [1]
 
-**COMMENT:** Tämä toimi osoittaa Venäjän viranomaisten kasvavaa pyrkimystä valvoa paikallisia sääntöjä ulkomaisille teknologiayrityksille. Tällaiset toimenpiteet voivat kiristää suhteita Venäjän ja kansainvälisten teknologiayritysten välillä, mikä vaikuttaa niiden toimintaympäristöön maassa.
+**COMMENT:** Tämä onnettomuus paljastaa mahdollisia haavoittuvuuksia Venäjän kriittisen infrastruktuurin turvallisuuskäytännöissä. Sen seuraukset voivat johtaa tiukempaan valvontaan ja turvallisuusmääräysten tarkistamiseen kemianteollisuudessa.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Nizhnekamsk / Nizhnekamsk, 55.6412879, 51.8160376 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.641288&mlon=51.816038#map=8/55.641288/51.816038) (городское поселение Нижнекамск)
 
-**KEYWORDS:** #russia #российские #сво #про
-
-
-## Telekomoperaattorit voivat alkaa veloittaa VPN-käytöstä Venäjällä
-Maaliskuun 30. päivänä 2026 digitaalisen kehityksen ministeri Maksut Shadaev keskusteli teleoperaattoreiden ja digitaalisten alustojen kanssa maksujen käyttöönotosta VPN-palveluille. Ehdotukset sisältävät käyttäjien rajoittamisen, jotka käyttävät VPN:ää pääseeakseen palveluihin sekä maksujen perimisen yli 15 Gt kansainvälisestä liikenteestä matkapuhelinverkoissa. [2]
-
-**COMMENT:** Tämän päätöksen myötä Venäjän viranomaiset pyrkivät hallitsemaan internetin käyttöä ja estämään sensuurin kiertämiseen tarkoitettujen työkalujen käyttöä. Tämä toimi voi johtaa valtion valvonnan lisääntymiseen internetin käytössä.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #сво #пуск #про
+**KEYWORDS:** #russia #сво #про
 
 
-## Yli 30 000 asukasta Makhachkalassa ilman sähköä tulvien vuoksi
-Maaliskuun 30. päivänä 2026 yli 30 000 asukasta Makhachkalassa jäi ilman sähköä tulvien vuoksi, joita aiheutti voimakkaat sateet, kertoi Dagestanin johtajan Sergey Melikovin tiedottaja. Käynnissä ovat toimet veden pumppaamiseksi pois ja toimintojen palauttamiseksi, yli 50 hätätyöntekijää on paikalla käyttämässä raskasta kalustoa jatkuvaan veden poistamiseen. [3]
+## Varapresidentti Gorelkin Kiistää Keskustelut VPN-kieltämisestä Valtion Duma
+Maaliskuun 31. päivänä 2026 varapresidentti Anton Gorelkin Valtion Dumasta kiisti julkisesti, että olisi keskusteltu VPN:ien täydellisestä kiellosta tai niiden käytön rangaistuksista. Hän korosti, että lainsäädäntöaloitteet kohdistuvat vain VPN:ien käyttämiin rikollisiin toimintaan. [2]
 
-**COMMENT:** Makhachkalan sähkökatko heijastaa paikallisen infrastruktuurin haavoittuvuutta äärimmäisille sääilmiöille, mikä voi vaikuttaa kansalaisten turvallisuuteen ja hätätilanteiden hallintaan.
+**COMMENT:** Tämä selvennys merkittävältä Valtion Duman jäseneltä osoittaa harkitsevaa lähestymistapaa digitaaliseen hallintaan, kun Venäjällä käydään jatkuvaa keskustelua internetvapaudesta.
 
-**LOCATION:** Makhachkala / Makhachkala, 42.9830241, 47.5048717 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.983024&mlon=47.504872#map=8/42.983024/47.504872) (Махачкала)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Центральный федеральный округ)
 
-**KEYWORDS:** #russia #штаб #пуск #про
-
-
-## Lavrov keskustelee alueellisesta tilanteesta Persianlahden arabimaiden kanssa
-Maaliskuun 30. päivänä 2026 Venäjän ulkoministeri Sergei Lavrov piti videokonferenssin Persianlahden yhteistyöneuvoston jäsenvaltioiden ja Jordanian ulkoministerien johdon kanssa keskustellen alueen sotilaallis-poliittisesta tilanteesta. Keskusteluissa korostettiin viime kuukauden aikana tapahtunutta ennennäkemätöntä tilanteen kärjistymistä. [4]
-
-**COMMENT:** Tämä vuoropuhelu osoittaa Venäjän aktiivista sitoutumista Persianlahden geopoliittisiin kysymyksiin, erityisesti Yhdysvaltojen ja Israelin toimien suhteen Irania kohtaan.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #удар #про
+**KEYWORDS:** #russia #про
 
 
-## Rusal valmistelee ehdotuksia kotimaiselle alumiinihinnoittelulle
-Maaliskuun 30. päivänä 2026 Rusal ilmoitti valmistavansa ehdotuksia alumiinin hinnoittelusta kotimarkkinoilla, taustalla liittovaltion kilpailuvirasto FAS:n antama varoitus. FAS on vaatinut sopimusehtojen muutoksia 30. huhtikuuta mennessä, jotta poistettaisiin säännökset, jotka aiheuttavat korkeampia hintoja venäläisille kuluttajille verrattuna vientihintoihin. [5]
+## Venäjän Perustuslakituomioistuin Tunnustaa Eläkeindeksin Oikeuden Viivästyneessä Laskennassa
+Maaliskuun 31. päivänä 2026 Venäjän perustuslakituomioistuin tunnusti eläkeläisten oikeuden saada indeksitarkistus alilaskennetuista eläkkeistä, kun tuomioiden täytäntöönpano viivästyy. Tämä päätös seurasi Valentina Levykina -nimisen eläkeläisen valitusta. [3]
 
-**COMMENT:** Tämä kehitys osoittaa käynnissä olevaa sääntelyä paikallisten hinnoittelumekanismien osalta keskeisillä toimialoilla, mikä korostaa ponnisteluja hintojen säätämiseksi paikallisten kuluttajien hyväksi.
+**COMMENT:** Tämä päätös heijastaa Venäjän viranomaisten jatkuvia ponnisteluja säilyttää sosiaalinen turvaverkko eläkeläisille, mikä voi auttaa vähentämään tyytymättömyyttä keskeisen väestöryhmän keskuudessa.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Центральный федеральный округ)
 
-**KEYWORDS:** #российский #сф #про
-
-
-## Venäjän armeija reagoi voimakkaasti dronehyökkäyksiin Krasnodarissa ja Taganrogissa
-Maaliskuun 30. päivänä 2026 Venäjän armeijan viranomaiset ilmoittivat päättäväisestä vastauksestaan äskettäin dronehyökkäyksiin, jotka kohdistuivat Krasnodariin ja Taganrogiin, aiheuttaen siviiliuhria. Tämä vastaus sisältää iskut sotilaspaikkoihin ja päätöksentekokeskuksiin, joita käytetään dronejen laukaisemiseen. [8]
-
-**COMMENT:** Tämä koordinoitu vastaus osoittaa Venäjän armeijan korkeaa valmiutta dronehyökkäysten jälkeen. Tämä voi merkitä sotilasengagementin mahdollisen kielteisen kärjistymisen lisääntymistä alueella.
-
-**LOCATION:** Krasnodar / Krasnodar, 45.0351532, 38.9772396 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.035153&mlon=38.977240#map=8/45.035153/38.977240) (Краснодар)
-
-**KEYWORDS:** #российские #российские военные #удар #сво #бпла #пуск #сф #часть #про
+**KEYWORDS:** #russia #удар #сво #часть #про
 
 
-## Pelastajat sammuttelevat kolmea palavaa venettä Moskva-joella
-Maaliskuun 30. päivänä 2026 pelastajat sammuttelevat parhaillaan kolmea venettä, jotka syttyivät tuleen Moskva-joen rannoilla luoteisessa Moskovassa. Onnettomuus, joka tapahtui Aviatsionnajan kadun varrella, ei ole johtanut loukkaantumisiin, sillä veneissä ei ollut ketään tulipalon aikana, ja 26 pelastajaa työskentelee kuuden palokunnan kaluston kanssa. [9]
+## 22 Sairaalaan Tulipalon Takia Tatarstanin Nizhnekamskneftekhimissa
+Maaliskuun 31. päivänä 2026 tulipalo Nizhnekamskneftekhim-laitoksessa Tatarstanissa johti 22 henkilön sairaalahoitoon eri asteisten vammojen vuoksi. Lääketieteellisiä tiimejä on lähetetty eri sairaaloista, mukaan lukien Tasavallan kliininen sairaala Kazanista, auttamaan paikallisia lääkäreitä. [4]
 
-**COMMENT:** Tämä tapaus korostaa jatkuvia haasteita turvallisuus- ja hätätilanteiden hallinnassa Moskovan kaupunkialueilla.
+**COMMENT:** Tapahtuma korostaa jatkuvia turvallisuushaasteita Venäjän kemianteollisuudessa, mikä voi johtaa tiukentuneeseen valvontaan ja sääntelytoimiin.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Nizhnekamsk / Nizhnekamsk, 55.6412879, 51.8160376 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.641288&mlon=51.816038#map=8/55.641288/51.816038) (городское поселение Нижнекамск)
 
-**KEYWORDS:** #россия #гарнизон #удар #сф #про
-
-
-## Dronehyökkäys Melitopolissa loukkaantui kuusi siviiliä
-Maaliskuun 30. päivänä 2023 kuusi siviiliä, mukaan lukien neljä naista ja kaksi miestä, kärsi vammoista drone-iskussa Melitopolissa, Ukrainassa. Hyökkäys tapahtui lähellä iskun keskipistettä, ja kaikki loukkaantuneet ovat tällä hetkellä lääketieteellisen valvonnan alaisina ilman hengenvaarallisia vammoja. [10]
-
-**COMMENT:** Tämä tapahtuma korostaa drone-sodan jatkuvaa riskiä konfliktialueilla, mikä saattaa aiheuttaa lisäreaktioita Venäjän armeijalta.
-
-**LOCATION:** Unknown / Melitopol, Unknown, Unknown [Click for Map Location](Unknown) (Мелитополь)
-
-**KEYWORDS:** #россия #пво #удар #сво #беспилотник #бпла #сф #про
+**KEYWORDS:** #russia #про
 
 
-## Syyttäjä vaatii 19 vuoden vankilatuomiota ja 500 miljoonan ruplan sakkoa entiselle Kurskin alueen varapresidentille
-Maaliskuun 30. päivänä 2026 syyttäjä vaati 19 vuoden vankeusrangaistusta ja 500 miljoonan ruplan sakkoa Alexey Dedoville, entiselle Kurskin alueen varapresidentille, kahden lahjussyytöksen johdosta. Valtion syyttäjä myös pyrkii estämään Dedovia ottamasta mitään organisaatio-, hallinto- tai hallinnollisia tehtäviä määrätyksi ajaksi. [11]
+## Hallitus Ehdottaa Lainsäädäntöä Kassa- ja Verkkorikollisten Rekisteristä
+Maaliskuun 31. päivänä 2026 Venäjän hallitus toimitti ehdotuksen Valtion Dumaan, joka tähtää rekisterin luomiseen järjestelmällisistä kassarikollisista, jolloin heidän verkkosivustonsa voidaan estää. Tämä lakimuutos vahvistaisi kassan käytön valvontaa keskipitkillä ja suurilla ostoskeskuksilla. [5]
 
-**COMMENT:** Tämä tapaus osoittaa Venäjän viranomaisten jatkuvia ponnisteluja korruption torjunnassa alueellisissa hallinnoissa.
+**COMMENT:** Tämä lainsäädäntöehdotus heijastaa hallituksen tiukentuvaa otetta taloudelliseen sääntelyyn, erityisesti vähittäiskaupan alalla.
 
-**LOCATION:** Kurskin alue / Kursk Oblast, 51.6568453, 36.4852695 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.656845&mlon=36.485270#map=8/51.656845/36.485270) (Курская область)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Центральный федеральный округ)
 
-**KEYWORDS:** #россия #учения #удар #сво #сф #про
-
-
-## FSB paljastaa brittivakoilijan Moskovassa
-Maaliskuun 30. päivänä 2026 Venäjän FSB ilmoitti paljastaneensa brittiläisen vakoilijan Albertus Gerardus Janse Van Rensburgin, joka toimi Britti-suurlähetystön henkilöstönä Moskovassa. FSB viittasi siihen, että hän antoi väärää tietoa maahan saapuessaan ja osallistui vakoilutoimintaan, joka uhkasi Venäjän turvallisuutta. [12]
-
-**COMMENT:** Tämä tapaus korostaa jatkuvia jännitteitä vakoilutoiminnassa Venäjän ja lännen välillä.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #минобороны #пво #сво #разведка #сф #часть #про
+**KEYWORDS:** #russia #учения #про
 
 
-## Sniperit osuvat ukrainalaisiin droneihin Dimitrovissa
-Maaliskuun 30. päivänä 2026 Venäjän tarkka-ampujat 5. kaartin prikaatista raportoi onnistuneesti ampuneensa alas raskaita ukrainalaisia hexakoptereita toiminnoissa Dimitrovissa. Tämä toimenpide merkitsee jatkuvaa pyrkimystä venäläisiltä joukoilta heikentää Ukrainan dronekyvykkyyksiä pitkäaikaisissa vihollisuuksissa alueella. [13]
+## Kaasu-Seoksen Räjähdys Syöksi Tulipalon Nizhnekamskneftekhimissa
+Maaliskuun 31. päivänä 2026 tulipalo Nizhnekamskneftekhim-tehtaalla Tatarstanissa sai alkunsa räjähdyksestä, joka johtui kaasu-seoksen syttymisestä synteettisen kumin tuotannon huoltotoimien aikana. Pää tuotantoyksiköiden ilmoitetaan olevan vahingoittumattomia ja toiminnot jatkuvat. [6]
 
-**COMMENT:** Ukrainan dronejen tuhoaminen venäläisten tarkka-ampujien toimesta osoittaa konfliktin jatkuvaa intensiivisyyttä kohdistetuilla alueilla.
+**COMMENT:** Tämä tapahtuma korostaa teollisuusturvallisuusprotokollien haavoittuvuuksia Venäjän kriittisessä infrastruktuurissa.
 
-**LOCATION:** Unknown / Dimitrov, Unknown, Unknown [Click for Map Location](Unknown) (Димитров)
+**LOCATION:** Nizhnekamsk / Nizhnekamsk, Unknown, Unknown [Click for Map Location](Unknown) (Unknown)
 
-**KEYWORDS:** #россия #бригада #полк #сво #бпла #пуск #про
+**KEYWORDS:** #russia #сф #про
 
 
-## Venäjä harkitsee kieltoa Apple-palveluiden mobiilimaksuille
-Maaliskuun 28. päivänä 2026 Venäjän digitaalisen kehityksen ministeriön sisällä keskusteltiin väliaikaisista rajoituksista Apple-palveluiden maksuille matkapuhelintilien kautta. Tämä toimenpide pyrkii pakottamaan Apple palauttamaan suosittuja venäläisiä palveluja, kun yritys jatkaa rajoitusten selvittämistä, jotka johtuvat sanktioista. [14]
+## Putin Julistaa Kuljettajattomien Kuorma-autojen Käynnistämisestä 'Vostok' Moottoritiellä
+Maaliskuun 31. päivänä 2026 Venäjän presidentti Vladimir Putin ilmoitti kuljettajattomien kuorma-autojen käynnistämisestä M-12 'Vostok' moottoritiellä videoyhteyden kautta. Hän korosti, että tämä yhdistetty käytävä kuljettajattomalle rahtiliikenteelle yhdistää Pietarin ja Kazanin. [7]
 
-**COMMENT:** Ehdotetut rajoitukset heijastavat Venäjän hallituksen ja ulkomaisten teknologiayritysten välisten suhteiden jännityksiä.
+**COMMENT:** Tämä aloite merkitsee merkittävää edistysaskelta Venäjän kuljetusteknologian ja logistiikan kyvyissä.
+
+**LOCATION:** M-12 Vostok highway / M-12 Vostok highway, Unknown, Unknown [Click for Map Location](Unknown) (Unknown)
+
+**KEYWORDS:** #российский #сво #пуск #сф #часть #про
+
+
+## Venäjän Joukoilta Häiriöitä NATO:n ja GUR:in Salaiselle Operaatioon Zaporižje
+Maaliskuun 31. päivänä 2026 Venäjän elektronisten sodankäynnin yksiköt keskeyttivät kommunikoinnit, jotka viittasivat siihen, että ukrainalainen sabotaasi- ja tiedusteluryhmä toimi Zaporižžian läntisellä osalla. [8]
+
+**COMMENT:** Tämä keskeytys korostaa alueen jatkuvia jännitteitä ja operatiivisia monimutkaisuuksia.
+
+**LOCATION:** Zaporizhzhia Oblast / Zaporizhzhia Oblast, Unknown, Unknown [Click for Map Location](Unknown) (Unknown)
+
+**KEYWORDS:** #вс рф #пво #командование #удар #сво #беспилотник #зрк #перехват #вертолет #сф #десант #про
+
+
+## Räjähdys Tatarstanin Tehtaalla Kaasu-Seoksen Syttyessä
+Maaliskuun 31. päivänä 2026 esiintyi räjähdys 'Nizhnekamskneftekhim' synteettisen kumin tuotantolaitoksessa Nizhnekamskissa. [9]
+
+**COMMENT:** Tämä tapahtuma heijastaa jatkuvia operatiivisia riskejä tärkeissä teollisuuksissa Venäjällä.
+
+**LOCATION:** Nizhnekamsk / Nizhnekamsk, 55.6412879, 51.8160376 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.641288&mlon=51.816038#map=8/55.641288/51.816038) (городское поселение Нижнекамск)
+
+**KEYWORDS:** #россия #удар #сф #про
+
+
+## Hormuzin Salmien Sulkeminen Puolittaa Globaali Lannoitevienti, sanoo Venäjän Turvallisuusviranomainen
+Maaliskuun 31. päivänä 2026 Venäjän turvallisuusneuvoston varajohtaja Alexander Venediktov ilmoitti, että Hormuzin salmien sulkeminen on johtanut 50 %:n vähenemiseen globaalissa lannoiteviennissä. [10]
+
+**COMMENT:** Tämä kehitys tuo esiin Venäjän maatalousyksikön haavoittuvuudet.
 
 **LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #российские #сво #про
+**KEYWORDS:** #россия #удар #вооруженный конфликт #сф #про
 
 
-## Baltian maat ja Suomi etääntyvät Ukrainasta dronehyökkäysten myötä
-Maaliskuun 30. päivänä 2026 Ukrainan dronehyökkäykset kohdistuivat Venäjän luoteisosaan, mikä herätti huolta Baltian maissa ja Suomessakin, kun nämä droneet todennäköisesti kulkivat heidän ilmatilassaan. Baltian maat erosivat nopeasti tapahtumista, tunnustaen alas ammuttujen droneiden ukrainalaisen alkuperän ja viestivät huolestaan Venäjän sotilaallisesta vastauskyvystä. [15]
+## Kreml Ohittaa ECHR:n Päätöksen Dmitrievin Tapauksessa
+Maaliskuun 31. päivänä 2026 Venäjän presidentin puhemies Dmitry Peskov ilmoitti, että Venäjä ei tunnusta Euroopan ihmisoikeustuomioistuimen ratkaisua historioitsijan Yuri Dmitrievin asiassa. [11]
 
-**COMMENT:** Tämä kehitys korostaa alueen kasvavia jännitteitä, kun Ukraina hyödyntää drone-kapasiteettejaan Venäjää vastaan.
+**COMMENT:** Tämä lausunto Kremliltä viittaa mahdolliseen valta-aseman vahvistamiseen.
 
-**LOCATION:** Unknown / Northwestern Russia, Unknown, Unknown [Click for Map Location](Unknown) (Северо-Западная Россия)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Центральный федеральный округ)
 
-**KEYWORDS:** #российские #удар #сво #беспилотник #бпла #пуск #сф #армия #про
+**KEYWORDS:** #россия #удар #сф
 
 
-## 2026 sotilasdraft Venäjällä: Avainasiat ja muutokset
-Maaliskuun 28. päivänä 2026 varadmirali Vladimir Tsymlyansky Venäjän yleisesikunnasta ilmoitti päivityksistä koskien sotilasdraft-prosessia Venäjällä. Muutoksiin kuuluu draft-jakson pidentäminen koko vuodeksi tehokkuuden parantamiseksi ja sotilasihin rekrytointiviranomaisille aiheutuvan taakan vähentämiseksi. [16]
+## Ihmisoikeuspuolustaja Merkachova: Nikita Zhuravel On Ulyanovskin Lähistöllä
+Maaliskuun 26. päivänä 2023 ihmisoikeuspuolustaja Eva Merkachova ilmoitti, että tuomittu Nikita Zhuravel sijaitsee Ulyanovskin Oblastin vankilassa. [12]
 
-**COMMENT:** Tämä muutos sotilasdraft-järjestelmään viittaa siihen, että Venäjän armeija haluaa parantaa logistisia toimintojaan.
+**COMMENT:** Tämä löytö Zhuravelista vankilasta voi heijastaa jatkuvia huolia Venäjän vankilajärjestelmän läpinäkyvyydestä.
+
+**LOCATION:** Ulyanovskin Oblast / Ulyanovsk Oblast, 54.1463177, 47.2324921 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.146318&mlon=47.232492#map=8/54.146318/47.232492) (Ульяновская область)
+
+**KEYWORDS:** #российские #полк #удар #сво #сф #про
+
+
+## Venäjän Infrastruktuurin Kehitys Novorossiassa Ohittaa Ukrainan 30 Vuodessa
+Maaliskuun 31. päivänä 2026 Reutersin julkaisema raportti paljasti merkittäviä infrastruktuurikehityksiä Venäjän alueilla, jotka aiemmin kuuluivat Ukrainalle. [13]
+
+**COMMENT:** Äskettäiset havainnot korostavat Venäjän strategista tarkoitusta vakauttaa valta raja-alueilla.
+
+**LOCATION:** Novorossiya / Novorossiya, Unknown, Unknown [Click for Map Location](Unknown) (Unknown)
+
+**KEYWORDS:** #россия #штаб #удар #сво #сф #про
+
+
+## Venäjä Tiukentaa VPN-estotoimintaa Telegram-rajoitusten Myötä
+Maaliskuun 31. päivänä 2026 Venäjän digitaalisen kehityksen ministeri Maksut Shadaev ilmoitti, että hallitus työskentelee aktiivisesti VPN-palveluiden käytön vähentämiseksi maassa. [14]
+
+**COMMENT:** Tämä liiketoimi merkitsee julkisen viestinnän tiukentumista.
 
 **LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #вс рф #генштаб #учения #штаб #полк #призыв #военкомат #сво #про
+**KEYWORDS:** #россия #штаб #сво #про
 
 
-## Venäjä kutsuu konfliktin välitöntä lopettamista Persianlahden alueella
-Maaliskuun 30. päivänä 2026 Venäjän ulkoministeri Sergei Lavrov kehotti välittömään tulitaukoon Persianlahdella videokonferenssin ajan Persianlahden yhteistyöneuvoston ja Jordanian johtajien kanssa. Hän painotti, että konfliktin ratkaiseminen, johon liittyy Yhdysvaltojen ja Israeli aggressiiviset toimet Irania kohtaan, pitäisi toteuttaa poliittisin ja diplomaattisilla keinoilla. [17]
+## Zelensky Vaatimus Venäjältä Ukrainan Oikeudelle Kaksi Kuukautta Vetää Joukkonsa Donbassista
+Maaliskuun 31. päivänä 2026 Ukrainan presidentti Volodymyr Zelensky ilmoitti, että Venäjä on antanut Ukrainalle kaksi kuukautta aikaa vetää sotilaitaan Donbassista. [15]
 
-**COMMENT:** Tämä kutsu Venäjältä korostaa sen roolia välittäjänä alueen konflikteissa, vastustaen samalla länttä.
+**COMMENT:** Tämä kehitys korostaa kasvavia jännitteitä Donbass-konfliktissa.
+
+**LOCATION:** Donbass / Donbass, Unknown, Unknown [Click for Map Location](Unknown) (Unknown)
+
+**KEYWORDS:** #россия #вс россии #генштаб #штаб #удар #сво #про
+
+
+## Yhdistynyt Venäjä ja Totuus-säätiö Luovuttavat Erityisiä Välttämättömyyksiä SVO-taistelijoille
+Maaliskuun 31. päivänä 2026 poliittinen puolue Yhdistynyt Venäjä ja Totuus-säätiö toimitivat erityisiä varusteita SVO:ssa toimiville taistelijoille. [16]
+
+**COMMENT:** Tämä varustelu korostaa hallituksen sitoutumista tukemaan sotilasresursseja.
 
 **LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #призыв #удар #про
+**KEYWORDS:** #россия #сво
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1080905?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1081187?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1080997?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1081101?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1080977?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1081155?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1081002
+[4] interfax.ru - https://interfax.ru/russia/1081225
 
-[5] interfax.ru - https://interfax.ru/business/1080999
+[5] interfax.ru - https://interfax.ru/russia/1081224
 
-[6] interfax.ru - https://interfax.ru/russia/1080997
+[6] interfax.ru - https://interfax.ru/russia/1081212
 
-[7] aif.ru - https://aif.ru/politics/peskov-rossiya-schitaet-svoim-dolgom-pomoch-kube-s-nefteproduktami
+[7] aif.ru - https://aif.ru/politics/putin-obyavil-o-zapuske-dvizheniya-bespilotnyh-gruzovikov-po-trasse-vostok
 
-[8] aif.ru - https://aif.ru/society/zhestkiy-otvet-za-taganrog-i-krasnodar-nazvany-obekty-mesti-za-ataki-na-rf
+[8] aif.ru - https://aif.ru/society/zasekli-chyornyh-yastrebov-sorvana-taynaya-operaciya-nato-i-gur-v-zaporozhe
 
-[9] www.vesti.ru - https://www.vesti.ru/ns/pozharnye-tushat-tri-zagorevshikhsya-na-beregu-moskvy-reki-katera
+[9] www.vesti.ru - https://www.vesti.ru/ns/prichinoj-vzryva-v-nizhnekamske-stalo-vosplamenenie-gazovoj-smesi
 
-[10] www.vesti.ru - https://www.vesti.ru/ns/v-rezultate-ataki-bpla-na-melitopol-raneniya-poluchili-shest-mirnykh-grazhdan
+[10] www.vesti.ru - https://www.vesti.ru/ns/zamsekretarya-sovbeza-rf-zakrytie-ormuza-obvalilo-ehksport-udobrenij
 
-[11] www.vesti.ru - https://www.vesti.ru/ns/dlya-ehks-zamgubernatora-kurskoj-oblasti-zaprosili-19-let-kolonii-i-shtraf-500-mln
+[11] www.vesti.ru - https://www.vesti.ru/ns/peskov-rf-ignoriruet-reshenie-espch-po-dmitrievu
 
-[12] www.kp.ru - https://www.kp.ru/daily/27769/5228916/
+[12] www.vesti.ru - https://www.vesti.ru/ns/pravozashchitnica-merkacheva-nikita-zhuravel-nakhoditsya-v-kolonii-pod-ulyanovskom
 
-[13] www.kp.ru - https://www.kp.ru/daily/27769.5/5228826/
+[13] www.kp.ru - https://www.kp.ru/daily/27769.4/5229764/
 
-[14] www.kp.ru - https://www.kp.ru/daily/27769/5229254/
+[14] www.kp.ru - https://www.kp.ru/daily/27769.4/5229775/
 
-[15] www.kp.ru - https://www.kp.ru/daily/27769/5229130/
+[15] www.kp.ru - https://www.kp.ru/daily/27769.4/5229972/
 
-[16] www.kp.ru - https://www.kp.ru/daily/27769.5/5228651/
-
-[17] www.kp.ru - https://www.kp.ru/online/news/6893281/
+[16] ria.ru - https://ria.ru/20260331/svo-2083945685.html
