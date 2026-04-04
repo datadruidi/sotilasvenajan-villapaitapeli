@@ -1,210 +1,200 @@
-# Report Date: 2026-04-03
+# Report Date: 2026-04-04
 
 ## Summary
-Raportointijaksolla Venäjällä tapahtui useita merkittäviä onnettomuuksia ja kriisitilanteita, jotka heijastavat julkisen turvallisuuden ja infrastruktuurin haasteita. Teollisuuspalot ja junaturmat ovat aiheuttaneet kuolemantapauksia ja loukkaantumisia, mikä voi johtaa lisääntyneeseen sääntelyyn ja turvallisuusprotokollien tarkistamiseen. Lisäksi hallitus on aloittanut aloitteita, kuten rokotustietorekisterin perustamisen, mikä voi parantaa terveyssektorin valvontaa. Tulevaisuudessa on todennäköistä, että nämä tapahtumat vaikuttavat kansalaisten luottamukseen ja poliittisiin päätöksiin.
+Raportointijaksolla on havaittavissa merkittäviä tapahtumia Venäjän sisä- ja ulkopolitiikassa. Kostromassa asuva henkilö tuomittiin pitkäaikaiseen vankeuteen, mikä osoittaa valtion jatkuvan valppautta terrorismin ja ulkomaisen vaikutusvallan osalta. Venäjän ulkoministeriö vaatii kiireellisiä toimia Iranin Bushehrin ydinalan suojelemiseksi, mikä viittaa kasvaviin jännitteisiin alueella. Lisäksi Venäjän puolustusministeriö ilmoitti lukuisten ukrainalaisten dronejen tuhoamisesta, mikä vahvistaa jatkuvaa ilmataistelua konfliktin osapuolten välillä.
 
-## Nizhnekamskneftekhim Fire Death Toll Rises to Seven
-Maaliskuun 3. päivänä 2026 Nizhnekamskneftekhimissa tapahtuneessa tulipalossa on varmistettu seitsemän kuolemaa, ja viittä henkilöä etsitään edelleen. Pelastusoperaatioihin osallistuu yli 200 väkeä Venäjän hätäturvallisuusministeriöstä ja muista palveluista, mikä korostaa tapahtuman merkistä vaikutusta julkiseen turvallisuuteen ja teollisiin toimintoihin. [1]
+## Kostroma-asukasta tuomittiin 20 vuodeksi maanpetoksesta
+Maaliskuun 4. päivänä 2026, Moskovan 2. Lännen sotilaspiirin tuomioistuin tuomitsi Kostromassa asuvan henkilön 20 vuoden vankeuteen yhteistyöstä venäläisten viranomaisten tunnustaman terroristijärjestön kanssa. Tuomio sisältää neljä vuotta vankeutta ja 16 vuotta tiukassa sääntöjen mukaisessa korjauslaitoksessa, mikä kuvastaa maanpetoksen vakavuutta kansallisen turvallisuuden kontekstissa. [1]
 
-**COMMENT:** Kuolemantietojen lisääntyminen heijastaa vakavia turvallisuusvajeita teollisuuspaikoilla Venäjällä, mikä edellyttää hätäprotokollien tarkistamista.
+**COMMENT:** Tämä tapaus korostaa Venäjän valtion jatkuvaa valppautta sisäisiä uhkia vastaan terrorismiin ja ulkomaiseen vaikuttamiseen liittyen. Tuomio voi viitata tiukentuneeseen toimintaan tyytymättömyyttä ja väitettyjä ääriliikkeitä kohtaan Venäjällä, erityisesti alueilla, joilla on historiallisia siteitä tällaisiin järjestöihin.
 
-**LOCATION:** Nizhnekamskneftekhim / Nizhnekamskneftekhim, Russia, Unknown, Unknown [Click for Map Location](Unknown) (Нижнекамск)
+**LOCATION:** Kostroma / Kostroma, 57.7679158, 40.9269141 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.767916&mlon=40.926914#map=8/57.767916/40.926914)
+
+**KEYWORDS:** #russia #удар #сво #часть #про
+
+
+## Venäjän ulkoministeriö vaatii välitöntä pysähdystä hyökkäyksiin Bushehrin ydinvoimalan alueella
+Maaliskuun 4. päivänä 2026, Venäjän ulkoministeriö kehotti välitöntä lakkausta hyökkäyksille Iranin Bushehrin ydinvoimalaan, raporttien mukaan alueella tapahtui ohjusiskuja. Puhuja Maria Zakharova korosti näiden sotilaallisten toimien aiheuttamaa kasvavaa vaaraa ja korosti kansainvälisen huomion tarvetta mahdollisen katastrofin välttämiseksi. [2]
+
+**COMMENT:** Venäjän hallituksen voimakas tuomio Bushehrin laitokselle kohdistuvista hyökkäyksistä heijastaa sen strategisia etuja alueellisessa ydinvakavuudessa ja viestii aikomuksesta engageerata diplomaattisesti havaittuja uhkia vastaan. Jatkuva eskaloituminen alueella voi johtaa merkittävämpiin jännitteisiin Venäjän suhteissa Iraniin ja muuhun kansainväliseen toimijakuntaan, joka on mukana Lähi-idän turvallisuusdynamiikassa.
+
+**LOCATION:** Bushehr / Bushehr, 28.9310786, 50.8458443 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.931079&mlon=50.845844#map=8/28.931079/50.845844)
+
+**KEYWORDS:** #russia #удар
+
+
+## Ensimmäinen potilas, jota hoidettiin Venäjän mRNA- syöpälääkkeellä, raportoi positiivista edistymistä
+Maaliskuun 4. päivänä 2026, terveysministeriö ilmoitti, että ensimmäinen potilas, joka sai räätälöidyn mRNA-rokotteen syövän hoitoon, reagoi hyvin hoitoon, ja hoitoa jatketaan. Tämä kehitys merkitsee merkittävää virstanpylvästä, sillä se hyödyntää potilaan kasvaimen molekyylimäisiä ominaisuuksia ja osoittaa eteenpäin menoa onkologiassa Venäjällä. [3]
+
+**COMMENT:** Tämä onnistunut soveltaminen räätälöidystä mRNA-rokotteesta voi heijastaa laajempaa suuntausta kohti kohdennettuja lääketieteellisiä hoitoja Venäjän terveydenhuollossa. Tulevaisuudessa tämä voi tarkoittaa lisää investointeja lääketieteelliseen tutkimukseen ja kehitykseen, parantaen Venäjän asemaa biolääketieteessä.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
 **KEYWORDS:** #russia #про
 
 
-## Train Accident in Ulyanovsk Region Leaves Over 50 Injured
-Maaliskuun 3. päivänä 2026 Ulyanovskin alueella tapahtuneessa junaonnettomuudessa yli 50 henkilöä hakeutui lääkärihoitoon, ja 17 joutui sairaalaan. Tapahtuma johtui oletettavasti rautateiden vikaantumisesta, mikä herättää huolta Venäjän rautatieturvallisuudesta ja ylläpitostandardeista. [2]
+## Kalliot ja maanvyöry vahingoittavat kaasuputkia Dagestanissa
+Maaliskuun 4. päivänä 2026, kaasuputkistoja vaurioitui Dagestanissa kallion putoamisen ja maanvyöryn vuoksi, vaikuttaen Kazbekovskin ja Akushinskin alueisiin. Tapahtumat johtivat korkeapaineisen kaasuputken täydelliseen katkeamiseen Gostalin kylässä, jättäen 110 kotitaloutta ilman kaasua, ja se uhkaa 320 muuta Akushinskin alueella. [4]
 
-**COMMENT:** Tämä tapahtuma korostaa mahdollisia haavoittuvuuksia Venäjän liikenneinfrastruktuurissa, erityisesti rautatiejärjestelmässä.
+**COMMENT:** Nämä tapahtumat heijastavat jatkuvia haavoittuvuuksia kriittisessä infrastruktuurissa luonnonilmiöiden vuoksi Venäjällä. Tilanne voi johtaa lisääntyneeseen valppauteen katastrofivalmius- ja vastausmekanismeissa alueella.
 
-**LOCATION:** Ulyanovsk Oblast / Ulyanovsk Oblast, Volga Federal District, Russia, 54.1463177, 47.2324921 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.146318&mlon=47.232492#map=8/54.146318/47.232492) (Ульяновская область)
+**LOCATION:** Dagestan / Dagestan, 43.0, 47.0 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.000000&mlon=47.000000#map=8/43.000000/47.000000)
 
 **KEYWORDS:** #russia #сво #про
 
 
-## Nizhnekamskneftekhim Fire Increases Death Toll to Seven
-Maaliskuun 3. päivänä 2026 Nizhnekamskneftekhimissa tapahtuneessa tuhoisassa tulipalossa on varmistettu seitsemän kuolemaa ja viittä henkilöä etsitään edelleen. Pelastuspalvelut, mukaan lukien yli 200 asiantuntijaa ja 20 laitetta, osallistuvat aktiivisesti etsintä- ja pelastustoimiin samalla kun 24 ihmistä on sairaalassa hoidettavana. [3]
+## Orban ja Fico kohtaavat Brysselissä Venäjän energiatavararajoitusten vuoksi
+Maaliskuun 4. päivänä 2026, Unkarin pääministeri Viktor Orban ja Slovakian pääministeri Robert Fico keskustelivat yhteistyöyrityksistä EU:n johtajien suostutteluun kumoamaan pakotteet Venäjän öljy- ja kaasuviennin osalta. He väittävät, että pakotteet heikentävät energianvakautta Euroopassa ja pahentavat talouskriisiä mantereella. [5]
 
-**COMMENT:** Tapahtuman kuolonuhrien lisääntyminen korostaa mahdollisia turvallisuus- ja sääntelyongelmia Venäjän kriittisissä infrastruktuurialoissa.
+**COMMENT:** Tämä Unkarin ja Slovakian yhteinen aloite korostaa EU: n sisäistä kasvavaa tyytymättömyyttä energiapolitiikassa Venäjää kohtaan. Heidän vetoomuksensa tulos voi merkitä muutoksia Euroopan riippuvuudessa Venäjän energialähteistä, vaikuttaen alueellisiin dynamiikkaan ja EU:n yhtenäisyyteen.
 
-**LOCATION:** Nizhnekamsk / Nizhnekamsk, Republic of Tatarstan, Russia, Unknown, Unknown [Click for Map Location](Unknown) (Нижнекамск)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #про
-
-
-## Russia Introduces Federal Register for Vaccination Information
-Maaliskuun 3. päivänä 2026 Venäjän terveysministeriö ilmoitti suunnitelmista luoda kansallinen rekisteri rokotustietojen seuraamiseksi, tavoitteena arvioida rokotustrategioiden tehokkuutta maanlaajuisesti. Tämä aloite on osa Venäjän laajempia kansanterveysaloitteita. [4]
-
-**COMMENT:** Tämä rekisterin perustaminen osoittaa kasvavaa huomiota kansanterveysvalvontaan Venäjällä, mikä voi parantaa hallituksen kykyä hallita rokotusohjelmia.
-
-**LOCATION:** Moskova / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #российские #про
 
 
-## Train Accident in Ulyanovsk Region Leaves Over 50 Injured
-Maaliskuun 3. päivänä 2026 Ulyanovskissa sattuneessa onnettomuudessa ainakin 55 matkustajaa kaipasi lääkärihoitoa, ja 17 päätyi sairaalaan. Tapahtuman uskotaan johtuvan rautateiden vikaantumisesta, mikä herättää huolta rautateiden turvallisuudesta alueella. [5]
+## Venäjän puolustusministeriö raportoi ukrainalaisten dronejen alasampumisesta
+Maaliskuun 4. päivänä 2026, Venäjän puolustusministeriö ilmoitti, että sotilasjoukot ampuivat alas 21 ukrainalaista dronea 9:00 ja 15:00 Moskovan aikaa Belgorodin, Bryanskin ja Kurskin alueilla. Tämä operaatio korostaa käynnissä olevia ilmataisteluja alueella Venäjän ja Ukrainan välillä. [6]
 
-**COMMENT:** Tämä tapahtuma korostaa mahdollisia haavoittuvuuksia Venäjän rautateiden infrastruktuurissa.
+**COMMENT:** Tämä tapaus heijastaa jatkuvaa drone-sodankäynnin käyttöä käynnissä olevassa konfliktissa, Venäjän parantaessa puolustusmenetelmiään. Tulevat operaatiot voivat nähdä dronejen keskeytyksen lisääntymistä, kun molemmat osapuolet mukauttavat taktiikoitaan.
 
-**LOCATION:** Ulyanovsk / Ulyanovsk, городской округ Ульяновск, Ulyanovsk Oblast, Volga Federal District, Russia, 54.3150278, 48.403373 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.315028&mlon=48.403373#map=8/54.315028/48.403373) (Ульяновск)
+**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339)
 
-**KEYWORDS:** #russia #сво #про
+**KEYWORDS:** #russia #минобороны рф #минобороны россии #минобороны #беспилотник #бпла
 
 
-## Putin Expresses Gratitude to Erdogan for Supporting Ukraine Negotiations
-Maaliskuun 3. päivänä 2023 Venäjän presidentti Vladimir Putin keskusteli puhelimitse Turkin presidentin Recep Tayyip Erdoganin kanssa kiittäen häntä Ukrainan neuvottelujen helpottamisesta. Keskustelu painotti myös tarpeen koordinoida toimintaa Mustallamerellä turvallisuuden parantamiseksi. [6]
+## Ehdotus liikenteen meluhaittojen korottamisesta
+Maaliskuun 4. päivänä 2026, Venäjän valtionduuma esitteli lain luonnoksen, jossa ehdotetaan sakkojen korottamista ajoneuvojen melustandardien rikkomisesta 500 ruplasta 2 500 ruplaan. Tämä aloite, joka on saanut alkunsa Trans-Baikalia koskevasta lainsäädäntöasiamiehestä, pyrkii puuttumaan kasvavaan huoleen ajoneuvojen melusaasteesta, joka häiritsee kansalaisten rauhaa. [7]
 
-**COMMENT:** Tämä vuorovaikutus korostaa Turkin merkitystä neuvottelijana meneillään olevassa konfliktissa.
+**COMMENT:** Tämä lainsäädäntöehdotus heijastaa hallituksen kasvavaa huolta kaupunkien melusaasteesta ja nykyisten sääntöjen tehokkuudesta. Jos se hyväksytään, se voi johtaa tiukempaan valvontaan ja lisääntyneeseen yleiseen tietoisuuteen ajoneuvojen vaatimustenmukaisuudesta melustandardien osalta.
 
-**LOCATION:** Moskova / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #russia #пуск #часть #про
+
+
+## UAV-hyökkäys Luhanskin kansantasavallassa tappaa perheen
+Maaliskuun 4. päivänä 2026, ukrainalainen dronehyökkäys kohdistui Mikhailovkaan Luhanskin kansantasavallassa, mikä johti naimisissa olevan pariskunnan ja heidän 8-vuotiaan lapsensa kuolemaan, LPR:n viranomaisten mukaan. Hyökkäys vaikutti myös muihin paikkoihin LPR: ssä, vahingoittaen infrastruktuuria ja asuinrakennuksia. [8]
+
+**COMMENT:** Tämä tapaus korostaa jatkuvia uhkia, joita drone-sodankäynti aiheuttaa konfliktivyöhykkeellä, vaikuttaen siviilien elämään ja infrastruktuuriin. Ukrainalaisten joukkojen jatkuva UAV: n käyttö voi lisätä jännitteitä ja provosoida lisää sotilaallisia vastatoimia LPR: ltä ja siihen liittyviltä Venäjän armeijan joukoilta.
+
+**LOCATION:** Mikhailovka / Mikhailovka, Unknown [Unknown]
+
+**KEYWORDS:** #russia #удар #сво #бпла #часть #армия #про
+
+
+## Venäjän armeija iskee vastaiskuja Ukrainan sotilasteollisuuskeskukseen
+Maaliskuun 4. päivänä 2026, Venäjän armeija aloitti merkittävän hyökkäyksen Ukrainan sotilasteollisuuskeskukseen, käyttäen drooneja ja tarkkuusaseita, iskut raportoitiin Kiovassa, Valkoisessa kirkossa ja Obukhovissa. Tätä operaatioa pidetään vastatoimena viimeisiin ukrainalaisiin iskuisiin Venäjän Leningradin ja Novgorodin alueilla, kohdistuen radioelektroniikan ja raskaan konepajan kiinteistöihin. [9]
+
+**COMMENT:** Tämä sotilaallinen toiminta korostaa Venäjän hallituksen sitoutumista vastaamaan havaittuihin uhkiin, jotka tulevat Ukrainasta, ja erityisesti sen sotilaallisiin kykyihin. Tulevat eskalaatiot voivat riippua ukrainalaisten ohjus- ja vastaisku-tekniikan kehityksestä ja todennäköisistä vastatoimista Venäjän kaupunkeja vastaan.
+
+**LOCATION:** Kiova / Kyiv, 50.4500336, 30.5241361 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.450034&mlon=30.524136#map=8/50.450034/30.524136)
+
+**KEYWORDS:** #вс рф #российская армия #пво #полк #удар #сво #высокоточное оружие #беспилотник #бпла #перехват #пуск #часть #армия #про
+
+
+## Zakharova keskustelee Venäjää vastaan käyttäytyvän disinformaatiokampanjan laajuudesta
+Maaliskuun 4. päivänä 2026, Maria Zakharova, Venäjän ulkoministeriön virallinen edustaja, kuvasi laajoja resursseja, joita länsimaat käyttävät disinformaation tuottamiseen Venäjää vastaan. Hän väitti, että Yhdysvallat ja Yhdistynyt kuningaskunta ovat varanneet noin 2 miljardia dollaria tukeakseen informaatiosotaa Venäjää vastaan, joka sisältää kymmeniä tuhansia, ellei satoja tuhansia henkilöitä, jotka ovat omistautuneet kertomusten valmistelemiseen. [10]
+
+**COMMENT:** Tämä lausunto korostaa Venäjän lisääntynyttä herkkyyttä ulkoista narratiivia ja disinformaatiokampanjoita kohtaan, jotka nähdään uhkana sen vakaudelle. Tämä voi johtaa lisääntyneisiin vastatoimiin ja aggressiivisempaan asenteeseen tietosodassa Venäjän puolelta.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+
+**KEYWORDS:** #россия #штаб #сво #сф #часть #про
+
+
+## Venäjän puolustusministeriö raportoi 21 ukrainalaisen dronejen tuhoamisesta kuuden tunnin aikana
+Maaliskuun 4. päivänä 2026, Venäjän puolustusministeriö ilmoitti, että sen ilmapuolustuksen joukot onnistuivat keskeyttämään ja tuhoamaan 21 ukrainalaista dronea 9:00–15:00 Moskova aikaa Bryanskin, Belgorodin ja Kurskin alueilla. Tämä operaatio osoittaa Venäjän ilmapuolustuksen jatkuvaa kykyä vastata UAV-uhkiin Ukrainasta. [11]
+
+**COMMENT:** Näiden dronejen tuhoaminen osoittaa Venäjän ilmapuolustusjärjestelmien operatiivista tehokkuutta UAV-uhkia vastaan. Tämä tapaus voi viitata eskalaatioon ukrainalaisten dronejen sodankäynnin taktiikoissa ja provosoida lisää parannuksia Venäjän puolustusmenetelmiin.
+
+**LOCATION:** Bryansk / Bryansk, 53.2423778, 34.3668288 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.242378&mlon=34.366829#map=8/53.242378/34.366829)
+
+**KEYWORDS:** #россия #минобороны рф #мо рф #вооруженные силы рф #вс рф #минобороны #министерство обороны #пво #удар #сво #беспилотник #бпла
+
+
+## Kauppavolyymi Venäjän ja Abhaasian välillä kasvaa 18%
+Maaliskuun 4. päivänä 2026, varapääministeri Alexander Novak ilmoitti, että Venäjän ja Abhaasian välillä käydyn kaupan liikevaihto kasvoi 18% viime vuoden aikana kansainvälisen talousfoorumin "Abhaasia - Investoinnit tulevaisuuteen" yhteydessä, joka pidettiin Suhumissa. Novak korosti, että nykyiset kauppaprosentit ovat paljon korkeampia ja ilmaisi optimistisia näkemyksiä lisäyhteistyöstä kahden alueen välillä. [12]
+
+**COMMENT:** Tämä kasvu viittaa Venäjän ja Abhaasian taloudellisten suhteiden vahvistumiseen, mikä voi parantaa Venäjän vaikutusvaltaa alueella. Korostus lisääntyneestä kauppapotentiaalista viittaa siihen, että Venäjä saattaa pyrkiä syventämään taloudellista integraatiota Abhaasian kanssa, mikä vastaa laajempia strategisia etuja.
+
+**LOCATION:** Sukhum / Sukhum, Unknown [Unknown]
+
+**KEYWORDS:** #россия #удар #сф
+
+
+## Novak vahvistaa bensiinitarjonnan täydellistä kattavuutta Venäjän kotimaisilla polttoainemarkkinoilla
+Maaliskuun 4. päivänä 2026, Venäjän varapääministeri Alexander Novak ilmoitti, että Venäjän kotimaisten polttoainemarkkinoiden tarjonta on tällä hetkellä täysin kattava bensiinillä ja dieselin polttoaineella. Hän korosti, että kotimaasta tuotettu bensiinitarjonta pysyy kotimaisilla markkinoilla ja mainitsi toimenpiteet hintojen vakauttamiseksi kasvavien kustannusten vuoksi Lähi-idän tilanteen vuoksi. [13]
+
+**COMMENT:** Tämä ilmoitus osoittaa voimakasta huomiota kotimaisen polttoainestabiliteetin säilyttämiseen ulkoisten paineiden keskellä, mikä voi heijastaa hallituksen laajempia pyrkimyksiä varmistaa sisäisiä taloudellisia olosuhteita. Tulevissa kehityksissä voi olla tiukempia toimenpiteitä polttoainehintojen valvonnassa ja kotimaisen kulutuksen varmistamisessa mahdollisten toimitusketjuhaasteiden vuoksi.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
 **KEYWORDS:** #россия #удар #сф #про
 
 
-## Great-Great-Grandson of Leo Tolstoy Granted Russian Citizenship
-Maaliskuun 29. päivänä 2023 Venäjän presidentti Vladimir Putin allekirjoitti asetuksen myöntää Venäjän kansalaisuus Daniil Tolstoille, kuuluisan kirjailijan Leo Tolstoin yhden suuren suuren pojanpojalle. Tämä asetus heijastaa jatkuvia ponnistuksia yhteyden luomiseksi Venäjän perinteeseen. [7]
+## Venäjä vaatii välitöntä pysähdystä hyökkäyksiin Iranin Bushehrin ydinvoimalaan
+Maaliskuun 4. päivänä 2026, Venäjän ulkoministeriö tuomitsi hyökkäykset Iranin ydinlaitoksia, erityisesti Bushehrin ydinvoimalaa, kutsuen vihdoin pysähtymään tällaisiin iskuisiin. Ministeriö korosti kansainvälisten yhteisten ponnistelujen tarvetta käsitellä tilannetta ja ilmensi osanottoaan näiden hyökkäysten aiheuttamista uhreista. [14]
 
-**COMMENT:** Tämä tapahtuma korostaa Kremlin strategiaa sitoutua erityisesti kulttuurihahmoihin Venäjän historiallisessa kontekstissa.
+**COMMENT:** Venäjän ulkoministeriön tuomitseminen Bushehria vastaan suuntautuvia hyökkäyksiä kohtaan korostaa Moskovan kiinnostusta alueellisen vakauden vuoksi ja sen strategisia kumppanuuksia Lähi-idässä. Tämä voi johtaa Venäjän lisääntyneisiin diplomaattisiin toimiin vahvistaa vaikutustaan ja suojella etujaan Iranissa kasvavien jännitteiden keskellä.
 
-**LOCATION:** Moskova / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Bushehr / Bushehr, 28.9310786, 50.8458443 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.931079&mlon=50.845844#map=8/28.931079/50.845844)
 
-**KEYWORDS:** #россия #российский #удар #сво #сф
-
-
-## Turkey Acknowledges Russia's Concerns Regarding the Turkish Stream Pipeline
-Maaliskuun 3. päivänä 2023 Venäjän Suurlähetystö Ankarassa raportoi, että Turkki on osoittanut ymmärrystä Moskovan huolenaiheita kohtaan, jotka liittyvät Turkkilaiseen Kaasuputkeen. Venäläiset viranomaiset ovat ilmoittaneet sabotaasiyrityksistä, jotka uhkaavat alueen energiaturvallisuutta. [8]
-
-**COMMENT:** Tämä kehitys korostaa energiatietoinfrastruktuurien turvallisuuden geopoliittista merkitystä Mustallamerellä.
-
-**LOCATION:** Ankara / Ankara, Çankaya, Ankara, Central Anatolia Region, Turkey, 39.9207759, 32.8540497 [Click for Map Location](https://www.openstreetmap.org/?mlat=39.920776&mlon=32.854050#map=8/39.920776/32.854050) (Анкара)
-
-**KEYWORDS:** #россия #российские #удар #сф #про
+**KEYWORDS:** #россия #удар
 
 
-## Russian Woman Arrested for Financing Terrorism Faces Up to 15 Years in Prison
-Maaliskuun 3. päivänä 2026 60-vuotias Moskovan lähiössä asuva hyppykouluttaja Galina Ulyamova pidätettiin epäiltynä terrorismiorganisaation rahoittamisesta. Hänet syytetään siirrosta 219 ruplaa Telegramin kautta terroristijärjestölle. [9]
+## Venäjä vaatii välitöntä pysähdystä hyökkäyksiin Iranin Bushehrin ydinvoimalaan
+Maaliskuun 4. päivänä 2026, Venäjän ulkoministeriö tuomitsi hyökkäykset Iranin ydinlaitoksiin, erityisesti Bushehrin ydinvoimalaan, kutsuen välittömään pysähtymiseen. Ministeriö korosti kansainvälisten yhteisten ponnistelujen tarvetta käsitellä tilannetta ja ilmensi osanottoaan näiden hyökkäysten aiheuttamista uhreista. [15]
 
-**COMMENT:** Tämä tapahtuma korostaa viranomaisten jatkuvaa tarkastelua rahoitustapahtumista, jotka liittyvät terrorismiin.
+**COMMENT:** Venäjän ulkoministeriön tuomitseminen Bushehria vastaan suuntautuvia hyökkäyksiä kohtaan korostaa Moskovan kiinnostusta alueellisen vakauden vuoksi ja sen strategisia kumppanuuksia Lähi-idässä. Tämä voi johtaa Venäjän lisääntyneisiin diplomaattisiin toimiin vahvistaa vaikutustaan ja suojella etujaan Iranissa kasvavien jännitteiden keskellä.
 
-**LOCATION:** Moskova / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Bushehr / Bushehr, 28.9310786, 50.8458443 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.931079&mlon=50.845844#map=8/28.931079/50.845844)
 
-**KEYWORDS:** #россия #удар #сво #сф #десант #про
-
-
-## Air Defense Systems Intercept 28 Drones Over Russian Regions
-Maaliskuun 3. päivänä 2026 Venäjän ilmapuolustusjärjestelmät ampuivat alas 28 Ukrainan asevoimien dronea useilla alueilla. Kauko-ohjatut lentokoneet saatiin kiinni Belgorodin, Bryanskin, Kalugan, Kurskin, Nizhny Novgorodin ja Moskovan alueilla. [10]
-
-**COMMENT:** Tämä onnistunut torjunta korostaa jatkuvia konfliktidynamiikkaa ja Venäjän ilmapuolustuksen tehokkuutta.
-
-**LOCATION:** Belgorod / Belgorod, Belgorodsky District, Belgorod Oblast, Central Federal District, Russia, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
-
-**KEYWORDS:** #минобороны рф #мо рф #вооруженные силы рф #вс рф #минобороны #пво #противовоздушная оборона #удар #сво #беспилотник #сф #про
+**KEYWORDS:** #россия #удар
 
 
-## Criminal Case Opened for Terrorism Financing in Kabardino-Balkaria
-Maaliskuun 19. päivänä 2023 rikosoikeudellinen tapaus avattiin Kabardino-Balkariassa paikallista asukasta vastaan, joka epäillään terrorismin rahoittamisesta. Tutkinnassa havaittiin, että epäilty oli käyttänyt sosiaalisen median kanavia kerätäkseen varoja. [11]
+## Venäjän ulkoministeriö vaatii välitöntä pysähdystä hyökkäyksiin Iranin ydinlaitoksiin
+Maaliskuun 4. päivänä 2026, Venäjän ulkoministeriö ilmaisi syvää huolta ohjusiskuista Iranin Bushehrin ydinvoimalan lähellä, tuomiten väkivallan, joka johti ihmishenkien menetykseen. Virallinen edustaja Maria Zakharova kehotti välittömään lakkaamiseen iskuista iranilaisiin ydinlaitoksiin, korostaen kansainvälisen huomion tarvetta jännitteen lisääntymisen välttämiseksi. [16]
 
-**COMMENT:** Tämä kehitys osoittaa lisääntyneen tarkkuuden kotimaisten rahoituskanavien osalta, jotka voivat tukea terrorismia.
+**COMMENT:** Tämä lausunto korostaa Venäjän strategista etua ydinlaitosten vakauden ylläpitämisessä Iranissa, mikä heijastaa alueellisia turvallisuuskysymyksiä. Vaikka kehotetaan välitöntä lakkaamista hyökkäyksistä, se viittaa mahdollisiin Venäjän diplomaattisiin interventioihin estääkseen alueen jännitteiden lisääntymisen.
 
-**LOCATION:** Kabardino-Balkaria / Kabardino-Balkaria, North Caucasian Federal District, Russia, Unknown, Unknown [Click for Map Location](Unknown) (Кабardino-Балкария)
+**LOCATION:** Bushehr / Bushehr, 28.9310786, 50.8458443 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.931079&mlon=50.845844#map=8/28.931079/50.845844)
 
-**KEYWORDS:** #россия #призыв #удар #сф #про
-
-
-## Criminal Case Opened in Kabardino-Balkaria for Financing Terrorism
-Maaliskuun 3. päivänä 2026 Venäjän tutkintakomitea ilmoitti rikosoikeudellisen tapauksen avaamisesta Kabardino-Balkariassa 1987 syntynyttä paikallista asukasta vastaan, jota epäillään terrorismin rahoittamisesta. Epäillyn keräämiä varoja ohjattiin terroristijärjestöille. [12]
-
-**COMMENT:** Tämä kehitys osoittaa vahvoja ponnistuksia Venäjän viranomaisilta torjua kotimaista terrorismirahoitusta.
-
-**LOCATION:** Kabardino-Balkar Republic / Kabardino-Balkar Republic, Russia, Unknown, Unknown [Click for Map Location](Unknown) (Кабardino-Балкария)
-
-**KEYWORDS:** #россия #сво #армия
-
-
-## Turkey Urges Restraint on Attacks Against Civilian Ships in the Black Sea
-Maaliskuun 3. päivänä 2026 Presidentti Recep Tayyip Erdoganin toimisto kutsui kaikkia osapuolia pidättäytymään siviilialuksia kohtaan suunnatuista hyökkäyksistä Mustallamerellä. Tämä lausunto seuraa Erdoganin keskusteluja Venäjän presidentin Vladimir Putinin kanssa. [13]
-
-**COMMENT:** Turkin kutsu pidättäytymiseen osoittaa kasvavaa huolta Mustanmeren aseellistamisesta.
-
-**LOCATION:** Mustameri / Black Sea, 43.872824, 33.9938077 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.872824&mlon=33.993808#map=8/43.872824/33.993808) (Черное море)
-
-**KEYWORDS:** #россия #минобороны рф #минобороны #призыв #удар #сво #бпла #про
-
-
-## Matvienko Asserts Russia Will Not Kidnap Zelensky
-Maaliskuun 3. päivänä 2026 Venäjän Federaation neuvoston puheenjohtaja Valentina Matvienko totesi, että Venäjällä ei ole aikomusta kidnapata Ukrainan presidenttiä Volodymyr Zelenskyä. Matvienko tuomitsi Yhdysvaltain toimet Venezuelassa. [14]
-
-**COMMENT:** Tämä lausunto heijastaa Venäjän pyrkimyksiä etäännyttää itsensä aggressiivisista toimista.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #сво #сф #про
-
-
-## Widespread Bank Card Failures Affect Multiple Russian Banks on April 3, 2026
-Maaliskuun 3. päivänä 2026 käyttäjät Venäjällä raportoivat merkittävistä ongelmista pankkikorttitoiminnoissa ja mobiilimaksuissa, jotka koskivat suuria pankkeja, kuten Sberbank ja Alfa Bank. [15]
-
-**COMMENT:** Tämä tapahtuma korostaa Venäjän pankkijärjestelmän haavoittuvuutta, joka voi heikentää kansalaisten luottamusta.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #удар #сво #сф #про
-
-
-## Duma Suggests Legal Move to Revoke Ukraine's Independence Recognition
-Maaliskuun 3. päivänä 2026 Venäjän valtion Duman edustaja Yevgeny Fedorov ehdotti laillista toimia Moskovassa Ukrainan itsenäisyyden tunnustamisen kumoamiseksi. [16]
-
-**COMMENT:** Tämä ehdotus korostaa Venäjän keskittyneisyyttä oikeudellisiin ja sotilasdimensioihin Ukrainan konflikteissa.
-
-**LOCATION:** Moskova / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #пво #удар #сво #сф #часть #про
-
-
-## Proposal to Ban Dismissal of Disabled Workers in Russia
-Maaliskuun 3. päivänä 2026 Maailman Venäläisten Kansaneuvoston varapuheenjohtaja Mikhail Ivanov ehdotti muutoksia työlainsäädäntöön, jotta vammaisten työntekijöiden irtisanominen olisi kielletty työntekijöiden vähentämisen yhteydessä. [17]
-
-**COMMENT:** Tämä ehdotus merkitsee mahdollista siirtymää suurempiin suojiin haavoittuville työryhmille Venäjällä.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #удар #про
+**KEYWORDS:** #россия #удар
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1081942?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1081985?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1081941?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1082024
 
-[3] interfax.ru - https://interfax.ru/russia/1081942
+[3] interfax.ru - https://interfax.ru/russia/1082023
 
-[4] interfax.ru - https://interfax.ru/russia/1081940
+[4] interfax.ru - https://interfax.ru/russia/1082022
 
-[5] interfax.ru - https://interfax.ru/russia/1081941
+[5] interfax.ru - https://interfax.ru/world/1082021
 
-[6] www.vesti.ru - https://www.vesti.ru/ns/putin-poblagodaril-ehrdogana-za-sodejstvie-v-peregovornom-processe-po-ukraine
+[6] interfax.ru - https://interfax.ru/russia/1082017
 
-[7] www.vesti.ru - https://www.vesti.ru/ns/prapravnuk-lva-tolstogo-daniil-poluchil-rossijskoe-grazhdanstvo
+[7] interfax.ru - https://interfax.ru/russia/1082012
 
-[8] www.vesti.ru - https://www.vesti.ru/ns/posolstvo-rf-turciya-proyavila-ponimanie-pozicii-moskvy-po-tureckomu-potoku
+[8] interfax.ru - https://interfax.ru/russia/1082011
 
-[9] www.vesti.ru - https://www.vesti.ru/ns/rossiyanke-grozit-do-15-let-kolonii-za-finansirovanie-terrorizma
+[9] aif.ru - https://aif.ru/society/kievu-pokazali-noch-ada-russkie-bomby-otomstili-za-ataki-gorodov-rf
 
-[10] www.vesti.ru - https://www.vesti.ru/ns/sistemy-pvo-za-vosem-chasov-sbili-28-dronov-vsu-nad-regionami-rf
+[10] aif.ru - https://aif.ru/politics/zaharova-rasskazala-o-masshtabah-dezinformacionnoy-kampanii-protiv-rossii
 
-[11] www.vesti.ru - https://www.vesti.ru/ns/delo-o-finansirovanii-terrorizma-zaveli-na-zhitelya-kabardino-balkarii
+[11] www.vesti.ru - https://www.vesti.ru/ns/minoborony-rf-soobshchilo-ob-unichtozhenii-21-bespilotnika-vsu-za-shest-chasov
 
-[12] iz.ru - https://iz.ru/2072461/2026-04-03/v-kbr-zaveli-delo-o-finansirovanii-terrorizma?main_click
+[12] www.vesti.ru - https://www.vesti.ru/ns/novak-soobshchil-chto-obem-torgovli-mezhdu-rf-i-abkhaziej-vyros-na-18
 
-[13] iz.ru - https://iz.ru/2072425/2026-04-03/turtciia-prizvala-vozderzhatsia-ot-atak-na-grazhdanskie-suda-v-chernom-more?main_click
+[13] www.vesti.ru - https://www.vesti.ru/ns/novak-zayavil-chto-vnutrennij-rynok-topliva-v-rf-polnostyu-obespechen-benzinom
 
-[14] iz.ru - https://iz.ru/2072439/2026-04-03/matvienko-zaiavila-ob-otsutstvii-u-rf-namereniia-pokhishchat-zelenskogo?main_click
+[14] iz.ru - https://iz.ru/2072827/2026-04-04/v-mid-rossii-prizvali-nemedlenno-prekratit-udary-po-aes-busher-v-irane
 
-[15] www.kp.ru - https://www.kp.ru/daily/27771.5/5231550/
+[15] iz.ru - https://iz.ru/2072827/2026-04-04/v-mid-rossii-prizvali-nemedlenno-prekratit-udary-po-aes-busher-v-irane?main_click
 
-[16] www.kp.ru - https://www.kp.ru/daily/27771.5/5231345/
+[16] www.kp.ru - https://www.kp.ru/online/news/6902462/
 
-[17] www.kp.ru - https://www.kp.ru/online/news/6901674/
+[17] ria.ru - https://ria.ru/20260404/udar-2085177427.html
