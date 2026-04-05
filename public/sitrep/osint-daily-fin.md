@@ -1,200 +1,216 @@
-# Report Date: 2026-04-04
+# Raporttipäivämäärä: 2026-04-05
 
-## Summary
-Raportointijaksolla on havaittavissa merkittäviä tapahtumia Venäjän sisä- ja ulkopolitiikassa. Kostromassa asuva henkilö tuomittiin pitkäaikaiseen vankeuteen, mikä osoittaa valtion jatkuvan valppautta terrorismin ja ulkomaisen vaikutusvallan osalta. Venäjän ulkoministeriö vaatii kiireellisiä toimia Iranin Bushehrin ydinalan suojelemiseksi, mikä viittaa kasvaviin jännitteisiin alueella. Lisäksi Venäjän puolustusministeriö ilmoitti lukuisten ukrainalaisten dronejen tuhoamisesta, mikä vahvistaa jatkuvaa ilmataistelua konfliktin osapuolten välillä.
+## Yhteenveto
+Raportointijaksolla tapahtui useita merkittäviä tapahtumia, jotka heijastavat jatkuvia haasteita infrastrukturissa ja ympäristöriskeissä sekä kasvavia jännitteitä alueella. Erityisesti Dagestanissa luonnonilmiöt, kuten tulvat ja maanvyörykset, aiheuttivat vakavia vaikutuksia paikalliseen väestöön ja infrastruktuuriin. Samaan aikaan Ukrainasta tulevat dronehyökkäykset ja Venäjän ilmatorjuntatoiminta osoittavat jatkuvaa sotilaallista jännitystä Itä-Euroopan alueella. Lähitulevaisuudessa voidaan odottaa lisää toimenpiteitä infrastruktuurin parantamiseksi sekä tiukempia turvallisuus- ja valvontakäytäntöjä alueilla, joilla on havaittu haavoittuvuutta.
 
-## Kostroma-asukasta tuomittiin 20 vuodeksi maanpetoksesta
-Maaliskuun 4. päivänä 2026, Moskovan 2. Lännen sotilaspiirin tuomioistuin tuomitsi Kostromassa asuvan henkilön 20 vuoden vankeuteen yhteistyöstä venäläisten viranomaisten tunnustaman terroristijärjestön kanssa. Tuomio sisältää neljä vuotta vankeutta ja 16 vuotta tiukassa sääntöjen mukaisessa korjauslaitoksessa, mikä kuvastaa maanpetoksen vakavuutta kansallisen turvallisuuden kontekstissa. [1]
+## Ei uhreja Makhachkalan asuinrakennuksen romahtamisessa
+Maaliskuun 5. päivänä 2026 tapahtui kolmannen kerroksen osittainen romahdus kuusikerroksisessa asuinrakennuksessa Aivazovskin kadulla Makhachkalassa, Dagestanissa, ilman uhreja. Tapahtuma johti asukkaiden evakuointiin, ja paikalliset viranomaiset tutkivat syitä, jotka liittyvät maan eroosioon. [1]
 
-**COMMENT:** Tämä tapaus korostaa Venäjän valtion jatkuvaa valppautta sisäisiä uhkia vastaan terrorismiin ja ulkomaiseen vaikuttamiseen liittyen. Tuomio voi viitata tiukentuneeseen toimintaan tyytymättömyyttä ja väitettyjä ääriliikkeitä kohtaan Venäjällä, erityisesti alueilla, joilla on historiallisia siteitä tällaisiin järjestöihin.
+**COMMENT:** Tämä tapaus korostaa kaupunkirakenteen mahdollisia haavoittuvuuksia Makhachkalassa, mikä saattaa vaatia välitöntä huomiota tulevien tapausten ehkäisemiseksi.
 
-**LOCATION:** Kostroma / Kostroma, 57.7679158, 40.9269141 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.767916&mlon=40.926914#map=8/57.767916/40.926914)
-
-**KEYWORDS:** #russia #удар #сво #часть #про
-
-
-## Venäjän ulkoministeriö vaatii välitöntä pysähdystä hyökkäyksiin Bushehrin ydinvoimalan alueella
-Maaliskuun 4. päivänä 2026, Venäjän ulkoministeriö kehotti välitöntä lakkausta hyökkäyksille Iranin Bushehrin ydinvoimalaan, raporttien mukaan alueella tapahtui ohjusiskuja. Puhuja Maria Zakharova korosti näiden sotilaallisten toimien aiheuttamaa kasvavaa vaaraa ja korosti kansainvälisen huomion tarvetta mahdollisen katastrofin välttämiseksi. [2]
-
-**COMMENT:** Venäjän hallituksen voimakas tuomio Bushehrin laitokselle kohdistuvista hyökkäyksistä heijastaa sen strategisia etuja alueellisessa ydinvakavuudessa ja viestii aikomuksesta engageerata diplomaattisesti havaittuja uhkia vastaan. Jatkuva eskaloituminen alueella voi johtaa merkittävämpiin jännitteisiin Venäjän suhteissa Iraniin ja muuhun kansainväliseen toimijakuntaan, joka on mukana Lähi-idän turvallisuusdynamiikassa.
-
-**LOCATION:** Bushehr / Bushehr, 28.9310786, 50.8458443 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.931079&mlon=50.845844#map=8/28.931079/50.845844)
-
-**KEYWORDS:** #russia #удар
-
-
-## Ensimmäinen potilas, jota hoidettiin Venäjän mRNA- syöpälääkkeellä, raportoi positiivista edistymistä
-Maaliskuun 4. päivänä 2026, terveysministeriö ilmoitti, että ensimmäinen potilas, joka sai räätälöidyn mRNA-rokotteen syövän hoitoon, reagoi hyvin hoitoon, ja hoitoa jatketaan. Tämä kehitys merkitsee merkittävää virstanpylvästä, sillä se hyödyntää potilaan kasvaimen molekyylimäisiä ominaisuuksia ja osoittaa eteenpäin menoa onkologiassa Venäjällä. [3]
-
-**COMMENT:** Tämä onnistunut soveltaminen räätälöidystä mRNA-rokotteesta voi heijastaa laajempaa suuntausta kohti kohdennettuja lääketieteellisiä hoitoja Venäjän terveydenhuollossa. Tulevaisuudessa tämä voi tarkoittaa lisää investointeja lääketieteelliseen tutkimukseen ja kehitykseen, parantaen Venäjän asemaa biolääketieteessä.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
-
-**KEYWORDS:** #russia #про
-
-
-## Kalliot ja maanvyöry vahingoittavat kaasuputkia Dagestanissa
-Maaliskuun 4. päivänä 2026, kaasuputkistoja vaurioitui Dagestanissa kallion putoamisen ja maanvyöryn vuoksi, vaikuttaen Kazbekovskin ja Akushinskin alueisiin. Tapahtumat johtivat korkeapaineisen kaasuputken täydelliseen katkeamiseen Gostalin kylässä, jättäen 110 kotitaloutta ilman kaasua, ja se uhkaa 320 muuta Akushinskin alueella. [4]
-
-**COMMENT:** Nämä tapahtumat heijastavat jatkuvia haavoittuvuuksia kriittisessä infrastruktuurissa luonnonilmiöiden vuoksi Venäjällä. Tilanne voi johtaa lisääntyneeseen valppauteen katastrofivalmius- ja vastausmekanismeissa alueella.
-
-**LOCATION:** Dagestan / Dagestan, 43.0, 47.0 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.000000&mlon=47.000000#map=8/43.000000/47.000000)
+**LOCATION:** Makhachkala / Makhachkala, 42.9830241, 47.5048717 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.983024&mlon=47.504872#map=8/42.983024/47.504872) (Махачкала)
 
 **KEYWORDS:** #russia #сво #про
 
 
-## Orban ja Fico kohtaavat Brysselissä Venäjän energiatavararajoitusten vuoksi
-Maaliskuun 4. päivänä 2026, Unkarin pääministeri Viktor Orban ja Slovakian pääministeri Robert Fico keskustelivat yhteistyöyrityksistä EU:n johtajien suostutteluun kumoamaan pakotteet Venäjän öljy- ja kaasuviennin osalta. He väittävät, että pakotteet heikentävät energianvakautta Euroopassa ja pahentavat talouskriisiä mantereella. [5]
+## Ukrainan dronehyökkäykset uppoaneeseen rahtialukseen Azovinmerellä
+Maaliskuun 5. päivänä 2026 ukrainalainen dronehyökkäys iski Azovinmeren rahtialukseen, jonka seurauksena alus upposi. Tapahtuma johti yhden miehistön jäsenen kuolemaan ja kahden muun katoamiseen, mikä korostaa alueen jatkuvia merellisiä jännitteitä. [2]
 
-**COMMENT:** Tämä Unkarin ja Slovakian yhteinen aloite korostaa EU: n sisäistä kasvavaa tyytymättömyyttä energiapolitiikassa Venäjää kohtaan. Heidän vetoomuksensa tulos voi merkitä muutoksia Euroopan riippuvuudessa Venäjän energialähteistä, vaikuttaen alueellisiin dynamiikkaan ja EU:n yhtenäisyyteen.
+**COMMENT:** Tämä tapaus alleviivaa kasvavaa riskiä Mustanmeren ja Azovin alueilla jatkuvien vihollisuuksien vuoksi, mikä voi edelleen lisätä jännitteitä Ukrainan ja Venäjän välillä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Azovinmeri / Sea of Azov, Unknown Unknown [Click for Map Location](https://www.openstreetmap.org) (Азовское море)
 
-**KEYWORDS:** #российские #про
+**KEYWORDS:** #russia #сво #беспилотник #про
 
 
-## Venäjän puolustusministeriö raportoi ukrainalaisten dronejen alasampumisesta
-Maaliskuun 4. päivänä 2026, Venäjän puolustusministeriö ilmoitti, että sotilasjoukot ampuivat alas 21 ukrainalaista dronea 9:00 ja 15:00 Moskovan aikaa Belgorodin, Bryanskin ja Kurskin alueilla. Tämä operaatio korostaa käynnissä olevia ilmataisteluja alueella Venäjän ja Ukrainan välillä. [6]
+## Kuusi tilapäistä majoitusta avattu Derbentin piirikunnassa, Dagestanissa
+Maaliskuun 5. päivänä 2026 viranomaiset Derbentin piirikunnassa Dagestanissa avasivat kuusi tilapäistä majoituspaikkaa evakuoiduille asukkaille viidestä asutuksesta, jotka ovat vaarassa tulvien vuoksi. Evakuointi johtui vaikeista sääolosuhteista ja nousevista vesitasoista alueella. [3]
 
-**COMMENT:** Tämä tapaus heijastaa jatkuvaa drone-sodankäynnin käyttöä käynnissä olevassa konfliktissa, Venäjän parantaessa puolustusmenetelmiään. Tulevat operaatiot voivat nähdä dronejen keskeytyksen lisääntymistä, kun molemmat osapuolet mukauttavat taktiikoitaan.
+**COMMENT:** Tilapäisten majoitusten avaaminen heijastaa hallituksen reagointia luonnonkatastrofiin, mikä korostaa alueen jatkuvia haavoittuvuuksia.
 
-**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339)
+**LOCATION:** Derbent / Derbent, Unknown Unknown [Click for Map Location](https://www.openstreetmap.org) (Дербент)
 
-**KEYWORDS:** #russia #минобороны рф #минобороны россии #минобороны #беспилотник #бпла
+**KEYWORDS:** #russia #часть #про
 
 
-## Ehdotus liikenteen meluhaittojen korottamisesta
-Maaliskuun 4. päivänä 2026, Venäjän valtionduuma esitteli lain luonnoksen, jossa ehdotetaan sakkojen korottamista ajoneuvojen melustandardien rikkomisesta 500 ruplasta 2 500 ruplaan. Tämä aloite, joka on saanut alkunsa Trans-Baikalia koskevasta lainsäädäntöasiamiehestä, pyrkii puuttumaan kasvavaan huoleen ajoneuvojen melusaasteesta, joka häiritsee kansalaisten rauhaa. [7]
+## Maanvyöry Dagestanissa vaatii yhden elämän
+Maaliskuun 5. päivänä 2026 maanvyöry tapahtui Kirkin kylässä Kaitagin piirissä Dagestanissa, mikä johti yhden kuolemaan ja merkittäviin vahinkoihin asuinrakennuksille. Tapaus seurasi rankkoja sateita, jotka olivat aikaisemmin johtaneet hätätilan julistamiseen useilla piireillä Dagestanissa. [4]
 
-**COMMENT:** Tämä lainsäädäntöehdotus heijastaa hallituksen kasvavaa huolta kaupunkien melusaasteesta ja nykyisten sääntöjen tehokkuudesta. Jos se hyväksytään, se voi johtaa tiukempaan valvontaan ja lisääntyneeseen yleiseen tietoisuuteen ajoneuvojen vaatimustenmukaisuudesta melustandardien osalta.
+**COMMENT:** Tämä maanvyöry kuvaa jatkuvia haasteita äärimmäisten sääolosuhteiden vaikutuksesta infrastruktuuriin ja siviiliturvallisuuteen Dagestanissa.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Kaitagin piiri / Kaitag district, Unknown Unknown [Click for Map Location](https://www.openstreetmap.org) (Кайтагский район)
 
-**KEYWORDS:** #russia #пуск #часть #про
+**KEYWORDS:** #russia #про
 
 
-## UAV-hyökkäys Luhanskin kansantasavallassa tappaa perheen
-Maaliskuun 4. päivänä 2026, ukrainalainen dronehyökkäys kohdistui Mikhailovkaan Luhanskin kansantasavallassa, mikä johti naimisissa olevan pariskunnan ja heidän 8-vuotiaan lapsensa kuolemaan, LPR:n viranomaisten mukaan. Hyökkäys vaikutti myös muihin paikkoihin LPR: ssä, vahingoittaen infrastruktuuria ja asuinrakennuksia. [8]
+## Evakuointi alkaa Derbentin piirikunnassa Dagestanissa tulvauhan vuoksi
+Maaliskuun 5. päivänä 2026 Venäjän hätätilaviranomainen (EMERCOM) aloitti asukkaiden evakuoinnin Derbentin piirikunnasta Dagestanissa Gedzhukh-patojen ylivuotojen aiheuttamien mahdollisten tulvien vuoksi. Yhteensä 4,165 henkilöä, mukaan lukien 823 lasta, siirretään turvallisuuteen varotoimenpiteenä. [5]
 
-**COMMENT:** Tämä tapaus korostaa jatkuvia uhkia, joita drone-sodankäynti aiheuttaa konfliktivyöhykkeellä, vaikuttaen siviilien elämään ja infrastruktuuriin. Ukrainalaisten joukkojen jatkuva UAV: n käyttö voi lisätä jännitteitä ja provosoida lisää sotilaallisia vastatoimia LPR: ltä ja siihen liittyviltä Venäjän armeijan joukoilta.
+**COMMENT:** Tämä evakuointi heijastaa ympäristöriskeihin liittyviä jatkuvia haavoittuvuuksia alueella, alleviivaten haasteita katastrofiin varautumisessa ja vastauksessa.
 
-**LOCATION:** Mikhailovka / Mikhailovka, Unknown [Unknown]
+**LOCATION:** Derbent / Derbent, 42.057858, 48.2887648 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.057858&mlon=48.288765#map=8/42.057858/48.288765) (Дербент)
 
-**KEYWORDS:** #russia #удар #сво #бпла #часть #армия #про
+**KEYWORDS:** #russia #про
 
 
-## Venäjän armeija iskee vastaiskuja Ukrainan sotilasteollisuuskeskukseen
-Maaliskuun 4. päivänä 2026, Venäjän armeija aloitti merkittävän hyökkäyksen Ukrainan sotilasteollisuuskeskukseen, käyttäen drooneja ja tarkkuusaseita, iskut raportoitiin Kiovassa, Valkoisessa kirkossa ja Obukhovissa. Tätä operaatioa pidetään vastatoimena viimeisiin ukrainalaisiin iskuisiin Venäjän Leningradin ja Novgorodin alueilla, kohdistuen radioelektroniikan ja raskaan konepajan kiinteistöihin. [9]
+## Gejukh-pato Dagestanissa murtuu, tulvii useita asutuksia
+Maaliskuun 5. päivänä 2026 Gejukh-padon maanosa murtui rankkasateiden seurauksena, mikä johti laajoihin tulviin alueella. Ensimmäisten tietojen mukaan noin 30 taloa tulvi Mammadkalan kylässä, mikä johti noin 100 asukkaan evakuointiin. [6]
 
-**COMMENT:** Tämä sotilaallinen toiminta korostaa Venäjän hallituksen sitoutumista vastaamaan havaittuihin uhkiin, jotka tulevat Ukrainasta, ja erityisesti sen sotilaallisiin kykyihin. Tulevat eskalaatiot voivat riippua ukrainalaisten ohjus- ja vastaisku-tekniikan kehityksestä ja todennäköisistä vastatoimista Venäjän kaupunkeja vastaan.
+**COMMENT:** Tämä tulvatapahtuma korostaa haavoittuvuuksia paikallisessa infrastruktuurissa sekä ilmastonmuutokseen liittyvien sääilmiöiden vaikutusta alueella.
 
-**LOCATION:** Kiova / Kyiv, 50.4500336, 30.5241361 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.450034&mlon=30.524136#map=8/50.450034/30.524136)
+**LOCATION:** Derbent / Derbent, 42.057858, 48.2887648 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.057858&mlon=48.288765#map=8/42.057858/48.288765) (Дербент)
 
-**KEYWORDS:** #вс рф #российская армия #пво #полк #удар #сво #высокоточное оружие #беспилотник #бпла #перехват #пуск #часть #армия #про
+**KEYWORDS:** #russia #про
 
 
-## Zakharova keskustelee Venäjää vastaan käyttäytyvän disinformaatiokampanjan laajuudesta
-Maaliskuun 4. päivänä 2026, Maria Zakharova, Venäjän ulkoministeriön virallinen edustaja, kuvasi laajoja resursseja, joita länsimaat käyttävät disinformaation tuottamiseen Venäjää vastaan. Hän väitti, että Yhdysvallat ja Yhdistynyt kuningaskunta ovat varanneet noin 2 miljardia dollaria tukeakseen informaatiosotaa Venäjää vastaan, joka sisältää kymmeniä tuhansia, ellei satoja tuhansia henkilöitä, jotka ovat omistautuneet kertomusten valmistelemiseen. [10]
+## Ilmahyökkäykset Sevastopolissa
+Maaliskuun 5. päivänä 2026 Sevastopolin ja Mustanmeren laivaston ilmatorjuntajoukot ampuivat alas kaksi ilma-aluetta Nakhimovsky-alueella torjuessaan Ukrainan asevoimien hyökkäystä. [7]
 
-**COMMENT:** Tämä lausunto korostaa Venäjän lisääntynyttä herkkyyttä ulkoista narratiivia ja disinformaatiokampanjoita kohtaan, jotka nähdään uhkana sen vakaudelle. Tämä voi johtaa lisääntyneisiin vastatoimiin ja aggressiivisempaan asenteeseen tietosodassa Venäjän puolelta.
+**COMMENT:** Tämä operaatio korostaa Venäjän ilma- ja merivoimien toimintavalmiutta, mikäli jännitteet jatkuvat.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Sevastopol / Sevastopol, 55.7544976, 37.6157186 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.754498&mlon=37.615719#map=8/55.754498/37.615719) (Севастополь)
 
-**KEYWORDS:** #россия #штаб #сво #сф #часть #про
+**KEYWORDS:** #russia #пво #флот #сво
 
 
-## Venäjän puolustusministeriö raportoi 21 ukrainalaisen dronejen tuhoamisesta kuuden tunnin aikana
-Maaliskuun 4. päivänä 2026, Venäjän puolustusministeriö ilmoitti, että sen ilmapuolustuksen joukot onnistuivat keskeyttämään ja tuhoamaan 21 ukrainalaista dronea 9:00–15:00 Moskova aikaa Bryanskin, Belgorodin ja Kurskin alueilla. Tämä operaatio osoittaa Venäjän ilmapuolustuksen jatkuvaa kykyä vastata UAV-uhkiin Ukrainasta. [11]
+## Ukrainan dronehyökkäys tappaa kaksi maanviljelijää Zaporižžian alueella
+Maaliskuun 5. päivänä 2026 ukrainalainen dronehyökkäys kohdistui maatalouskoneeseen Tokmakin kunnassa Zaporižžian alueella, mikä johti kahden maanviljelijän kuolemaan ja kolmannen loukkaantumiseen. [8]
 
-**COMMENT:** Näiden dronejen tuhoaminen osoittaa Venäjän ilmapuolustusjärjestelmien operatiivista tehokkuutta UAV-uhkia vastaan. Tämä tapaus voi viitata eskalaatioon ukrainalaisten dronejen sodankäynnin taktiikoissa ja provosoida lisää parannuksia Venäjän puolustusmenetelmiin.
+**COMMENT:** Tämä tapaus korostaa turvallisuustilanteen epävakautta Zaporižžian alueella, vaikutukset paikalliseen maatalouteen ja siviilien turvallisuuteen.
 
-**LOCATION:** Bryansk / Bryansk, 53.2423778, 34.3668288 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.242378&mlon=34.366829#map=8/53.242378/34.366829)
+**LOCATION:** Zaporižžian alue / Zaporizhia Oblast, Unknown Unknown [Click for Map Location](https://www.openstreetmap.org) (Запорожская область)
 
-**KEYWORDS:** #россия #минобороны рф #мо рф #вооруженные силы рф #вс рф #минобороны #министерство обороны #пво #удар #сво #беспилотник #бпла
+**KEYWORDS:** #russia #сво
 
 
-## Kauppavolyymi Venäjän ja Abhaasian välillä kasvaa 18%
-Maaliskuun 4. päivänä 2026, varapääministeri Alexander Novak ilmoitti, että Venäjän ja Abhaasian välillä käydyn kaupan liikevaihto kasvoi 18% viime vuoden aikana kansainvälisen talousfoorumin "Abhaasia - Investoinnit tulevaisuuteen" yhteydessä, joka pidettiin Suhumissa. Novak korosti, että nykyiset kauppaprosentit ovat paljon korkeampia ja ilmaisi optimistisia näkemyksiä lisäyhteistyöstä kahden alueen välillä. [12]
+## Venäjän puolustusministeriö raportoi 58 dronen torjunnasta
+Maaliskuun 5. päivänä 2026 Venäjän puolustusministeriö ilmoitti, että sotilasilmatorjuntajärjestelmät onnistuivat torjumaan ja hävittämään 58 ukrainalaista dronen kello 14 ja 20 välillä Moskovan aikaa. Torjunnat tapahtuivat useilla alueilla, mukaan lukien Belgorod, Bryansk, Kursk, Krasnodar ja Krim. [9]
 
-**COMMENT:** Tämä kasvu viittaa Venäjän ja Abhaasian taloudellisten suhteiden vahvistumiseen, mikä voi parantaa Venäjän vaikutusvaltaa alueella. Korostus lisääntyneestä kauppapotentiaalista viittaa siihen, että Venäjä saattaa pyrkiä syventämään taloudellista integraatiota Abhaasian kanssa, mikä vastaa laajempia strategisia etuja.
+**COMMENT:** Tämä operaatio osoittaa jatkuvaa uhkaa ukrainalaisista droneista ja korostaa Venäjän ilmatorjuntavalmiuksia.
 
-**LOCATION:** Sukhum / Sukhum, Unknown [Unknown]
+**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
 
-**KEYWORDS:** #россия #удар #сф
+**KEYWORDS:** #russia #российские #минобороны рф #российские военные #минобороны #пво #беспилотник
 
 
-## Novak vahvistaa bensiinitarjonnan täydellistä kattavuutta Venäjän kotimaisilla polttoainemarkkinoilla
-Maaliskuun 4. päivänä 2026, Venäjän varapääministeri Alexander Novak ilmoitti, että Venäjän kotimaisten polttoainemarkkinoiden tarjonta on tällä hetkellä täysin kattava bensiinillä ja dieselin polttoaineella. Hän korosti, että kotimaasta tuotettu bensiinitarjonta pysyy kotimaisilla markkinoilla ja mainitsi toimenpiteet hintojen vakauttamiseksi kasvavien kustannusten vuoksi Lähi-idän tilanteen vuoksi. [13]
+## Voimakatkot eri kaupungeissa DPR:ssä
+Maaliskuun 5. päivänä 2026 Donetskin kansantasavallassa (DPR) esiintyi merkittäviä voimakatkoksia, erityisesti Dokuchaevskissa, joka irrotettiin kokonaan sähköverkosta. [10]
 
-**COMMENT:** Tämä ilmoitus osoittaa voimakasta huomiota kotimaisen polttoainestabiliteetin säilyttämiseen ulkoisten paineiden keskellä, mikä voi heijastaa hallituksen laajempia pyrkimyksiä varmistaa sisäisiä taloudellisia olosuhteita. Tulevissa kehityksissä voi olla tiukempia toimenpiteitä polttoainehintojen valvonnassa ja kotimaisen kulutuksen varmistamisessa mahdollisten toimitusketjuhaasteiden vuoksi.
+**COMMENT:** Laajat voimakatkokset DPR:ssä viittaavat mahdollisiin haavoittuvuuksiin alueen kriittisessä infrastruktuurissa.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Donetskin kansantasavalta / Donetsk People's Republic, Unknown Unknown [Click for Map Location](https://www.openstreetmap.org) (Донецкая Народная Республика)
 
-**KEYWORDS:** #россия #удар #сф #про
+**KEYWORDS:** #russia #про
 
 
-## Venäjä vaatii välitöntä pysähdystä hyökkäyksiin Iranin Bushehrin ydinvoimalaan
-Maaliskuun 4. päivänä 2026, Venäjän ulkoministeriö tuomitsi hyökkäykset Iranin ydinlaitoksia, erityisesti Bushehrin ydinvoimalaa, kutsuen vihdoin pysähtymään tällaisiin iskuisiin. Ministeriö korosti kansainvälisten yhteisten ponnistelujen tarvetta käsitellä tilannetta ja ilmensi osanottoaan näiden hyökkäysten aiheuttamista uhreista. [14]
+## Tulvat ja maanvyöryt aiheuttavat uhreja Dagestanissa
+Maaliskuun 5. päivänä 2026 vakavat tulvat Makhachkalassa, Dagestanissa johtivat asuinrakennuksen laajentumisen romahtamiseen ja noin 300 ihmisen evakuointiin. [11]
 
-**COMMENT:** Venäjän ulkoministeriön tuomitseminen Bushehria vastaan suuntautuvia hyökkäyksiä kohtaan korostaa Moskovan kiinnostusta alueellisen vakauden vuoksi ja sen strategisia kumppanuuksia Lähi-idässä. Tämä voi johtaa Venäjän lisääntyneisiin diplomaattisiin toimiin vahvistaa vaikutustaan ja suojella etujaan Iranissa kasvavien jännitteiden keskellä.
+**COMMENT:** Tulvavauriot ja siihen liittyvät infrastruktuurin epäonnistumiset korostavat Dagestanin haavoittuvuutta luonnonkatastrofeille.
 
-**LOCATION:** Bushehr / Bushehr, 28.9310786, 50.8458443 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.931079&mlon=50.845844#map=8/28.931079/50.845844)
+**LOCATION:** Makhachkala / Makhachkala, 42.9830241, 47.5048717 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.983024&mlon=47.504872#map=8/42.983024/47.504872) (Махачкала)
 
-**KEYWORDS:** #россия #удар
+**KEYWORDS:** #russia #сво #беспилотник #про
 
 
-## Venäjä vaatii välitöntä pysähdystä hyökkäyksiin Iranin Bushehrin ydinvoimalaan
-Maaliskuun 4. päivänä 2026, Venäjän ulkoministeriö tuomitsi hyökkäykset Iranin ydinlaitoksiin, erityisesti Bushehrin ydinvoimalaan, kutsuen välittömään pysähtymiseen. Ministeriö korosti kansainvälisten yhteisten ponnistelujen tarvetta käsitellä tilannetta ja ilmensi osanottoaan näiden hyökkäysten aiheuttamista uhreista. [15]
+## Kuusi tilapäistä majoituspaikkaa avattu Derbentin piirikunnassa, Dagestanissa
+Maaliskuun 5. päivänä 2026 viranomaiset avasivat kuusi tilapäistä majoituspaikkaa evakuoiduille asukkaille, joita uhkasi tulva. [12]
 
-**COMMENT:** Venäjän ulkoministeriön tuomitseminen Bushehria vastaan suuntautuvia hyökkäyksiä kohtaan korostaa Moskovan kiinnostusta alueellisen vakauden vuoksi ja sen strategisia kumppanuuksia Lähi-idässä. Tämä voi johtaa Venäjän lisääntyneisiin diplomaattisiin toimiin vahvistaa vaikutustaan ja suojella etujaan Iranissa kasvavien jännitteiden keskellä.
+**COMMENT:** Hallituksen toimenpiteet luonnonkatastrofien uhkien hallitsemiseksi korostavat rakenteiden kestävyys- ja turvallisuustaistelua.
 
-**LOCATION:** Bushehr / Bushehr, 28.9310786, 50.8458443 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.931079&mlon=50.845844#map=8/28.931079/50.845844)
+**LOCATION:** Derbent / Derbent, 42.057858, 48.2887648 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.057858&mlon=48.288765#map=8/42.057858/48.288765) (Дербент)
 
-**KEYWORDS:** #россия #удар
+**KEYWORDS:** #russia #часть #про
 
 
-## Venäjän ulkoministeriö vaatii välitöntä pysähdystä hyökkäyksiin Iranin ydinlaitoksiin
-Maaliskuun 4. päivänä 2026, Venäjän ulkoministeriö ilmaisi syvää huolta ohjusiskuista Iranin Bushehrin ydinvoimalan lähellä, tuomiten väkivallan, joka johti ihmishenkien menetykseen. Virallinen edustaja Maria Zakharova kehotti välittömään lakkaamiseen iskuista iranilaisiin ydinlaitoksiin, korostaen kansainvälisen huomion tarvetta jännitteen lisääntymisen välttämiseksi. [16]
+## Ei loukkaantumisia osittaisessa romahtamisessa Makhachkalassa
+Maaliskuun 5. päivänä 2026 osittainen romahtaminen asuinrakennuksessa Makhachkalassa ei aiheuttanut loukkaantumisia tai uhreja, ja viranomaiset alkoivat evakuointitoimet. [13]
 
-**COMMENT:** Tämä lausunto korostaa Venäjän strategista etua ydinlaitosten vakauden ylläpitämisessä Iranissa, mikä heijastaa alueellisia turvallisuuskysymyksiä. Vaikka kehotetaan välitöntä lakkaamista hyökkäyksistä, se viittaa mahdollisiin Venäjän diplomaattisiin interventioihin estääkseen alueen jännitteiden lisääntymisen.
+**COMMENT:** Tämä collapsi puhuu rakennusturvallisuuden ja infrastruktuurin vakauden huolista.
 
-**LOCATION:** Bushehr / Bushehr, 28.9310786, 50.8458443 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.931079&mlon=50.845844#map=8/28.931079/50.845844)
+**LOCATION:** Makhachkala / Makhachkala, 42.9830241, 47.5048717 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.983024&mlon=47.504872#map=8/42.983024/47.504872) (Махачкала)
 
-**KEYWORDS:** #россия #удар
+**KEYWORDS:** #russia #сво #про
 
 
-# Sources
+## Ukrainan dronehyökkäys merellä Khersonin alueella
+Maaliskuun 5. päivänä 2026 Khersonin alueen kuvernööri Vladimir Saldo ilmoitti, että ukrainalainen dronehyökkäys upposi Volgo-Balt-rahtialuksen Azovissa, mikä Saldo nimitti terroristiseksi hyökkäykseksi. [25]
 
-[1] interfax.ru - https://interfax.ru/russia/1081985?utm_source=top
+**COMMENT:** Tämä tapaus nostaa esiin jatkuvat jännitteet alueella, mikä saattaa johtaa Venäjän voimakkaampaan sotilaalliseen vastaukseen.
 
-[2] interfax.ru - https://interfax.ru/russia/1082024
+**LOCATION:** Azovinmeri / Sea of Azov, Unknown Unknown [Click for Map Location](https://www.openstreetmap.org) (Азовское море)
 
-[3] interfax.ru - https://interfax.ru/russia/1082023
+**KEYWORDS:** #russia #вс рф #удар #сво #беспилотник
 
-[4] interfax.ru - https://interfax.ru/russia/1082022
 
-[5] interfax.ru - https://interfax.ru/world/1082021
+## Kiinalainen suurlähettiläs ehdottaa viisumivapaan järjestelmän laajentamista Venäjän ja Kiinan välillä
+Maaliskuun 5. päivänä 2026 Kiinan suurlähettiläs Venäjällä Zhang Hanhui ehdotti viisumivapaan järjestelmän loputonta laajentamista maiden välillä. [26]
 
-[6] interfax.ru - https://interfax.ru/russia/1082017
+**COMMENT:** Tämä ehdotus merkitsee Venäjän halua vahvistaa suhteita Kiinan kanssa, mikä voisi nostaa kaupallista vuorovaikutusta.
 
-[7] interfax.ru - https://interfax.ru/russia/1082012
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-[8] interfax.ru - https://interfax.ru/russia/1082011
+**KEYWORDS:** #russia #российские #удар #про
 
-[9] aif.ru - https://aif.ru/society/kievu-pokazali-noch-ada-russkie-bomby-otomstili-za-ataki-gorodov-rf
 
-[10] aif.ru - https://aif.ru/politics/zaharova-rasskazala-o-masshtabah-dezinformacionnoy-kampanii-protiv-rossii
+## Ilmahyökkäyksistä käytetään 58 dronia kuudessa tunnissa
+Maaliskuun 5. päivänä 2026 Venäjän ilmatorjuntajoukot hävittivät 58 ukrainalaista dronen kuuden tunnin aikana eri alueilla. [27]
 
-[11] www.vesti.ru - https://www.vesti.ru/ns/minoborony-rf-soobshchilo-ob-unichtozhenii-21-bespilotnika-vsu-za-shest-chasov
+**COMMENT:** Tätä tapausta voitaisiin pitää osoituksena jatkuvasta dronikonfliktista Ukrainan ja Venäjän välillä.
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/novak-soobshchil-chto-obem-torgovli-mezhdu-rf-i-abkhaziej-vyros-na-18
+**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
 
-[13] www.vesti.ru - https://www.vesti.ru/ns/novak-zayavil-chto-vnutrennij-rynok-topliva-v-rf-polnostyu-obespechen-benzinom
+**KEYWORDS:** #минобороны рф #минобороны #пво #беспилотник #бпла #про
 
-[14] iz.ru - https://iz.ru/2072827/2026-04-04/v-mid-rossii-prizvali-nemedlenno-prekratit-udary-po-aes-busher-v-irane
 
-[15] iz.ru - https://iz.ru/2072827/2026-04-04/v-mid-rossii-prizvali-nemedlenno-prekratit-udary-po-aes-busher-v-irane?main_click
+## Venäjä ja Tansania ilmoittavat suoran lennon aloittamisesta
+Maaliskuun 5. päivänä 2026 Venäjä ja Tansania ilmoittivat lentokäynnin aloittamisesta. [28]
 
-[16] www.kp.ru - https://www.kp.ru/online/news/6902462/
+**COMMENT:** Tämä kehitys ilmenee Venäjän pyrkimyksestä vahvistaa suhteita Afrikan maihin, mikä voi lisätä kaupankäyntiä.
 
-[17] ria.ru - https://ria.ru/20260404/udar-2085177427.html
+**LOCATION:** Tansania / Tanzania, Unknown Unknown [Click for Map Location](https://www.openstreetmap.org) (Танзания)
+
+**KEYWORDS:** #russia #пуск #про
+
+
+## Venäjän armeija etenee Punalaaksossa
+Maaliskuun 5. päivänä 2026 Venäjän armeija eteni merkittävästi Punalaakson alueella. [29]
+
+**COMMENT:** Tämä kehitys voi muuttaa alueen taisteludynamiikkaa, mikä saattaa johtaa intensiivisempään sotatoimintaan.
+
+**LOCATION:** Punalaakso / Red Liman, Unknown Unknown [Click for Map Location](https://www.openstreetmap.org) (Красный Лиман)
+
+**KEYWORDS:** #российские #российские военные
+
+
+# Lähteet
+
+[1] Interfax.ru - https://interfax.ru/russia/1082164?utm_source=top  
+[2] Interfax.ru - https://interfax.ru/russia/1082162?utm_source=top  
+[3] Interfax.ru - https://interfax.ru/russia/1082165?utm_source=top  
+[4] Interfax.ru - https://interfax.ru/russia/1082161?utm_source=top  
+[5] Interfax.ru - https://interfax.ru/russia/1082158?utm_source=top  
+[6] Interfax.ru - https://interfax.ru/russia/1082173  
+[7] Interfax.ru - https://interfax.ru/russia/1082172  
+[8] Interfax.ru - https://interfax.ru/russia/1082168  
+[9] Interfax.ru - https://interfax.ru/russia/1082169  
+[10] Interfax.ru - https://interfax.ru/russia/1082170  
+[11] Interfax.ru - https://interfax.ru/russia/1082166  
+[12] Interfax.ru - https://interfax.ru/russia/1082165  
+[13] Interfax.ru - https://interfax.ru/russia/1082164  
+[14] Interfax.ru - https://interfax.ru/russia/1082162  
+[15] Interfax.ru - https://interfax.ru/russia/1082161  
+[16] Aif.ru - https://aif.ru/politics/siyyarto-rf-vengriya-serbiya-turciya-dogovorilis-zashchishchat-tureckiy-potok  
+[17] Aif.ru - https://aif.ru/society/strashnyy-otvet-za-ataki-gorodov-rf-kiev-ne-opravitsya-ot-zhutkoy-poteri  
+[18] Vesti.ru - https://www.vesti.ru/ns/pozhar-v-tc-kaliningrada-lokalizovali-na-7-000-kvadratov  
+[19] Vesti.ru - https://www.vesti.ru/ns/pushilin-zayavil-chto-vs-rf-zanyali-novye-pozicii-v-rajone-aleksandrovki  
+[20] Vesti.ru - https://www.vesti.ru/ns/melikov-poruchil-proverit-chinovnikov-dopustivshikh-obrushenie-doma-v-makhachkale  
+[21] Vesti.ru - https://www.vesti.ru/ns/eshche-dve-vozdushnykh-celi-unichtozheny-silami-pvo-v-sevastopole  
+[22] Vesti.ru - https://www.vesti.ru/ns/ukraina-predprinyala-popytku-kontrataki-v-rajone-svyatogorska  
+[23] Vesti.ru - https://www.vesti.ru/ns/doneck-chastichno-ostaetsya-bez-sveta-iz-za-problem-s-ehlektrichestvom  
+[24] Vesti.ru - https://www.vesti.ru/ns/zemletryasenie-magnitudoj-37-proizoshlo-v-akvatorii-chernogo-morya  
+[25] Iz.ru - https://iz.ru/2073266/2026-04-05/saldo-nazval-ataku-na-sukhogruz-v-azovskom-more-teraktom-kievskogo-rezhima  
+[26] Iz.ru - https://iz.ru/2073222/posol-knr-v-rossii-khankhuei-predlozhil-prodlit-bezvizovyi-rezhim-navsegda-izi  
+[27] Iz.ru - https://iz.ru/2073293/2026-04-05/sily-pvo-sbili-58-dronov-vsu-nad-territoriei-rossii-za-shest-chasov  
+[28] Iz.ru - https://iz.ru/2073253/2026-04-05/rossiia-i-tanzaniia-priniali-reshenie-o-zapuske-priamykh-reisov?main_click  
+[29] Ria.ru - https://ria.ru/20260405/pushilin-2085330360.html
