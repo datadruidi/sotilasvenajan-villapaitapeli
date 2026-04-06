@@ -1,325 +1,269 @@
-# Report Date: 2026-04-05
+# Report Date: 2026-04-06
 
 ## Summary
-During the reporting period, various incidents in Dagestan and surrounding regions underscored significant vulnerabilities related to infrastructure and environmental hazards, including flooding and landslides. The ongoing military tensions continue to impact maritime security with notable drone attacks on civilian vessels. In response to recent disasters, local authorities have begun evacuations and investigations into safety regulations. In the near term, increased scrutiny on infrastructure resilience and military preparedness appears likely.
+During the reporting period, multiple significant events unfolded across Russia and Ukraine, including corruption allegations against regional officials, incidents of violence in eastern Ukraine, and concerns over public safety following industrial accidents. The sentencing of former Kursk governor Alexei Smirnov emphasizes the Kremlin's ongoing anti-corruption initiatives, while the deaths and injuries resulting from recent fires and conflicts reflect deep-seated challenges regarding public safety and security. As military operations continue, there are indications of potential escalations which may influence regional stability and geopolitical dynamics.
 
-## No Victims in Makhachkala Apartment Building Collapse
-On April 5th, 2026, a partial collapse of a three-storey extension to a six-storey apartment building occurred on Aivazovsky Street in Makhachkala, Dagestan, resulting in no casualties. The incident prompted the evacuation of residents, and local authorities are investigating the cause related to soil erosion. [1]
+## Former Kursk Governor Sentenced to 14 Years for Bribery
+On April 6th, 2026, the Leninsky district court in Kursk sentenced former governor Alexei Smirnov to 14 years in prison and fined him 400 million rubles for receiving large bribes. His conviction also includes a ten-year ban from holding any state or municipal positions, indicating ongoing efforts to enforce anti-corruption measures within regional governance. [1]
 
-**COMMENT:** The incident highlights potential vulnerabilities in urban infrastructure in Makhachkala, which may require immediate attention to prevent future occurrences. It could also prompt increased oversight of building safety regulations in the region.
+**COMMENT:** This case reflects the continued focus on corruption within the ranks of local officials, a significant issue for the Kremlin as it seeks to maintain internal stability. The high-profile nature of this conviction may deter similar misconduct in other regions, but it could also highlight potential vulnerabilities within local governance structures.
 
-**LOCATION:** Makhachkala / Makhachkala, 42.9830241, 47.5048717 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.983024&mlon=47.504872#map=8/42.983024/47.504872) (Махачкала)
+**LOCATION:** Kursk / Kursk, 51.7270357, 36.192248 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.727036&mlon=36.192248#map=8/51.727036/36.192248) (Курск)
 
-**KEYWORDS:** #russia #сво #про
-
-
-## Ukrainian Drone Attacks Sunken Bulk Carrier in Azov Sea
-On April 5th, 2026, a bulk carrier in the Sea of Azov was attacked by a Ukrainian drone, according to Kherson region governor Vladimir Saldo. The attack caused the vessel to sink, resulting in one crew member's death, with two others missing, highlighting the ongoing maritime tensions in the region. [2]
-
-**COMMENT:** This incident underscores the heightened risks in the Black Sea and Azov regions due to ongoing hostilities, which may further escalate tensions between Ukraine and Russia. The implications for maritime security and merchant shipping in these waters could be significant, necessitating a reassessment of operational safety measures.
-
-**LOCATION:** Sea of Azov / Sea of Azov, Unknown, Unknown [Click for Map Location](Unknown) (Азовское море)
-
-**KEYWORDS:** #russia #сво #беспилотник #про
+**KEYWORDS:** #russia #штаб #удар #сво #про
 
 
-## Six Temporary Accommodations Opened in Derbent District, Dagestan
-On April 5th, 2026, authorities in the Derbent district of Dagestan opened six temporary accommodation points for residents evacuated from five settlements threatened by flooding. Evacuations were prompted by severe weather conditions leading to rising water levels in the region. [3]
+## Nizhnekamskneftekhim Fire Claims Eleven Lives; Search for Missing Employee Continues
+On April 6th, 2026, the fire at Nizhnekamskneftekhim claimed a total of 11 lives, with efforts continuing to locate one missing employee. In addition, 25 individuals were hospitalized across medical centers in Moscow, Kazan, and Nizhnekamsk, prompting the company to initiate compensation for victims and their families. [2]
 
-**COMMENT:** The opening of temporary accommodations reflects the government's response to natural disasters, highlighting ongoing vulnerabilities in the region. This situation may lead to increased state focus on disaster preparedness and infrastructure resilience in Dagestan.
+**COMMENT:** This incident highlights ongoing safety and regulatory challenges within Russian industrial sectors, particularly in high-risk environments. Moving forward, the company's response may trigger scrutiny over safety standards and emergency response protocols in the chemical industry.
 
-**LOCATION:** Derbent District / Derbent, Unknown, Unknown [Click for Map Location](Unknown) (Дербентский район)
-
-**KEYWORDS:** #russia #часть #про
-
-
-## Landslide in Dagestan Claims One Life
-On April 5th, 2026, a landslide occurred in the village of Kirki in the Kaitag district of Dagestan, resulting in one confirmed fatality and significant damage to residential structures. The incident followed heavy rains that had previously prompted a state of emergency across multiple districts in Dagestan due to flooding and other related issues. [4]
-
-**COMMENT:** This landslide reflects ongoing challenges with extreme weather conditions impacting infrastructure and civilian safety in Dagestan. The need for emergency response readiness may increase as similar weather events become more frequent, highlighting vulnerabilities in local disaster preparedness.
-
-**LOCATION:** Kaitag district / Kaitag district, Unknown, Unknown [Click for Map Location](Unknown) (Кайтаговский район)
+**LOCATION:** Nizhnekamsk / Nizhnekamsk, 55.6412879, 51.8160376 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.641288&mlon=51.816038#map=8/55.641288/51.816038) (Нижнекамск)
 
 **KEYWORDS:** #russia #про
 
 
-## Evacuation Begins in Derbent District of Dagestan Due to Flooding Threat
-On April 5th, 2026, the Russian Emergency Situations Ministry (EMERCOM) commenced the evacuation of residents from the Derbent district in Dagestan due to potential flooding caused by the overflow of the Gedzhukh reservoir. A total of 4,165 individuals, including 823 children, are being relocated to safety as a precautionary measure, with temporary accommodation points established in local villages. [5]
+## Convict from Crocus City Hall Attack Commits Suicide in Jail
+On April 6th, 2026, a life-sentenced accomplice of the Crocus City Hall terrorist attack was found dead in his cell at SIZO-1 in Moscow, having committed suicide. The authorities are conducting a pre-investigation check regarding this incident to assess the circumstances surrounding his death. [3]
 
-**COMMENT:** This evacuation reflects ongoing vulnerabilities related to environmental hazards in the region, underscoring challenges in disaster preparedness and response. The EMERCOM's proactive measures may indicate heightened focus on managing internal stability and emergency situations in strategically significant areas like Dagestan.
-
-**LOCATION:** Derbent / Derbent, 42.057858, 48.2887648 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.057858&mlon=48.288765#map=8/42.057858/48.288765) (Дербент)
-
-**KEYWORDS:** #russia #про
-
-
-## Gejukh Reservoir in Dagestan Bursts, Flooding Multiple Settlements
-On April 5th, 2026, the earthshaft of the Gejukh reservoir in the Derbent district of Dagestan burst due to heavy rainfall, leading to extensive flooding in the area. Preliminary reports indicate that around 30 houses were flooded in the village of Mammadkala, prompting the evacuation of approximately 100 residents as emergency services responded to the incident. [6]
-
-**COMMENT:** This flooding event highlights vulnerabilities in local infrastructure and the impact of climate-related weather patterns in the region. The response by emergency services could indicate a focus on increasing readiness and resilience measures against natural disasters in Dagestan.
-
-**LOCATION:** Derbent / Derbent, 42.057858, 48.2887648 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.057858&mlon=48.288765#map=8/42.057858/48.288765) (Дербент)
-
-**KEYWORDS:** #russia #про
-
-
-## Two Air Targets Shot Down Over Sevastopol
-On April 5th, 2026, Governor Mikhail Razvozhaev announced that the air defense forces of Sevastopol and the Black Sea Fleet successfully shot down two air targets in the Nakhimovsky district as they repelled an attack from the Ukrainian Armed Forces. This incident underscores ongoing military tensions in the region amidst the conflict. [7]
-
-**COMMENT:** The successful interception of aerial threats in Sevastopol highlights the operational readiness of the Russian air defense system. Continued hostilities may lead to heightened security measures and further military engagements in the area.
-
-**LOCATION:** Sevastopol / Sevastopol, 55.7544976, 37.6157186 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.754498&mlon=37.615719#map=8/55.754498/37.615719) (Севастополь)
-
-**KEYWORDS:** #russia #пво #флот #сво
-
-
-## Ukrainian Drone Attack Kills Two Farmers in Zaporizhia Region
-On April 5th, 2026, a Ukrainian drone strike targeted agricultural machinery near the village of Kohano in the Tokmak municipal district of Zaporizhia region, resulting in the deaths of two farmers and injuring a third, as reported by the regional governor Yevgeny Balitsky. The attack highlights ongoing hostilities in the region amid the ongoing conflict. [8]
-
-**COMMENT:** This incident underscores the volatility of the security situation in Zaporizhia, with direct impacts on local agriculture and civilian safety. Increased drone activity could signal escalating tensions and the potential for more severe confrontations in the region.
-
-**LOCATION:** Zaporizhia Oblast / Zaporizhia Oblast, Unknown, Unknown [Click for Map Location](Unknown) (Запорожская область)
-
-**KEYWORDS:** #russia #сво
-
-
-## Russian Defense Ministry Reports Interception of 58 Drones
-On April 5th, 2026, the Russian Defense Ministry announced that military air defense systems successfully intercepted and destroyed 58 Ukrainian drones between 14:00 and 20:00 Moscow time. The interceptions occurred over several regions including Belgorod, Bryansk, Kursk, Krasnodar, Crimea, and the waters of the Azov and Black Seas. [9]
-
-**COMMENT:** This operation indicates a persistent threat from Ukrainian drone activity and showcases Russia's ongoing air defense capabilities. The interception of these drones may influence future military planning and operations in the region.
-
-**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
-
-**KEYWORDS:** #russia #российские #минобороны рф #российские военные #минобороны #пво #беспилотник
-
-
-## Power Outages Reported Across Several Cities in the DPR
-On April 5th, 2026, the Donetsk People's Republic (DPR) experienced significant power disruptions, particularly affecting the city of Dokuchaevsk, which was fully de-energized due to an emergency disconnection. Residents in other cities, including Donetsk, Makeyevka, and Mariupol, reported partial or complete power outages, although the causes for these disruptions remain unclear. [10]
-
-**COMMENT:** The widespread power outages in the DPR indicate potential vulnerabilities in the region's critical infrastructure. In the near term, this incident may lead to increased scrutiny of energy reliability and security measures within the affected areas.
-
-**LOCATION:** Donetsk People's Republic / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](Unknown) (Донецкая Народная Республика)
-
-**KEYWORDS:** #russia #про
-
-
-## Flooding and Landslide Cause Casualties in Dagestan on April 5th
-On April 5th, 2026, heavy flooding in Makhachkala, Dagestan led to the collapse of an extension to a residential house and the evacuation of around 300 people. A landslide in the Dagestani village of Kirki resulted in one fatality, highlighting ongoing infrastructure issues exacerbated by environmental challenges in the region. [11]
-
-**COMMENT:** The flooding and associated infrastructure failures underline the vulnerability of Dagestan to natural disasters, reflecting poorly on local governance and emergency preparedness. This incident may prompt increased scrutiny and urgent responses from regional authorities to improve resilience against such environmental risks.
-
-**LOCATION:** Makhachkala / Makhachkala, 42.9830241, 47.5048717 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.983024&mlon=47.504872#map=8/42.983024/47.504872) (Махачкала)
-
-**KEYWORDS:** #russia #сво #беспилотник #про
-
-
-## Six Temporary Accommodation Centers Opened in Derbent District of Dagestan
-On April 5th, 2026, authorities in the Derbent district of Dagestan opened six temporary accommodation points for residents evacuated from five settlements threatened by flooding. The evacuation affected areas such as Mikhailovka and Chinar village; the emergency centers provide a total of 620 places for displaced individuals. [12]
-
-**COMMENT:** The establishment of temporary accommodations reflects the Russian government's response to natural disaster threats and its efforts to maintain public safety. As such events occur, they may prompt discussions about infrastructure resilience and emergency preparedness measures in the region.
-
-**LOCATION:** Derbent / Derbent, 42.057858, 48.2887648 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.057858&mlon=48.288765#map=8/42.057858/48.288765) (Дербент)
-
-**KEYWORDS:** #russia #часть #про
-
-
-## No Injuries Reported in Partial Collapse of Apartment Building in Makhachkala
-On April 5th, 2026, a partial collapse of a residential building occurred on Aivazovsky Street in Makhachkala, Dagestan, due to soil erosion. Fortunately, no injuries or fatalities were reported, and local authorities have begun evacuation efforts and initiated a negligence investigation into the incident. [13]
-
-**COMMENT:** The collapse highlights ongoing concerns regarding building safety and infrastructure stability in Russian regions. Future implications may include intensified scrutiny of construction practices and an increased focus on regulatory enforcement in similar areas.
-
-**LOCATION:** Makhachkala / Makhachkala, 42.9830241, 47.5048717 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.983024&mlon=47.504872#map=8/42.983024/47.504872) (Махачкала)
-
-**KEYWORDS:** #russia #сво #про
-
-
-## Ukrainian Drone Attacks Shipwreck in the Azov Sea
-On April 5th, 2026, a sunken bulk carrier in the Sea of Azov off the coast of Kherson region was attacked by a Ukrainian drone, according to regional governor Vladimir Saldo. The incident, which he described as a terrorist attack by Ukraine, resulted in one crew member being killed, while others were rescued and provided assistance after abandoning the sinking vessel. [14]
-
-**COMMENT:** This drone strike highlights the ongoing hostilities and rising tensions in the region, reflecting Ukraine's continued military capability against Russian interests. Such incidents may spur further escalations in conflict dynamics and security responses from Russian authorities in the area.
-
-**LOCATION:** Kherson region / Kherson region, Unknown, Unknown [Click for Map Location](Unknown) (Херсонская область)
-
-**KEYWORDS:** #russia #сво #беспилотник #про
-
-
-## Landslide in Dagestan Kills One Person
-On April 5th, 2026, a landslide in the village of Kirki, Kaitag district of Dagestan, resulted in one fatality and significant property damage, with a house completely destroyed and five others threatened. This incident follows heavy rains that have caused widespread flooding and emergency declarations in various districts across Dagestan. [15]
-
-**COMMENT:** The incident underscores the ongoing vulnerability of infrastructure in Dagestan to weather-related disasters, particularly in light of recent flooding. Continued state emergency measures may indicate strain on local governance and resource allocation amidst such environmental challenges.
-
-**LOCATION:** Kaitag district / Kaitag district, Unknown, Unknown [Click for Map Location](Unknown) (Кайтаговский район)
-
-**KEYWORDS:** #russia #про
-
-
-## Russia, Hungary, Serbia, and Turkey Agree to Enhance Protection of Turkish Stream
-On April 5th, 2026, representatives from Russia, Hungary, Serbia, and Turkey met to discuss increased security measures for the Turkish Stream gas pipeline following a recent sabotage attempt in Serbia. Hungarian Foreign Minister Peter Szijjarto announced that the involved parties have committed to significantly improving the physical protection of the pipeline, reflecting heightened concerns over attacks in the region. [16]
-
-**COMMENT:** The agreement signifies growing collaboration among these nations to secure critical energy infrastructure amid increasing threats. Enhanced protection measures may lead to increased military presence and coordination along key gas transit routes in the region.
-
-**LOCATION:** Serbia / Serbia, 44.1534121, 20.55144 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.153412&mlon=20.551440#map=8/44.153412/20.551440) (Сербия)
-
-**KEYWORDS:** #россия #сво #сф #часть #армия #про
-
-
-## Russian Air Defense Intercepts 85 Ukrainian Drones Amidst Attacks
-On April 4th, 2026, Russia's Defense Ministry reported that air defense systems intercepted and destroyed 85 Ukrainian drones during a series of intense attacks across multiple regions, including Kursk, Orel, Tula, Rostov, and Samara. The situation was particularly severe in Taganrog, Rostov region, where one individual died and several others were seriously injured due to drone-related incidents. [17]
-
-**COMMENT:** The successful interception of numerous drones highlights the effectiveness of Russian air defense systems but also indicates ongoing tensions with Ukraine. The casualties and damage from these attacks may prompt further military responses or escalations in the conflict.
-
-**LOCATION:** Taganrog / Taganrog City District, 47.2153657, 38.9285216 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.215366&mlon=38.928522#map=8/47.215366/38.928522) (Таганрог)
-
-**KEYWORDS:** #российские #минобороны рф #минобороны #пво #удар #беспилотник #бпла #перехват #часть #про
-
-
-## Fire in Kaliningrad Shopping Center Localized to 7,000 Square Meters
-On the evening of October 5th, 2023, firefighters from the Ministry of Emergency Situations successfully localized a fire at the "Giant" shopping center in Kaliningrad, which spread over 7,000 square meters. The incident resulted in three injuries, with two individuals requiring hospitalization. [18]
-
-**COMMENT:** The localized fire incident at a major shopping center highlights ongoing risks to public safety in urban areas. Such events could prompt increased scrutiny and regulation of fire safety measures in commercial spaces across Russia.
-
-**LOCATION:** Kaliningrad / Kaliningrad, 54.710128, 20.5105838 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.710128&mlon=20.510584#map=8/54.710128/20.510584) (Калининград)
-
-**KEYWORDS:** #россия #удар #сф #про
-
-
-## Russian Armed Forces Take New Positions in Alexandrovka, DPR
-On March 18th, 2026, Russian servicemen established new positions in the area of Alexandrovka and the village of Krynka in the Donetsk People's Republic, according to Denis Pushilin, the head of the Republic. This development indicates ongoing military operations aimed at liberating territory in the region and pushing back opposing forces. [19]
-
-**COMMENT:** The recent advancement of Russian troops in the Donetsk People's Republic highlights a continued focus on territorial control and military assertiveness. This pattern suggests that further operations may follow as Russian forces aim to consolidate their positions.
-
-**LOCATION:** Alexandrovka / Alexandrovka, Unknown, Unknown [Click for Map Location](Unknown) (Александровка)
-
-**KEYWORDS:** #россия #российские #вооруженные силы рф #вс рф #российские войска #российская армия #российские военнослужащие #удар #сво #сф #армия #про
-
-
-## Investigation Ordered After House Collapse in Makhachkala
-On April 5th, 2026, Dagestan's head Sergey Melikov announced that officials responsible for the recent collapse of a three-storey house in Makhachkala will be investigated by the Ministry of Construction. The investigation follows concerns that improper coastal zone development and flooding contributed to the disaster. [20]
-
-**COMMENT:** This incident highlights issues of regulatory oversight and urban planning in Dagestan, potentially exposing vulnerabilities in local governance. The ongoing investigation may lead to increased scrutiny of construction practices and accountability for officials in the region.
-
-**LOCATION:** Makhachkala / Makhachkala, 42.9830241, 47.5048717 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.983024&mlon=47.504872#map=8/42.983024/47.504872) (Махачкала)
-
-**KEYWORDS:** #россия #удар #сф #про
-
-
-## Two Air Targets Destroyed by Air Defense Forces in Sevastopol
-On April 5th, 2026, air defense forces in Sevastopol, including the Black Sea Fleet, successfully shot down two air targets in the Nakhimovsky district. Fortunately, civilian facilities remained undamaged; however, one drone's fragments caused power outages in several settlements. [21]
-
-**COMMENT:** This incident highlights ongoing aerial threats facing critical infrastructure in Sevastopol, underscoring the active role of air defense forces. Future attacks may increase in frequency, necessitating heightened defensive measures to protect civilian areas and essential services.
-
-**LOCATION:** Sevastopol / Sevastopol, 55.7544976, 37.6157186 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.754498&mlon=37.615719#map=8/55.754498/37.615719) (Севастополь)
-
-**KEYWORDS:** #россия #пво #противовоздушная оборона #флот #удар #беспилотник #сф #про
-
-
-## Ukraine Launches Counterattack Near Svyatogorsk
-On the evening of the same day, Ukrainian forces attempted a counterattack near Svyatogorsk, but the situation remained under the control of the Russian Armed Forces, as reported by Denis Pushilin, head of the Donetsk People's Republic. The Russian military reportedly managed to destroy significant Ukrainian manpower and equipment during these engagements. [22]
-
-**COMMENT:** The confrontation highlights ongoing operational challenges for Ukrainian forces in the Donetsk region, indicating a potential for continued skirmishes. This situation may affect troop deployments and strategies by both sides in the near term as they assess control in contested areas.
-
-**LOCATION:** Svyatogorsk / Svyatogorsk, Unknown, Unknown [Click for Map Location](Unknown) (Святогоровск)
-
-**KEYWORDS:** #российские #вооруженные силы рф #вс рф #российская армия #российские военные #генштаб #штаб #удар #сво #сф #армия #про
-
-
-## Donetsk Experiences Partial Power Outages Due to Electrical Issues
-On March 5th, 2026, Donetsk is facing partial power outages attributed to electrical failures, as reported by city head Alexei Kulemzin. The outages have led to potential disruptions in cellular communication and internet access while recovery efforts are currently being assessed. [23]
-
-**COMMENT:** This incident highlights ongoing challenges in infrastructure reliability within regions experiencing conflict. Continued issues with electricity supply may reflect broader systemic vulnerabilities impacting governance and control in affected areas.
-
-**LOCATION:** Donetsk / Donetsk Oblast, 47.9212914, 37.7809825 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.921291&mlon=37.780983#map=8/47.921291/37.780983) (Донецкая область)
-
-**KEYWORDS:** #россия #удар #сф #часть #про
-
-
-## Magnitude 3.7 Earthquake Occurs in the Black Sea Near Anapa
-On an unspecified date, an earthquake registering magnitude 3.7 struck in the Black Sea, approximately 32 km southeast of Anapa, Russia. The operational headquarters of Krasnodar Territory reported that tremors occurred at a depth of 10 km, with no casualties or damage reported and daily operations continuing normally. [24]
-
-**COMMENT:** The occurrence of this earthquake, while not damaging, indicates the geological activity in the Black Sea region, which could have implications for local infrastructure and emergency preparedness. Monitoring seismic activities remains crucial for assessing potential risks to coastal communities in the area.
-
-**LOCATION:** Black Sea / Black Sea, Unknown, Unknown [Click for Map Location](Unknown) (Черное море)
-
-**KEYWORDS:** #россия #пво #штаб #удар #сф #про
-
-
-## Kherson Governor Describes Ukrainian Drone Attack on Cargo Ship as Terrorist Act
-On April 5th, 2026, Vladimir Saldo, the governor of the Kherson region, declared that a Ukrainian drone strike resulting in the sinking of the Volgo-Balt cargo ship in the Sea of Azov was a terrorist act by the Kiev regime. Saldo's comments, made on his Telegram channel, emphasize a pattern of attacks on civilian vessels by Ukraine and suggest that Russia may escalate its military response if such actions continue. [25]
-
-**COMMENT:** This incident highlights the ongoing tensions in the region and may provoke a stronger military response from Russia, particularly regarding its defense of civilian maritime operations. Continued Ukrainian drone attacks could lead to a significant escalation of conflict, potentially drawing in NATO territory into the fray.
-
-**LOCATION:** Sea of Azov / Sea of Azov, Unknown, Unknown [Click for Map Location](Unknown) (Азовское море)
-
-**KEYWORDS:** #россия #вс рф #удар #сво #беспилотник #про
-
-
-## Chinese Ambassador Proposes Indefinite Extension of Visa-Free Regime with Russia
-On April 5th, 2026, Chinese Ambassador to Russia Zhang Hanhui proposed the indefinite extension of the visa-free regime between Russia and China, emphasizing its benefits for citizens of both nations. He stated that Russia will prepare proposals to Beijing regarding this extension in the second quarter of the year. [26]
-
-**COMMENT:** The proposal signals a strengthening of bilateral ties between Russia and China, particularly in terms of ease of travel. This could lead to increased tourism and economic interaction, impacting regional stability and cooperation.
+**COMMENT:** The suicide of a convict connected to a high-profile terrorist attack may indicate underlying issues within the penal system's ability to manage inmates linked to serious crimes. This event could prompt reviews of security and mental health protocols within Russian detention facilities.
 
 **LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #российские #удар #про
+**KEYWORDS:** #russia #сво #про
 
 
-## Air Defense Forces Shoot Down 58 Drones Over Russia in Six Hours
-On April 5th, 2026, Russian air defense forces intercepted and destroyed 58 Ukrainian drones within six hours, from 14:00 to 20:00 Moscow time. The operation took place over the Belgorod, Bryansk, and Kursk regions, as well as the Krasnodar Territory and Crimea, indicating active defense measures against UAV threats. [27]
+## Civilians Wounded in Ongoing Military Operation in Ukraine
+On March 20th, 2026, reports indicate that seven civilians were injured in military operations in the Donetsk People's Republic, including three from a drone strike on an ambulance in Borisovka. Additionally, significant damage has been reported to the power system in the Zaporozhye region, with hospitals and essential services relying on generators for continued operation. [4]
 
-**COMMENT:** This incident highlights the ongoing drone conflict between Ukraine and Russia and suggests a heightened alert level within Russian air defense systems. Continued drone incursions may lead to further military enhancements in these regions.
+**COMMENT:** This incident highlights the ongoing impacts of military operations on civilian infrastructure and lives in eastern Ukraine. The anticipated recovery challenges in the Zaporozhye region may further strain resources and prompt increased scrutiny over operational strategies.
+
+**LOCATION:** Donetsk People's Republic / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html) (Донецкая Народная Республика)
+
+**KEYWORDS:** #российские #минобороны рф #минобороны россии #российские военные #российские военнослужащие #минобороны #пво #удар #беспилотник #бпла #про
+
+
+## Seven Injured in UAV Attacks and Mine Explosion in Donetsk People's Republic
+On April 6th, 2026, seven civilians were injured in the Donetsk People's Republic due to UAV attacks and an anti-personnel mine explosion, as reported by DPR head Denis Pushilin. This incident underscores the ongoing violence in the region amidst the conflict. [5]
+
+**COMMENT:** This incident reflects the continued instability and security challenges faced in the Donetsk People's Republic. The reported injuries indicate potential escalations in hostilities, which may affect civilian security and humanitarian conditions in the area.
+
+**LOCATION:** Donetsk People's Republic / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](https://interfax.ru/russia/1082384) (Донецкая Народная Республика)
+
+**KEYWORDS:** #russia #удар #бпла #про
+
+
+## Restrictions Lifted at Kaluga Airport
+On April 6th, 2026, the ban on sending and receiving flights at Kaluga Airport 'Grabtsevo' was lifted by Rosaviatsiya following a brief interruption lasting less than twenty minutes due to security reasons. This development indicates a return to normal operations at the airport, potentially improving regional connectivity. [6]
+
+**COMMENT:** The rapid resolution of the flight restrictions at Kaluga Airport reflects the authorities' capability to address security concerns efficiently. This incident may suggest a focus on maintaining operational stability in the face of security assessments within the region.
+
+**LOCATION:** Kaluga / Kaluga, 54.5101087, 36.2598115 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.510109&mlon=36.259811#map=8/54.510109/36.259811) (Калуга)
+
+**KEYWORDS:** #russia #про
+
+
+## Russian Air Defense Neutralizes 14 UAVs Over Belgorod, Voronezh, and Kursk Regions
+On April 6th, 2026, Russian air defense systems intercepted and destroyed 14 drone-type UAVs over the Belgorod, Voronezh, and Kursk regions between 14:00 and 20:00 Moscow time, according to the Defense Ministry. Seven of the drones were neutralized in Belgorod, six in Voronezh, and one in Kursk. [7]
+
+**COMMENT:** The successful interception of UAVs indicates the effectiveness of Russia's air defense systems in safeguarding its border regions. Continued drone incursions may escalate defensive measures and prompt a reassessment of operational protocols along these critical areas.
 
 **LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
 
-**KEYWORDS:** #минобороны рф #минобороны #пво #беспилотник #бпла #про
+**KEYWORDS:** #russia #минобороны #беспилотник #бпла #перехват #про
 
 
-## Russia and Tanzania Announce Plans for Direct Flights
-On April 5th, 2026, Russia and Tanzania announced a political decision to initiate direct flights between the two countries. Tanzanian Transport Minister Makame Mnya Mbarava confirmed efforts are underway to realize this plan, benefiting both nations despite pending discussions on logistical details. [28]
+## Russian Air Defense Repels Large-Scale Ukrainian Drone Attack
+On April 5th, 2026, Russian air defense systems successfully repelled a significant attack by Ukrainian drones, shooting down a total of 164 UAVs across various regions including Bryansk, Voronezh, and Kursk. The Russian military reported heightened tensions in the Nizhny Novgorod region, suggesting ongoing escalations in the conflict. [8]
 
-**COMMENT:** This development signals an effort by Russia to strengthen diplomatic and economic ties with African nations. The establishment of direct flights could facilitate increased trade and tourism, enhancing Russia's influence in the region.
+**COMMENT:** The effectiveness of Russian air defenses against drone incursions emphasizes the continuing threat posed by Ukrainian UAV operations. This incident may lead to further operational adjustments by both sides as the conflict intensifies.
 
-**LOCATION:** Tanzania / Tanzania, -6.5247123, 35.7878438 [Click for Map Location](https://www.openstreetmap.org/?mlat=-6.524712&mlon=35.787844#map=8/-6.524712/35.787844) (Танзания)
+**LOCATION:** Nizhny Novgorod / Nizhny Novgorod, 56.3264816, 44.0051395 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.326482&mlon=44.005139#map=8/56.326482/44.005139) (Нижний Новгород)
 
-**KEYWORDS:** #россия #пуск #про
+**KEYWORDS:** #российские #минобороны россии #минобороны #министерство обороны #пво #штаб #удар #сво #беспилотник #бпла #сф #про
 
 
-## Russian Military Advances in Red Liman
-On April 5th, 2026, Russian military forces made significant advances in the Red Liman area, potentially altering the dynamics in the ongoing conflict. This development underscores Russia's continued military efforts in the region, which could prompt further escalations in engagement strategies. [29]
+## Completion of DPR Liberation Hinges on Ousting Ukrainian Forces from Slavyansk and Kramatorsk
+On April 6th, 2023, Igor Kimakovsky, an advisor to the head of the Donetsk People's Republic (DPR), stated that the complete liberation of the DPR will occur after Ukrainian military forces are ousted from the Slavyansk and Kramatorsk areas. He emphasized the strategic importance of Konstantinovka, indicating its fall would significantly impact Ukrainian defenses in the region. [9]
 
-**COMMENT:** The reported advances by Russian forces signal a possible shift in control dynamics in the area, reflecting the ongoing military focus within the region. These developments may lead to intensified military operations and strategic adjustments in response to adversarial actions.
+**COMMENT:** This statement highlights the ongoing intentions of DPR authorities to consolidate control over contested territories, which may lead to increased military pressure in the near term. The focus on significant urban areas like Konstantinovka suggests a tactical shift that could escalate conflict in the region.
 
-**LOCATION:** Red Liman / Red Liman, Unknown, Unknown [Click for Map Location](Unknown) (Красный Лиман)
+**LOCATION:** Donetsk People's Republic / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](https://www.vesti.ru/ns/osvobozhdenie-dnr-zavershitsya-posle-vydavlivaniya-vsu-iz-slavyanska-i-kramatorska) (Донецкая Народная Республика)
 
-**KEYWORDS:** #российские #российские военные #про
+**KEYWORDS:** #вс рф #удар #сво #беспилотник #сф #армия #про
+
+
+## FSIN Denies Reports of Terrorist Attempting Suicide in Prison
+On April 6th, 2025, the Russian Federal Penitentiary Service (FSIN) denied media reports claiming that Dzhabrail Aushev, a convicted terrorist from the Crocus City Hall attack, attempted suicide in prison. The FSIN clarified that earlier claims about Aushev's suicide attempts were false and confirmed the recent death of another convict linked to the case. [10]
+
+**COMMENT:** The denial of the suicide attempt suggests an effort by the FSIN to maintain control over narratives surrounding terrorist incarcerations. Monitoring of radical elements within the penal system will be crucial as state responses to extremist actions continue to evolve.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #минобороны #удар #сво #сф #про
+
+
+## Twenty Tourists Poisoned at Beijing Hotel in Moscow
+On April 6th, 2023, twenty actors and technicians from Krasnoyarsk were poisoned while staying at the Beijing Hotel in Moscow, where they were visiting for a theater tour. One individual was hospitalized, and the cause of the poisoning remains under investigation as the group fell ill after breakfast. [11]
+
+**COMMENT:** This incident highlights ongoing concerns regarding public health and safety within hospitality venues in Russia. The government's response to this event could impact public confidence in the safety of domestic travel and hospitality services.
+
+**LOCATION:** Beijing Hotel / Beijing Hotel, Unknown, Unknown [Click for Map Location](https://www.vesti.ru/ns/mash-v-gostinice-pekin-v-moskve-otravilis-20-chelovek-priekhavshikh-na-gastroli) (Бейджин)
+
+**KEYWORDS:** #россия #удар #сф #про
+
+
+## Russia Issues Warning to Baltic States Over Ukrainian Drones
+On March 20th, 2026, Russian Foreign Ministry spokesperson Maria Zakharova announced that Russia has issued a warning to the Baltic States regarding their decision to open airspace to Ukrainian drones, which are intended for attacks on Russian territory. Zakharova emphasized that failure to heed these warnings could result in a response from Russia. [12]
+
+**COMMENT:** This development reflects heightened tensions between Russia and the Baltic States, particularly as security concerns regarding UAV operations intensify. The situation could lead to increased military responses from Russia if the Baltic countries proceed with their plans.
+
+**LOCATION:** Baltic States / Baltic States, 56.9172036, 24.2256812 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.917204&mlon=24.225681#map=8/56.917204/24.225681) (Балтийские Государства)
+
+**KEYWORDS:** #россия #удар #сво #беспилотник #бпла #сф #про
+
+
+## Organizer of Crocus City Hall Terrorist Attack Commits Suicide in Jail
+On April 6th, 2024, Yusufzod Yakubjoni, a convict linked to the March 22 terrorist attack at Crocus City Hall, committed suicide in Moscow's Sailor's Silence prison. Despite attempts to resuscitate him, he died, prompting a pre-investigation by the Federal Penitentiary Service. [13]
+
+**COMMENT:** This incident reflects the ongoing security challenges linked to terrorism in Russia, highlighting potential vulnerabilities in prison management and mental health support for high-profile convicts. The implications for internal security policy may include a greater emphasis on monitoring and support for inmates involved in terrorist activities.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #удар #сво #сф #про
+
+
+## Governor Hinstein Comments on Corruption Verdict for Ex-Governor Smirnov
+On April 6th, 2023, the Governor of the Kursk region, Alexander Khinshtein, commented on the corruption verdict against former Governor Alexei Smirnov, who was found guilty of accepting bribes related to the construction of fortifications along the border. Khinshtein stated that Smirnov's sentence is not final, indicating ongoing investigations into widespread corruption in the region's infrastructure projects. [14]
+
+**COMMENT:** The commentary reflects an ongoing crackdown on corruption within regional governance structures, highlighting the Russian state's commitment to addressing internal corruption issues. This situation may lead to intensified scrutiny of similar cases in the region, potentially affecting local political stability.
+
+**LOCATION:** Kursk Oblast / Kursk Oblast, 51.6568453, 36.4852695 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.656845&mlon=36.485270#map=8/51.656845/36.485270) (Курская Область)
+
+**KEYWORDS:** #россия #вдв #штаб #удар #сво #сф #про
+
+
+## Daughter of Former Krasnodar Court Head Suspected of Corruption
+On the evening of the article's publication, reports emerged that Anastasia Shepel, the daughter of former Krasnodar court chairman Alexander Chernov, is suspected of participating in corruption schemes linked to her father's illegal activities. This development follows previous court rulings against Chernov regarding substantial illicit assets totaling 13 billion rubles, involving investments made through his relatives, including Shepel. [15]
+
+**COMMENT:** The investigation into the Shepel-Chernov case underscores ongoing issues of corruption within the judiciary in Krasnodar, potentially signaling greater scrutiny of judicial figures in Russia. Future implications may include intensified efforts to combat corruption and further investigations into local judicial practices.
+
+**LOCATION:** Krasnodar Krai / Krasnodar Krai, 45.7682027, 39.0258102 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.768203&mlon=39.025810#map=8/45.768203/39.025810) (Краснодарский край)
+
+**KEYWORDS:** #вс рф #удар #сво #сф #про
+
+
+## Severe Weather Affects 15,500 Residents in Dagestan
+On April 4th, 2023, heavy rains in Dagestan caused significant damage affecting 15,500 residents who are now eligible for financial assistance. Regional authorities, led by Sergey Melikov, are working to streamline the assistance process for those whose properties were damaged by flooding and infrastructure collapse. [16]
+
+**COMMENT:** This incident highlights the ongoing challenges posed by severe weather events in Russia, which can strain local governmental resources. The situation may prompt regional authorities to enhance disaster response protocols and build resilience against future weather-related disruptions.
+
+**LOCATION:** Dagestan / Dagestan, 43.0, 47.0 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.000000&mlon=47.000000#map=8/43.000000/47.000000) (Дагестан)
+
+**KEYWORDS:** #россия #удар #сф #про
+
+
+## Prosecutor General to Investigate Sister of 'Golden Judge' Khakhaleva
+On April 6th, 2023, the Prosecutor General's Office of Russia announced an investigation into Natalia Khakhaleva, the sister of controversial judge Elena Khakhaleva, due to her alleged acquisition of luxury properties and assets with corrupt funds. The assets, worth millions, were registered under her mother's name, raising suspicions of money laundering linked to corruption in the judiciary. [17]
+
+**COMMENT:** This investigation highlights the ongoing scrutiny within Russian judiciary circles regarding corruption, potentially signaling a broader government initiative to address high-level corruption. It may influence public perception of the judiciary's integrity and lead to further investigations into connected individuals.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #вс рф #удар #сф #про
+
+
+## Explosives Found on Gas Infrastructure Linked to Turkish Stream
+On April 6th, 2026, explosives and detonators were discovered near the Turkish Stream gas pipeline in Serbia, raising concerns over security against potential threats to energy infrastructure. This incident highlights increasing tensions surrounding energy routes in Europe, particularly amid ongoing geopolitical conflicts involving Ukraine. [18]
+
+**COMMENT:** The discovery of explosives near the Turkish Stream pipeline indicates escalating security risks for vital energy infrastructure in the region. This may prompt Russia and its partners to enhance protective measures along strategic transit routes as tensions with Ukraine persist.
+
+**LOCATION:** Serbia / Serbia, 44.1534121, 20.55144 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.153412&mlon=20.551440#map=8/44.153412/20.551440) (Сербия)
+
+**KEYWORDS:** #россия #пво #удар #сво #беспилотник #пуск #часть #про
+
+
+## Russian Air Defense Shoots Down 14 Ukrainian Drones in Six Hours
+On April 6th, 2026, Russia's air defense intercepted and shot down 14 Ukrainian drones over its territory within a six-hour span, primarily over Belgorod and Voronezh regions. This response follows recent drone attacks that injured three ambulance personnel in Belgorod, indicating a heightened level of hostilities in the region. [19]
+
+**COMMENT:** This event underscores the ongoing threat posed by Ukrainian drone operations against Russian territory, highlighting the vulnerabilities within local air defenses. Continued successful interceptions may prompt further military responses or adjustments in operational strategies by both sides.
+
+**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
+
+**KEYWORDS:** #минобороны рф #минобороны #пво #удар #беспилотник #бпла #про
+
+
+## Russian Federation Council Responds to Armenian Speaker's EAEU Withdrawal Statement
+On April 6th, 2026, Deputy Speaker of the Federation Council Konstantin Kosachev labeled Armenian National Assembly Chairman Alen Simonyan's statement about a potential withdrawal from the EAEU over rising gas prices as incorrect. He emphasized that Armenia benefits from favorable gas pricing compared to Europe, which bolsters its economic competitiveness and political stability. [20]
+
+**COMMENT:** This statement reflects ongoing tensions regarding Armenia's economic decisions within the EAEU framework, which may influence regional alliances. The emphasis on competitive pricing from Russia suggests a strategic maneuver to maintain influence over Armenia and deter any moves towards disassociation from the EAEU.
+
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #россия #российский #сво #сф #про
+
+
+## Seven Civilians Injured in Donetsk Republic Due to Ukrainian Attacks
+On April 6th, 2026, seven civilians in the Donetsk People’s Republic were injured from attacks carried out by the Ukrainian Armed Forces, according to regional head Denis Pushilin. The assaults involved drone attacks and landmines, leading to injuries among various age groups in Donetsk and surrounding areas. [21]
+
+**COMMENT:** This incident highlights the ongoing conflict dynamics and the impact on civilians in the Donetsk region. Such attacks may escalate tensions and prompt further military responses from either side.
+
+**LOCATION:** Donetsk People's Republic / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](https://iz.ru/2073915/2026-04-06/sem-mirnykh-zhitelei-postradali-v-dnr-iz-za-atak-vsu?main_click) (Донецкая Народная Республика)
+
+**KEYWORDS:** #российские #российские войска #удар #сво #беспилотник #про
+
+
+## Adviser States Complete Liberation of Donetsk People's Republic Depends on Military Action
+On April 6th, 2026, Igor Kimakovsky, an adviser to the head of the Donetsk People's Republic, indicated that the territory would be fully liberated as Russian forces aim to expel Ukrainian militants from the Kramatorsk-Slavic agglomeration. He emphasized the strategic importance of Konstantinovka as a key location in this process, suggesting that its capture would lead to further gains for Russian troops in the surrounding areas. [22]
+
+**COMMENT:** This development highlights ongoing military objectives in eastern Ukraine, with Russian forces focusing on major settlements that could shift the balance in the region. Observing these territorial changes will be crucial for assessing Russia's strategic posture and potential escalation in the conflict.
+
+**LOCATION:** Donetsk People's Republic / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](https://www.kp.ru/online/news/6905556/) (Донецкая Народная Республика)
+
+**KEYWORDS:** #российские #российские войска #армия россии #сво #армия #про
 
 
 # Sources
-[1] Interfax.ru - https://interfax.ru/russia/1082164?utm_source=top  
-[2] Interfax.ru - https://interfax.ru/russia/1082162?utm_source=top  
-[3] Interfax.ru - https://interfax.ru/russia/1082165?utm_source=top  
-[4] Interfax.ru - https://interfax.ru/russia/1082161?utm_source=top  
-[5] Interfax.ru - https://interfax.ru/russia/1082158?utm_source=top  
-[6] Interfax.ru - https://interfax.ru/russia/1082173  
-[7] Interfax.ru - https://interfax.ru/russia/1082172  
-[8] Interfax.ru - https://interfax.ru/russia/1082168  
-[9] Interfax.ru - https://interfax.ru/russia/1082169  
-[10] Interfax.ru - https://interfax.ru/russia/1082170  
-[11] Interfax.ru - https://interfax.ru/russia/1082166  
-[12] Interfax.ru - https://interfax.ru/russia/1082165  
-[13] Interfax.ru - https://interfax.ru/russia/1082164  
-[14] Interfax.ru - https://interfax.ru/russia/1082162  
-[15] Interfax.ru - https://interfax.ru/russia/1082161  
-[16] Aif.ru - https://aif.ru/politics/siyyarto-rf-vengriya-serbiya-turciya-dogovorilis-zashchishchat-tureckiy-potok  
-[17] Aif.ru - https://aif.ru/society/strashnyy-otvet-za-ataki-gorodov-rf-kiev-ne-opravitsya-ot-zhutkoy-poteri  
-[18] www.vesti.ru - https://www.vesti.ru/ns/pozhar-v-tc-kaliningrada-lokalizovali-na-7-000-kvadratov  
-[19] www.vesti.ru - https://www.vesti.ru/ns/pushilin-zayavil-chto-vs-rf-zanyali-novye-pozicii-v-rajone-aleksandrovki  
-[20] www.vesti.ru - https://www.vesti.ru/ns/melikov-poruchil-proverit-chinovnikov-dopustivshikh-obrushenie-doma-v-makhachkale  
-[21] www.vesti.ru - https://www.vesti.ru/ns/eshche-dve-vozdushnykh-celi-unichtozheny-silami-pvo-v-sevastopole  
-[22] www.vesti.ru - https://www.vesti.ru/ns/ukraina-predprinyala-popytku-kontrataki-v-rajone-svyatogorska  
-[23] www.vesti.ru - https://www.vesti.ru/ns/doneck-chastichno-ostaetsya-bez-sveta-iz-za-problem-s-ehlektrichestvom  
-[24] www.vesti.ru - https://www.vesti.ru/ns/zemletryasenie-magnitudoj-37-proizoshlo-v-akvatorii-chernogo-morya  
-[25] iz.ru - https://iz.ru/2073266/2026-04-05/saldo-nazval-ataku-na-sukhogruz-v-azovskom-more-teraktom-kievskogo-rezhima  
-[26] iz.ru - https://iz.ru/2073222/posol-knr-v-rossii-khankhuei-predlozhil-prodlit-bezvizovyi-rezhim-navsegda-izi  
-[27] iz.ru - https://iz.ru/2073293/2026-04-05/sily-pvo-sbili-58-dronov-vsu-nad-territoriei-rossii-za-shest-chasov  
-[28] iz.ru - https://iz.ru/2073253/2026-04-05/rossiia-i-tanzaniia-priniali-reshenie-o-zapuske-priamykh-reisov?main_click  
-[29] ria.ru - https://ria.ru/20260405/pushilin-2085330360.html
+[1] interfax.ru - https://interfax.ru/russia/1082315?utm_source=top  
+
+[2] interfax.ru - https://interfax.ru/russia/1082345?utm_source=top  
+
+[3] interfax.ru - https://interfax.ru/russia/1082325?utm_source=top  
+
+[4] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html  
+
+[5] interfax.ru - https://interfax.ru/russia/1082384  
+
+[6] interfax.ru - https://interfax.ru/russia/1082380  
+
+[7] interfax.ru - https://interfax.ru/russia/1082379  
+
+[8] aif.ru - https://aif.ru/society/rasplata-za-nalety-dronov-vsu-moshchnyy-roy-geraney-vzorval-armiyu-ukrainy  
+
+[9] www.vesti.ru - https://www.vesti.ru/ns/osvobozhdenie-dnr-zavershitsya-posle-vydavlivaniya-vsu-iz-slavyanska-i-kramatorska  
+
+[10] www.vesti.ru - https://www.vesti.ru/ns/fsin-oprovergla-soobshcheniya-o-popytke-suicida-terrorista-iz-krokusa-ausheva  
+
+[11] www.vesti.ru - https://www.vesti.ru/ns/mash-v-gostinice-pekin-v-moskve-otravilis-20-chelovek-priekhavshikh-na-gastroli  
+
+[12] www.vesti.ru - https://www.vesti.ru/ns/zakharova-zayavila-chto-rossiya-sdelala-preduprezhdenie-stranam-baltii  
+
+[13] www.vesti.ru - https://www.vesti.ru/ns/odin-iz-ustroivshikh-terakt-v-krokuse-pokonchil-s-soboj  
+
+[14] www.vesti.ru - https://www.vesti.ru/ns/khinshtejn-prokommentiroval-prigovor-ehks-gubernatoru-smirnovu-po-delu-o-korrupcii  
+
+[15] www.vesti.ru - https://www.vesti.ru/ns/doch-ehks-glavy-krasnodarskogo-suda-zapodozrili-v-korrupcii  
+
+[16] www.vesti.ru - https://www.vesti.ru/ns/melikov-nepogoda-nanesla-ushcherb-155-tys-zhitelej-dagestana  
+
+[17] www.vesti.ru - https://www.vesti.ru/ns/gp-proverit-sestru-zolotoj-sudi-khakhalevoj  
+
+[18] iz.ru - https://iz.ru/2073470/2026-04-06/turetckii-potok-pytalis-podorvat-chto-nuzhno-znat-o-gazoprovode  
+
+[19] iz.ru - https://iz.ru/2073899/2026-04-06/sredstva-pvo-za-shest-chasov-sbili-14-bespilotnikov-vsu  
+
+[20] iz.ru - https://iz.ru/2073918/2026-04-06/v-sf-nazvali-zaiavlenie-spikera-armenii-o-vykhode-iz-eaes-nekorrektnym?main_click  
+
+[21] iz.ru - https://iz.ru/2073915/2026-04-06/sem-mirnykh-zhitelei-postradali-v-dnr-iz-za-atak-vsu?main_click  
+
+[22] www.kp.ru - https://www.kp.ru/online/news/6905556/
