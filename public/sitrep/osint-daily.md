@@ -1,269 +1,222 @@
-# Report Date: 2026-04-06
+# Report Date: 2026-04-07
 
 ## Summary
-During the reporting period, multiple significant events unfolded across Russia and Ukraine, including corruption allegations against regional officials, incidents of violence in eastern Ukraine, and concerns over public safety following industrial accidents. The sentencing of former Kursk governor Alexei Smirnov emphasizes the Kremlin's ongoing anti-corruption initiatives, while the deaths and injuries resulting from recent fires and conflicts reflect deep-seated challenges regarding public safety and security. As military operations continue, there are indications of potential escalations which may influence regional stability and geopolitical dynamics.
+During the reporting period, several significant developments occurred in Russia, notably arrests and legal actions reflecting ongoing anti-corruption efforts at various administrative levels. The arrest of the Vice-Governor of Krasnodar Krai on fraud charges and the sentencing of former officials for bribery highlight state initiatives to address corrupt practices. Additionally, incidents related to educational security and energy resource negotiations underscore ongoing societal challenges and geopolitical dynamics. These trends suggest that the Russian government may continue to reinforce measures aimed at enhancing accountability and addressing instability amidst rising tensions both domestically and internationally.
 
-## Former Kursk Governor Sentenced to 14 Years for Bribery
-On April 6th, 2026, the Leninsky district court in Kursk sentenced former governor Alexei Smirnov to 14 years in prison and fined him 400 million rubles for receiving large bribes. His conviction also includes a ten-year ban from holding any state or municipal positions, indicating ongoing efforts to enforce anti-corruption measures within regional governance. [1]
+## Vice-Governor of Kuban Arrested on Fraud Charges
+On April 7th, 2026, Andrei Korobka, the Vice-Governor of Krasnodar Krai, was arrested by the Leninsky district court in Krasnodar on charges of large-scale fraud, with seized assets estimated at 10 billion rubles. The court has ordered his detention for two months as the investigation continues. [1]
 
-**COMMENT:** This case reflects the continued focus on corruption within the ranks of local officials, a significant issue for the Kremlin as it seeks to maintain internal stability. The high-profile nature of this conviction may deter similar misconduct in other regions, but it could also highlight potential vulnerabilities within local governance structures.
+**COMMENT:** The arrest of a high-ranking official illustrates ongoing efforts by Russian authorities to address corruption within local governance. This case may reflect deeper issues regarding accountability and governance in the Krasnodar region.
 
-**LOCATION:** Kursk / Kursk, 51.7270357, 36.192248 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.727036&mlon=36.192248#map=8/51.727036/36.192248) (Курск)
-
-**KEYWORDS:** #russia #штаб #удар #сво #про
-
-
-## Nizhnekamskneftekhim Fire Claims Eleven Lives; Search for Missing Employee Continues
-On April 6th, 2026, the fire at Nizhnekamskneftekhim claimed a total of 11 lives, with efforts continuing to locate one missing employee. In addition, 25 individuals were hospitalized across medical centers in Moscow, Kazan, and Nizhnekamsk, prompting the company to initiate compensation for victims and their families. [2]
-
-**COMMENT:** This incident highlights ongoing safety and regulatory challenges within Russian industrial sectors, particularly in high-risk environments. Moving forward, the company's response may trigger scrutiny over safety standards and emergency response protocols in the chemical industry.
-
-**LOCATION:** Nizhnekamsk / Nizhnekamsk, 55.6412879, 51.8160376 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.641288&mlon=51.816038#map=8/55.641288/51.816038) (Нижнекамск)
-
-**KEYWORDS:** #russia #про
-
-
-## Convict from Crocus City Hall Attack Commits Suicide in Jail
-On April 6th, 2026, a life-sentenced accomplice of the Crocus City Hall terrorist attack was found dead in his cell at SIZO-1 in Moscow, having committed suicide. The authorities are conducting a pre-investigation check regarding this incident to assess the circumstances surrounding his death. [3]
-
-**COMMENT:** The suicide of a convict connected to a high-profile terrorist attack may indicate underlying issues within the penal system's ability to manage inmates linked to serious crimes. This event could prompt reviews of security and mental health protocols within Russian detention facilities.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Krasnodar / Krasnodar, 45.0351532, 38.9772396 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.035153&mlon=38.977240#map=8/45.035153/38.977240) (Краснодар)
 
 **KEYWORDS:** #russia #сво #про
 
 
-## Civilians Wounded in Ongoing Military Operation in Ukraine
-On March 20th, 2026, reports indicate that seven civilians were injured in military operations in the Donetsk People's Republic, including three from a drone strike on an ambulance in Borisovka. Additionally, significant damage has been reported to the power system in the Zaporozhye region, with hospitals and essential services relying on generators for continued operation. [4]
+## Ministry of Education Sends Commission to Perm Territory Following Teacher's Murder
+On April 7th, 2026, the Ministry of Education of the Russian Federation dispatched a special commission to the Perm Territory following the murder of a 9th grade teacher at a school in Dobryanka. The commission's mission includes providing psychological support to affected students, parents, and teachers, in collaboration with local educational authorities. [2]
 
-**COMMENT:** This incident highlights the ongoing impacts of military operations on civilian infrastructure and lives in eastern Ukraine. The anticipated recovery challenges in the Zaporozhye region may further strain resources and prompt increased scrutiny over operational strategies.
+**COMMENT:** This incident highlights ongoing concerns regarding security within Russian educational institutions. The government's prompt response may indicate an effort to maintain stability and support in schools amid rising violence.
 
-**LOCATION:** Donetsk People's Republic / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html) (Донецкая Народная Республика)
+**LOCATION:** Dobryanka / Dobryanka, Unknown, Unknown [Click for Map Location](#)
 
-**KEYWORDS:** #российские #минобороны рф #минобороны россии #российские военные #российские военнослужащие #минобороны #пво #удар #беспилотник #бпла #про
-
-
-## Seven Injured in UAV Attacks and Mine Explosion in Donetsk People's Republic
-On April 6th, 2026, seven civilians were injured in the Donetsk People's Republic due to UAV attacks and an anti-personnel mine explosion, as reported by DPR head Denis Pushilin. This incident underscores the ongoing violence in the region amidst the conflict. [5]
-
-**COMMENT:** This incident reflects the continued instability and security challenges faced in the Donetsk People's Republic. The reported injuries indicate potential escalations in hostilities, which may affect civilian security and humanitarian conditions in the area.
-
-**LOCATION:** Donetsk People's Republic / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](https://interfax.ru/russia/1082384) (Донецкая Народная Республика)
-
-**KEYWORDS:** #russia #удар #бпла #про
+**KEYWORDS:** #russia #сво #сф #про
 
 
-## Restrictions Lifted at Kaluga Airport
-On April 6th, 2026, the ban on sending and receiving flights at Kaluga Airport 'Grabtsevo' was lifted by Rosaviatsiya following a brief interruption lasting less than twenty minutes due to security reasons. This development indicates a return to normal operations at the airport, potentially improving regional connectivity. [6]
+## Ministry of Natural Resources Denies Plans for Hunting Red Book Animals
+On April 7th, 2026, the Ministry of Natural Resources in Moscow refuted rumors regarding the legalization of hunting Red Book animals, stating that current regulations remain unchanged since 1997. The Ministry clarified that hunting is permitted only in exceptional circumstances, emphasizing the integrity of existing conservation measures. [3]
 
-**COMMENT:** The rapid resolution of the flight restrictions at Kaluga Airport reflects the authorities' capability to address security concerns efficiently. This incident may suggest a focus on maintaining operational stability in the face of security assessments within the region.
+**COMMENT:** This denial reflects the Ministry's commitment to wildlife conservation amid public concerns over environmental policies. It also indicates that the government may continue to prioritize regulatory control to prevent any potential exploitation of vulnerable species.
 
-**LOCATION:** Kaluga / Kaluga, 54.5101087, 36.2598115 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.510109&mlon=36.259811#map=8/54.510109/36.259811) (Калуга)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #удар #пуск #про
+
+
+## Former Kursk Deputy Governor Sentenced to 17 Years for Bribery
+On April 7th, 2026, the Leninsky District Court of Kursk sentenced former deputy governor Alexei Dedov to 17 years in prison for accepting large bribes. The court also imposed a fine of 450 million rubles and confiscated over 20.9 million rubles in illicit gains, highlighting ongoing issues of corruption within regional governance. [4]
+
+**COMMENT:** This sentencing reflects the Russian state's efforts to tackle corruption at various administrative levels, suggesting a continued focus on accountability. The significant penalty may serve as a deterrent against similar misconduct among other officials.
+
+**LOCATION:** Kursk / Kursk, 51.7270357, 36.192248 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.727036&mlon=36.192248#map=8/51.727036/36.192248) (Курс)
+
+
+**KEYWORDS:** #russia #удар #сво
+
+
+## Vice-Governor of Kuban Faces Dismissal Amid Corruption Case Valued at 10 Billion Rubles
+On April 7th, 2026, the General Prosecutor's Office of the Russian Federation filed a petition for the dismissal of Andrei Korobka, Vice-Governor of Krasnodar Territory, in light of a corruption case involving assets estimated at 10 billion rubles. This action underscores ongoing anti-corruption efforts within regional governments, particularly concerning officials in charge of significant sectors such as agriculture. [5]
+
+**COMMENT:** The seizure of such large assets from a high-ranking official indicates a stringent approach towards corruption by Russian authorities. This could suggest escalating scrutiny and accountability measures towards government officials, potentially impacting governance in the Krasnodar region.
+
+**LOCATION:** Department of the Ministry of Justice of the Russian Federation for the Krasnodar Territory / Krasnodar, 45.0035239, 38.9611787 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.003524&mlon=38.961179#map=8/45.003524/38.961179) (Департамент Министерства юстиции Российской Федерации по Краснодарскому краю)
+
+**KEYWORDS:** #russia #удар #сво #сф #про
+
+
+## Former Deputy Director of Regardie Sentenced to 8 Years and 6 Months
+On April 7th, 2026, the Second Western District Military Court in Moscow increased the prison sentence of former Deputy Director of the Federal Service of National Guard Forces Sergei Mileiko from 7 years to 8 years and 6 months due to embezzlement of funds allocated for clothing support. Additionally, Igor Shalnov, Director of SpetsShveySnab, received a sentence of 7 years, while Mileiko also lost his state award, highlighting ongoing issues of corruption within Russian military and security structures. [6]
+
+**COMMENT:** This development underscores the legal system's increasing responsiveness to corruption allegations within state agencies, particularly in military contexts. The harsher sentencing may reflect a broader governmental push to reinforce accountability and deter misappropriation of state funds.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #гарнизон #удар #сво #про
+
+
+## Ministry of Education Launches Chatbot for Teacher Support
+On April 7th, 2026, the Ministry of Education of the Russian Federation launched a chatbot within the MAX messenger to provide support for teachers across the country. This initiative is designed to assist educators in conflict situations by offering tailored recommendations and access to regulatory guidelines. [7]
+
+**COMMENT:** The implementation of this chatbot reflects the government's focus on addressing the needs of teachers and enhancing their protection within educational environments. It may also indicate broader efforts to stabilize the teaching profession amidst societal challenges and potential conflicts.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
 **KEYWORDS:** #russia #про
 
 
-## Russian Air Defense Neutralizes 14 UAVs Over Belgorod, Voronezh, and Kursk Regions
-On April 6th, 2026, Russian air defense systems intercepted and destroyed 14 drone-type UAVs over the Belgorod, Voronezh, and Kursk regions between 14:00 and 20:00 Moscow time, according to the Defense Ministry. Seven of the drones were neutralized in Belgorod, six in Voronezh, and one in Kursk. [7]
+## Peskov Reports Increased Requests for Russian Energy Resources
+On April 7th, 2026, Dmitry Peskov, the press secretary for the President of Russia, announced that the country is receiving a significant number of requests for energy supplies and is currently negotiating with various partners. This increase in demand is being driven by the current foreign economic situation and may lead to expanded cooperation in the energy sector amidst rising global energy prices due to geopolitical tensions in the Middle East. [8]
 
-**COMMENT:** The successful interception of UAVs indicates the effectiveness of Russia's air defense systems in safeguarding its border regions. Continued drone incursions may escalate defensive measures and prompt a reassessment of operational protocols along these critical areas.
+**COMMENT:** The increase in requests for energy supplies highlights Russia's potential to strengthen its energy export revenues in the face of ongoing global tensions. This trend could lead to further strategic leverage for Russia in energy markets, potentially impacting global economic stability.
 
-**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #russia #минобороны #беспилотник #бпла #перехват #про
-
-
-## Russian Air Defense Repels Large-Scale Ukrainian Drone Attack
-On April 5th, 2026, Russian air defense systems successfully repelled a significant attack by Ukrainian drones, shooting down a total of 164 UAVs across various regions including Bryansk, Voronezh, and Kursk. The Russian military reported heightened tensions in the Nizhny Novgorod region, suggesting ongoing escalations in the conflict. [8]
-
-**COMMENT:** The effectiveness of Russian air defenses against drone incursions emphasizes the continuing threat posed by Ukrainian UAV operations. This incident may lead to further operational adjustments by both sides as the conflict intensifies.
-
-**LOCATION:** Nizhny Novgorod / Nizhny Novgorod, 56.3264816, 44.0051395 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.326482&mlon=44.005139#map=8/56.326482/44.005139) (Нижний Новгород)
-
-**KEYWORDS:** #российские #минобороны россии #минобороны #министерство обороны #пво #штаб #удар #сво #беспилотник #бпла #сф #про
+**KEYWORDS:** #россия #российские #сво #сф #часть #про
 
 
-## Completion of DPR Liberation Hinges on Ousting Ukrainian Forces from Slavyansk and Kramatorsk
-On April 6th, 2023, Igor Kimakovsky, an advisor to the head of the Donetsk People's Republic (DPR), stated that the complete liberation of the DPR will occur after Ukrainian military forces are ousted from the Slavyansk and Kramatorsk areas. He emphasized the strategic importance of Konstantinovka, indicating its fall would significantly impact Ukrainian defenses in the region. [9]
+## Bastrykin Reports on Criminal Cases Against Lawyers
+On April 7th, 2025, Alexander Bastrykin, head of the Russian Investigative Committee, announced that criminal cases against 92 lawyers had been transferred to courts. He highlighted that many of these cases involve theft from clients and emphasized the troubling conduct of some legal professionals in violating laws and rights. [9]
 
-**COMMENT:** This statement highlights the ongoing intentions of DPR authorities to consolidate control over contested territories, which may lead to increased military pressure in the near term. The focus on significant urban areas like Konstantinovka suggests a tactical shift that could escalate conflict in the region.
-
-**LOCATION:** Donetsk People's Republic / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](https://www.vesti.ru/ns/osvobozhdenie-dnr-zavershitsya-posle-vydavlivaniya-vsu-iz-slavyanska-i-kramatorska) (Донецкая Народная Республика)
-
-**KEYWORDS:** #вс рф #удар #сво #беспилотник #сф #армия #про
-
-
-## FSIN Denies Reports of Terrorist Attempting Suicide in Prison
-On April 6th, 2025, the Russian Federal Penitentiary Service (FSIN) denied media reports claiming that Dzhabrail Aushev, a convicted terrorist from the Crocus City Hall attack, attempted suicide in prison. The FSIN clarified that earlier claims about Aushev's suicide attempts were false and confirmed the recent death of another convict linked to the case. [10]
-
-**COMMENT:** The denial of the suicide attempt suggests an effort by the FSIN to maintain control over narratives surrounding terrorist incarcerations. Monitoring of radical elements within the penal system will be crucial as state responses to extremist actions continue to evolve.
+**COMMENT:** This significant legal crackdown on lawyers indicates a growing scrutiny of the legal profession in Russia, potentially linked to broader issues of corruption and accountability within the judiciary. The implications of these prosecutions could lead to tighter controls over legal practitioners and further erosion of their rights.
 
 **LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #минобороны #удар #сво #сф #про
+**KEYWORDS:** #россия #корпус #удар #сво #сф #про
 
 
-## Twenty Tourists Poisoned at Beijing Hotel in Moscow
-On April 6th, 2023, twenty actors and technicians from Krasnoyarsk were poisoned while staying at the Beijing Hotel in Moscow, where they were visiting for a theater tour. One individual was hospitalized, and the cause of the poisoning remains under investigation as the group fell ill after breakfast. [11]
+## France Deploys Fighter Jets Near Russian Border
+On April 7th, 2023, the French Air Force deployed Rafale fighter jets to Šiauliai airbase in Lithuania, situated 130 kilometers from the Russian border. This deployment is significant as the jets are participating in NATO's Baltic air patrol mission, which raises concerns about increasing military tensions in the region. [10]
 
-**COMMENT:** This incident highlights ongoing concerns regarding public health and safety within hospitality venues in Russia. The government's response to this event could impact public confidence in the safety of domestic travel and hospitality services.
+**COMMENT:** The positioning of French fighter jets near Russia underscores the ongoing militarization in Eastern Europe amid heightened NATO-Russia tensions. This move may prompt a reevaluation of Russia's military posture along its western borders in the near term.
 
-**LOCATION:** Beijing Hotel / Beijing Hotel, Unknown, Unknown [Click for Map Location](https://www.vesti.ru/ns/mash-v-gostinice-pekin-v-moskve-otravilis-20-chelovek-priekhavshikh-na-gastroli) (Бейджин)
+**LOCATION:** Šiauliai / Šiauliai, 55.9340823, 23.3157775 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.934082&mlon=23.315777#map=8/55.934082/23.315777) (Šiauliai)
 
-**KEYWORDS:** #россия #удар #сф #про
+**KEYWORDS:** #россия #assault #учения #удар #бпла #зрк #истребитель #сф #про
 
 
-## Russia Issues Warning to Baltic States Over Ukrainian Drones
-On March 20th, 2026, Russian Foreign Ministry spokesperson Maria Zakharova announced that Russia has issued a warning to the Baltic States regarding their decision to open airspace to Ukrainian drones, which are intended for attacks on Russian territory. Zakharova emphasized that failure to heed these warnings could result in a response from Russia. [12]
+## Belousov Commends Work of Moscow Unified Call Center
+On April 7th, 2023, Defense Minister Andrei Belousov and Moscow Mayor Sergei Sobyanin inspected the Unified Call Center and Military Commissariat in Moscow. They highlighted the new building's automated systems for conscription and praised the efficiency of the services provided to residents and legal entities. [11]
 
-**COMMENT:** This development reflects heightened tensions between Russia and the Baltic States, particularly as security concerns regarding UAV operations intensify. The situation could lead to increased military responses from Russia if the Baltic countries proceed with their plans.
+**COMMENT:** The inspection underscores the continued emphasis on military readiness and conscription efficiency amidst ongoing challenges. Future improvements in automation may reflect broader trends in the military's approach to personnel management and recruitment in Russia.
 
-**LOCATION:** Baltic States / Baltic States, 56.9172036, 24.2256812 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.917204&mlon=24.225681#map=8/56.917204/24.225681) (Балтийские Государства)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #минобороны рф #мо рф #вс рф #минобороны #штаб #министр обороны #призыв #военкомат #удар #сво #сф #про
+
+
+## Completion of Second Stage of Ust-Luga Terminal Construction
+On March 7th, 2026, the Ministry of Transport of the Russian Federation announced the completion of the second stage of construction of the water area at the Ust-Luga terminal in Leningrad Region. This project, part of the national initiative 'Effective Transport System,' included significant dredging operations to enhance the terminal's capacity for handling various cargo types. [12]
+
+**COMMENT:** The completion of the Ust-Luga terminal's water area reflects ongoing Russian investment in expanding critical infrastructure for trade and logistics. This development may enhance Russia's operational capabilities in maritime logistics, which could influence regional shipping dynamics.
+
+**LOCATION:** Ust-Luga / Ust-Luga, Unknown, Unknown [Click for Map Location](#)
+
+**KEYWORDS:** #россия #удар #бпла #сф #про
+
+
+## APU Attack on Zaporizhia School Results in One Death and Ten Injuries
+On April 7th, 2023, an attack by the Armed Forces of Ukraine on a school in Veliky Znamenka, Zaporizhia Oblast, resulted in the death of the First Deputy Head of the local administration, Alexander Reznichenko, and injuries to ten others, including seven children. The incident highlights ongoing violence in the region and raises concerns about the safety of civilians and infrastructure amid the ongoing conflict. [13]
+
+**COMMENT:** This incident underscores the continuing volatility in Ukraine as attacks on civilian infrastructure persist, likely prompting further military and administrative responses from both sides. The implications of such attacks may escalate tensions and affect local governance in contested areas.
+
+**LOCATION:** Veliky Znamenka / Veliky Znamenka, Unknown, Unknown [Click for Map Location](#)
 
 **KEYWORDS:** #россия #удар #сво #беспилотник #бпла #сф #про
 
 
-## Organizer of Crocus City Hall Terrorist Attack Commits Suicide in Jail
-On April 6th, 2024, Yusufzod Yakubjoni, a convict linked to the March 22 terrorist attack at Crocus City Hall, committed suicide in Moscow's Sailor's Silence prison. Despite attempts to resuscitate him, he died, prompting a pre-investigation by the Federal Penitentiary Service. [13]
+## Russia Creates New List of Diseases Preventing Sentence Serving
+On October 17th, 2023, Russian Minister of Justice Konstantin Chuichenko announced the formation of a new list of 144 diseases that will prevent individuals from serving their sentences. This development follows an earlier expansion of the list related to serious health issues affecting detainees. [14]
 
-**COMMENT:** This incident reflects the ongoing security challenges linked to terrorism in Russia, highlighting potential vulnerabilities in prison management and mental health support for high-profile convicts. The implications for internal security policy may include a greater emphasis on monitoring and support for inmates involved in terrorist activities.
+**COMMENT:** This initiative may reflect efforts to reform the penal system and address health-related concerns within detention facilities. Such changes could influence the management of inmates and the broader approach to justice in Russia.
+
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #россия #минобороны рф #минобороны #удар #сф #про
+
+
+## Russia Considers Extension of ISS Operations Until 2030
+On April 7th, 2023, Dmitry Bakanov, the Director General of Roscosmos, announced that Russia is discussing the potential extension of the International Space Station's (ISS) operations until at least 2030. This shift in dialogue with the United States marks a significant change from previous discussions about hastening the ISS's decommissioning, indicating a potential longevity in international space collaboration. [15]
+
+**COMMENT:** This development reflects Russia's strategic interest in maintaining its role in international space endeavors amidst shifting geopolitical dynamics. The extension of the ISS could be indicative of broader cooperation with the United States, suggesting a focus on long-term partnerships in space despite current tensions.
 
 **LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #удар #сво #сф #про
-
-
-## Governor Hinstein Comments on Corruption Verdict for Ex-Governor Smirnov
-On April 6th, 2023, the Governor of the Kursk region, Alexander Khinshtein, commented on the corruption verdict against former Governor Alexei Smirnov, who was found guilty of accepting bribes related to the construction of fortifications along the border. Khinshtein stated that Smirnov's sentence is not final, indicating ongoing investigations into widespread corruption in the region's infrastructure projects. [14]
-
-**COMMENT:** The commentary reflects an ongoing crackdown on corruption within regional governance structures, highlighting the Russian state's commitment to addressing internal corruption issues. This situation may lead to intensified scrutiny of similar cases in the region, potentially affecting local political stability.
-
-**LOCATION:** Kursk Oblast / Kursk Oblast, 51.6568453, 36.4852695 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.656845&mlon=36.485270#map=8/51.656845/36.485270) (Курская Область)
-
-**KEYWORDS:** #россия #вдв #штаб #удар #сво #сф #про
-
-
-## Daughter of Former Krasnodar Court Head Suspected of Corruption
-On the evening of the article's publication, reports emerged that Anastasia Shepel, the daughter of former Krasnodar court chairman Alexander Chernov, is suspected of participating in corruption schemes linked to her father's illegal activities. This development follows previous court rulings against Chernov regarding substantial illicit assets totaling 13 billion rubles, involving investments made through his relatives, including Shepel. [15]
-
-**COMMENT:** The investigation into the Shepel-Chernov case underscores ongoing issues of corruption within the judiciary in Krasnodar, potentially signaling greater scrutiny of judicial figures in Russia. Future implications may include intensified efforts to combat corruption and further investigations into local judicial practices.
-
-**LOCATION:** Krasnodar Krai / Krasnodar Krai, 45.7682027, 39.0258102 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.768203&mlon=39.025810#map=8/45.768203/39.025810) (Краснодарский край)
-
-**KEYWORDS:** #вс рф #удар #сво #сф #про
-
-
-## Severe Weather Affects 15,500 Residents in Dagestan
-On April 4th, 2023, heavy rains in Dagestan caused significant damage affecting 15,500 residents who are now eligible for financial assistance. Regional authorities, led by Sergey Melikov, are working to streamline the assistance process for those whose properties were damaged by flooding and infrastructure collapse. [16]
-
-**COMMENT:** This incident highlights the ongoing challenges posed by severe weather events in Russia, which can strain local governmental resources. The situation may prompt regional authorities to enhance disaster response protocols and build resilience against future weather-related disruptions.
-
-**LOCATION:** Dagestan / Dagestan, 43.0, 47.0 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.000000&mlon=47.000000#map=8/43.000000/47.000000) (Дагестан)
 
 **KEYWORDS:** #россия #удар #сф #про
 
 
-## Prosecutor General to Investigate Sister of 'Golden Judge' Khakhaleva
-On April 6th, 2023, the Prosecutor General's Office of Russia announced an investigation into Natalia Khakhaleva, the sister of controversial judge Elena Khakhaleva, due to her alleged acquisition of luxury properties and assets with corrupt funds. The assets, worth millions, were registered under her mother's name, raising suspicions of money laundering linked to corruption in the judiciary. [17]
+## Ukrainian Drone Attacks on Caspian Pipeline Consortium Disrupt Energy Markets
+On April 6th, 2026, Ukrainian drones attacked the Caspian Pipeline Consortium's facilities in Novorossiysk, causing significant damage and igniting a fire in four oil product tanks. This incident is expected to exacerbate instability in energy markets, affecting oil and gas exports and increasing security risks across Europe and globally. [16]
 
-**COMMENT:** This investigation highlights the ongoing scrutiny within Russian judiciary circles regarding corruption, potentially signaling a broader government initiative to address high-level corruption. It may influence public perception of the judiciary's integrity and lead to further investigations into connected individuals.
+**COMMENT:** The drone attacks highlight ongoing vulnerabilities in Russian energy infrastructure amid the Ukraine conflict. This development could lead to heightened tensions and increased military responses from Russia aimed at protecting critical energy assets.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Novorossiysk / Novorossiysk, 44.7239578, 37.7690711 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.723958&mlon=37.769071#map=8/44.723958/37.769071) (Новороссийск)
 
-**KEYWORDS:** #россия #вс рф #удар #сф #про
-
-
-## Explosives Found on Gas Infrastructure Linked to Turkish Stream
-On April 6th, 2026, explosives and detonators were discovered near the Turkish Stream gas pipeline in Serbia, raising concerns over security against potential threats to energy infrastructure. This incident highlights increasing tensions surrounding energy routes in Europe, particularly amid ongoing geopolitical conflicts involving Ukraine. [18]
-
-**COMMENT:** The discovery of explosives near the Turkish Stream pipeline indicates escalating security risks for vital energy infrastructure in the region. This may prompt Russia and its partners to enhance protective measures along strategic transit routes as tensions with Ukraine persist.
-
-**LOCATION:** Serbia / Serbia, 44.1534121, 20.55144 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.153412&mlon=20.551440#map=8/44.153412/20.551440) (Сербия)
-
-**KEYWORDS:** #россия #пво #удар #сво #беспилотник #пуск #часть #про
+**KEYWORDS:** #россия #минобороны россии #минобороны #штаб #удар #беспилотник #про
 
 
-## Russian Air Defense Shoots Down 14 Ukrainian Drones in Six Hours
-On April 6th, 2026, Russia's air defense intercepted and shot down 14 Ukrainian drones over its territory within a six-hour span, primarily over Belgorod and Voronezh regions. This response follows recent drone attacks that injured three ambulance personnel in Belgorod, indicating a heightened level of hostilities in the region. [19]
+## Two Men Wounded in LPR Following Drone Strike
+On April 7th, 2026, two men were wounded in the Kremensky district of the Luhansk People's Republic (LPR) when a drone operated by the Ukrainian Armed Forces struck their car. This incident highlights the ongoing conflict in the region as the Russian military continues to assert control, following the complete liberation of the LPR by Russian forces. [17]
 
-**COMMENT:** This event underscores the ongoing threat posed by Ukrainian drone operations against Russian territory, highlighting the vulnerabilities within local air defenses. Continued successful interceptions may prompt further military responses or adjustments in operational strategies by both sides.
+**COMMENT:** The drone strike underscores the persistent threat posed by Ukrainian forces despite Russian claims of territorial control. Future hostilities may increase as both sides respond to escalating tensions and attacks on civilian targets.
 
-**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
+**LOCATION:** Kremensky district / Kremensky district, Unknown, Unknown [Click for Map Location](#)
 
-**KEYWORDS:** #минобороны рф #минобороны #пво #удар #беспилотник #бпла #про
-
-
-## Russian Federation Council Responds to Armenian Speaker's EAEU Withdrawal Statement
-On April 6th, 2026, Deputy Speaker of the Federation Council Konstantin Kosachev labeled Armenian National Assembly Chairman Alen Simonyan's statement about a potential withdrawal from the EAEU over rising gas prices as incorrect. He emphasized that Armenia benefits from favorable gas pricing compared to Europe, which bolsters its economic competitiveness and political stability. [20]
-
-**COMMENT:** This statement reflects ongoing tensions regarding Armenia's economic decisions within the EAEU framework, which may influence regional alliances. The emphasis on competitive pricing from Russia suggests a strategic maneuver to maintain influence over Armenia and deter any moves towards disassociation from the EAEU.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #российский #сво #сф #про
+**KEYWORDS:** #россия #российские #вс рф #российские военные #удар #сво #про
 
 
-## Seven Civilians Injured in Donetsk Republic Due to Ukrainian Attacks
-On April 6th, 2026, seven civilians in the Donetsk People’s Republic were injured from attacks carried out by the Ukrainian Armed Forces, according to regional head Denis Pushilin. The assaults involved drone attacks and landmines, leading to injuries among various age groups in Donetsk and surrounding areas. [21]
+## Russian Armed Forces Strike Ukrainian Cruise Missile Production
+On April 7th, 2026, the Russian Armed Forces carried out an attack against a facility in Ukraine associated with the production of cruise missiles. This action reflects ongoing military operations against Ukraine's military capabilities and could escalate tensions in the region. [18]
 
-**COMMENT:** This incident highlights the ongoing conflict dynamics and the impact on civilians in the Donetsk region. Such attacks may escalate tensions and prompt further military responses from either side.
+**COMMENT:** The strike indicates a sustained Russian focus on degrading Ukraine's military supply chains, particularly in advanced weaponry. Future implications may include increased hostilities and a potential response from Ukraine or its allies.
 
-**LOCATION:** Donetsk People's Republic / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](https://iz.ru/2073915/2026-04-06/sem-mirnykh-zhitelei-postradali-v-dnr-iz-za-atak-vsu?main_click) (Донецкая Народная Республика)
+**LOCATION:** Ukraine / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) (Украина)
 
-**KEYWORDS:** #российские #российские войска #удар #сво #беспилотник #про
-
-
-## Adviser States Complete Liberation of Donetsk People's Republic Depends on Military Action
-On April 6th, 2026, Igor Kimakovsky, an adviser to the head of the Donetsk People's Republic, indicated that the territory would be fully liberated as Russian forces aim to expel Ukrainian militants from the Kramatorsk-Slavic agglomeration. He emphasized the strategic importance of Konstantinovka as a key location in this process, suggesting that its capture would lead to further gains for Russian troops in the surrounding areas. [22]
-
-**COMMENT:** This development highlights ongoing military objectives in eastern Ukraine, with Russian forces focusing on major settlements that could shift the balance in the region. Observing these territorial changes will be crucial for assessing Russia's strategic posture and potential escalation in the conflict.
-
-**LOCATION:** Donetsk People's Republic / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](https://www.kp.ru/online/news/6905556/) (Донецкая Народная Республика)
-
-**KEYWORDS:** #российские #российские войска #армия россии #сво #армия #про
+**KEYWORDS:** #вс россии #удар #про
 
 
 # Sources
-[1] interfax.ru - https://interfax.ru/russia/1082315?utm_source=top  
+[1] Interfax - https://interfax.ru/russia/1082539?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1082345?utm_source=top  
+[2] Interfax - https://interfax.ru/russia/1082479?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1082325?utm_source=top  
+[3] Interfax - https://interfax.ru/russia/1082542?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html  
+[4] Interfax - https://interfax.ru/russia/1082566
 
-[5] interfax.ru - https://interfax.ru/russia/1082384  
+[5] Interfax - https://interfax.ru/russia/1082565
 
-[6] interfax.ru - https://interfax.ru/russia/1082380  
+[6] Interfax - https://interfax.ru/russia/1082559
 
-[7] interfax.ru - https://interfax.ru/russia/1082379  
+[7] Interfax - https://interfax.ru/russia/1082558
 
-[8] aif.ru - https://aif.ru/society/rasplata-za-nalety-dronov-vsu-moshchnyy-roy-geraney-vzorval-armiyu-ukrainy  
+[8] AIF - https://aif.ru/politics/peskov-zayavil-o-bolshom-chisle-zaprosov-na-rossiyskie-energoresursy
 
-[9] www.vesti.ru - https://www.vesti.ru/ns/osvobozhdenie-dnr-zavershitsya-posle-vydavlivaniya-vsu-iz-slavyanska-i-kramatorska  
+[9] www.vesti.ru - https://www.vesti.ru/ns/bastrykin-rasskazal-ob-ugolovnykh-delakh-v-otnoshenii-advokatov
 
-[10] www.vesti.ru - https://www.vesti.ru/ns/fsin-oprovergla-soobshcheniya-o-popytke-suicida-terrorista-iz-krokusa-ausheva  
+[10] www.vesti.ru - https://www.vesti.ru/ns/franciya-razmestila-istrebiteli-vblizi-granicy-rossii-pishut-smi
 
-[11] www.vesti.ru - https://www.vesti.ru/ns/mash-v-gostinice-pekin-v-moskve-otravilis-20-chelovek-priekhavshikh-na-gastroli  
+[11] www.vesti.ru - https://www.vesti.ru/ns/belousov-vysoko-ocenil-rabotu-edinogo-centra-prizyva-v-moskve
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/zakharova-zayavila-chto-rossiya-sdelala-preduprezhdenie-stranam-baltii  
+[12] www.vesti.ru - https://www.vesti.ru/ns/zavershen-vtoroj-ehtap-stroitelstva-akvatorii-terminala-ust-luga
 
-[13] www.vesti.ru - https://www.vesti.ru/ns/odin-iz-ustroivshikh-terakt-v-krokuse-pokonchil-s-soboj  
+[13] www.vesti.ru - https://www.vesti.ru/ns/odin-chelovek-pogib-eshche-10-postradali-pri-atake-vsu-na-zaporozhskuyu-shkolu
 
-[14] www.vesti.ru - https://www.vesti.ru/ns/khinshtejn-prokommentiroval-prigovor-ehks-gubernatoru-smirnovu-po-delu-o-korrupcii  
+[14] www.vesti.ru - https://www.vesti.ru/ns/v-rf-formiruyut-novyj-perechen-zabolevanij-prepyatstvuyushchikh-otbyvaniyu-nakazaniya
 
-[15] www.vesti.ru - https://www.vesti.ru/ns/doch-ehks-glavy-krasnodarskogo-suda-zapodozrili-v-korrupcii  
+[15] www.vesti.ru - https://www.vesti.ru/ns/bakanov-soobshchil-chto-prodlenie-raboty-mks-do-2030-goda-vozmozhno
 
-[16] www.vesti.ru - https://www.vesti.ru/ns/melikov-nepogoda-nanesla-ushcherb-155-tys-zhitelej-dagestana  
+[16] iz.ru - https://iz.ru/2074151/2026-04-07/ataki-vsu-na-neftegazovuiu-infrastrukturu-negativno-vliiaiut-na-drugie-strany-i-vot-pochemu
 
-[17] www.vesti.ru - https://www.vesti.ru/ns/gp-proverit-sestru-zolotoj-sudi-khakhalevoj  
+[17] www.kp.ru - https://www.kp.ru/online/news/6907276/
 
-[18] iz.ru - https://iz.ru/2073470/2026-04-06/turetckii-potok-pytalis-podorvat-chto-nuzhno-znat-o-gazoprovode  
-
-[19] iz.ru - https://iz.ru/2073899/2026-04-06/sredstva-pvo-za-shest-chasov-sbili-14-bespilotnikov-vsu  
-
-[20] iz.ru - https://iz.ru/2073918/2026-04-06/v-sf-nazvali-zaiavlenie-spikera-armenii-o-vykhode-iz-eaes-nekorrektnym?main_click  
-
-[21] iz.ru - https://iz.ru/2073915/2026-04-06/sem-mirnykh-zhitelei-postradali-v-dnr-iz-za-atak-vsu?main_click  
-
-[22] www.kp.ru - https://www.kp.ru/online/news/6905556/
+[18] ria.ru - https://ria.ru/20260407/udar-2085637134.html

@@ -1,272 +1,222 @@
-# Report Date: 2026-04-06
+# Report Date: 2026-04-07
 
 ## Summary
-Raportointijaksolla on tapahtunut useita merkittäviä tapauksia Venäjällä ja Ukrainan itäisessä osassa, joissa korruption vastainen toimenpide, teollisuuden turvallisuusongelmat ja sotilaalliset konfliktit ovat keskiössä. Entinen Kurskin kuvernööri Alexei Smirnov sai pitkän vankeusrangaistuksen korruptiosta, mikä vihjaa hallituksen tiukentuvista toimista alueellista hallintoa kohtaan. Teollisuusonnettomuus Nizhnekamskneftekhimissa, jossa kymmeniä ihmisiä haavoittui, nostaa esiin turvallisuusstandardeja. Ukrainan ja Venäjän väliset konfliktit jatkuvat, mikä aiheuttaa siviilihankkeille haittaa Donetskin alueella. 
+Raportointijaksolla Venäjällä on tapahtunut useita merkittäviä poliittisia ja sosiaalisia kehityksiä. Huomionarvoista on korruptionvastaisen toiminnan korostuminen korkeassa hallinnossa, mikä näkyy useiden virkamiesten pidätyksissä ja tuomioissa. Koulutukseen liittyvät ongelmat korostuvat myös, kun hallitus reagoi opettajien turvallisuuden heikentymiseen. Lisäksi energia-alalla on tapahtunut nousua kysynnässä, mikä voi vaikuttaa Venäjän taloudellisiin etuihin globaalissa kontekstissa. Konflikti Ukrainassa jatkuu, mikä näkyy jatkuvina sotilaallisina toimenpiteinä.
 
-Mikäli korruption torjunta ja teollisuuden turvallisuuden parantaminen jatkuvat, voimme odottaa lisää toimenpiteitä ja valvontaa näissä asioissa. Sotilaalliset jännitteet itäisessä Ukrainassa vaikuttavat myös alueellisiin suhteisiin ja turvallisuustilanteeseen.
+## Kubanin varakuvernööri Andrei Korobkan pidätys petossyytteistä
+Huhtikuun 7. päivänä 2026 varakuvernööri Andrei Korobka Krasnodarin alueelta pidätettiin Krasnodarin Leninskyn piirikunnassa suuressa petoksessa, jonka arvioidut takavarikoidut varat ovat 10 miljardia ruplaa. Tuomioistuin määräsi hänet kahden kuukauden tutkintavankeuteen. [1]
 
-## Entinen Kurskin kuvernööri tuomittu 14 vuodeksi lahjonnasta
-Maaliskuun 6. päivänä 2026 Leninsky alueoikeus Kurskissa tuomitsi entisen kuvernöörin Alexei Smirnovin 14 vuodeksi vankeuteen ja määräsi 400 miljoonan ruplan sakot suurten lahjusten vastaanottamisesta. Tuomio sisältää myös kymmenen vuoden kiellon kaikista valtion tai kunnallistehtävistä, mikä osoittaa käynnissä olevia pyrkimyksiä tehostaa korruption vastaista toimintaa alueellisessa hallinnossa. [1]
+**COMMENT:** Tämä korkea-arvoisen viranomaisen pidätys kuvastaa Venäjän viranomaisten jatkuvia pyrkimyksiä torjua korruptiota paikallisessa hallinnossa. Tapaus voi paljastaa syvempiä ongelmia hallinnon vastuullisuudessa Krasnodarin alueella.
 
-**COMMENT:** Tämä tapaus heijastaa jatkuvaa keskittymistä korruptioon paikallisten viranomaisten keskuudessa, mikä on merkittävä ongelma Kremlille, joka pyrkii ylläpitämään sisäistä vakautta. Korkean profiilin tuomio voi estää vastaavanlaista väärinkäytöstä muilla alueilla, mutta se voi myös korostaa paikallisten hallintorakenteiden mahdollisia haavoittuvuuksia.
-
-**LOCATION:** Kursk / Kursk, 51.7270357, 36.192248 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.727036&mlon=36.192248#map=8/51.727036/36.192248) (Курск)
-
-**KEYWORDS:** #russia #штаб #удар #сво #про
-
-
-## Nizhnekamskneftekhimissa syttyneen tulipalon uhrit 11; kadonneen työntekijän etsintä jatkuu
-Maaliskuun 6. päivänä 2026 Nizhnekamskneftekhimissa syttynyt tulipalo vaati yhteensä 11 ihmisen hengen, ja etsinnät kadonneen työntekijän löytämiseksi jatkuvat. Lisäksi 25 henkilöä on joutunut sairaalaan eri lääketieteellisiin keskuksiin Moskovassa, Kazanissa ja Nizhnekamskissa, mikä on johtanut yrityksen aloittamaan korvaukset uhreille ja heidän perheilleen. [2]
-
-**COMMENT:** Tämä tapaus tuo esiin jatkuvia turvallisuus- ja sääntelyongelmia Venäjän teollisuusaloilla, erityisesti korkeaa riskiä aiheuttavissa ympäristöissä. Tulevaisuudessa yrityksen reaktio saattaa herättää huomiota turvallisuusstandardien ja hätätoteutusten osalta kemianteollisuudessa.
-
-**LOCATION:** Nizhnekamsk / Nizhnekamsk, 55.6412879, 51.8160376 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.641288&mlon=51.816038#map=8/55.641288/51.816038) (Нижнекамск)
-
-**KEYWORDS:** #russia #про
-
-
-## Crocus City Hallin hyökkäyksestä tuomittu itsemurha vankilassa
-Maaliskuun 6. päivänä 2026 elinkautiseen tuomioon tuomittu henkilö, joka liittyi Crocus City Hallin terrori-iskuun, löydettiin kuolleena Moskovan SIZO-1:stä, jossa hän oli tehnyt itsemurhan. Viranomaiset suorittavat esitutkinnan tämän tapauksen ympärillä arvioidakseen hänen kuolemansa olosuhteita. [3]
-
-**COMMENT:** Vankilassa tapahtunut itsemurha, joka liittyy korkean profiilin terrori-iskuun, voi viitata haasteisiin vankilajärjestelmässä, erityisesti vakaviin rikoksiin liittyvien vankien hallinnassa. Tämä tapahtuma saattaa johtaa tarkastelun nousuun turvallisuus- ja mielenterveysprotokollista Venäjän vankilalaitoksissa.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Krasnodar / Krasnodar, 45.0351532, 38.9772396 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.035153&mlon=38.977240#map=8/45.035153/38.977240) (Краснодар)
 
 **KEYWORDS:** #russia #сво #про
 
 
-## Siviilit haavoittuvat Ukrainan sotilaallisessa toiminnassa
-Maaliskuun 20. päivänä 2026 on raportoitu, että seitsemän siviiliä loukkaantui sotatoimissa Donetskin kansantasavallassa, mukaan lukien kolme dronehyökkäyksen uhria ambulanssissa Borisovkassa. Lisäksi merkittäviä vahinkoja on raportoitu Zaporozhye alueen sähköjärjestelmälle, ja sairaalat sekä välttämättömät palvelut turvautuvat generaattoreihin toimiakseen. [4]
+## Opetusministeriö lähettää komission Permin alueelle opettajan murhan jälkeen
+Huhtikuun 7. päivänä 2026 Opetusministeriö lähetti erityiskomission Permin alueelle jälkeen 9. luokan opettajan murhan Dobryankassa. Komission tehtävänä on tarjota psykologista tukea asianomaisille opiskelijoille, vanhemmille ja opettajille yhteistyössä paikallisten koulutusviranomaisten kanssa. [2]
 
-**COMMENT:** Tämä tapaus nostaa esiin sotatoimien jatkuvat vaikutukset siviili-infrastruktuuriin ja -elämään Itä-Ukrainassa. Odotettavissa olevat toipumisvaikeudet Zaporozhye alueella voivat edelleen rasittaa resursseja ja johtaa lisääntyvään tarkasteluun operatiivisista strategioista.
+**COMMENT:** Tämä tapaus korostaa jatkuvia huolenaiheita Venäjän koulutuslaitosten turvallisuudesta. Hallituksen nopea vastaus voi viitata pyrkimyksiin ylläpitää vakautta koulumaailmassa väkivallan lisääntyessä.
 
-**LOCATION:** Donetskin kansantasavalta / Donetsk People's Republic, Unknown, Unknown
+**LOCATION:** Dobryanka / Dobryanka, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=Unknown&mlon=Unknown) (Добряка)
 
-**KEYWORDS:** #российские #минобороны рф #минобороны россии #российские военные #российские военнослужащие #минобороны #пво #удар #беспилотник #бпла #про
-
-
-## Seitsemän haavoittui UAV-hyökkäyksissä ja miinojen räjähdyksissä Donetskin kansantasavallassa
-Maaliskuun 6. päivänä 2026 seitsemän siviiliä haavoittui Donetskin kansantasavallassa UAV-hyökkäysten ja käsikranaatti-invaasion seurauksena, DPR:n johtaja Denis Pushilin mukaan. Tämä tapaus korostaa alueen jatkuvaa väkivaltaa konfliktin keskellä. [5]
-
-**COMMENT:** Tämä tapahtuma heijastaa jatkuvaa epävakautta ja turvallisuushaasteita Donetskin kansantasavallassa. Ilmoitetut vammat viittaavat mahdollisiin vihollisuuksien kärjistymisiin, mikä voi vaikuttaa siviiliturvallisuuteen ja humanitaarisiin olosuhteisiin alueella.
-
-**LOCATION:** Donetskin kansantasavalta / Donetsk People's Republic, Unknown, Unknown
-
-**KEYWORDS:** #russia #удар #бпла #про
+**KEYWORDS:** #russia #сво #сф #про
 
 
-## Rajoitukset nostettu Kalugan lentokentällä
-Maaliskuun 6. päivänä 2026 Rosaviatsiya nosti ohjeet Kaluga-alueen "Grabtsevo" lentokentällä lentojen lähettämisestä ja vastaanottamisesta, mikä tapahtui alle 20 minuutin kestävän turvallisuushaasteen vuoksi. Tämä kehitys merkitsee paluuta normaaliin toimintakäytäntöyn lentokentällä, mikä saattaa parantaa alueellista yhteyksiä. [6]
+## Luonnonvaraministeriö kumoaa huhut Punakirjan eläinten metsästyksen laillistamisesta
+Huhtikuun 7. päivänä 2026 Luonnonvaraministeriö Moskovassa kumosi huhut Punakirjan eläinten metsästyksen laillistamisesta ja totesi voimassaolojen säilyvän ennallaan vuodesta 1997. Ministeriö korosti, että metsästäminen on sallittua vain poikkeustapauksissa, mikä vahvistaa olemassa olevia suojelutoimia. [3]
 
-**COMMENT:** Lentokentän lentokieltojen nopea ratkaiseminen heijastaa viranomaisten kykyä puuttua tehokkaasti turvallisuusongelmiin. Tämä tapahtuma voi viitata hallituksen keskittymiseen toimintavakauden ylläpitämiseen turvallisuusarvioiden keskellä alueella.
+**COMMENT:** Tämä kielto heijastaa ministeriön sitoutumista luonnonsuojeluun julkisten huolien keskellä ympäristöpoliitikoista. Se viittaa myös siihen, että hallitus saattaa jatkaa säätelyvalvontaa estääkseen haavoittuvien lajien mahdollisen hyväksikäytön.
 
-**LOCATION:** Kaluga / Kaluga, 54.5101087, 36.2598115 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.510109&mlon=36.259811#map=8/54.510109/36.259811) (Калуга)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #удар #пуск #про
+
+
+## Entinen Kurskin varakuvernööri tuomittiin 17 vuodeksi lahjuksista
+Huhtikuun 7. päivänä 2026 Kurskin Leninskyn piirikunnan tuomioistuin tuomitsi entisen varakuvernööri Alexei Dedovin 17 vuodeksi vankeuteen suurista lahjusten hyväksymisestä. Tuomioistuimen määräyksillä myös 450 miljoonan ruplan sakko määrätty ja yli 20,9 miljoonaa ruplaa laittomista tuloista takavarikoitu. [4]
+
+**COMMENT:** Tämä tuomio heijastaa Venäjän valtion pyrkimyksiä torjua korruptiota eri hallintotasoilla, mikä viittaa jatkuvaan vastuullisuuden lisääntymiseen. Merkittävä rangaistus voi toimia pelotteena vastaavaan väärinkäytökseen muille viranomaisille.
+
+**LOCATION:** Kursk / Kursk, 51.7270357, 36.192248 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.727036&mlon=36.192248#map=8/51.727036/36.192248) (Курск)
+
+**KEYWORDS:** #russia #удар #сво
+
+
+## Kubanin varakuvernööri kohtaa erottamisen keskellä 10 miljardin ruplan korruptiotapaus
+Huhtikuun 7. päivänä 2026 Venäjän liittovaltion pääsyyttäjänvirasto esitti hakemuksen Andrei Korobkan erottamiseksi Krasnodarin alueeltä 10 miljardin ruplan arvoisen korruptiotapauksen vuoksi. Tämä toimenpide korostaa jatkuvia korruptionvastaisia toimia aluehallinnossa, erityisesti merkittävien sektoreiden, kuten maatalouden, viranomaisille. [5]
+
+**COMMENT:** Suurten varojen takavarikointi korkealta virkamieheltä osoittaa Venäjän viranomaisten tiukkaa lähestymistapaa korruptioon. Tämä voi viitata kasvavaan valvontaan ja vastuullisuustoimenpiteisiin hallituksen virkamaisia kohtaan, mikä voi vaikuttaa hallintoon Krasnodarin alueella.
+
+**LOCATION:** Krasnodar / Krasnodar, 45.0035239, 38.9611787 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.003524&mlon=38.961179#map=8/45.003524/38.961179) (Краснодар)
+
+**KEYWORDS:** #russia #удар #сво #сф #про
+
+
+## Entinen Regardie varajohtaja tuomittiin 8 vuodeksi ja 6 kuukaudeksi
+Huhtikuun 7. päivänä 2026 Moskovan toisen läntisen alueen sotilasistuimen tuomioistuin korotti entisen Regarien varajohtajan Sergei Mileikon vankeustuomion 7 vuodesta 8 vuoteen ja 6 kuukauteen varojen väärinkäytön vuoksi, jotka oli varattu vaatehuoltoon. Lisäksi Igor Shalnov, SpetsShveySnabin johtaja, sai 7 vuoden tuomion, mikä korostaa jatkuvia korruptio-ongelmia Venäjän armeijassa ja turvallisuusrakenteissa. [6]
+
+**COMMENT:** Tämä kehitys korostaa oikeusjärjestelmän kasvavaa herkkyyttä korruptiosyytöksille valtion viranomaisissa, erityisesti sotilasympäristössä. Kiristynyt tuomio voi heijastaa laajempaa hallinnollista pyrkimystä vahvistaa vastuullisuutta ja estää valtion varojen väärinkäyttöä.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #гарнизон #удар #сво #про
+
+
+## Opetusministeriö käynnistää chatbotin opettajien tueksi
+Huhtikuun 7. päivänä 2026 Venäjän Opetusministeriö lanseerasi chatbotin MAX-viestintäohjelmassa tukemaan opettajia kautta maan. Tämä aloitteessa on tarkoituksena auttaa opettajia konfliktitilanteissa tarjoamalla räätälöityjä suosituksia ja pääsyn sääntelyohjeisiin. [7]
+
+**COMMENT:** Chatbotin käyttöönotto heijastaa hallituksen keskittymistä opettajien tarpeiden käsittelemiseen ja heidän suojelunsa parantamiseen koulutustilanteissa. Se saattaa myös viitata laajempiin pyrkimyksiin vakauttaa opetusala yhteiskunnallisten haasteiden ja mahdollisten konfliktien keskellä.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
 **KEYWORDS:** #russia #про
 
 
-## Venäjän ilmapuolustus neutraloi 14 UAV:ta Belgorodin, Voronezhin ja Kurskin alueilla
-Maaliskuun 6. päivänä 2026 Venäjän ilmapuolustusjärjestelmät keskeyttivät ja tuhosivat 14 drone-tyyppistä UAV:ta Belgorodin, Voronezhin ja Kurskin alueilla välillä 14:00 ja 20:00 Moskovan aikaa, puolustusministeriön mukaan. Seitsemän dronetta neutraloitiin Belgorodissa, kuusi Voronezhissa ja yksi Kurskissa. [7]
+## Peskov raportoi lisääntyneistä pyynnöistä venäläisille energialähteille
+Huhtikuun 7. päivänä 2026 Venäjän presidentin tiedottaja Dmitry Peskov ilmoitti, että maa saa merkittävän määrän pyyntöjä energian toimituksista ja neuvottelee parhaillaan eri kumppaneiden kanssa. Tämä kysynnän nousu johtuu nykyisestä ulkomaanympäristöstä ja se saattaa johtaa laajempaan yhteistyöhön energiasektorilla, kun globaalit energiahinnat nousevat Lähi-idän geopoliittisten jännitteiden vuoksi. [8]
 
-**COMMENT:** Successfully intercepted UAVs indicate the effectiveness of Russia's air defense systems in safeguarding its border regions. Continued drone incursions may escalate defensive measures and prompt a reassessment of operational protocols along these critical areas.
+**COMMENT:** Kysynnän kasvu energialähteille korostaa Venäjän kykyä vahvistaa energiaeksportitulojaan globaaleihin jännitteisiin nähden. Tämä suuntaus voi johtaa lisääntyvään strategiseen vaikutusvaltaan Venäjälle energiamaailmassa ja mahdollisesti vaikuttaa globaaliin taloudelliseen vakauteen.
 
-**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #russia #минобороны #беспилотник #бпла #перехват #про
-
-
-## Venäjän ilmapuolustus torjuu laaja-alaisen Ukrainan dronehyökkäyksen
-Maaliskuun 5. päivänä 2026 Venäjän ilmapuolustusjärjestelmät onnistuivat torjumaan merkittävän hyökkäyksen ukrainalaisilta droneilta, ampumalla alas yhteensä 164 UAV:ta eri alueilla, mukaan lukien Bryansk, Voronezh ja Kursk. Venäläinen armeija raportoi jännitteiden lisääntymisestä Nizhny Novgorodin alueella, mikä viittaa jatkuviin kärjistymisiin konfliktissa. [8]
-
-**COMMENT:** Venäjän ilmapuolustuksen tehokkuus drone-hyökkäyksiä vastaan korostaa jatkuvaa uhkaa, jonka ukrainalaiset UAV-operaatiot aiheuttavat. Tämä tapaus voi johtaa operaatiivisiin säätöihin molemmilta puolilta konfliktin tiivistyessä.
-
-**LOCATION:** Nizhny Novgorod / Nizhny Novgorod, 56.3264816, 44.0051395 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.326482&mlon=44.005139#map=8/56.326482/44.005139) (Нижний Новгород)
-
-**KEYWORDS:** #российские #минобороны россии #минобороны #министерство обороны #пво #штаб #удар #сво #беспилотник #бпла #сф #про
+**KEYWORDS:** #россия #российские #сво #сф #часть #про
 
 
-## DPR:n vapauttaminen riippuu Ukrainan joukkojen poistamisesta Slavyanskista ja Kramatorskista
-Maaliskuun 6. päivänä 2023 Igor Kimakovsky, Donetskin kansantasavallan (DPR) johtajan neuvonantaja, totesi, että DPR:n täydellinen vapauttaminen tapahtuu vasta, kun ukrainalaiset sotilaat on karkotettu Slavyanskiin ja Kramatorskiin. Hän korosti Konstantinovkan strategista merkitystä, osoittaen, että sen kaatuminen vaikuttaisi merkittävästi ukrainalaiseen puolustukseen alueella. [9]
+## Bastrykin raportoi rikosoikeudenkäynneistä asianajajia vastaan
+Huhtikuun 7. päivänä 2025 Alexander Bastrykin, Venäjän tutkintakomitean päällikkö, ilmoitti, että 92 asianajajan rikosoikeudelliset tapaukset on siirretty tuomioistuimiin. Hän painotti, että monet näistä tapauksista liittyvät asiakkaiden varastamiseen ja korosti joidenkin oikeudellisten ammattilaisten ongelmallista käyttäytymistä lakien ja oikeuksien rikkomisessa. [9]
 
-**COMMENT:** Tämä lausunto korostaa DPR:n viranomaisten jatkuvia tavoitteita vakiinnuttaa hallinta kiistellyillä alueilla, mikä voi johtaa lisääntyneisiin sotilaallisiin paineisiin lyhyellä aikavälillä. Painopisteen siirtäminen merkittäviin kaupunkeihin, kuten Konstantinovkaan, viittaa taktiseen muutokseen, joka voi kärjistää konfliktia alueella.
-
-**LOCATION:** Donetskin kansantasavalta / Donetsk People's Republic, Unknown, Unknown
-
-**KEYWORDS:** #вс рф #удар #сво #беспилотник #сф #армия #про
-
-
-## FSIN kiistää tietojen itsemurhayrityksestä vankilassa
-Maaliskuun 6. päivänä 2025 Venäjän liittovaltion vankeinhoitopalvelu (FSIN) kiisti tiedot, joiden mukaan Crocus City Hallin hyökkäyksestä tuomittu Dzhabrail Aushev olisi yrittänyt itsemurhaa vankilassa. FSIN selvensi, että aikaisemmat väitteet Aushevin itsemurhayrityksistä olivat väärät ja vahvisti tuoretta tietoa toisesta tapauksesta, joka liittyi samaan. [10]
-
-**COMMENT:** Itsemurhayrityksen kiistäminen viittaa FSIN:n pyrkimykseen hallita kertomuksia terroristeista ja extremisteistä vankilajärjestelmässä. Radikaalien elementtien valvonta vankeusjärjestelmässä tulee olemaan elintärkeää, kun valtion vastaukset äärimuotoisiin tekoihin edelleen kehittyvät.
+**COMMENT:** Tämä merkittävä oikeudellinen toimi asianajajia vastaan viittaa Venäjän oikeusalan kasvavaan valvontaan, joka voi liittyä laajempiin korruptio- ja vastuullisuusongelmiin tuomioistuimessa. Nämä syytökset voivat johtaa tiukempiin kontrollitoimiin oikeudellisia ammattilaisia kohtaan ja oikeuksien edelleen heikentymiseen.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #минобороны #удар #сво #сф #про
+**KEYWORDS:** #россия #корпус #удар #сво #сф #про
 
 
-## Kaksikymmentä turistia myrkytettiin Moskovassa sijaitsevassa Beijing Hotelissa
-Maaliskuun 6. päivänä 2023 kaksikymmentä näyttelijää ja teknikkoa Krasnojarskista myrkytettiin ollessaan Beijing Hotelissa Moskovassa teatterikiertueen vuoksi. Yksi henkilö vietiin sairaalaan, ja myrkytyksen syy on yhä tutkimuksen kohteena, sillä ryhmä sairastui aamiaisen jälkeen. [11]
+## Ranska lähettää hävittäjiä Venäjän rajan lähelle
+Huhtikuun 7. päivänä 2023 Ranskan ilmavoimat sijoittivat Rafale-hävittäjiä Šiaulian lentotukikohtaan Liettuassa, joka sijaitsee 130 kilometrin päässä Venäjän rajasta. Tämä sijoittaminen on merkittävää, sillä hävittäjät osallistuvat Naton Itämeren ilma-patrullikampanjaan, mikä herättää huolta lisääntyvästä sotilaallisesta jännityksestä alueella. [10]
 
-**COMMENT:** Tämä tapahtuma nostaa esiin jatkuvia huolenaiheita yleisestä terveydestä ja turvallisuudesta majoituspaikoissa Venäjällä. Hallituksen reaktio tähän tapahtumaan voi vaikuttaa yleiseen luottamukseen kotimaan matkailun ja majoituspalveluiden turvallisuuteen.
+**COMMENT:** Ranskan hävittäjien sijoittaminen Venäjän lähellä korostaa Itä-Euroopan jatkuvaa militarisoitumista kasvavien Naton ja Venäjän jännitteiden keskellä. Tämä toimenpide voi aiheuttaa Venäjän sotilaallisen asenteen arvioinnin lännen rajoilla lähitulevaisuudessa.
 
-**LOCATION:** Beijing Hotel / Beijing Hotel, Unknown, Unknown
+**LOCATION:** Šiauliai / Šiauliai, 55.9340823, 23.3157775 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.934082&mlon=23.315777#map=8/55.934082/23.315777) (Šiauliai)
 
-**KEYWORDS:** #россия #удар #сф #про
+**KEYWORDS:** #россия #assault #учения #удар #бпла #зрк #истребитель #сф #про
 
 
-## Venäjä varoittaa Baltian maita ukrainalaisten dronejen vuoksi
-Maaliskuun 20. päivänä 2026 Venäjän ulkoministeriön tiedottaja Maria Zakharova ilmoitti, että Venäjä on antanut varoituksen Baltian maista niiden päätöksestä avata ilmatila ukrainalaisille droneille, jotka on tarkoitettu hyökkäykseen Venäjän alueelle. Zakharova korosti, että varoituksiin suhtautumatta jättäminen voisi johtaa Venäjän toimiin. [12]
+## Belousov kiittää Moskovan keskitetyn puhelinkeskuksen työtä
+Huhtikuun 7. päivänä 2023 puolustusministeri Andrei Belousov ja Moskovan pormestari Sergei Sobyanin tarkastivat keskitetyn puhelinkeskuksen ja sotilasrekrytointikeskuksen Moskovassa. He korostivat uuden rakennuksen automaattisia järjestelmiä asevelvollisuudelle ja kehuivat tarjottujen palveluiden tehokkuutta asukkaille ja oikeushenkilöille. [11]
 
-**COMMENT:** Tämä kehitys heijastaa jännitteiden kasvua Venäjän ja Baltian maiden välillä, erityisesti turvallisuushuolien lisääntyessä UAV-operaatioiden osalta. Tilanne voi johtaa Venäjän lisääntyneisiin sotilaallisiin toimiin, jos Baltian maat jatkavat suunnitelmiaan.
+**COMMENT:** Tarkastus korostaa asevoimien valmiuden ja asevelvollisuuden tehokkuuden jatkuvaa painopistettä keskellä jatkuvia haasteita. Tulevat parannukset automaatiossa voivat heijastaa laajempia trendejä armeijan henkilöstöhallinnassa ja rekrytoinnissa Venäjällä.
 
-**LOCATION:** Baltian valtiot / Baltic States, 56.9172036, 24.2256812 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.917204&mlon=24.225681#map=8/56.917204/24.225681) (Балтийские страны)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #минобороны рф #мо рф #вс рф #минобороны #штаб #министр обороны #призыв #военкомат #удар #сво #сф #про
+
+
+## Ust-Lugan terminaalin toisen vaiheen rakentaminen valmis
+Huhtikuun 7. päivänä 2026 Venäjän liikenneministeriö ilmoitti toisen vaiheen vedenrakennustöiden valmistumisesta Ust-Lugan terminaalissa Leningradin alueella. Tämä hanke, osa kansallista 'Tehokas liikennejärjestelmä' -aloitetta, sisälsi merkittäviä kaivutöitä terminaalin kapasiteetin lisäämiseksi erilaisten tavaratyyppejä varten. [12]
+
+**COMMENT:** Ust-Lugan terminaalin vedenrakennuksen valmistuminen heijastaa Venäjän jatkuvaa investointia kriittisen infrastruktuurin laajentamiseen kaupankäynnissä ja logistiikassa. Tämä kehitys voi parantaa Venäjän operatiivisia kykyjä merilogistiikassa, mikä voi vaikuttaa alueellisiin alusliiketoimiin.
+
+**LOCATION:** Ust-Luga / Ust-Luga, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=Unknown&mlon=Unknown) (Усть-Луга)
+
+**KEYWORDS:** #россия #удар #бпла #сф #про
+
+
+## APU:n hyökkäys Zaporizhian koulua vastaan aiheuttaa yhden kuoleman ja kymmenen vammautumista
+Huhtikuun 7. päivänä 2023 Ukrainan asevoimien hyökkäys koulua vastaan Veliky Znamenkassa, Zaporizhian alueella, johti paikallisen hallinnon ensimmäisen varajohtajan Alexander Reznichenkon kuolemaan ja kymmenen muun, mukaan lukien seitsemän lapsen, vammautumiseen. Tämä tapaus korostaa alueen jatkuvaa väkivaltaa ja herättää huolta siviilien ja infrastruktuurin turvallisuudesta konfliktin jatkuessa. [13]
+
+**COMMENT:** Tämä tapaus korostaa jatkuvaa epävarmuutta Ukrainassa, kun hyökkäykset siviili-infrastruktuuriin jatkuvat, mikä todennäköisesti saa aikaan lisää sotilaallisia ja hallinnollisia vastatoimia molemmilta osapuolilta. Tällaisilla hyökkäyksillä voi olla laajempia vaikutuksia ja jännittyneisyyttä kiistellyillä alueilla.
+
+**LOCATION:** Veliky Znamenka / Veliky Znamenka, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=Unknown&mlon=Unknown) (Великий Знаменка)
 
 **KEYWORDS:** #россия #удар #сво #беспилотник #бпла #сф #про
 
 
-## Crocus City Hallin terrori-iskun järjestäjä tekee itsemurhan vankilassa
-Maaliskuun 6. päivänä 2024 Yusufzod Yakubjoni, Crocus City Hallin maaliskuun 22. päivän terrori-iskuun liittyvä tuomittu, teki itsemurhan Moskovan Sailor's Silence -vankilassa. Huolimatta elvyttämisyrityksistä, hän kuoli; tämä johti esitutkintaan liittovaltion vankeinhoitopalvelun toimesta. [13]
+## Venäjä laatii uuden luettelon sairauksista, jotka estävät rangaistusten täyttämisen
+Huhtikuun 7. päivänä 2023 Venäjän oikeusministeri Konstantin Chuichenko ilmoitti 144 sairauden uuden luettelon muodostamisesta, jotka estävät yksilöitä täyttämästä rangaistuksiaan. Tämä kehitys seuraa aikaisempaa luettelon laajentamista vakavista terveysongelmista, jotka vaikuttavat vangittuihin. [14]
 
-**COMMENT:** Tämä tapahtuma osoittaa turvallisuuden jatkuvia haasteita, jotka liittyvät terrorismiin Venäjällä, ja tuo esiin mahdolliset haavoittuvuudet vankilamajatalojen hallinnassa. Sisäisen turvallisuuspolitiikan seurauksena voidaan korostaa radikaalien valvontaa.
+**COMMENT:** Tämä aloite voi heijastaa pyrkimyksiä uudistaa rangaistusjärjestelmää ja käsitellä terveysongelmia vankiloissa. Tällaiset muutokset voivat vaikuttaa vankien hallintaan ja laajempaan lähestymistapaan oikeudenmukaisuudessa Venäjällä.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #россия #минобороны рф #минобороны #удар #сф #про
+
+
+## Venäjä harkitsee ISS-toiminnan jatkamista vuoteen 2030
+Huhtikuun 7. päivänä 2023 Dmitry Bakanov, Roscosmosin pääjohtaja, ilmoitti Venäjän keskustelleen Kansainvälisen avaruusaseman (ISS) toiminnan mahdollisesta jatkamisesta ainakin vuoteen 2030. Tämä keskustelu Yhdysvaltojen kanssa merkitsee merkittävää muutosta aikaisemmista neuvotteluista, joissa on käsitelty ISS:n purkamista, ja viittaa kansainväliseen avaruusyhteistyöhön. [15]
+
+**COMMENT:** Tämä kehitys heijastaa Venäjän strategista kiinnostusta ylläpitää rooliaan kansainvälisissä avaruushankkeissa geopoliittisten dynamiikan muutosten keskellä. ISS:n mahdollinen jatkaminen voi viitata laajempaan yhteistyöhön Yhdysvaltojen kanssa keskittyen pitkäaikaisiin kumppanuuksiin avaruudessa nykyisistä jännitteistä huolimatta.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #удар #сво #сф #про
-
-
-## Kuvernööri Hinstein kommentoi Smirnovin lahjontatuomiota
-Maaliskuun 6. päivänä 2023 Kurskin alueen kuvernööri Alexander Khinshtein kommentoi entisen kuvernööri Alexei Smirnovin lahjontatuomiota, jonka mukaan Smirnov hyväksyi lahjuksia raja-aitojen rakentamisesta. Khinshtein totesi, että Smirnovin tuomio ei ole lopullinen ja että laaja korruptiotutkinta on käynnissä alueen infrastruktuurihankkeita kohtaan. [14]
-
-**COMMENT:** Tämä kommentti heijastaa jatkuvaa korruption vastaisia toimia alueellisissa hallintorakenteissa, mikä osoittaa Venäjän valtion sitoutumisen sisäisten korruptio-ongelmien ratkaisemiseen. Tämä tilanne voi johtaa lisääntyneeseen valvontaan vastaavissa tapauksissa alueella, mikä saattaa vaikuttaa paikalliseen poliittiseen vakauteen.
-
-**LOCATION:** Kursk Oblast / Kursk Oblast, 51.6568453, 36.4852695 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.656845&mlon=36.485270#map=8/51.656845/36.485270) (Курская область)
-
-**KEYWORDS:** #россия #вдв #штаб #удар #сво #сф #про
-
-
-## Entisen Krasnodarin tuomarin tyttärestä epäillään korruptiota
-Artikkelin julkaisuhetkellä ilmeni, että entisen Krasnodarin tuomarin Alexander Chernovin tytär Anastasia Shepel on epäiltynä osallistumisesta korruptiotoimiin isänsä laittomiin toimintaan liittyen. Tämä kehitys seuraa aikaisempia tuomioita Chernovin vastaan, joissa hän oli tuomittu jopa 13 miljardin ruplan salaisista varoista, joihin hänen sukulaisensa, mukaan lukien Shepel, osallistuivat. [15]
-
-**COMMENT:** Shepel-Chernovin tapauksen tutkiminen nostaa esiin pysyviä korruptio-ongelmia tuomioistuimissa Krasnodarissa, mikä voi merkitä suurempaa valvontaa oikeusviranomaisista Venäjällä. Tulevaisuuden vaikutukset saattavat sisältää edelleen intensiivisiä toimia korruption torjumiseksi ja lisätutkimuksia paikallisissa oikeusmenettelyissä.
-
-**LOCATION:** Krasnodar Krai / Krasnodar Krai, 45.7682027, 39.0258102 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.768203&mlon=39.025810#map=8/45.768203/39.025810) (Краснодарский край)
-
-**KEYWORDS:** #вс рф #удар #сво #сф #про
-
-
-## Vaikeat sääolosuhteet vaikuttavat 15 500 asukkaaseen Dagestanissa
-Maaliskuun 4. päivänä 2026 rankkasateet Dagestanissa aiheuttivat merkittäviä vahinkoja 15 500 asukkaalle, jotka ovat nyt oikeutettuja taloudelliseen apuun. Alueen viranomaiset, johtaen Sergey Melikovia, pyrkivät tehostamaan apuprosessia niille, joiden omaisuudet vahingoittuivat tulvasta ja infrastruktuurin romahtamisesta. [16]
-
-**COMMENT:** Tämä tapaus tuo esiin jatkuvia haasteita, joita vaikeat sääolosuhteet aiheuttavat Venäjällä, mikä voi rasittaa paikallisia hallintoresursseja. Tilanne voi johtaa alueellisten viranomaisten parannettuihin hätätilanteiden hallintaprotokolliin ja kykyyn sopeutua tuleviin sään aiheuttamiin häiriöihin.
-
-**LOCATION:** Dagestan / Dagestan, 43.0, 47.0 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.000000&mlon=47.000000#map=8/43.000000/47.000000) (Дагестан)
 
 **KEYWORDS:** #россия #удар #сф #про
 
 
-## Syytteet 'Kultaisen tuomarin' Khakhalevan sisarta vastaan
-Maaliskuun 6. päivänä 2023 Venäjän pääsyyttäjänvirasto ilmoitti Natalia Khakhalevasta, tuomari Elena Khakhalevan sisaresta, aloitetusta tutkinnasta hänen epäillystä luksusomaisuuden ja varojen hankinnasta korruptiorahoilla. Varat, joiden arvo on miljoonia, oli rekisteröity hänen äitinsä nimeen, mikä herättää epäilyksiä rahanpesuun, joka liittyy oikeuslaitoksen korruptioon. [17]
+## Ukrainan dronehyökkäykset Kaspian putkistokonsortion kohteena häiritsevät energia-markkinoita
+Huhtikuun 6. päivänä 2026 Ukrainan droonit hyökkäsivät Kaspian putkistokonsortion laitoksiin Novorossiyskissä, aiheuttaen merkittävää vahinkoa ja sytyttäen tulipalon neljässä öljytuotetankissa. Tämä tapaus odotetaan lisäävän epävakautta energi-markkinoilla, vaikuttaen öljy- ja kaasusijoituksiin ja lisäten turvallisuusriskejä Euroopassa ja globaalisti. [16]
 
-**COMMENT:** Tämä tutkimus korostaa Venäjän oikeuspiireissä jatkuvaa tarkastelua korruptiota kohtaan, mikä voi merkitä laajempaa valtionaloitteiden aloitetta korkean tason korruption käsittelemiseksi. Se voi vaikuttaa julkiseen käsitykseen oikeuslaitoksen rehellisyydestä ja johtaa lisätutkimuksiin liittyviin henkilöihin.
+**COMMENT:** Dronehyökkäykset korostavat Venäjän energiarakenteen jatkuvia haavoittuvuuksia Ukrainan konfliktin keskellä. Tämä kehitys voi johtaa lisääntyneisiin jännitteisiin ja nopeampiin sotilaallisiin vastatoimiin Venäjältä kriittisten energiaomaisuuksien suojelemiseksi.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Novorossiysk / Novorossiysk, 44.7239578, 37.7690711 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.723958&mlon=37.769071#map=8/44.723958/37.769071) (Новороссийск)
 
-**KEYWORDS:** #россия #вс рф #удар #сф #про
-
-
-## Räjähteitä löydetty kaasuinfrastruktuurista, joka liittyy Turkkiin
-Maaliskuun 6. päivänä 2026 räjähteitä ja sytyttimiä löydettiin Turkish Stream -kaasuputken läheltä Serbiassa, mikä herättää huolta energian infrastruktuurin mahdollisista uhista. Tämä tapaus korostaa kasvavia jännitteitä energiareiteillä Euroopassa, erityisesti Ukrainaan liittyvien jatkuvien geopoliittisten konfliktien keskellä. [18]
-
-**COMMENT:** Räjähteiden löytyminen Turkish Stream -putken läheltä merkitsee turvallisuusriskien lisääntymistä kriittiselle energian infrastruktuurille alueella. Tämä voi valsia Venäjää ja sen kumppaneita parantamaan suojausmenettelyjä strategisten siirtoreittien varrella, kun jännitteet Ukrainan kanssa jatkuvat.
-
-**LOCATION:** Serbia / Serbia, 44.1534121, 20.55144 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.153412&mlon=20.551440#map=8/44.153412/20.551440) (Сербия)
-
-**KEYWORDS:** #россия #пво #удар #сво #беспилотник #пуск #часть #про
+**KEYWORDS:** #россия #минобороны россии #минобороны #штаб #удар #беспилотник #про
 
 
-## Venäjän ilmapuolustus ampui alas 14 ukrainalaista dronea kuuden tunnin aikana
-Maaliskuun 6. päivänä 2026 Venäjän ilmapuolustus keskeytti ja ampui alas 14 ukrainalaista dronea omalla alueellaan kuuden tunnin kuluessa, pääasiassa Belgorodissa ja Voronezhin alueilla. Tämä reaktio seuraa äskettäisiä dronehyökkäyksiä, jotka loukkasivat kolmea ambulanssihenkilöstöä Belgorodissa, mikä viittaa jännitteiden lisääntymiseen alueella. [19]
+## Kaksi miestä haavoittui LPR:ssä droonihyökkäyksen jälkeen
+Huhtikuun 7. päivänä 2026 kaksi miestä haavoittui Luhanskin kansantasavallan Kremenskin piirikunnassa, kun Ukrainan asevoimien drooni iski heidän autoonsa. Tämä tapaus korostaa alueen jatkuvaa konfliktia, kun Venäjän armeija jatkaa hallintavaltaansa, joka perustuu Venäjän voimien täydelliseen vapauttamiseen LPR:stä. [17]
 
-**COMMENT:** Tämä tapahtuma korostaa jatkuvaa uhkaa, jonka ukrainalaiset droneoperaatiot aiheuttavat Venäjän alueelle, tuoden esiin haavoittuvuuksia paikallisissa ilmapuolustusjärjestelmissä. Jatkuva menestyksekäs keskeyttäminen voi johtaa lisääntyneisiin sotilaallisiin toimiin tai muutoksiin operatiivisissa strategioissa molemmilta puolilta.
+**COMMENT:** Tämä droonihyökkäys korostaa jatkuvaa uhkaa, jonka Ukrainan joukot muodostavat Venäjän territoriaalisen hallinnan keskellä. Tulevat vihamielisyydet saattavat lisääntyä, kun kummatkin osapuolet reagoivat kasvaviin jännitteisiin ja siviilitavoitteiden hyökäyksiin.
 
-**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
+**LOCATION:** Kremenskin piirikunta / Kremensky district, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=Unknown&mlon=Unknown) (Кременский район)
 
-**KEYWORDS:** #минобороны рф #минобороны #пво #удар #беспилотник #бпла #про
-
-
-## Venäjän federaation neuvosto reagoi Armenian puhemiehen EAEU:sta eroamista koskevaan lausuntoon
-Maaliskuun 6. päivänä 2026 Liittoneuvoston varapuhemies Konstantin Kosachev nimitti Armenian kansalliskokouksen puheenjohtajan Alen Simonyanin lausunnon EAEU:sta eroamisesta nouseviin kaasuhintoihin liittyen virheelliseksi. Hän korosti, että Armenia hyötyy kilpailukykyisistä kaasuhinnoista verrattuna Eurooppaan, mikä vahvistaa sen taloudellista kilpailukykyä ja poliittista vakautta. [20]
-
-**COMMENT:** Tämä lausunto heijastaa jatkuvia jännitteitä Armenian taloudellisissa päätöksissä EAEU:n rakenteen sisällä, mikä voi vaikuttaa alueellisiin liittoumiin. Venäjän kilpailukykyisten hintojen korostaminen viittaa strategiseen toimenpiteeseen, jolla pyritään säilyttämään vaikutusvalta Armenian suhteen ja estämään mahdollisia liikkeitä EAEU:sta eroamiseksi.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #российский #сво #сф #про
+**KEYWORDS:** #россия #российские #вс рф #российские военные #удар #сво #про
 
 
-## Seitsemän siviiliä haavoittui Donetskin tasavallassa Ukrainan hyökkäyksissä
-Maaliskuun 6. päivänä 2026 seitsemän siviiliä Donetskin kansantasavallassa loukkaantui Ukrainan asevoimien toteuttamien hyökkäysten seurauksena, kertoi alueen johtaja Denis Pushilin. Hyökkäykset sisälsivät dronehyökkäyksiä ja miinoja, joita seurasi loukkaantumisia eri-ikäisten keskuudessa Donetskissa ja ympäröivillä alueilla. [21]
+## Venäjän asevoimat hyökkäävät Ukrainan ohjushyökkäysvalmistukseen
+Huhtikuun 7. päivänä 2026 Venäjän asevoimat suorittivat hyökkäyksen Ukrainassa sijaitsevaan laitokseen, joka on liittynyt ohjushyökkäysten tuottamiseen. Tämä toimi heijastaa Venäjän jatkuvia sotilaallisia toimia Ukrainaa vastaan ja saattaa lisätä jännitteitä alueella. [18]
 
-**COMMENT:** Tämä toinen nurtainen tapauksesta painottaa voin konflikteissa ja niiden vaikutusta siviileihin Donetskin alueella. Tällaiset hyökkäykset voivat kärjistää jännitteitä ja aiheuttaa lisää sotilaallisia vastatoimia kummaltakin puolelta.
+**COMMENT:** Tämä isku osoittaa Venäjän jatkuvaa keskittymistä Ukrainan sotilaallisten toimitusketjujen heikentämiseen, erityisesti kehittyneiden aseiden tapauksessa. Tulevissa seurauksissa saattaa tapahtua lisääntynyttä vihamielisyyttä ja mahdollinen vastaus Ukrainalta tai sen liittolaisilta.
 
-**LOCATION:** Donetskin kansantasavalta / Donetsk People's Republic, Unknown, Unknown
+**LOCATION:** Ukraina / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) (Украина)
 
-**KEYWORDS:** #российские #российские войска #удар #сво #беспилотник #про
-
-
-## Neuvonantaja: Donetskin kansantasavallan täydellinen vapauttaminen riippuu sotatoimista
-Maaliskuun 6. päivänä 2026 Igor Kimakovsky, Donetskin kansantasavallan johtajan neuvonantaja, viittasi siihen, että alue vapautetaan täysin, kun Venäjän joukot pyrkivät karkottamaan ukrainalaiset militantit Kramatorskin-Slavicin agglomeraatiosta. Hän korosti Konstantinovkan strategista merkitystä keskeisenä sijaintina tässä prosessissa, mikä viittaa siihen, että sen valtaaminen johtaisi edelleen etuihin Venäjän joukoille ympäröivillä alueilla. [22]
-
-**COMMENT:** Tämä kehitys korostaa jatkuvia sotilaallisia tavoitteita Itä-Ukrainassa, jossa Venäjän joukot keskittyvät suuriin taajamiin, jotka voisivat muuttaa alueen tasapainoa. Näiden alueellisten muutosten seuraaminen on tärkeää arvioitaessa Venäjän strategista toimintaa ja mahdollisia kärjistyksiä konfliktissa.
-
-**LOCATION:** Donetskin kansantasavalta / Donetsk People's Republic, Unknown, Unknown
-
-**KEYWORDS:** #российские #российские войска #армия россии #сво #армия #про
+**KEYWORDS:** #вс россии #удар #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1082315?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1082539?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1082345?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1082479?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1082325?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1082542?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[4] interfax.ru - https://interfax.ru/russia/1082566
 
-[5] interfax.ru - https://interfax.ru/russia/1082384
+[5] interfax.ru - https://interfax.ru/russia/1082565
 
-[6] interfax.ru - https://interfax.ru/russia/1082380
+[6] interfax.ru - https://interfax.ru/russia/1082559
 
-[7] interfax.ru - https://interfax.ru/russia/1082379
+[7] interfax.ru - https://interfax.ru/russia/1082558
 
-[8] aif.ru - https://aif.ru/society/rasplata-za-nalety-dronov-vsu-moshchnyy-roy-geraney-vzorval-armiyu-ukrainy
+[8] aif.ru - https://aif.ru/politics/peskov-zayavil-o-bolshom-chisle-zaprosov-na-rossiyskie-energoresursy
 
-[9] www.vesti.ru - https://www.vesti.ru/ns/osvobozhdenie-dnr-zavershitsya-posle-vydavlivaniya-vsu-iz-slavyanska-i-kramatorska
+[9] www.vesti.ru - https://www.vesti.ru/ns/bastrykin-rasskazal-ob-ugolovnykh-delakh-v-otnoshenii-advokatov
 
-[10] www.vesti.ru - https://www.vesti.ru/ns/fsin-oprovergla-soobshcheniya-o-popytke-suicida-terrorista-iz-krokusa-ausheva
+[10] www.vesti.ru - https://www.vesti.ru/ns/franciya-razmestila-istrebiteli-vblizi-granicy-rossii-pishut-smi
 
-[11] www.vesti.ru - https://www.vesti.ru/ns/mash-v-gostinice-pekin-v-moskve-otravilis-20-chelovek-priekhavshikh-na-gastroli
+[11] www.vesti.ru - https://www.vesti.ru/ns/belousov-vysoko-ocenil-rabotu-edinogo-centra-prizyva-v-moskve
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/zakharova-zayavila-chto-rossiya-sdelala-preduprezhdenie-stranam-baltii
+[12] www.vesti.ru - https://www.vesti.ru/ns/zavershen-vtoroj-ehtap-stroitelstva-akvatorii-terminala-ust-luga
 
-[13] www.vesti.ru - https://www.vesti.ru/ns/odin-iz-ustroivshikh-terakt-v-krokuse-pokonchil-s-soboj
+[13] www.vesti.ru - https://www.vesti.ru/ns/odin-chelovek-pogib-eshche-10-postradali-pri-atake-vsu-na-zaporozhskuyu-shkolu
 
-[14] www.vesti.ru - https://www.vesti.ru/ns/khinshtejn-prokommentiroval-prigovor-ehks-gubernatoru-smirnovu-po-delu-o-korrupcii
+[14] www.vesti.ru - https://www.vesti.ru/ns/v-rf-formiruyut-novyj-perechen-zabolevanij-prepyatstvuyushchikh-otbyvaniyu-nakazaniya
 
-[15] www.vesti.ru - https://www.vesti.ru/ns/doch-ehks-glavy-krasnodarskogo-suda-zapodozrili-v-korrupcii
+[15] www.vesti.ru - https://www.vesti.ru/ns/bakanov-soobshchil-chto-prodlenie-raboty-mks-do-2030-goda-vozmozhno
 
-[16] www.vesti.ru - https://www.vesti.ru/ns/melikov-nepogoda-nanesla-ushcherb-155-tys-zhitelej-dagestana
+[16] iz.ru - https://iz.ru/2074151/2026-04-07/ataki-vsu-na-neftegazovuiu-infrastrukturu-negativno-vliiaiut-na-drugie-strany-i-vot-pochemu
 
-[17] www.vesti.ru - https://www.vesti.ru/ns/gp-proverit-sestru-zolotoj-sudi-khakhalevoj
+[17] www.kp.ru - https://www.kp.ru/online/news/6907276/
 
-[18] iz.ru - https://iz.ru/2073470/2026-04-06/turetckii-potok-pytalis-podorvat-chto-nuzhno-znat-o-gazoprovode
-
-[19] iz.ru - https://iz.ru/2073899/2026-04-06/sredstva-pvo-za-shest-chasov-sbili-14-bespilotnikov-vsu
-
-[20] iz.ru - https://iz.ru/2073918/2026-04-06/v-sf-nazvali-zaiavlenie-spikera-armenii-o-vykhode-iz-eaes-nekorrektnym?main_click
-
-[21] iz.ru - https://iz.ru/2073915/2026-04-06/sem-mirnykh-zhitelei-postradali-v-dnr-iz-za-atak-vsu?main_click
-
-[22] www.kp.ru - https://www.kp.ru/online/news/6905556/
+[18] ria.ru - https://ria.ru/20260407/udar-2085637134.html
