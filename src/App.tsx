@@ -24,7 +24,7 @@ import type { RankGameEntry } from './lib/ranksLogic'
 import type { MilitaryDistrictInsigniaSubset } from './lib/militaryDistrictInsigniaLogic'
 import type { AppLanguage, ArmySubMode, NavySubMode, VehicleBranch, WordEntry, WordsDirection, WordsDifficulty } from './types/game'
 
-type ContentType = 'vehicles' | 'words' | 'garrisons' | 'tactical-signs' | 'ranks' | 'venajan-asevoimat' | 'osint-daily'
+type ContentType = 'vehicles' | 'words' | 'garrisons' | 'tactical-signs' | 'ranks' | 'venajan-asevoimat' | 'osint-daily' | 'memory-game'
 type DailyBriefPage = 'current' | 'archive'
 
 /** Branch button id: real branch or placeholder for grayed-out row */
@@ -35,6 +35,7 @@ const CONTENT_TYPES: { id: ContentType; label: string; available: boolean }[] = 
   { id: 'venajan-asevoimat', label: '2. Sotilasorganisaatio', available: true },
   { id: 'tactical-signs', label: '3. Sotilasmerkistö', available: true },
   { id: 'ranks', label: '4. Sotilasarvot', available: true },
+  { id: 'memory-game', label: '5. Muistipeli', available: true },
 ]
 
 /** Sub-options under Venäjän asevoimat (same structure as before, just grouped) */
@@ -97,6 +98,7 @@ const DAILY_BRIEF_URL = `${SITREP_BASE_URL}osint-daily.md`
 const DAILY_BRIEF_ARCHIVE_URL = `${SITREP_BASE_URL}analysis-archive.md`
 const DAILY_BRIEF_FINNISH_URL = `${SITREP_BASE_URL}osint-daily-fin.md`
 const DAILY_BRIEF_FINNISH_ARCHIVE_URL = `${SITREP_BASE_URL}analysis-archive_fin.md`
+const MEMORY_GAME_URL = 'https://datadruidi.github.io/MemoryGame/'
 
 function preserveBlankMarkdownLines(markdown: string): string {
   const lines = markdown.replace(/\r\n?/g, '\n').split('\n')
@@ -178,6 +180,7 @@ function App() {
     if (id === 'venajan-asevoimat') return '2. Military Organization'
     if (id === 'tactical-signs') return '3. Military Symbology'
     if (id === 'ranks') return '4. Military Ranks'
+    if (id === 'memory-game') return '5. Memory Game'
     if (id === 'osint-daily') return 'OSINT Daily Brief'
     return id
   }
@@ -777,6 +780,10 @@ function App() {
                 onClick={() => {
                   if (!ct.available) return
                   playButtonClick(muted)
+                  if (ct.id === 'memory-game') {
+                    window.open(MEMORY_GAME_URL, '_blank', 'noopener,noreferrer')
+                    return
+                  }
                   setSelectedContentType(ct.id)
                 }}
                 disabled={!ct.available}
