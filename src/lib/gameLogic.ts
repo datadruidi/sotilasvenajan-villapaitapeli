@@ -116,6 +116,26 @@ function formatGroundForcesClassName(raw: string): string {
   return out.join(' ')
 }
 
+const AEROSPACE_FORCES_DISPLAY_NAMES: Record<string, string> = {
+  'beriev-a-50u': 'Beriev A-50U (Mainstay)',
+  'ilyushin-il-76md-90a': 'Ilyushin Il-76MD-90A (Candid)',
+  'ilyushin-il-78': 'Ilyushin Il-78 (Midas)',
+  'kamov-ka-52': 'Kamov Ka-52 (Hokum)',
+  'mikoyan-mig-31': 'Mikoyan MiG-31 (Foxhound)',
+  'mil-mi-8amtsh': 'Mil Mi-8AMTSh (Hip)',
+  's-400-triumf': 'S-400',
+  'sukhoi-su-34': 'Sukhoi Su-34 (Fullback)',
+  'sukhoi-su-35s': 'Sukhoi Su-35S (Flanker)',
+  'sukhoi-su-57': 'Sukhoi Su-57 (Felon)',
+  'tupolev-tu-160': 'Tupolev Tu-160 (Blackjack)',
+  'tupolev-tu-22m3': 'Tupolev Tu-22M3 (Backfire)',
+  'tupolev-tu-95ms': 'Tupolev Tu-95MS (Bear)',
+}
+
+function formatAerospaceForcesClassName(raw: string): string {
+  return AEROSPACE_FORCES_DISPLAY_NAMES[raw.trim()] ?? raw.trim()
+}
+
 /**
  * Build Aerospace Forces image entries from path list.
  * Class name is derived from the folder above the image file.
@@ -132,7 +152,7 @@ function getAerospaceForcesImageEntries(): ImageEntry[] {
       assetPath,
       country: 'russia',
       branch: 'airforce',
-      correctClassName: `${classKey.trim()} class`,
+      correctClassName: `${formatAerospaceForcesClassName(classKey)} class`,
       active: true,
     })
   }
