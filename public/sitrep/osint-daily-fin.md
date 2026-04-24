@@ -1,214 +1,151 @@
-# Report Date: 2026-04-21
+# Report Date: 2026-04-24
 
 ## Summary
-Raportointijaksolla tapahtumia on ollut monia, jotka viittaavat valtion tiukentavaan kontrolliin kulttuuri- ja mediakentällä Venäjällä sekä lisääntyvään valvontaan vaalimenettelyissä. Korkean profiilin henkilöstön pidätykset ja median kontrollointi osoittavat valtiollisten toimenpiteiden voimistumista. Tulevaisuudessa voidaan odottaa lisää toimenpiteitä riippumattomia ääniä vastaan, erityisesti vaalimenettelyn valmisteluissa ja sisäisessä poliittisessa ympäristössä.
+Raportointijaksolla on ollut useita merkittäviä tapahtumia, jotka korostavat Venäjän sisäisiä ja ulkoisia haasteita. UAV-hyökkäyksen seurauksena tapahtuneen tulipalon sammuttaminen Tuapsessa ja tulvasta toipuminen Dagestanissa ja Tšetšeniassa osoittavat infrastruktuurisijoitusten haavoittuvuuksia. Samanaikaisesti Venäjän ja Ukrainan välinen sotavankinvaihto sekä keskustelut Pakistani kanssa Persiantalteen tilanteesta nostavat esiin diplomaattisia pyrkimyksiä ja alueellista yhteistyötä. Tällä hetkellä Venäjän hallitus pyrkii vahvistamaan turvallisuutta ja teknologista omavaraisuutta, viimeisimpänä esimerkkinä suunnitelmat uusista lentokoneista sekä turbomoottoreiden tuotantokyvystä.
 
-## Yleinen johtaja Eksmo-kustantamosta Evgeny Kapiev pidätetty
-Maaliskuun 21. päivänä 2026 pidätettiin Moskovassa Eksmo-kustantamon yleinen johtaja Evgeny Kapiev osana tutkimusta äärimmäisen yhteisön toimintojen järjestämisestä. Häntä ja päätoimittaja Alexander Shipetiniä vastaan on nostettu syytteitä, jotka liittyvät kielletyn LGBT-liikkeen julkaisemiseen ja levittämiseen Venäjällä. [1]
+  
+## Tulipalo Tuapsen meriterminaalissa sammutettu UAV-hyökkäyksen jälkeen
+Maaliskuun 24. päivänä 2026 tulipalo Tuapsen meriterminaalissa, Krasnodarin alueella, saatiin sammutettua viiden päivän sammutustöiden jälkeen, joihin osallistui noin 300 henkilöä. Tulipalon sytytti UAV-hyökkäys, mikä johti alueen ilmanlaatua koskevaan seurantaan ja varotoimiin mahdollisten saasteiden varalta. [1]
 
-**COMMENT:** Korkean profiilin henkilöstön pidätykset kustannusalalla heijastavat lisääntynyttä valvontaa marginaalisten ryhmien kanssa toimiville organisaatioille Venäjällä.
+**COMMENT:** Tämä tapahtuma korostaa venäläisen rannikkoinfrastruktuurin haavoittuvuutta ilmatorjuntahyökkäyksille, mikä voi vaikuttaa turvallisuusprotokolliin ja operatiiviseen valmiuteen laajemmin.
+
+**LOCATION:** Tuapse / Tuapse, Krasnodarin alue, Unknown, Unknown [Click for Map Location](Unknown) (Туапсе)
+
+**KEYWORDS:** #russia #штаб #сво #беспилотник #бпла #про  
+
+
+## Kaikki talot Dagestanissa ja Tšetšeniassa puhdistettu tulvavedestä
+Maaliskuun 24. päivänä 2026 Venäjän hätätilaministeriö ilmoitti, että kaikki tulvasta kärsineissä Dagestanissa ja Tšetšeniassa sijaitsevissa taloissa on onnistuneesti poistettu vesi vaikeiden sateiden vuoksi, jotka johtivat merkittäviin tulviin. Tulvat, jotka tapahtuivat 28. maaliskuuta ja 4.-5. huhtikuuta, aiheuttivat laajaa tuhoa yli 9800 rakennuksessa ja vaativat kuuden ihmisen hengen, mikä johti liittovaltion hallituksen hätätila-oikeuksien julistamiseen. [2]
+
+**COMMENT:** Onnistunut toipuminen tulvista osoittaa Venäjän hätätilaministeriön kapasiteetin ja nopeuden katastrofin hoidossa. Tulevaisuudessa jatkuva kuntoutustyö on ratkaisevaa normaalin palauttamiseksi ja tulevien tapausten ehkäisemiseksi.
+
+**LOCATION:** Dagestan / Dagestan, 43.0, 47.0 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.000000&mlon=47.000000#map=8/43.000000/47.000000) (Дагестан)
+
+**KEYWORDS:** #russia #штаб #сво #про  
+
+
+## Venäjä ja Ukraina suorittivat merkittävän sotavankinvaihdon
+Maaliskuun 24. päivänä 2026 Venäjä ja Ukraina vaihtoivat onnistuneesti 193 sotavankia kummaltakin puolelta, mikä toteutettiin Yhdistyneiden arabiemiirikuntien ja Yhdysvaltojen humanitaarisen välityksen avulla. Venäläiset sotilaat saavat tällä hetkellä psykologista ja lääkinnällistä apua Valkoisen Venäjän tasavallassa ennen paluuta Venäjälle jatkokuntoutusta varten. [3]
+
+**COMMENT:** Tämä vaihto korostaa jatkuvaa suoraa viestintää ja mahdollista yhteistyötä Venäjän ja Ukrainan välillä konfliktin keskellä. Tulevat vaihdot voivat viitata merkittäviin neuvotteluihin tai järjestelyihin näiden kahden kansakunnan välillä koskien sotavankien hallintaa.
+
+**LOCATION:** Valkoisen Venäjän tasavalta / Republic of Belarus, Unknown, Unknown [Click for Map Location](Unknown) (Беларусь)
+
+**KEYWORDS:** #russia #россия #российские #минобороны рф #минобороны россии #российские военнослужащие #минобороны #про  
+
+
+## Tulipalo sammutettu meriterminaalissa Tuapsessa UAV-hyökkäyksen jälkeen
+Maaliskuun 24. päivänä 2026 UAV-hyökkäyksestä syntynyt tulipalo Tuapsen meriterminaalissa, Krasnodarin alueella, saatiin sammutettua viiden päivän jälkeen noin 300 henkilön osallistumisella. Alueen kuvernööri ilmoitti, että ilmanlaatua seurataan, ja asukkaita kehottavat noudattamaan turvallisuussuosituksia mahdollisista saasteista johtuen. [4]
+
+**COMMENT:** Tämä tapahtuma osoittaa jatkossakin toisintuvia haavoittuvuuksia, jotka liittyvät dronehyökkäyksiin kriittiseen infrastruktuuriin Venäjällä. Vastatoimet ja ympäristön seuranta viittaavat lisääntyneeseen keskittymiseen turvallisuuteen ja kansanterveyteen tämänkaltaisten hyökkäysten jälkeen.
+
+**LOCATION:** Tuapse / Tuapse, Krasnodarin alue, Unknown, Unknown [Click for Map Location](Unknown) (Туапсе)
+
+**KEYWORDS:** #russia #штаб #сво #беспилотник #бпла #про  
+
+
+## Venäjän ja Pakistanin ulkoministerit keskustelevat Persianlahden tilanteesta
+Maaliskuun 24. päivänä 2026 Venäjän ulkoministeri Sergey Lavrov ja Pakistanin ulkoministeri Muhammad Ishak Dar kävivät puhelinkeskustelun Persianlahden nykyisestä tilanteesta. He käsittelivät venäläis-pakistanilaista yhteistyötä ja myönsivät Pakistanin roolin Yhdysvaltojen ja Iranin välisessä keskustelussa. [5]
+
+**COMMENT:** Tämä keskustelu korostaa Venäjän strategista kiinnostusta Persianlahden alueella ja jatkuvaa diplomaattista vuorovaikutusta Pakistanin kanssa. Korostus sovittelupyrkimyksille saattaa merkitä mahdollisia muutoksia asenteissa tai yhteistyössä Lähi-idän geopolitiikan osalta.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #часть #про
+**KEYWORDS:** #russia #про  
 
 
-## Tuomioistuimessa entiselle Ura.ru-toimittaja Allayaroville viiden vuoden vankeus
-Maaliskuun 21. päivänä 2026 Verkh-Isetin piiri tuomitsi Denis Allayarovin, entisen Ura.ru-toimittajan, viideksi vuodeksi yleiseen rikosvankilaan poliisipampusta lahjontasyytöksistä. Oikeus määräsi myös sakon ja neljän vuoden harjoittamiskieltoa journalistisessa toiminnassa. [2]
+## Venäläisten lentoyhtiöiden ennakoidaan tarvitsevan 644 uutta lentokonetta vuoteen 2030 mennessä
+Maaliskuun 24. päivänä 2026 Venäjän liikenneministeri Andrei Nikitin ilmoitti 'Innovaatioita. Teknologiaa. Tuotantoa.' -foorumissa, että venäläisten lentoyhtiöiden tulee hankkia 644 uutta matkustajalentokonetta vuoteen 2030 mennessä. Tämä ennuste sisältää useita kategorioita: 332 keskipitkän matkan, 210 alueellista, 98 lyhyen matkan ja neljä pitkän matkan lentokonetta, kesken ongoing päivityksiä flotteessa. [6]
 
-**COMMENT:** Tämä tuomio heijastaa jatkuvaa painetta ja oikeudellisia toimia journalisteja vastaan Venäjällä, mikä todennäköisesti vahvistaa valtion kontrollia mediakertomuksista.
-
-**LOCATION:** Jekaterinburg / Yekaterinburg, 56.8382071, 60.6007886 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.838207&mlon=60.600789#map=8/56.838207/60.600789) (Екатеринбург)
-
-**KEYWORDS:** #russia #сво #часть #про
-
-
-## Telegramia sakotettiin 7 miljoonaa ruplaa kielletyn sisällön poistamisen epäonnistumisesta
-Maaliskuun 21. päivänä 2026 Taganskin tuomioistuin Moskovassa määräsi Telegramille 7 miljoonan ruplan sakon, koska se ei noudattanut Venäjän lakia kiellettyjen sisältöjen poistamisesta. Tämä päätös johtuu Telegramin vaatimustenmukaisuuden puutteesta Venäjän tiedonhallintarajoitusten suhteen. [3]
-
-**COMMENT:** Tämä päätös puolestaan heijastaa jatkuvaa painetta digitaalisiin alustoihin noudattaa Venäjän sisältösääntelypolitiikkaa.
+**COMMENT:** Tämä ilmoitus heijastaa jatkuvia pyrkimyksiä modernisoida Venäjän ilmailuteollisuutta ja vähentää riippuvuutta ulkomaisista lentokoneista. Suunnitelmien varmistuminen merkitsee seurantatarvetta paikallisten tuotantokapasiteettien ja resurssien suhteen.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #russia #сво #пуск #сф #про  
 
 
-## Valtion duuma päätti paperiäänestysten käytöstä vaaleissa
-Maaliskuun 21. päivänä 2026 Valtion duuma Moskovassa hyväksyi muutoksia vaalilainsäädäntöön, joiden mukaan äänestäjät voivat käyttää paperiääniä omissa vaalipiireissään. Laki sisältää sääntöjä, jotka antavat Keskusvaalilautakunnalle pääsyn yksittäisten äänestäjien tietoihin varmistaakseen vaalien tarkkuuden. [4]
+## Venäläissotilaan petturuus: Artem Klimovin kohtalo liittyen Ukrainan joukoihin
+Maaliskuun 24. päivänä 2026 raportoitiin, että 19-vuotias venäläinen sotilas Artem Klimov siirtyi Ukrainan asevoimien puolelle väitettyään strategisten sotilasinfomaatioiden vuotaneen 80 päivän ajan. Hänen toimintansa korostaa mahdollisia haavoittuvuuksia Venäjän armeijan sisäisissä uskollisuudessa ja moraalissa, mikä herättää huolta vastaavista tapauksista konfliktin jatkuessa. [7]
 
-**COMMENT:** Tämä lainsäädännön muutos parantaa vaalimenettelyä varmistamalla äänestäjätietojen eheyden ja tarkkuuden.
+**COMMENT:** Tämä tapahtuma osoittaa jatkuvia ongelmia eristäytymisessä ja petturuudessa venäläisten sotilaiden keskuudessa, mikä voi vaikuttaa operatiiviseen turvallisuuteen. Tällaiset petturuudet voivat rohkaista lisävastustusta sotilashenkilöstön keskuudessa, mikä lisää tiedustelun vuotamisen riskiä konfliktin edetessä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #russia #удар
+**KEYWORDS:** #россия #российский #российские #вс рф #российские военнослужащие #военнослужащий #полк #батальон #удар #сво #ракетный удар #бпла #часть #армия #про  
 
 
-## Putin lupaa estää vakauttamisyrityksiä vaalien aikana
-Maaliskuun 21. päivänä 2026 Venäjän presidentti Vladimir Putin totesi, että ulkomaisten vihollisten yritykset vakauttaa venäläistä yhteiskuntaa tulevien Valtion duuman vaalien aikana tukahdutetaan. Hän korosti näiden vaalien merkitystä, jotka tulevat sisältämään äänestäjiä uusilta alueilta, jotka on äskettäin liitetty Venäjään. [5]
+## Putin keskustelee uusista rikosten ehkäisytoimista turvallisuusneuvoston kanssa
+Maaliskuun 24. päivänä 2026 presidentti Vladimir Putin piti videokonferenssin Venäjän turvallisuusneuvoston kanssa keskustellakseen rikosten estämiseen ja torjumiseen liittyvistä lisätoimenpiteistä. Kokouksessa korostettiin tarvetta vahvistaa turvallisuusprotokollia, mukaan lukien turvallisuusvyöhykkeen perustaminen Ukrainan rajalle. [8]
 
-**COMMENT:** Putinin lausunnot heijastavat jatkuvia huolia sisäisestä vakaudesta ulkoisten paineiden keskellä, erityisesti vaalien lähestyessä.
+**COMMENT:** Tämä kokous viittaa sisäisen turvallisuuden toimenpiteiden lisääntyneeseen keskittymiseen, mikä heijastaa huolta lainvalvonnan tehokkuudesta ja kansalaisten turvallisuudesta. Tällaiset kehitykset voivat johtaa lisääntyneeseen valtion kontrolliin ja valvontaan lähitulevaisuudessa, erityisesti konfliktivöyhykeillä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #russia #учения #про
+**KEYWORDS:** #российский #удар #про  
 
 
-## Venäjän sisäministeri kiittää DPRK:ta tuesta Kurskin alueen operaatioissa
-Maaliskuun 21. päivänä 2026 Venäjän sisäministeri Vladimir Kolokoltsev tapasi Pohjois-Korean julkisen turvallisuuden ministerin, kenraali Ban Du Sobin Pyongyangissa, missä hän kiitti DPRK:ta tuesta ja heidän sotilaidensa osallistumisesta Kurskin alueen vapauttamiseen. [6]
+## Venäjä kykenee täydelliseen turboahdinmoottorin tuotantoon, sanoo Kovalchuk
+Maaliskuun 24. päivänä 2026 Kurchatovin instituutin presidentti Mikhail Kovalchuk ilmoitti, että Venäjä on yksi harvoista maista, jotka kykenevät täydelliseen turboahdinmoottorin tuotantoon, saavuttaen merkittävää tuonnin korvaamista ilmailusektorilla. Hän korosti Rybinskia, Yaroslavlin alueella, tärkeäksi keskukseksi tälle teknologialle, jonka päälle Venäjän oma tuotanto lentokonesuunnittelussa ja -tuotannossa verrattuna globaaleihin kilpailijoihin. [9]
 
-**COMMENT:** Pohjois-Korean tuen tunnustaminen Venäjän sotilaallisissa operaatioissa osoittaa maiden välisiä suhteita, erityisesti alueellisen turvallisuuden kontekstissa.
+**COMMENT:** Tämä ilmoitus korostaa Venäjän jatkuvia pyrkimyksiä saavuttaa strategista itsenäisyyttä keskeisissä teknologista ala-alueilla kansainvälisen pakotteen keskellä. Korostus paikallisista tuotantokyvystä voi merkitä pitkän aikavälin sitoutumista kansallisen puolustus- ja ilmailuteollisuuden vahvistamiseen.
 
-**LOCATION:** Pjongjang / Pyongyang, Unknown [Click for Map Location](Unknown) (Пхеньян)
+**LOCATION:** Rybinsk / Rybinsk, Yaroslavlin alue, Unknown, Unknown [Click for Map Location](Unknown) (Рыбинск)
 
-**KEYWORDS:** #russia #россия #полк #сво #про
+**KEYWORDS:** #россия #российский #мо рф #сво #сф #про  
 
 
-## Venäjän hätätilaministeri evakuoi yli 70 kansalaista Libanonista
-Maaliskuun 21. päivänä 2026 Venäjän hätätilaministeriö evakuoi 73 venäläistä, mukaan lukien 33 lasta, Beirutista Moskovaan käynnissä olevan sotilaallisen konfliktin keskellä. [7]
+## Sotilaallinen yhteistyö Kiinan kanssa on avain alueelliseen turvallisuuteen, sanoo puolustusministeri Belousov
+Maaliskuun 24. päivänä 2026 Venäjän puolustusministeri Andrei Belousov korosti Venäjän ja Kiinan sotilaallisen yhteistyön tärkeyttä tapaamisessaan Kiinan puolustusministerin amiraali Dong Junin kanssa. Belousov väitti, että tämä yhteistyö on kriittistä alueellisten ja globaalien turvallisuussuhteiden takaamiseksi poliittisen ympäristön muuttuessa. [10]
 
-**COMMENT:** Tämä evakuointi korostaa Venäjän sitoutumista kansalaistensa suojelemiseen ulkomailla.
+**COMMENT:** Tämä lausunto korostaa Venäjän ja Kiinan välistä jatkuvaa puolustusyhteistyötä, mikä heijastaa niiden strategista kumppanuutta epävakaassa turvallisuuskontekstissa. Lähitulevaisuudessa tämä voi vahvistaa niiden allianssia havaittuja ulkoisia uhkia vastaan, erityisesti Aasian geopoliittisten jännitteiden kontekstissa.
 
-**LOCATION:** Beirut / Beirut, 33.8959203, 35.47843 [Click for Map Location](https://www.openstreetmap.org/?mlat=33.895920&mlon=35.478430#map=8/33.895920/35.478430) (بيروت)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #про
+**KEYWORDS:** #россия #министр обороны #удар #сво  
 
 
-## Venäjän joukot etenevät lähellä Harkovia: Keskeiset tapahtumat huhtikuun 21. päivänä
-Maaliskuun 21. päivänä 2026 Venäjän joukot tekivät merkittäviä edistysaskeleita Harkovin suuntaan, onnistuen vangitsemaan strategisia sijainteja, mukaan lukien Volchansk Farms. [8]
+## Lavrov keskusteli Persianlahden tilanteesta Pakistanin ulkoministerin kanssa
+Maaliskuun 24. päivänä 2026 Venäjän ulkoministeri Sergey Lavrov ja Pakistanin ulkoministeri Muhammad Ishaq Dar kävivät puhelinkeskustelun Persianlahden tilanteesta. He käsittelivät kahdenvälistä yhteistyötä ja huomasivat Pakistanin roolin Iranin ja Yhdysvaltojen suhteiden helpottajana. [11]
 
-**COMMENT:** Venäjän joukkojen jatkuva sotilaallinen eteneminen Harkovin lähellä viittaa strategiseen pyrkimykseen saada jalansijaa alueella.
+**COMMENT:** Keskustelu merkitsee Venäjän ja Pakistanin välistä jatkuvaa vuorovaikutusta turvallisuus- ja diplomaattisten asioiden osalta Persianlahden alueella. Tällaiset vuorovaikutukset voivat viitata Venäjän aikeisiin laajentaa vaikutusvaltaansa alueelliseen geopolitiikkaan, erityisesti jatkuvien jännitteiden keskellä Yhdysvaltojen ja Iranian kanssa.
 
-**LOCATION:** Harkov / Kharkiv, 49.9923181, 36.2310146 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.992318&mlon=36.231015#map=8/49.992318/36.231015) (Харьков)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #российские #вс рф #российские войска #штаб #командование #полк #сво #сф #про
+**KEYWORDS:** #российский #про  
 
 
-## Emilia Slabunova, Karelian Yablokon johtaja, pidätetty Petroskoissa
-Maaliskuun 21. päivänä 2023 Emilia Slabunova, Karelian Yabloko -puolueen johtaja, pidätettiin Petroskoissa, koska hänelle esitettiin syytteitä äärimmäisten symbolien esittämisestä hänen Telegram-kanavallaan elokuussa 2020. [9]
+## Nabiullina vahvistaa käteisen pysyvän digitaalisen ruplan rinnalla
+Maaliskuun 24. päivänä 2026 Venäjän keskuspankin pääjohtaja Elvira Nabiullina ilmoitti, että käteinen tulee jatkamaan kiertämistä digitaalisen ruplan asteittaisesta käyttöönotosta huolimatta. Hän korosti, että keskuspankki ei aio kiirehtiä digitaalista siirtymää ja pyrkii hienosäätämään uutta valuuttaa kannustaakseen vapaaehtoista hyväksymistä yleisön keskuudessa. [12]
 
-**COMMENT:** Slabunovan pidätys kertoo jatkuvasta vastarinnan tukahduttamisesta Venäjällä.
+**COMMENT:** Tämä ilmoitus osoittaa venäläisten talousviranomaisten varovaisen lähestymistavan digitaalisen valuutan käyttöönotossa, mikä heijastaa herkkyyttä yleisön valmiudelle tällaisiin muutoksiin. Jatkuva painotus käteiseen viittaa tietoisesti potentiaalisiin yleisön vastarintaan ja strategiaan ylläpitää taloudellista vakautta siirtymän aikana.
 
-**LOCATION:** Petroskoi / Petrozavodsk, 61.789221, 34.3688041 [Click for Map Location](https://www.openstreetmap.org/?mlat=61.789221&mlon=34.368804#map=8/61.789221/34.368804) (Петрозаводск)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #удар #сф #про
-
-
-## Zelenogradin sarjamurhaaja Yuri Gritsenko kuoli erityisessä sotilasoperaatioalueessa
-Maaliskuun 21. päivänä 2026 Yuri Gritsenko, Zelenogradista kotoisin oleva tunnettu sarjamurhaaja, kuoli erityisessä sotilasoperaatioalueessa. [10]
-
-**COMMENT:** Tunnetun rikollisen kuolema taistelutilanteessa korostaa mahdollisia vaikeuksia vapautettujen vankien integroimisessa sotilasoperaatioihin.
-
-**LOCATION:** LPR / LPR, Unknown [Click for Map Location](Unknown) (ЛНР)
-
-**KEYWORDS:** #вс рф #полк #удар #сво #сф #про
-
-
-## Puolalainen yritys sai $5.5 miljoonan sakon laittomista auton viennistä Venäjälle
-Maaliskuun 21. päivänä 2026 Puolan viranomaiset määräsivät paikalliselle yritykselle 20 miljoonan zlotyn ($5.5 miljoonan) sakon laittomasta luksusautojen viennistä Venäjälle, EU:n pakotteiden rikkomisesta. [11]
-
-**COMMENT:** Tämä tapaus nostaa esiin jatkuvat haasteet Venäjälle asetettujen pakotteiden valvonnassa.
-
-**LOCATION:** Puola / Poland, 52.215933, 19.134422 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.215933&mlon=19.134422#map=8/52.215933/19.134422) (Polska)
-
-**KEYWORDS:** #россия #военнослужащий #удар #сво #мто #сф #про
-
-
-## Uusi tieasema valmistui Venäjän ja Pohjois-Korean rajalle
-Maaliskuun 21. päivänä 2023 uusi tieasema avattiin Tumannaja-joen yli Venäjän ja Pohjois-Korean rajalla, mikä merkitsee ensimmäisen ajoneuvoyhteyden perustamista maiden välille. [12]
-
-**COMMENT:** Tämä infrastruktuurikehitys voi parantaa logistiikkaa ja taloussuhteita Venäjän ja Pohjois-Korean välillä.
-
-**LOCATION:** Venäjän ja Pohjois-Korean raja / Russian-North Korean border, Unknown [Click for Map Location](Unknown) (Российско-северокорейская граница)
-
-**KEYWORDS:** #россия #удар #сво #пуск #сф #про
-
-
-## Rostovin alueen asukasta syytetään orjatyövoiman käytöstä
-Maaliskuun 21. päivänä 2024 Rostovin alueen asukasta vastaan nostettiin syytteet orjatyövoiman käytöstä. [13]
-
-**COMMENT:** Tämä tapaus korostaa jatkuvia ihmisoikeus- ja työvoiman hyväksikäyttöongelmia Venäjällä.
-
-**LOCATION:** Aksai District / Aksai District, Unknown [Click for Map Location](Unknown) (Аксайский район)
-
-**KEYWORDS:** #россия #удар #сво #сф #про
-
-
-## Putin korostaa yhtenäisyyden merkitystä erityisten operaatioiden tavoitteiden saavuttamisessa
-Maaliskuun 21. päivänä 2023 presidentti Vladimir Putin toteaa, että kansalaisten yhtenäisyys on olennaista käynnissä olevan erityisen sotilasoperaation tavoitteiden saavuttamiseksi. [14]
-
-**COMMENT:** Yhtenäisyyden korostaminen heijastaa Kremliin jatkuvaa pyrkimystä edistää kansallista yhtenäisyyttä.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #флот #учения #удар #сво #сф #армия #про
-
-
-## Putin korostaa haasteita vuodelle 2026
-Maaliskuun 21. päivänä 2026 presidentti Vladimir Putin tähdentää vaikeita olosuhteita syyskuussa 2026 pidettäville vaaleille. [15]
-
-**COMMENT:** Putinin lausunnot viittaavat ulkoisten uhkien mahdolliseen vaikutukseen vaalimenettelyihin.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #учения #удар #сво #сф #про
-
-
-## Hätätilaministeriö evakuoi 73 venäläistä Beirutista, mukaan lukien 33 lasta
-Maaliskuun 21. päivänä 2026 Venäjän hätätilaministeriö evakuoi 73 venäläistä kansalaista Beirutista Moskovaan. [16]
-
-**COMMENT:** Tämän evakuoinnin katsoen Venäjä on aktiivinen suojellessa kansalaisiaan konflikti-alueilta.
-
-**LOCATION:** Beirut / Beirut, 33.8959203, 35.47843 [Click for Map Location](https://www.openstreetmap.org/?mlat=33.895920&mlon=35.478430#map=8/33.895920/35.478430) (بيروت)
-
-**KEYWORDS:** #россия #сво #про
-
-
-## Venäläisten asevoimien eteneminen kohti Dobropol
-Maaliskuun 21. päivänä 2026 Venäjän päämajasta ilmoitettiin, että sotilaalliset joukot ovat laajentaneet kontrolliaan ja edenneet Dobropoliin. [19]
-
-**COMMENT:** Tämä eteneminen vihjaa operatiivisten momentumien muutokseen ja voi vaikuttaa alueen turvallisuustilanteeseen.
-
-**LOCATION:** Dobropol / Dobropol, Unknown [Click for Map Location](Unknown) (Доброполье)
-
-**KEYWORDS:** #вс россии #генштаб #штаб #начальник генштаба #сво #про
+**KEYWORDS:** #россия #сво #про  
 
 
 # Sources
 
-[1] Interfax - https://interfax.ru/russia/1085116?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1085898?utm_source=top
 
-[2] Interfax - https://interfax.ru/russia/1085048?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1085827?utm_source=top
 
-[3] Interfax - https://interfax.ru/russia/1085080?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1085853?utm_source=top
 
-[4] Interfax - https://interfax.ru/russia/1085126
+[4] interfax.ru - https://interfax.ru/russia/1085898
 
-[5] Interfax - https://interfax.ru/russia/1085127
+[5] interfax.ru - https://interfax.ru/russia/1085896
 
-[6] Interfax - https://interfax.ru/russia/1085125
+[6] interfax.ru - https://interfax.ru/russia/1085888
 
-[7] Interfax - https://interfax.ru/world/1085119
+[7] aif.ru - https://aif.ru/society/kazn-iudy-raskryta-uchast-voennogo-predatelya-klimova-bezhavshego-v-vsu
 
-[8] Interfax - https://interfax.ru/russia/1085116
+[8] iz.ru - https://iz.ru/2085365/2026-04-24/putin-obsudil-s-sovbezom-mery-presecheniia-pravonarushenii-i-borby-s-prestupnostiu
 
-[9] AIF - https://aif.ru/politics/peskov-nazval-usloviya-dlya-vozobnovleniya-tranzita-nefti-po-druzhbe
+[9] iz.ru - https://iz.ru/2085369/2026-04-24/kovalchuk-ukazal-na-sposobnost-rf-polnostiu-proizvodit-turboreaktivnye-dvigateli
 
-[10] AIF - https://aif.ru/society/taynye-otryady-syrskogo-brosheny-pod-harkov-glavnaya-novost-svo-21-aprelya
+[10] iz.ru - https://iz.ru/2085414/2026-04-24/belousov-nazval-voennoe-sotrudnichestvo-rf-i-knr-kliuchevym-elementom-bezopasnosti?main_click
 
-[11] www.vesti.ru - https://www.vesti.ru/ns/v-petrozavodske-zaderzhana-lider-karelskogo-yabloka-ehmiliya-slabunova
+[11] iz.ru - https://iz.ru/2085396/lavrov-obsudil-situatciiu-v-persidskom-zalive-s-glavoi-mid-pakistana-izi?main_click
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/shot-zelenogradskij-manyak-gricenko-pogib-v-zone-svo
-
-[13] www.vesti.ru - https://www.vesti.ru/ns/polskuyu-kompaniyu-oshtrafovali-na-55-mln-za-ehksport-dorogikh-avto-v-rossiyu
-
-[14] www.vesti.ru - https://www.vesti.ru/ns/na-granice-rossii-i-kndr-sostykovali-avtomobilnyj-most
-
-[15] www.vesti.ru - https://www.vesti.ru/ns/zhitel-rostovskoj-oblasti-pojdet-pod-sud-za-ispolzovanie-rabov
-
-[16] www.vesti.ru - https://www.vesti.ru/ns/putin-obyasnil-chto-pomozhet-rossii-dostich-celej-specoperacii
-
-[17] www.vesti.ru - https://www.vesti.ru/ns/putin-zayavil-o-neprostykh-usloviyakh-v-kotorykh-projdut-vybory-2026-goda
-
-[18] www.kp.ru - https://www.kp.ru/online/news/6931356/
-
-[19] ria.ru - https://ria.ru/20260421/genshtab-2088070825.html
+[12] iz.ru - https://iz.ru/2085354/2026-04-24/nabiullina-rasskazala-ob-ispolzovanii-nalichnykh-pri-vvedenii-tcifrovogo-rublia?main_click
