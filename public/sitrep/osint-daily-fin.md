@@ -1,151 +1,178 @@
-# Report Date: 2026-04-24
+# Report Date: 2026-04-25
 
 ## Summary
-Raportointijaksolla on ollut useita merkittäviä tapahtumia, jotka korostavat Venäjän sisäisiä ja ulkoisia haasteita. UAV-hyökkäyksen seurauksena tapahtuneen tulipalon sammuttaminen Tuapsessa ja tulvasta toipuminen Dagestanissa ja Tšetšeniassa osoittavat infrastruktuurisijoitusten haavoittuvuuksia. Samanaikaisesti Venäjän ja Ukrainan välinen sotavankinvaihto sekä keskustelut Pakistani kanssa Persiantalteen tilanteesta nostavat esiin diplomaattisia pyrkimyksiä ja alueellista yhteistyötä. Tällä hetkellä Venäjän hallitus pyrkii vahvistamaan turvallisuutta ja teknologista omavaraisuutta, viimeisimpänä esimerkkinä suunnitelmat uusista lentokoneista sekä turbomoottoreiden tuotantokyvystä.
+Raportointijaksolla tilanne Luhanskin kansantasavallassa on edelleen huolestuttava, kun Ukrainan asevoimien droneiskut ovat aiheuttaneet siviiliuhreja ja vaurioita infrastruktuurille. Samanaikaisesti Buryatiassa ja Belogorodin alueella on tapahtunut onnettomuuksia ja hyökkäyksiä, jotka korostavat alueen jatkuvia turvallisuushaasteita. Lähitulevaisuudessa on odotettavissa lisää sotilaallisia vastatoimia ja mahdollisesti tiukennettuja turvallisuusmääräyksiä eri alueilla, erityisesti Ukrainan ja Venäjän rajalla.
 
-  
-## Tulipalo Tuapsen meriterminaalissa sammutettu UAV-hyökkäyksen jälkeen
-Maaliskuun 24. päivänä 2026 tulipalo Tuapsen meriterminaalissa, Krasnodarin alueella, saatiin sammutettua viiden päivän sammutustöiden jälkeen, joihin osallistui noin 300 henkilöä. Tulipalon sytytti UAV-hyökkäys, mikä johti alueen ilmanlaatua koskevaan seurantaan ja varotoimiin mahdollisten saasteiden varalta. [1]
+## Ukrainan hyökkäykset tappavat kolme ja haavoittavat viisi Luhanskin kansantasavallassa
+Maaliskuun 25. päivänä 2026 Ukrainan asevoimat suorittivat droneiskuja siviilialueille Luhanskin kansantasavallassa, mikä johti kolmen ihmisen kuolemaan ja viiden muun haavoittumiseen. Iskuilla oli merkittäviä tuhoja, erityisesti Solontsy-nimisessä kylässä, jossa asuinrakennuksia tuhoutui, korostaen alueen jatkuvia vihamielisyyksiä. [1]
 
-**COMMENT:** Tämä tapahtuma korostaa venäläisen rannikkoinfrastruktuurin haavoittuvuutta ilmatorjuntahyökkäyksille, mikä voi vaikuttaa turvallisuusprotokolliin ja operatiiviseen valmiuteen laajemmin.
+**COMMENT:** Tämä tapahtuma korostaa jatkuvaa konfliktia ja epävakautta Luhanskin kansantasavallassa, joka on jännitteiden keskipiste Ukrainan ja Venäjän joukkojen välillä. Siviili-infrastruktuuriin kohdistuvat jatkuvat hyökkäykset voivat provosoida lisää sotilaallisia vastatoimia.
 
-**LOCATION:** Tuapse / Tuapse, Krasnodarin alue, Unknown, Unknown [Click for Map Location](Unknown) (Туапсе)
+**LOCATION:** Luhanskin kansantasavalta / Luhansk People's Republic, Unknown, Unknown [Click for Map Location](Unknown)
 
-**KEYWORDS:** #russia #штаб #сво #беспилотник #бпла #про  
-
-
-## Kaikki talot Dagestanissa ja Tšetšeniassa puhdistettu tulvavedestä
-Maaliskuun 24. päivänä 2026 Venäjän hätätilaministeriö ilmoitti, että kaikki tulvasta kärsineissä Dagestanissa ja Tšetšeniassa sijaitsevissa taloissa on onnistuneesti poistettu vesi vaikeiden sateiden vuoksi, jotka johtivat merkittäviin tulviin. Tulvat, jotka tapahtuivat 28. maaliskuuta ja 4.-5. huhtikuuta, aiheuttivat laajaa tuhoa yli 9800 rakennuksessa ja vaativat kuuden ihmisen hengen, mikä johti liittovaltion hallituksen hätätila-oikeuksien julistamiseen. [2]
-
-**COMMENT:** Onnistunut toipuminen tulvista osoittaa Venäjän hätätilaministeriön kapasiteetin ja nopeuden katastrofin hoidossa. Tulevaisuudessa jatkuva kuntoutustyö on ratkaisevaa normaalin palauttamiseksi ja tulevien tapausten ehkäisemiseksi.
-
-**LOCATION:** Dagestan / Dagestan, 43.0, 47.0 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.000000&mlon=47.000000#map=8/43.000000/47.000000) (Дагестан)
-
-**KEYWORDS:** #russia #штаб #сво #про  
+**KEYWORDS:** #russia #удар #сво #бпла #часть #про
 
 
-## Venäjä ja Ukraina suorittivat merkittävän sotavankinvaihdon
-Maaliskuun 24. päivänä 2026 Venäjä ja Ukraina vaihtoivat onnistuneesti 193 sotavankia kummaltakin puolelta, mikä toteutettiin Yhdistyneiden arabiemiirikuntien ja Yhdysvaltojen humanitaarisen välityksen avulla. Venäläiset sotilaat saavat tällä hetkellä psykologista ja lääkinnällistä apua Valkoisen Venäjän tasavallassa ennen paluuta Venäjälle jatkokuntoutusta varten. [3]
+## Lähes 1 000 kuutiometriä öljytuotteita poistettu Tuapse-joesta ja rannalta
+Maaliskuun 25. päivänä 2026 lähes 988 kuutiometriä öljytuotteita poistettiin Tuapse-joen ja rannikon alueelta sen jälkeen, kun UAV-hyökkäys johti tuleen 16. ja 20. huhtikuuta. Jatkuvat puhdistustoimet sisältävät 143 henkilöä ja 48 laitetta, jotka toimivat hätätilassa, joka on perustettu alkuperäisen tapahtuman jälkeen. [2]
 
-**COMMENT:** Tämä vaihto korostaa jatkuvaa suoraa viestintää ja mahdollista yhteistyötä Venäjän ja Ukrainan välillä konfliktin keskellä. Tulevat vaihdot voivat viitata merkittäviin neuvotteluihin tai järjestelyihin näiden kahden kansakunnan välillä koskien sotavankien hallintaa.
+**COMMENT:** Tapahtuma korostaa haavoittuvuuksia Venäjän rannikkoturvallisuudessa ja UAV-toiminnan mahdollisia riskejä. Jatkuva öljyvuotojen hallinta voi olla tärkeä tekijä tulevissa ympäristö- ja turvallisuuspolitiikoissa rannikkoalueilla.
 
-**LOCATION:** Valkoisen Venäjän tasavalta / Republic of Belarus, Unknown, Unknown [Click for Map Location](Unknown) (Беларусь)
+**LOCATION:** Tuapse / Tuapse, Unknown, Unknown [Click for Map Location](Unknown)
 
-**KEYWORDS:** #russia #россия #российские #минобороны рф #минобороны россии #российские военнослужащие #минобороны #про  
-
-
-## Tulipalo sammutettu meriterminaalissa Tuapsessa UAV-hyökkäyksen jälkeen
-Maaliskuun 24. päivänä 2026 UAV-hyökkäyksestä syntynyt tulipalo Tuapsen meriterminaalissa, Krasnodarin alueella, saatiin sammutettua viiden päivän jälkeen noin 300 henkilön osallistumisella. Alueen kuvernööri ilmoitti, että ilmanlaatua seurataan, ja asukkaita kehottavat noudattamaan turvallisuussuosituksia mahdollisista saasteista johtuen. [4]
-
-**COMMENT:** Tämä tapahtuma osoittaa jatkossakin toisintuvia haavoittuvuuksia, jotka liittyvät dronehyökkäyksiin kriittiseen infrastruktuuriin Venäjällä. Vastatoimet ja ympäristön seuranta viittaavat lisääntyneeseen keskittymiseen turvallisuuteen ja kansanterveyteen tämänkaltaisten hyökkäysten jälkeen.
-
-**LOCATION:** Tuapse / Tuapse, Krasnodarin alue, Unknown, Unknown [Click for Map Location](Unknown) (Туапсе)
-
-**KEYWORDS:** #russia #штаб #сво #беспилотник #бпла #про  
+**KEYWORDS:** #russia #сво #беспилотник #бпла #про
 
 
-## Venäjän ja Pakistanin ulkoministerit keskustelevat Persianlahden tilanteesta
-Maaliskuun 24. päivänä 2026 Venäjän ulkoministeri Sergey Lavrov ja Pakistanin ulkoministeri Muhammad Ishak Dar kävivät puhelinkeskustelun Persianlahden nykyisestä tilanteesta. He käsittelivät venäläis-pakistanilaista yhteistyötä ja myönsivät Pakistanin roolin Yhdysvaltojen ja Iranin välisessä keskustelussa. [5]
+## Pelastajat löytävät kahden turistin ruumiit Buryatiassa
+Maaliskuun 25. päivänä 2026 pelastajat Buryatiassa löysivät vielä kaksi turistia, jotka menivät vahingossa hukkumiseen lumivyöryssä, mikä nosti kuolleiden määrän kolmeen. Tapahtuma tapahtui 24. huhtikuuta, kun rekisteröimätön kiipeilyryhmä kärsi iskusta Munku-Sardykin-vuorelle kiipeäessään, ja etsintätyöt jatkuvat ryhmän viimeisen puuttuvan jäsenen löytämiseksi. [3]
 
-**COMMENT:** Tämä keskustelu korostaa Venäjän strategista kiinnostusta Persianlahden alueella ja jatkuvaa diplomaattista vuorovaikutusta Pakistanin kanssa. Korostus sovittelupyrkimyksille saattaa merkitä mahdollisia muutoksia asenteissa tai yhteistyössä Lähi-idän geopolitiikan osalta.
+**COMMENT:** Traaginen lumivyöry on osoittanut laittomien ulkoilutoimintojen riskit Venäjällä. Tämä voi johtaa tiukempaan valvontaan sääntöjen suhteen, jotka säätelevät turistiryhmiä vuoristoalueilla turvallisuuden parantamiseksi.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Buryatia / Buryatia, 52.718243, 109.492143 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.718243&mlon=109.492143#map=8/52.718243/109.492143)
 
-**KEYWORDS:** #russia #про  
-
-
-## Venäläisten lentoyhtiöiden ennakoidaan tarvitsevan 644 uutta lentokonetta vuoteen 2030 mennessä
-Maaliskuun 24. päivänä 2026 Venäjän liikenneministeri Andrei Nikitin ilmoitti 'Innovaatioita. Teknologiaa. Tuotantoa.' -foorumissa, että venäläisten lentoyhtiöiden tulee hankkia 644 uutta matkustajalentokonetta vuoteen 2030 mennessä. Tämä ennuste sisältää useita kategorioita: 332 keskipitkän matkan, 210 alueellista, 98 lyhyen matkan ja neljä pitkän matkan lentokonetta, kesken ongoing päivityksiä flotteessa. [6]
-
-**COMMENT:** Tämä ilmoitus heijastaa jatkuvia pyrkimyksiä modernisoida Venäjän ilmailuteollisuutta ja vähentää riippuvuutta ulkomaisista lentokoneista. Suunnitelmien varmistuminen merkitsee seurantatarvetta paikallisten tuotantokapasiteettien ja resurssien suhteen.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #сво #пуск #сф #про  
+**KEYWORDS:** #russia #про
 
 
-## Venäläissotilaan petturuus: Artem Klimovin kohtalo liittyen Ukrainan joukoihin
-Maaliskuun 24. päivänä 2026 raportoitiin, että 19-vuotias venäläinen sotilas Artem Klimov siirtyi Ukrainan asevoimien puolelle väitettyään strategisten sotilasinfomaatioiden vuotaneen 80 päivän ajan. Hänen toimintansa korostaa mahdollisia haavoittuvuuksia Venäjän armeijan sisäisissä uskollisuudessa ja moraalissa, mikä herättää huolta vastaavista tapauksista konfliktin jatkuessa. [7]
+## Lumivyöry Buryatiassa johtaa rajoitettuun pääsyyn Munku-Sardykin vuorelle
+Maaliskuun 25. päivänä 2026 pääsy Munku-Sardykin vuoristoalueelle Buryatiassa rajoitettiin lumivyöryn jälkeen, joka haavoitti ja tappoi turisteja. Paikallisviranomaiset ovat julistaneet kunnallisen hätätilan, kun etsintä jatkuu yhden puuttuvan turistin löytämiseksi jatkuvien lumivyöryn riskien keskellä. [4]
 
-**COMMENT:** Tämä tapahtuma osoittaa jatkuvia ongelmia eristäytymisessä ja petturuudessa venäläisten sotilaiden keskuudessa, mikä voi vaikuttaa operatiiviseen turvallisuuteen. Tällaiset petturuudet voivat rohkaista lisävastustusta sotilashenkilöstön keskuudessa, mikä lisää tiedustelun vuotamisen riskiä konfliktin edetessä.
+**COMMENT:** Tämä tapahtuma korostaa sääntelemättömän turismin vaaroja etäisillä alueilla, mikä saattaa johtaa viranomaisten tiukentamiin sääntöihin turvallisuuden varmistamiseksi.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Munku-Sardyk / Munku-Sardyk, Unknown, Unknown [Click for Map Location](Unknown)
 
-**KEYWORDS:** #россия #российский #российские #вс рф #российские военнослужащие #военнослужащий #полк #батальон #удар #сво #ракетный удар #бпла #часть #армия #про  
-
-
-## Putin keskustelee uusista rikosten ehkäisytoimista turvallisuusneuvoston kanssa
-Maaliskuun 24. päivänä 2026 presidentti Vladimir Putin piti videokonferenssin Venäjän turvallisuusneuvoston kanssa keskustellakseen rikosten estämiseen ja torjumiseen liittyvistä lisätoimenpiteistä. Kokouksessa korostettiin tarvetta vahvistaa turvallisuusprotokollia, mukaan lukien turvallisuusvyöhykkeen perustaminen Ukrainan rajalle. [8]
-
-**COMMENT:** Tämä kokous viittaa sisäisen turvallisuuden toimenpiteiden lisääntyneeseen keskittymiseen, mikä heijastaa huolta lainvalvonnan tehokkuudesta ja kansalaisten turvallisuudesta. Tällaiset kehitykset voivat johtaa lisääntyneeseen valtion kontrolliin ja valvontaan lähitulevaisuudessa, erityisesti konfliktivöyhykeillä.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #российский #удар #про  
+**KEYWORDS:** #russia #про
 
 
-## Venäjä kykenee täydelliseen turboahdinmoottorin tuotantoon, sanoo Kovalchuk
-Maaliskuun 24. päivänä 2026 Kurchatovin instituutin presidentti Mikhail Kovalchuk ilmoitti, että Venäjä on yksi harvoista maista, jotka kykenevät täydelliseen turboahdinmoottorin tuotantoon, saavuttaen merkittävää tuonnin korvaamista ilmailusektorilla. Hän korosti Rybinskia, Yaroslavlin alueella, tärkeäksi keskukseksi tälle teknologialle, jonka päälle Venäjän oma tuotanto lentokonesuunnittelussa ja -tuotannossa verrattuna globaaleihin kilpailijoihin. [9]
+## Ukraina toisin sanoen Luhanskin kansantasavallassa hyökätään kuolettavasti
+Maaliskuun 25. päivänä 2026 Ukrainan asevoimat käynnistivät dronehyökkäyksiä siviilistruktuureihin Luhanskin kansantasavallassa, mikä johti kolmen eloonjääneen kuolemaan ja viiden muun haavoittumiseen. Hyökkäykset vaikuttivat pääasiassa Solontsy-kylään, jossa asuinrakennuksia tuhoutui, mikä johti paikallisten viranomaisten hätätilatoimintaan. [5]
 
-**COMMENT:** Tämä ilmoitus korostaa Venäjän jatkuvia pyrkimyksiä saavuttaa strategista itsenäisyyttä keskeisissä teknologista ala-alueilla kansainvälisen pakotteen keskellä. Korostus paikallisista tuotantokyvystä voi merkitä pitkän aikavälin sitoutumista kansallisen puolustus- ja ilmailuteollisuuden vahvistamiseen.
+**COMMENT:** Jatkuvat hyökkäykset heijastavat alueen kasvaneita jännitteitä ja konfliktin dynamiikkaa, korostaen mahdollisuutta edelleen kiihtyvään tilanteeseen.
 
-**LOCATION:** Rybinsk / Rybinsk, Yaroslavlin alue, Unknown, Unknown [Click for Map Location](Unknown) (Рыбинск)
+**LOCATION:** Luhanskin kansantasavalta / Luhansk People's Republic, Unknown, Unknown [Click for Map Location](Unknown)
 
-**KEYWORDS:** #россия #российский #мо рф #сво #сф #про  
-
-
-## Sotilaallinen yhteistyö Kiinan kanssa on avain alueelliseen turvallisuuteen, sanoo puolustusministeri Belousov
-Maaliskuun 24. päivänä 2026 Venäjän puolustusministeri Andrei Belousov korosti Venäjän ja Kiinan sotilaallisen yhteistyön tärkeyttä tapaamisessaan Kiinan puolustusministerin amiraali Dong Junin kanssa. Belousov väitti, että tämä yhteistyö on kriittistä alueellisten ja globaalien turvallisuussuhteiden takaamiseksi poliittisen ympäristön muuttuessa. [10]
-
-**COMMENT:** Tämä lausunto korostaa Venäjän ja Kiinan välistä jatkuvaa puolustusyhteistyötä, mikä heijastaa niiden strategista kumppanuutta epävakaassa turvallisuuskontekstissa. Lähitulevaisuudessa tämä voi vahvistaa niiden allianssia havaittuja ulkoisia uhkia vastaan, erityisesti Aasian geopoliittisten jännitteiden kontekstissa.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #министр обороны #удар #сво  
+**KEYWORDS:** #russia #удар #сво #бпла #часть #про
 
 
-## Lavrov keskusteli Persianlahden tilanteesta Pakistanin ulkoministerin kanssa
-Maaliskuun 24. päivänä 2026 Venäjän ulkoministeri Sergey Lavrov ja Pakistanin ulkoministeri Muhammad Ishaq Dar kävivät puhelinkeskustelun Persianlahden tilanteesta. He käsittelivät kahdenvälistä yhteistyötä ja huomasivat Pakistanin roolin Iranin ja Yhdysvaltojen suhteiden helpottajana. [11]
+## Volodin keskustelee yhteistyön laajentamisesta Pohjois-Korean johdon kanssa
+Maaliskuun 25. päivänä 2026 valtioduumapresidentti Vyacheslav Volodin tapasi Cho Ыn Wonin, Pohjois-Korean korkeimman kansankokouksen puhemiehen, keskustellakseen venäläisten ja pohjoiskorealaisten lainsäätäjien yhteistyömuotojen laajentamisesta. Volodin korosti edellisten sopimusten toteuttamisen tärkeyttä Venäjän ja Pohjois-Korean johtajien ystävyyden aikana ja ilmaisi valmiutensa harkita korealaisten parlamenttiedustajien ehdotuksia. [6]
 
-**COMMENT:** Keskustelu merkitsee Venäjän ja Pakistanin välistä jatkuvaa vuorovaikutusta turvallisuus- ja diplomaattisten asioiden osalta Persianlahden alueella. Tällaiset vuorovaikutukset voivat viitata Venäjän aikeisiin laajentaa vaikutusvaltaansa alueelliseen geopolitiikkaan, erityisesti jatkuvien jännitteiden keskellä Yhdysvaltojen ja Iranian kanssa.
+**COMMENT:** Tämä tapaaminen vahvistaa Venäjän jatkuvaa halua vahvistaa suhteitaan Pohjois-Koreaan, mikä voi heijastaa laajempaa strategiaa alueellisen vaikutusvallan lisäämiseksi kansainvälisten pakotteiden keskellä.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Moskova / Moscow, 55.750541, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #российский #про  
+**KEYWORDS:** #российские #удар #сво #про
 
 
-## Nabiullina vahvistaa käteisen pysyvän digitaalisen ruplan rinnalla
-Maaliskuun 24. päivänä 2026 Venäjän keskuspankin pääjohtaja Elvira Nabiullina ilmoitti, että käteinen tulee jatkamaan kiertämistä digitaalisen ruplan asteittaisesta käyttöönotosta huolimatta. Hän korosti, että keskuspankki ei aio kiirehtiä digitaalista siirtymää ja pyrkii hienosäätämään uutta valuuttaa kannustaakseen vapaaehtoista hyväksymistä yleisön keskuudessa. [12]
+## Volodin kiittää DPRK:n johtoa tuesta Kurskin alueen vapauttamisessa
+Maaliskuun 25. päivänä 2026 valtioduumapresidentti Vyacheslav Volodin tapasi DPRK:n viranomaisia, erityisesti Cho Yin Wonin, kiittääkseen Pohjois-Korean apua Kurskin alueen vapauttamisessa. Tapaamisessa Volodin korosti Venäjän sitoutumista muistaa kaatuneet korealaiset sotilaat ja keskusteli yhteistyön laajentamisesta Venäjän ja Pohjois-Korean välillä. [7]
 
-**COMMENT:** Tämä ilmoitus osoittaa venäläisten talousviranomaisten varovaisen lähestymistavan digitaalisen valuutan käyttöönotossa, mikä heijastaa herkkyyttä yleisön valmiudelle tällaisiin muutoksiin. Jatkuva painotus käteiseen viittaa tietoisesti potentiaalisiin yleisön vastarintaan ja strategiaan ylläpitää taloudellista vakautta siirtymän aikana.
+**COMMENT:** Tämä tapahtuma heijastaa Venäjän ja Pohjois-Korean suhteiden vahvistumista, erityisesti sotilaallisissa yhteyksissä, mikä osoittaa mahdollisen muutoksen alueellisessa turvallisuustilanteessa.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Kurskin alue / Kursk Oblast, 51.656845, 36.485270 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.656845&mlon=36.485270#map=8/51.656845/36.485270)
 
-**KEYWORDS:** #россия #сво #про  
+**KEYWORDS:** #россия #офицер #удар #сво #про
+
+
+## Viisi haavoittuu dronehyökkäyksissä Belogorodin alueella
+Maaliskuun 25. päivänä 2026 viisi henkilöä haavoittui Ukrainan asevoimien dronehyökkäyksen seurauksena Belogorodin alueella Venäjällä, kuten alueen kuvernööri Vyacheslav Gladkov raportoi. Hyökkäykset koskivat autoja useissa paikoissa, mikä johti haavoittumisiin, jotka edellyttivät outpatient-hoitoa joillekin uhreille. [8]
+
+**COMMENT:** Tapahtumat Belogorodissa korostavat Venäjän kohtaamia jatkuvia turvallisuushaasteita Ukrainan sotilaallisten toimintojen vuoksi.
+
+**LOCATION:** Belogorod / Belgorod Oblast, 50.708012, 37.583762 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762)
+
+**KEYWORDS:** #russia #удар #сво #беспилотник #часть #про
+
+
+## Britannian armeija kiistää raportit venäläisten dronejen alas ampumisesta Ukrainan yllä
+Maaliskuun 25. päivänä 2026 Britannian puolustusministeriö hylkäsi Romaniasta tulleet väittämät, joiden mukaan brittien Eurofighter Typhoon -lentokoneet ampuivat alas venäläisiä droneja Ukrainan yllä. Britannian hävittäjät, jotka laukaistiin Romanian Borchan lentotukikohdasta, palasivat ilman, että ne osallistuivat taistelu-toimintaan, vahvistaen, että ne toimivat tiukasti Romanian ilmatilassa. [9]
+
+**COMMENT:** Tämä tapahtuma heijastaa jatkuvia jännitteitä, jotka liittyvät Venäjän sotilaallisiin toimiin ja Naton vastaukseen. Jatkuva kieltäytyminen osallistumisesta voi viitata haluun välttää eskalaatiota.
+
+**LOCATION:** Romania / Romania, 45.985213, 24.685923 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.985213&mlon=24.685923#map=8/45.985213/24.685923)
+
+**KEYWORDS:** #российские #министерство обороны #ввс #беспилотник #бпла #про
+
+
+## Venäjän armeija iskee Ukraina varten sotateollisuuteen terrori-iskujen vuoksi
+Maaliskuun 25. päivänä 2026 Venäjän armeija suoritti iskuja Ukrainan sotateollisuuteen vastauksena äskettäin tapahtuneisiin terrori-iskuihin, jotka on liitetty Ukrainan asevoimiin. Tämä eskalaatio korostaa Venäjän ja Ukrainan välisiä jatkuvia jännitteitä. [15]
+
+**COMMENT:** Tämä sotilaallinen toimenpide korostaa intensiivistyviä konfliktidynamiikoita ja Venäjän valmiutta iskeä Ukrainan teollisuuskäyttöön. Tilanteen seuraaminen on tärkeää paikallisen vakauden kannalta.
+
+**LOCATION:** Ukraina / Ukraine, 49.487197, 31.271832 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
+
+**KEYWORDS:** #вооруженные силы рф #министерство обороны #штаб #удар #сво #сф #часть #армия #про
+
+
+## Venäjän armeija iskee Ukraina hyvien sotajoukkojen tiloihin Odessassa
+Maaliskuun 25. päivänä 2026 Venäjän armeija käynnisti sarjan iskuja, jotka kohdistuivat Ukrainan asevoimien (AFU) tiloihin Odessassa ja Mykolaivissa, keskittyen maanalaisiin varastoihin ja droneoperaattoreiden koulutuspaikkoihin. Nämä iskut tähtäsivät keskeisten logististen pisteiden tuhoamiseen niiden strategisen merkityksen vuoksi. [13]
+
+**COMMENT:** Tämä sotilaallinen toimenpide osoittaa Venäjän jatkuvaa tavoitetta häiritä Ukrainan toimintoja. Jos tällaiset iskut jatkuvat, ne voivat johtaa lisääntyviin haasteisiin Ukrainalle sotilaallisten vastausten ja logistiikan koordinoinnissa.
+
+**LOCATION:** Odessa / Odessa, Unknown, Unknown [Click for Map Location](Unknown)
+
+**KEYWORDS:** #российские #российские военные #полк #удар #сво #сф #часть #армия #про
+
+
+## UK kiistää, että Typhoon-lentokoneet olivat mukana dronen alas ampumisessa Romaniassa
+Maaliskuun 25. päivänä 2026 Britannian puolustusministeriö selvitti, että kaksi Eurofighter Typhoon -lentokonesyö sisko ei ollut osallistunut venäläisten dronejen alas ampumiseen Ukrainan ilmatilassa, kumoten Romanian väitteet. [14]
+
+**COMMENT:** Britannian selvennys korostaa ilmatilanteen monimutkaisuutta alueella, heijastaen ongoing jännitteitä Venäjän drone-toiminnasta.
+
+**LOCATION:** Romania / Romania, 45.985213, 24.685923 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.985213&mlon=24.685923#map=8/45.985213/24.685923)
+
+**KEYWORDS:** #россия #российские #минобороны #ввс #беспилотник #бпла #про
+
+
+## Venäjän asevoimat iskee Ukrainan puolustusalaan terrorismi-iskujen seurauksena
+Maaliskuun 25. päivänä 2026 Venäjän asevoimat iskivät Ukrainan puolustusalaan vastasi äskettäin tullut terrori-isku, joka liittyi Ukrainan asevoimaan. Tämä eskalaatio korostaa jännitteitä ja sotilaallisia konfrontaatioita Venäjän ja Ukrainan välillä. [15]
+
+**COMMENT:** Toinen tämäntyyppinen toimenpide voi lisätä uusia turvallisuusuhkia, kun vastataksemme vaatimuksiin ja jäljelle jääviin uhkiin tulee huolehtia riittävän vähän.
+
+**LOCATION:** Ukraina / Ukraine, 49.487197, 31.271832 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
+
+**KEYWORDS:** #вооруженные силы рф #удар
+
+
+## Venäjän armeija vapauttaa Bochkovo Kharkivin alueella
+Maaliskuun 25. päivänä 2026 Venäjän armeija ilmoitti Bochkovo-nimisen alueen vapautuksesta Kharkivin alueella. Tämä operaatio voi merkitä jatkuvia pyrkimyksiä hallita kiistanalaisia alueita jatkuvien alueellisten konfliktien keskellä. [16]
+
+**COMMENT:** Raportoitu vapautus Bochkovo näyttää Venäjän aktiivisilta toimenpiteiltä Ukrainassa. Se voi tarjota tietoa tulevista sotilaallisista sitoumuksista.
+
+**LOCATION:** Bochkovo / Bochkovo, Unknown, Unknown [Click for Map Location](Unknown)
+
+**KEYWORDS:** #российские #российские военные #сво
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1085898?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1086013?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1085827?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1085999?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1085853?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1085992?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1085898
+[4] interfax.ru - https://interfax.ru/russia/1086004?utm_source=top
 
-[5] interfax.ru - https://interfax.ru/russia/1085896
+[5] interfax.ru - https://interfax.ru/russia/1086013
 
-[6] interfax.ru - https://interfax.ru/russia/1085888
+[6] interfax.ru - https://interfax.ru/world/1086011
 
-[7] aif.ru - https://aif.ru/society/kazn-iudy-raskryta-uchast-voennogo-predatelya-klimova-bezhavshego-v-vsu
+[7] interfax.ru - https://interfax.ru/world/1086010
 
-[8] iz.ru - https://iz.ru/2085365/2026-04-24/putin-obsudil-s-sovbezom-mery-presecheniia-pravonarushenii-i-borby-s-prestupnostiu
+[8] interfax.ru - https://interfax.ru/russia/1086007
 
-[9] iz.ru - https://iz.ru/2085369/2026-04-24/kovalchuk-ukazal-na-sposobnost-rf-polnostiu-proizvodit-turboreaktivnye-dvigateli
+[9] interfax.ru - https://interfax.ru/world/1086005
 
-[10] iz.ru - https://iz.ru/2085414/2026-04-24/belousov-nazval-voennoe-sotrudnichestvo-rf-i-knr-kliuchevym-elementom-bezopasnosti?main_click
+[10] interfax.ru - https://interfax.ru/russia/1086004
 
-[11] iz.ru - https://iz.ru/2085396/lavrov-obsudil-situatciiu-v-persidskom-zalive-s-glavoi-mid-pakistana-izi?main_click
+[11] interfax.ru - https://interfax.ru/russia/1086002
 
-[12] iz.ru - https://iz.ru/2085354/2026-04-24/nabiullina-rasskazala-ob-ispolzovanii-nalichnykh-pri-vvedenii-tcifrovogo-rublia?main_click
+[12] aif.ru - https://aif.ru/society/armiya-rf-nanesla-udar-vozmezdiya-po-obektam-vpk-i-energetiki-ukrainy
+
+[13] aif.ru - https://aif.ru/society/strashnaya-razvyazka-v-katakombah-v-odesse-razgromlena-podzemnaya-armiya-vsu
+
+[14] iz.ru - https://iz.ru/2085869/2026-04-25/v-britanii-oprovergli-prichastnost-samoletov-typhoon-k-padeniiu-drona-v-rumynii?main_click
+
+[15] ria.ru - https://ria.ru/20260425/udar-2088884789.html
+
+[16] ria.ru - https://ria.ru/20260425/bochkovo-2088883650.html
