@@ -1,199 +1,127 @@
-# Report Date: 2026-04-25
+# Report Date: 2026-04-26
 
 ## Summary
-During the reporting period, multiple incidents in various regions of Russia and Ukraine reflect the ongoing hostilities and security concerns stemming from the conflict. Ukrainian drone strikes have led to civilian casualties in Luhansk, while tactical operations and environmental responses indicate vulnerabilities in coastal security and the fallout from military actions. There is also a notable increase in UAV attacks on civilian structures, highlighting the rising risks to public safety. The situation in Buryatia shows increased restrictions following avalanche incidents related to tourism, potentially prompting further regulatory actions.
+During the reporting period, significant military actions were observed involving drone strikes and increased hostilities between Ukrainian and Russian forces, particularly in border regions and occupied territories. Civilian casualties were reported, along with damage to infrastructure. The ongoing military cooperation between Russia and North Korea was also highlighted, suggesting potential shifts in regional military dynamics. In the near term, these developments may lead to heightened military responses and increased security measures along the affected borders.
 
- 
+## Ukrainian Drone Strike Kills Three in Luhansk People's Republic
+On April 26th, 2026, a Ukrainian drone strike in the village of Bulgakovka, Luhansk People's Republic, resulted in the deaths of three civilians, including two 18-year-old boys and a 28-year-old woman. The head of the LPR reported additional injuries among local teenagers, and emphasized that medical care is being provided to those affected. [1]
 
-## Ukrainian Attacks Kill Three and Wound Five in Luhansk People's Republic
-On April 25th, 2026, the Armed Forces of Ukraine conducted drone strikes on civilian areas in the Luhansk People's Republic, resulting in the deaths of three individuals and injuries to five others. The strikes caused significant damage, particularly in the village of Solontsy, where residential buildings were destroyed, highlighting ongoing hostilities in the region. [1]
+**COMMENT:** This incident highlights ongoing hostilities and the impact of drone warfare on civilian populations in the LPR. Future attacks of this nature may escalate tensions and provoke further responses from local authorities and military elements.
 
-**COMMENT:** This incident underscores the ongoing conflict and instability in the Luhansk People's Republic, which remains a focal point of tensions between Ukrainian and Russian forces. Continued attacks on civilian infrastructure may provoke heightened military responses and contribute to further escalation in the area.
+**LOCATION:** Bulgakovka / Bulgakovka, Luhansk People's Republic, Russia [Click for Map Location]()
 
-**LOCATION:** Luhansk People's Republic / Luhansk People's Republic, Russia, null, null
-
-**KEYWORDS:** #russia #удар #сво #бпла #часть #про
+**KEYWORDS:** #russia #удар #сво #беспилотник #бпла #про
 
 
-## Nearly 1,000 Cubic Meters of Oil Products Removed from Tuapse River and Coast
-On April 25th, 2026, nearly 988 cubic meters of petroleum products were removed from the river and coastal area in Tuapse, following a UAV attack that led to a fire on April 16 and 20. Ongoing cleanup efforts involve 143 personnel and 48 pieces of equipment, operating under an emergency regime established after the initial incident. [2]
+## Over 3,000 Cubic Meters of Oil Products Removed in Tuapse Following UAV Attack
+On April 26th, 2026, over 3,000 cubic meters of oil products were removed from the Tuapse River and coastal area after a Ukrainian drone attack led to a spill. The ongoing cleanup operation involves 26 units of equipment and over 130 personnel from various emergency services in the Krasnodar Territory. [2]
 
-**COMMENT:** The incident highlights vulnerabilities in Russian coastal security and the potential risks associated with UAV operations. Continued management of such spills may inform future environmental and security policies in coastal regions of Russia.
+**COMMENT:** This incident underscores vulnerabilities in regional infrastructure and the potential for escalation in environmental impacts due to military actions. Continuing monitoring and response measures will likely be critical to mitigate further damage and maintain public safety in the affected areas.
 
-**LOCATION:** Tuapse / Tuapse, Krasnodar Krai, Russia, null, null
+**LOCATION:** Tuapse / Tuapse, Krasnodar Krai, Russia [Click for Map Location]()
 
-**KEYWORDS:** #russia #сво #беспилотник #бпла #про
-
-
-## Rescuers Recover Bodies of Two Tourists Caught in Avalanche in Buryatia
-On April 25th, 2026, rescuers in Buryatia located the bodies of two more tourists who perished in an avalanche, bringing the total fatalities to three. The incident occurred on April 24th when an unregistered group of climbers was struck while ascending Mount Munku-Sardyk, prompting ongoing search efforts for the last missing member of the group. [3]
-
-**COMMENT:** The tragic avalanche incident highlights the risks associated with unauthorized outdoor activities in Russia. Moving forward, this may prompt increased scrutiny on regulations governing tourist groups in mountainous regions to enhance safety measures.
-
-**LOCATION:** Buryatia / Buryatia, Far Eastern Federal District, Russia, 52.718243, 109.492143 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.718243&mlon=109.492143#map=8/52.718243/109.492143)
-
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #russia #штаб #беспилотник #бпла #про
 
 
-## Avalanche in Buryatia Leads to Restricted Access at Munku-Sardyk Mountain
-On April 25th, 2026, access to the Munku-Sardyk mountain area in Buryatia was restricted following an avalanche that injured and killed tourists. Local authorities have declared a municipal emergency regime as the search continues for one missing tourist amidst ongoing avalanche risks. [4]
+## Russian Defense Minister Holds Talks with Kim Jong-un in Pyongyang
+On April 26th, 2026, Russian Defense Minister Andrei Belousov met with North Korean leader Kim Jong-un in Pyongyang to discuss military cooperation between Russia and North Korea. During the talks, they agreed to establish a long-term military cooperation plan for the years 2027-2031, highlighting an increasingly close relationship between the two countries. [3]
 
-**COMMENT:** This incident highlights the dangers of unregulated tourism in remote areas, potentially prompting increased regulatory actions by authorities to ensure safety. The ongoing search and potential injuries could affect local tourism dynamics and emergency response protocols in the region.
+**COMMENT:** This meeting reflects Russia's intent to solidify military ties with North Korea amid ongoing geopolitical tensions. The establishment of a long-term cooperation plan could enhance both nations' military capabilities and strategic alignment in the region.
 
-**LOCATION:** Munku-Sardyk / Munku-Sardyk, Buryatia, Russia, null, null
+**LOCATION:** Pyongyang / Pyongyang, North Korea [Click for Map Location]()
 
-**KEYWORDS:** #russia #про
-
-
-## Fatal Attacks by Ukrainian Forces in Luhansk People's Republic
-On April 25th, 2026, the Armed Forces of Ukraine launched drone attacks on civilian structures in the Luhansk People's Republic, resulting in the deaths of three individuals and injuries to five others. The assaults primarily impacted the village of Solontsy, where residential buildings were destroyed, prompting emergency response efforts from local authorities. [5]
-
-**COMMENT:** The ongoing attacks reflect heightened tensions and conflict dynamics in the region, emphasizing the potential for further escalation. This incident could provoke a stronger military response from Russian-backed authorities in Luhansk, impacting regional stability.
-
-**LOCATION:** Luhansk People's Republic / Luhansk People's Republic, Russia, null, null
-
-**KEYWORDS:** #russia #удар #сво #бпла #часть #про
+**KEYWORDS:** #минобороны рф #минобороны #министр обороны #удар #сво #про
 
 
-## Volodin Discusses Expansion of Cooperation with North Korea's Leadership
-On April 25th, 2026, State Duma Chairman Vyacheslav Volodin met with Cho Ыn Won, Chairman of the Presidium of the Supreme People's Assembly of North Korea, to discuss expanding cooperation formats between Russian and North Korean legislators. Volodin emphasized the importance of implementing previous agreements established during the friendship between the leaders of Russia and North Korea and expressed readiness to consider proposals from Korean parliamentarians. [6]
+## APU Drone Attack on Sevastopol Results in Damage and Casualties
+On April 26th, 2026, approximately 100 APU drones launched a major offensive against Sevastopol, prompting a significant response from local defense forces. The attack resulted in injuries to four individuals and damage to numerous residential buildings, highlighting ongoing tensions in the region. [4]
 
-**COMMENT:** The meeting signifies Russia's ongoing intent to strengthen ties with North Korea, potentially reflecting a broader strategy to enhance regional influence amidst international sanctions. Future engagements may indicate a shift in Russia’s diplomatic approach and an effort to solidify partnerships with allied states amid growing geopolitical tensions.
+**COMMENT:** This drone assault underscores the persistent vulnerability of Russian territories in Crimea to aerial strikes. The incident may lead to an escalation in military defenses and further retaliatory measures from Russian security forces in the region.
 
-**LOCATION:** Moscow / Moscow, Central Federal District, Russia, 55.750541, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Sevastopol / Sevastopol, Crimea, Russia [Click for Map Location]()
 
-**KEYWORDS:** #российские #удар #сво #про
-
-
-## Volodin Expresses Thanks to DPRK Leadership for Support in Kursk Region Liberation
-On April 25th, 2026, Vyacheslav Volodin, the Chairman of the State Duma, met with DPRK officials, specifically Cho Yin Won, to express gratitude for North Korea's assistance in the liberation of the Kursk region. During this meeting, Volodin emphasized Russia's commitment to remembering fallen Korean soldiers and discussed expanding cooperation formats between Russia and North Korea. [7]
-
-**COMMENT:** This event reflects a strengthening of ties between Russia and North Korea, especially in military contexts, indicating a potential shift in regional security dynamics. Future cooperation could enhance North Korea's strategic relevance to Russia, particularly in the context of their mutual interests against perceived external threats.
-
-**LOCATION:** Kursk Oblast / Kursk Oblast, Central Federal District, Russia, 51.656845, 36.485270 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.656845&mlon=36.485270#map=8/51.656845/36.485270)
-
-**KEYWORDS:** #россия #офицер #удар #сво #про
+**KEYWORDS:** #russia #беспилотник #бпла #часть
 
 
-## Five Injured in Drone Attacks in Belgorod Region
-On April 25th, 2026, five individuals were injured due to drone attacks attributed to Ukrainian forces in the Belgorod region of Russia, as reported by regional governor Vyacheslav Gladkov. The assaults involved drones striking cars in multiple locations, resulting in injuries that necessitated outpatient treatment for some victims. [8]
+## Hurricane Winds Cause Power Outages in Novosibirsk Region
+On April 26th, 2026, hurricane winds led to power outages in the Kupin, Chistoozerny, and Kuibyshevsky districts of the Novosibirsk region, as reported by Rosseti Novosibirsk. More than 80 power engineers and multiple teams are currently working to restore electricity after wires were damaged by building materials and fallen tree branches. [5]
 
-**COMMENT:** The incidents in Belgorod underscore the ongoing security challenges faced by Russia due to Ukrainian military actions. These attacks may prompt a reevaluation of Russia's defensive measures in border regions as tensions continue to escalate.
+**COMMENT:** The severe weather resulting in significant power outages highlights vulnerabilities in the region's infrastructure and response capabilities. This incident may prompt the government to assess and enhance disaster preparedness measures in anticipation of future weather-related disruptions.
 
-**LOCATION:** Belgorod Oblast / Belgorod Oblast, Central Federal District, Russia, 50.708012, 37.583762 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762)
-
-**KEYWORDS:** #russia #удар #сво #беспилотник #часть #про
-
-
-## British Military Denies Reports of Shooting Down Russian Drones Over Ukraine
-On April 25th, 2026, the British Ministry of Defense rejected claims from Romania that British Eurofighter Typhoon jets shot down Russian drones over Ukraine. The British fighters, launched from Romania's Borcha air base, returned without engaging in any combat actions, affirming they operated strictly within Romanian airspace. [9]
-
-**COMMENT:** This event reflects ongoing tensions surrounding Russian military operations and NATO's response. Continued denials of engagement may indicate an effort to avoid escalation while managing public narratives around military readiness.
-
-**LOCATION:** Romania / Romania, 45.985213, 24.685923 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.985213&mlon=24.685923#map=8/45.985213/24.685923)
-
-**KEYWORDS:** #российские #министерство обороны #ввс #беспилотник #бпла #про
-
-
-## Access Restricted at Munku-Sardyk Mountain in Buryatia After Avalanche Injuries and Deaths
-On April 25th, 2026, access to the Munku-Sardyk mountain area in Buryatia was restricted following a deadly avalanche that injured and killed tourists. The local government declared a municipal emergency as search efforts continued for one additional missing tourist amid ongoing avalanche risks. [10]
-
-**COMMENT:** The introduction of a municipal emergency regime highlights the vulnerabilities in mountain tourism safety as avalanches pose significant risks. This incident may prompt increased scrutiny and regulation of safety measures for tourist excursions in avalanche-prone regions of Russia.
-
-**LOCATION:** Munku-Sardyk / Munku-Sardyk, Buryatia, Russia, null, null
+**LOCATION:** Novosibirsk Oblast / Novosibirsk Oblast, Siberian Federal District, Russia, 55.8204953, 78.866158 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.820495&mlon=78.866158#map=8/55.820495/78.866158)
 
 **KEYWORDS:** #russia #про
 
 
-## Nine Seek Medical Care Following UAV Attack in Yekaterinburg
-On April 25th, 2026, nine individuals sought medical assistance after a UAV attack on a residential building in Yekaterinburg. Fortunately, no traumatic injuries were reported, but one person was hospitalized due to poisoning from combustion products, prompting continued psychological support for affected residents. [11]
+## Oil Spill Cleanup Continues in Tuapse Following Drone Attack
+On April 26th, 2026, over 3,000 cubic meters of oil products were removed from the Tuapse River and coastline following a spill caused by a Ukrainian drone attack. The cleanup operation, involving more than 130 personnel and 26 units of equipment, is part of an emergency response initiated on April 16th after a fire at the local sea terminal. [6]
 
-**COMMENT:** This incident highlights growing concerns regarding UAV attacks on civilian structures within Russia. As the security situation evolves, monitoring responses to such attacks will be crucial for assessing state stability and public safety.
+**COMMENT:** This incident highlights vulnerabilities in Russian coastal security and may prompt increased measures to defend critical infrastructure against UAV threats. Continued monitoring and cleanup efforts indicate a significant commitment to managing environmental impacts and maintaining operational readiness in the region.
 
-**LOCATION:** Yekaterinburg / Yekaterinburg, Sverdlovsk Oblast, Russia, 56.838207, 60.600789 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.838207&mlon=60.600789#map=8/56.838207/60.600789)
+**LOCATION:** Tuapse / Tuapse, Krasnodar Krai, Russia [Click for Map Location]()
 
-**KEYWORDS:** #russia #сво #бпла #про
-
-
-## Russian Army Launches Retaliatory Strikes on Ukraine's Military Industrial Complex
-On April 25th, 2026, the Ministry of Defense of the Russian Federation announced a large-scale retaliatory attack targeting Ukraine's military-industrial complex, energy sector, and port facilities connected to the Armed Forces of Ukraine. The strikes involved high-precision weapons and unmanned vehicles, successfully hitting all designated targets in response to prior Ukrainian attacks on Russian territory. [12]
-
-**COMMENT:** This military action indicates a significant escalation in the ongoing conflict, highlighting the Russian military's readiness to employ advanced weaponry against perceived threats. The continued targeting of Ukraine's critical infrastructure suggests a strategy aimed at undermining Ukraine's defense capabilities.
-
-**LOCATION:** Ukraine / Ukraine, 49.487197, 31.271832 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
-
-**KEYWORDS:** #вооруженные силы рф #министерство обороны #штаб #удар #сво #сф #часть #армия #про
+**KEYWORDS:** #russia #штаб #беспилотник #бпла #про
 
 
-## Russian Military Strikes Underground Armed Forces Facilities in Odessa
-On April 25th, 2026, the Russian military launched a series of strikes targeting Ukrainian Armed Forces (AFU) facilities in Odessa and Mykolaiv, focusing on underground warehouses and training sites for drone operators. These strikes aimed to incapacitate key logistical points due to their strategic importance and extensive underground infrastructure developed during the Soviet era. [13]
+## One Killed and Five Wounded in Drone Attacks in Belgorod Region
+On April 26th, 2026, a Ukrainian drone attack in the Belgorod region resulted in one death and five injuries, as reported by Governor Vyacheslav Gladkov. The incident involved strikes in the Shebekinsky and Belgorod districts, with one civilian fatally wounded in the village of Voznesenovka and multiple others injured at commercial sites. [7]
 
-**COMMENT:** This military action underscores Russia's continued targeting of critical infrastructure to disrupt Ukrainian capabilities. If such strikes persist, they may lead to increased operational challenges for Ukraine in coordinating military responses and logistics.
+**COMMENT:** The drone attacks highlight the ongoing volatility along Russia's borders, suggesting a persistent threat from UAV operations. Such incidents could prompt increased security measures in the Belgorod region as authorities respond to external threats.
 
-**LOCATION:** Odessa / Odessa, Ukraine, null, null
+**LOCATION:** Belgorod Oblast / Belgorod Oblast, Central Federal District, Russia, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762)
 
-**KEYWORDS:** #российские #российские военные #полк #удар #сво #сф #часть #армия #про
-
-
-## UK Denies Typhoon Aircraft Were Involved in Drone Crash in Romania
-On April 25th, 2026, the UK Ministry of Defense clarified that two Eurofighter Typhoon aircraft did not engage Russian drones in Ukrainian airspace, refuting Romanian claims regarding the downing of these drones. The statement came after initial reports from Romania suggested that the Typhoons had intercepted a target near Ukraine, with debris from presumed downed drones found in Romania. [14]
-
-**COMMENT:** The UK's clarification highlights the complexities of air engagement in this region, reflecting ongoing tensions involving Russian drone activity. The denial may indicate a desire to maintain operational boundaries and alliance solidarity in the face of emerging security challenges.
-
-**LOCATION:** Romania / Romania, 45.985213, 24.685923 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.985213&mlon=24.685923#map=8/45.985213/24.685923)
-
-**KEYWORDS:** #россия #российские #минобороны #ввс #беспилотник #бпла #про
+**KEYWORDS:** #russia #бригада #удар #сво #беспилотник #бпла #про
 
 
-## Russian Armed Forces Strike Ukrainian Defense Industry in Retaliation for Terrorist Attacks
-On April 25th, 2026, the Russian Armed Forces conducted strikes against the Ukrainian defense industry as a direct response to recent terrorist attacks attributed to the Armed Forces of Ukraine. This escalation highlights ongoing tensions and military confrontations between Russia and Ukraine, potentially leading to further retaliatory actions and heightened conflict in the region. [15]
+## Russian Military Shoots Down 14 Ukrainian Drones in Belgorod and Kursk Regions
+On April 26th, 2026, the Russian military shot down 14 Ukrainian drones over Belgorod and Kursk regions between 9:00 and 16:00 Moscow time, as reported by the Russian Defense Ministry. Earlier reports indicated that 49 Ukrainian UAVs were intercepted from 7:00 to 9:00, contributing to a total of 203 drones destroyed by Russian air defenses since the previous evening. [8]
 
-**COMMENT:** This military action underscores the intensifying conflict dynamics and Russia's readiness to target Ukrainian industrial capabilities in response to perceived threats. The situation warrants close monitoring for any escalation that may impact regional stability and security.
+**COMMENT:** This incident highlights the ongoing conflict and the continued operational capacity of Russian air defense systems in protecting its territorial integrity. The high number of intercepted drones may indicate increasing Ukrainian drone activity, necessitating further scrutiny of both sides' military strategies.
 
-**LOCATION:** Ukraine / Ukraine, 49.487197, 31.271832 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
+**LOCATION:** Belgorod and Kursk Oblasts / Belgorod and Kursk Oblasts, Russia [Click for Map Location]()
 
-**KEYWORDS:** #вс россии #удар
+**KEYWORDS:** #russia #минобороны рф #минобороны #пво #беспилотник #бпла
 
 
-## Russian Military Liberates Bochkovo in Kharkiv Region
-On April 25th, 2026, the Russian military announced the liberation of Bochkovo located in the Kharkiv region. This operation may signify a continued effort to assert control over contested territories amid ongoing regional conflicts. [16]
+## Russian Defense Minister Awards North Korean Military for Actions in Kursk Region
+On April 26th, 2026, during a working visit to North Korea, Russian Defense Minister Andrei Belousov awarded the Order of Courage to servicemen of the Korean People's Army for their bravery in the liberation of the Kursk region. This event reflects ongoing military cooperation between Russia and North Korea following recent developments in the region. [9]
 
-**COMMENT:** The reported liberation of Bochkovo highlights Russia's ongoing military activities in Ukraine, indicative of their strategic objectives in the region. Observing the outcomes of such operations may provide insights into future engagements and military priorities.
+**COMMENT:** The awarding of the Order of Courage to North Korean military personnel by a high-ranking Russian official underscores the strengthening of military ties between Moscow and Pyongyang. This cooperation may further influence regional security dynamics and military strategies in the coming months.
 
-**LOCATION:** Bochkovo / Bochkovo, Kharkiv Oblast, Ukraine, Russia, null, null
+**LOCATION:** Pyongyang / Pyongyang, North Korea [Click for Map Location]()
 
-**KEYWORDS:** #российские #российские военные #сво
+**KEYWORDS:** #минобороны рф #минобороны #министр обороны #удар #сво #про
+
+
+## Russian Army Intensifies Strikes Amid Ukrainian Drone Attacks
+On April 26th, 2026, in response to increased Ukrainian drone attacks on Russian cities and military targets, including recent strikes in Tuapse and Yekaterinburg, the Russian military intensified its operations against Ukrainian Armed Forces (AFU) facilities. Military experts emphasize the need for systematic and rigid military responses, focusing on disrupting AFU logistics that support Western arms supplies. [10]
+
+**COMMENT:** The escalation of military responses by Russia indicates a heightened state of urgency and resolve amid ongoing conflicts. This trend may lead to increased operational intensity in the region, reflecting broader strategic priorities regarding the security of Russian territory and the defense against perceived threats.
+
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+
+**KEYWORDS:** #российские #армия россии #пво #противовоздушная оборона #вооружение #удар #сво #беспилотник #бпла #пуск #сф #часть #армия #про
+
+
+## Belousov and Kim Jong-un Inaugurate Memorial for North Korean Heroes in Kursk Region
+On April 26th, 2026, Russian Defense Minister Andrei Belousov and North Korean leader Kim Jong-un unveiled a memorial dedicated to North Korean heroes in the capital of North Korea. Their discussions included enhancing military cooperation and plans to formalize a Russian-Korean military cooperation agreement for 2027-2031, reflecting a significant deepening of ties between the two countries. [11]
+
+**COMMENT:** This event signals a strengthening of military relations between Russia and North Korea at a time of heightened geopolitical tensions. The formalization of military cooperation could impact regional security dynamics, particularly in the context of U.S. and allied interests in East Asia.
+
+**LOCATION:** Pyongyang / Pyongyang, North Korea [Click for Map Location]()
+
+**KEYWORDS:** #российский #российские #минобороны рф #минобороны россии #вс рф #минобороны #генштаб #штаб #начальник генштаба #удар #сво #про
 
 
 # Sources
-[1] Interfax - https://interfax.ru/russia/1086013?utm_source=top
-
-[2] Interfax - https://interfax.ru/russia/1085999?utm_source=top
-
-[3] Interfax - https://interfax.ru/russia/1085992?utm_source=top
-
-[4] Interfax - https://interfax.ru/russia/1086004?utm_source=top
-
-[5] Interfax - https://interfax.ru/russia/1086013
-
-[6] Interfax - https://interfax.ru/world/1086011
-
-[7] Interfax - https://interfax.ru/world/1086010
-
-[8] Interfax - https://interfax.ru/russia/1086007
-
-[9] Interfax - https://interfax.ru/world/1086005
-
-[10] Interfax - https://interfax.ru/russia/1086004
-
-[11] Interfax - https://interfax.ru/russia/1086002
-
-[12] AIF - https://aif.ru/society/armiya-rf-nanesla-udar-vozmezdiya-po-obektam-vpk-i-energetiki-ukrainy
-
-[13] AIF - https://aif.ru/society/strashnaya-razvyazka-v-katakombah-v-odesse-razgromlena-podzemnaya-armiya-vsu
-
-[14] IZ - https://iz.ru/2085869/2026-04-25/v-britanii-oprovergli-prichastnost-samoletov-typhoon-k-padeniiu-drona-v-rumynii?main_click
-
-[15] RIA - https://ria.ru/20260425/udar-2088884789.html
-
-[16] RIA - https://ria.ru/20260425/bochkovo-2088883650.html
+[1] interfax.ru - https://interfax.ru/russia/1086080?utm_source=top  
+[2] interfax.ru - https://interfax.ru/russia/1086113?utm_source=top  
+[3] interfax.ru - https://interfax.ru/world/1086104?utm_source=top  
+[4] interfax.ru - https://interfax.ru/russia/1086102?utm_source=top  
+[5] interfax.ru - https://interfax.ru/russia/1086120  
+[6] interfax.ru - https://interfax.ru/russia/1086113  
+[7] interfax.ru - https://interfax.ru/russia/1086112  
+[8] interfax.ru - https://interfax.ru/russia/1086111  
+[9] interfax.ru - https://interfax.ru/world/1086107  
+[10] aif.ru - https://aif.ru/society/centry-prinyatiya-resheniy-drozhat-ot-otveta-rf-glavnaya-novost-svo-26-aprelya  
+[11] www.kp.ru - https://www.kp.ru/daily/27777.5/5241304/
