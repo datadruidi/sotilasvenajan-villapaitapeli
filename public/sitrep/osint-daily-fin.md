@@ -1,171 +1,140 @@
-# Report Date: 2026-04-27
+# Report Date: 2026-04-28
 
 ## Summary
-Raportointijaksolla Venäjällä tapahtui useita merkittäviä tapahtumia, mukaan lukien hurrikaanin aiheuttamat kuolemat Samaran alueella ja öljyvuodon seurausten hallinta Tuapsessa. Venäjän digitaalisten palveluiden rajoittaminen VPN-yhteyksien kautta osoittaa hallituksen pyrkimyksiä tiukentaa verkkohallintaa. Infrastruktuurihankkeissa edistytään, erityisesti Moskovan ja Pietarin välisten nopeiden rautateiden osalta. Lisäksi Venäjä vahvistaa läsnäoloaan kansainvälisissä terveyskriiseissä ja jatkaa diplomaattista vuoropuhelua Iranin kanssa. Tällaiset toimet saattavat vaikuttaa Venäjän ulkopoliittisiin linjauksiin ja suhteisiin Lännen valtioihin.
+Raportointijaksolla Venäjän tapahtumat ovat keskittyneet useisiin kriittisiin infrastruktuurin ja turvallisuuden kysymyksiin. Tuapses tapahtuneet tulipalon seurauksena on käynnistetty evakuointeja, mikä paljastaa haavoittuvuuksia teollisuudessa. Samanaikaisesti Venäjän armeija on estänyt kuppiyrityksen Maliin, mikä vahvistaa maan roolia alueellisten konfliktin ratkaisijana. Venäjän presidentti Vladimir Putin on korostanut turvallisuustoimia tulevissa vaaleissa, erityisesti uusissa liitettyissä alueissa, jossa on pelkoja mahdollisista provokaatioista. Nämä nostavat esiin kysymyksiä valtion valvonnasta ja kriisin hallinnasta.
 
-## Hurrikaani aiheutti kuoleman Samaran alueella
-Maaliskuun 27. päivänä 2026, kolme henkilöä, mukaan lukien lapsi, kuoli ankarista sääolosuhteista johtuen Samaran alueella, kuten kuvernööri Vyacheslav Fedorishchev ilmoitti. Alue kärsii merkittävistä vaurioista, ja paikallisviranomaiset varmistavat lääkinnällisen avun uhreille sekä tutkivat katastrofin syitä. [1]
+## Tulipalo Tuapsen jalostamolla aiheuttaa öljytuotteiden päästöjä
+Maaliskuun 28. päivänä 2026, tulipalo öljynjalostamolla Tuapsessa johti öljytuotteiden päästöön säiliöstä, aiheuttaen vahinkoa useille ajoneuvoille. Hätäturvapalvelut evakuoivat 31 henkilöä, ja tilannetta hallitaan, mikä viittaa mahdollisiin ympäristö- ja turvallisuushuoliin tapahtuman jäljiltä. [1]
 
-**COMMENT:** Elinhenki ja tuhot hurrikaanista voivat lisätä alueen hätätilanteiden hallintaprotokollien tarpeellisuutta. Viranomaiset saattavat arvioida tilannetta ja kehittää lieventämisstrategioita.
+**COMMENT:** Tämä tapahtuma tuo esiin kriittisen infrastruktuurin haavoittuvuuksia, erityisesti öljylaitosten turvallisuustoimissa. Jatkuva valvonta jalostamotoiminnoissa saattaa johtaa tiukempien sääntelytoimenpiteiden käyttöönottoon tulevaisuudessa.
 
-**LOCATION:** Samara / Samara, 53.1956255, 50.1014927 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.195625&mlon=50.101493#map=8/53.195625/50.101493) (Самара)
+**LOCATION:** Tuapse / Tuapse, 44.0984747, 39.0718875 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.098475&mlon=39.071888#map=8/44.098475/39.071888) (Туапсе)
+
+**KEYWORDS:** #russia #беспилотник #про
+
+
+## Venäjän armeija estää kuppiyrityksen Malissa
+Maaliskuun 28. päivänä 2026, Venäjän puolustusministeriö ilmoitti, että sen Afrikan joukot onnistuivat estämään aseellisen kuppiyrityksen noin 12 000 militantin voimin Malissa. Armeijan toimet säilyttivät laillisen hallituksen vallan ja estivät mahdollisia massiivisia siviiliuhria. [2]
+
+**COMMENT:** Tämä interventio heijastaa Venäjän sitoutumista vaikuttaa Afrikassa ja torjua koettavia uhkia liittolaishallituksille. Tällaiset toimet saattavat viitata lisääntyvään venäläiseen sotilaalliseen läsnäoloon ja halukkuuteen osallistua vastaaviin operaatioihin tulevaisuudessa.
+
+**LOCATION:** Mali / Mali, 16.3700359, -2.2900239 [Click for Map Location](https://www.openstreetmap.org/?mlat=16.370036&mlon=-2.290024#map=8/16.370036/-2.290024) 
+
+**KEYWORDS:** #russia #российский #минобороны рф #минобороны #министерство обороны #штаб #министр обороны #корпус #удар #сво #зрк #сф #армия #про
+
+
+## Venäläinen arkeologi Alexander Butyagin vaihdetaan moldovalaisista upseereista
+Maaliskuun 28. päivänä 2026, venäläinen arkeologi Alexander Butyagin, joka oli pidätetty Puolassa, vaihdettiin moldovalaisista erityispalveluupseereista Valko-Venäjä-Puola -rajalla. Tämä vaihto sisälsi myös venäläisen sotilaan vaimon palauttamisen Transnistriasta, mikä viittaa käynnissä olevaan diplomaattiseen neuvotteluun, joka koskee venäläisiä kansalaisia ulkomailla. [3]
+
+**COMMENT:** Tämä vaihto heijastaa Venäjän jatkuvia pyrkimyksiä varmistaa kansalaistensa paluu ulkomaalaisista pidätyksistä, erityisesti vihamielisiksi katsottavissa konteksteissa. Se voi merkitä lisää neuvotteluja, jotka koskevat sotilaallista läsnäoloa alueilla kuten Transnistria kasvavien jännitteiden keskellä.
+
+**LOCATION:** Valko-Venäjä-Puola -raja / Belarusian-Polish border, Unknown [Unknown]
+
+**KEYWORDS:** #россия #российский #офицер #удар #сво #про
+
+
+## Ufan pormestari syytetään suurta korruptiotapausta
+Maaliskuun 28. päivänä 2026, Ufan pormestari Ratmir Mavliev pidätettiin yhdessä kolmen viranomaisen kanssa lahjonnasyytösten vuoksi, jotka liittyvät maapaketin laittomaan vierittämiseen, kuten Venäjän tutkintakomitea on raportoinut. Syytökset koskevat virallisten valtuuksien ylittämistä ja lahjuksen vastaanottamista, mikä nostaa esiin venäläisen paikallishallinnan jatkuvia korruptio-ongelmia. [4]
+
+**COMMENT:** Tämä tapaus heijastaa jatkuvia korruptiohaasteita Venäjän paikallishallintoelimissä, vaikuttaen sisäiseen vakauteen ja julkiseen luottamukseen. Tapahtuman seuraukset saattavat painostaa paikallisia hallintoja tiukentamaan toimenpiteitä korruptiota vastaan, mikä saattaa vaikuttaa hallinnollisiin dynamiikkoihin Ufassa ja muualla.
+
+**LOCATION:** Ufa / Ufa, 54.7261409, 55.947499 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.726141&mlon=55.947499#map=8/54.726141/55.947499) (Уфа)
+
+**KEYWORDS:** #russia #сво #сф #про
+
+
+## Putin myöntää Venäjän liiketoiminnan kestävyyden jatkuvien ulkoisten haasteiden keskellä
+Maaliskuun 28. päivänä 2026, presidentti Vladimir Putin ylisti venäläisten yritysten kestävyyttä pitkäaikaisten ulkoisten haasteiden, kuten laittomien pakotteiden, keskellä. Hän painotti valtion tuen merkitystä liiketoiminnalle ja tarpeen varmistaa yrittäjien oikeudellisten oikeuksien kunnioittaminen. [5]
+
+**COMMENT:** Tämä myöntäminen nostaa esiin Kremlin keskittymisen taloudellisen vakauden tukemiseen, sillä ulkoiset paineet edelleen vaikuttavat venäläisiin yrityksiin. Painotus yhteistyölle liiketoiminnassa voi viitata strategiaan vahvistaa kotimaista kestävyyttä ja vastustaa pakotteiden vaikutuksia.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #удар #сво #сф #часть #про
+
+
+## Putin vaatii tiukkoja turvallisuustoimia sabotaasia ja terrorismia vastaan ennen vaaleja
+Maaliskuun 28. päivänä 2026, presidentti Vladimir Putin korosti tarvetta parantaa turvallisuutta tulevien parlamenttivaalien aikana, erityisesti mahdollisten terrori- ja sabotaasi-iskujen estämiseksi. Hän määräsi erikoispalvelut varmistamaan vaaliprosessien turvallisuuden, erityisesti Venäjän rajan läheisyydessä ja erityisoperaatioon osallistuville sotilashenkilöille. [6]
+
+**COMMENT:** Tämä ohjeistus viittaa kohotettuun turvallisuushenkeen hallituksen valmistautuessa parlamenttivaaleihin, mikä heijastaa huolta ulkoisista uhista. Lyhyellä aikavälillä tämä voi johtaa lisääntyneeseen valvontaan ja lainvalvonnan läsnäoloon vaalipaikkojen ympärillä, vahvistaen valtion kontrollia vaaliprosessiin.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #удар #сво #про
+
+
+## Putin varoittaa kasvavista uhista Ukrainasta Tuapsen iskujen jälkeen
+Maaliskuun 20. päivänä 2026, presidentti Vladimir Putin totesi, että Ukrainan iskut energiahuoltolaitoksiin Tuapses ovat merkittäviä ympäristöriskejä ja osoittavat trendin siviili-infrastruktuurin lisääntyvistä hyökkäyksistä. Hän ilmaisi huolensa kasvavasta terroriuhkasta Venäjällä, korostaen että sekä ukrainalaiset viranomaiset että heidän tukijansa käyttävät yhä aggressiivisempia taktiikoita sotilaallisten epäonnistumisten seurauksena. [7]
+
+**COMMENT:** Tämä ilmoitus korostaa Venäjän valtion valmiusasteen kohottamista koskien mahdollisia ukrainalaisia taktiikoita, jotka uhkaavat sisäistä turvallisuutta. Olettaen, että tämä tarkoittaa sotilaallisten vastausten eskaloitumista Venäjältä, erityisesti konfliktialueilla kuten Tuapse.
+
+**LOCATION:** Tuapse / Tuapse, Unknown [Unknown]
+
+**KEYWORDS:** #российские #российские военные #минобороны #пво #штаб #удар #сво #беспилотник #бпла #про
+
+
+## Putin korostaa Kiovan iskuja energia-infrastruktuuria vastaan siviilien kohdistamisena
+Maaliskuun 28. päivänä 2026, presidentti Vladimir Putin viittasi Tuapsen energiahuoltolaitoksiin kohdistuviin hyökkäyksiin esimerkkinä Kiovan lisääntyvistä iskuista siviili-infrastruktuuriin turvallisuuskokouksessa. Hän ilmaisi huolensa näistä hyökkäyksistä mahdollisesti aiheutuvista ympäristövaikutuksista, samalla kun paikalliset viranomaiset hoitavat tilannetta tehokkaasti. [8]
+
+**COMMENT:** Tämä lausunto vahvistaa Kremlin keskittymisen Ukrainan esittämiseen uhkana siviilien turvallisuudelle ja ympäristölle, mikä voi resonoi kotimaisissa kertomuksissa. Tällainen retoriikka voi lujittaa julkista tukea jatkuville sotatoimille ja oikeuttaa tulevia vastatoimia koettuihin ukrainalaisiin aggressioihin.
+
+**LOCATION:** Tuapse / Tuapse, Unknown [Unknown]
+
+**KEYWORDS:** #russia #удар #беспилотник #про
+
+
+## Putin korostaa vaaliturvallisuutta provokaatioiden uhkien keskellä
+Maaliskuun 28. päivänä 2026, presidentti Vladimir Putin käsitteli turvallisuusongelmia tulevissa vaaleissa Venäjään liitetyillä alueilla, erityisesti Donetskissa, Luhanskissa, Hersonissa ja Zaporizhzhassa. Hän korosti ehdokkaille, vaaliviranomaisille ja äänestäjille annettavaa turvallisuutta näiden tärkeiden vaalien aikana, viitaten mahdollisiin uhkiin niitä vastaan, jotka vastustavat integroitumista Venäjään. [9]
+
+**COMMENT:** Tämä keskittyminen vaaliturvallisuuteen viittaa kohonneisiin huoliin vakaudesta liitetyillä alueilla, ehdottaen valtion kontrollitoimenpiteiden mahdollista eskaloitumista. Painotus turvallisuudessa saattaa ennakoida lisääntynyttä sotilaallista tai lainvalvontaa vaalipaikoilla vaalien lähestyessä, mikä heijastaa alueen jatkuvia jännitteitä.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #штаб #сво #часть #про
+
+
+## Putin korostaa vahvoja toimia radikalismia ja terrorismia vastaan ennen vaaleja
+Maaliskuun 28. päivänä 2026, presidentti Vladimir Putin vaati tiukkaa vastausta ekstremismin ja terrorismin ilmiöihin vaaliturvallisuuskokouksessaan Moskovassa. Hän korosti lainvalvonnan keskeistä roolia julkisen vakauden varmistamisessa ja tulevan vaalikampanjan merkitystä yhteiskunnalliselle yhtenäisyydelle. [10]
+
+**COMMENT:** Tämä ohjeistus korostaa sisäisen turvallisuuden nostamista esille vaalien alla, heijastaen huolta radikaalien ryhmien mahdollisista uhista. Painotus lainvalvonnan valmiudessa voi viitata siihen, että ennakoidaan levottomuuksia tai haasteita vaaliprosessissa.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #россия #сво #про
+
+
+## Putin syyttää Ukrainaa terroritaktikoiden käyttämisestä alueen menettämisen myötä
+Maaliskuun 28. päivänä 2026, presidentti Vladimir Putin totesi, että ukrainalaiset viranomaiset ovat turvautuneet terroritekoihin, kun he ovat menettäneet alueita eteneville venäläisille joukoille. Hän väitti, että sekä Ukraina että sen tukijat ovat muuntaneet strategioita terrorioperaatioiden toteuttamiseksi sekä sotilaallisia että siviilikohteita vastaan. [11]
+
+**COMMENT:** Tämä julistus korostaa Kremlin narratiivia joka oikeuttaa jatkuvat sotatoimet Ukrainassa, esittäen ne välttämättöminä koettuihin terroriuhkiin. Lyhyellä aikavälillä tämä retoriikka voi vahvistaa kansalaisten tukea sotatoimille, samalla kun se voi mahdollisesti kärjistää konfliktin jännitteitä.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
 **KEYWORDS:** #russia #сво #про
 
 
-## Yli 4 000 kuutiometriä öljytuotteita poistettiin Tuapsen vesistöistä
-Maaliskuun 27. päivänä 2026, Tuapsessa, hätäsiivousoperaatiot poistoivat 4,165 kuutiometriä öljytuotteita vesistöistä UAV-iskun vuoksi aiheutuneen vuodon jälkeen. Operatiivinen päämaja raportoi jatkuvasta työstä alueella, mukaan lukien estejärjestelmien asentaminen ja resurssien lisääminen kontaminaation hallitsemiseksi. [2]
-
-**COMMENT:** Tämä tapahtuma korostaa Venäjän kriittisen infrastruktuurin haavoittuvuutta droneiskuille, mikä aiheuttaa merkittäviä ympäristö- ja turvallisuushaasteita.
-
-**LOCATION:** Tuapse / Tuapse, 44.0984747, 39.0718875 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.098475&mlon=39.071888#map=8/44.098475/39.071888) (Туапсе)
-
-**KEYWORDS:** #russia #штаб #беспилотник #бпла #про
-
-
-## Digital Affairs -ministeriö selittää VPN-rajoituksia venäläisiin palveluihin
-Maaliskuun 27. päivänä 2026, Venäjän Digitaalisten asioiden ministeriö ilmoitti, että pääsy venäläisiin internetpalveluihin rajoittuu, kun käyttäjät ottavat VPN-yhteyksiä laitteillaan turvallisuussyistä. Ministeriö korosti, että useimmat VPN-palvelut eivät tarjoa riittävää suojelua henkilötiedoille. [3]
-
-**COMMENT:** VPN-yhteyksien rajoittaminen edustaa merkittävää toimenpidettä Venäjän hallitukselta tiukentaa kontrollia verkkotoiminnassa ja tietoturvassa.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #российские #удар #перехват #про
-
-
-## Moskovan ja Pietarin välisen pika-rautatyön rakentaminen aikataulussa, sanoo Beglov
-Maaliskuun 27. päivänä 2026, Pietarin kuvernööri Alexander Beglov raportoi presidentti Vladimir Putinille, että Moskovan ja Pietarin välisen nopean rautatien rakentaminen etenee aikataulun mukaan. Tämä pilottihanke on osa Venäjän laajempaa infrastruktuurin kehittämisstrategiaa, ja sen on määrä saavuttaa täysi toiminnallisuus vuoteen 2028 mennessä. [4]
-
-**COMMENT:** Ilmoitettu edistys rautatien rakentamisessa viittaa siihen, että Venäjän hallitus priorisoi kotimaista liikenneinfrastruktuuria.
-
-**LOCATION:** Moskova ja Pietari / Moscow and St. Petersburg, Unknown, Unknown
-
-**KEYWORDS:** #russia #россия #удар #про
-
-
-## Venäjä lähettää asiantuntijoita Burundiin tuntemattoman taudin puhkeamisen vuoksi
-Maaliskuun 27. päivänä 2026, Venäjä lähetti asiantuntijoita Rospotrebnadzorista Burundiin auttamaan tuntemattoman taudin puhkeamisen selvittelyssä Mpanda-alueella. Tiimi tekee yhteistyötä paikallisten viranomaisten kanssa tutkien puhkeamista venäläisellä diagnostiikkalaitteistolla ja reagensseilla. [5]
-
-**COMMENT:** Tämä lähetys korostaa Venäjän kasvavaa osallisuutta kansainvälisissä terveyskriiseissä.
-
-**LOCATION:** Mpanda / Mpanda, -3.1692813, 29.404712 [Click for Map Location](https://www.openstreetmap.org/?mlat=-3.169281&mlon=29.404712#map=8/-3.169281/29.404712) (Мпанда)
-
-**KEYWORDS:** #russia #про
-
-
-## Venäjän puolustusministeri Belousov tarkastaa sotilastukikohdan Kirgisiassa
-Maaliskuun 27. päivänä 2026, Venäjän puolustusministeri Andrei Belousov teki tarkastusmatkan Yhdistettyyn Venäjän sotilastukikohtaan Kirgisiassa. Tarkastuksessa käytiin läpi sotilaallista valmistautumista ja infrastruktuurin kehitystä, mikä heijastaa Venäjän jatkuvia sotilaallisia sitoumuksia alueella. [6]
-
-**COMMENT:** Tämä tarkastus korostaa Venäjän sotilasläsnäolon merkitystä Kirgisiassa osana sen strategista kumppanuutta Kollektiivisen turvallisuuden sopimuksen järjestössä (CSTO).
-
-**LOCATION:** Kyrgyzstan / Kyrgyzstan, 41.5089324, 74.724091 [Click for Map Location](https://www.openstreetmap.org/?mlat=41.508932&mlon=74.724091#map=8/41.508932/74.724091) (Кыргызстан)
-
-**KEYWORDS:** #russia #минобороны россии #минобороны #военная база #министр обороны #про
-
-
-## Putin keskustelee iranilaisen ulkoministerin kanssa Pietarissa
-Maaliskuun 27. päivänä 2026, Venäjän presidentti Vladimir Putin tapasi iranilaisen ulkoministerin Abbas Araqchin Pietarissa keskustellakseen alueen konflikteista ja vahvistaakseen kahdenvälisiä suhteita. Putin vahvisti Venäjän sitoutumisen Iraniin ja ilmaisi optimismia tulevaisuuden vakauden suhteen. [7]
-
-**COMMENT:** Tämä kokoontuminen korostaa Venäjän strategista kumppanuutta Iraniin, mikä saattaa vaikuttaa Venäjän ulkopoliittisiin lähestymistapoihin.
-
-**LOCATION:** Pietari / St. Petersburg, Unknown, Unknown
-
-**KEYWORDS:** #российский #сво #сф #часть #про
-
-
-## Putin puhui lainsäätäjille Venäjän parlamentarismin päivänä
-Maaliskuun 27. päivänä 2026, presidentti Vladimir Putin piti puheen lainsäätäjien neuvostossa Venäjän parlamentarismin päivän viettämiseksi. Hän korosti kaksipuolisen parlamentaarisen mallin merkitystä Venäjän monietnisessä yhteiskunnassa. [8]
-
-**COMMENT:** Putinin lausunnot vahvistavat kremlin sitoutumista lainsäädäntökehyksiinsä, mikä voi viitata strategiaan vahvistaa poliittista vakautta.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #российский #удар #сво #про
-
-
-## Iranin ulkoministeri ylistää keskusteluja Putinin kanssa
-Maaliskuun 27. päivänä 2026, iranilainen ulkoministeri Abbas Araqchi kuvasi neuvottelujaan Venäjän presidentin Vladimir Putinin kanssa erittäin hedelmällisiksi, keskittyen alueellisiin vastakkainasettamisiin. Araqchi toisti Iranin sitoutumisen strategisten suhteiden vahvistamiseen Venäjän kanssa. [9]
-
-**COMMENT:** Tämä kokoontuminen heijastaa Iranin pyrkimyksiä vahvistaa kumppanuuksia Venäjän kanssa geopolitiikan haasteiden edessä.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #российский #удар #про
-
-
-## Venäjä puolustaa diplomaattista ratkaisua konfliktiin Iranissa
-Maaliskuun 27. päivänä 2026, Venäjän puolustusministeri Andrei Belousov korosti Venäjän sitoutumista konfliktin ratkaisemiseen Iranissa diplomaattisin keinoin keskusteluissa iranilaisen varapuolustusministerin Talai-Nik Rezan kanssa Bishkekissä. [10]
-
-**COMMENT:** Tämä lausunto korostaa Venäjän strategista etua ylläpitää vaikutusvaltaa Iranissa rauhanomaisin keinoin.
-
-**LOCATION:** Bishkek / Bishkek City, 42.8761424, 74.6036724 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.876142&mlon=74.603672#map=8/42.876142/74.603672) (Бишкек)
-
-**KEYWORDS:** #россия #российский #министр обороны #удар #про
-
-
-## Venäjä ilmaisee sitoumuksensa rauhan saavuttamiseen Iranissa diplomatian kautta
-Maaliskuun 27. päivänä 2026, Venäjän puolustusministeri Andrei Belousov korosti Venäjän sitoutumista konfliktin ratkaisemiseen Iranissa keskusteluissa Bishkekissä. [11]
-
-**COMMENT:** Tämä lausunto vahvistaa Venäjän roolia keskeisenä diplomaattisena toimijana Lähi-idässä vakauden saavuttamiseksi.
-
-**LOCATION:** Bishkek / Bishkek City, 42.8761424, 74.6036724 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.876142&mlon=74.603672#map=8/42.876142/74.603672) (Бишкек)
-
-**KEYWORDS:** #россия #российский #министр обороны #удар #про
-
-
-## Zakharova syyttää Kiovaa ydin turvallisuuden laiminlyönnistä ZNPP-iskujen jälkeen
-Maaliskuun 27. päivänä 2026, Venäjän ulkoministeriön tiedottaja Maria Zakharova tuomitsi Ukrainan Zaporozhye ydinvoimalan (ZNPP) viimeaikaiset hyökkäykset väittäen, että ne osoittavat räikeää piittaamattomuutta ydin- ja turvallisuusasioissa. [12]
-
-**COMMENT:** Tämä tapaus korostaa ydinlaitosten riskejä konfliktin keskellä, mikä nostaa huolta alueen turvallisuudesta.
-
-**LOCATION:** Zaporozhye ydinvoimala / Zaporizhia Nuclear Power Plant, Unknown, Unknown
-
-**KEYWORDS:** #россия #ротация #удар #сво #беспилотник #про
-
-
-## Putin puolustaa joustavaa lainsäädäntöä Venäjällä
-Maaliskuun 27. päivänä 2026, Venäjän presidentti Vladimir Putin puhui lainsäätäjien neuvostossa ja totesi, että liialliset rajoitukset lainsäädännössä ovat haitallisia. Hän korosti joustavan lainsäädäntökehyksen tarpeellisuutta, joka edistää vakautta ja tehokkuutta hallinnossa. [13]
-
-**COMMENT:** Putinin lausunnot viittaavat mahdolliseen muutokseen joustavampiin lainsäädäntökäytäntöihin, mikä voi parantaa valtion hallintoa.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #российский #удар #сво #про
-
-
-## Venäjä kieltää EU-edustajien pääsyn, jotka tukevat Ukrainan sotilasapua
-Maaliskuun 27. päivänä 2026, Venäjä julisti syyt EU:n ja eri Euroopan valtioiden edustajien pääsyn kieltämisestä, jotka ovat mukana sotilastuesta Ukrainalle. [14]
-
-**COMMENT:** Pääsyn kielto heijastaa Venäjän pyrkimyksiä kostaa lännen näkemysten vuoksi Ukrainassa ja voi johtaa lisäpakotteisiin.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #удар
-
-
-## Putin kehottaa päättäjiä välttämään keskittymistä kieltoihin
-Maaliskuun 27. päivänä 2026, presidentti Vladimir Putin puhui lainsäätäjien neuvostossa ja kehotti parlamentin jäseniä välttämään keskittymistä tilapäisiin lainsäädännöllisiin esteisiin, jotka haittaavat kehitystä. [15]
-
-**COMMENT:** Putinin lausunnot heijastavat pyrkimyksiä virtaviivaistaa hallintoa ja edistää mukautuvaa lainsäädäntöympäristöä.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #про
-
-
 # Sources
-[1] interfax.ru - https://interfax.ru/russia/1086307?utm_source=top  
-[2] interfax.ru - https://interfax.ru/russia/1086244?utm_source=top  
-[3] interfax.ru - https://interfax.ru/digital/1086194?utm_source=top  
-[4] interfax.ru - https://interfax.ru/russia/1086324  
-[5] interfax.ru - https://interfax.ru/russia/1086313  
-[6] interfax.ru - https://interfax.ru/russia/1086312  
-[7] aif.ru - https://aif.ru/politics/putin-vstretilsya-s-glavoy-mid-irana-abbasom-arakchi  
-[8] iz.ru - https://iz.ru/2086732/2026-04-27/putin-vystupil-na-zasedanii-soveta-zakonodatelei-glavnoe  
-[9] iz.ru - https://iz.ru/2086951/arakchi-nazval-vstrechu-s-putinym-ochen-khoroshei-izi  
-[10] iz.ru - https://iz.ru/2086971/belousov-ukazal-na-stremlenie-rossii-dostizheniia-mira-v-irane-putem-diplomatii-izi  
-[11] iz.ru - https://iz.ru/2086971/belousov-ukazal-na-stremlenie-rossii-dostizheniia-mira-v-irane-putem-diplomatii-izi?main_click  
-[12] iz.ru - https://iz.ru/2086959/2026-04-27/zakharova-obvinila-kiev-v-ignorirovanii-iadernoi-bezopasnosti-iz-za-atak-na-zaes?main_click  
-[13] www.kp.ru - https://www.kp.ru/online/news/6941917/  
-[14] ria.ru - https://ria.ru/20260427/mid-2089170754.html  
-[15] ria.ru - https://ria.ru/20260427/putin-2089156993.html
+
+[1] interfax.ru - https://interfax.ru/russia/1086536?utm_source=top
+
+[2] interfax.ru - https://interfax.ru/russia/1086485?utm_source=top
+
+[3] interfax.ru - https://interfax.ru/world/1086489?utm_source=top
+
+[4] interfax.ru - https://interfax.ru/russia/1086432?utm_source=top
+
+[5] interfax.ru - https://interfax.ru/russia/1086576
+
+[6] interfax.ru - https://interfax.ru/russia/1086577
+
+[7] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+
+[8] interfax.ru - https://interfax.ru/russia/1086574
+
+[9] interfax.ru - https://interfax.ru/russia/1086573
+
+[10] interfax.ru - https://interfax.ru/russia/1086572
+
+[11] interfax.ru - https://interfax.ru/russia/1086571
+
+[12] interfax.ru - https://interfax.ru/russia/1086560

@@ -1,186 +1,150 @@
-# Report Date: April 27, 2026
+# Report Date: 2026-04-28
 
 ## Summary
-During the reporting period, multiple incidents have highlighted key challenges and developments within Russia and its international engagements. The loss of life due to severe weather in the Samara region underscores the need for improved emergency response systems. Concurrently, environmental threats from a UAV attack in Tuapse reveal vulnerabilities in critical infrastructure. Meanwhile, Russia's government is tightening control over internet services and actively engaging in diplomatic relations with Iran amidst regional conflicts. Ongoing military inspections and infrastructure projects demonstrate a focus on enhancing national defense and transportation capabilities. Overall, the situation suggests heightened scrutiny on governance, security vulnerabilities, and diplomatic strategies.
+During the reporting period, several incidents highlight ongoing challenges in infrastructure safety, military interventions, and the political landscape in Russia and its surrounding regions. A fire at a refinery in Tuapse raised environmental concerns, while Russian military actions in Mali showcased efforts to maintain regional influence. The exchange of a Russian archaeologist for Moldovan officers reflects ongoing diplomatic negotiations. Additionally, President Putin's statements reveal heightened security priorities ahead of upcoming elections, underscoring concerns about potential threats from Ukraine and internal radicalism.
 
-## Hurricane Death Toll in Samara Region Rises to Three
-On April 27th, 2026, three individuals, including a child, died due to severe weather conditions in the Samara region, as reported by Governor Vyacheslav Fedorishchev. The region is experiencing significant damage, prompting local authorities to ensure medical care for victims and investigate the causes of the disaster. [1]
+## Fire at Tuapse Refinery Causes Petroleum Products Emission
+On April 28th, 2026, a fire at the oil refinery in Tuapse led to the emission of petroleum products from a tank, resulting in damage to several vehicles. Emergency services evacuated 31 people and are currently managing the situation, indicating possible environmental and safety concerns following the incident. [1]
 
-**COMMENT:** The loss of life and damage from the hurricane may heighten the need for enhanced emergency response protocols in the region. Continued scrutiny of local governance practices may emerge as authorities assess the situation and develop mitigation strategies.
+**COMMENT:** This incident highlights vulnerabilities in critical infrastructure, particularly regarding safety measures at oil facilities. Continued scrutiny of refinery operations may lead to enhanced regulatory measures aimed at preventing similar occurrences in the future.
 
-**LOCATION:** Samara / Samara, 53.1956255, 50.1014927 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.195625&mlon=50.101493#map=8/53.195625/50.101493) (Самара)
+**LOCATION:** Tuapse / Tuapse, 44.0984747, 39.0718875 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.098475&mlon=39.071888#map=8/44.098475/39.071888) (Туапсе)
+
+**KEYWORDS:** #russia #беспилотник #про
+
+
+## Russian Military Prevents Coup Attempt in Mali
+On April 28th, 2026, the Russian Defense Ministry announced that its African Corps successfully thwarted an armed coup attempt by approximately 12,000 militants in Mali. The military's actions reportedly preserved the power of the legitimate government and prevented potential mass civilian casualties. [2]
+
+**COMMENT:** This intervention reflects Russia's commitment to project influence in Africa and counteract perceived threats to allied governments. Such actions may signal an increased Russian military presence and a willingness to engage in similar operations in the region moving forward.
+
+**LOCATION:** Mali / Mali, 16.3700359, -2.2900239 [Click for Map Location](https://www.openstreetmap.org/?mlat=16.370036&mlon=-2.290024#map=8/16.370036/-2.290024)
+
+**KEYWORDS:** #russia #российский #минобороны рф #минобороны #министерство обороны #штаб #министр обороны #корпус #удар #сво #зрк #сф #армия #про
+
+
+## Russian Archaeologist Alexander Butyagin Exchanged for Moldovan Officers
+On April 28th, 2026, Russian archaeologist Alexander Butyagin, detained in Poland, was exchanged for Moldovan special service officers at the Belarusian-Polish border. This exchange also included the return of the wife of a Russian military serviceman from Transnistria, indicating ongoing diplomatic negotiations involving Russian nationals abroad. [3]
+
+**COMMENT:** This exchange reflects Russia's continued efforts to secure the return of its citizens from foreign detention, especially in contexts deemed hostile. It may signal further negotiations concerning military presence in regions like Transnistria amid rising tensions.
+
+**LOCATION:** Belarusian-Polish border / Belarusian-Polish border, Unknown, Unknown
+
+**KEYWORDS:** #россия #российский #офицер #удар #сво #про
+
+
+## Ufa Mayor Charged in Major Bribery Case
+On April 28th, 2026, Ufa Mayor Ratmir Mavliev was detained along with three officials due to allegations of bribery connected to the illegal alienation of a land plot, as reported by the Investigative Committee of the Russian Federation. The charges involve exceeding official powers and receiving a bribe, highlighting ongoing issues of corruption within local governance in Russia. [4]
+
+**COMMENT:** This case reflects persistent corruption challenges at local government levels in Russia, impacting internal stability and public trust. The implications of this incident may pressure local administrations to adopt stricter measures against corruption, potentially influencing governance dynamics in Ufa and beyond.
+
+**LOCATION:** Ufa / Ufa, 54.7261409, 55.947499 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.726141&mlon=55.947499#map=8/54.726141/55.947499)
+
+**KEYWORDS:** #russia #сво #сф #про
+
+
+## Putin Acknowledges Resilience of Russian Business Amid Ongoing External Challenges
+On April 28th, 2026, President Vladimir Putin praised the resilience of Russian businesses amidst longstanding external challenges, including illegitimate sanctions. He emphasized the importance of state support for business and the need to ensure that entrepreneurs' legal rights are upheld. [5]
+
+**COMMENT:** This acknowledgment highlights the Kremlin's focus on bolstering economic stability as external pressures continue to affect Russian enterprises. The emphasis on partnership with business may indicate a strategy to enhance domestic resilience and counteract the impact of sanctions.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
+
+**KEYWORDS:** #russia #удар #сво #сф #часть #про
+
+
+## Putin Calls for Strict Security Measures Against Sabotage and Terrorism During Pre-Election Period
+On April 28th, 2026, Russian President Vladimir Putin emphasized the need for enhanced security amid the upcoming parliamentary elections, particularly to counter potential terrorist attacks and sabotage. He instructed the special services to ensure the safety of election processes, especially in regions near the Russian border and for military personnel involved in the Special Military Operation (SVO). [6]
+
+**COMMENT:** This directive indicates a heightened security posture as the government prepares for the parliamentary elections, reflecting concerns about external threats. In the near term, this could lead to increased surveillance and law enforcement presence around election sites, further consolidating state control over the electoral process.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #russia #удар #сво #про
+
+
+## Putin Warns of Growing Threats from Ukraine Following Strikes on Tuapse
+On March 20th, 2026, Russian President Vladimir Putin stated that Ukrainian strikes on energy facilities in Tuapse pose significant environmental risks and illustrate a trend of increasing attacks on civilian infrastructure. He expressed concern over the growing terrorist threat within Russia, highlighting that both the Ukrainian authorities and their supporters are employing increasingly aggressive tactics in response to military setbacks. [7]
+
+**COMMENT:** This announcement underscores a heightened state of alert within Russia regarding potential Ukrainian tactics that threaten domestic security. The implications suggest an escalation in military responses from Russia, particularly in areas experiencing heightened conflict like Tuapse.
+
+**LOCATION:** Tuapse / Tuapse, Unknown, Unknown
+
+**KEYWORDS:** #российские #российские военные #минобороны #пво #штаб #удар #сво #беспилотник #бпла #про
+
+
+## Putin Highlights Kiev's Strikes on Energy Infrastructure in Tuapse as Civilian Targeting
+On April 28th, 2026, Russian President Vladimir Putin cited attacks on energy facilities in Tuapse as an example of Kiev's increasing strikes on civilian infrastructure during a security meeting. He expressed concerns over potential environmental consequences stemming from these attacks while stating that local authorities are managing the situation effectively. [8]
+
+**COMMENT:** This statement underscores the Kremlin's focus on portraying Ukraine as a threat to civilian safety and environment, which may resonate in domestic narratives. Such rhetoric could reinforce public support for ongoing military operations and justify future responses against perceived Ukrainian aggressions.
+
+**LOCATION:** Tuapse / Tuapse, Unknown, Unknown
+
+**KEYWORDS:** #russia #удар #беспилотник #про
+
+
+## Putin Emphasizes Election Safety Amid Threats of Provocations
+On April 28th, 2026, President Vladimir Putin addressed security concerns for the upcoming elections in the newly incorporated Russian regions, notably in Donetsk, Luhansk, Kherson, and Zaporizhia. He emphasized the priority of ensuring the safety of candidates, election commission members, and voters during these pivotal elections, suggesting potential threats from those opposed to integration with Russia. [9]
+
+**COMMENT:** This focus on election security indicates heightened concerns over stability in the newly annexed regions, suggesting a potential escalation in state control measures. The emphasis on safety may foreshadow increased military or law enforcement presence as the elections approach, reflecting ongoing tensions in the region.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #russia #штаб #сво #часть #про
+
+
+## Putin Emphasizes Strong Measures Against Radicalism and Terror Ahead of Elections
+On April 28th, 2026, Russian President Vladimir Putin called for a rigorous response to extremism and terrorism during a meeting on election security in Moscow. He emphasized the crucial role of law enforcement in ensuring public stability and the importance of the upcoming election campaign for societal unity. [10]
+
+**COMMENT:** This directive underscores a heightened focus on internal security in the lead-up to elections, reflecting concerns about potential threats from radical groups. The emphasis on law enforcement readiness may indicate an anticipation of unrest or challenges during the electoral process.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #russia #россия #сво #про
+
+
+## Putin Accuses Ukraine of Resorting to Terrorist Tactics Amid Territorial Losses
+On April 28th, 2026, Russian President Vladimir Putin stated that the Ukrainian authorities are resorting to terrorist methods as they lose territory to advancing Russian troops. During a security meeting for elections, he claimed that both Ukraine and its supporters have shifted strategies to conduct terrorist operations against both military and civilian targets. [11]
+
+**COMMENT:** This declaration underscores the Kremlin's narrative of justification for ongoing military actions in Ukraine, framing them as necessary against perceived terrorist threats. In the near term, this rhetoric may reinforce domestic support for military operations while potentially escalating tensions in the conflict.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
 **KEYWORDS:** #russia #сво #про
 
 
-## Over 4,000 Cubic Meters of Oil Products Removed from Water Bodies in Tuapse
-On April 27th, 2026, in Tuapse, emergency clean-up efforts removed 4,165 cubic meters of oil products from water bodies following a UAV attack that caused a spill. The operational headquarters reported ongoing work in the area, including the installation of barrier boom systems and increased resources to manage the contamination. [2]
+## Fire Breaks Out at Tuapse Refinery Leading to Evacuations
+On April 28th, 2026, a fire at a refinery in Tuapse, Russia, led to the introduction of a regional emergency regime and the evacuation of 58 residents from nearby houses due to boiling oil. The incident caused damage to several vehicles and disrupted water supply in several districts, prompting a visit from the head of Russia's EMERCOM, Alexander Kurenkov. [12]
 
-**COMMENT:** This incident highlights the vulnerabilities of critical infrastructure in Russia to drone attacks, posing significant environmental and security challenges. Continued efforts to mitigate such threats may influence future Russian military and civil defense strategies.
+**COMMENT:** The fire at the Tuapse refinery highlights ongoing vulnerabilities in critical infrastructure, potentially exposing gaps in emergency response capabilities. This incident may prompt a reevaluation of safety measures and operational protocols within Russian industrial facilities to prevent future occurrences.
 
 **LOCATION:** Tuapse / Tuapse, 44.0984747, 39.0718875 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.098475&mlon=39.071888#map=8/44.098475/39.071888) (Туапсе)
 
-**KEYWORDS:** #russia #штаб #беспилотник #бпла #про
-
-
-## Ministry of Digital Affairs Explains VPN Restrictions on Russian Services
-On April 27th, 2026, the Ministry of Digital Affairs of the Russian Federation announced that access to Russian Internet services is being limited when users enable VPNs on their devices due to security concerns. The ministry highlighted that most VPN services do not adequately protect personal data and can be exploited by malicious actors to intercept traffic, thereby justifying these restrictions to safeguard citizens' data. [3]
-
-**COMMENT:** The restriction of VPN access represents a significant measure by the Russian government to tighten control over online activities and data security. This move may reflect ongoing concerns about data leaks and cyber threats as Russia continues to assert more stringent digital governance measures.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #российские #удар #перехват #про
-
-
-## Construction of High-Speed Railway from Moscow to St. Petersburg on Schedule, Says Beglov
-On April 27th, 2026, St. Petersburg Governor Alexander Beglov reported to President Vladimir Putin that the construction of a high-speed railway (HSR) between Moscow and St. Petersburg is proceeding on schedule. This pilot project is part of Russia's broader infrastructure development strategy, with plans for full operational capacity by 2028. [4]
-
-**COMMENT:** The reported progress on the high-speed railway construction indicates a prioritized effort by the Russian government to enhance domestic transportation infrastructure. Successfully maintaining the schedule may bolster public confidence in state projects, reflecting positively on the current administration's capabilities in infrastructure development.
-
-**LOCATION:** Moscow and St. Petersburg / Moscow and St. Petersburg, Unknown, Unknown
-
-**KEYWORDS:** #russia #россия #удар #про
-
-
-## Russia Sends Specialists to Burundi to Address Unknown Disease Outbreak
-On April 27th, 2026, Russia dispatched specialists from Rospotrebnadzor to Burundi to assist with an outbreak of an unknown disease reported in the Mpanda district. The team will collaborate with local authorities to investigate the outbreak using advanced Russian diagnostic equipment and reagents. [5]
-
-**COMMENT:** This deployment highlights Russia's growing involvement in international health crises, potentially bolstering its diplomatic presence in Africa. The assistance may also serve to enhance Russia's image as a global health partner amidst increasing competition from Western nations in similar contexts.
-
-**LOCATION:** Mpanda / Mpanda, -3.1692813, 29.404712 [Click for Map Location](https://www.openstreetmap.org/?mlat=-3.169281&mlon=29.404712#map=8/-3.169281/29.404712) (Мпанда)
-
-**KEYWORDS:** #russia #про
-
-
-## Russian Defense Minister Belousov Inspects Military Base in Kyrgyzstan
-On April 27th, 2026, Russian Defense Minister Andrei Belousov conducted an inspection of the United Russian Military Base in Kyrgyzstan. The visit involved reviewing military preparedness and infrastructure development, reflecting Russia's ongoing military commitments in the region. [6]
-
-**COMMENT:** This inspection underscores the importance of the Russian military presence in Kyrgyzstan as part of its strategic partnership within the Collective Security Treaty Organization (CSTO). Future enhancements at the base may indicate a strengthening of Russia's military capabilities and strategic posture in Central Asia.
-
-**LOCATION:** Kyrgyzstan / Kyrgyzstan, 41.5089324, 74.724091 [Click for Map Location](https://www.openstreetmap.org/?mlat=41.508932&mlon=74.724091#map=8/41.508932/74.724091) (Киргизстан)
-
-**KEYWORDS:** #russia #минобороны россии #минобороны #военная база #министр обороны #про
-
-
-## Putin Holds Talks with Iranian Foreign Minister in St. Petersburg
-On April 27th, 2026, Russian President Vladimir Putin met with Iranian Foreign Minister Abbas Araqchi in St. Petersburg to discuss regional conflicts and strengthen bilateral relations. During the meeting, Putin reaffirmed Russia's commitment to supporting Iran and expressed optimism regarding the future of Iranian stability amid ongoing challenges. [7]
-
-**COMMENT:** This meeting underscores Russia's strategic partnership with Iran, highlighting Moscow's role in Middle Eastern geopolitics. The outcomes may influence Russian foreign policy approaches in the region, especially regarding support for countries facing U.S. opposition.
-
-**LOCATION:** St. Petersburg / St. Petersburg, Unknown, Unknown
-
-**KEYWORDS:** #российский #сво #сф #часть #про
-
-
-## Putin Addresses Council of Legislators on Day of Russian Parliamentarism
-On April 27th, 2026, President Vladimir Putin delivered a speech at the Council of Legislators meeting held in the Federal Assembly of the Russian Federation to mark the Day of Russian Parliamentarism. He emphasized the significance of the bipartisan parliamentary model in Russia's multi-ethnic society and highlighted the coordinated efforts of various political and social entities within the country. [8]
-
-**COMMENT:** Putin's remarks underscore the Kremlin's commitment to its legislative framework amid growing societal complexities. This focus on parliamentary resilience may indicate a strategy to reinforce political stability and control in the face of potential domestic challenges.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #российский #удар #сво #про
-
-
-## Iran's Foreign Minister Praises Talks with Putin
-On April 27th, 2026, Iranian Foreign Minister Abbas Araqchi described his negotiations with Russian President Vladimir Putin as very productive, highlighting discussions around regional confrontations involving Iran, Israel, and the U.S. Araqchi reiterated Iran's commitment to strengthen strategic relations with Russia amid ongoing tensions. [9]
-
-**COMMENT:** This meeting reflects Iran's ongoing efforts to solidify partnerships with Russia in the face of geopolitical challenges. It may signal an enhanced collaboration between the two nations, affecting their respective strategies towards the U.S. and Israel.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #российский #удар #про
-
-
-## Russia Advocates for Diplomatic Resolution of Conflict in Iran
-On April 27th, 2026, Russian Defense Minister Andrei Belousov reaffirmed Russia's commitment to resolving the ongoing conflict in Iran through diplomatic means during discussions with Iranian Deputy Defense Minister Talai-Nik Reza in Bishkek. Belousov emphasized Moscow's support for Iran's sovereignty and territorial integrity, signaling continued cooperation between the two nations amid regional tensions. [10]
-
-**COMMENT:** This statement underscores Russia's strategic interest in maintaining influence in Iran and the broader region through non-military means. Looking ahead, Russia's diplomatic efforts may shape its relations with both Iran and Western powers, potentially impacting regional stability and security dynamics.
-
-**LOCATION:** Bishkek / Bishkek City, 42.8761424, 74.6036724 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.876142&mlon=74.603672#map=8/42.876142/74.603672) (Бишкек)
-
-**KEYWORDS:** #россия #российский #министр обороны #удар #про
-
-
-## Russia Expresses Commitment to Achieving Peace in Iran Through Diplomacy
-On April 27th, 2026, Russian Defense Minister Andrei Belousov emphasized Russia's commitment to resolving the conflict in Iran through diplomatic means during talks in Bishkek with Iranian Deputy Defense Minister Talai-Nik Reza. Belousov reaffirmed support for Iran’s sovereignty and territorial integrity, highlighting Moscow's readiness to assist in achieving lasting peace in the region. [11]
-
-**COMMENT:** This statement reinforces Russia's role as a key diplomatic player in the Middle East, focusing on stabilizing relationships with Iran amidst ongoing regional tensions. The pledge for diplomatic engagement may signal an effort by Moscow to enhance its influence in Iranian affairs, impacting broader regional dynamics.
-
-**LOCATION:** Bishkek / Bishkek City, 42.8761424, 74.6036724 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.876142&mlon=74.603672#map=8/42.876142/74.603672) (Бишкек)
-
-**KEYWORDS:** #россия #российский #министр обороны #удар #про
-
-
-## Zakharova Accuses Kiev of Ignoring Nuclear Security Following ZNPP Attacks
-On April 27th, 2026, Russian Foreign Ministry spokesperson Maria Zakharova condemned Ukraine for its recent attacks on the Zaporizhia Nuclear Power Plant (ZNPP), claiming these actions show a blatant disregard for nuclear safety. Zakharova highlighted that the attacks pose radiological threats and criticized Ukraine for attempting to manipulate Western support amid escalating tensions. [12]
-
-**COMMENT:** This incident highlights the continuing risks to nuclear facilities amid the ongoing conflict, raising concerns about regional security dynamics. The situation suggests that Russia may amplify its criticisms of Ukraine in international forums to galvanize support and attention on nuclear safety issues.
-
-**LOCATION:** Zaporizhia Nuclear Power Plant / Zaporizhia Nuclear Power Plant, Unknown, Unknown
-
-**KEYWORDS:** #россия #ротация #удар #сво #беспилотник #про
-
-
-## Putin Advocates for Flexible Legislation in Russia
-On April 27th, 2026, Russian President Vladimir Putin addressed the Council of Legislators, stating that excessive bans in lawmaking are counterproductive. He emphasized the need for a flexible and dynamic legislative framework that fosters stability and effectiveness in governance. [13]
-
-**COMMENT:** Putin's remarks indicate a potential shift towards more adaptable legislative practices, which could enhance state governance amid complex domestic challenges. This approach may lead to a reassessment of existing restrictions and encourage the development of innovative policies in Russia's legal framework.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #российский #удар #сво #про
-
-
-## Russia Bans Entry of EU Representatives Supporting Ukrainian Military Aid
-On April 27th, 2026, Russia announced a ban on entry for representatives from the European Union and various European states who are involved in military assistance to Ukraine. This move is seen as a direct response to actions perceived as undermining Russian territorial integrity. [14]
-
-**COMMENT:** The entry ban reflects Russia's ongoing efforts to retaliate against perceived Western interference and military support for Ukraine. This measure may further heighten tensions between Russia and the EU, potentially leading to additional sanctions or retaliatory actions.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #удар
-
-
-## Putin Urges Parliamentarians to Avoid Focusing on Bans
-On April 27th, 2026, President Vladimir Putin addressed the Council of Legislators, urging parliamentarians not to dwell on temporary legislative barriers that hinder development. He emphasized the need for flexible and progressive legislation that looks to the future, highlighting a vision of an enduring Russia. [15]
-
-**COMMENT:** Putin's remarks reflect ongoing efforts to streamline governance and promote a more adaptive legislative environment. This approach may signal upcoming reforms aimed at enhancing state resilience and responsiveness amid changing socio-economic conditions.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #про
+**KEYWORDS:** #russia #российский #минобороны рф #минобороны #офицер #корпус #сво #артиллерия #вертолет #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1086307?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1086536?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1086244?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1086485?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/digital/1086194?utm_source=top
+[3] interfax.ru - https://interfax.ru/world/1086489?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1086324
+[4] interfax.ru - https://interfax.ru/russia/1086432?utm_source=top
 
-[5] interfax.ru - https://interfax.ru/russia/1086313
+[5] interfax.ru - https://interfax.ru/russia/1086576
 
-[6] interfax.ru - https://interfax.ru/russia/1086312
+[6] interfax.ru - https://interfax.ru/russia/1086577
 
-[7] aif.ru - https://aif.ru/politics/putin-vstretilsya-s-glavoy-mid-irana-abbasom-arakchi
+[7] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
 
-[8] iz.ru - https://iz.ru/2086732/2026-04-27/putin-vystupil-na-zasedanii-soveta-zakonodatelei-glavnoe
+[8] interfax.ru - https://interfax.ru/russia/1086574
 
-[9] iz.ru - https://iz.ru/2086951/arakchi-nazval-vstrechu-s-putinym-ochen-khoroshei-izi
+[9] interfax.ru - https://interfax.ru/russia/1086573
 
-[10] iz.ru - https://iz.ru/2086971/belousov-ukazal-na-stremlenie-rossii-dostizheniia-mira-v-irane-putem-diplomatii-izi
+[10] interfax.ru - https://interfax.ru/russia/1086572
 
-[11] iz.ru - https://iz.ru/2086971/belousov-ukazal-na-stremlenie-rossii-dostizheniia-mira-v-irane-putem-diplomatii-izi?main_click
+[11] interfax.ru - https://interfax.ru/russia/1086571
 
-[12] iz.ru - https://iz.ru/2086959/2026-04-27/zakharova-obvinila-kiev-v-ignorirovanii-iadernoi-bezopasnosti-iz-za-atak-na-zaes?main_click
-
-[13] www.kp.ru - https://www.kp.ru/online/news/6941917/
-
-[14] ria.ru - https://ria.ru/20260427/mid-2089170754.html
-
-[15] ria.ru - https://ria.ru/20260427/putin-2089156993.html
+[12] interfax.ru - https://interfax.ru/russia/1086560
