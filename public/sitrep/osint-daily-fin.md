@@ -1,140 +1,114 @@
-# Report Date: 2026-04-28
+# Report Date: 2026-04-29
 
 ## Summary
-Raportointijaksolla Venäjän tapahtumat ovat keskittyneet useisiin kriittisiin infrastruktuurin ja turvallisuuden kysymyksiin. Tuapses tapahtuneet tulipalon seurauksena on käynnistetty evakuointeja, mikä paljastaa haavoittuvuuksia teollisuudessa. Samanaikaisesti Venäjän armeija on estänyt kuppiyrityksen Maliin, mikä vahvistaa maan roolia alueellisten konfliktin ratkaisijana. Venäjän presidentti Vladimir Putin on korostanut turvallisuustoimia tulevissa vaaleissa, erityisesti uusissa liitettyissä alueissa, jossa on pelkoja mahdollisista provokaatioista. Nämä nostavat esiin kysymyksiä valtion valvonnasta ja kriisin hallinnasta.
+Raportointijaksolla Venäjän ja Yhdysvaltojen presidenttien, Vladimir Putinin ja Donald Trumpin, välinen kommunikaatio on heikentänyt jännittyneitä suhteita, erityisesti Ukrainan konfliktin osalta. Tiedot mahdollisista tulitauoista ja diplomaattisen yhteistyön lisääntymisestä antavat viitteitä mahdollisista rauhoittumisten ja neuvottelujen évoluutiosta. Samanaikaisesti Venäjän viranomaiset tehostavat työtään korruption vastaisesti ja vastaavat teollisuusuhkiin, kuten drooni-iskuihin, mikä voi vaikuttaa tuleviin sisäisiin ja kansainvälisiin toimintoihin.
 
-## Tulipalo Tuapsen jalostamolla aiheuttaa öljytuotteiden päästöjä
-Maaliskuun 28. päivänä 2026, tulipalo öljynjalostamolla Tuapsessa johti öljytuotteiden päästöön säiliöstä, aiheuttaen vahinkoa useille ajoneuvoille. Hätäturvapalvelut evakuoivat 31 henkilöä, ja tilannetta hallitaan, mikä viittaa mahdollisiin ympäristö- ja turvallisuushuoliin tapahtuman jäljiltä. [1]
+## Putin ja Trump pitävät puhelun tulitauon valmiudesta
+Raportin mukaan Venäjän presidentti Vladimir Putin ja Yhdysvaltojen presidentti Donald Trump keskustelivat puhelimessa 29. huhtikuuta 2026 yli 1,5 tuntia, jolloin Putin ilmaisi valmiutensa julistaa tulitauko Kiovan kanssa Voiton päivän kunniaksi. Tämä diplomaattinen sitoumus saattaa viitata jännitteiden lieventymiseen ja korostaa käynnissä olevia neuvotteluja Ukrainassa. [1]
 
-**COMMENT:** Tämä tapahtuma tuo esiin kriittisen infrastruktuurin haavoittuvuuksia, erityisesti öljylaitosten turvallisuustoimissa. Jatkuva valvonta jalostamotoiminnoissa saattaa johtaa tiukempien sääntelytoimenpiteiden käyttöönottoon tulevaisuudessa.
+**COMMENT:** Tämä keskustelu kuvastaa jatkuvaa vuoropuhelua Venäjän ja Yhdysvaltojen välillä, erityisesti Ukrainan konfliktin osalta. Tulitauon viittaus voisi johtaa tilapäiseen deeskalointiin, vaikuttaen tuleviin ulkosuhteisiin ja sotilastrategioihin alueella.
 
-**LOCATION:** Tuapse / Tuapse, 44.0984747, 39.0718875 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.098475&mlon=39.071888#map=8/44.098475/39.071888) (Туапсе)
+**LOCATION:** Moskova / Moscow, 55.750541, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #беспилотник #про
-
-
-## Venäjän armeija estää kuppiyrityksen Malissa
-Maaliskuun 28. päivänä 2026, Venäjän puolustusministeriö ilmoitti, että sen Afrikan joukot onnistuivat estämään aseellisen kuppiyrityksen noin 12 000 militantin voimin Malissa. Armeijan toimet säilyttivät laillisen hallituksen vallan ja estivät mahdollisia massiivisia siviiliuhria. [2]
-
-**COMMENT:** Tämä interventio heijastaa Venäjän sitoutumista vaikuttaa Afrikassa ja torjua koettavia uhkia liittolaishallituksille. Tällaiset toimet saattavat viitata lisääntyvään venäläiseen sotilaalliseen läsnäoloon ja halukkuuteen osallistua vastaaviin operaatioihin tulevaisuudessa.
-
-**LOCATION:** Mali / Mali, 16.3700359, -2.2900239 [Click for Map Location](https://www.openstreetmap.org/?mlat=16.370036&mlon=-2.290024#map=8/16.370036/-2.290024) 
-
-**KEYWORDS:** #russia #российский #минобороны рф #минобороны #министерство обороны #штаб #министр обороны #корпус #удар #сво #зрк #сф #армия #про
+**KEYWORDS:** #russia #удар #про
 
 
-## Venäläinen arkeologi Alexander Butyagin vaihdetaan moldovalaisista upseereista
-Maaliskuun 28. päivänä 2026, venäläinen arkeologi Alexander Butyagin, joka oli pidätetty Puolassa, vaihdettiin moldovalaisista erityispalveluupseereista Valko-Venäjä-Puola -rajalla. Tämä vaihto sisälsi myös venäläisen sotilaan vaimon palauttamisen Transnistriasta, mikä viittaa käynnissä olevaan diplomaattiseen neuvotteluun, joka koskee venäläisiä kansalaisia ulkomailla. [3]
+## Tulipalo Tuapsen jalostamolla sammutettu drooni-iskun jälkeen
+29. huhtikuuta 2026 tulipalot voidaan nyt katsoa sammutetuksi, jonka aiheutti drooni-isku Tuapsen jalostamolle. Pelastusjoukot onnistuivat eliminoimaan avoimen palon, ja tilanne on ollut hallinnassa huhtikuun 16. päiväksi säädetyn hätätilan vuoksi. [2]
 
-**COMMENT:** Tämä vaihto heijastaa Venäjän jatkuvia pyrkimyksiä varmistaa kansalaistensa paluu ulkomaalaisista pidätyksistä, erityisesti vihamielisiksi katsottavissa konteksteissa. Se voi merkitä lisää neuvotteluja, jotka koskevat sotilaallista läsnäoloa alueilla kuten Transnistria kasvavien jännitteiden keskellä.
+**COMMENT:** Nopeasta toiminnasta tulipalon sammuttamisessa voidaan päätellä proaktiivinen lähestymistapa teollisuustapahtumien hallintaan, erityisesti turvallisuusuhkiin liittyen. Jatkuva tilannevalvonta Tuapsen jalostamolla on olennaista, kun hätäprotokollat kehittyvät tällaisiin tapahtumiin.
 
-**LOCATION:** Valko-Venäjä-Puola -raja / Belarusian-Polish border, Unknown [Unknown]
+**LOCATION:** Tuapse / Tuapse, 44.098475, 39.071888 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.098475&mlon=39.071888#map=8/44.098475/39.071888) (Туапсе)
 
-**KEYWORDS:** #россия #российский #офицер #удар #сво #про
-
-
-## Ufan pormestari syytetään suurta korruptiotapausta
-Maaliskuun 28. päivänä 2026, Ufan pormestari Ratmir Mavliev pidätettiin yhdessä kolmen viranomaisen kanssa lahjonnasyytösten vuoksi, jotka liittyvät maapaketin laittomaan vierittämiseen, kuten Venäjän tutkintakomitea on raportoinut. Syytökset koskevat virallisten valtuuksien ylittämistä ja lahjuksen vastaanottamista, mikä nostaa esiin venäläisen paikallishallinnan jatkuvia korruptio-ongelmia. [4]
-
-**COMMENT:** Tämä tapaus heijastaa jatkuvia korruptiohaasteita Venäjän paikallishallintoelimissä, vaikuttaen sisäiseen vakauteen ja julkiseen luottamukseen. Tapahtuman seuraukset saattavat painostaa paikallisia hallintoja tiukentamaan toimenpiteitä korruptiota vastaan, mikä saattaa vaikuttaa hallinnollisiin dynamiikkoihin Ufassa ja muualla.
-
-**LOCATION:** Ufa / Ufa, 54.7261409, 55.947499 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.726141&mlon=55.947499#map=8/54.726141/55.947499) (Уфа)
-
-**KEYWORDS:** #russia #сво #сф #про
+**KEYWORDS:** #russia #беспилотник #бпла #про
 
 
-## Putin myöntää Venäjän liiketoiminnan kestävyyden jatkuvien ulkoisten haasteiden keskellä
-Maaliskuun 28. päivänä 2026, presidentti Vladimir Putin ylisti venäläisten yritysten kestävyyttä pitkäaikaisten ulkoisten haasteiden, kuten laittomien pakotteiden, keskellä. Hän painotti valtion tuen merkitystä liiketoiminnalle ja tarpeen varmistaa yrittäjien oikeudellisten oikeuksien kunnioittaminen. [5]
+## Pääsyyttäjän toimisto palauttaa omaisuutta entiseltä kuvernööri Chubilta valtion tuloihin
+29. huhtikuuta 2026 Krasnodarin Oktyabrskin piirituomioistuin päätti Pääsyyttäjän toimiston hyväksi, määräten entisen Rostovin kuvernöörin Vladimir Chubin ja muiden varojen siirtämisestä Venäjän federaation tuloihin. Tämä päätös kattaa osakkeiden takavarikon useista kaupallisista organisaatioista, ja siihen on vaikuttanut anti-korruptiolakien rikkominen. [3]
 
-**COMMENT:** Tämä myöntäminen nostaa esiin Kremlin keskittymisen taloudellisen vakauden tukemiseen, sillä ulkoiset paineet edelleen vaikuttavat venäläisiin yrityksiin. Painotus yhteistyölle liiketoiminnassa voi viitata strategiaan vahvistaa kotimaista kestävyyttä ja vastustaa pakotteiden vaikutuksia.
+**COMMENT:** Tämä kehitys korostaa Venäjän viranomaisten jatkuvia ponnisteluja anti-korruption toimenpiteiden tehostamiseksi, erityisesti entisiä korkeita viranomaisia kohtaan. Tämä päätöksen välitön täytäntöönpano voi tarkoittaa kasvavaa tarkastelua aiemmassa hallinnossa mukana olevia henkilöitä kohtaan.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #удар #сво #сф #часть #про
-
-
-## Putin vaatii tiukkoja turvallisuustoimia sabotaasia ja terrorismia vastaan ennen vaaleja
-Maaliskuun 28. päivänä 2026, presidentti Vladimir Putin korosti tarvetta parantaa turvallisuutta tulevien parlamenttivaalien aikana, erityisesti mahdollisten terrori- ja sabotaasi-iskujen estämiseksi. Hän määräsi erikoispalvelut varmistamaan vaaliprosessien turvallisuuden, erityisesti Venäjän rajan läheisyydessä ja erityisoperaatioon osallistuville sotilashenkilöille. [6]
-
-**COMMENT:** Tämä ohjeistus viittaa kohotettuun turvallisuushenkeen hallituksen valmistautuessa parlamenttivaaleihin, mikä heijastaa huolta ulkoisista uhista. Lyhyellä aikavälillä tämä voi johtaa lisääntyneeseen valvontaan ja lainvalvonnan läsnäoloon vaalipaikkojen ympärillä, vahvistaen valtion kontrollia vaaliprosessiin.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Krasnodar / Krasnodar, 45.035153, 38.977240 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.035153&mlon=38.977240#map=8/45.035153/38.977240) (Краснодар)
 
 **KEYWORDS:** #russia #удар #сво #про
 
 
-## Putin varoittaa kasvavista uhista Ukrainasta Tuapsen iskujen jälkeen
-Maaliskuun 20. päivänä 2026, presidentti Vladimir Putin totesi, että Ukrainan iskut energiahuoltolaitoksiin Tuapses ovat merkittäviä ympäristöriskejä ja osoittavat trendin siviili-infrastruktuurin lisääntyvistä hyökkäyksistä. Hän ilmaisi huolensa kasvavasta terroriuhkasta Venäjällä, korostaen että sekä ukrainalaiset viranomaiset että heidän tukijansa käyttävät yhä aggressiivisempia taktiikoita sotilaallisten epäonnistumisten seurauksena. [7]
+## Ei liiallisia saasteita löytynyt Permin alueelta drooni-iskun jälkeen
+Permin alueen Rospotrebnadzor suoritti 29. huhtikuuta 2026 ilmanlaadun seurannan UAV-iskun jälkeen, eikä liiallisia saasteita havaittu. Paikallisen kuvernöörin vahvistuksen mukaan uhkaa asukkaille tai ympäristölle ei ole, ja siivoustoimet ovat käynnissä. [4]
 
-**COMMENT:** Tämä ilmoitus korostaa Venäjän valtion valmiusasteen kohottamista koskien mahdollisia ukrainalaisia taktiikoita, jotka uhkaavat sisäistä turvallisuutta. Olettaen, että tämä tarkoittaa sotilaallisten vastausten eskaloitumista Venäjältä, erityisesti konfliktialueilla kuten Tuapse.
+**COMMENT:** UAV-isku Permin alueella heijastaa jatkuvia turvallisuusuhkia drooniaktiviteettiin liittyen, korostaen tarpeen tehokkaalle ilmanlaadun ja kansalaisten turvallisuuden valvonnalle. Lähitulevaisuudessa tapahtumat voivat johtaa lisääntyneeseen valvontaan ja ennaltaehkäiseviin toimenpiteisiin paikallisilta viranomaisilta.
 
-**LOCATION:** Tuapse / Tuapse, Unknown [Unknown]
+**LOCATION:** Perm Krai / Perm Krai, 58.595160, 56.315955 [Click for Map Location](https://www.openstreetmap.org/?mlat=58.595160&mlon=56.315955#map=8/58.595160/56.315955) (Пермский край)
 
-**KEYWORDS:** #российские #российские военные #минобороны #пво #штаб #удар #сво #беспилотник #бпла #про
-
-
-## Putin korostaa Kiovan iskuja energia-infrastruktuuria vastaan siviilien kohdistamisena
-Maaliskuun 28. päivänä 2026, presidentti Vladimir Putin viittasi Tuapsen energiahuoltolaitoksiin kohdistuviin hyökkäyksiin esimerkkinä Kiovan lisääntyvistä iskuista siviili-infrastruktuuriin turvallisuuskokouksessa. Hän ilmaisi huolensa näistä hyökkäyksistä mahdollisesti aiheutuvista ympäristövaikutuksista, samalla kun paikalliset viranomaiset hoitavat tilannetta tehokkaasti. [8]
-
-**COMMENT:** Tämä lausunto vahvistaa Kremlin keskittymisen Ukrainan esittämiseen uhkana siviilien turvallisuudelle ja ympäristölle, mikä voi resonoi kotimaisissa kertomuksissa. Tällainen retoriikka voi lujittaa julkista tukea jatkuville sotatoimille ja oikeuttaa tulevia vastatoimia koettuihin ukrainalaisiin aggressioihin.
-
-**LOCATION:** Tuapse / Tuapse, Unknown [Unknown]
-
-**KEYWORDS:** #russia #удар #беспилотник #про
+**KEYWORDS:** #russia #удар #сво #бпла #сф #про
 
 
-## Putin korostaa vaaliturvallisuutta provokaatioiden uhkien keskellä
-Maaliskuun 28. päivänä 2026, presidentti Vladimir Putin käsitteli turvallisuusongelmia tulevissa vaaleissa Venäjään liitetyillä alueilla, erityisesti Donetskissa, Luhanskissa, Hersonissa ja Zaporizhzhassa. Hän korosti ehdokkaille, vaaliviranomaisille ja äänestäjille annettavaa turvallisuutta näiden tärkeiden vaalien aikana, viitaten mahdollisiin uhkiin niitä vastaan, jotka vastustavat integroitumista Venäjään. [9]
+## Tambovin lentoasema keskeyttää lentopalvelut
+29. huhtikuuta 2026 Tambovin lentoasema on keskeyttänyt kaikki lentopalvelut väliaikaisten rajoitusten vuoksi lentokoneiden vastaanotossa ja vapautuksessa, kuten Rosaviatsiya raportoi. Tämän keskeytyksen syyt voivat viitata toiminnallisiin ongelmiin Venäjän alueellisessa ilmatilassa, mikä saattaa vaatia lisätutkimuksia. [5]
 
-**COMMENT:** Tämä keskittyminen vaaliturvallisuuteen viittaa kohonneisiin huoliin vakaudesta liitetyillä alueilla, ehdottaen valtion kontrollitoimenpiteiden mahdollista eskaloitumista. Painotus turvallisuudessa saattaa ennakoida lisääntynyttä sotilaallista tai lainvalvontaa vaalipaikoilla vaalien lähestyessä, mikä heijastaa alueen jatkuvia jännitteitä.
+**COMMENT:** Toimintojen väliaikainen keskeyttäminen Tambovin lentokentällä voi heijastaa laajempia haasteita alueellisten lentokenttien hallinnassa Venäjällä, mahdollisesti sääntelyyn tai turvallisuuteen liittyvissä kysymyksissä. Tämä saattaa johtaa viranomaisten tarpeeseen arvioida vastaavien laitosten toiminnallista eheyden.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Tambov / Tambov, 52.721616, 41.452399 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.721616&mlon=41.452399#map=8/52.721616/41.452399) (Тамбов)
 
-**KEYWORDS:** #russia #штаб #сво #часть #про
-
-
-## Putin korostaa vahvoja toimia radikalismia ja terrorismia vastaan ennen vaaleja
-Maaliskuun 28. päivänä 2026, presidentti Vladimir Putin vaati tiukkaa vastausta ekstremismin ja terrorismin ilmiöihin vaaliturvallisuuskokouksessaan Moskovassa. Hän korosti lainvalvonnan keskeistä roolia julkisen vakauden varmistamisessa ja tulevan vaalikampanjan merkitystä yhteiskunnalliselle yhtenäisyydelle. [10]
-
-**COMMENT:** Tämä ohjeistus korostaa sisäisen turvallisuuden nostamista esille vaalien alla, heijastaen huolta radikaalien ryhmien mahdollisista uhista. Painotus lainvalvonnan valmiudessa voi viitata siihen, että ennakoidaan levottomuuksia tai haasteita vaaliprosessissa.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #россия #сво #про
+**KEYWORDS:** #russia #пуск
 
 
-## Putin syyttää Ukrainaa terroritaktikoiden käyttämisestä alueen menettämisen myötä
-Maaliskuun 28. päivänä 2026, presidentti Vladimir Putin totesi, että ukrainalaiset viranomaiset ovat turvautuneet terroritekoihin, kun he ovat menettäneet alueita eteneville venäläisille joukoille. Hän väitti, että sekä Ukraina että sen tukijat ovat muuntaneet strategioita terrorioperaatioiden toteuttamiseksi sekä sotilaallisia että siviilikohteita vastaan. [11]
+## Venäjä vahvistaa strategisia operaatioita Ukrainan konfliktin keskusteluiden aikana
+20. maaliskuuta 2023 Venäjän presidentin avustaja Yuri Ushakov raportoi, että presidenttien Vladimir Putinin ja Donald Trumpin välisessä keskustelussa katsottiin, että ratkaisu Ukrainan konfliktissa on lähellä. Ushakov korosti, että venäläiset joukot ylläpitävät strategisia aloitteita rintamalla, samalla vahvistaen sotilaskampanjan operatiivisia tavoitteita Ukrainassa. [6]
 
-**COMMENT:** Tämä julistus korostaa Kremlin narratiivia joka oikeuttaa jatkuvat sotatoimet Ukrainassa, esittäen ne välttämättöminä koettuihin terroriuhkiin. Lyhyellä aikavälillä tämä retoriikka voi vahvistaa kansalaisten tukea sotatoimille, samalla kun se voi mahdollisesti kärjistää konfliktin jännitteitä.
+**COMMENT:** Huomiot strategisista sotatoimista korostavat Venäjän keskittymistä tavoitteisiinsa Ukrainan konfliktissa. Tämä keskustelu ennakoi mahdollisia diplomaattisten sitoumusten muutoksia, sillä Moskova pyrkii osoittamaan sotilaallista tehokkuuttaan samalla kun se arvioi Yhdysvaltojen kiinnostusta ratkaisuneuvotteluihin.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Venäjä / Russia, 64.686314, 97.745306 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #russia #сво #про
+**KEYWORDS:** #минобороны рф #минобороны #военная техника #удар #беспилотник #про
+
+
+## Putin ilmoittaa Trumpille valmiudesta julistaa tulitauko Voiton päivän juhlapäivänä
+29. huhtikuuta 2026 Venäjän presidentti Vladimir Putin keskusteli Yhdysvaltojen presidentti Donald Trumpin kanssa liittyen Venäjän valmiuteen julistaa tulitauko tulevien Voiton päivän juhlallisuuksien aikana. Puhelu, joka kesti yli 1,5 tuntia, viittaa diplomaattisten ponnistelujen lisääntymiseen Ukrainan konfliktin käsittelyssä, Trumpin raportoidessa tukevansa tätä aloitetta. [7]
+
+**COMMENT:** Tämä kehitys indikoi mahdollisen siirtymän diplomaattisessa vuorovaikutuksessa Ukrainan konfliktin osalta, heijastaen molempien johtajien kiinnostusta vähentää vihamielisyyksiä. Tulitauon ilmoitus voisi olla Venäjän strateginen liike parantaa diplomaattista asemaansa kotimaassa ja kansainvälisesti juhlakauden aikana.
+
+**LOCATION:** Venäjä / Russia, 64.686314, 97.745306 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #россия #российский #сво #сф #часть #про
+
+
+## Putin ja Trump keskustelevat Ukrainasta ja turvallisuudesta puhelussa 29. huhtikuuta
+29. huhtikuuta 2026 Venäjän presidentti Vladimir Putin ja Yhdysvaltojen presidentti Donald Trump pitivät puhelun, joka kesti yli tunnin. Keskustelu kattoi useita aiheita, mukaan lukien tilanne Ukrainassa, Iranissa ja Trumpiin kohdistettu murhayritys, jossa Putin ilmaisi tukensa amerikkalaiselle kollegalleen. [8]
+
+**COMMENT:** Tämä keskustelu korostaa jatkuvaa strategista vuoropuhelua Venäjän ja Yhdysvaltojen välillä, erityisesti turvallisuushaasteissa Ukrainassa ja Lähi-idässä. Jatkuva sitoutuminen voi viitata yhteiseen kiinnostukseen alueellisten jännitteiden vakauttamiseksi, mutta se heijastaa myös Yhdysvaltojen ja Venäjän suhteiden monimutkaisuuksia haasteiden keskellä.
+
+**LOCATION:** Venäjä / Russia, 64.686314, 97.745306 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #россия #российский #удар #сво #про
+
+
+## Venäläiset varoittavat vaarallisista jättiputkikasvin siemenistä markkinoilla
+29. huhtikuuta 2026 Venäjän viranomaiset varoittavat yleisöä jättiputkikasvin Sosnovskin siementen myynnistä verkkomarkkinoilla, korostaen kasvin mahdollisia vaaroja puutarhoille ja ihmisten terveydelle. Rosselkhoznadzor aikoo tehdä yhteistyötä markkinapaikkojen omistajien kanssa torjuakseen laitonta myyntiä ja suojellakseen kansalaisia sääntöjen rikkomiselta. [9]
+
+**COMMENT:** Tämä varoitus heijastaa lisääntyneitä huolia bioturvallisuudesta ja kansanterveydestä invasiivisten lajien osalta Venäjällä. Valvonta- ja täytäntöönpano toimenpiteitä voidaan lisätä, kun viranomaiset pyrkivät estämään vaarallisten kasvien leviämistä, jotka voisivat uhata maatalouden vakautta ja kansanterveyttä.
+
+**LOCATION:** Venäjä / Russia, 64.686314, 97.745306 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #россия #сво #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1086536?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1086840?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1086485?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1086802?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/world/1086489?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1086761?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1086432?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1086785?utm_source=top
 
-[5] interfax.ru - https://interfax.ru/russia/1086576
+[5] interfax.ru - https://interfax.ru/russia/1086853
 
-[6] interfax.ru - https://interfax.ru/russia/1086577
+[6] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
 
-[7] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[7] aif.ru - https://aif.ru/politics/putin-soobshchil-trampu-o-gotovnosti-obyavit-peremirie-na-den-pobedy
 
-[8] interfax.ru - https://interfax.ru/russia/1086574
+[8] www.kp.ru - https://www.kp.ru/daily/277779.5/5242984/
 
-[9] interfax.ru - https://interfax.ru/russia/1086573
-
-[10] interfax.ru - https://interfax.ru/russia/1086572
-
-[11] interfax.ru - https://interfax.ru/russia/1086571
-
-[12] interfax.ru - https://interfax.ru/russia/1086560
+[9] www.kp.ru - https://www.kp.ru/online/news/6946330/
