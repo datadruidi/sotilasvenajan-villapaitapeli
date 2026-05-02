@@ -1,222 +1,188 @@
-# Report Date: 2026-05-01
+# Report Date: 2026-05-02
 
 ## Summary
-Raportointijaksolla on tapahtunut useita merkittäviä tapahtumia, jotka kuvastavat jatkuvia sotilaallisia jännitteitä ja infrastruktuurihaasteita Venäjällä ja sen naapurimaissa. Oikeudelliset toimet, kuten Moskovassa vireillä oleva omaisuusoikeudenkäynti, viittaavat syvenevään tarkasteluun liiketoimintakäytännöissä, kun taas alueelliset isku ja infrastruktuuriin kohdistuvat hyökkäykset paljastavat jännitteiden vaikutuksia siviilielämään. Tulevaisuudessa on todennäköistä, että nämä tapahtumat johtavat yhä suurempiin sotilaallisiin toimiin ja vaatimuksiin parantaa sisäistä turvallisuutta.
+Raportointijaksolla hyväksyttiin useita merkittäviä tapahtumia, jotka liittyvät sekä alueellisiin konflikteihin että sisäisiin turvallisuuskysymyksiin Venäjällä. Erityisesti UAV-hyökkäykset ja niiden seuraukset ovat korostuneet, mikä voi johtaa tiukentuneisiin turvatoimiin ja strategisiin muutoksiin infrastruktuurin suojauksessa. Lisäksi, lainsäädännön sääntely tekoälykuvien käytöstä vaaliko campaigningissa voi vaikuttaa tuleviin vaalistrategioihin ja tietoturvakäytäntöihin.
 
-## Oikeudenkäynti omaisuuden siirrosta Venäjän federaatiolle
-Maaliskuun 1. päivänä 2026 Khamovnicheskyn tuomioistuin Moskovassa aikoo käsitellä korruptiovastaisen oikeudenkäynnin, joka koskee Vadim Moshkovichin, Rusagron perustajan, omistaman omaisuuden siirtoa Venäjän valtiolle. Oikeudenkäynnissä esitetään syytöksiä petoksista Moshkovichia ja useita muita vastaajia vastaan, ja kuuleminen on määrä järjestää toukokuun 4. päivänä. [1]
+## Tuli Tuapsen meriterminaalissa täysin sammutettu
+Maaliskuun 2. päivänä 2026 asiantuntijat ilmoittivat, että he ovat täysin sammuttaneet tulipalon Tuapsen meriterminaalissa, joka syttyi UAV-hyökkäyksen seurauksena edellisenä yönä. Noin 130 henkilöä ja yli 40 laitetta oli käytössä, ja toimenpiteitä öljyjänkään koostuvan saastumisen estämiseksi merelle on käynnissä. [1]
 
-**COMMENT:** Tämä oikeudenkäynti korostaa edelleen omaisuuden hallinnan ja vastuullisuuden kysymyksiä merkittävissä venäläisissä talouksissa.
+**COMMENT:** Tämä tapahtuma korostaa Venäjän rannikko-infrastruktuurin mahdollisia haavoittuvuuksia UAV-hyökkäyksille, mikä herättää huolta turvallisuustoimista. Vastaus- ja elvytysponnistukset voivat osoittaa hallituksen painotusta ympäristödraamojen estämisessä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Tuapse / Tuapse, 44.0984747, 39.0718875 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.098475&mlon=39.071888#map=8/44.098475/39.071888) (Туапсе)
 
-**KEYWORDS:** #russia #удар #про
-
-
-## Zaporozhyen alueella osittainen sähkökatko hyökkäyksen vuoksi
-Maaliskuun 1. päivänä 2026 Zaporozhyen alue kohtasi osittaisen sähkökatkon Ukrainan asevoimien (APU) suorittaman merkittävän hyökkäyksen seurauksena energiatulevaisuuteen. Hyökkäys vahingoitti useita energiafuuksiota, mikä nosti hätäpalveluiden valppauden ja käynnisti palautustoimet. [2]
-
-**COMMENT:** Tämä tapahtuma korostaa jatkuvaa sotilaallista konfliktia ja sen vaikutuksia kriittiseen infrastruktuuriin.
-
-**LOCATION:** Zaporozhyen alue / Zaporozhye region, Unknown, Unknown [Click for Map Location](Unknown) (Запорожская область)
-
-**KEYWORDS:** #russia #сво #про
+**KEYWORDS:** #russia #штаб #сво #бпла
 
 
-## Arkeologi Alexander Butyagin palaa Pietariin luovutusvaihdon jälkeen
-Maaliskuun 1. päivänä 2026 venäläinen arkeologi Alexander Butyagin palasi Pietariin vietettyään lähes kuusi kuukautta Puolan vankilassa. Hänen paluunsa seuraa vaihto-sopimusta moldovalaistehtävien kanssa ja kuvaa Venäjän ja Ukrainan välisiä kireitä suhteita kulttuuriperinnön tuhoamista koskien. [3]
+## Siivoustoimet alkavat Tuapsessa terminaalitulen jälkeen
+Maaliskuun 2. päivänä 2026 siivoustoimet alkoivat Tuapsessa tulipalon sammutuksen jälkeen meriterminaalissa, joka seurasi UAV-hyökkäystä edellisenä yönä. Tulipalo saatiin hallintaan ilman loukkaantumisia, ja toimenpiteissä oli mukana noin 130 henkilöä ja yli 40 laitetta. [2]
 
-**COMMENT:** Tämä tapahtuma korostaa venäläis-ukrainalaisia suhteita, erityisesti kulttuurikysymyksissä.
+**COMMENT:** Tapahtuma heijastaa jatkuvia turvallisuushaasteita Venäjän infrastruktuurille UAV-hyökkäyksistä. Tulevaisuuden seuraukset saattavat sisältää tiukempia turvallisuustoimenpiteitä kriittisten laitosten ympärillä.
 
-**LOCATION:** Pietari / St. Petersburg, Unknown, Unknown [Click for Map Location](Unknown) (Санкт-Петербург)
+**LOCATION:** Tuapse / Tuapse, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=39.071887&mlon=39.071888#map=8/39.071887/39.071888)
 
-**KEYWORDS:** #russia #офицер #про
-
-
-## Jekaterinburgin poliisi tunnistaa miehen motiivit, joka lähestyi kuvernööriä
-Maaliskuun 1. päivänä 2026 eräs mies lähestyi Sverdlovskin alueen kuvernööriä Denis Pasleria Yekaterinburg Arenalla yleisön kanssa vuorovaikutuksessa. Henkilö on siirretty lainvalvontaviranomaisille lisätutkintaan, vaikka tapauksen aikana ei raportoitu loukkaantumisista. [4]
-
-**COMMENT:** Tämä tapaus heijastaa jatkuvia turvallisuushaasteita julkisten henkilöiden ympärillä Venäjällä.
-
-**LOCATION:** Jekaterinburg / Yekaterinburg, 56.8382071, 60.6007886 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.838207&mlon=60.600789#map=8/56.838207/60.600789) (Екатеринбург)
-
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #russia #штаб #сво #бпла #про
 
 
-## Siviili loukkaantui UAV-hyökkäyksessä Belgorodin alueella
-Maaliskuun 1. päivänä 2026 UAV-hyökkäys vaikutti useisiin kaupunkialueisiin Belgorodin alueella Venäjällä, loukkaantuneen siviilin olosuhteet Novaya Tavolzhankassa. Hyökkäys aiheutti vahinkoa ajoneuvoille ja rakennuksille, mukaan lukien matkustajahinta, joka sai osuman FPV-droneilta. [5]
+## 79 dronea tuhotaan Kurskin alueella yhdessä päivässä
+Maaliskuun 2. päivänä 2026 kuvernööri Alexander Khinstein ilmoitti 79 ukrainalaisen dronejen tuhoamisesta Kurskin alueella yhden päivän aikana. Hyökkäykset olivat mukana tykistöllä ja aiheuttivat vahinkoja useille kodeille ja ajoneuvoille Nizhny Mordokissa ja Sukhaya Rylin alueella, vaikka uhreja ei raportoitu. [3]
 
-**COMMENT:** Tämä tapaus tuo esiin jatkuvat drone-liittyvät turvallisuushaasteet Venäjällä.
+**COMMENT:** Tämä tapahtuma korostaa jatkuvia ilmailukohtauksia Kurskin alueella, mikä viittaa jatkuviin konfliktidynamiikkoihin Venäjän ja Ukrainan välillä. Infrastruktuuriin kohdistuva vahingot voivat johtaa lisä sotilaallisiin toimiin tai operatiivisiin muutoksiin Venäjän joukoilta alueella.
 
-**LOCATION:** Belgorodin oblast / Belgorod Oblast, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762) (Белгородская область)
+**LOCATION:** Kursk Oblast / Kursk Oblast, 51.6568453, 36.4852695 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.656845&mlon=36.485270#map=8/51.656845/36.485270)
 
-**KEYWORDS:** #russia #сво #беспилотник #бпла
+**KEYWORDS:** #russia #сво #беспилотник
 
 
-## Kaikki Krimin suuntaan pidätetyt junat ovat jatkaneet liikennettä
-Maaliskuun 1. päivänä 2026 rautatieoperaattori Grand Service Express ilmoitti, että kaikki Krimille suuntautuvat junat, jotka olivat aiemmin myöhässä Krimin sillan liikennettä, ovat joko palauttaneet aikataulunsa tai saavuttaneet määränpäänsä. Tällä hetkellä vain Simferopol-Moskova-juna kärsii kahden tunnin viivästyksestä logistisista ongelmista johtuen. [6]
+## Kuusitoista dronea ammuttua alas Tulan alueella
+Maaliskuun 2. päivänä 2026 Tulan alueen kuvernööri Dmitry Milyaev ilmoitti, että neljä lisä ukrainalaista dronea oli ammuttu alas alueella, mikä nosti päivän kokonaismääräksi kuusitoista. Onneksi loukkaantumisia tai vahinkoja maassa ei raportoitu. [4]
 
-**COMMENT:** Junaliikenteen palautuminen Krimin sillan sulkemisen jälkeen merkitsee kuljetustasapainon palauttamista.
+**COMMENT:** Tämä tapahtuma heijastaa jatkuvia ilmailukohtauksia ja konfliktidynamiikkaa alueella, kun ukrainalaiset joukot jatkavat UAV:iden käyttöä venäläisiä asemiin vastaan. Uhreja ja tuhoja ei ole osoitettu, mikä viittaa toimiviin ilmapuolustusjärjestelmiin.
 
-**LOCATION:** SPARTA CRIMEA / SPARTA CRIMEA, 45.037057, 38.9756473 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.037057&mlon=38.975647#map=8/45.037057/38.975647) (Крым)
+**LOCATION:** Tula / Tula, 54.1930321, 37.61754 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.193032&mlon=37.617540#map=8/54.193032/37.617540)
+
+**KEYWORDS:** #russia #сво #бпла
+
+
+## Permin lentoasema palauttaa normaalit toiminnot tilapäisten rajoitusten jälkeen
+Maaliskuun 2. päivänä 2026 Permin lentoasema palautti normaalit toiminnot, kun Rosaviatsiya oli purkanut tilapäiset rajoitukset lentokoneiden vastaanotossa ja vapautuksessa. Nämä toimenpiteet olivat voimassa lentoturvallisuuden varmistamiseksi, kuten virasto vahvisti. [5]
+
+**COMMENT:** Rajoitusten purkaminen Permin lentokentällä merkitsee normaalien lentotoimintojen palautumista, mikä voi heijastaa parannuksia turvallisuuden arvioinnissa. Tämä kehitys voi antaa merkkejä vakaudesta alueellisessa liikenteessä ja logistiikassa, vaikuttaen paikallisiin taloudellisiin aktiviteetteihin.
+
+**LOCATION:** Perm / Perm, 58.0108531, 56.2318528 [Click for Map Location](https://www.openstreetmap.org/?mlat=58.010853&mlon=56.231853#map=8/58.010853/56.231853)
+
+**KEYWORDS:** #russia #пуск
+
+
+## Ufan lentoasema purkaa tilapäiset rajoitukset
+Maaliskuun 2. päivänä 2026 Ufan lentoasema palautti normaalit toiminnot, kun Rosaviatsiya oli poistanut tilapäiset rajoitukset lentokoneiden vastaanotolle ja lähdölle. Tämä kehitys heijastaa laajempaa trendiä, jolla pyritään lisäämään normalisuutta useilla Venäjän lentokentillä. [6]
+
+**COMMENT:** Rajoitusten purkaminen Ufan lentoasemalla merkitsee mahdollista vakautumista ilmatilassa äskettäisten häiriöiden jälkeen. Jatkuvat parannukset toimintakyvyssä voivat parantaa logistisia virtauksia Venäjän sisällä ja sen ulkopuolella, vaikuttaen alueellisiin liikkuvuuteen ja taloudellisiin aktiviteetteihin.
+
+**LOCATION:** Ufa / Ufa, 54.7261409, 55.947499 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.726141&mlon=55.947499#map=8/54.726141/55.947499)
+
+**KEYWORDS:** #russia #пуск
+
+
+## Permin lentoasema asettaa tilapäiset lentorajoitukset
+Maaliskuun 2. päivänä 2026 Permin lentoasema, myös tunnettu nimellä Big Savino, keskeytti kaikki saapuvat ja lähtevät lennot turvallisuussyistä Rosaviatsian ilmoituksen mukaan. Tilapäiset rajoitukset korostavat jatkuvaa valppautta lentomatkustamisen turvallisuuden varmistamisessa alueella. [7]
+
+**COMMENT:** Tämä kehitys korostaa lentomatkustamisen turvallisuuteen liittyvää kohdistettua huomiota Venäjällä, mikä voi heijastaa mahdollisia haavoittuvuuksia lentotoiminnassa. Tällaiset rajoitukset voivat viitata lisääntyneeseen tarkasteluun turvallisuusprotokollista alueellisilla lentokentillä jatkuvien operatiivisten arviointien myötä.
+
+**LOCATION:** Perm Airport / Perm Airport, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=39.071887&mlon=39.071888#map=8/39.071887/39.071888)
+
+**KEYWORDS:** #russia #пуск
+
+
+## Kuvernööri Pasler käsittelee tapausta miehen kanssa kevät- ja työfestivaalilla
+Maaliskuun 1. päivänä 2026 kevät- ja työfestivaalin aikana Jekaterinburgissa mies pidätettiin yrittäessään lähestyä Sverdlovskin alueen kuvernööriä Denis Pasleria. Kuvernööri totesi, että tapaus syntyi "ihmistekijästä" ja on antanut ohjeet oikeudelliselle tuelle yksilölle, korostaen yleisen järjestyksen tärkeyttä väestön kokoontumissa. [8]
+
+**COMMENT:** Tämä tapahtuma heijastaa tiukentuneita turvallisuustoimia julkisissa tapahtumissa Venäjällä, mikä voi viitata jatkuviin huoliin väkijoukojen hallinnasta ja viranomaisten suojaamisesta. Lyhyellä aikavälillä tällaiset tapaukset voivat johtaa lisääntyneeseen tarkasteluun julkisista kanssakäymisistä ja lisämuutoksiin turvallisuusprotokollissa suurissa kokoontumisissa.
+
+**LOCATION:** Jekaterinburg / Yekaterinburg, 56.8382071, 60.6007886 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.838207&mlon=60.600789#map=8/56.838207/60.600789)
 
 **KEYWORDS:** #russia #сво
 
 
-## IAC tutkii Mi-8T-helihyökkäyksen onnettomuutta Komissa
-Maaliskuun 1. päivänä 2026 Interstate Aviation Committee (IAC) ilmoitti, että se tutkii Mi-8T-helihyökkäyksen kaatumista Usinskissa, Komissa, joka vahingoitti kymmentä kahdestatoista miehestä. Kone oli Yeltsovka Airlinesin käytössä ja matkasi Nenetsin autonomiseen piiriin työntekijöiden kuljettamiseksi onnettomuuden tapahtuessa. [7]
+## Venäjän asevoimat valtaavat Miropilin Sumyn alueella
+Maaliskuun 2. päivänä 2026 Venäjän puolustusministeriö ilmoitti, että venäläiset joukot ottivat hallintaansa Miropilin asutuksen Sumyn alueella. Tämä kehitys seuraa aiempaa ilmoitusta Pokalyanoyen valtaamisesta Charkovin alueella samana päivänä. [9]
 
-**COMMENT:** IAC:n tutkimus korostaa jatkuvia huolia ilmailuturvallisuudesta venäläisissä siviililentotousteissa.
+**COMMENT:** Miropilin valtaaminen osoittaa venäläisten joukkojen jatkuvia pyrkimyksiä vahvistaa hallintaansa keskeisillä alueilla Ukrainassa. Tämä voi viitata sotilaallisten operaatioiden kiihtymiseen alueella ja voi vaikuttaa käynnissä olevan konfliktin dynamiikkaan.
 
-**LOCATION:** Usinsk / Usinsk, 65.9944237, 57.5570861 [Click for Map Location](https://www.openstreetmap.org/?mlat=65.994424&mlon=57.557086#map=8/65.994424/57.557086) (Усинск)
+**LOCATION:** Miropil / Miropil, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=39.071887&mlon=39.071888#map=8/39.071887/39.071888)
 
-**KEYWORDS:** #russia #удар #вертолет #про
-
-
-## Helikopterionnettomuuden uhrit Komissa saavat lääkärinhoitoa
-Maaliskuun 1. päivänä 2026 useat uhrit Usinskissa, Komissa, saavat lääkärinhoitoa paikallisessa sairaalassa. Hätäpalvelut tarjosivat välitöntä apua, ja kaksi henkilöä kärsi lievistä vammoista ja kahdeksan lievistä oireista. [8]
-
-**COMMENT:** Tämä helikopteritapaus tuo esiin mahdollisia ilmailuturvallisuusongelmia alueella.
-
-**LOCATION:** Usinsk / Usinsk, 65.9944237, 57.5570861 [Click for Map Location](https://www.openstreetmap.org/?mlat=65.994424&mlon=57.557086#map=8/65.994424/57.557086) (Усинск)
-
-**KEYWORDS:** #russia #вертолет #про
+**KEYWORDS:** #российские #минобороны рф #вс рф #российские войска #минобороны #сво #сф #часть #про
 
 
-## Rikosoikeudellinen asia avattiin helikopterionnettomuuden johtamisesta Komissa
-Maaliskuun 1. päivänä 2026 Venäjän tutkintakomissio avasi rikosoikeudellisen asian Mi-8T-helihyökkäyksen kovasta laskusta Usinskissa, Komissa. Asia aloitettiin Venäjän rikoslain 263 §:n nojalla liikenneturvallisuuden ja ilmakuljetuksen toimintojen rikkomisista, ilman että kuolonuhreja raportoitiin. [9]
+## Venäjän droneiskut Ukrainan kohteisiin Mykolaiivin alueella
+Maaliskuun 2. päivänä 2026 Venäjän dronet kohdistivat voimakkaita iskuja Ukrainan sotilaskohteisiin Mykolaiivin alueella vastauksena Ukrainan joukkojen jatkuviin yrityksiin hyökätä Krimille. Iskut kohdistuivat keskeisiin laitoksiin, mukaan lukien miehittämättömien järjestelmien työpajat, mikä viittaa kostotoimien kiihtymiseen Venäjän hallitsemilla alueilla. [10]
 
-**COMMENT:** Tämä tapahtuma korostaa jatkuvia turvallisuusongelmia venäläisessä ilmailutoiminnassa.
+**COMMENT:** Tämä tapahtuma korostaa jännitteiden lisääntymistä käynnissä olevassa konfliktissa, erityisesti Krimin ja sen ympäristön osalta. Tulevat hyökkäykset saattavat entisestään lujittaa Venäjän sotilaallista asennetta alueella, kun se pyrkii estämään Ukrainan edistyksellisiä toimia.
 
-**LOCATION:** Usinsk / Usinsk, 65.9944237, 57.5570861 [Click for Map Location](https://www.openstreetmap.org/?mlat=65.994424&mlon=57.557086#map=8/65.994424/57.557086) (Усинск)
+**LOCATION:** Mykolaiivin alue / Mykolaiv Oblast, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=39.071887&mlon=39.071888#map=8/39.071887/39.071888)
 
-**KEYWORDS:** #russia #вертолет #про
-
-
-## 28 ukrainalaista dronea tuhottu Bryanskin alueen yllä
-Maaliskuun 1. päivänä 2026 Bryanskin alueen kuvernööri Alexander Bogomaz raportoi, että ilmavalvontayksiköt ovat ampunut alas 28 Ukrainan asevoimien dronea. Operaatio, jonka toteutti puolustusministeriö paikallisten erikoisyksiköiden avustamana, ei aiheuttanut loukkaantumisia tai vahinkoa maassa. [10]
-
-**COMMENT:** Tämä tapahtuma osoittaa jatkuvaa sotilaallista sitoutumista Bryanskin alueen ympärillä.
-
-**LOCATION:** Bryanskin oblast / Bryansk Oblast, 52.8873315, 33.415853 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.887332&mlon=33.415853#map=8/52.887332/33.415853) (Брянская область)
-
-**KEYWORDS:** #russia #пво #сво #беспилотник #бпла
+**KEYWORDS:** #российские #удар #сво #беспилотник #пуск #сф #про
 
 
-## Venäjän puolustusministeriö raportoi 100 dronea tuhottu
-Maaliskuun 1. päivänä 2026 Venäjän puolustusministeriö ilmoitti, että sen ilmavalvontajärjestelmät torjui ja tuhosivat sata Ukrainan asevoimien dronea. Nämä torjunnat tapahtuivat kello 8.00–17.00 useiden alueiden yli, mukaan lukien Moskova, Belgorod, Bryansk, Kaluga, Kursk, Orel, Smolensk, Tula, Krasnodar, Krim ja Azovinmeri. [11]
+## Putin allekirjoittaa lain tekoälykuvien sääntelystä vaalikampanjoinnissa
+Maaliskuun 2. päivänä 2026 presidentti Vladimir Putin allekirjoitti lain, joka säätelee tekoälyn tuottamien kuvien ja äänten käyttöä vaalikampanjoinnissa, edellyttäen kirjallista suostumusta henkilöiltä, joiden tekoälyn luomia kuvastoja käytetään. Uuden lain tavoitteena on varmistaa, että sekä ehdokkailla että äänestäjillä on valta tekoälyrepresentaatioihin poliittisissa materiaaleissa. [11]
 
-**COMMENT:** Tämä tapahtuma korostaa jatkuvia jännitteitä ja sotilaallisia sitoumuksia Venäjän ilmapuolustuskykyjen osalta.
+**COMMENT:** Tämä laki heijastaa Venäjän hallituksen kasvavaa huomiota teknologian sääntelyyn poliittisella kentällä, mahdollistaen huolia väärinkäytöksistä vaalimenettelyissä. Tämän lain vaikutukset voivat johtaa tarkempaan seurantaan kampanjakäytännöistä, joissa käytetään tekoälyä seuraavien vaalien lähestyessä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
-**KEYWORDS:** #russia #минобороны рф #минобороны #пво #беспилотник #перехват
-
-
-## Venäläiset joukot vapauttavat Pokalyanoen Harkovan alueella
-Maaliskuun 1. päivänä 2026 venäläiset joukot ottivat haltuunsa Pokalyanoen kylän Harkovan alueella, kuten Venäjän federaation puolustusministeriö raportoi. Armeija ilmoitti, että tämä vapautus saavutettiin Pohjoisesta tulevien joukkojen päättäväisillä toimilla, yhdessä äskettäin tapahtuneiden muiden asutusten valtausten kanssa alueella. [12]
-
-**COMMENT:** Pokalyanoen onnistunut valloitus osoittaa Venäjän jatkuvat sotilaalliset operaatioita itäisessä Ukrainassa.
-
-**LOCATION:** Pokalyanoe / Pokalyanoe, Unknown, Unknown [Click for Map Location](Unknown) (Покаляное)
-
-**KEYWORDS:** #российские #минобороны рф #российские войска #минобороны #сво #сф #часть #про
+**KEYWORDS:** #россия #сво #про
 
 
-## NATO:n kamikaze-alukset hyökkäävät Odesan lähellä 1. toukokuuta
-Maaliskuun 1. päivänä 2026 Odesan alueelle kohdistui merkittävä hyökkäys, jossa käytettiin vaeltavia ammuksia, jotka tunnetaan nimellä 'Geran', mikä aiheutti noin viisikymmentä räjähdystä. Iskut keskittyivät kriittisiin logistiikkakeskuksiin, jotka toimittavat Ukrainan asevoimille lännen aseita, ja vaikuttavat satama-infrastruktuuriin ja polttoaineen terminaaleihin. [13]
+## Venäjän joukot tuhoavat yli 120 Starlink-asemaa, joita käytetään Ukrainan armeijalla
+Maaliskuun 2. päivänä 2026 unmanned-järjestelmien suunnitteluosaston päällikkö ilmoitti, että Venäjän joukot Pohjoisessa tuhosivat yli 120 Starlink-asemaa, joita Ukrainan asevoimat käyttivät Charkovin alueella huhtikuussa. Tämän järjestelmän tuhoaminen häiritsi merkittävästi Ukrainan viestintä- ja koordinaatiokykyjä, jättäen joitakin yksiköitä ilman yhteyksiä komentoon. [12]
 
-**COMMENT:** Tämä tapahtuma heijastaa edelleen jännitteitä ja eskaloitumista konfliktissa, erityisesti Ukrainan toimituslinjoja vastaan.
+**COMMENT:** Starlink-viestinnän onnistunut kohdistaminen osoittaa elektronisen sodankäynnin kehittyvää luonteen konfliktissa, erityisesti satelliittiyhteyksien lisääntyvän käytön vuoksi. Tällaiset kehitykset voivat johtaa lisävaikutuksiin Ukrainan joukojen operatiiviseen tehokkuuteen ja saattavat vaatia mukautuksia niiden viestintästrategioihin.
 
-**LOCATION:** Odesa / Odessa, Unknown, Unknown [Click for Map Location](Unknown) (Одесса)
+**LOCATION:** Charkovin alue / Kharkiv Oblast, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=39.071887&mlon=39.071888#map=8/39.071887/39.071888)
 
-**KEYWORDS:** #российские #учения #вооружение #удар #сво #сф #часть #про
-
-
-## Venäjän ilmapuolustus ampuu alas 100 ukrainalaista UAV:ta yhdeksässä tunnissa
-Maaliskuun 1. päivänä 2026 Venäjän ilmapuolustusjärjestelmät torjuivat ja tuhosivat 100 ukrainalaista miehittämätöntä ilma-alusta (UAV) useiden Venäjän alueiden yllä, mukaan lukien Belgorod, Bryansk, Kaluga, Kursk, Orel, Smolensk, Tula, Moskova ja Krasnodar. Menestyksellisiä puolustustoimia raportoi Venäjän puolustusministeriö, mikä korostaa jatkuvia ilmapuolustuksille koituvia uhkia Ukrainasta. [14]
-
-**COMMENT:** Tämä tapaus korostaa ukrainalaisten UAV:iden jatkuvaa uhkaa Venäjän alueella.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #минобороны рф #минобороны #пво #беспилотник #бпла #про
+**KEYWORDS:** #российская армия #группировка войск #командование #удар #беспилотник #бпла #армия #про
 
 
-## Soyuz-5 laukaisu esittää mahdollisuuden Venäjän avaruussuvereniteetille
-Maaliskuun 1. päivänä 2026 Alexei Anpilogov, Säätiön tutkimuksen ja kansalaisten aloitteiden tukemiseksi perustaja, ilmoitti, että uuden Soyuz-5-raketin laukaisu mahdollistaa Venäjän saavuttaa täyden avaruussuvereniteetin. Tämä raketti helpottaa venäläisen orbitaaliaseman rakentamisen lohkojen valmistelua ja merkitsee merkittävää edistystä Venäjän avaruusteknologian kyvyissä. [15]
+## Yritystä lentää UAV estettiin Tšeljabinskin alueella
+Maaliskuun 2. päivänä 2026 yritys lentää miehittämätön ilmaväline Ukrainasta estettiin Tšeljabinskin alueella, kuvernööri Alexei Texlerin mukaan. "Miehittämätön vaara" -tila on nyt purettu, ja Venäjän puolustusministeriö ilmoitti, että ilmapuolustukset tuhottivat 123 ukrainalaista dronea eri alueilla Venäjällä saman aikavälin kuluessa. [13]
 
-**COMMENT:** Tämä onnistunut laukaisu on keskeinen kehitys Venäjän asemoinnissa globaalilla avaruusalalla.
+**COMMENT:** UAV-yrityksen estäminen korostaa jatkuvia ilmailuhyökkäyksiä Venäjän alueelle, mikä korostaa tarvittavien ilmapuolustustoimien tärkeyttä. Tämä tapaus voi aiheuttaa paikallisten sotilaallisten valmiuksien ja valvonnan lisäämistä alueella, kun jännitteet Ukrainan kanssa jatkuvat.
 
-**LOCATION:** Baikonurin avaruuskeskus / Baikonur Cosmodrome, 45.9178932, 63.4083721 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.917893&mlon=63.408372#map=8/45.917893/63.408372) (Байконур)
+**LOCATION:** Tšeljabinskin alue / Chelyabinsk Oblast, 54.4223954, 61.1865846 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.422395&mlon=61.186585#map=8/54.422395/61.186585)
 
-**KEYWORDS:** #россия #пуск #про
-
-
-## Ukrainalainen drone vialla TV-torni Kurskin alueella
-Maaliskuun 1. päivänä 2026 ukrainalaisen asevoimien drone hyökkäsi digitaaliseen televisio- ja radioyhteys torniin Ryl'in piirikunnassa Kurskin alueella, tehden siitä täysin toimintakyvyttömän. Tämä tapaus vahvistettiin kuvernööri Alexander Khinshteinin toimesta, jättäen koko Ryl'n piirikunnan ja osan naapurialueista ilman televisiolähetys voiton. [16]
-
-**COMMENT:** Tämä hyökkäys osoittaa ukrainalaisten voimien kykyä vaikuttaa kriittiseen infrastruktuuriin Venäjän alueella.
-
-**LOCATION:** Ryl'sk / Ryl, 51.570538, 34.683506 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.570538&mlon=34.683506#map=8/51.570538/34.683506) (Рыльск)
-
-**KEYWORDS:** #российские #батальон #беспилотник #часть #про
+**KEYWORDS:** #минобороны рф #минобороны #пво #рэб #беспилотник #бпла #про
 
 
-## Ensimmäiset tulokset yksilöllisestä mRNA-rokotteesta melanoomaa vastaan Venäjällä näyttävät lupaavilta
-Maaliskuun 1. päivänä 2026 yksilöllisen mRNA-rokotteen "Neoonkovak" antaminen melanoomaa vastaan tuotti positiivisia vasteita immuunijärjestelmässä ensimmäisessä kliinisessä sovelluksessa Venäjällä. Hoito, joka räätälöi rokotteen kasvaimen ominaisuuksien perusteella, kehitettiin Gamalea-keskuksessa ja merkitsee toiveikasta edistystä syöpähoidossa. [17]
+## Venäjän joukot purkavat yli 120 Starlink-asemaa Charkovin alueella
+Maaliskuun 2. päivänä 2026 unmanned-järjestelmien suunnitteluosaston päällikkö ilmoitti, että venäläiset joukot "Pohjoisesta" ryhmästä tuhosivat yli 120 Starlink-viestintäasemaa, joita Ukrainan asevoimat käyttivät Charkovin alueella huhtikuussa. Tämä häiriö on vaikuttanut merkittävästi vihollisen kykyyn ylläpitää yhteyksiä komentoyksikköön. [14]
 
-**COMMENT:** Tämä kehitys korostaa Venäjän kasvavia kykyjä henkilökohtaisessa lääketieteessä ja mRNA-teknologiassa.
+**COMMENT:** Starlink-asemien tuhoaminen viittaa kohdennettuun pyrkimykseen heikentää Ukrainan viestintäkykyjä, mikä voi häiritä sotilaallisia operaatioita. Tämä toimenpide voi vaikuttaa Ukrainan joukojen operatiiviseen tehokkuuteen lähitulevaisuudessa, mikä voi johtaa mahdollisiin muutoksiin konfliktin dynamiikassa alueella.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Charkovin alue / Kharkiv Oblast, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=39.071887&mlon=39.071888#map=8/39.071887/39.071888)
 
-**KEYWORDS:** #российские #пуск #про
+**KEYWORDS:** #российская армия #группировка войск #командование #удар #беспилотник #бпла #армия #про
 
 
-## Putin myöntää viidelle venäläiselle työlään sankariteon tittelin
-Maaliskuun 1. päivänä 2026 presidentti Vladimir Putin myönsi viidelle henkilölle työlään sankariteon tittelin erinomaisista saavutuksista kansakunnalle. Tämä tunnustus heijastaa jatkuvaa valtion tukea työlle ja saavutuksille eri aloilla Venäjällä. [18]
+## Putin allekirjoittaa lain tekoälykuvien sääntelystä vaaliko campaigningissa
+Maaliskuun 2. päivänä 2026 presidentti Vladimir Putin allekirjoitti lain, joka säätelee tekoälyn tuottamien kuvien ja äänten käyttöä vaalikampanjoinnissa, edellyttäen kirjallista suostumusta henkilöiltä. Tämä lainsäädäntö määrää, että yli 18-vuotiailta kansalaisilta voidaan käyttää vain tekoälyn tuottamia kuvastoja kampanjamateriaaleissa, mutta se asettaa myös rajoituksia ulkomaisten agenttien mukanaololle. [15]
 
-**COMMENT:** Palkinnot symboloivat Kremlin korostamaan työn kunnioitettavuutta kansallisen identiteetin ja valtiollisen vakauden tukena.
+**COMMENT:** Tämä laki merkitsee merkittävää askelta digitaalisten identiteettien sääntelyssä vaalimenettelyssä, mikä heijastaa lisääntyviä huolia väärätiedosta ja turvallisuudesta. Suostumusvaatimus voi vaikuttaa siihen, miten vaalikampanjat mukauttavat strategioitaan digitaalisella aikakaudella, erityisesti vastauksena ulkomaisiin vaikutusyrityksiin.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
-**KEYWORDS:** #россия #сво
+**KEYWORDS:** #россия #сво #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1087183?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1087278?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1087154?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1087302?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1087152?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1087262?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1087150?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1087313
 
-[5] interfax.ru - https://interfax.ru/russia/1087213
+[5] interfax.ru - https://interfax.ru/russia/1087312
 
-[6] interfax.ru - https://interfax.ru/russia/1087212
+[6] interfax.ru - https://interfax.ru/russia/1087310
 
-[7] interfax.ru - https://interfax.ru/russia/1087206
+[7] interfax.ru - https://interfax.ru/russia/1087308
 
-[8] interfax.ru - https://interfax.ru/russia/1087203
+[8] interfax.ru - https://interfax.ru/russia/1087307
 
-[9] interfax.ru - https://interfax.ru/russia/1087202
+[9] aif.ru - https://aif.ru/politics/minoborony-vs-rf-vzyali-pod-kontrol-miropole-v-sumskoy-oblasti
 
-[10] interfax.ru - https://interfax.ru/russia/1087200
+[10] aif.ru - https://aif.ru/society/chas-vozmezdiya-za-krym-uzhasnul-vsu-v-nikolaeve-glavnaya-novost-svo-2-maya
 
-[11] interfax.ru - https://interfax.ru/russia/1087199
+[11] iz.ru - https://iz.ru/2090049/putin-podpisal-zakon-ob-ispolzovanii-ii-obrazov-v-agitatcii-na-vyborakh-izi
 
-[12] aif.ru - https://aif.ru/society/rossiyskie-voyska-osvobodili-pokalyanoe-v-harkovskoy-oblasti
+[12] iz.ru - https://iz.ru/2090055/2026-05-02/gruppirovka-voisk-sever-za-aprel-unichtozhila-bolee-120-stantcii-starlink-vsu
 
-[13] aif.ru - https://aif.ru/society/korabli-kamikadze-iz-nato-vzorvali-u-odessy-glavnaya-novost-svo-1-maya
+[13] iz.ru - https://iz.ru/2090083/2026-05-02/v-cheliabinskoi-oblasti-predotvratili-popytku-proleta-bpla?main_click
 
-[14] iz.ru - https://iz.ru/2089685/sredstva-pvo-za-deviat-chasov-sbili-nad-territoriei-rossii-100-ukrainskikh-bpla-izi
+[14] iz.ru - https://iz.ru/2090055/2026-05-02/gruppirovka-voisk-sever-za-aprel-unichtozhila-bolee-120-stantcii-starlink-vsu?main_click
 
-[15] iz.ru - https://iz.ru/2089715/zapusk-rakety-soiuz-5-pozvolit-rossii-obresti-kosmicheskii-suverenitet-izi?main_click
+[15] iz.ru - https://iz.ru/2090049/putin-podpisal-zakon-ob-ispolzovanii-ii-obrazov-v-agitatcii-na-vyborakh-izi?main_click
 
-[16] iz.ru - https://iz.ru/2089719/dron-vsu-vyvel-iz-stroia-televyshku-v-kurskoi-oblasti-izi?main_click
-
-[17] www.kp.ru - https://www.kp.ru/daily/277779.5/5243757/
-
-[18] ria.ru - https://ria.ru/20260501/putin-2090043340.html
+[16] www.kp.ru - https://www.kp.ru/daily/277779.5/5243757/
