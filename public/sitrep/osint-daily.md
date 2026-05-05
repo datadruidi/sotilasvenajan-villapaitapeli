@@ -1,174 +1,127 @@
-# Report Date: 2026-05-04
+# Report Date: 2026-05-05
 
 ## Summary
-During the reporting period, various drone-related incidents and air defense operations occurred across multiple regions in Russia. Notably, a drone strike in Moscow resulted in no casualties, while injuries were reported in the Bryansk Region due to a UAV attack on a truck. Additionally, air defense forces intercepted numerous Ukrainian drones, highlighting the ongoing aerial threats in the context of the conflict. The lifting of flight restrictions at several airports indicates a return to normal operations amidst heightened security concerns. Future developments may involve enhanced military readiness and ongoing adjustments to air defense strategies.
+During the reporting period, there has been a significant escalation in hostilities involving Ukraine and Russia. A UAV attack in Chuvashia resulted in civilian casualties, prompting Russian authorities to raise security measures and potentially prepare for further military responses. Concurrently, the Ryazan court’s decision regarding a former official signifies evolving judicial trends regarding corruption cases in Russia. Military strikes targeting Ukrainian defense facilities reflect Russia's ongoing commitment to retaliatory actions amidst the conflict. Overall, heightened tensions and active military engagements are likely to continue in the near future, influencing regional security dynamics.
 
-## Drone Strikes Building in Mosfilm District, No Casualties Reported
-On May 4th, 2026, a drone struck a building on Mosfilmovskaya Street in Moscow, confirming no injuries according to Mayor Sergey Sobyanin. This incident follows the neutralization of eight Ukrainian drones targeting the capital, signaling ongoing aerial threats amidst the conflict. [1]
+## UAV Attack in Chuvashia Leaves Two Dead and Over 30 Injured
+On May 5th, 2026, a UAV attack in Chuvashia resulted in two fatalities and 32 injuries, with significant damage to civilian infrastructure including 28 apartment buildings. An emergency state has been declared as authorities investigate the incident as a potential terrorist attack attributed to the Ukrainian Armed Forces. [1]
 
-**COMMENT:** This event highlights the persistent risk of drone activity linked to the Ukrainian conflict in urban areas of Russia. Continued incidents like this may escalate security measures in Moscow and draw increased public attention to air defense capabilities.
+**COMMENT:** This attack indicates a marked escalation in ongoing hostilities, potentially heightening domestic security concerns in Russia. The response and investigation could lead to increased military readiness and further measures to control the narrative surrounding the conflict.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Chuvashia / Chuvashia, Russia, 0, 0 [Click for Map Location](#)
 
-**KEYWORDS:** #russia #сво #беспилотник #сф #про
-
-
-## UAV Attack Injures Truck Driver in Bryansk Region
-On May 4th, 2026, in the Suzem district of Bryansk Region, a truck operated by the Miratorg agricultural holding was attacked by kamikaze drones, resulting in injuries to the driver. The injured driver was transported to a hospital for treatment, and the truck sustained damage from the attack. [2]
-
-**COMMENT:** This incident reflects ongoing tensions and security challenges in the Bryansk region, potentially indicating an escalation in drone activities. Such attacks may prompt increased security measures along the border areas and heighten regional military readiness.
-
-**LOCATION:** Bryansk Oblast / Bryansk Oblast, 52.8873315, 33.415853 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.887332&mlon=33.415853#map=8/52.887332/33.415853) (Брянская область)
-
-**KEYWORDS:** #russia #бпла
+**KEYWORDS:** #russia #штаб #удар #сво #бпла #про
 
 
-## Chelyabinsk Airport Implements Flight Restrictions Due to Security Concerns
-On May 4th, 2026, Chelyabinsk Airport, named after Kurchatov 'Balandino', imposed restrictions on the reception and departure of aircraft due to security reasons, as reported by Rosaviatsia. This development follows the introduction of an unmanned danger mode in the Chelyabinsk and Sverdlovsk regions earlier that morning. [3]
+## Ryazan Court Changes Sentence for Former Mari El Head to Forced Labor
+On May 5th, 2026, the Ryazan Regional Court upheld a decision to replace the imprisonment sentence of former Mari El Republic head Leonid Markelov with forced labor due to corruption charges. Markelov, who led Mari El from 2001 to 2017, will serve the remainder of his sentence under this new ruling, highlighting a shift in judicial responses to corruption cases in Russia. [2]
 
-**COMMENT:** The imposition of flight restrictions at Chelyabinsk Airport highlights ongoing security concerns in the region, possibly linked to broader safety measures amid heightened vigilance. Such actions may indicate increasing operational constraints for air travel in response to perceived threats, affecting regional transportation dynamics.
+**COMMENT:** This decision may reflect an ongoing trend in Russia's justice system regarding high-profile corruption cases, potentially signaling a more lenient approach in some instances. The implications for future corruption prosecutions and the treatment of former officials remain to be seen as public sentiment shifts.
 
-**LOCATION:** Chelyabinsk / Chelyabinsk, 55.1598408, 61.4025547 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.159841&mlon=61.402555#map=8/55.159841/61.402555) (Челябинск)
+**LOCATION:** Ryazan / Ryazan, Russia, 0, 0 [Click for Map Location](#)
 
-**KEYWORDS:** #russia #пуск
-
-
-## UAV Wreckage Damages 13 Homes in Voronezh Region
-On May 4th, 2026, Governor Alexander Gusev reported that the wreckage from 12 unmanned aerial vehicles (UAVs) caused damage to 13 private homes, a shopping center roof, and a vehicle in the Voronezh region. The air defense forces successfully detected and destroyed the UAVs, and there were no reported casualties. [4]
-
-**COMMENT:** The incident highlights ongoing security concerns regarding UAV threats in the Voronezh region. This event may indicate an escalation in military activities or targeted actions involving UAVs near domestic territories.
-
-**LOCATION:** Voronezh / Voronezh, 51.6605982, 39.2005858 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.660598&mlon=39.200586#map=8/51.660598/39.200586) (Воронеж)
-
-**KEYWORDS:** #russia #пво #удар #беспилотник #бпла
+**KEYWORDS:** #russia #сво #часть #про
 
 
-## Russia's Air Defense Intercepts 117 Drones Amid Ongoing Military Operations in Ukraine
-On May 4th, Russian air defense systems intercepted and destroyed 117 Ukrainian drones between 20:00 Sunday and 07:00 Monday in various regions, particularly in the Rostov region, according to the Russian Defense Ministry. Additionally, Russian forces conducted strikes in the Kramatorsk, Konstantinov, and Slavic directions, targeting communication antennas and UAVs. [5]
+## Russian Defense Ministry Reports Military Strike on Targets in Ukraine
+On May 5th, 2026, the Russian Armed Forces executed a coordinated military strike on targets in Ukraine, as announced by the Russian Defense Ministry. This operation was described as a response to Ukrainian attacks on civilian infrastructure within Russia and aimed at facilities supporting the Ukrainian military efforts. [3]
 
-**COMMENT:** This series of military operations underscores the ongoing conflict dynamics and Russia's reliance on drone technology for military effectiveness. The continued pattern of drone interceptions reflects a significant engagement from both sides, suggesting potential for escalated military activity in the region.
+**COMMENT:** This escalation highlights the ongoing military conflict and Russia's commitment to targeting Ukrainian infrastructure in retaliation for perceived provocations. Future operations may further intensify as both sides continue to respond to each other's actions within the theater of war.
 
-**LOCATION:** Rostov Oblast / Rostov Oblast, 47.6222451, 40.7957942 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.622245&mlon=40.795794#map=8/47.622245/40.795794) (Ростовская область)
+**LOCATION:** Ukraine / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
 
-**KEYWORDS:** #минобороны рф #минобороны россии #минобороны #группировка войск #пво #полк #удар #сво #беспилотник #бпла #перехват #патрулирование #сф #десант #армия #про
-
-
-## Russian Air Defense Intercepts 117 Drones Overnight
-On May 4th, 2026, the Russian Defense Ministry reported that air defense systems intercepted and destroyed 117 Ukrainian drones across multiple regions from 20:00 on May 1st to 07:00 on May 2nd. The UAV wreckage in the Voronezh region caused damage to 13 private homes, highlighting the ongoing drone warfare between Russia and Ukraine. [6]
-
-**COMMENT:** The interception of these drones illustrates the continued operational pressure from Ukrainian UAVs on Russian territory, potentially prompting adjustments in Russian air defense strategies. This incident may further escalate tensions and prompt a stronger military response from Russia in the coming days.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #russia #минобороны рф #минобороны #пво #беспилотник #бпла
+**KEYWORDS:** #russia #минобороны рф #минобороны #министерство обороны #удар #про
 
 
-## Temporary Flight Restrictions Imposed at Perm Airport
-On May 4th, 2026, temporary restrictions on the reception and departure of aircraft were imposed at Perm airport by Rosaviatsiya to ensure flight safety. These measures indicate ongoing attention to aviation safety amid increasing operational complexities. [7]
+## Three Former Police Officers Sentenced for Abuse of Power in Voronezh Region
+On May 5th, 2026, three former police officers from the Rossoshansky district in the Voronezh region were sentenced for exceeding their official powers, including the illegal detention and abuse of a local resident in November 2024. The officers were found guilty of using violence and falsifying evidence against the victim, which reflects ongoing issues of police misconduct and accountability in Russia. [4]
 
-**COMMENT:** The imposition of flight restrictions at Perm airport highlights the need for maintaining aviation safety standards, which may reflect broader regulatory responses to potential risks. Future implications could include increased scrutiny and operational adjustments at other regional airports in response to similar safety concerns.
+**COMMENT:** The sentencing of these former police officers illustrates the Russian authorities' attempts to address abuses within law enforcement, a critical factor for internal stability and public trust. Moving forward, this case might encourage further scrutiny and could lead to more actions against corrupt practices within the police force.
 
-**LOCATION:** Perm / Perm, 58.0108531, 56.2318528 [Click for Map Location](https://www.openstreetmap.org/?mlat=58.010853&mlon=56.231853#map=8/58.010853/56.231853) (Пермь)
+**LOCATION:** Voronezh Oblast / Voronezh Oblast, Central Federal District, Russia, 50.9800393, 40.1506507 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.980039&mlon=40.150651#map=8/50.980039/40.150651)
+
+**KEYWORDS:** #russia #сво #сф
+
+
+## Temporary Flight Restrictions Implemented at Yaroslavl Airport
+On May 5th, 2026, Yaroslavl Airport in Russia was temporarily closed to aircraft arrivals and departures due to safety concerns, as reported by Rosaviatsia. The measure was implemented to ensure flight safety amid unspecified circumstances that warranted the restrictions. [5]
+
+**COMMENT:** The temporary restrictions at Yaroslavl Airport indicate a precautionary approach by Russian authorities to aviation safety. Monitoring the duration and nature of these restrictions could reveal underlying security or operational issues affecting regional air travel.
+
+**LOCATION:** Yaroslavl / Yaroslavl, Yaroslavl Oblast, Central Federal District, 57.6263877, 39.8933705 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.626388&mlon=39.893371#map=8/57.626388/39.893371)
 
 **KEYWORDS:** #russia #пуск
 
 
-## Eleven Drones Destroyed in the Kaluga Region
-On May 4th, 2026, Governor Vladislav Shapsha reported the destruction of 11 drones by air defense forces in the Kaluga region during the previous evening and night. This incident occurred across several municipal districts, including Duminichsky and Zhukovsky, with no reported injuries or infrastructure damage. [8]
+## Terrorist Attack Case Opened Following Missile Strike in Chuvashia
+On October 17th, 2023, investigators in Russia opened a criminal case on charges of terrorism in response to an attack on civilian facilities in the Chuvash Republic attributed to Ukrainian armed forces, utilizing cruise missiles and UAVs. The assault resulted in two fatalities and injuries to 23 civilians, highlighting ongoing tensions and the impact of military actions in the region. [6]
 
-**COMMENT:** The successful interception of UAVs indicates a proactive air defense posture in the Kaluga region, potentially reflecting increased concerns over aerial threats. Continued drone incursions may prompt further enhancements in local defense measures and military readiness in the region.
+**COMMENT:** The recent attack underscores the persistent threat posed by Ukrainian military operations within Russian territory, raising security concerns regarding civilian safety. This incident may lead to increased scrutiny and responses from Russian authorities to bolster defenses against further assaults.
 
-**LOCATION:** Kaluga Oblast / Kaluga Oblast, 54.4382773, 35.5272854 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.438277&mlon=35.527285#map=8/54.438277/35.527285) (Калужская область)
+**LOCATION:** Chuvash Republic / Chuvash Republic, Russia, 0, 0 [Click for Map Location](#)
 
-**KEYWORDS:** #russia #пво #сво #беспилотник #бпла
-
-
-## Vnukovo Airport Resumes Normal Operations
-On May 4th, 2026, Vnukovo Airport in Moscow lifted previously imposed restrictions on aircraft operations, as confirmed by Rosaviatsiya. These restrictions had been enacted to ensure flight safety, and their removal indicates a return to normalcy in operations at the airport. [9]
-
-**COMMENT:** The resumption of normal operations at Vnukovo Airport may reflect an improvement in the overall air traffic situation and security measures in Moscow. Continued monitoring of air travel patterns and potential security assessments will be essential in the near term to ensure operational stability.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #пуск
+**KEYWORDS:** #российские #российские военные #министерство обороны #учения #штаб #удар #беспилотник #бпла #перехват #часть #про
 
 
-## Samara and Ulyanovsk Airports Resuming Normal Operations
-On May 4th, 2026, the airports in Samara and Ulyanovsk resumed normal operations after restrictions on aircraft arrivals and departures were lifted by Rosaviatsiya. These restrictions had been implemented the previous evening to ensure flight safety. [10]
+## Investigation Launched into Terrorist Attack After Ukrainian Assault in Chuvashia
+On May 5th, 2026, Russian authorities opened a criminal investigation into a terrorist attack following a significant strike by Ukrainian forces in the Chuvash Republic, which involved cruise missiles and drones hitting civilian targets. The attack resulted in two fatalities and injuries to 23 civilians, prompting a response from the Investigative Committee and an examination of the scene for evidence. [7]
 
-**COMMENT:** The lifting of flight restrictions indicates a return to normalcy in air travel for these regions, which could reflect broader trends in operational stability within Russian aviation. Maintaining flight safety measures demonstrates the authorities' proactive approach to managing security in aviation.
+**COMMENT:** This incident underscores escalating tensions and the potential for further retaliatory measures from Russian authorities in response to attacks on its territory. The involvement of civilian infrastructure may lead to heightened security measures and a stricter narrative in Russian domestic communications regarding the conflict.
 
-**LOCATION:** Samara / Samara, 53.1956255, 50.1014927 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.195625&mlon=50.101493#map=8/53.195625/50.101493) (Самара)
+**LOCATION:** Chuvash Republic / Chuvash Republic, Russia, 0, 0 [Click for Map Location](#)
 
-**KEYWORDS:** #russia #пуск
-
-
-## Approximately 20 UAVs Shot Down in the Rostov Region
-On May 4th, 2026, Governor Yuri Slyusar reported that nearly 20 drones were destroyed during an air attack in six districts of the Rostov region, including Chertkovsky and Millerovsky. The attack was successfully repelled without reported casualties or damage on the ground, although concerns about unmanned aerial threats remain in the area. [11]
-
-**COMMENT:** This incident highlights ongoing UAV threats in Russian regional airspace, suggesting a need for enhanced security measures. The lack of reported damage could indicate effective preparedness, but the persistent drone menace may prompt increased counter-drone operations.
-
-**LOCATION:** Rostov Oblast / Rostov Oblast, 47.6222451, 40.7957942 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.622245&mlon=40.795794#map=8/47.622245/40.795794) (Ростовская область)
-
-**KEYWORDS:** #russia #сво #беспилотник #бпла
+**KEYWORDS:** #russia #бпла #про
 
 
-## Russian Armed Forces Destroy US Production Equipment in Zaporozhye Region
-On May 4th, 2026, Russian units utilizing unmanned systems attacked American armored vehicles in the Zaporozhye region using FPV drones and loitering munitions. The Russian Defense Ministry reported the destruction of M1117 and HMMWV vehicles, disrupting the logistics and movement of Ukrainian forces in the area. [12]
+## Oil Spill Cleanup Completed at Four Sites in Tuapse
+On May 5th, 2026, cleaning operations were completed at four of six sites in Tuapse affected by petroleum product emissions following a UAV attack. The affected areas included the villages of Novomikhaylovsky, South, Spring, and Nebug, where contaminated soil has been removed. [8]
 
-**COMMENT:** This operation highlights Russia's ongoing targeting of Western military material and logistics supporting Ukraine, reflecting an aggressive posture in the conflict. Future engagements may increase as Russia continues to leverage drone technology for tactical superiority in contested regions.
+**COMMENT:** The cleanup of petroleum products indicates a significant response to an incident impacting local ecosystems, potentially reflecting vulnerabilities in regional security. Ongoing operations in surrounding areas may signal continued attention to environmental management and crisis response capabilities amidst security concerns.
 
-**LOCATION:** Zaporozhye region / Zaporozhye region, Unknown, Unknown Unknown
+**LOCATION:** Tuapse / Tuapse, Russia, 0, 0 [Click for Map Location](#)
 
-**KEYWORDS:** #минобороны россии #вс рф #минобороны #полк #удар #сво #разведка #беспилотник #сф #часть #про
-
-
-## Russian Air Defense Forces Intercept 117 Ukrainian Drones Overnight
-On May 4th, 2026, Russian air defense systems intercepted 117 Ukrainian unmanned aerial vehicles (UAVs) over multiple Russian regions during the night of May 3rd to May 4th. The interceptions occurred in regions including Astrakhan, Belgorod, Voronezh, and the Moscow region among others, reflecting ongoing aerial confrontations in the context of the conflict with Ukraine. [13]
-
-**COMMENT:** This incident underscores the persistent threat posed by Ukrainian UAV operations against Russian territory. The extensive interception of drones suggests heightened military readiness and could indicate an ongoing escalation in aerial engagements.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #российские #минобороны рф #минобороны #пво #беспилотник #бпла
+**KEYWORDS:** #russia #штаб #беспилотник #бпла #про
 
 
-## Flight Restrictions Lifted at Domodedovo Airport
-On May 4th, 2026, Domodedovo Airport in Moscow lifted restrictions on the reception and release of aircraft, as confirmed by Rosavatsiya's press service. These temporary restrictions were initially imposed to ensure flight safety. [14]
+## Resumption of Citizen and Vehicle Passage on Russian-Abkhaz Border
+On May 5th, 2026, the checkpoint on the Russian-Abkhaz border resumed operations following the lifting of a threat posed by unmanned aerial vehicles (UAVs), according to the Border Department of the State Security Service of Abkhazia. All border services have returned to normal functioning after the temporary closure due to concerns about potential UAV attacks in Sochi. [9]
 
-**COMMENT:** The lifting of flight restrictions indicates a return to normal operations at a key airport, potentially easing travel for both domestic and international passengers. This development may reflect a broader stabilization in aviation safety protocols following prior incidents.
+**COMMENT:** The resumption of border operations indicates a stabilization of security conditions in the region, likely reflecting improved assessments of UAV threats. This development may facilitate increased movement across the Russian-Abkhaz border, impacting local governance and security dynamics.
 
-**LOCATION:** Domodedovo Airport / Domodedovo Airport, Unknown, Unknown Unknown
+**LOCATION:** Russian-Abkhaz border / Russian-Abkhaz border, Russia, 0, 0 [Click for Map Location](#)
 
-**KEYWORDS:** #россия #пуск #про
+**KEYWORDS:** #russia #бпла #пуск #про
+
+
+## Russian Strikes Target Ukrainian Defense Industry on May 5th
+On May 5th, 2026, Russian forces conducted a series of precise strikes on essential facilities within Ukraine's military-industrial complex and energy sector, targeting locations supporting the Armed Forces of Ukraine. These actions were framed as a response to recent Ukrainian attacks, with the Ministry of Defense confirming that multiple munitions depots and troop deployment areas were hit across 148 locations. [10]
+
+**COMMENT:** These strikes signify a continued aggressive posture by Russia towards Ukraine's military capabilities, indicating a potential escalation in conflict dynamics. In the near term, this may lead to heightened tensions and further retaliatory measures from Ukraine, as well as implications for regional security dynamics involving neighboring countries.
+
+**LOCATION:** Ukraine / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
+
+**KEYWORDS:** #россия #российские #вс рф #российские войска #министерство обороны #вооружение #корпус #удар #сво #беспилотник #бпла #про
+
+
+## Russian Armed Forces Strike Ukrainian Defense Industry in Retaliation
+On May 5th, 2026, the Russian Armed Forces launched a retaliatory strike against targets within Ukraine's defense industry. This action underscores the ongoing tensions and military exchanges between Russia and Ukraine amid the conflict. [11]
+
+**COMMENT:** This military action could escalate hostilities and affect regional stability, particularly as the conflict remains unresolved. Continued strikes against defense industry targets may indicate a strategic shift in Russia's military objectives in Ukraine.
+
+**LOCATION:** Ukraine / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
+
+**KEYWORDS:** #вс россии #удар
 
 
 # Sources
-
-[1] Interfax - https://interfax.ru/russia/1087456?utm_source=top
-
-[2] Interfax - https://interfax.ru/russia/1087488
-
-[3] Interfax - https://interfax.ru/russia/1087486
-
-[4] Interfax - https://interfax.ru/russia/1087483
-
-[5] Interfax - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
-
-[6] Interfax - https://interfax.ru/russia/1087482
-
-[7] Interfax - https://interfax.ru/russia/1087481
-
-[8] Interfax - https://interfax.ru/russia/1087479
-
-[9] Interfax - https://interfax.ru/russia/1087475
-
-[10] Interfax - https://interfax.ru/russia/1087474
-
-[11] Interfax - https://interfax.ru/russia/1087473
-
-[12] Aif - https://aif.ru/society/vs-rf-unichtozhili-tehniku-proizvodstva-ssha-v-zaporozhskoy-oblasti
-
-[13] Iz - https://iz.ru/2090508/2026-05-04/sily-pvo-sbili-117-ukrainskikh-bpla-nad-regionami-rossii-za-noch
-
-[14] Iz - https://iz.ru/2090516/2026-05-04/ogranicheniia-na-polety-sniaty-v-aeroportu-domodedovo?main_click
+[1] interfax.ru - https://interfax.ru/russia/1087845?utm_source=top  
+[2] interfax.ru - https://interfax.ru/russia/1087838?utm_source=top  
+[3] interfax.ru - https://interfax.ru/russia/1087778?utm_source=top  
+[4] interfax.ru - https://interfax.ru/russia/1087863  
+[5] interfax.ru - https://interfax.ru/russia/1087859  
+[6] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html  
+[7] interfax.ru - https://interfax.ru/russia/1087854  
+[8] interfax.ru - https://interfax.ru/russia/1087853  
+[9] interfax.ru - https://interfax.ru/russia/1087855  
+[10] www.kp.ru - https://www.kp.ru/online/news/6955077/  
+[11] ria.ru - https://ria.ru/20260505/vs-2090600614.html
