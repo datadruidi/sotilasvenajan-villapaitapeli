@@ -1,119 +1,114 @@
-# Report Date: 2026-05-05
+# Report Date: 2026-05-06
 
 ## Summary
-Raportointijaksolla on tapahtunut merkittäviä turvallisuustapahtumia Venäjällä. Chuvashiassa tapahtunut UAV-hyökkäys johti kuolemaan ja yli 30 loukkaantumiseen, mikä nostaa huolenaiheita sisäisestä turvallisuudesta. Samanaikaisesti oikeusjärjestelmän muutokset ja korruptiotapaukset herättävät keskustelua tavasta, jolla Venäjä käsittelee korkeaprofiiilisia korruptiotapauksia. Tulevaisuudessa voidaan odottaa lisää väkivaltaa ja jännitteitä konfliktissa Ukrainan kanssa, johon liittyvät myös hyökkäykset ja vastahyökkäykset, jotka tuhoavat kriittistä infrastruktuuria.
+Raportointijaksolla on tapahtunut useita merkittäviä tapahtumia Venäjällä. UAV-hyökkäykset ja onnettomuudet ovat lisääntyneet, mikä herättää huolta turvallisuudesta. Uuden lainsäädännön myötä hallitus pyrkii tehostamaan hallintoa maahanmuuttokysymyksissä ja rikollisuuden torjunnassa. Venäjän talouden itsenäistymispyrkimykset jatkuvat, erityisesti ilmailualalla.
 
-  
-## UAV-hyökkäys Chuvashiassa jätti kaksi kuollutta ja yli 30 loukkaantunutta
-Raportointijaksolla, 5. toukokuuta 2026, Venäjän Chuvashiassa tapahtui UAV-hyökkäys, joka johti kahden kuolemaan ja 32 loukkaantumiseen, sekä merkittävään vahinkoon siviili-infrastruktuurille, mukaan lukien 28 asuinrakennusta. Hätätila on julistettu, ja viranomaiset tutkivat tapausta mahdollisena terrori-iskuna, joka liittyy Ukrainan asevoimiin. [1]
+## UAV-hyökkäys Tšeboksaryssa Vahingoitti 40 Asuinrakennusta
+Maaliskuun 6. päivänä 2026 raportoitiin UAV-hyökkäyksestä, joka tapahtui maaliskuun 5. päivänä Tšeboksaryssa ja vahingoitti 40 asuinrakennusta sekä kouluja ja muita sosiaalisia tiloja. Chuvashian päämies Oleg Nikolaev ilmoitti, että hätätoimia toteutetaan avustamisen ja vahinkojen arvioimiseksi, mukaan lukien yli 70 asiantuntijaa ja tilapäistä majoitusta vaikuttaneille asukkaille. [1]
 
-**COMMENT:** Tämä hyökkäys viittaa huomattavaan kärjistymiseen käynnissä olevissa vihollisuuksissa, mikä voi lisääntyä sisäisiä turvallisuushuolia Venäjällä.
+**COMMENT:** UAV-hyökkäys merkitsee tavoitteellisten iskujen eskaloitumista, mikä voi vaikuttaa turvallisuustilanteeseen Venäjän kaupunkialueilla. Hallituksen reaktion seuraaminen on tärkeää tulevien tapahtumien ymmärtämiseksi.
 
-**LOCATION:** Chuvashia / Chuvashia, Unknown, Unknown [Click for Map Location](Unknown)
+**LOCATION:** Tšeboksary / Cheboksary, 56.1399598, 47.2480999 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.139960&mlon=47.248100#map=8/56.139960/47.248100) (городской округ Чебоксары)
 
-**KEYWORDS:** #russia #штаб #удар #сво #бпла #про
+**KEYWORDS:** #russia #учения #штаб #удар #бпла #про
 
-  
-## Ryazan tuomioistuin muuttaa entisen Mari Elin päämiehen tuomion pakkotyöksi
-Raportointijaksolla, 5. toukokuuta 2026, Ryazan alueoikeus vahvisti päätöksen entisen Mari Elin päämiehen Leonid Markelovin vankeustuomion muuttamisesta pakkotyöhön korruptio- syytteiden vuoksi. Markelov, joka johti Mari Eliä vuosina 2001–2017, suorittaa loppuja tuomiotaan tämän uuden päätöksen myötä, mikä korostaa muutosta Venäjän oikeudellisissa vastauksissa korruptiotapauksiin. [2]
 
-**COMMENT:** Tämä päätös voi heijastaa jatkuvaa kehityssuuntaa Venäjän oikeusjärjestelmässä korkean profiilin korruptiotapauksissa, mikä mahdollisesti viittaa lievempään lähestymistapaan joissakin tapauksissa.
+## Ufan Pormestari Ratmir Mavliyev Vapautettiin Kotiarestiin
+Maaliskuun 6. päivänä 2026 Bashkortostanin korkein oikeus määräsi Ufan pormestari Ratmir Mavliyevin vapautettavaksi esitutkintavankeudesta kotiarestiin 28. kesäkuuta saakka. Päätös tuli tapauksen olosuhteiden arvioinnin myötä, eikä pidätykselle ollut perusteita, ottaen huomioon pormestarin perhesuhteet. [2]
 
-**LOCATION:** Ryazan / Ryazan, Unknown, Unknown [Click for Map Location](Unknown)
+**COMMENT:** Tämä kehitys heijastaa merkittävää muutosta korkean tason viranomaisen oikeustilanteessa, mikä voi viitata lieventymiseen poliittisesti herkissä tapauksissa. Poliittinen vakaus Bashkortostanissa voi selvitä tutkimuksen edetessä ja julkisen reaktion kehittyessä.
 
-**KEYWORDS:** #russia #сво #часть #про
+**LOCATION:** Ufa / Ufa, 54.7261409, 55.947499 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.726141&mlon=55.947499#map=8/54.726141/55.947499) (городской округ Уфа)
 
-  
-## Venäjän puolustusministeriö raportoi sotilaallisista iskuista Ukrainan kohteisiin
-Raportointijaksolla, 5. toukokuuta 2026, Venäjän asevoimat toteuttivat koordinoidun sotilaallisen iskun kohteisiin Ukrainassa, kuten Venäjän puolustusministeriö ilmoitti. Tämä operaatio kuvattiin vastauksenaan ukrainalaisille hyökkäyksille siviili-infrastruktuuria vastaan Venäjällä, ja se kohdistui tiloihin, jotka tukevat Ukrainan sotilaallisia ponnistuksia. [3]
+**KEYWORDS:** #russia #сво
 
-**COMMENT:** Tämä kärjistyminen korostaa käynnissä olevaa sotilaallista konfliktia ja Venäjän sitoutumista kohdistamaan Ukrainan infrastruktuuriin vastatoimena havaittuja provokaatioita.
 
-**LOCATION:** Ukraine / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
+## Lentoturma Omskin Alueella Luokiteltu Onnettomuudeksi
+Maaliskuun 6. päivänä 2026 pieni lentokone, joka tunnetaan nimellä "Aeroprakt-22", syöksyi Omskin alueella, mikä johti kahden henkilön kuolemaan. Ilmailun välinen komitea tutkii onnettomuutta, jonka uskotaan johtuneen avonaisesta moottoripeitteestä lentotoiminnan aikana. [3]
 
-**KEYWORDS:** #russia #минобороны рф #минобороны #министерство обороны #удар #про
+**COMMENT:** Tämän tapauksen luokittelu onnettomuudeksi korostaa jatkuvia huolenaiheita ilmailuturvallisuudesta Venäjällä. Tutkimukset saattavat paljastaa järjestelmällisiä ongelmia, mikä johtaa valvonnan tiukentamiseen ilmailusäännöksissä ja toimintastandardeissa.
 
-  
-## Kolme entistä poliisia tuomittiin vallan väärinkäytöstä Voronežin alueella
-Raportointijaksolla, 5. toukokuuta 2026, kolme entistä poliisia Rossoshanskin piirissä Voronežin alueella tuomittiin virka-asemansa väärinkäytöstä, mukaan lukien paikallisen asukkaan laiton pidätys ja hyväksikäyttö marraskuussa 2024. Poliisit todettiin syyllisiksi väkivallan käyttämiseen ja todisteiden vääristämiseen uhria vastaan, mikä heijastaa jatkuvia ongelmia poliisin väärinkäytöksissä ja vastuullisuudessa Venäjällä. [4]
+**LOCATION:** Omskin alue / Omsk Oblast, 56.0935263, 73.5099936 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.093526&mlon=73.509994#map=8/56.093526/73.509994) (Недостаточно данных)
 
-**COMMENT:** Näiden entisten poliisien tuomitseminen osoittaa Venäjän viranomaisten yrityksiä käsitellä väärinkäytöksiä lainvalvonnassa, mikä on kriittinen tekijä sisäiselle vakaudelle ja yleisölle luottamukselle.
+**KEYWORDS:** #russia #удар
 
-**LOCATION:** Voronezh Oblast / Voronezh Oblast, Central Federal District, 50.9800393, 40.1506507 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.980039&mlon=40.150651#map=8/50.980039/40.150651)
 
-**KEYWORDS:** #russia #сво #сф
+## Tutkinta Aloitettu Neljän Ruumiin Löydyttyä Pietarista
+Maaliskuun 6. päivänä 2026 tutkintalaitos aloitti selvityksen neljän henkilön kuolemasta, jotka löydettiin hostellista Zagorodny Prospektilla, Pietarissa. Ensimmäisten arvioiden mukaan kuolinsyyn uskotaan olevan yhteydessä huumausaineiden yliannostukseen, kuten osoittavat pistemerkit ja lähellä olevat ruiskut sekä jauhemainen aine. [4]
 
-  
-## Väliaikaiset lentorajoitukset voimaan Yaroslavlin lentokentällä
-Raportointijaksolla, 5. toukokuuta 2026, Yaroslavlin lentokenttä Venäjällä suljettiin väliaikaisesti lentokoneiden saapumiselle ja poistumiselle turvallisuushuolien vuoksi, kuten Rosaviatsia raportoi. Toimenpide toteutettiin lentoturvallisuuden varmistamiseksi epäselvien olosuhteiden vuoksi, jotka aiheuttivat rajoitukset. [5]
+**COMMENT:** Tämä tapaus herättää huolta huumeiden käytöstä ja julkisesta turvallisuudesta Venäjän kaupunkialueilla, mikä voi viitata tarpeeseen tiivistää lainvalvontaa.
 
-**COMMENT:** Väliaikaiset rajoitukset Yaroslavlin lentokentällä osoittavat varovaisen lähestymistavan Venäjän viranomaisilta lentoturvallisuuteen. Rajoitusten keston ja luonteen seuraaminen voi paljastaa taustalla olevia turvallisuus- tai operatiivisia ongelmia alueellisia ilmailulentoja koskien.
+**LOCATION:** Pietari / St. Petersburg, Unknown, Unknown
 
-**LOCATION:** Yaroslavl / Yaroslavl, 57.6263877, 39.8933705 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.626388&mlon=39.893371#map=8/57.626388/39.893371)
+**KEYWORDS:** #russia #про
 
-**KEYWORDS:** #russia #пуск
 
-  
-## Öljyvahinkojen puhdistustyöt päätetty neljässä paikassa Tuapsessa
-Raportointijaksolla, 5. toukokuuta 2026, puhdistustoimet neljässä kuudesta Tuapsen paikasta, joita öljytuotteiden päästöt ovat vaikuttaneet UAV-hyökkäyksen jälkeen, valmistuivat. Vaikutusalueet sisältävät Novomikhaylovskyn, Etelä-, Kevät- ja Nebugin kylät, joissa saastunut maaperä on poistettu. [8]
+## Lakiesitys Esitelty Duumassa Maahanmuuttovalvonnan Siirtämiseksi Sisäministeriölle
+Maaliskuun 6. päivänä 2026 Venäjän hallitus esitti lakiesityksen valtion duumalle, joka ehdottaa tiettyjen maahanmuuttovalvontavaltaisten siirtämistä työministeriöltä sisäministeriölle. Tämän lainsäädännön tavoitteena on mahdollistaa sisäministeriön päättää, mitkä maahanmuuttajaprofessiot eivät vaadi tilapäistä oleskelulupaa, tehostaen prosessia pätevien ulkomaisten asiantuntijoiden rekrytoimiseksi. [5]
 
-**COMMENT:** Öljytuotteiden puhdistus osoittaa merkittävän vasteen tapahtumaan, joka vaikuttaa paikallisiin ekosysteemeihin, mahdollistaen haavoittuvuuksia alueellisessa turvallisuudessa.
+**COMMENT:** Tämä lainsäädäntömuutos heijastaa Kremlin jatkuvia pyrkimyksiä tiukentaa maahanmuuttotyön hallintaa samalla mahdollisesti parantaen työmarkkinoiden tehokkuutta. Lyhyellä aikavälillä tämä voi johtaa muutoksiin ulkomaisten työntekijöiden sääntely-ympäristössä Venäjällä.
 
-**LOCATION:** Tuapse / Tuapse, Unknown, Unknown [Click for Map Location](Unknown)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #штаб #беспилотник #бпла #про
+**KEYWORDS:** #russia #учения #про
 
-  
-## Kansalaisten ja ajoneuvojen kulkua Venäjän-Abhasian rajalla jälleen
-Raportointijaksolla, 5. toukokuuta 2026, Venäjän-Abhasian raja-asema aloitti toimintansa uudelleen sen jälkeen, kun UAV:iden aiheuttama uhka on poistettu, kertoi Abhasian valtion turvallisuuspalvelun rajatoimisto. Kaikki rajapalvelut ovat palanneet normaaliin toimintaan väliaikaisen sulun jälkeen mahdollisten UAV-hyökkäysten vuoksi Sochissa. [9]
 
-**COMMENT:** Rajatoimintojen palautuminen viittaa turvallisuustilanteen vakiintumiseen alueella, mikä todennäköisesti heijastaa parantuneita arvioita UAV-uhista.
+## Volgogradin Lentokenttä Asettaa Tilapäiset Lentorajoitukset
+Maaliskuun 6. päivänä 2026 Volgogradin lentokenttä ilmoitti tilapäisistä rajoituksista lentokoneiden vastaanoton ja päästämisen osalta lentoturvallisuuden varmistamiseksi, kuten Rosaviatsia raportoi. Nämä toimenpiteet viittaavat tiukentuneisiin turvallisuusprotokolliin Venäjän lentokentillä huolten vuoksi. [6]
 
-**LOCATION:** Venäjän-Abhasian raja / Russian-Abkhaz border, Unknown, Unknown [Click for Map Location](Unknown)
+**COMMENT:** Lentorajoitusten asettaminen Volgogradin lentokentällä heijastaa Venäjän viranomaisten ennakoivaa asennetta ilmailuturvallisuuteen.
 
-**KEYWORDS:** #russia #бпла #пуск #про
+**LOCATION:** Volgograd / Volgograd, 48.7081906, 44.5153353 [Click for Map Location](https://www.openstreetmap.org/?mlat=48.708191&mlon=44.515335#map=8/48.708191/44.515335) (Волгоград)
 
-  
-## Venäläiset iskivät Ukrainan puolustusteollisuutta 5. toukokuuta
-Raportointijaksolla, 5. toukokuuta 2026, venäläiset joukot suorittivat sarjan tarkkoja iskuja Ukrainan sotilasteollisuuskompleksissa ja energiateollisuudessa, kohdistuen paikkoihin, jotka tukevat Ukrainan asevoimia. Nämä toimet kehittivät vastauksena äskettäisiin ukrainalaisiin hyökkäyksiin, joiden mukaan puolustusministeriö vahvisti, että useita ammustukkuja ja joukkojen sijoitusalueita osui 148 paikassa. [10]
+**KEYWORDS:** #russia #сво #пуск
 
-**COMMENT:** Nämä iskut merkitsevät jatkuvaa aggressiivista asennetta Venäjää kohtaan Ukrainan sotilaallisia kykyjä vastaan, mikä merkitsee mahdollista kärjistymistä konfliktin dynamiikassa.
 
-**LOCATION:** Ukraine / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
+## Venäjän Puolustusministeriö Raportoi Iskuista Ukrainalaisiin Drone-Tehtaisiin
+Maaliskuun 6. päivänä 2026 Venäjän joukot kohdistivat iskuja drone-tehtaisiin ja polttoainevarastoihin, joita käyttävät Ukrainan asevoimat, kuten puolustusministeriön päivittäisessä yhteenvetossa sotatoimista Ukrainassa todettiin. Raportissa mainittiin huomattavia ukrainalaisia sotilasmenetyksiä. [7]
 
-**KEYWORDS:** #россия #российские #вс рф #российские войска #министерство обороны #вооружение #корпус #удар #сво #беспилотник #бпла #про
+**COMMENT:** Tämä sotilaallinen toiminta korostaa Venäjän jatkuvaa strategista painopistettä Ukrainan sotilaallisten kykyjen häiritsemisessä, erityisesti drone-sodan osalta. Tämä voi merkitä eskalaatiota sotatoimissa.
 
-  
-## Venäläiset asevoimat iskivät Ukrainan puolustusteollisuuteen vastatoimena
-Raportointijaksolla, 5. toukokuuta 2026, Venäjän asevoimat käynnistivät vastatoimena iskun Ukrainan puolustusteollisuuteen. Tämä toiminta korostaa jatkuvia jännitteitä ja sotilaallisia vaihtoja Venäjän ja Ukrainan välillä konfliktin aikana. [11]
+**LOCATION:** Ukraina / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) (Украина)
 
-**COMMENT:** Tämä sotilaallinen toiminta voi kärjistää vihollisuuksia ja vaikuttaa alueellisiin vakauteen, erityisesti kun konflikti pysyy ratkaisematta.
+**KEYWORDS:** #российские #минобороны рф #российские войска #минобороны #пво #удар #сво #беспилотник #бпла #сф #часть #про
 
-**LOCATION:** Ukraine / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
 
-**KEYWORDS:** #вс россии #удар
+## Kauheita Löydöksiä Konstantinovkan Bunkkereista Ukrainan Perääntyessä
+Maaliskuun 6. päivänä 2026, Ukrainan joukkojen peräännyttyä Konstantinovkasta, venäläiset sotilaat löysivät ruumiin, joka oli saanut väkivaltaisen kuoleman, mukaan lukien sidotut raajat ja iskuhaavat. [8]
 
-  
+**COMMENT:** Löydös viittaa mahdollisiin sotarikoksiin, joita ovat tehneet perääntyneet Ukrainan joukot, mikä saattaa pahentaa jännitteitä ja vaikuttaa humanitaariseen tilanteeseen alueella.
+
+**LOCATION:** Konstantinovka / Konstantinovka, 54.8042969, 20.6889772 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.804297&mlon=20.688977#map=8/54.804297/20.688977) (Константиновка)
+
+**KEYWORDS:** #российские #полк #удар #сво #сф #часть #про
+
+
+## Venäjän Superjet-100 Valmiina Säännöllisiin Lentoihin Vuoden Loppuun Mennessä
+Maaliskuun 6. päivänä 2026 Teollisuus- ja kauppaministeri Anton Alikhanov ilmoitti, että täysin tuontikorvattu Venäjän Superjet-100 odotetaan aloittavan säännölliset lennot ennen vuoden loppua, onnistuneiden jäätymiskokeiden jälkeen. [9]
+
+**COMMENT:** Tämä kehitys korostaa Venäjän pyrkimyksiä ilmailun omavaraisuuteen, mikä heijastaa laajempia valtion prioriteetteja taloudellisessa kestävyydessä ja teknologisessa itsenäisyydessä.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #российский #мто #про
+
+
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1087845?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1087979?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1087838?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1087969?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1087778?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1087966?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1087863
+[4] interfax.ru - https://interfax.ru/russia/1087965?utm_source=top
 
-[5] interfax.ru - https://interfax.ru/russia/1087859
+[5] interfax.ru - https://interfax.ru/russia/1088041
 
-[6] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[6] interfax.ru - https://interfax.ru/russia/1088030
 
-[7] interfax.ru - https://interfax.ru/russia/1087854
+[7] aif.ru - https://aif.ru/politics/minoborony-rf-soobshchilo-o-porazhenii-cehov-sborki-bespilotnikov-vsu
 
-[8] interfax.ru - https://interfax.ru/russia/1087853
+[8] aif.ru - https://aif.ru/society/v-bunkerah-konstantinovki-uvideli-zhutkie-nahodki-glavnaya-novost-svo-6-maya
 
-[9] interfax.ru - https://interfax.ru/russia/1087855
-
-[10] www.kp.ru - https://www.kp.ru/online/news/6955077/
-
-[11] ria.ru - https://ria.ru/20260505/vs-2090600614.html
+[9] www.kp.ru - https://www.kp.ru/daily/277780/5245650/
