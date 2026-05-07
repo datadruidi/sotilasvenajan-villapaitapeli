@@ -1,114 +1,162 @@
-# Report Date: 2026-05-06
+# Report Date: 2026-05-07
 
 ## Summary
-Raportointijaksolla on tapahtunut useita merkittäviä tapahtumia Venäjällä. UAV-hyökkäykset ja onnettomuudet ovat lisääntyneet, mikä herättää huolta turvallisuudesta. Uuden lainsäädännön myötä hallitus pyrkii tehostamaan hallintoa maahanmuuttokysymyksissä ja rikollisuuden torjunnassa. Venäjän talouden itsenäistymispyrkimykset jatkuvat, erityisesti ilmailualalla.
+Raportointijaksolla Venäjällä esiintyy monia jännitteitä, erityisesti Ukrainan ja Venäjän välillä, mikä näkyy useissa tapahtumissa. Ukrainan asevoimien dronehyökkäykset Venäjän alueelle, Moskova ja Perm, nostavat huolta siviili-infrastruktuurin turvallisuudesta. Samalla oikeusprosessit, jotka liittyvät suuria varoja koskevaan korruptioon, sekä Venäjän ilmoitukset voitonpäivän juhlista, viittaavat hallituksen valmiuteen hallita tilanteita tarkasti. Lähitulevaisuudessa on todennäköistä, että jännitteet jatkuvat, mikä voi johtaa lisääntyneisiin sotilaallisiin toimiin sekä lisääntyneeseen valvontaan sisäisesti.
 
-## UAV-hyökkäys Tšeboksaryssa Vahingoitti 40 Asuinrakennusta
-Maaliskuun 6. päivänä 2026 raportoitiin UAV-hyökkäyksestä, joka tapahtui maaliskuun 5. päivänä Tšeboksaryssa ja vahingoitti 40 asuinrakennusta sekä kouluja ja muita sosiaalisia tiloja. Chuvashian päämies Oleg Nikolaev ilmoitti, että hätätoimia toteutetaan avustamisen ja vahinkojen arvioimiseksi, mukaan lukien yli 70 asiantuntijaa ja tilapäistä majoitusta vaikuttaneille asukkaille. [1]
+## Ukrainan asevoimat yrittävät hyökätä Pietarin alueella
+Maaliskuun 7. päivänä 2026 Venäjän puolustusministeriö raportoi, että Ukrainan asevoimat yrittivät hyökätä siviili-infrastruktuuriin Pietarin alueella käyttäen kuutta dronea. Droneja seurattiin Latvian ilmatilassa, ja viisi niistä katosi tutkalta siirtyessään itään. [1]
 
-**COMMENT:** UAV-hyökkäys merkitsee tavoitteellisten iskujen eskaloitumista, mikä voi vaikuttaa turvallisuustilanteeseen Venäjän kaupunkialueilla. Hallituksen reaktion seuraaminen on tärkeää tulevien tapahtumien ymmärtämiseksi.
+**COMMENT:** Tämä tapaus korostaa jatkuvia jännitteitä Venäjän ja Ukrainan välillä, erityisesti drone-toimintaan liittyen Venäjän alueen lähellä. Ranskan ja Yhdysvaltojen hävittäjien samanaikainen osuus voisi viitata laajempaan kansainväliseen sotilaalliseen sitoutumiseen konfliktin ympärillä. 
 
-**LOCATION:** Tšeboksary / Cheboksary, 56.1399598, 47.2480999 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.139960&mlon=47.248100#map=8/56.139960/47.248100) (городской округ Чебоксары)
+**LOCATION:** Pietari / St. Petersburg, Unknown, Unknown [Click for Map Location]()
 
-**KEYWORDS:** #russia #учения #штаб #удар #бпла #про
-
-
-## Ufan Pormestari Ratmir Mavliyev Vapautettiin Kotiarestiin
-Maaliskuun 6. päivänä 2026 Bashkortostanin korkein oikeus määräsi Ufan pormestari Ratmir Mavliyevin vapautettavaksi esitutkintavankeudesta kotiarestiin 28. kesäkuuta saakka. Päätös tuli tapauksen olosuhteiden arvioinnin myötä, eikä pidätykselle ollut perusteita, ottaen huomioon pormestarin perhesuhteet. [2]
-
-**COMMENT:** Tämä kehitys heijastaa merkittävää muutosta korkean tason viranomaisen oikeustilanteessa, mikä voi viitata lieventymiseen poliittisesti herkissä tapauksissa. Poliittinen vakaus Bashkortostanissa voi selvitä tutkimuksen edetessä ja julkisen reaktion kehittyessä.
-
-**LOCATION:** Ufa / Ufa, 54.7261409, 55.947499 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.726141&mlon=55.947499#map=8/54.726141/55.947499) (городской округ Уфа)
-
-**KEYWORDS:** #russia #сво
+**KEYWORDS:** #russia #российские #минобороны рф #минобороны россии #российские военные #минобороны #ввс #пво #беспилотник #бпла #про  
 
 
-## Lentoturma Omskin Alueella Luokiteltu Onnettomuudeksi
-Maaliskuun 6. päivänä 2026 pieni lentokone, joka tunnetaan nimellä "Aeroprakt-22", syöksyi Omskin alueella, mikä johti kahden henkilön kuolemaan. Ilmailun välinen komitea tutkii onnettomuutta, jonka uskotaan johtuneen avonaisesta moottoripeitteestä lentotoiminnan aikana. [3]
+## Moskova aikoo rajoittaa mobiilinettiyhteyttä voitonpäivänä
+Maaliskuun 9. päivänä 2026 Moskova toteuttaa täydellisen mobiilinettiyhteyksien sulkemisen, mukaan lukien pääsy aiemmin hyväksyttyihin verkkosivustoihin, varmistaakseen turvallisuuden voitonpäivän juhlan aikana. Ministeriö ilmoitti, että 7. ja 8. päivälle ei ole suunniteltu rajoituksia, mutta operatiivisia toimenpiteitä saatetaan toteuttaa, jos välittömiä turvallisuusuhkia ilmenee. [2]
 
-**COMMENT:** Tämän tapauksen luokittelu onnettomuudeksi korostaa jatkuvia huolenaiheita ilmailuturvallisuudesta Venäjällä. Tutkimukset saattavat paljastaa järjestelmällisiä ongelmia, mikä johtaa valvonnan tiukentamiseen ilmailusäännöksissä ja toimintastandardeissa.
+**COMMENT:** Tämä toimenpide heijastaa hallituksen painostusta kontrolloida viestintää merkittävien julkisten tapahtumien aikana turvallisuussyistä. Tällaiset toimenpiteet saattavat viitata lisääntyneisiin huolenaiheisiin mahdollisista häiriöistä tai uhista kansallisissa juhlatapahtumissa. 
 
-**LOCATION:** Omskin alue / Omsk Oblast, 56.0935263, 73.5099936 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.093526&mlon=73.509994#map=8/56.093526/73.509994) (Недостаточно данных)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #удар
-
-
-## Tutkinta Aloitettu Neljän Ruumiin Löydyttyä Pietarista
-Maaliskuun 6. päivänä 2026 tutkintalaitos aloitti selvityksen neljän henkilön kuolemasta, jotka löydettiin hostellista Zagorodny Prospektilla, Pietarissa. Ensimmäisten arvioiden mukaan kuolinsyyn uskotaan olevan yhteydessä huumausaineiden yliannostukseen, kuten osoittavat pistemerkit ja lähellä olevat ruiskut sekä jauhemainen aine. [4]
-
-**COMMENT:** Tämä tapaus herättää huolta huumeiden käytöstä ja julkisesta turvallisuudesta Venäjän kaupunkialueilla, mikä voi viitata tarpeeseen tiivistää lainvalvontaa.
-
-**LOCATION:** Pietari / St. Petersburg, Unknown, Unknown
-
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #russia #про  
 
 
-## Lakiesitys Esitelty Duumassa Maahanmuuttovalvonnan Siirtämiseksi Sisäministeriölle
-Maaliskuun 6. päivänä 2026 Venäjän hallitus esitti lakiesityksen valtion duumalle, joka ehdottaa tiettyjen maahanmuuttovalvontavaltaisten siirtämistä työministeriöltä sisäministeriölle. Tämän lainsäädännön tavoitteena on mahdollistaa sisäministeriön päättää, mitkä maahanmuuttajaprofessiot eivät vaadi tilapäistä oleskelulupaa, tehostaen prosessia pätevien ulkomaisten asiantuntijoiden rekrytoimiseksi. [5]
+## Kreml vahvistaa, että tukitoimia yrityksille ei tule internetkatkojen vuoksi
+Maaliskuun 7. päivänä 2026 Kreml ilmoitti, ettei se aio toteuttaa mitään korvaus- tai tukitoimia yrityksille, joita äskettäiset internetkatkot ovat vaikuttaneet. Yksi presidentin tiedottaja Dmitry Peskov ilmoitti, että hallinto keskittyy julkisen turvallisuuden varmistamiseen internetkatkojen vuoksi, jotka alkoivat toukokuun 5. päivänä. [3]
 
-**COMMENT:** Tämä lainsäädäntömuutos heijastaa Kremlin jatkuvia pyrkimyksiä tiukentaa maahanmuuttotyön hallintaa samalla mahdollisesti parantaen työmarkkinoiden tehokkuutta. Lyhyellä aikavälillä tämä voi johtaa muutoksiin ulkomaisten työntekijöiden sääntely-ympäristössä Venäjällä.
+**COMMENT:** Tämä päätös on osoitus Kremlin turvallisuuden ja kontrollin priorisoimisesta taloudellisten näkökohtien yli, erityisesti julkisen turvallisuuden kysymyksiin liittyen. Koska internetkatkot voivat toistua, tukea koskevien toimenpiteiden puuttuminen voi merkitä valtion vallan tiukentumista ja strategioiden kestävyyttä mahdollisia levottomuuksia tai operatiivisia häiriöitä vastaan. 
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #учения #про
-
-
-## Volgogradin Lentokenttä Asettaa Tilapäiset Lentorajoitukset
-Maaliskuun 6. päivänä 2026 Volgogradin lentokenttä ilmoitti tilapäisistä rajoituksista lentokoneiden vastaanoton ja päästämisen osalta lentoturvallisuuden varmistamiseksi, kuten Rosaviatsia raportoi. Nämä toimenpiteet viittaavat tiukentuneisiin turvallisuusprotokolliin Venäjän lentokentillä huolten vuoksi. [6]
-
-**COMMENT:** Lentorajoitusten asettaminen Volgogradin lentokentällä heijastaa Venäjän viranomaisten ennakoivaa asennetta ilmailuturvallisuuteen.
-
-**LOCATION:** Volgograd / Volgograd, 48.7081906, 44.5153353 [Click for Map Location](https://www.openstreetmap.org/?mlat=48.708191&mlon=44.515335#map=8/48.708191/44.515335) (Волгоград)
-
-**KEYWORDS:** #russia #сво #пуск
+**KEYWORDS:** #russia #про  
 
 
-## Venäjän Puolustusministeriö Raportoi Iskuista Ukrainalaisiin Drone-Tehtaisiin
-Maaliskuun 6. päivänä 2026 Venäjän joukot kohdistivat iskuja drone-tehtaisiin ja polttoainevarastoihin, joita käyttävät Ukrainan asevoimat, kuten puolustusministeriön päivittäisessä yhteenvetossa sotatoimista Ukrainassa todettiin. Raportissa mainittiin huomattavia ukrainalaisia sotilasmenetyksiä. [7]
+## UAV-hyökkäys vahingoittaa asuinkerrostaloa Permissä
+Maaliskuun 7. päivänä 2026 UAV-hyökkäys Permissä aiheutti vahinkoa asuinkerrostalolle ja hallintorakennukselle, aiheuttaen yhden loukkaantumisen mutta ei kuolemia. Paikallinen kuvernööri kertoi, että asukkaita evakuoitiin ja hätätoimenpiteitä toteutettiin, kun taas lentokentällä oli lentoja rajoituksia hyökkäyksen jälkeen. [4]
 
-**COMMENT:** Tämä sotilaallinen toiminta korostaa Venäjän jatkuvaa strategista painopistettä Ukrainan sotilaallisten kykyjen häiritsemisessä, erityisesti drone-sodan osalta. Tämä voi merkitä eskalaatiota sotatoimissa.
+**COMMENT:** Tämä tapaus heijastaa jatkuvia huolia dronehyökkäyksistä kaupunkialueilla, mikä korostaa haavoittuvuutta siviili-infrastruktuurissa. Turvallisuustoimenpiteiden ja hätävastuuprotokollien vaikutukset Venäjän kaupungeissa voivat laukaista lisääntynyttä tarkastelua ja mahdollisia poliittisia muutoksia. 
 
-**LOCATION:** Ukraina / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) (Украина)
+**LOCATION:** Perm / Perm, 58.0108531, 56.2318528 [Click for Map Location](https://www.openstreetmap.org/?mlat=58.010853&mlon=56.231853#map=8/58.010853/56.231853)
 
-**KEYWORDS:** #российские #минобороны рф #российские войска #минобороны #пво #удар #сво #беспилотник #бпла #сф #часть #про
-
-
-## Kauheita Löydöksiä Konstantinovkan Bunkkereista Ukrainan Perääntyessä
-Maaliskuun 6. päivänä 2026, Ukrainan joukkojen peräännyttyä Konstantinovkasta, venäläiset sotilaat löysivät ruumiin, joka oli saanut väkivaltaisen kuoleman, mukaan lukien sidotut raajat ja iskuhaavat. [8]
-
-**COMMENT:** Löydös viittaa mahdollisiin sotarikoksiin, joita ovat tehneet perääntyneet Ukrainan joukot, mikä saattaa pahentaa jännitteitä ja vaikuttaa humanitaariseen tilanteeseen alueella.
-
-**LOCATION:** Konstantinovka / Konstantinovka, 54.8042969, 20.6889772 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.804297&mlon=20.688977#map=8/54.804297/20.688977) (Константиновка)
-
-**KEYWORDS:** #российские #полк #удар #сво #сф #часть #про
+**KEYWORDS:** #russia #беспилотник #бпла #про  
 
 
-## Venäjän Superjet-100 Valmiina Säännöllisiin Lentoihin Vuoden Loppuun Mennessä
-Maaliskuun 6. päivänä 2026 Teollisuus- ja kauppaministeri Anton Alikhanov ilmoitti, että täysin tuontikorvattu Venäjän Superjet-100 odotetaan aloittavan säännölliset lennot ennen vuoden loppua, onnistuneiden jäätymiskokeiden jälkeen. [9]
+## Oikeus saa käsittelyyn kavallusjutun, joka liittyy Sotšin rytmisen voimistelukeskuksen rakentamiseen
+Maaliskuun 7. päivänä 2026 rikosjuttu, jossa käsitellään yli 8 miljardin ruplan kavallusta Sotšin rytmisen voimistelukeskuksen rakentamisaikana, lähetettiin oikeuteen sisäministeriön alustavan tutkinnan jälkeen. Entisiä PJSC Gazpromin ja sen tytäryhtiöiden työntekijöitä syytetään Venäjän rikoslainsäädännön mukaan, ja merkittäviä varoja on takavarikoitu mahdollisten korvausten varmistamiseksi. [5]
 
-**COMMENT:** Tämä kehitys korostaa Venäjän pyrkimyksiä ilmailun omavaraisuuteen, mikä heijastaa laajempia valtion prioriteetteja taloudellisessa kestävyydessä ja teknologisessa itsenäisyydessä.
+**COMMENT:** Tämä syyte heijastaa Venäjän viranomaisten jatkuvia pyrkimyksiä puuttua korruptioon, erityisesti valtion rahoittamissa hankkeissa. Tämä voi viitata siihen, että suuria hallinnollisia sopimuksia tarkastellaan tarkemmin ja mahdollisesti tapahtuu muutoksia talousrikollisuuskäytännöissä tulevaisuudessa. 
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Sotši / Sochi, 43.5854823, 39.723109 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.585482&mlon=39.723109#map=8/43.585482/39.723109)
 
-**KEYWORDS:** #российский #мто #про
+**KEYWORDS:** #russia #про  
+
+
+## Venäjä ilmoittaa tulitaukosta 8. ja 9. toukokuuta
+Maaliskuun 7. päivänä 2026 Venäjän presidentin lehdistösihteeri Dmitry Peskov ilmoitti, että tulitauko on voimassa 8. ja 9. toukokuuta voitonpäivän kunniaksi. Peskov ilmoitti myös, että merkittävä sotilasläsnäolo, mukaan lukien kalusto, tulee olemaan osa juhlintaa Moskovassa, ja ulkoministeriö varoitti, että mahdolliset rikkomukset voivat johtaa voimakkaaseen vastatoimeen. [6]
+
+**COMMENT:** Tulitaukoselonteko voi parantaa kotimaista moraalia ja vakautta merkittävän kansallisen juhlan aikana. Kuitenkin mahdollisten toimien uhka reagointina rikkomuksiin korostaa jatkuvia jännitteitä ja Kreml on valmis toimimaan päättäväisesti puolustaakseen etujaan. 
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #россия #полк #удар #сво #сф #часть #про  
+
+
+## Ukrainan laivaston partioalus uppoaa Naton hyökkäyksen jälkeen Odessassa
+Maaliskuun 5. päivänä 2026 Ukrainan laivaston partioalus 'Podolye' upposi Odessan satamassa merkittävän iskun seurauksena, joka oli Naton joukoilta. Alus oli väitetysti kohdistunut sataman turvallisuuden takia, ja hyökkäys on herättänyt huolia alueen jatkuvista sotilaallisista operaatioista. [7]
+
+**COMMENT:** Tämä tapaus korostaa jatkuvia merisodankäyntejä mustalla merellä, mikä heijastaa lisääntyneitä jännitteitä Ukrainan ja Naton joukkojen välillä. Aluksen upottaminen voi lisätä sotilaallisia operaatioita, mikä voi johtaa tarkempaa tarkastelua Ukrainan merivoimien kykyihin ja strategioihin. 
+
+**LOCATION:** Odesa / Odessa, Unknown, Unknown [Click for Map Location]()
+
+**KEYWORDS:** #вс рф #пво #удар #сво #пуск #сф #часть #про  
+
+
+## Venäjä reagoi Ukrainan dronehyökkäykseen Dzhankoyssa
+Maaliskuun 7. päivänä 2026 Venäjän viranomaiset raportoivat Ukrainan joukoilta tulleesta dronehyökkäyksestä Dzhankoyssa Krimillä, joka johti viiden siviilin kuolemaan. Tämä eskalaatio korostaa jatkuvia jännitteitä ja mahdollisuutta lisääntyi sotilaallisiin yhteenottoihin Venäjän ja Ukrainan välillä. [8]
+
+**COMMENT:** Tapahtuma alleviivaa alueen epävakautta ja osoittaa, että sotilaalliset vihamielisyydet voivat voimistua molempien osapuolten reaktioissa provokaatioihin. Hyökkäys saattaa laukaista voimakkaampia vastatoimia Venäjältä, mikä vaikuttaa sekä sisäiseen vakauteen että alueellisiin turvallisuutisiin. 
+
+**LOCATION:** Dzhankoy / Dzhankoy, Unknown, Unknown [Click for Map Location]()
+
+**KEYWORDS:** #россия #российские #минобороны рф #российские военные #минобороны #удар #сво #ракетные войска #артиллерия #беспилотник #бпла #пуск #сф #армия #про  
+
+
+## Putin keskustelee Rostecin kasvusta ja sotilasvalmistuksesta Chemezovin kanssa
+Maaliskuun 7. päivänä 2026 Presidentti Vladimir Putin tapasi Rostecin valtionyhtiön pääjohtajan Sergey Chemezovin keskustellakseen yrityksen kasvusta siviilituotannon ja sotilasvarustelun kehittämisessä. Rostec raportoi nelinkertaisesta voiton kasvusta kymmenessä vuodessa merkittävillä edistysaskelilla valtiosuojelusurakoiden täyttämisessä ja uusien aseiden mallien suunnitelmissa. [9]
+
+**COMMENT:** Tämä kokous korostaa Kreml’in keskittymistä sekä siviili- että sotilasteollisuuden tukemiseen meneillään olevien operaatioiden aikana. Rostecin tuotannon ja voiton merkittävä kasvu voi viitata lisääntyneeseen puolustuskapasiteettien painotukseen ja taloudellisiin kestävyystrategioihin ulkoisten paineiden seurauksena. 
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+
+**KEYWORDS:** #российские #гособоронзаказ #сво #беспилотник #часть #про  
+
+
+## Kreml keskustelee turvallisuusjärjestelyistä voitonpäivän paraatille uhkien keskellä
+Maaliskuun 7. päivänä 2026 Yuri Ushakov, presidentin avustaja, piti tiedotustilaisuuden tulevasta voitonpäivän paraatista 9. toukokuuta. Kreml on päättänyt pitää tänä vuonna kohtuullisen juhlan turvallisuusuhkien vuoksi eikä ole antanut erityisiä kutsuja ulkomaisille johtajille, mikä osoittaa huolta mahdollisista riskeistä tapahtuman aikana. [10]
+
+**COMMENT:** Kreml’in päätös rajoittaa voitonpäivän paraatin laajuutta heijastaa turvallisuuden korostamista koettujen uhkien vuoksi. Tämä lähestymistapa voi viitata varovaisiin julkisiin sotilaallisiin näyttöihin liittyviin riskeihin jatkuvassa geopoliittisessa jännityksessä. 
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #россия #удар #сво #про  
+
+
+## Venäjän ulkoministeri varoittaa ulkomaalaisia valmistautumaan evakuointiin Kiovasta
+Maaliskuun 6. päivänä 2026 Venäjän ulkoministeriön tiedottaja Maria Zakharova antoi varoituksen ulkomaisille diplomaateille ja kansainvälisille organisaatioille mahdollisista vastatoimista Kiovaan voitonpäivän juhlien aikana. Lausunto seurasi Venäjän puolustusministeriön uhkaa kohdistaa Kiovaan iskui, jos se aloittaa hyökkäyksen Moskovaa vastaan, ja kehotti ulkomaalaisia kansalaisia valmistautumaan aikaisempaan evakuointiin kaupungista. [11]
+
+**COMMENT:** Tämä varoitus heijastaa jännitteitä, jotka liittyvät 9. toukokuuta juhliin, ja korostaa Kiovan vaikeaa turvallisuustilannetta. Mikäli vihamielisyydet eskaloituvat, se saattaa monimutkaistaa kansainvälisiä diplomaattisuhteita ja lisätä kiirettä ulkomaalaisten kansalaisten poistamisessa alueelta. 
+
+**LOCATION:** Kiova / Kiev, Unknown, Unknown [Click for Map Location]()
+
+**KEYWORDS:** #россия #мо рф #минобороны #корпус #удар #сво #про  
+
+
+## Viro valmistautuu provokaatioihin Ivangorodissa 9. toukokuuta: Venäjä reagoi
+Maaliskuun 9. päivänä 2026 Ivangorodissa, Venäjällä, on tarkoitus viettää voitonpäivää, mutta provokaatioita Virosta odotetaan. Paikalliset viranomaiset odottavat merkittävää osallistumista asukkailta ja vierailijoilta, mikä osoittaa jännitteitä rajat ylittävää taustaa, kun Viro virallisesti rajoittaa tämän juhlan julkisia juhlia. [12]
+
+**COMMENT:** Ivangorodissa suunnitellut juhlat Venäjän ja Viron suhteiden kiristymisen taustalla voivat lisääntyä alueella. Tällaiset kokoontumiset voivat laukaista vastatoimia Venäjältä, koska niitä saatetaan pitää uhkana sen kansalliselle tarinankerronnalle ja historiallisille muistoille. 
+
+**LOCATION:** Ivangorod / Ivangorod, 59.3744139, 28.2192542 [Click for Map Location](https://www.openstreetmap.org/?mlat=59.374414&mlon=28.219254#map=8/59.374414/28.219254)
+
+**KEYWORDS:** #россия #российские #офицер #удар #сво #пуск #про  
+
+
+## Moskova kohtaa internetkatkoja 9. toukokuuta 2026 voitonpäivän juhlien aikana
+Maaliskuun 9. päivänä 2026 Moskova kohtaa laaja-alaisia rajoituksia mobiilinettiyhteyksissä ja SMS-palveluissa osana voitonpäivän juhlien turvallisuusjärjestelyjä. Viestintäministeriö vahvisti, että mobiilipalvelut rajoitetaan, mutta kodin internet- ja Wi-Fi-verkot pysyvät käytössä ilman rajoituksia. [13]
+
+**COMMENT:** Tämä suunniteltu katkos havainnollistaa Venäjän hallituksen jatkuvia toimenpiteitä viestinnän kontrolloimiseksi merkittävien kansallisten tapahtumien aikana, mikä heijastaa lähestymistapaa turvallisuusriskien lieventämiseksi. Vaikutukset saattavat sisältää lisääntyneen riippuvuuden vaihtoehtoisista viestintämenetelmistä ja valtion valvonnan voimistumisen kansalaisten yhteyksiin juhlallisuuksien aikana. 
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #россия #учения #штаб #сво #беспилотник #бпла #про  
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1087979?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1088221?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1087969?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1088123?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1087966?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1088198?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1087965?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1088205?utm_source=top
 
-[5] interfax.ru - https://interfax.ru/russia/1088041
+[5] interfax.ru - https://interfax.ru/russia/1088282
 
-[6] interfax.ru - https://interfax.ru/russia/1088030
+[6] aif.ru - https://aif.ru/society/peskov-obyavlennoe-rossiey-peremirie-budet-deystvovat-8-i-9-maya
 
-[7] aif.ru - https://aif.ru/politics/minoborony-rf-soobshchilo-o-porazhenii-cehov-sborki-bespilotnikov-vsu
+[7] aif.ru - https://aif.ru/society/taynyy-korabl-nato-potopil-grad-udarov-v-odesse-glavnaya-novost-svo-7-maya
 
-[8] aif.ru - https://aif.ru/society/v-bunkerah-konstantinovki-uvideli-zhutkie-nahodki-glavnaya-novost-svo-6-maya
+[8] aif.ru - https://aif.ru/society/rasplata-za-dzhankoy-rf-nanesla-sokrushitelnyy-udar-po-ukraine-vsyo-v-ogne
 
-[9] www.kp.ru - https://www.kp.ru/daily/277780/5245650/
+[9] iz.ru - https://iz.ru/2092861/putin-provel-vstrechu-s-glavoi-rostekha-chemezovym-glavnoe-izi
+
+[10] www.kp.ru - https://www.kp.ru/daily/277780/5246131/
+
+[11] www.kp.ru - https://www.kp.ru/daily/277780/5245759/
+
+[12] www.kp.ru - https://www.kp.ru/daily/277780/5246024/
+
+[13] www.kp.ru - https://www.kp.ru/daily/277780/5246046/

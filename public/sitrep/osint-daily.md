@@ -1,114 +1,149 @@
-# Report Date: 2026-05-06
+# Report Date: 2026-05-07
 
 ## Summary
-The reporting period has seen a series of significant incidents across Russia, ranging from UAV attacks to legal developments involving public officials. The UAV attack in Cheboksary caused extensive damage, indicating a worrying trend of targeted strikes. The legal release of Ufa Mayor Ratmir Mavliyev to house arrest suggests potential shifts in judicial practices regarding high-profile cases. A deadly plane crash in Omsk underlines ongoing aviation safety concerns. Additionally, the deaths of individuals in St. Petersburg have sparked investigations into drug use, while legislative changes in Moscow aim to streamline migrant controls. Flight restrictions at Volgograd Airport and military strikes against Ukrainian assets reflect a focus on safety and operational effectiveness in both civilian and military spheres. Near-term developments may include increased scrutiny on public safety measures and potential escalations in military actions.
+The current situation reflects heightened tensions between Russia and Ukraine, particularly in light of drone activity and military operations in proximity to each nation's borders. The ongoing conflict is marked by incidents such as drone attacks and military announcements, illustrating the potential for escalated confrontations. In the near term, developments related to the Victory Day celebrations on May 9th could further intensify security measures and military engagements, potentially impacting both domestic stability in Russia and regional security dynamics.
 
-## UAV Attack in Cheboksary Damages 40 Apartment Buildings
-On May 6th, 2026, it was reported that a UAV attack on May 5th resulted in damage to 40 apartment buildings in Cheboksary, along with schools and other social facilities. Chuvashia's head, Oleg Nikolaev, indicated that emergency measures are being implemented to provide assistance and assess the damage, involving over 70 specialists and temporary accommodation for affected residents. [1]
+## Ukrainian Armed Forces Attempt Attack Near St. Petersburg
+On May 7th, 2026, the Russian Defense Ministry reported that the Ukrainian Armed Forces attempted to attack civilian infrastructure in the area of St. Petersburg using six drones. The drones were tracked in the airspace of Latvia, with five disappearing from radar as they moved eastward. [1]
 
-**COMMENT:** The UAV attack indicates an escalation in targeted strikes that could have broader implications for security within urban areas in Russia. Monitoring the government's response will be crucial to understanding future developments in emergency management and public safety policy.
+**COMMENT:** This incident highlights ongoing tensions between Russia and Ukraine, particularly concerning drone activity near Russian territory. The involvement of French and American fighter jets in parallel could indicate broader international military engagement related to the conflict.
 
-**LOCATION:** Cheboksary / Cheboksary, 56.1399598, 47.2480999 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.139960&mlon=47.248100#map=8/56.139960/47.248100) (городской округ Чебоксары)
+**LOCATION:** St. Petersburg / St. Petersburg, Russia, ,  [Click for Map Location]()
 
-**KEYWORDS:** #russia #учения #штаб #удар #бпла #про
-
-
-## Ufa Mayor Ratmir Mavliyev Released to House Arrest
-On May 6th, 2026, the Supreme Court of Bashkiria ordered the release of Ufa Mayor Ratmir Mavliyev from pre-trial detention, transferring him to house arrest until June 28th. This decision follows an evaluation of the case's circumstances and the absence of grounds for detention, taking into account the mayor's family situation. [2]
-
-**COMMENT:** This development reflects a significant shift in the legal situation surrounding a high-ranking official in Ufa, potentially indicating leniency in the judicial approach to politically sensitive cases. The implications for political stability in Bashkiria may become clearer as the investigation progresses and public reaction unfolds.
-
-**LOCATION:** Ufa / Ufa, 54.7261409, 55.947499 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.726141&mlon=55.947499#map=8/54.726141/55.947499) (городской округ Уфа)
-
-**KEYWORDS:** #russia #сво
+**KEYWORDS:** #russia #российские #минобороны рф #минобороны россии #российские военные #минобороны #ввс #пво #беспилотник #бпла #про
 
 
-## Plane Crash in Omsk Region Classified as Disaster
-On May 6th, 2026, a small-engine aircraft identified as "Aeroprakt-22" crashed in the Omsk region, resulting in the deaths of two individuals. The Interstate Aviation Committee will investigate the crash, which is believed to have occurred due to an open engine hood during flight operations. [3]
+## Moscow to Restrict Mobile Internet Access on Victory Day, May 9
+On May 9th, 2026, Moscow will implement a complete shutdown of mobile internet services, including access to previously approved websites, to ensure security during Victory Day celebrations. The Ministry announced that while there are no restrictions planned for May 7th and 8th, operational measures may be taken should any immediate security threats arise. [2]
 
-**COMMENT:** The classification of this incident as a disaster underscores ongoing concerns regarding aviation safety in Russia. Investigations may reveal systemic issues leading to heightened scrutiny of aviation regulations and operational standards moving forward.
+**COMMENT:** This action reflects the government's emphasis on controlling communications during significant public events for security purposes. Such measures may indicate heightened concerns about potential disruptions or threats during national celebrations.
 
-**LOCATION:** Omsk Oblast / Omsk Oblast, 56.0935263, 73.5099936 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.093526&mlon=73.509994#map=8/56.093526/73.509994)
-
-**KEYWORDS:** #russia #удар
-
-
-## Investigation Underway After Four Bodies Found in St. Petersburg Hostel
-On May 6th, 2026, the Investigative Committee launched an inquiry into the deaths of four individuals discovered in a hostel on Zagorodny Prospekt, St. Petersburg. Initial assessments suggest the cause of death may be linked to an overdose of illicit substances, as indicated by injection marks and the presence of syringes and a powdery substance nearby. [4]
-
-**COMMENT:** This incident raises concerns about drug use and public safety in urban areas of Russia, potentially signaling a need for intensified law enforcement oversight. Authorities may focus on opioid-related trends and substance control in response to such tragic occurrences.
-
-**LOCATION:** St. Petersburg / St. Petersburg, Unknown, Unknown
+**LOCATION:** Moscow / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
 **KEYWORDS:** #russia #про
 
 
-## Bill Introduced in Duma to Transfer Migrant Control Powers to Ministry of Internal Affairs
-On May 6th, 2026, the Russian government submitted a bill to the State Duma proposing to transfer certain powers related to migrant controls from the Ministry of Labor to the Ministry of Internal Affairs. This legislation aims to allow the Ministry of Internal Affairs to determine which migrant professions do not require a temporary residence permit, streamlining the process for qualified foreign specialists. [5]
+## Kremlin Confirms No Business Support Measures Amid Internet Outages
+On May 7th, 2026, the Kremlin announced that it would not implement any compensation or support measures for businesses affected by recent Internet outages, emphasizing that current actions taken are in line with legal requirements and prioritize citizen safety. Presidential spokesperson Dmitry Peskov stated that the administration is focused on ensuring public safety amid concerns over the outages that began on May 5th. [3]
 
-**COMMENT:** This legislative move reflects the Kremlin's ongoing efforts to tighten control over migrant labor while potentially improving labor market efficiency. In the near term, this could lead to shifts in the regulatory environment for foreign workers in Russia, impacting both recruitment and labor availability in various sectors.
+**COMMENT:** This decision is indicative of the Kremlin's prioritization of security and control over economic considerations, particularly in response to public safety issues. As Internet outages may recur, the absence of support measures might signal a tightening of state control and resilience strategies against potential unrest or operational disruptions.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Moscow / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #учения #про
-
-
-## Volgograd Airport Imposes Temporary Flight Restrictions
-On May 6th, 2026, Volgograd Airport announced temporary restrictions on aircraft reception and release to ensure flight safety, as reported by Rosaviatsia. These measures indicate heightened safety protocols at Russian airports amid ongoing concerns regarding secure air travel. [6]
-
-**COMMENT:** The imposition of flight restrictions at Volgograd Airport reflects a proactive stance on aviation safety by Russian authorities. This may suggest a potential increase in scrutiny or security measures across other airports in Russia in the near term.
-
-**LOCATION:** Volgograd / Volgograd, 48.7081906, 44.5153353 [Click for Map Location](https://www.openstreetmap.org/?mlat=48.708191&mlon=44.515335#map=8/48.708191/44.515335)
-
-**KEYWORDS:** #russia #сво #пуск
+**KEYWORDS:** #russia #про
 
 
-## Russian Defense Ministry Reports Strikes on Ukrainian Drone Assembly Shops
-On May 6th, 2026, Russian troops targeted drone assembly shops and fuel depots used by the Armed Forces of Ukraine, as detailed in the Ministry of Defense's daily summary regarding military operations in Ukraine. The report noted substantial Ukrainian military losses, with air defense forces successfully intercepting multiple enemy attacks. [7]
+## UAV Attack Damages Apartment Building in Perm
+On May 7th, 2026, a UAV attack in Perm resulted in damage to an apartment building and an administrative building, causing one injury but no fatalities. The local governor stated that residents were evacuated and emergency measures were underway, while the airport faced flight restrictions following the incident. [4]
 
-**COMMENT:** This military action highlights the ongoing strategic focus of Russia in disrupting Ukrainian military capabilities, particularly regarding drone warfare. In the near term, such strikes may signal an escalation in military operations as Russia aims to undermine Ukraine's operational effectiveness ahead of potential offensives.
+**COMMENT:** This incident reflects ongoing concerns regarding drone attacks in urban areas, highlighting vulnerabilities in civilian infrastructure. The implications for security measures and emergency response protocols in Russian cities may prompt increased scrutiny and potential policy adjustments.
 
-**LOCATION:** Ukraine / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
+**LOCATION:** Perm / Perm, Perm District, Perm Krai, Volga Federal District, Russia, 58.0108531, 56.2318528 [Click for Map Location](https://www.openstreetmap.org/?mlat=58.010853&mlon=56.231853#map=8/58.010853/56.231853)
 
-**KEYWORDS:** #российские #минобороны рф #российские войска #минобороны #пво #удар #сво #беспилотник #бпла #сф #часть #про
-
-
-## Horrific Discoveries in Konstantinovka Bunkers Amid Ukrainian Retreat
-On May 6th, 2026, following the retreat of Ukrainian forces from Konstantinovka, Russian soldiers uncovered a skeletonized body in a basement, showing evidence of a violent death, including bound limbs and blunt force trauma. This incident has been cited as indicative of the enemy's panic and inhuman treatment of civilians during their withdrawal. [8]
-
-**COMMENT:** The discovery of the body points to possible war crimes committed by retreating Ukrainian forces, aligning with ongoing narratives around the conflict. This may further escalate tensions and impact the humanitarian situation in the region.
-
-**LOCATION:** Konstantinovka / Konstantinovka, 54.8042969, 20.6889772 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.804297&mlon=20.688977#map=8/54.804297/20.688977)
-
-**KEYWORDS:** #российские #полк #удар #сво #сф #часть #про
+**KEYWORDS:** #russia #беспилотник #бпла #про
 
 
-## Russian Superjet-100 Set for Regular Flights by Year-End Following Certification Tests
-On May 6th, 2026, the head of the Ministry of Industry and Trade, Anton Alikhanov, announced that the fully import-substituted Russian Superjet-100 is expected to start regular flights before the end of this year, following successful icing tests. The aircraft is in the certification process, scheduled for completion in August 2026, highlighting significant progress in Russia's domestic aviation capabilities amid ongoing efforts to replace imports with local products. [9]
+## Court Receives Embezzlement Case Linked to Sochi Gymnastics Center Construction
+On May 7th, 2026, the criminal case concerning embezzlement exceeding 8 billion rubles during the construction of the Rhythmic Gymnastics Center in Sochi was forwarded to court after a preliminary investigation by the Interior Ministry. The former employees of PJSC Gazprom and its subsidiaries are charged under Russian criminal law, with significant assets seized to ensure compensation for the alleged theft. [5]
 
-**COMMENT:** This development underscores Russia's push towards aviation self-sufficiency, reflecting broader state priorities in economic resilience and technological independence. The successful entry of the Superjet-100 into regular service could influence the domestic market and enhance the national aviation industry's competitiveness.
+**COMMENT:** The prosecution of this case reflects ongoing efforts by Russian authorities to address corruption, particularly in state-funded projects. This could indicate increased scrutiny on large-scale governmental contracts and a potential shift in how economic crimes are prosecuted in the near future.
+
+**LOCATION:** Sochi / Sochi, Krasnodar Krai, Southern Federal District, Russia, 43.5854823, 39.723109 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.585482&mlon=39.723109#map=8/43.585482/39.723109)
+
+**KEYWORDS:** #russia #про
+
+
+## Russia Announces Truce for May 8th and 9th
+On May 7th, 2026, Dmitry Peskov, the press secretary of the President of Russia, announced that a truce will be in effect on May 8th and 9th in honor of Victory Day. Peskov also indicated that significant military presence, including equipment, would be part of the celebrations in Moscow, with a warning from the Foreign Ministry that any violations could provoke a strong retaliation. [6]
+
+**COMMENT:** The declaration of a truce may serve to enhance domestic morale and stability during a significant national commemoration. However, the warning of potential military action in response to violations highlights persistent tensions and the Kremlin's readiness to act decisively in defense of its interests.
+
+**LOCATION:** Moscow / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #россия #полк #удар #сво #сф #часть #про
+
+
+## Ukrainian Navy Patrol Ship Sinks After NATO Attack in Odessa
+On May 5th, 2026, the Ukrainian Navy patrol ship 'Podolye' sank in the port of Odessa following a significant strike attributed to NATO forces. The ship was reportedly targeted while being used for port security, and the attack has raised concerns regarding ongoing military operations in the region. [7]
+
+**COMMENT:** This incident highlights the ongoing naval confrontations in the Black Sea, reflecting the heightened tensions between Ukrainian and NATO forces. The sinking of the ship may escalate military operations, leading to increased scrutiny on Ukraine's naval capabilities and strategies.
+
+**LOCATION:** Odessa / Odessa, Ukraine, ,  [Click for Map Location]()
+
+**KEYWORDS:** #вс рф #пво #удар #сво #пуск #сф #часть #про
+
+
+## Russia Responds to Ukraine Drone Attack in Dzhankoy
+On May 7th, 2026, Russian authorities reported a drone attack by Ukrainian forces on Dzhankoy in Crimea that resulted in the deaths of five civilians. This escalation highlights ongoing tensions and the potential for further military confrontations between Russia and Ukraine. [8]
+
+**COMMENT:** The incident underscores the volatility in the region, indicating that military hostilities may intensify as both sides react to provocations. The attack may provoke a stronger retaliatory response from Russia, impacting both domestic stability and regional security dynamics.
+
+**LOCATION:** Dzhankoy / Dzhankoy, Crimea, Russia, ,  [Click for Map Location]()
+
+**KEYWORDS:** #россия #российские #минобороны рф #российские военные #минобороны #удар #сво #ракетные войска #артиллерия #беспилотник #бпла #пуск #сф #армия #про
+
+
+## Putin Discusses Rostec's Growth and Military Production with Chemezov
+On May 7th, 2026, President Vladimir Putin met with Sergey Chemezov, the head of the Rostec state corporation, to discuss the company's growth in civilian product production and military equipment development. Rostec reported a fourfold increase in profits over a decade, with significant advancements in fulfilling the state defense order and plans for new weapon models. [9]
+
+**COMMENT:** This meeting highlights the Kremlin's focus on bolstering both civilian and military industries amid ongoing operations. The significant increase in Rostec's production and profit may indicate further prioritization of defense capabilities and economic resilience strategies in response to external pressures.
 
 **LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
-**KEYWORDS:** #российский #мто #про
+**KEYWORDS:** #российские #гособоронзаказ #сво #беспилотник #часть #про
+
+
+## Kremlin Discusses Security Measures for Victory Day Parade Amid Threats
+On May 7th, 2026, Yuri Ushakov, Assistant to the President of Russia, held a briefing outlining the upcoming Victory Day Parade on May 9th. The Kremlin has opted for a modest celebration this year due to security threats and has not extended special invitations to foreign leaders, indicating concerns over potential risks during the event. [10]
+
+**COMMENT:** The Kremlin's decision to limit the scale of the Victory Day Parade reflects a heightened focus on security in the face of perceived threats. This approach may signify a cautious stance in Russia's public displays of military strength amid ongoing geopolitical tensions.
+
+**LOCATION:** Moscow / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #россия #удар #сво #про
+
+
+## Russian Foreign Ministry Warns Foreigners to Prepare for Evacuation from Kiev
+On May 6th, 2026, Russian Foreign Ministry spokeswoman Maria Zakharova issued a warning to foreign diplomats and international organizations regarding the potential for retaliatory strikes against Kiev during the upcoming Victory Day celebrations. The statement followed the Russian Ministry of Defense's threat to target Kiev if it initiates an attack on Moscow, urging foreign nationals to be prepared for early evacuation from the city. [11]
+
+**COMMENT:** This warning reflects the heightened tensions surrounding the May 9th celebrations and underscores the precarious security situation in Ukraine. Should hostilities escalate, it may complicate international diplomatic relations and increase the urgency for foreign nationals to exit the region.
+
+**LOCATION:** Kiev / Kiev, Ukraine, ,  [Click for Map Location]()
+
+**KEYWORDS:** #россия #мо рф #минобороны #корпус #удар #сво #про
+
+
+## Estonia Prepares Provocations Against Ivangorod on May 9: Russia Will Respond
+On May 9th, 2026, Ivangorod, Russia, is set to celebrate Victory Day while facing potential provocations from Estonia. Local officials expect significant participation from residents and visitors, signaling heightened tensions along the border as Estonia officially restricts public celebrations of this holiday. [12]
+
+**COMMENT:** The planned celebrations in Ivangorod against a backdrop of strained Russia-Estonia relations may escalate tensions in the region. Such gatherings could prompt retaliatory measures from Russia, as they may be perceived as a challenge to its national narratives and historical commemorations.
+
+**LOCATION:** Ivangorod / Ivangorod, Jaama District, Leningrad Oblast, Northwestern Federal District, Russia, 59.3744139, 28.2192542 [Click for Map Location](https://www.openstreetmap.org/?mlat=59.374414&mlon=28.219254#map=8/59.374414/28.219254)
+
+**KEYWORDS:** #россия #российские #офицер #удар #сво #пуск #про
+
+
+## Moscow to Experience Internet Outage on May 9, 2026, for Security During Victory Day Celebrations
+On May 9th, 2026, Moscow will face large-scale restrictions on mobile Internet access and SMS services as part of security measures for Victory Day celebrations. The Ministry of Communications confirmed that while mobile services will be restricted, home Internet and Wi-Fi networks will remain operational without limitations. [13]
+
+**COMMENT:** This planned outage illustrates the Russian government's ongoing measures to control communication during significant national events, reflecting an approach to mitigate potential security risks. The implications may include increased reliance on alternative communication methods and a heightened sense of state oversight on citizens' connectivity during celebrations.
+
+**LOCATION:** Moscow / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #россия #учения #штаб #сво #беспилотник #бпла #про
 
 
 # Sources
-
-[1] interfax.ru - https://interfax.ru/russia/1087979?utm_source=top
-
-[2] interfax.ru - https://interfax.ru/russia/1087969?utm_source=top
-
-[3] interfax.ru - https://interfax.ru/russia/1087966?utm_source=top
-
-[4] interfax.ru - https://interfax.ru/russia/1087965?utm_source=top
-
-[5] interfax.ru - https://interfax.ru/russia/1088041
-
-[6] interfax.ru - https://interfax.ru/russia/1088030
-
-[7] aif.ru - https://aif.ru/politics/minoborony-rf-soobshchilo-o-porazhenii-cehov-sborki-bespilotnikov-vsu
-
-[8] aif.ru - https://aif.ru/society/v-bunkerah-konstantinovki-uvideli-zhutkie-nahodki-glavnaya-novost-svo-6-maya
-
-[9] www.kp.ru - https://www.kp.ru/daily/277780/5245650/
+[1] interfax.ru - https://interfax.ru/russia/1088221?utm_source=top  
+[2] interfax.ru - https://interfax.ru/russia/1088123?utm_source=top  
+[3] interfax.ru - https://interfax.ru/russia/1088198?utm_source=top  
+[4] interfax.ru - https://interfax.ru/russia/1088205?utm_source=top  
+[5] interfax.ru - https://interfax.ru/russia/1088282  
+[6] aif.ru - https://aif.ru/society/peskov-obyavlennoe-rossiey-peremirie-budet-deystvovat-8-i-9-maya  
+[7] aif.ru - https://aif.ru/society/taynyy-korabl-nato-potopil-grad-udarov-v-odesse-glavnaya-novost-svo-7-maya  
+[8] aif.ru - https://aif.ru/society/rasplata-za-dzhankoy-rf-nanesla-sokrushitelnyy-udar-po-ukraine-vsyo-v-ogne  
+[9] iz.ru - https://iz.ru/2092861/putin-provel-vstrechu-s-glavoi-rostekha-chemezovym-glavnoe-izi  
+[10] www.kp.ru - https://www.kp.ru/daily/277780/5246131/  
+[11] www.kp.ru - https://www.kp.ru/daily/277780/5245759/  
+[12] www.kp.ru - https://www.kp.ru/daily/277780/5246024/  
+[13] www.kp.ru - https://www.kp.ru/daily/277780/5246046/
