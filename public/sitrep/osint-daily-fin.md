@@ -1,162 +1,150 @@
-# Report Date: 2026-05-07
+# Report Date: 2026-05-08
 
 ## Summary
-Raportointijaksolla Venäjällä esiintyy monia jännitteitä, erityisesti Ukrainan ja Venäjän välillä, mikä näkyy useissa tapahtumissa. Ukrainan asevoimien dronehyökkäykset Venäjän alueelle, Moskova ja Perm, nostavat huolta siviili-infrastruktuurin turvallisuudesta. Samalla oikeusprosessit, jotka liittyvät suuria varoja koskevaan korruptioon, sekä Venäjän ilmoitukset voitonpäivän juhlista, viittaavat hallituksen valmiuteen hallita tilanteita tarkasti. Lähitulevaisuudessa on todennäköistä, että jännitteet jatkuvat, mikä voi johtaa lisääntyneisiin sotilaallisiin toimiin sekä lisääntyneeseen valvontaan sisäisesti.
+Raportointijaksolla on tapahtunut useita merkittäviä kehityksiä Venäjällä ja sen lähialueilla, jotka heijastavat jatkuvia geopoliittisia jännitteitä ja taloudellisia haasteita. Lentokieltojen purkaminen eteläisestä Venäjästä sekä lentokenttien toiminnan palauttaminen viittaavat mahdollisiin turvallisuustilanteen parannuksiin, mutta samalla Moskovan pörssin indeksin lasku ja dronehyökkäysten torjunta osoittavat, että jännitteet Ukrainan kanssa jatkuvat. Tähän liittyvät kehitykset voivat vaikuttaa strategisiin päätöksiin sekä taloudellisiin olosuhteisiin lähitulevaisuudessa, mutta tilanteen vakaus on edelleen epävarmaa.
 
-## Ukrainan asevoimat yrittävät hyökätä Pietarin alueella
-Maaliskuun 7. päivänä 2026 Venäjän puolustusministeriö raportoi, että Ukrainan asevoimat yrittivät hyökätä siviili-infrastruktuuriin Pietarin alueella käyttäen kuutta dronea. Droneja seurattiin Latvian ilmatilassa, ja viisi niistä katosi tutkalta siirtyessään itään. [1]
+## Rosaviatsia Lifts Ban on Flights to Southern Russia
+On May 8th, 2026, Rosaviatsiya officially lifted a ban on flights to southern Russia, which had previously suspended operations until May 12. Airlines are now submitting updated flight plans to operate at various southern airports, although some restrictions may still apply due to airspace conditions. [1]
 
-**COMMENT:** Tämä tapaus korostaa jatkuvia jännitteitä Venäjän ja Ukrainan välillä, erityisesti drone-toimintaan liittyen Venäjän alueen lähellä. Ranskan ja Yhdysvaltojen hävittäjien samanaikainen osuus voisi viitata laajempaan kansainväliseen sotilaalliseen sitoutumiseen konfliktin ympärillä. 
+**COMMENT:** The lifting of the flight ban indicates a potential easing of previously implemented restrictions, possibly reflecting improvements in regional security or operational conditions. This development may facilitate increased connectivity and economic activity in southern Russia, impacting local and regional stability dynamics.
 
-**LOCATION:** Pietari / St. Petersburg, Unknown, Unknown [Click for Map Location]()
+**LOCATION:** Southern Russia / Southern Russia, ,  [Click for Map Location]()
 
-**KEYWORDS:** #russia #российские #минобороны рф #минобороны россии #российские военные #минобороны #ввс #пво #беспилотник #бпла #про  
+**KEYWORDS:** #russia #бпла #про
 
 
-## Moskova aikoo rajoittaa mobiilinettiyhteyttä voitonpäivänä
-Maaliskuun 9. päivänä 2026 Moskova toteuttaa täydellisen mobiilinettiyhteyksien sulkemisen, mukaan lukien pääsy aiemmin hyväksyttyihin verkkosivustoihin, varmistaakseen turvallisuuden voitonpäivän juhlan aikana. Ministeriö ilmoitti, että 7. ja 8. päivälle ei ole suunniteltu rajoituksia, mutta operatiivisia toimenpiteitä saatetaan toteuttaa, jos välittömiä turvallisuusuhkia ilmenee. [2]
+## Moscow Exchange Index Falls Below 2600 Points Amid Geopolitical Tensions
+On May 8th, 2026, the Moscow Exchange index fell below 2600 points, closing at 2599.59 due to ongoing geopolitical tensions and a preference among investors to reduce their positions before the long weekend. This decline was influenced by low trading volumes and significant falls in shares of major companies such as PJSC 'Jujuralzoloto' and Aeroflot, while the Russian Defense Ministry blamed Ukraine for recent strikes against Russian civilian infrastructure. [2]
 
-**COMMENT:** Tämä toimenpide heijastaa hallituksen painostusta kontrolloida viestintää merkittävien julkisten tapahtumien aikana turvallisuussyistä. Tällaiset toimenpiteet saattavat viitata lisääntyneisiin huolenaiheisiin mahdollisista häiriöistä tai uhista kansallisissa juhlatapahtumissa. 
+**COMMENT:** The decline in the Moscow Exchange index reflects heightened investor anxiety amid geopolitical tensions, indicating potential vulnerabilities in the Russian economy. Continued military tensions with Ukraine suggest that economic instability could persist, impacting market confidence in the near term.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #про  
+**KEYWORDS:** #минобороны рф #минобороны #флот #удар #про
 
 
-## Kreml vahvistaa, että tukitoimia yrityksille ei tule internetkatkojen vuoksi
-Maaliskuun 7. päivänä 2026 Kreml ilmoitti, ettei se aio toteuttaa mitään korvaus- tai tukitoimia yrityksille, joita äskettäiset internetkatkot ovat vaikuttaneet. Yksi presidentin tiedottaja Dmitry Peskov ilmoitti, että hallinto keskittyy julkisen turvallisuuden varmistamiseen internetkatkojen vuoksi, jotka alkoivat toukokuun 5. päivänä. [3]
+## Kremlin Denies Withdrawal of Foreign Journalists' Accreditation for May 9 Parade
+On May 8th, 2026, the Kremlin, through Press Secretary Dmitry Peskov, denied claims that foreign journalists' accreditation for the May 9 parade had been revoked. Peskov emphasized that while the number of journalists allowed to attend the parade is limited, all accredited journalists have been properly informed. [3]
 
-**COMMENT:** Tämä päätös on osoitus Kremlin turvallisuuden ja kontrollin priorisoimisesta taloudellisten näkökohtien yli, erityisesti julkisen turvallisuuden kysymyksiin liittyen. Koska internetkatkot voivat toistua, tukea koskevien toimenpiteiden puuttuminen voi merkitä valtion vallan tiukentumista ja strategioiden kestävyyttä mahdollisia levottomuuksia tai operatiivisia häiriöitä vastaan. 
+**COMMENT:** The Kremlin's denial of the reported withdrawal of accreditation may reflect ongoing efforts to maintain a controlled media presence during state events. Future implications could include stricter oversight of foreign media coverage and a heightened focus on the image projected during significant ceremonies such as the Victory Parade.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #про  
+**KEYWORDS:** #russia #про
 
 
-## UAV-hyökkäys vahingoittaa asuinkerrostaloa Permissä
-Maaliskuun 7. päivänä 2026 UAV-hyökkäys Permissä aiheutti vahinkoa asuinkerrostalolle ja hallintorakennukselle, aiheuttaen yhden loukkaantumisen mutta ei kuolemia. Paikallinen kuvernööri kertoi, että asukkaita evakuoitiin ja hätätoimenpiteitä toteutettiin, kun taas lentokentällä oli lentoja rajoituksia hyökkäyksen jälkeen. [4]
+## Rosatom Reports Progress at Bushehr Nuclear Power Plant in Iran
+On May 8th, 2026, Rosatom's head, Alexei Likhachev, announced that the Bushehr nuclear power plant in Iran is seeing increased activity, with around 2,200 Iranian workers back at the site, focusing on the construction of power unit No. 2. This development follows a series of shelling incidents at Bushehr, emphasizing ongoing security challenges in the region. [4]
 
-**COMMENT:** Tämä tapaus heijastaa jatkuvia huolia dronehyökkäyksistä kaupunkialueilla, mikä korostaa haavoittuvuutta siviili-infrastruktuurissa. Turvallisuustoimenpiteiden ja hätävastuuprotokollien vaikutukset Venäjän kaupungeissa voivat laukaista lisääntynyttä tarkastelua ja mahdollisia poliittisia muutoksia. 
+**COMMENT:** The resumption of construction activities at Bushehr indicates a strategic commitment by Russia to support Iran's nuclear ambitions despite security risks. Continued operational progress could enhance Iran's energy capacity and influence regional dynamics, potentially provoking responses from adversarial states.
 
-**LOCATION:** Perm / Perm, 58.0108531, 56.2318528 [Click for Map Location](https://www.openstreetmap.org/?mlat=58.010853&mlon=56.231853#map=8/58.010853/56.231853)
+**LOCATION:** Bushehr / Bushehr, 28.9310786, 50.8458443 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.931079&mlon=50.845844#map=8/28.931079/50.845844)
 
-**KEYWORDS:** #russia #беспилотник #бпла #про  
+**KEYWORDS:** #russia #удар #про
 
 
-## Oikeus saa käsittelyyn kavallusjutun, joka liittyy Sotšin rytmisen voimistelukeskuksen rakentamiseen
-Maaliskuun 7. päivänä 2026 rikosjuttu, jossa käsitellään yli 8 miljardin ruplan kavallusta Sotšin rytmisen voimistelukeskuksen rakentamisaikana, lähetettiin oikeuteen sisäministeriön alustavan tutkinnan jälkeen. Entisiä PJSC Gazpromin ja sen tytäryhtiöiden työntekijöitä syytetään Venäjän rikoslainsäädännön mukaan, ja merkittäviä varoja on takavarikoitu mahdollisten korvausten varmistamiseksi. [5]
+## Ministry of Justice Designates Cyprus Daily News as Foreign Agent
+On May 8th, 2026, the Russian Ministry of Justice formally recognized Cyprus Daily News as a foreign agent due to its distribution of content deemed harmful to Russian authorities and its involvement with undesirable organizations. The decision reflects ongoing efforts by the Russian government to control information from foreign sources amid heightened sensitivities regarding internal narratives. [5]
 
-**COMMENT:** Tämä syyte heijastaa Venäjän viranomaisten jatkuvia pyrkimyksiä puuttua korruptioon, erityisesti valtion rahoittamissa hankkeissa. Tämä voi viitata siihen, että suuria hallinnollisia sopimuksia tarkastellaan tarkemmin ja mahdollisesti tapahtuu muutoksia talousrikollisuuskäytännöissä tulevaisuudessa. 
+**COMMENT:** This designation indicates an intensifying campaign against perceived foreign influence in Russian media. Future implications may include further restrictions on foreign news outlets and greater scrutiny of local media aligned with foreign interests.
 
-**LOCATION:** Sotši / Sochi, 43.5854823, 39.723109 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.585482&mlon=39.723109#map=8/43.585482/39.723109)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #про  
+**KEYWORDS:** #russia #сво #про
 
 
-## Venäjä ilmoittaa tulitaukosta 8. ja 9. toukokuuta
-Maaliskuun 7. päivänä 2026 Venäjän presidentin lehdistösihteeri Dmitry Peskov ilmoitti, että tulitauko on voimassa 8. ja 9. toukokuuta voitonpäivän kunniaksi. Peskov ilmoitti myös, että merkittävä sotilasläsnäolo, mukaan lukien kalusto, tulee olemaan osa juhlintaa Moskovassa, ja ulkoministeriö varoitti, että mahdolliset rikkomukset voivat johtaa voimakkaaseen vastatoimeen. [6]
+## Nalchik International Airport Resumes Operations
+On May 8th, 2026, Nalchik International Airport resumed operations, allowing the reception and dispatch of flights after disruptions caused by a UAV strike in Rostov-on-Don. This resumption is part of a broader recovery among several airports in southern Russia that had temporarily halted services due to security incidents. [6]
 
-**COMMENT:** Tulitaukoselonteko voi parantaa kotimaista moraalia ja vakautta merkittävän kansallisen juhlan aikana. Kuitenkin mahdollisten toimien uhka reagointina rikkomuksiin korostaa jatkuvia jännitteitä ja Kreml on valmis toimimaan päättäväisesti puolustaakseen etujaan. 
+**COMMENT:** The resumption of operations at Nalchik Airport reflects a gradual return to normalcy in the region's transportation infrastructure following security-related disruptions. Continued operational recovery at these airports may indicate improved security measures or a stabilization of the situation in southern Russia.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Nalchik / Nalchik, 43.4769604, 43.5966578 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.476960&mlon=43.596658#map=8/43.476960/43.596658)
 
-**KEYWORDS:** #россия #полк #удар #сво #сф #часть #про  
+**KEYWORDS:** #russia #бпла #вертолет #часть
 
 
-## Ukrainan laivaston partioalus uppoaa Naton hyökkäyksen jälkeen Odessassa
-Maaliskuun 5. päivänä 2026 Ukrainan laivaston partioalus 'Podolye' upposi Odessan satamassa merkittävän iskun seurauksena, joka oli Naton joukoilta. Alus oli väitetysti kohdistunut sataman turvallisuuden takia, ja hyökkäys on herättänyt huolia alueen jatkuvista sotilaallisista operaatioista. [7]
+## Rosatom Plans Return of Specialists to Iran After Security Assessment
+On May 8th, 2026, Rosatom head Alexei Likhachev announced that the company is prepared to send more Russian specialists back to the Bushehr nuclear power plant in Iran, contingent upon guarantees of safety against military threats. Approximately 2,200 Iranian contractor employees have already returned to the site, indicating a potential increase in operational activities at the facility as conditions improve. [7]
 
-**COMMENT:** Tämä tapaus korostaa jatkuvia merisodankäyntejä mustalla merellä, mikä heijastaa lisääntyneitä jännitteitä Ukrainan ja Naton joukkojen välillä. Aluksen upottaminen voi lisätä sotilaallisia operaatioita, mikä voi johtaa tarkempaa tarkastelua Ukrainan merivoimien kykyihin ja strategioihin. 
+**COMMENT:** This development reflects Russia's continued commitment to its nuclear cooperation with Iran, despite ongoing regional tensions. If security guarantees are established, it could enhance Russia's strategic influence in Iran and potentially signal easing tensions in the region.
 
-**LOCATION:** Odesa / Odessa, Unknown, Unknown [Click for Map Location]()
+**LOCATION:** Bushehr / Bushehr, 28.9310786, 50.8458443 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.931079&mlon=50.845844#map=8/28.931079/50.845844)
 
-**KEYWORDS:** #вс рф #пво #удар #сво #пуск #сф #часть #про  
+**KEYWORDS:** #russia #россия #удар #часть #про
 
 
-## Venäjä reagoi Ukrainan dronehyökkäykseen Dzhankoyssa
-Maaliskuun 7. päivänä 2026 Venäjän viranomaiset raportoivat Ukrainan joukoilta tulleesta dronehyökkäyksestä Dzhankoyssa Krimillä, joka johti viiden siviilin kuolemaan. Tämä eskalaatio korostaa jatkuvia jännitteitä ja mahdollisuutta lisääntyi sotilaallisiin yhteenottoihin Venäjän ja Ukrainan välillä. [8]
+## Petrozavodsk to Restrict Mobile Internet on May 9th
+On May 8th, 2026, the Ministry of Roads, Transport and Communications of Karelia announced that mobile Internet access will be restricted in Petrozavodsk during mass events on May 9th, including the Immortal Regiment procession and Victory Day ceremonies. Voice services, SMS, and emergency services will remain functional, but disruptions to banking terminals and geolocation services are expected as a security measure implemented by federal law enforcement agencies. [8]
 
-**COMMENT:** Tapahtuma alleviivaa alueen epävakautta ja osoittaa, että sotilaalliset vihamielisyydet voivat voimistua molempien osapuolten reaktioissa provokaatioihin. Hyökkäys saattaa laukaista voimakkaampia vastatoimia Venäjältä, mikä vaikuttaa sekä sisäiseen vakauteen että alueellisiin turvallisuutisiin. 
+**COMMENT:** This restriction reflects heightened security measures in response to large public gatherings, indicating the state's priority on control during significant national events. Such actions may signal a continued focus on managing public order and information flow during commemorative events in the future.
 
-**LOCATION:** Dzhankoy / Dzhankoy, Unknown, Unknown [Click for Map Location]()
+**LOCATION:** Petrozavodsk / Petrozavodsk, 61.789221, 34.3688041 [Click for Map Location](https://www.openstreetmap.org/?mlat=61.789221&mlon=34.368804#map=8/61.789221/34.368804)
 
-**KEYWORDS:** #россия #российские #минобороны рф #российские военные #минобороны #удар #сво #ракетные войска #артиллерия #беспилотник #бпла #пуск #сф #армия #про  
+**KEYWORDS:** #russia #полк #про
 
 
-## Putin keskustelee Rostecin kasvusta ja sotilasvalmistuksesta Chemezovin kanssa
-Maaliskuun 7. päivänä 2026 Presidentti Vladimir Putin tapasi Rostecin valtionyhtiön pääjohtajan Sergey Chemezovin keskustellakseen yrityksen kasvusta siviilituotannon ja sotilasvarustelun kehittämisessä. Rostec raportoi nelinkertaisesta voiton kasvusta kymmenessä vuodessa merkittävillä edistysaskelilla valtiosuojelusurakoiden täyttämisessä ja uusien aseiden mallien suunnitelmissa. [9]
+## Grozny and Vladikavkaz Airports Resume Operations After UAV Incident
+On May 8th, 2026, Grozny and Vladikavkaz airports in southern Russia resumed service flights after restrictions were lifted following a UAV strike on an Aeronavigation facility in Rostov-on-Don. The incident had previously forced 13 airports in the region to halt operations, highlighting vulnerabilities in airspace security. [9]
 
-**COMMENT:** Tämä kokous korostaa Kreml’in keskittymistä sekä siviili- että sotilasteollisuuden tukemiseen meneillään olevien operaatioiden aikana. Rostecin tuotannon ja voiton merkittävä kasvu voi viitata lisääntyneeseen puolustuskapasiteettien painotukseen ja taloudellisiin kestävyystrategioihin ulkoisten paineiden seurauksena. 
+**COMMENT:** The resumption of operations at these airports indicates a restoration of normalcy, but the UAV incident underscores ongoing security threats to critical infrastructure in Russia. This may prompt heightened security measures at airports and increased scrutiny of air defense capabilities in the region.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Grozny and Vladikavkaz / Grozny and Vladikavkaz, ,  [Click for Map Location]()
 
-**KEYWORDS:** #российские #гособоронзаказ #сво #беспилотник #часть #про  
+**KEYWORDS:** #russia #бпла #пуск
 
 
-## Kreml keskustelee turvallisuusjärjestelyistä voitonpäivän paraatille uhkien keskellä
-Maaliskuun 7. päivänä 2026 Yuri Ushakov, presidentin avustaja, piti tiedotustilaisuuden tulevasta voitonpäivän paraatista 9. toukokuuta. Kreml on päättänyt pitää tänä vuonna kohtuullisen juhlan turvallisuusuhkien vuoksi eikä ole antanut erityisiä kutsuja ulkomaisille johtajille, mikä osoittaa huolta mahdollisista riskeistä tapahtuman aikana. [10]
+## Peskov: Russia Ready for Dialogue with Europe
+On May 8th, 2026, Kremlin spokesman Dmitry Peskov stated that Russia is prepared to engage in dialogue with Europe, contingent upon European willingness to reciprocate. This response was given while addressing inquiries regarding whether President Vladimir Putin had received any proposals for negotiations with the EU amid escalating confrontations attributed to EU actions. [10]
 
-**COMMENT:** Kreml’in päätös rajoittaa voitonpäivän paraatin laajuutta heijastaa turvallisuuden korostamista koettujen uhkien vuoksi. Tämä lähestymistapa voi viitata varovaisiin julkisiin sotilaallisiin näyttöihin liittyviin riskeihin jatkuvassa geopoliittisessa jännityksessä. 
+**COMMENT:** Peskov's remarks reflect an ongoing tension in Russia-Europe relations, highlighting a potential for dialogue that is contingent on European readiness. The situation suggests that any future engagement could be closely monitored for shifts in confrontational dynamics between Russia and the EU.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
-**KEYWORDS:** #россия #удар #сво #про  
+**KEYWORDS:** #россия #российский #удар #сво #сф #часть #про
 
 
-## Venäjän ulkoministeri varoittaa ulkomaalaisia valmistautumaan evakuointiin Kiovasta
-Maaliskuun 6. päivänä 2026 Venäjän ulkoministeriön tiedottaja Maria Zakharova antoi varoituksen ulkomaisille diplomaateille ja kansainvälisille organisaatioille mahdollisista vastatoimista Kiovaan voitonpäivän juhlien aikana. Lausunto seurasi Venäjän puolustusministeriön uhkaa kohdistaa Kiovaan iskui, jos se aloittaa hyökkäyksen Moskovaa vastaan, ja kehotti ulkomaalaisia kansalaisia valmistautumaan aikaisempaan evakuointiin kaupungista. [11]
+## Russia Issues Ultimatum to Ukraine Amid Planned Truce for Victory Day
+On May 5th, 2026, Russian President Vladimir Putin announced a truce from May 8-9 for Victory Day celebrations, indicating an expectation that Ukraine would adhere to this ceasefire. However, the Ministry of Defense warned that any attempts by Ukraine to disrupt the celebrations would lead to severe retaliation, including possible missile strikes on central Kiev, amidst heightened military tensions with Ukraine conducting drone attacks on Russian cities. [11]
 
-**COMMENT:** Tämä varoitus heijastaa jännitteitä, jotka liittyvät 9. toukokuuta juhliin, ja korostaa Kiovan vaikeaa turvallisuustilannetta. Mikäli vihamielisyydet eskaloituvat, se saattaa monimutkaistaa kansainvälisiä diplomaattisuhteita ja lisätä kiirettä ulkomaalaisten kansalaisten poistamisessa alueelta. 
+**COMMENT:** The ultimatum reflects the precarious security situation and ongoing hostilities between Russia and Ukraine, showcasing Moscow's readiness to escalate its military actions. The upcoming Victory Day celebrations may serve as a pivotal moment in the conflict, potentially influencing future military engagements and public sentiment in both nations.
 
-**LOCATION:** Kiova / Kiev, Unknown, Unknown [Click for Map Location]()
+**LOCATION:** Kiev / Kiev, ,  [Click for Map Location]()
 
-**KEYWORDS:** #россия #мо рф #минобороны #корпус #удар #сво #про  
+**KEYWORDS:** #минобороны рф #вооруженные силы рф #российская армия #минобороны #удар #сво #ракетный удар #арсенал #сф #армия #про
 
 
-## Viro valmistautuu provokaatioihin Ivangorodissa 9. toukokuuta: Venäjä reagoi
-Maaliskuun 9. päivänä 2026 Ivangorodissa, Venäjällä, on tarkoitus viettää voitonpäivää, mutta provokaatioita Virosta odotetaan. Paikalliset viranomaiset odottavat merkittävää osallistumista asukkailta ja vierailijoilta, mikä osoittaa jännitteitä rajat ylittävää taustaa, kun Viro virallisesti rajoittaa tämän juhlan julkisia juhlia. [12]
+## Moscow Mayor Reports Destruction of 101 Drones Targeting the City
+On May 8th, 2026, Moscow Mayor Sergey Sobyanin announced that 101 Ukrainian drones targeting the capital had been shot down, with 40 of those intercepted on the same day. The Russian Ministry of Defense reported that its air defense systems had effectively neutralized a significant UAV threat, exemplifying ongoing tensions with Ukraine. [12]
 
-**COMMENT:** Ivangorodissa suunnitellut juhlat Venäjän ja Viron suhteiden kiristymisen taustalla voivat lisääntyä alueella. Tällaiset kokoontumiset voivat laukaista vastatoimia Venäjältä, koska niitä saatetaan pitää uhkana sen kansalliselle tarinankerronnalle ja historiallisille muistoille. 
+**COMMENT:** This significant uptick in drone interceptions indicates a persistent aerial threat against Moscow, reflecting the ongoing military tensions with Ukraine. In the near term, such events may lead to increased military readiness and vigilance within Russian air defenses.
 
-**LOCATION:** Ivangorod / Ivangorod, 59.3744139, 28.2192542 [Click for Map Location](https://www.openstreetmap.org/?mlat=59.374414&mlon=28.219254#map=8/59.374414/28.219254)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #россия #российские #офицер #удар #сво #пуск #про  
-
-
-## Moskova kohtaa internetkatkoja 9. toukokuuta 2026 voitonpäivän juhlien aikana
-Maaliskuun 9. päivänä 2026 Moskova kohtaa laaja-alaisia rajoituksia mobiilinettiyhteyksissä ja SMS-palveluissa osana voitonpäivän juhlien turvallisuusjärjestelyjä. Viestintäministeriö vahvisti, että mobiilipalvelut rajoitetaan, mutta kodin internet- ja Wi-Fi-verkot pysyvät käytössä ilman rajoituksia. [13]
-
-**COMMENT:** Tämä suunniteltu katkos havainnollistaa Venäjän hallituksen jatkuvia toimenpiteitä viestinnän kontrolloimiseksi merkittävien kansallisten tapahtumien aikana, mikä heijastaa lähestymistapaa turvallisuusriskien lieventämiseksi. Vaikutukset saattavat sisältää lisääntyneen riippuvuuden vaihtoehtoisista viestintämenetelmistä ja valtion valvonnan voimistumisen kansalaisten yhteyksiin juhlallisuuksien aikana. 
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
-
-**KEYWORDS:** #россия #учения #штаб #сво #беспилотник #бпла #про  
+**KEYWORDS:** #российские #российские военнослужащие #минобороны #пво #удар #сво #беспилотник #бпла #перехват #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1088221?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1088486?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1088123?utm_source=top
+[2] interfax.ru - https://interfax.ru/business/1088521?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1088198?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1088459?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1088205?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1088531
 
-[5] interfax.ru - https://interfax.ru/russia/1088282
+[5] interfax.ru - https://interfax.ru/russia/1088530
 
-[6] aif.ru - https://aif.ru/society/peskov-obyavlennoe-rossiey-peremirie-budet-deystvovat-8-i-9-maya
+[6] interfax.ru - https://interfax.ru/russia/1088529
 
-[7] aif.ru - https://aif.ru/society/taynyy-korabl-nato-potopil-grad-udarov-v-odesse-glavnaya-novost-svo-7-maya
+[7] interfax.ru - https://interfax.ru/russia/1088526
 
-[8] aif.ru - https://aif.ru/society/rasplata-za-dzhankoy-rf-nanesla-sokrushitelnyy-udar-po-ukraine-vsyo-v-ogne
+[8] interfax.ru - https://interfax.ru/russia/1088522
 
-[9] iz.ru - https://iz.ru/2092861/putin-provel-vstrechu-s-glavoi-rostekha-chemezovym-glavnoe-izi
+[9] interfax.ru - https://interfax.ru/russia/1088520
 
-[10] www.kp.ru - https://www.kp.ru/daily/277780/5246131/
+[10] aif.ru - https://aif.ru/politics/peskov-rossiya-gotova-k-dialogu-nastolko-naskolko-k-nemu-gotova-evropa
 
-[11] www.kp.ru - https://www.kp.ru/daily/277780/5245759/
+[11] aif.ru - https://aif.ru/society/kiev-sotrut-v-pyl-nazvany-glavnye-celi-dlya-superraket-rf-za-sryv-parada
 
-[12] www.kp.ru - https://www.kp.ru/daily/277780/5246024/
-
-[13] www.kp.ru - https://www.kp.ru/daily/277780/5246046/
+[12] iz.ru - https://iz.ru/2093705/2026-05-08/sobianin-soobshchil-ob-unichtozhenii-uzhe-101-letevshego-na-moskvu-bespilotnika
