@@ -1,150 +1,250 @@
-# Report Date: 2026-05-08
+# Raportti: 9. toukokuuta 2026
 
-## Summary
-Raportointijaksolla on tapahtunut useita merkittäviä kehityksiä Venäjällä ja sen lähialueilla, jotka heijastavat jatkuvia geopoliittisia jännitteitä ja taloudellisia haasteita. Lentokieltojen purkaminen eteläisestä Venäjästä sekä lentokenttien toiminnan palauttaminen viittaavat mahdollisiin turvallisuustilanteen parannuksiin, mutta samalla Moskovan pörssin indeksin lasku ja dronehyökkäysten torjunta osoittavat, että jännitteet Ukrainan kanssa jatkuvat. Tähän liittyvät kehitykset voivat vaikuttaa strategisiin päätöksiin sekä taloudellisiin olosuhteisiin lähitulevaisuudessa, mutta tilanteen vakaus on edelleen epävarmaa.
+## Yhteenveto
+Raportointijaksolla Venäjän ja Ukrainan välinen konfliktille tyypilliset jännitteet jatkuvat. Vaikka kolmen päivän tulitauko on voimaan tullut, uusia rauhansopimuksia ei ole saavutettu ja väkivaltaisuudet laajenevat edelleen, mukaan lukien ukrainalaisten dronehyökkäykset Venäjän alueelle. Venäjä pyrkii myös vahvistamaan vaihto- ja energiapoliittisia suhteitaan sekä lisäämään vaikutusvaltaansa Kaakkois-Aasiassa. Asiat voivat kehittyä edelleen, mikäli Ukrainan presidentti Zelensky reagoi myönteisesti Venäjän tarjouksiin neuvotteluista.
 
-## Rosaviatsia Lifts Ban on Flights to Southern Russia
-On May 8th, 2026, Rosaviatsiya officially lifted a ban on flights to southern Russia, which had previously suspended operations until May 12. Airlines are now submitting updated flight plans to operate at various southern airports, although some restrictions may still apply due to airspace conditions. [1]
+## Ushakov vahvistaa, ettei uusia tulitaukosopimuksia saavutettu Voiton päivänä
+Maaliskuun 9. päivänä 2026 presidentin avustaja Yuri Ushakov ilmoitti, että Voiton päivänä ei oltu saavutettu uusia tulitaukosopimuksia meneillään olevassa konfliktissa Ukrainan kanssa. Ushakovin ja tiedottaja Dmitri Peskovin mukaan voimassa olevaa tulitaukoa, joka kestää 9.–11. toukokuuta, ei jatketa. [1]
 
-**COMMENT:** The lifting of the flight ban indicates a potential easing of previously implemented restrictions, possibly reflecting improvements in regional security or operational conditions. This development may facilitate increased connectivity and economic activity in southern Russia, impacting local and regional stability dynamics.
+**COMMENT:** Vahvistus rajoitetusta tulitauosta viittaa jatkuviin jännitteisiin Venäjän ja Ukrainan konfliktissa, eikä uusia diplomaattisia läpimurtoja ole tapahtunut. Tämä tilanne voi johtaa jatkuviin vihamielisyyksiin 11. toukokuuta jälkeen, sillä keskusteluja jatkamisesta ei ole käyty.
 
-**LOCATION:** Southern Russia / Southern Russia, ,  [Click for Map Location]()
-
-**KEYWORDS:** #russia #бпла #про
-
-
-## Moscow Exchange Index Falls Below 2600 Points Amid Geopolitical Tensions
-On May 8th, 2026, the Moscow Exchange index fell below 2600 points, closing at 2599.59 due to ongoing geopolitical tensions and a preference among investors to reduce their positions before the long weekend. This decline was influenced by low trading volumes and significant falls in shares of major companies such as PJSC 'Jujuralzoloto' and Aeroflot, while the Russian Defense Ministry blamed Ukraine for recent strikes against Russian civilian infrastructure. [2]
-
-**COMMENT:** The decline in the Moscow Exchange index reflects heightened investor anxiety amid geopolitical tensions, indicating potential vulnerabilities in the Russian economy. Continued military tensions with Ukraine suggest that economic instability could persist, impacting market confidence in the near term.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
-
-**KEYWORDS:** #минобороны рф #минобороны #флот #удар #про
-
-
-## Kremlin Denies Withdrawal of Foreign Journalists' Accreditation for May 9 Parade
-On May 8th, 2026, the Kremlin, through Press Secretary Dmitry Peskov, denied claims that foreign journalists' accreditation for the May 9 parade had been revoked. Peskov emphasized that while the number of journalists allowed to attend the parade is limited, all accredited journalists have been properly informed. [3]
-
-**COMMENT:** The Kremlin's denial of the reported withdrawal of accreditation may reflect ongoing efforts to maintain a controlled media presence during state events. Future implications could include stricter oversight of foreign media coverage and a heightened focus on the image projected during significant ceremonies such as the Victory Parade.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
 **KEYWORDS:** #russia #про
 
 
-## Rosatom Reports Progress at Bushehr Nuclear Power Plant in Iran
-On May 8th, 2026, Rosatom's head, Alexei Likhachev, announced that the Bushehr nuclear power plant in Iran is seeing increased activity, with around 2,200 Iranian workers back at the site, focusing on the construction of power unit No. 2. This development follows a series of shelling incidents at Bushehr, emphasizing ongoing security challenges in the region. [4]
+## Venäjän puolustusministeriö raportoi tulitaukoon liittyvistä rikkomuksista Ukrainalta
+Maaliskuun 9. päivänä 2026 Venäjän puolustusministeriö raportoi, että Ukraina on rikkonut tulitaukoa hyökkäämällä siviilikohteisiin ja Venäjän sotilasasemille useilla alueilla, mukaan lukien Krim ja Adygea. Ministeriö ilmoitti, että Ukrainan joukot ovat suorittaneet merkittävän määrän pommituksia ja dronehyökkäyksiä huolimatta tulitauosta. [2]
 
-**COMMENT:** The resumption of construction activities at Bushehr indicates a strategic commitment by Russia to support Iran's nuclear ambitions despite security risks. Continued operational progress could enhance Iran's energy capacity and influence regional dynamics, potentially provoking responses from adversarial states.
+**COMMENT:** Tämä tilanne heijastaa jatkuvia vihamielisyyksiä ja korostaa nykyisen tulitaukosopimuksen haurasta luonteenpiirrettä. Jatkuvat rikkomukset voivat johtaa Venäjän voimakkaampiin sotilaallisiin vastatoimiin ja suhteiden jatkumiseen heikentymiseen maiden välillä.
 
-**LOCATION:** Bushehr / Bushehr, 28.9310786, 50.8458443 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.931079&mlon=50.845844#map=8/28.931079/50.845844)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #russia #удар #про
-
-
-## Ministry of Justice Designates Cyprus Daily News as Foreign Agent
-On May 8th, 2026, the Russian Ministry of Justice formally recognized Cyprus Daily News as a foreign agent due to its distribution of content deemed harmful to Russian authorities and its involvement with undesirable organizations. The decision reflects ongoing efforts by the Russian government to control information from foreign sources amid heightened sensitivities regarding internal narratives. [5]
-
-**COMMENT:** This designation indicates an intensifying campaign against perceived foreign influence in Russian media. Future implications may include further restrictions on foreign news outlets and greater scrutiny of local media aligned with foreign interests.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
-
-**KEYWORDS:** #russia #сво #про
+**KEYWORDS:** #russia #минобороны россии #минобороны #министерство обороны #удар #беспилотник #пуск #про
 
 
-## Nalchik International Airport Resumes Operations
-On May 8th, 2026, Nalchik International Airport resumed operations, allowing the reception and dispatch of flights after disruptions caused by a UAV strike in Rostov-on-Don. This resumption is part of a broader recovery among several airports in southern Russia that had temporarily halted services due to security incidents. [6]
+## Rosatomin toimitusjohtaja vahvistaa, ettei yhteistyötä Siemensin kanssa tule
+Maaliskuun 9. päivänä 2026 Rosatomin toimitusjohtaja Alexei Likhachev ilmoitti, että valtionyhtiö ei aio tehdä yhteistyötä Siemensin kanssa, ja että he ovat hankkineet vaihtoehtoja sekä kotimaisista että ystävällisistä maista. Tämä päätös tulee Saksan ydinvoimasta vetäytymisen kritiikin keskellä ja on osa Rosatomin strategiaa keskittyä kumppanuuksiin, jotka tukevat sen toimintatavoitteita. [3]
 
-**COMMENT:** The resumption of operations at Nalchik Airport reflects a gradual return to normalcy in the region's transportation infrastructure following security-related disruptions. Continued operational recovery at these airports may indicate improved security measures or a stabilization of the situation in southern Russia.
+**COMMENT:** Siemensin kanssa tehtyjen suhteiden katkaiseminen kuvastaa Rosatomin pyrkimyksiä monipuolistaa kumppanuuksia geopoliittisten paineiden myötä. Tämä voi vahvistaa Venäjän suhteita muihin valtioihin ydinenergiaprojekteissa samalla kun se mahdollisesti vaarantaa olemassa olevat yhteistyöt lännen yritysten kanssa.
 
-**LOCATION:** Nalchik / Nalchik, 43.4769604, 43.5966578 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.476960&mlon=43.596658#map=8/43.476960/43.596658)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #бпла #вертолет #часть
-
-
-## Rosatom Plans Return of Specialists to Iran After Security Assessment
-On May 8th, 2026, Rosatom head Alexei Likhachev announced that the company is prepared to send more Russian specialists back to the Bushehr nuclear power plant in Iran, contingent upon guarantees of safety against military threats. Approximately 2,200 Iranian contractor employees have already returned to the site, indicating a potential increase in operational activities at the facility as conditions improve. [7]
-
-**COMMENT:** This development reflects Russia's continued commitment to its nuclear cooperation with Iran, despite ongoing regional tensions. If security guarantees are established, it could enhance Russia's strategic influence in Iran and potentially signal easing tensions in the region.
-
-**LOCATION:** Bushehr / Bushehr, 28.9310786, 50.8458443 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.931079&mlon=50.845844#map=8/28.931079/50.845844)
-
-**KEYWORDS:** #russia #россия #удар #часть #про
+**KEYWORDS:** #russia #россия #сво #про
 
 
-## Petrozavodsk to Restrict Mobile Internet on May 9th
-On May 8th, 2026, the Ministry of Roads, Transport and Communications of Karelia announced that mobile Internet access will be restricted in Petrozavodsk during mass events on May 9th, including the Immortal Regiment procession and Victory Day ceremonies. Voice services, SMS, and emergency services will remain functional, but disruptions to banking terminals and geolocation services are expected as a security measure implemented by federal law enforcement agencies. [8]
+## Kolme haavoittunutta dronehyökkäyksissä Belgorodin alueella
+Maaliskuun 9. päivänä 2026 kolme siviiliä haavoittui Ukrainan joukkojen dronehyökkäyksissä Belgorodin alueella. Tapahtumat sisälsivät sirpalehaavoja erilaisista hyökkäyksistä, ja ne korostavat alueen jännitteitä ja riskejä siviilielämälle. [4]
 
-**COMMENT:** This restriction reflects heightened security measures in response to large public gatherings, indicating the state's priority on control during significant national events. Such actions may signal a continued focus on managing public order and information flow during commemorative events in the future.
+**COMMENT:** Dronehyökkäykset heijastavat kohonnutta sotilastoimintaa ja mahdollisia haavoittuvaisuuksia Venäjän rajaseuduilla. Tämä tapahtuma saattaa johtaa turvallisuustoimien tarkistamiseen Belgorodin rajalla, kun jännitteet Ukrainan kanssa jatkuvat.
 
-**LOCATION:** Petrozavodsk / Petrozavodsk, 61.789221, 34.3688041 [Click for Map Location](https://www.openstreetmap.org/?mlat=61.789221&mlon=34.368804#map=8/61.789221/34.368804)
+**LOCATION:** Belgorodin alue / Belgorod Oblast, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762) (Белгородская область)
 
-**KEYWORDS:** #russia #полк #про
-
-
-## Grozny and Vladikavkaz Airports Resume Operations After UAV Incident
-On May 8th, 2026, Grozny and Vladikavkaz airports in southern Russia resumed service flights after restrictions were lifted following a UAV strike on an Aeronavigation facility in Rostov-on-Don. The incident had previously forced 13 airports in the region to halt operations, highlighting vulnerabilities in airspace security. [9]
-
-**COMMENT:** The resumption of operations at these airports indicates a restoration of normalcy, but the UAV incident underscores ongoing security threats to critical infrastructure in Russia. This may prompt heightened security measures at airports and increased scrutiny of air defense capabilities in the region.
-
-**LOCATION:** Grozny and Vladikavkaz / Grozny and Vladikavkaz, ,  [Click for Map Location]()
-
-**KEYWORDS:** #russia #бпла #пуск
+**KEYWORDS:** #russia #удар #сво #беспилотник #про
 
 
-## Peskov: Russia Ready for Dialogue with Europe
-On May 8th, 2026, Kremlin spokesman Dmitry Peskov stated that Russia is prepared to engage in dialogue with Europe, contingent upon European willingness to reciprocate. This response was given while addressing inquiries regarding whether President Vladimir Putin had received any proposals for negotiations with the EU amid escalating confrontations attributed to EU actions. [10]
+## Putin tiivistää tulokset lehdistötilaisuudessa 9. toukokuuta
+Maaliskuun 9. päivänä 2026 Venäjän presidentti Vladimir Putin pitää lehdistötilaisuuden yhteenvetääkseen aikataulunsa tulokset sotilasparaadin jälkeen Moskovassa ja vieraiden tapaamiset, jotka juhlistavat Voiton päivän vuosipäivää. Tämä tapahtuma korostaa sota-ajan muistojuhlien jatkuvaa merkitystä Venäjän kansallisessa identiteetissä ja hallinnossa. [5]
 
-**COMMENT:** Peskov's remarks reflect an ongoing tension in Russia-Europe relations, highlighting a potential for dialogue that is contingent on European readiness. The situation suggests that any future engagement could be closely monitored for shifts in confrontational dynamics between Russia and the EU.
+**COMMENT:** Putinin lehdistötilaisuus voi toimia alustana vahvistaa valtiollisia narratiiveja ja ulkopolitiikan asenteita, erityisesti meneillään olevien sotilaallisten operaatioiden kontekstissa. Tarkkailijoiden tulee seurata mahdollisia retorisia muutoksia, jotka saattavat viitata muutoksiin kotimaan tai turvallisuuspolitiikan asenteissa.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #российский #удар #сво #сф #часть #про
-
-
-## Russia Issues Ultimatum to Ukraine Amid Planned Truce for Victory Day
-On May 5th, 2026, Russian President Vladimir Putin announced a truce from May 8-9 for Victory Day celebrations, indicating an expectation that Ukraine would adhere to this ceasefire. However, the Ministry of Defense warned that any attempts by Ukraine to disrupt the celebrations would lead to severe retaliation, including possible missile strikes on central Kiev, amidst heightened military tensions with Ukraine conducting drone attacks on Russian cities. [11]
-
-**COMMENT:** The ultimatum reflects the precarious security situation and ongoing hostilities between Russia and Ukraine, showcasing Moscow's readiness to escalate its military actions. The upcoming Victory Day celebrations may serve as a pivotal moment in the conflict, potentially influencing future military engagements and public sentiment in both nations.
-
-**LOCATION:** Kiev / Kiev, ,  [Click for Map Location]()
-
-**KEYWORDS:** #минобороны рф #вооруженные силы рф #российская армия #минобороны #удар #сво #ракетный удар #арсенал #сф #армия #про
+**KEYWORDS:** #russia #про
 
 
-## Moscow Mayor Reports Destruction of 101 Drones Targeting the City
-On May 8th, 2026, Moscow Mayor Sergey Sobyanin announced that 101 Ukrainian drones targeting the capital had been shot down, with 40 of those intercepted on the same day. The Russian Ministry of Defense reported that its air defense systems had effectively neutralized a significant UAV threat, exemplifying ongoing tensions with Ukraine. [12]
+## Venäjä aikoo viedä öljytuotteita Laosiin Vietnamin kautta
+Maaliskuun 9. päivänä 2026 varapääministeri Alexander Novak ilmoitti, että Venäjä valmistelee ensimmäisen lähetävänsä öljytuotteita Laosiin Vietnamin kautta. Tämä logistinen suunnitelma tavoittelee energian yhteistyön lisäämistä, ja venäläisen öljy-yhtiön edustajat aikovat vierailla pian Vietnamissa tutkiakseen logistisia mahdollisuuksia. [6]
 
-**COMMENT:** This significant uptick in drone interceptions indicates a persistent aerial threat against Moscow, reflecting the ongoing military tensions with Ukraine. In the near term, such events may lead to increased military readiness and vigilance within Russian air defenses.
+**COMMENT:** Tämä liike kuvastaa Venäjän jatkuvia pyrkimyksiä vahvistaa energiakytköksiään Kaakkois-Aasiassa, mikä viittaa taktiseen lähentymiseen Laosin kanssa geopoliittisten dynamiikkojen muuttuessa. Tulevat viennit voivat lisääntyä, jos logistiikka osoittautuu edulliseksi, mikä viittaa Venäjän vaikutusvallan laajentumiseen alueella.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Viantiane, Laos / Vientiane, 17.9640988, 102.6133707 [Click for Map Location](https://www.openstreetmap.org/?mlat=17.964099&mlon=102.613371#map=8/17.964099/102.613371) (Vientiane)
 
-**KEYWORDS:** #российские #российские военнослужащие #минобороны #пво #удар #сво #беспилотник #бпла #перехват #про
+**KEYWORDS:** #россия #логистика #про
 
 
-# Sources
+## Venäjä etsii pitkäaikaisia energiasopimuksia Kaakkois-Aasian kanssa
+Maaliskuun 9. päivänä 2026 varapääministeri Alexander Novak ilmoitti, että lähes kaikki Kaakkois-Aasian maat ovat kiinnostuneita venäläisistä energialähteistä, ja hän korosti Venäjän tavoitteena olevan pitkäaikaisten toimitussopimusten solmiminen. Hän mainitsi meneillään olevat neuvottelut erityisesti öljytuotteiden toimituksesta Laosiin ja esitti Venäjä vakaan energian toimittajana globaaleilla markkinoilla huolimatta haasteista. [7]
 
-[1] interfax.ru - https://interfax.ru/russia/1088486?utm_source=top
+**COMMENT:** Tämä kehitys kuvastaa Venäjän strategista keskittymistä energian vaikutusvallan laajentamiseen Kaakkois-Aasiassa, mikä vahvistaa sen asemaa keskeisenä toimijana globaalilla energiamarkkinalla. Painotus pitkäaikaisilla sopimuksilla viittaa mahdolliseen siirtymiseen syvempään taloudelliseen yhteistyöhön alueen kanssa, mikä voi parantaa Venäjän geopoliittista asemaa.
 
-[2] interfax.ru - https://interfax.ru/business/1088521?utm_source=top
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-[3] interfax.ru - https://interfax.ru/russia/1088459?utm_source=top
+**KEYWORDS:** #россия #сво #про
 
-[4] interfax.ru - https://interfax.ru/russia/1088531
 
-[5] interfax.ru - https://interfax.ru/russia/1088530
+## Putin on valmis tapaamaan Zelenskyä Moskovassa, Ushakov vahvistaa
+Maaliskuun 9. päivänä 2026 presidentti Vladimir Putinin avustaja Yuri Ushakov toisti, että Putin on valmis tapaamaan Ukrainan presidentti Volodymyr Zelenskyä Moskovassa. Ushakov korosti, että Venäjä on valmis neuvottelemaan, mikäli Zelensky ilmaisee kiinnostuksensa kokouksen pitämiseen. [8]
 
-[6] interfax.ru - https://interfax.ru/russia/1088529
+**COMMENT:** Tämä kehitys heijastaa Venäjän ja Ukrainan välisten diplomaattisten kanavien jatkuvuutta, mikä saattaa viitata halukkuuteen osallistua dialogiin. Mikäli Zelensky vastaa myönteisesti, se voi merkitä muutosta jännitteiden lieventämisessä kahdenvälisissä suhteissa.
 
-[7] interfax.ru - https://interfax.ru/russia/1088526
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-[8] interfax.ru - https://interfax.ru/russia/1088522
+**KEYWORDS:** #russia #удар #сво #про
 
-[9] interfax.ru - https://interfax.ru/russia/1088520
 
-[10] aif.ru - https://aif.ru/politics/peskov-rossiya-gotova-k-dialogu-nastolko-naskolko-k-nemu-gotova-evropa
+## Putin julistaa Voiton päivän pyhäksi juhlaksi
+Maaliskuun 9. päivänä 2026 presidentti Vladimir Putin käsitteli sotilasparaadia Punaisella torilla juhlistaen Suuren isänmaallisen sodan 81. vuosipäivää. Hän korosti Voiton päivän merkitystä pyhänä juhlapäivänä ja kunnioitti sotilaiden perintöä, mikä heijastaa hallituksen keskittymistä kansalliseen ylpeyteen ja historian muistiin. [9]
 
-[11] aif.ru - https://aif.ru/society/kiev-sotrut-v-pyl-nazvany-glavnye-celi-dlya-superraket-rf-za-sryv-parada
+**COMMENT:** Putinin puhe Voiton päivän paraatissa korostaa historiallisen narratiivin merkitystä nykyisessä Venäjän poliittisessa keskustelussa. Tämä painotus voi edelleen vahvistaa kansallista yhtenäisyyttä ja lisätä tukea valtiovallan aseman ympärillä nykyisten turvallisuushaasteiden keskellä.
 
-[12] iz.ru - https://iz.ru/2093705/2026-05-08/sobianin-soobshchil-ob-unichtozhenii-uzhe-101-letevshego-na-moskvu-bespilotnika
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #сво #сф #часть #про
+
+
+## Kolme ulkomaista palkkasotilasta tapettiin Kupjanskin suunnassa
+Maaliskuun 9. päivänä 2026 Venäjän sotilasvoimat ilmoittivat 16 ulkomaisen palkkasotilaan eliminoinnista Kube-suunnassa, sekä kolumbialaisen William Andres Gallego Orozcon vapaaehtoisesta antautumisesta huhtikuun 26. päivä. Sotilasasiantuntijat ehdottavat, että Gallegon yhteydet saattavat ulottua kolumbialaisiin huumekartelleihin ja Ukrainan tiedusteluun, mikä voi tarjota arvokasta tietoa rekrytointiin ja sabotaasiin liittyvistä toiminnoista Venäjää vastaan. [10]
+
+**COMMENT:** Ulkomaisen palkkasotilaan kiinnipitämisestä mahdollisten kartellisiteiden kanssa ilmenee konfliktin monimutkaisuus ja transnationaalisten toimijoiden osallistuminen. Tämä voi viitata venäläisten voimien tiedustelun ja vastatiedustelun toimien lisääntymiseen, jotta ne voivat hillitä ulkomaisten uhkien käsitystä.
+
+**LOCATION:** Kupjansk / Kupyansk, Unknown [Click for Map Location]Unknown
+
+**KEYWORDS:** #российские #вс рф #российские военные #вдв #полк #удар #сво #сф #про
+
+
+## Moskovan pormestari Sobyanin onnitellut asukkaille Voiton päivä
+Maaliskuun 9. päivänä 2026 Moskovan pormestari Sergei Sobyanin luovutti viestin Voiton päivän kunniaksi, korostaen sen merkitystä symbolina rohkeudelle ja kansalliselle muistolle venäläisille. Hän pohti sodan aikana tehtyjä uhrauksia ja kiitti veteraaneja heidän panoksestaan. [11]
+
+**COMMENT:** Tämä virallinen muistojuhla saattaa korostaa sota-aikamuistin jatkuvaa merkitystä Venäjän julkisessa elämässä, jota hallitus hyödyntää kansallisen identiteetin vahvistamiseen. Tällaiset tapahtumat voivat viestiä lisääntyvistä valtiollisista ponnistuksista edistää yhtenäisyyttä ja patriotismia nykyaikaisessa ympäristössä.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #удар #сво #сф #часть #про
+
+
+## Putin korostaa Venäjän ja Abhasiankin suhteiden onnistunutta kehitystä
+Maaliskuun 9. päivänä 2026 presidentti Vladimir Putin ilmaisi tyytyväisyyttä Venäjän ja Abhasiankin välisten kahdenvälisten suhteiden edistymiseen Abhasiassa Presidentti Badra Gunban kanssa käydyssä keskustelussa. Putin korosti myönteisiä kehityksiä suhteessa Gunban virkaan tulemisesta ja painotti lisäyhteistyön tarvetta. [12]
+
+**COMMENT:** Tämä Abhasiankin suhteiden tiivistäminen heijastaa Venäjän strategisia intressejä alueella ja sen sitoutumista liittolaisten tukemiseen. Tulevat kehitykset voivat sisältää lisää integraatiotoimia tai poliittista tukea Venäjän vaikutuksen vahvistamiseksi Kaukasiassa.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #российский #удар #сво #про
+
+
+## Venäjä muistaa kaatuneita minuutin hiljaisuudella
+Maaliskuun 9. päivänä 2026 minuutti hiljaisuutta vietettiin Venäjällä kello 18:55 Moskovan aikaa kunnioittamaan muistoa Suuren isänmaallisen sodan kaatuneista. Tämä vuosittainen tapahtuma, jota presidentti Vladimir Putin on tukenut, sattui samalla hetkellä Voiton paraatin kanssa Moskovassa, missä hän laski kukkia Tuntemattoman sotilaan haudalle ja puhui kansalle sodassa tapahtuneiden uhrausten merkityksestä. [13]
+
+**COMMENT:** Tämä tapahtuma korostaa Suuren isänmaallisen sodan jatkuvaa merkitystä venäläisessä kansallisessa identiteetissä ja valtiollisessa retoriikassa. Se alleviivaa hallituksen painotusta historiallisella muistilla keinona kodin eheydelle ja legitiimisyydelle nykyaikaisessa ympäristössä.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #российский #про
+
+
+## Aasian maat osoittavat kiinnostusta lisävenäläisiin energialähteisiin
+Maaliskuun 9. päivänä 2026 varapääministeri Alexander Novak ilmoitti, että useat Kaakkois-Aasian maat etsivät lisää venäläisiä energiavarantoja. Hän korosti, että Venäjä on vakiinnuttanut itsensä luotettavaksi energian toimittajaksi nykyisen kriisin aikana, ja nämä valtiot ovat kiinnostuneita pitkäaikaisista sopimuksista. [14]
+
+**COMMENT:** Tämä kehitys antaa strategisen mahdollisuuden Venäjälle vahvistaa vaikutustaan Kaakkois-Aasiassa energiapartneissa. Venäläisen energian kasvava kysyntä voisi parantaa Moskovan geopoliittista asemaa alueella globaalien energiamuutosten keskellä.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #российские #удар #про
+
+
+## Kolme haavoittunutta Belgorodin alueella ukrainalaisen dronehyökkäyksen vuoksi
+Maaliskuun 9. päivänä 2026 kolme henkilöä haavoittui dronehyökkäyksessä Venäjän Belgorodin alueella, mikä rikkoi julistettua tulitaukoa. Hyökkäys tapahtui Belgorod-Komsomolsk-tiellä, ja vahinkoja raportoitiin siviileistä sekä Orlan-yksikön sotilaasta. [15]
+
+**COMMENT:** Tämä tapahtuma korostaa drone-sodan jatkuvaa uhkaa Venäjän ja Ukrainan välisessä konfliktissa. Jatkuvat dronehyökkäykset voivat laukaista puolustustoimenpiteitä ja lisätä jännitteitä alueella entisestään.
+
+**LOCATION:** Belgorodin alue / Belgorod Oblast, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762) (Белгородская область)
+
+**KEYWORDS:** #минобороны рф #минобороны #военнослужащий #удар #сво #беспилотник #бпла #про
+
+
+## Putin korostaa Venäjän ja Abhasiankin suhteiden onnistunutta kehitystä
+Maaliskuun 9. päivänä 2026 presidentti Vladimir Putin ilmaisi tyytyväisyyttään Venäjän ja Abhasiankin välisten kahdenvälisten suhteiden edistymiseen Abhasiassa Presidentti Badra Gunban kanssa käydyssä keskustelussa. Putin korosti myönteisiä kehityksiä suhteessa Gunban virkaan tulemisesta ja painotti lisäyhteistyön tarvetta. [16]
+
+**COMMENT:** Tämä Abhasiankin suhteiden tiivistäminen heijastaa Venäjän strategisia intressejä alueella ja sen sitoutumista liittolaisten tukemiseen. Tulevat kehitykset voivat sisältää lisää integraatiotoimia tai poliittista tukea Venäjän vaikutuksen vahvistamiseksi Kaukasiassa.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #российский #удар #сво #про
+
+
+## Putin puhuu lehdistölle 9. toukokuuta
+Maaliskuun 9. päivänä 2026 presidentti Vladimir Putin on asettunut tekemään mediajulkaisun sen jälkeen, kun hän puhuu Voiton paraatissa, joka juhlistaa Suuren isänmaallisen sodan 81. vuosipäivää. Tämä ilmoitus tehtiin hänen avustajansa, Yuri Ushakovin, toimesta, mikä merkitsee jatkuvaa sitoutumista sekä kotimaiseen että ulkomaisiin medioihin tärkeissä kansallisissa tapahtumissa. [17]
+
+**COMMENT:** Tämä tapahtuma heijastaa Cremlin painotusta historiallisiin narratiiveihin ja kansalliseen ylpeyteen, erityisesti arkaluontoisten historiallisen vuosipäivien ympärillä. Tällaiset julkiset puheet voivat vaikuttaa kotimaan mielipiteeseen ja esittää Venäjän asemaa kansainvälisissä suhteissa merkittävien muistojuhlien aikana.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #российский #про
+
+
+## Venäjä muistaa kaatuneita minuutin hiljaisuudella
+Maaliskuun 9. päivänä 2026 minuutti hiljaisuutta vietettiin Venäjällä kello 18:55 Moskovan aikaa kunnioittamaan muistoa Suuren isänmaallisen sodan kaatuneista. Tämä vuosittainen tapahtuma, jota presidentti Vladimir Putin on tukenut, sattui samalla hetkellä Voiton paraatin kanssa Moskovassa, missä hän laski kukkia Tuntemattoman sotilaan haudalle ja puhui kansalle sodassa tapahtuneiden uhrausten merkityksestä. [18]
+
+**COMMENT:** Tämä tapahtuma korostaa Suuren isänmaallisen sodan jatkuvaa merkitystä venäläisessä kansallisessa identiteetissä ja valtiollisessa retoriikassa. Se alleviivaa hallituksen painotusta historiallisella muistilla keinona kodin eheydelle ja legitiimisyydelle nykyaikaisessa ympäristössä.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #российский #про
+
+
+## Aasian maat osoittavat kiinnostusta lisävenäläisiin energialähteisiin
+Maaliskuun 9. päivänä 2026 varapääministeri Alexander Novak ilmoitti, että useat Kaakkois-Aasian maat etsivät lisää venäläisiä energiavarantoja. Hän korosti, että Venäjä on vakiinnuttanut itsensä luotettavaksi energian toimittajaksi nykyisen kriisin aikana, ja nämä valtiot ovat kiinnostuneita pitkäaikaisista sopimuksista. [19]
+
+**COMMENT:** Tämä kehitys antaa strategisen mahdollisuuden Venäjälle vahvistaa vaikutustaan Kaakkois-Aasiassa energiapartneissa. Venäläisen energian kasvava kysyntä voisi parantaa Moskovan geopoliittista asemaa alueella globaalien energiamuutosten keskellä.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #российские #удар #про
+
+
+## Kolme haavoittunutta Belgorodin alueella ukrainalaisen dronehyökkäyksen vuoksi
+Maaliskuun 9. päivänä 2026 kolme henkilöä haavoittui dronehyökkäyksessä Venäjän Belgorodin alueella, mikä rikkoi julistettua tulitaukoa. Hyökkäys tapahtui Belgorod-Komsomolsk-tiellä, ja vahinkoja raportoitiin siviileistä sekä Orlan-yksikön sotilaasta. [20]
+
+**COMMENT:** Tämä tapahtuma korostaa drone-sodan jatkuvaa uhkaa Venäjän ja Ukrainan välisessä konfliktissa. Jatkuvat dronehyökkäykset voivat laukaista puolustustoimenpiteitä ja lisätä jännitteitä alueella entisestään.
+
+**LOCATION:** Belgorodin alue / Belgorod Oblast, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762) (Белгородская область)
+
+**KEYWORDS:** #минобороны рф #минобороны #военнослужащий #удар #сво #беспилотник #бпла #про
+
+
+# Lähteet
+
+[1] interfax.ru - https://interfax.ru/russia/1088661?utm_source=top
+
+[2] interfax.ru - https://interfax.ru/russia/1088654?utm_source=top
+
+[3] interfax.ru - https://interfax.ru/russia/1088665?utm_source=top
+
+[4] interfax.ru - https://interfax.ru/russia/1088695
+
+[5] interfax.ru - https://interfax.ru/russia/1088694
+
+[6] interfax.ru - https://interfax.ru/business/1088693
+
+[7] interfax.ru - https://interfax.ru/business/1088688
+
+[8] interfax.ru - https://interfax.ru/russia/1088685
+
+[9] aif.ru - https://aif.ru/society/putin-nazval-den-pobedy-svyashchennym-i-glavnym-prazdnikom
+
+[10] aif.ru - https://aif.ru/society/u-kupyanska-vzyat-v-plen-nositel-vazhnyh-sekretov-glavnaya-novost-svo-9-maya
+
+[11] aif.ru - https://aif.ru/moscow/sobyanin-pozdravil-moskvichey-s-dnem-pobedy-i-poblagodaril-veteranov
+
+[12] iz.ru - https://iz.ru/2094396/2026-05-09/putin-ukazal-na-uspeshnoe-razvitie-dvustoronnikh-otnoshenii-rossii-i-abkhazii
+
+[13] iz.ru - https://iz.ru/2093710/2026-05-09/v-rossii-minutoi-molchaniia-pochtili-pamiat-pavshikh-v-velikoi-otechestvennoi-voine
+
+[14] iz.ru - https://iz.ru/2094363/2026-05-09/novak-otmetil-interes-stran-azii-v-postavkakh-rossiiskikh-energoresursov
+
+[15] iz.ru - https://iz.ru/2094397/v-belgorodskoi-oblasti-tri-cheloveka-postradali-pri-udare-bpla-vo-vremia-peremiriia-izi?main_click
+
+[16] iz.ru - https://iz.ru/2094396/2026-05-09/putin-ukazal-na-uspeshnoe-razvitie-dvustoronnikh-otnoshenii-rossii-i-abkhazii?main_click
+
+[17] iz.ru - https://iz.ru/2094393/2026-05-09/putin-9-maia-vystupit-s-zaiavleniem-pered-predstaviteliami-smi?main_click
+
+[18] iz.ru - https://iz.ru/2094389/2026-05-09/geroi-rossii-raspopov-zaiavil-ob-uverennosti-v-vosstanovlenii-mira-posle-svo?main_click
+
+[19] www.kp.ru - https://www.kp.ru/daily/277781/5246972/
+
+[20] www.kp.ru - https://www.kp.ru/daily/277781/5247209/
+
+[21] www.kp.ru - https://www.kp.ru/online/news/6962406/
+
+[22] www.kp.ru - https://www.kp.ru/online/news/6962393/
