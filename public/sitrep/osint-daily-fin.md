@@ -1,126 +1,174 @@
-# Raporttipäivämäärä: 2026-05-10
+# Raportti päivämäärä: 12. toukokuuta 2026
 
 ## Summary
-Raportointijaksolla nähtiin useita merkittäviä tapahtumia, jotka kuvastavat jatkuneita jännitteitä Venäjän ja sen naapurimaiden, erityisesti Ukrainan ja Armenian, välillä. Armenian antama alusta vastapurkauksille Venäjää kohtaan on saanut kriittistä huomiota Venäjän hallitukselta, mihin liittyy pelko suhteiden heikentymisestä. Samalla Ukrainan voimat jatkavat hyökkäyksiä Venäjän asentoja vastaan, mikä suuntaa huomiota tuleviin sotilaallisiin toimiin. Tämän lisäksi Venäjä pyrkii vahvistamaan yhteistyötä Etelä-Ossetian kanssa ja palauttamaan ilmatien liikenteen etelä-Venäjällä, mikä viittaa strategiseen pyrkimykseen vakauttaa aluetta. 
+Raportointijaksolla Venäjä on vahvistanut puolustuskykyään useilla merkittävillä tapahtumilla, mukaan lukien Sarmat-ohjuksen onnistunut testilaukaus ja lisääntyneet lennokki-iskut, jotka ovat aiheuttaneet vahinkoja siviilikohteille. Venäjän hallitus on ilmoittanut kansainvälisille kumppaneilleen Sarmat-järjestelmän testeistä, mikä saattaa johtaa reaktioihin lännestä. Ongoing tensions with Ukraine and developments in regional security are likely to continue affecting diplomatic relations and military strategies.
 
-## Peskov Calls Armenia's Anti-Russian Statements Abnormal
-Maaliskuun 10. päivänä 2026 Dmitri Peskov, Venäjän presidentin lehdistösihteeri, ilmaisi huolensa Armenian antamasta alustasta anti-venäläisille kannanotoille Armenian ja EU:n huipputapaamisessa Jerevanissa. Hän vahvisti, että vaikka Armenialla on oikeus pitää tällaisia huipputapaamisia, anti-venäläinen retoriikka on epätavallista ja hän vaati selvennystä Jerevanilta. [1]
+## Onnistunut Sarmat-ohjuksen testi raportoituna Putinille
+Toukokuun 12. päivänä 2026 Strategisten Ohjusten Päällikkö Sergey Karakayev raportoi presidentti Vladimir Putinille Sarmat-keskipitkän matkan ohjuksen onnistuneesta laukaisusta klo 11:15. Tämä testi merkitsee merkittävää edistystä Venäjän strategisissa ohjuskyvyissä. [1]
 
-**COMMENT:** Peskovin huomautukset korostavat Kremlissä vallitsevaa tyytymättömyyttä Armenian koettuja anti-venäläisiä tunnelmia kohtaan, mikä heijastaa jatkuvia jännitteitä Etelä-Kaukasuksessa. Tämä tapaus voi entisestään jännittää Venäjän ja Armenian suhteita, erityisesti kun Armenia navigoi länsimaisten kumppanien kanssa.
-
-**LOCATION:** Jerevan / Yerevan, 40.1777112, 44.5126233 [Click for Map Location](https://www.openstreetmap.org/?mlat=40.177711&mlon=44.512623#map=8/40.177711/44.512623) (Еревaн)
-
-**KEYWORDS:** #russia #российские #сво #про
-
-
-## Russian Military Reports Attacks by Ukrainian Forces in Six Regions
-Maaliskuun 10. päivänä 2026 Venäjän puolustusministeriö ilmoitti useista hyökkäyksistä Ukrainan asevoimilta Venäjän aseisiin kuudessa alueessa, mukaan lukien Krim, Belgorod, Kursk, Kaluga, Rostov ja Krasnodar. Ministeriö tuomitsi nämä iskut kohdeltaviksi julkisen tulitauon rikkomisina ja ilmoitti, että venäläiset joukot ylläpitävät asemaansa jatkuvasta jännityksestä huolimatta. [2]
-
-**COMMENT:** Tämä tapaus korostaa jatkuvia vihollisuuksia Venäjän ja Ukrainan voimien välillä, mikä viittaa pysyvään eskalaation riskiin huolimatta tulitaukoilmoituksista. Iskut voivat provosoida lisä sotilaallisia vastatoimia Venäjältä, mikä vaikeuttaa rauhan pyrkimyksiä alueella.
-
-**LOCATION:** Krim / Crimea, 45.037057, 38.9756473 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.037057&mlon=38.975647#map=8/45.037057/38.975647) (Крым)
-
-**KEYWORDS:** #russia #российские #минобороны рф #российские военные #минобороны #удар #армия
-
-
-## Air Traffic Fully Restored in Southern Russia
-Maaliskuun 10. päivänä 2026 Venäjän liikenneministeriö ilmoitti ilmatien liikenteen täydellisestä palauttamisesta etelä-Venäjällä sen jälkeen, kun aiempia rajoituksia oli asetettu UAV-hyökkäyksen vuoksi ilmaliikenneohjaukseen Rostov-on-Donissa. Operatiivinen päämaja pysyy aktiivisena 12. toukokuuta asti, koska tilannetta seurataan asianomaisten viranomaisten toimesta. [3]
-
-**COMMENT:** Ilmatien liikenteen palauttaminen korostaa Venäjän hallituksen kykyä reagoida nopeasti turvallisuusongelmiin, jotka vaikuttavat kriittiseen infrastruktuuriin. Tämä kehitys voi viitata uusiin pyrkimyksiin varmistaa vakaus alueen liikenne ja turvallisuusprotokollissa UAV-uhkien jälkeen.
-
-**LOCATION:** Etelä-Venäjä / Southern Russia, Unknown [Click for Map Location](#) (Южная Россия)
-
-**KEYWORDS:** #russia #штаб #бпла #пуск #про
-
-
-## Civilian Wounded in UAV Attack on Private House in Kursk Region
-Maaliskuun 10. päivänä 2026 52-vuotias mies haavoittui FPV-drone-hyökkäyksessä yksityiseen taloon Peschansky-nimisessä kylässä Kurskin alueella. Alueen johtaja Alexander Khinshtein kertoi, että tämä tapaus seuraa 98 ukrainalaisen dronen tuhoamista alueella 24 tunnin aikana. [4]
-
-**COMMENT:** Tämä hyökkäys korostaa siviilialueiden jatkuvaa haavoittuvuutta Kurskissa konfliktin keskellä ja viittaa mahdolliseen eskalaatioon drone-sodankäynnissä. UAV-käytön malli viittaa kehittyvään uhkaan, joka saattaa entisestään vaikeuttaa alueen turvallisuutta ja vakautta.
-
-**LOCATION:** Peschansky / Peschansky, Unknown [Click for Map Location](#) (Песчаный)
-
-**KEYWORDS:** #russia #удар #сво #бпла
-
-
-## Agreement on Cooperation with South Ossetia Submitted to Duma for Ratification
-Maaliskuun 10. päivänä 2026 Venäjän presidentti jätti lakiesityksen valtion duman käsiteltäväksi Etelä-Ossetian kanssa solmittavan yhteistyösopimuksen ratifioimiseksi, joka tavoittelee yhteistyön vahvistamista poliittisilla, taloudellisilla ja puolustusalueilla. Sopimus pyrkii edistämään alueellista rauhaa ja vakautta koordinoimalla ulko- ja turvallisuuspolitiikkaa sekä parantamaan osapuolten välistä sosioekonomista tilannetta. [5]
-
-**COMMENT:** Tämä ratifiointiyritys heijastaa Venäjän jatkuvaa sitoutumista vahvistaa suhteita Etelä-Ossetiaan, mikä voi kasvattaa sen vaikutusvaltaa alueella. Tämä siirto voi johtaa edelleen sotilaallisen ja taloudellisen riippuvuuden vahvistumiseen Venäjän ulkopoliittisten tavoitteiden kontekstissa.
+**COMMENT:** Tämä ohjuksen testi korostaa Venäjän ydinvoimien modernisointia, joka voi toimia kykynä osoittavana näyttönä kasvavien geopoliittisten jännitteiden keskellä.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #сво #сф #про
+**KEYWORDS:** #russia #минобороны рф #минобороны #рвсн #вкс #полигон #пуск #про
 
 
-## Peskov Criticizes Armenia for Allowing Anti-Russian Statements
-Maaliskuun 10. päivänä 2026 Dmitri Peskov, Venäjän presidentin lehdistösihteeri, kritisoi Armeniaa sen vuoksi, että se antoi alustan anti-venäläisille lausunnoille Armenian ja EU:n huipputapaamisessa Jerevanissa. Peskov korosti, että vaikka Armenialla on suvereeni oikeus isännöidä tällaisia tapahtumia, vihamielisen retoriikan sallimista Venäjää kohtaan pidetään epätavallisena. [6]
+## Drone-iskut vahingoittavat asuinrakennusta, koulua ja päiväkotia Orenburgissa
+Toukokuun 12. päivänä 2026 yhdeksän dronea käynnisti hyökkäyksen Orenburgissa, vahingoittaen asuinrakennusta, koulua ja päiväkotia ilman raportoitua uhreja. Restaurointityöt ovat parhaillaan käynnissä opiskelijoiden etäopetusta suunnitellaan korjausten ajaksi. [2]
 
-**COMMENT:** Peskovin huomautukset osoittavat Venäjän lisääntynyttä herkkyyttä Armenian anti-venäläisiä tuntemuksia kohtaan, erityisesti jatkuvien geopoliittisten jännitteiden valossa. Tämä tilanne voi johtaa Venäjän ja Armenian suhteiden entistä lisääntyvään jännitykseen, kun Moskova saattaa pyrkiä vastaamaan havaittuihin heikkouksiin sen vaikutusvallassa Jerevanin yli.
+**COMMENT:** Tämä tapaus heijastaa jatkuvia turvallisuushaasteita, joita kohdataan Venäjän alueella, erityisesti drone-teknologian osalta.
 
-**LOCATION:** Jerevan / Yerevan, 40.1777112, 44.5126233 [Click for Map Location](https://www.openstreetmap.org/?mlat=40.177711&mlon=44.512623#map=8/40.177711/44.512623) (Еревaн)
+**LOCATION:** Orenburg / Orenburg, 51.7671248, 55.0978517 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.767125&mlon=55.097852#map=8/51.767125/55.097852) (Оренбург)
 
-**KEYWORDS:** #russia #российские #сво #про
+**KEYWORDS:** #russia #сво #беспилотник #бпла #про
 
 
-## Kremlin Describes Difficult Negotiations on Truce for May 9
-Maaliskuun 10. päivänä 2026 Kreml raportoi haastavista neuvotteluista tulitauosta toukokuun 9. päivän juhlallisuuksien aikana, kuten presidentin avustaja Yuri Ushakov totesi. Keskustelut sisälsivät kaksi päivää puhelinkeskusteluja amerikkalaisten edustajien kanssa ja rinnakkaista viestintää Kiovan kanssa, mikä heijastaa diplomaattisen tilanteen monimutkaisuutta. [7]
+## UAV-isku Cheboksaryssa jättää kolme kuollutta ja 47 haavoittunutta
+Toukokuun 12. päivänä 2026 Chuvashian varapääministeri Vladimir Stepanov raportoi, että drone-iskusta Cheboksaryssa toukokuun 5. päivänä kuolleiden määrä on noussut kolmeen, ja 47 henkilöä on saanut vammoja. Uhrien lääkinnälliset ja sosiaaliset tukitoimet ovat käynnissä. [3]
 
-**COMMENT:** Tämä kehitys osoittaa jatkuvia jännitteitä ja vaikeuksia konsensuksen saavuttamisessa sotilaallisista toimista alueella. Tulevat neuvottelut voivat olla edelleen haasteellisia, mikä voi vaikuttaa Venäjän ulkopoliittiseen asennoitumiseen.
+**COMMENT:** Tämä tapahtuma kuvastaa jatkuvia turvallisuushaasteita, joita UAV-iskut aiheuttavat Venäjän alueilla.
+
+**LOCATION:** Cheboksary / Cheboksary, 56.1399598, 47.2480999 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.139960&mlon=47.248100#map=8/56.139960/47.248100) (Чебоксары)
+
+**KEYWORDS:** #russia #сво #беспилотник #бпла #про
+
+
+## Kreml asettaa ehdot Putin-Zelensky -kokoukselle Moskovan ulkopuolella
+Toukokuun 12. päivänä 2026 Kremlin tiedottaja Dmitry Peskov ilmoitti, että presidentti Vladimir Putin on valmis tapaamaan Ukrainan presidentti Volodymyr Zelenskyä Moskovan ulkopuolella, mikäli merkittävää valmistelutyötä konfliktin ratkaisemiseksi on suoritettu. [4]
+
+**COMMENT:** Tämä lausunto korostaa Kremliin varovaisuutta suoria neuvotteluja kohtaan Ukrainan kanssa, heijastaen jatkuvia strategisia laskelmia.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
 **KEYWORDS:** #russia #про
 
 
-## Putin's Statements on May 9, 2026: Concluding the Conflict in Ukraine and Future Relations
-Toukokuu 9. päivänä 2026 Vladimir Putin piti lehdistötilaisuuden, jossa hän totesi, että konflikti Ukrainassa on lähellä loppua ja korosti tarvetta parantaa suhteita Eurooppaan. Hän julisti, että voiton päivän juhlallisuuksissa ei esitetä sotakalustoa, vaan keskitytään sotilaidensa saavutuksiin Ukrainassa. [8]
+## Venäjän armeija raportoi yli 30 000 tulitauon rikkomusta Ukrainalta
+Toukokuun 12. päivänä 2026 Venäjän puolustusministeriö raportoi 30 383 tulitauon rikkomusta Ukrainan joukoilta, joista 859 hyökkäystä venäläisiä asemiin edellisen päivän aikana. [5]
 
-**COMMENT:** Putinin huomautukset viittaavat mahdolliseen muutokseen Venäjän sotilaallisessa ja diplomaattisessa asennoitumisessa Ukrainan suhteen, mikä indikoisi mahdollisen lähitulevaisuuden rauhanneuvottelujen aloittamista. Nämä kehitykset voivat vaikuttaa Venäjän ulkoisiin suhteisiin erityisesti Euroopan maiden kanssa, jotka pyrkivät vakauttamaan suhteitaan Moskovaan.
+**COMMENT:** Korkea rikkomusten määrä voi viitata lisääntyneeseen operatiiviseen valmiuteen ja potentiaaliseen oikeutukseen Venäjän lisätoimille.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #российский #российские #российские войска #минобороны #министерство обороны #удар #сво #про
-
-
-## Combat Summary and Developments in Ukraine on May 10, 2026
-Maaliskuun 10. päivänä 2026 Venäjän puolustusministeriö raportoi, että Ukrainalaiset asevoimat tekivät 7151 drone-hyökkäystä Presidentti Vladimir Putinin julistaman tulitauon aikana, ja väittivät, että militantit kohdistivat iskuja Venäjän asemiin 1173 kertaa. Raportti korosti Ukrainan joukkojen jatkuvaa aggressiivisuutta huolimatta tulitauosta, mikä viittaa jatkuviin jännitteisiin ja tulevien yhteenottojen mahdollisuuteen alueella. [9]
-
-**COMMENT:** Suuri määrä UAV-hyökkäyksiä viittaa ylläpitetyyn operatiiviseen tempoon Ukrainan joukkojen keskuudessa, mikä herättää huolta nykyisten diplomaattisten ponnistelujen tehokkuudesta. Tulevat sotilaalliset kohtaamiset ovat todennäköisiä, kun molemmat osapuolet näyttävät olevan haluttomia kompromisseihin, mikä voi pidentää konfliktia.
-
-**LOCATION:** Ukraina / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) (Украина)
-
-**KEYWORDS:** #россия #вооруженные силы россии #вс рф #российская армия #минобороны #удар #сво #беспилотник #армия #про
+**KEYWORDS:** #russia #минобороны #министерство обороны #удар #сво #пуск
 
 
-## Kaspersky Lab Reports Fraud Attacks Targeting Major Russian Companies
-Maaliskuun 10. päivänä 2026 Kaspersky Labin asiantuntijat raportoivat aaltohävityksistä, jotka kohdistuvat suuriin venäläisiin organisaatioihin, joissa hyökkääjät esittävät lainvalvontaviranomaisia pakottaakseen työntekijöitä väärennettyihin työpaikkatarkastuksiin. Tämä taktiikka aiheuttaa merkittävän turvallisuusuhan näille yrityksille, korostaen haavoittavuuksia niiden operatiivisessa eheydessä. [10]
+## Venäjän talouskasvu saavuttaa 10 % kolmen vuoden aikana, raportoi ministeri Reshetnikov
+Toukokuun 12. päivänä 2026 Venäjän talouskehitysministeri Maxim Reshetnikov raportoi presidentti Vladimir Putinille, että Venäjän talous on kasvanut 10 % viimeisten kolmen vuoden aikana. [6]
 
-**COMMENT:** Tällaisen petollisen toiminnan lisääntyminen viittaa siihen, että pahantahtoisten osapuolten yritykset hyödyntää organisaatioiden turvallisuusprotokollien aukkoja ovat lisääntymässä. Tilanne saattaa pakottaa yrityksiä vahvistamaan kyberturvallisuuspiteet ja työntekijöiden koulutuksen tunnistamaan tällaisia hyökkäyksiä.
+**COMMENT:** Raportoitu talouskasvu ja vakaus voivat parantaa kansalaisten luottamusta hallituksen talouspolitiikkaan.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
 
-**KEYWORDS:** #россия #российские #про
+**KEYWORDS:** #россия #сво #сф #часть #про
+
+
+## EU saattaa vaatia Venäjän joukkojen vetäytymistä Transnistrialta, sanoo Kaja Kallas
+Toukokuun 12. päivänä 2026 Euroopan unionin viranomaiset vihjasivat, että Venäjän sotajoukkojen vetäytyminen Transnistrialta voisi olla ehtona tulevissa neuvotteluissa Venäjän kanssa. [7]
+
+**COMMENT:** Tämä mahdollinen vaatimus heijastaa EU:n lisääntynyttä tarkastelua Venäjän sotilaalliselle läsnäololle naapurimaissa.
+
+**LOCATION:** Transnistria / Transnistria, 46.8466932, 29.6217132 [Click for Map Location](https://www.openstreetmap.org/?mlat=46.846693&mlon=29.621713#map=8/46.846693/29.621713) 
+
+**KEYWORDS:** #россия #российские #российские войска #сво #сф #про 
+
+
+## Valtion Duma käsittelee ulkomaalaisten oleskelulupien peruuttamista rikosrekisterin vuoksi
+Toukokuun 13. päivänä 2026 Valtion Duma Venäjällä aikoo käsitellä lakiesitystä, joka tähtää ulkomaalaisten oleskelulupien peruuttamiseen rikosrekisterin perusteella. [8]
+
+**COMMENT:** Tämä lainsäädäntömuutos on merkittävä, koska se lähettää vahvan viestin hallituksen aikomuksesta valvoa tiukasti maahanmuuttoa.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #вс рф #удар #сво #про
+
+
+## Putin vahvistaa Dagger-ohjuksen ei-ydin tarkkuuden parantamista
+Toukokuun 12. päivänä 2026 presidentti Vladimir Putin ilmoitti, että työntekoa Dagger-ohjuksen ei-ydin tarkkuuden parantamiseksi jatketaan. [9]
+
+**COMMENT:** Dagger-ohjuksen tarkkuuden parantaminen viittaa Venäjän strategisten kykyjen kehittämiseen.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #российский #минобороны россии #минобороны #рвсн #вооружение #удар #ракетные войска #пуск #боевое дежурство #армия #про
+
+
+## Ex-samaran pormestarin murhatapaus siirtyy oikeuteen
+Toukokuun 12. päivänä 2026 rikosasia Ekaterina Tarkhova vastaan, joka on syytettynä isoäitinsä murhasta, siirrettiin Samaran alueelliseen oikeuteen. [10]
+
+**COMMENT:** Tämä tapaus voi heijastaa yhteiskunnallisia ongelmia ja mahdollisia epävakautta paikallisissa hallintorakenteissa.
+
+**LOCATION:** Samara / Samara, 53.1956255, 50.1014927 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.195625&mlon=50.101493#map=8/53.195625/50.101493) (Самара)
+
+**KEYWORDS:** #россия #сво #про
+
+
+## Venäjä ilmoittaa Yhdysvalloille ja muille valtioille Sarmat-järjestelmän testeistä
+Toukokuun 12. päivänä 2026 Kremlin tiedottaja Dmitry Peskov ilmoitti, että Venäjä on tiedottanut Yhdysvalloille ja muille valtioille Sarmat-keskipitkän matkan ohjuksen järjestelmän testeistä. [11]
+
+**COMMENT:** Sarmat-järjestelmän onnistuneet testit korostavat Venäjän jatkuvaa keskittymistä strategisten pelotteidensa parantamiseen.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
+
+**KEYWORDS:** #россия #минобороны рф #минобороны #вкс #полк #удар #пуск #боевое дежурство #про
+
+
+## Venäjä suorittaa Sarmat ICBM:n onnistuneen testilaukaisun
+Toukokuun 12. päivänä 2026 Venäjä suoritti onnistuneen testilaukaisun Sarmat-keskipitkän matkan ohjuksesta, kuten presidentti Vladimir Putin ja Venäjän puolustusministeriö vahvistivat. [12]
+
+**COMMENT:** Sarmat ICBM:n onnistunut testilaukaisu korostaa Venäjän jatkuvia edistysaskeleita strategisissa ohjuskyvyissä.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
+
+**KEYWORDS:** #россия #российский #российские #вс рф #вс россии #российские военные #министерство обороны #армия россии #рвсн #пво #штаб #удар #сво #беспилотник #бпла #пуск #сф #часть #армия #про
+
+
+## Putin vahvistaa Sarmat-ohjuksen kompleksin onnistuneen testin
+Toukokuun 12. päivänä 2026 presidentti Vladimir Putin vahvisti Sarmat-keskipitkän matkan ohjuksen onnistuneen testin videopuhelun aikana sotilasjohtajien kanssa. [13]
+
+**COMMENT:** Tämä kehitys korostaa Venäjän jatkuvia investointeja strategisiin ohjuskykyihin.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
+
+**KEYWORDS:** #россия #министерство обороны #рвсн #вкс #развертывание #удар #сво #пуск #боевое дежурство #про
+
+
+## Ryhmän jäsenet menettävät vanhempainoikeutensa Pietarissa
+Toukokuun 12. päivänä 2026 nainen, joka kuuluu "Venäjän ortodoksiseen kirkkoon – tsaari-imperiumiin", menetti vanhempainoikeutensa tyttärien kidnappaamisen vuoksi. [14]
+
+**COMMENT:** Tämä tapaus heijastaa jatkuvia haasteita liittyen lahkoihin ja lasten suojelemiseen Venäjällä.
+
+**LOCATION:** Pietari / St. Petersburg, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=0&mlon=0#map=8/0/0) 
+
+**KEYWORDS:** #россия #призыв #удар #сво #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1088752?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1089003?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1088740?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1088999?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1088733?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1088933?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1088762
+[4] interfax.ru - https://interfax.ru/russia/1088946?utm_source=top
 
-[5] interfax.ru - https://interfax.ru/russia/1088756
+[5] interfax.ru - https://interfax.ru/russia/1088945?utm_source=top
 
-[6] interfax.ru - https://interfax.ru/russia/1088752
+[6] aif.ru - https://aif.ru/politics/reshetnikov-soobshchil-putinu-o-roste-ekonomiki-rossii-na-10-za-tri-goda
 
-[7] interfax.ru - https://interfax.ru/russia/1088751
+[7] www.vesti.ru - https://www.vesti.ru/ns/kallas-evrosoyuz-mozhet-potrebovat-vyvoda-rossijskikh-vojsk-iz-pridnestrovya
 
-[8] www.kp.ru - https://www.kp.ru/daily/277781/5247273/
+[8] www.vesti.ru - https://www.vesti.ru/ns/gd-rassmotrit-proekt-ob-annulirovanii-vnzh-inostrancam-s-sudimostyu
 
-[9] www.kp.ru - https://www.kp.ru/daily/277781/5247271/
+[9] www.vesti.ru - https://www.vesti.ru/ns/rabota-po-sovershenstvovaniyu-vneyadernoj-tochnosti-rakety-kinzhal-prodolzhaetsya
 
-[10] ria.ru - https://ria.ru/20260510/moshenniki-2091736699.html
+[10] www.vesti.ru - https://www.vesti.ru/ns/ugolovnoe-delo-ob-ubijstve-ehks-mehra-samary-postupilo-v-sud
+
+[11] iz.ru - https://iz.ru/2095789/2026-05-12/rossiia-uvedomila-ssha-i-drugie-strany-ob-ispytaniiakh-kompleksa-sarmat
+
+[12] iz.ru - https://iz.ru/2095814/2026-05-12/chto-proizoshlo-za-den-12-maia-glavnoe
+
+[13] iz.ru - https://iz.ru/2095684/2026-05-12/putinu-po-vks-dolozhili-ob-uspeshnom-ispytanii-kompleksa-sarmat-glavnoe
+
+[14] iz.ru - https://iz.ru/2095822/2026-05-12/v-peterburge-pokhitivshuiu-docherei-u-eks-supruga-sektantku-lishili-roditelskikh-prav?main_click
