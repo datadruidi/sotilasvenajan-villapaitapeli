@@ -1,190 +1,294 @@
-# Report Date: 2026-05-13
+# Report Date: 2026-05-14
 
 ## Summary
-Raportointijaksolla Venäjän poliittinen ja sotilaallinen toiminta on keskittynyt kansalaisensa suojelemiseen ulkomailla sekä asevoimien vahvistamiseen. Venäjän valtiopäivät hyväksyi lain, joka mahdollistaa asevoimien käytön kansalaisten suojelemiseksi ulkomaisilta oikeudenkäynneiltä. Tyypillisiä tulevia kehityssuuntia voivat olla lisääntyneet sotilaalliset toimet, erityisesti Ukrainassa, sekä kansallisen puolustusteollisuuden kehittämiseen liittyvät aloitteet. 
+Raportointijaksolla Venäjällä tapahtui merkittäviä kehityksiä hallituksen ja lainsäädännön saralla, mukaan lukien oikeudellisia toimia ja muutoksia työlakeihin. Korruptio- ja lainsäädäntötoimet viittaavat siihen, että hallitus pyrkii vahvistamaan kontrollia ja parantamaan julkista luottamusta monimutkaisessa taloudellisessa ympäristössä. Tulevaisuudessa voimme odottaa lisää tapahtumia, jotka voivat muokata työmarkkinoita ja sosiaalista vakaata poliittista kenttää.
 
-## Venäjän valtiopäivät hyväksyi lain kansalaisten suojelemiseksi ulkomailla
-Raportoinnin mukaan 13. toukokuuta 2026 Venäjän valtiopäivät hyväksyi lain, joka sallii Venäjän asevoimien käytön kansalaisten suojelemiseksi ulkomaisilta oikeustoimilta. Tämän lain tarkoituksena on suojata venäläisten oikeuksia tilanteissa, joissa heitä pidätetään tai vainotaan ulkomailla ilman Venäjän osallisuutta. [1]
+## Entinen varaministeri Butsaev pidätetty miljoonien dollarien omaisuuseriä koskevassa tapauksessa
+Maaliskuun 14. päivänä 2026 Tverin tuomioistuin Moskovassa määräsi Denis Butsaevin, entisen luonnonvaraministerin, pidätettäväksi poissaololta häntä vastaan nostetussa syytteessä, joka liittyy varojen väärinkäyttöön Venäjän ympäristöoperaattorilta. Butsaevilla on mahdollisesti 10 vuoden vankeusrangaistus, jos hänet todetaan syylliseksi, ja hänet ollaan tavoitettu viranomaisten toimesta Venäjältä poistumisensa jälkeen 23. huhtikuuta 2026. [1]
 
-**COMMENT:** Lain hyväksyminen osoittaa merkittävää sotilaallisen vallan laajentamista kansainväliselle tasolle ja heijastaa Venäjän sitoutumista kansalaistensa suojelemiseen ulkomailla. Tämä voi myös toimia pelotteena ulkomaisille tuomioistuimille, jotka pyrkivät syyttämään venäläisiä kansalaisia, mahdollistaen vaikutuksia tuleviin ulkoisiin suhteisiin.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #россия #вс рф #вс россии #удар #сво #сф #про  
-
-
-## Putin ilmoitti liikkuvien järjestelmien käytöstä erikoissotilaallisessa operaatiossa
-Toukokuun 13. päivänä 2026 presidentti Vladimir Putin ilmoitti liikkuvien järjestelmien, jotka on varustettu ballistisilla ei-ydinaseilla, tehokkaasta käytöstä meneillään olevassa erikoissotilaallisessa operaatiossa. Tämän ilmoituksen hän teki vierailullaan Moskovan lämpötekniikan instituutissa, jossa hän tunnusti instituutin panoksen kehittyneiden ohjusjärjestelmien kehittämisessä. [2]
-
-**COMMENT:** Ballististen ei-ydinaseiden käyttöönottaminen korostaa Venäjän jatkuvia sotilaallisia kykyjä ja strategisia painotuksia sen sotilaallisissa operaatioissa. Tämä kehitys saattaa viitata taktiikoiden mukauttamiseen ja valmistautumiseen lisääntyneeseen operatiiviseen valmiuteen.
+**COMMENT:** Tämä kehitys viittaa lisääntyvään valvontaan ja oikeudellisiin toimiin korkeatasoista korruptiota kohtaan Venäjän hallituksessa, erityisesti luonnonvarasektorilla.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #вооружение #сво #про  
+**KEYWORDS:** #russia #российский #удар #про
 
 
-## Tulipalo Transneftin laitoksella Bashkortostanissa
-Toukokuun 13. päivänä 2026 tuli esiin tulipalo Transneftin tuotantodispatchaseman linjalla Bashkortostanissa, joka syttyi kaasun syttymisen vuoksi varastotankissa. Pelastustoimijat työskentelevät parhaillaan tulipalon rajaamiseksi, ja tutkinta on käynnissä tapahtuman syiden selvittämiseksi, samalla kun etsitään useita työntekijöitä, jotka olivat paikalla tapahtumahetkellä. [3]
+## Venäjän valtion duma hyväksyi lain ylityökorvauksista
+Maaliskuun 14. päivänä 2026 Venäjän valtion duma hyväksyi lain, joka merkittävästi muuttaa säännöksiä ylityökorvauksista. Uusi lainsäädäntö mahdollistaa ylityötuntien maksimimäärän lisäämisen 120:sta 240:aan vuodessa, mikä on riippuvaista kollektiivisista sopimuksista. [2]
 
-**COMMENT:** Tämä tapaus nostaa esiin mahdolliset turvallisuus- ja operatiiviset haavoittuvuudet kriittisessä energian infrastruktuurissa Venäjällä. Tällaiset tapahtumat voivat johtaa tehostuneeseen valvontaan sääntelyvaatimuksista ja turvallisuusprotokollista valtion liitettyjen yritysten keskuudessa.
-
-**LOCATION:** Bashkortostan / Bashkortostan, 54.4747553, 55.9784582 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.474755&mlon=55.978458#map=8/54.474755/55.978458) (Башкортостан)
-
-**KEYWORDS:** #russia #подразделение #про  
-
-
-## Entinen Krasnodarin varakuvernööri Minkova sai ehdollisen tuomion huijauksesta
-Toukokuun 13. päivänä 2026 entinen Krasnodarin alueen varakuvernööri Anna Minkova tuomittiin ehdollisesti Krasnodarissa Leninin tuomioistuimessa huijauksesta ja rahanpesusta. Tuomio oli viisi vuotta ja kuusi kuukautta sekä 700 000 ruplan sakko, mutta ehdollinen vapautus myönnettiin lieventävien seikkojen perusteella, kuten täydellinen tunnustus ja yhteistyö tutkinnassa. [4]
-
-**COMMENT:** Tämä tapaus heijastaa jatkuvaa korruption tarkkailua alueellisten hallitustendesstapauksissa Venäjällä, mikä korostaa haavoittuvuuksia paikallisessa hallinnossa. Ehdollinen tuomio voi viitata mieltymykseen kuntoutuksen yli rangaistuksen, mutta se voi myös osoittaa valtion strategiaa käsitellä julkisia huolia korruptiosta.
-
-**LOCATION:** Krasnodar / Krasnodar, 45.0351532, 38.9772396 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.035153&mlon=38.977240#map=8/45.035153/38.977240) (Краснодар)
-
-**KEYWORDS:** #russia #вдв #удар #сво #сф #про  
-
-
-## Shoygu saapuu Bishkekiin SCO:n turvallisuusjohdon kokoukseen
-Toukokuun 13. päivänä 2026 Venäjän turvallisuusneuvoston sihteeri Sergey Shoygu saapui Bishkekiin Shanghain yhteistyöjärjestön (SCO) jäsenvaltioiden turvallisuusjohdon 21. kokoukseen. Kokouksessa Shoygun odotetaan arvioivan kansainvälisiä turvallisuuskysymyksiä ja ehdottavan parannuksia yhteistyölle SCO:n jäsenvaltioiden kesken keskittyen terrorismintorjuntaan, aseiden valvontaan ja tietoturvaan. [5]
-
-**COMMENT:** Shoygun läsnäolo SCO-kokouksessa korostaa Venäjän sitoutumista turvallisuusyhteistyön lisäämiseen alueella. Tämä osallistuminen voi viitata Venäjän vaikutusvallan lisääntymiseen Keski-Aasian turvallisuusasioissa ja strategiseen painotukseen monenvälisessä yhteistyössä nousevia uhkia vastaan.
-
-**LOCATION:** Bishkek / Bishkek City, 42.8761424, 74.6036724 [Click for Map Location](https://www.openstreetmap.org/?mlat=42.876142&mlon=74.603672#map=8/42.876142/74.603672) (Бишкек)
-
-**KEYWORDS:** #russia #удар #сф #про  
-
-
-## Sergey Aleksashenko sai sakon väärän tiedon levittämisestä armeijasta
-Toukokuun 13. päivänä 2026 Simonovskyn tuomioistuin Moskovassa tuomitsi entisen varaministerin Sergey Aleksashenko hallinnollisista rikkomuksista ja määräsi 50 000 ruplan sakon. Tuomioistuimen mukaan hän oli levittänyt discreditointitietoa Venäjän asevoimista videon kautta, joka oli julkaistu verkkosivustolla. [6]
-
-**COMMENT:** Aleksashenkon tuomio, jota pidetään tunnustettuna ulkomaisena agenttina Venäjällä, korostaa jatkuvia pyrkimyksiä tukahduttaa dissenssiä sotilasasioissa. Tämä tapaus voi viitata lisääntyvään keskittymiseen oikeudellisiin toimiin, joilla pyritään hallitsemaan julkista keskustelua ja vahvistamaan valtion narratiivia.
+**COMMENT:** Tämä laki voisi parantaa työnantajien toiminnallista joustavuutta, erityisesti puolustus- ja kriittisillä aloilla, joissa ylitöitä esiintyy runsaasti.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #вооруженные силы россии #про  
+**KEYWORDS:** #russia #россия #сво #пуск #про
 
 
-## Talouskehitysministeriö hylkää ehdotuksen energia-alan yhtiöiden osinkojen käyttämisestä investointien rahoitukseen
-Toukokuun 13. päivänä 2026 Venäjän talouskehitysministeriö ei kannattanut energia-alan ministeriön ehdotuksia, jotka vaativat valtion omistamien energia-alan yhtiöiden osinkojen ohjaamista laillisesti investointeihin vuoteen 2042. Ehdotetut muutokset olivat osa lakiehdotusta, jonka tavoitteena oli kehittää sähkoinfrastruktuuria ja perustaa julkinen lakiyhtiö tätä tarkoitusta varten. [7]
+## Unkarin ulkoministeri ilmoittaa Venäjän suurlähettiläälle Ukrainan länsiosassa tapahtuneiden iskujen hyväksymättömyydestä
+Maaliskuun 14. päivänä 2026 Venäjän suurlähettiläs Unkarissa, Jevgeni Stanislavov, kutsuttiin Unkarin ulkoministeriöön vastauksena raportteihin venäläisistä iskuista Länsi-Ukrainassa. Unkarin ulkoministeri Anita Orban ilmaisi näiden toimien hyväksymättömyyden, korostaen alueella olevan etnisen unkarilaisen vähemmistön läsnäoloa. [3]
 
-**COMMENT:** Tämä hylkäys osoittaa hallituksen haluttomuutta muuttaa valtion omistettujen yritysten taloudellista virtausta pitkän aikavälin infrastruktuuri-investoinneille. Tulevat lainsäädäntöehdotukset saattavat kohdata samanlaista tarkastelua, kun hallitus tasapainoittaa investointitarpeita taloudellisen vakauden kanssa.
+**COMMENT:** Tämä diplomaattinen sitoutuminen korostaa Unkarin herkkyyttä alueellisiin turvallisuuskysymyksiin, erityisesti etnisten vähemmistöjen osalta.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Budapest / Budapest, 47.4978789, 19.0402383 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.497879&mlon=19.040238#map=8/47.497879/19.040238) (Будапешт)
 
-**KEYWORDS:** #russia #удар #сво #про  
-
-
-## Putin ilmoittaa liikkuvien järjestelmien käytöstä ei-ydinmissileitä erikoissotilaallisessa operaatiossa
-Toukokuun 13. päivänä 2026 presidentti Vladimir Putin vahvisti liikkuvien järjestelmien käyttöä ei-yydinmissileillä erikoissotilaallisessa operaatiossa. Hän teki nämä huomautukset vierailullaan Moskovan lämpötekniikan instituutissa, jossa hän korosti instituutin roolia kehittyneiden maapohjaisten ja meripohjaisten ohjusjärjestelmien kehittämisessä. [8]
-
-**COMMENT:** Tämä julistus korostaa edistyneiden sotilaallisten kykyjen jatkuvaa kehittämistä Venäjän asevoimassa. Painotus liikkuville järjestelmille voi viitata mukautuvaan strategiaan Venäjän operatiivisessa lähestymistavassa, mikä saattaa vaikuttaa tuleviin sitoumuksiin ja sotilaalliseen valmiuteen.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #вооружение #сво #про  
+**KEYWORDS:** #российский #удар #про
 
 
-## Venäjän duma hyväksyy lain, joka säätää 10 vuoden vanhentumisajan yksityistämistapauksille
-Toukokuun 13. päivänä 2026 Venäjän duma hyväksyi ensimmäisessä käsittelyssä lakiehdotuksen, joka esittää 10 vuoden vanhentumisajan laillisille toimille, jotka liittyvät väärin yksityistettyjen omaisuuksien takaisinperimiseen. Ehdotettavat muutokset siviililakiin pyrkivät tarjoamaan selkeyttä ja vakautta omaisuus oikeuksille yksilöille, jotka ovat investoineet yksityistettyihin yrityksiin vuosien varrella. [13]
+## Senaattori Salpagrov pääsee sopimukseen korruption vastaisessa asiassa
+Maaliskuun 14. päivänä 2026 Nikulinskin tuomioistuin Moskovassa lopetti syytteet senaatti Akhmat Salpagrovia vastaan Venäjän syyttäjänviraston esittämässä asiassa osapuolten päästyä sopimukseen. Tuomioistuimen päätös koski myös aiemmin Karatsai-nuorisovaltion alueella johtanutta Saparbia Lapanovia ja 26 muuta, säilyttäen vaatimukset kolmea henkilöä vastaan, jotka liittyvät Teberdan kansallispuistossa sijaitseviin maihin. [4]
 
-**COMMENT:** Tämä lainsäädäntö heijastaa Venäjän hallituksen pyrkimyksiä varmistaa omaisuusoikeudet ja parantaa sijoittajaluottamusta kotimaisissa yrityksissä. Vanhenemisaikakauden käyttöönotto voi myös viitata aikomukseen vakauttaa oikeudellinen ympäristö, joka liittyy yksityistämiseen ja omaisuuden omistamiseen.
+**COMMENT:** Sopimus ilmaisee merkittävää poliittista manööverta, joka saattaa heijastella hallituksen keskeisiä tavoitteita korruption syytöksille.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #удар #про  
+**KEYWORDS:** #russia #удар #сво #про
 
 
-## Lavrov saapuu Intiaan neuvotteluihin
-Toukokuun 13. päivänä 2026 Venäjän ulkoministeri Sergey Lavrov saapui Intiaan, missä hänen odotetaan tapaavan intialaisen ulkoministerin Subrahmanyam Jaishankarin. Keskustelujen aiheena on presidentti Putinin virallisen vierailun aikana Intiaan joulukuussa sovittujen sopimusten täytäntöönpano ja valmistelut tuleville neuvotteluille maiden johtajien välillä. [14]
+## Kalugan lentoasema keskeyttää toiminnan
+Maaliskuun 14. päivänä 2026 Kalugan lentoasema (Graptsevo) ilmoitti tilapäisistä rajoituksista lentokoneiden saapumiselle ja lähdölle, mikä vahvistettiin liittovaltion ilmailuviranomaisen (Rosaviatsiya) toimesta. Tämä operatiivinen tauko saattaa viitata taustalla oleviin ongelmiin ilmailuhallinnassa tai turvallisuusprotokollissa. [5]
 
-**COMMENT:** Tämä vierailu korostaa Venäjän jatkuvia ponnisteluja vahvistaa kaksipuolisia suhteita Intiaan muuttuvassa geopoliittisessa maisemassa. Tuleva yhteistyö saatetaan priorisoida erityisesti kaupankäynnissä sekä turvallisten logististen ja rahoituskanavien luomisessa.
+**COMMENT:** Tämä lentoaseman keskeytys voi heijastaa laajempia haasteita ilmailusektorilla ja se voi vaikuttaa alueelliseen liikennevakauteen.
 
-**LOCATION:** Uuden-Delhin / New Delhi, 28.6138954, 77.2090057 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.613895&mlon=77.209006#map=8/28.613895/77.209006) (Нью-Дели)
+**LOCATION:** Kaluga / Kaluga, 54.5101087, 36.2598115 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.510109&mlon=36.259811#map=8/54.510109/36.259811) (Калуга)
 
-**KEYWORDS:** #российский #про  
+**KEYWORDS:** #russia #пуск
 
 
-## Valtion duma vetoaa Mishustinin puoleen adoptiomahdollisuuksista sukulaisille
-Toukokuun 13. päivänä 2026 Valtion duman neuvosto jätti vetoomuksen pääministeri Mikhail Mishustinin suuntaan lasten adoptoinnin sääntöjen säilyttämiseksi, mikäli lapset jäävät orvoiksi. Neuvosto suositteli, että hallitus kehittäisi mekanismeja sukulaisten priorisoimiseksi adoptointi- ja huoltoprosessissa, mikä nähdään välttämättömänä askeleena pitkään jatkuneiden sääntelyaukkojen käsittelemiseksi. [9]
+## Venäjä lisää ylityörajoitusta ja muita keskeisiä kehityksiä 14. toukokuuta 2026
+Maaliskuun 14. päivänä 2026 Venäjän valtion duma hyväksyi lain, joka lisää ylityörajan 240 tuntiin vuodessa ja nimitti Yana Lantratovan uudeksi ihmisoikeusvaltuutetuksi. Lisäksi entinen luonnonvaraministeri Denis Butsaev tuomittiin poissaolevana väärinkäytöksistä. [6]
 
-**COMMENT:** Tämä vedonomus heijastaa merkittävää huomiota perhesiteeiden säilyttämiseen adoptiokontekstissa, mikä voi viitata muutokseen sosiaaliseen vakauden parantamiseksi lastensuojelussa. Näiden oikeudellisten kehysten vahvistaminen voi vaikuttaa laajemmin perhesuhteisiin ja valtion puuttumiseen henkilökohtaisiin asioihin Venäjällä.
+**COMMENT:** Lainsäädännölliset muutokset ja oikeudelliset toimet tuovat esiin Venäjän hallituksen keskittymisen työvoimakäytäntöihin ja vastuuseen valtion instituutioissa.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #про  
+**KEYWORDS:** #russia #вс рф #флот #вдв #удар #сво #про
 
 
-## Putin ilmoittaa ydinvoimien strategisen modernisoinnin jatkumisesta
-Toukokuun 13. päivänä 2026 presidentti Putin korosti Venäjän strategisten ydinvoimien jatkuvan modernisoinnin merkitystä mainiten instituutin asiantuntijoiden kollektiiviset ponnistelut suvereenin ohjusjärjestelmäkoulun perustamisessa. Tämä modernisointi pyrkii luomaan vahvan teknologisen ja tuotantoperustan tuleville vuosikymmenille, heijastaen strategista keskittymistä venäläisten sotilaallisten kykyjen säilyttämiseen ja parantamiseen. [27]
+## Venäjä valmis keskusteluun Japanin kanssa, jos ehdotetaan
+Maaliskuun 14. päivänä 2026 Venäjän ulkoministeriö totesi, että Venäjä on valmis keskusteluun Japanin kanssa, mutta ei ole aloittanut kutsuja liiketoimintatehtäville, jotka tähtäävät japanilaisten yritysten omaisuuden suojelemiseen. [7]
 
-**COMMENT:** Sitoutuminen vahvistaa strategisia ydinvoimia viittaa siihen, että varaudutaan estämään uhkia ja varmistamaan sotilaallinen valmius kasvavien geopoliittisten jännitysten keskellä. Tämä kehitys voi johtaa lisääntyneisiin sotilaallisiin investointeihin ja muutokseen Venäjän puolustuspolitiikassa lyhyellä aikavälillä.
+**COMMENT:** Tämä lausunto heijastaa Venäjän varovaisuutta ulkoisissa suhteissaan, erityisesti Japanin kanssa, jatkuvien geopoliittisten jännitteiden keskellä.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #россия #сво #сф #про
+
+
+## Sergey Neverov vetäytyy esivaaleista
+Maaliskuun 14. päivänä 2026 Sergey Neverov ilmoitti vetäytyvänsä ennakkoäänestyksestä Yhdistyneen Venäjän puolueesta valtion duman vaaleissa. Hän tukee toista ehdokasta Artem Koryuchenkoa, korostaen Koryuchenkon kokemusta osallistujana erityisessä sotatoimissaan ja urhoollisuusmitaliensa kantajana. [8]
+
+**COMMENT:** Tämä vetäytyminen heijastaa merkittävää muutosta Yhdistyneen Venäjän puolueen sisällä vaalien valmistellessa mahdollisia ehdokasstrategioiden muutoksia.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #россия #призыв #сво
+
+
+## Tulgorelektrotransin johtaja asetettu kotiarestiin kuolemaan johtaneen onnettomuuden vuoksi
+Maaliskuun 14. päivänä 2026 Tulan sairaslaakarin piirituomioistuin määräsi Tulgorelektrotransin johtajan kotiarestiin kuukauden ja 15 päivän ajaksi kuolemaan johtaneen onnettomuuden vuoksi, joka johti kuuden henkilön kuolemaan. [9]
+
+**COMMENT:** Tämä tapaus heijastaa jatkuvaa turvallisuuden sääntöjen tarkastelua Venäjän kunnallisissa palveluissa, erityisesti liikennealalla.
+
+**LOCATION:** Tula / Tula, 54.1930321, 37.61754 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.193032&mlon=37.617540#map=8/54.193032/37.617540) (Тула)
+
+**KEYWORDS:** #russia #про
+
+
+## Venäjän alueet kohteena suuressa drone-hyökkäyksessä
+Maaliskuun 13. päivänä 2026 Venäjän alueet, erityisesti Moskova ja Jaroslavl, kokivat merkittävän drone-hyökkäyksen, missä puolustusministeriö raportoi 286 ukrainalaisen dronejen kaatamisesta yön aikana. [10]
+
+**COMMENT:** Tämä dronehyökkäys korostaa jatkuvaa uhkaa, jonka Ukrainan sotilaalliset toimet aiheuttavat.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #российские #вс рф #российские военные #минобороны #пво #штаб #министр обороны #удар #рэб #беспилотник #бпла #пуск #про
+
+
+## Venäjän joukot hyökkäävät NATO:n tukikohtiin Kharkivissa 14. toukokuuta
+Maaliskuun 14. päivänä 2026 Venäläiset joukot suorittivat laajan hyökkäyksen sotilas- ja teollisuustiloihin Kharkivin alueella, kohdistuen keskeiseen puolustusinfrastruktuuriin useissa paikoissa, mukaan lukien Volchansk ja Balakleya. [11]
+
+**COMMENT:** Tämä sotilaallinen toiminta korostaa konfliktin jatkuvaa intensiivisyyttä ja Venäjän keskittymistä heikentää Ukrainan puolustusrakenteita.
+
+**LOCATION:** Kharkiv Oblast / Kharkiv Oblast, Unknown, Unknown [Click for Map Location](Unknown) (Unknown)
+
+**KEYWORDS:** #российские #вс рф #российские войска #полк #удар #сво #сф #часть #про
+
+
+## Venäjä aloittaa lasten rajan ylittämisen Abkhazian ja Etelä-Ossetian kautta syntymätodistuksilla
+Maaliskuun 14. päivänä 2026 Venäjä käynnisti uudelleen venäläisten kansalaisten alle 14-vuotiaiden lasten rajanylitykset Abkhazian ja Etelä-Ossetian kautta syntymätodistuksilla. [12]
+
+**COMMENT:** Tämä rajanylityksen uudelleenkäynnistäminen saattaa viitata Kreml'in politiikan muuttumiseen Abkhazian ja Etelä-Ossetian suuntaan.
+
+**LOCATION:** Abkhazia / Embassy of Abkhazia, 55.7446749, 37.5970333 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.744675&mlon=37.597033#map=8/55.744675/37.597033) (Абхазия)
+
+**KEYWORDS:** #россия #учения #пуск #про
+
+
+## Pashinyan ei ole huolissaan Venäjän laista, joka suojaa asevoimia kansalaisten ulkomaille
+Maaliskuun 14. päivänä 2026 Armenian pääministeri Nikol Pashinyan käsitteli hiljattain hyväksyttyä Venäjän lakia, joka sallii Venäjän asevoimien käytön pidätettyjen kansalaisten suojelemiseen ulkomailla. [13]
+
+**COMMENT:** Tämä lausunto viittaa Armenialta jatkuvaan sitoutumiseen Venäjän läheisiin suhteisiin.
+
+**LOCATION:** Armenia / Armenia, 40.7696272, 44.6736646 [Click for Map Location](https://www.openstreetmap.org/?mlat=40.769627&mlon=44.673665#map=8/40.769627/44.673665) (Армения)
+
+**KEYWORDS:** #россия #вооруженные силы рф #вс рф #вс россии #военная база #сф #про
+
+
+## Venäjän suurlähettiläs selventää sotilaallisia toimintoja Ukrainassa Unkarin ulkoministerille
+Maaliskuun 14. päivänä 2023 Venäjän suurlähettiläs Budapestissa, Jevgeni Stanislavov, tapasi Unkarin ulkoministeri Anita Orbanin selventääkseen Venäjän asevoimien toimintaa Ukrainan konfliktin yhteydessä. [14]
+
+**COMMENT:** Tämä diplomaattinen vuoropuhelu korostaa Venäjän pyrkimyksiä hallita sotilaallisten toimien käsityksiä Ukrainassa.
+
+**LOCATION:** Budapest / Budapest, 47.4978789, 19.0402383 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.497879&mlon=19.040238#map=8/47.497879/19.040238) (Будапешт)
+
+**KEYWORDS:** #россия #минобороны россии #вооруженные силы рф #вс рф #минобороны #удар #сво #беспилотник #бпла #вертолет #пуск #про
+
+
+## AVTOVAZin toimitusjohtaja Sokolov vaihtaa Mercedesin Lada Auraan
+Maaliskuun 14. päivänä 2023 AVTOVAZin toimitusjohtaja Maxim Sokolov siirtyi ajamaan Lada Auraa. [15]
+
+**COMMENT:** Tämä vaihto ulkomaisesta luksusautosta kotimaiseksi malliksi heijastaa vauhtia paikallisen teollisuuden edistämiseksi taloudellisen paineen keskellä.
 
 **LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #сф #про  
+**KEYWORDS:** #российский #сво #про
 
 
-## Venäjän joukot iskivät Naton neuvonantajiin Ukrainassa
-Toukokuun 13. päivänä 2026 Venäjän asevoimat suorittivat iskuja sotilastiloihin Zhytomyrin alueella, Ukrainassa, joissa raporttien mukaan oli Naton neuvonantajia ja kenraaleja. Iskujen kohteena olivat koulutuskeskukset, jotka osallistuivat operaatioihin Venäjää vastaan, ja niiden tehokkuuden arvioiminen odotetaan tapahtuvan 24 tunnin sisällä. [17]
+## Viro lyhentää Narva-1 tarkastuspisteen aukioloaikoja
+Kesäkuun 15. päivänä 2023 Viro lyhentää Narva-1 tarkastuspisteen aukioloaikoja 12 tuntiin päivässä. [16]
 
-**COMMENT:** Tämä kehitys kuvaa Venäjän joukkojen ja Natoon liitettyjen tahojen jatkuvaa vastakkainasettelua Ukrainassa, mikä viittaa mahdolliseen eskalaatioon vihamielisyydessä. Naton henkilöstön kohdistaminen voi johtaa alueellisten jännitteiden lisääntymiseen ja sotilaallisten toimenpiteiden kasvuun.
+**COMMENT:** Tämä aukioloaikojen vähentäminen voi viitata Viron turvallisuustaktiikoiden kehittämiseen.
 
-**LOCATION:** Zhytomyrin alue / Zhytomyr Oblast, Unknown, Unknown [Click for Map Location](Unknown) (Житомирская область)
+**LOCATION:** Narva-1 Checkpoint / Narva-1 Checkpoint, Unknown, Unknown [Click for Map Location](Unknown) (Unknown)
 
-**KEYWORDS:** #вс рф #штаб #офицер #удар #сво #беспилотник #сф #часть #про  
+**KEYWORDS:** #россия #российские #удар #пуск #армия #про
+
+
+## Bryanskin virkaatekevä kuvernööri Kovalchuk jakaa ensimmäisen viestin
+Maaliskuun 14. päivänä 2023 Bryanskin alueen virkaatekevä kuvernööri Yegor Kovalchuk ilmaisi kiitollisuuttaan presidentti Vladimir Putinille ensimmäisessä sosiaalisen median viestissään. [17]
+
+**COMMENT:** Kovalchukin nimittäminen virkaatekevänä kuvernöörinä korostaa Kreml'in keskittymistä alueellisiin johtajuuksiin.
+
+**LOCATION:** Bryanskin alue / Bryansk Oblast, 52.8873315, 33.415853 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.887332&mlon=33.415853#map=8/52.887332/33.415853) (Брянская область)
+
+**KEYWORDS:** #россия #штаб #сво #про
+
+
+## Venäjä syyttää Japaniin reagoimattomuudesta dialogin edellytyksiin
+Maaliskuun 14. päivänä 2026 Venäjän ulkoministeri Maria Zaharova ilmoitti, että Japani ei ole vastannut listaamilleen edellytyksille, joiden on tarkoitus aloittaa keskustelut maiden välillä. [18]
+
+**COMMENT:** Tämä reagoinnin puute Japanilta viittaa mahdolliseen tukkeutumiseen diplomaattisissa suhteissa.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #сво #про
+
+
+## Unkarin ulkoministeri tapaa Venäjän suurlähettilään
+Maaliskuun 14. päivänä 2026 Venäjän suurlähettiläs Budapestissa, Jevgeni Stanislavov, tapasi Unkarin uuden ulkoministerin, Anita Orbanin, keskustellakseen Venäjän joukoista Ukrainassa. [19]
+
+**COMMENT:** Tämä tapaaminen heijastaa Venäjän pyrkimyksiä hallita sotilaallisia toimintojensa käsityksiä Ukrainassa.
+
+**LOCATION:** Budapest / Budapest, 47.4978789, 19.0402383 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.497879&mlon=19.040238#map=8/47.497879/19.040238) (Будапешт)
+
+**KEYWORDS:** #вс россии #удар #беспилотник #сф #про
+
+
+## Ukrainan joukot yrittivät hyökätä kouluun Vasilyevkassa
+Maaliskuun 14. päivänä 2026 Ukrainan asevoimat yrittivät iskeä kouluun Vasilyevkassa, Zaporižžian alueella dronella, joka epäonnistui räjähtämään iskun yhteydessä. [20]
+
+**COMMENT:** Tämä tapaus korostaa konfliktin jatkuvaa heikkoutta ja siviili-infrastruktuurin uhkia sotilaallisten toimien vuoksi.
+
+**LOCATION:** Vasilyevka / Vasilyevka, Unknown, Unknown [Click for Map Location](Unknown) (Unknown)
+
+**KEYWORDS:** #российские #батальон #удар #сво #беспилотник #бпла #про
+
+
+## Yana Lantratova nimitetään uudeksi ihmisoikeusvaltuutetuksi Venäjällä
+Maaliskuun 14. päivänä 2026 Yana Lantratova nimettiin Venäjän uudeksi ihmisoikeusvaltuutetuksi valtion duman toimesta, ja hänestä tuli selkeä suosikki kolmen ehdokkaan joukossa. [21]
+
+**COMMENT:** Lantratovan nimittäminen ihmisoikeusvaltuutetuksi voi viitata Kreml'in lähestymistapojen muutokseen kansalaisoikeuksiin.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #российский #сво #сф #часть #про
+
+
+## Venäjän valtion duma nostaa ylityörajan 240 tuntiin vuodessa
+Maaliskuun 14. päivänä 2026 Venäjän valtion duma hyväksyi muutoksen työlakeihin, joka nostaa ylityötyöajan vuositason 120:sta 240:ään tunnin syyskuun 1. päivänä 2026. [22]
+
+**COMMENT:** Tämä lainsäädäntömuutos viittaa hallituksen reagointiin työmarkkinatilanteeseen.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #штаб #пуск #про
+
+
+## Mirashnik: Ukrainan joukoissa oli 10% vähenemistä EU:n rahoituksen katkosten vuoksi
+Maaliskuun 14. päivänä 2026 Rodion Mirashnik, Venäjän ulkoministeriön erityisedustaja, raportoi 10%:n vähenemisestä Ukrainan joukkojen hyökkäyksissä siviilikohteita vastaan huhtikuun aikana. [23]
+
+**COMMENT:** Raportoitu väheneminen saattaa viitata operatiivisiin haasteisiin, joita Ukrainan joukot kohtaavat finanssiongelmien vuoksi.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #российские #учения #удар #беспилотник #про
+
+
+## Zaharova: Venäjä tarjoaa Japanille askelia dialogin jatkamiseksi
+Maaliskuun 14. päivänä 2026 Maria Zaharova, Venäjän ulkoministeriön virallinen edustaja, ilmoitti, että Venäjä on antanut Japanille luettelon askelista, jotka ovat tarpeen dialogin aloittamiseen maiden välillä. [24]
+
+**COMMENT:** Tämä kehitys heijastaa jatkuvia diplomaattisia ponnisteluja Venäjän taholta.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #сво
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1089213?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1089520?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1089260?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1089469?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1089258?utm_source=top
+[3] interfax.ru - https://interfax.ru/world/1089513?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1089249?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1089521?utm_source=top
 
-[5] interfax.ru - https://interfax.ru/russia/1089268
+[5] interfax.ru - https://interfax.ru/russia/1089535
 
-[6] interfax.ru - https://interfax.ru/russia/1089266
+[6] interfax.ru - https://interfax.ru/russia/1089532
 
-[7] interfax.ru - https://interfax.ru/russia/1089262
+[7] interfax.ru - https://interfax.ru/russia/1089531
 
-[8] interfax.ru - https://interfax.ru/russia/1089260
+[8] interfax.ru - https://interfax.ru/russia/1089530
 
-[9] interfax.ru - https://interfax.ru/russia/1089255
+[9] interfax.ru - https://interfax.ru/russia/1089529
 
-[10] interfax.ru - https://interfax.ru/russia/1089259
+[10] aif.ru - https://aif.ru/society/posledniy-ultimatum-bomby-rasplaty-besposhchadno-rushat-byushchie-po-rf-bazy
 
-[11] interfax.ru - https://interfax.ru/russia/1089261
+[11] aif.ru - https://aif.ru/society/udary-ispepelili-taynye-bazy-nato-pod-harkovom-glavnaya-novost-svo-14-maya
 
-[12] interfax.ru - https://interfax.ru/russia/1089258
+[12] www.vesti.ru - https://www.vesti.ru/ns/vozobnovlen-propusk-detej-v-abkhaziyu-i-yuzhnuyu-osetiyu-po-svidetelstvu-o-rozhdenii
 
-[13] interfax.ru - https://interfax.ru/russia/1089257
+[13] www.vesti.ru - https://www.vesti.ru/ns/u-pashinyana-net-obespokoennosti-iz-za-zakona-o-zashchite-rossiyan-s-pomoshchyu-vs-rf
 
-[14] interfax.ru - https://interfax.ru/world/1089256
+[14] www.vesti.ru - https://www.vesti.ru/ns/posol-rf-razyasnil-glave-mid-vengrii-dejstviya-vs-rf-v-khode-konflikta-na-ukraine
 
-[15] interfax.ru - https://interfax.ru/russia/1089254
+[15] www.vesti.ru - https://www.vesti.ru/ns/gendirektor-avtovaza-sokolov-pomenyal-mercedes-na-lada-aura
 
-[16] aif.ru - https://aif.ru/politics/putin-zayavil-chto-rf-prodolzhit-sozdanie-raketnyh-kompleksov
+[16] www.vesti.ru - https://www.vesti.ru/ns/rezhim-raboty-kpp-narva-1-na-granice-ehstonii-i-rf-sokratyat-do-12-chasov
 
-[17] aif.ru - https://aif.ru/society/sovetnikov-nato-unichtozhili-za-ataki-regionov-rf-glavnaya-novost-svo-13-maya
+[17] www.vesti.ru - https://www.vesti.ru/ns/bogomaz-podelilsya-v-socseti-pervym-postom-bryanskogo-vrio-gubernatora-kovalchuka
 
-[18] www.vesti.ru - https://www.vesti.ru/ns/italyanskie-vizovye-centry-v-rf-otkazalis-ot-priema-dokumentov-cherez-posrednika
+[18] iz.ru - https://iz.ru/2097335/v-mid-rf-zaiavili-ob-otsutstvii-reaktcii-iaponii-na-usloviia-dlia-dialoga-izi
 
-[19] www.vesti.ru - https://www.vesti.ru/ns/ehks-nachalniku-gu-mchs-po-samarskoj-oblasti-bojko-dali-11-let-kolonii
+[19] iz.ru - https://iz.ru/2097317/2026-05-14/anita-orban-provela-vstrechu-s-poslom-rossii
 
-[20] www.vesti.ru - https://www.vesti.ru/ns/beregini-v-proshlom-godu-udalos-raskryt-desyatki-kiberoperacij-kieva
+[20] iz.ru - https://iz.ru/2097361/2026-05-14/balitckii-soobshchil-o-neudachnoi-popytke-vsu-atakovat-zdanie-shkoly-v-vasilevke?main_click
 
-[21] www.vesti.ru - https://www.vesti.ru/ns/bastrykin-vzyal-na-kontrol-delo-ob-izbienii-migrantom-rebenka-v-ekaterinburge
+[21] www.kp.ru - https://www.kp.ru/daily/277782/5249006/
 
-[22] iz.ru - https://iz.ru/2096499/2026-05-13/putin-prizval-rossiiskii-opk-dvigatsia-vpered-radi-nuzhnykh-strane-rezultatov
+[22] www.kp.ru - https://www.kp.ru/daily/277782/5249177/
 
-[23] iz.ru - https://iz.ru/2096499/2026-05-13/putin-prizval-rossiiskii-opk-dvigatsia-vpered-radi-nuzhnykh-strane-rezultatov?main_click
+[23] www.kp.ru - https://www.kp.ru/online/news/6970340/
 
-[24] iz.ru - https://iz.ru/2096481/2026-05-13/eks-zamministra-finansov-rf-aleksashenko-oshtrafovali-za-diskreditatciiu-vs-rf?main_click
-
-[25] www.kp.ru - https://www.kp.ru/daily/277781.4/5248101/
-
-[26] www.kp.ru - https://www.kp.ru/online/news/6968146/
-
-[27] ria.ru - https://ria.ru/20260513/putin-2092268179.html
+[24] www.kp.ru - https://www.kp.ru/online/news/6970331/
