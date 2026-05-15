@@ -1,294 +1,234 @@
-# Report Date: 2026-05-14
+# Raporttipäivä: 15. mai 2026
 
-## Summary
-Raportointijaksolla Venäjällä tapahtui merkittäviä kehityksiä hallituksen ja lainsäädännön saralla, mukaan lukien oikeudellisia toimia ja muutoksia työlakeihin. Korruptio- ja lainsäädäntötoimet viittaavat siihen, että hallitus pyrkii vahvistamaan kontrollia ja parantamaan julkista luottamusta monimutkaisessa taloudellisessa ympäristössä. Tulevaisuudessa voimme odottaa lisää tapahtumia, jotka voivat muokata työmarkkinoita ja sosiaalista vakaata poliittista kenttää.
+## Yhteenveto
+Raportointijaksolla havaittiin useita väkivaltaisia tapahtumia, jotka liittyivät dronehyökkäyksiin Venäjällä sekä intensiivisiin sotatoimiin Ukrainassa. Tässä yhteydessä neljä ihmistä, mukaan lukien lapsi, kuoli dronehyökkäyksissä Ryazanissa. Venäjä ja Ukraina vaihtoivat 205 sotavangin joukkoa. Tapahtumat osoittavat jatkuvaa tuhoa alueilla, joissa konflikti jatkuu, ja voivat johtaa tiukennettuihin turvallisuustoimiin ja kansainvälisiin suhteisiin. Alueelliset ja kansainväliset tapahtumat voivat kehittää tulevia sotatoimia ja diplomaattisia suhteita.
 
-## Entinen varaministeri Butsaev pidätetty miljoonien dollarien omaisuuseriä koskevassa tapauksessa
-Maaliskuun 14. päivänä 2026 Tverin tuomioistuin Moskovassa määräsi Denis Butsaevin, entisen luonnonvaraministerin, pidätettäväksi poissaololta häntä vastaan nostetussa syytteessä, joka liittyy varojen väärinkäyttöön Venäjän ympäristöoperaattorilta. Butsaevilla on mahdollisesti 10 vuoden vankeusrangaistus, jos hänet todetaan syylliseksi, ja hänet ollaan tavoitettu viranomaisten toimesta Venäjältä poistumisensa jälkeen 23. huhtikuuta 2026. [1]
+## Kuolonuhrit nousevat neljään dronehyökkäyksessä Ryazanissa
+Maaliskuun 15. päivänä 2026 neljä henkilöä, mukaan lukien lapsi, vahvistettiin kuolleeksi dronehyökkäyksen seurauksena Ryazanissa. Kuvernööri Pavel Malkov raportoi, että seitsemän muuta henkilöä on sairaalassa, ja pelastustoimet ovat käynnissä, kun viranomaiset arvioivat asuinrakennusten ja paikallisen teollisuuspaikan vaurioita. [1]
 
-**COMMENT:** Tämä kehitys viittaa lisääntyvään valvontaan ja oikeudellisiin toimiin korkeatasoista korruptiota kohtaan Venäjän hallituksessa, erityisesti luonnonvarasektorilla.
+**COMMENT:** Tämä tapahtuma korostaa drone-sodan kasvavaa uhkaa Venäjällä, mikä herättää huolta kansallisesta turvallisuudesta ja julkisesta turvallisuudesta.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Ryazan / Ryazan, 54.6702523, 39.6884462 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.670252&mlon=39.688446#map=8/54.670252/39.688446) (Рязань)
 
-**KEYWORDS:** #russia #российский #удар #про
-
-
-## Venäjän valtion duma hyväksyi lain ylityökorvauksista
-Maaliskuun 14. päivänä 2026 Venäjän valtion duma hyväksyi lain, joka merkittävästi muuttaa säännöksiä ylityökorvauksista. Uusi lainsäädäntö mahdollistaa ylityötuntien maksimimäärän lisäämisen 120:sta 240:aan vuodessa, mikä on riippuvaista kollektiivisista sopimuksista. [2]
-
-**COMMENT:** Tämä laki voisi parantaa työnantajien toiminnallista joustavuutta, erityisesti puolustus- ja kriittisillä aloilla, joissa ylitöitä esiintyy runsaasti.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #россия #сво #пуск #про
+**KEYWORDS:** #russia #штаб #сво #беспилотник #бпла #про
 
 
-## Unkarin ulkoministeri ilmoittaa Venäjän suurlähettiläälle Ukrainan länsiosassa tapahtuneiden iskujen hyväksymättömyydestä
-Maaliskuun 14. päivänä 2026 Venäjän suurlähettiläs Unkarissa, Jevgeni Stanislavov, kutsuttiin Unkarin ulkoministeriöön vastauksena raportteihin venäläisistä iskuista Länsi-Ukrainassa. Unkarin ulkoministeri Anita Orban ilmaisi näiden toimien hyväksymättömyyden, korostaen alueella olevan etnisen unkarilaisen vähemmistön läsnäoloa. [3]
+## Venäjä ja Ukraina suorittavat 205 vangin vaihdon
+Maaliskuun 15. päivänä 2026 Venäjä ja Ukraina suorittivat vanginvaihdon, jossa 205 venäläistä sotilasta palautettiin vastineeksi 205 ukrainalaisesta sotilasta, raportoi Venäjän puolustusministeriö. Vaihto toteutettiin Yhdistyneiden arabiemiirikuntien avulla, ja palautetut venäläiset sotilaat saavat tällä hetkellä psykologista ja lääketieteellistä apua Valko-Venäjällä ennen paluuta Venäjälle kuntoutusta varten. [2]
 
-**COMMENT:** Tämä diplomaattinen sitoutuminen korostaa Unkarin herkkyyttä alueellisiin turvallisuuskysymyksiin, erityisesti etnisten vähemmistöjen osalta.
-
-**LOCATION:** Budapest / Budapest, 47.4978789, 19.0402383 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.497879&mlon=19.040238#map=8/47.497879/19.040238) (Будапешт)
-
-**KEYWORDS:** #российский #удар #про
-
-
-## Senaattori Salpagrov pääsee sopimukseen korruption vastaisessa asiassa
-Maaliskuun 14. päivänä 2026 Nikulinskin tuomioistuin Moskovassa lopetti syytteet senaatti Akhmat Salpagrovia vastaan Venäjän syyttäjänviraston esittämässä asiassa osapuolten päästyä sopimukseen. Tuomioistuimen päätös koski myös aiemmin Karatsai-nuorisovaltion alueella johtanutta Saparbia Lapanovia ja 26 muuta, säilyttäen vaatimukset kolmea henkilöä vastaan, jotka liittyvät Teberdan kansallispuistossa sijaitseviin maihin. [4]
-
-**COMMENT:** Sopimus ilmaisee merkittävää poliittista manööverta, joka saattaa heijastella hallituksen keskeisiä tavoitteita korruption syytöksille.
+**COMMENT:** Tämä vaihto heijastaa jatkuvia humanitaarisia sovittelupyrkimyksiä Venäjän ja Ukrainan konfliktissa ja korostaa kolmansien osapuolten roolia.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #удар #сво #про
+**KEYWORDS:** #russia #россия #российские #минобороны россии #российские военнослужащие #минобороны #министерство обороны #про
 
 
-## Kalugan lentoasema keskeyttää toiminnan
-Maaliskuun 14. päivänä 2026 Kalugan lentoasema (Graptsevo) ilmoitti tilapäisistä rajoituksista lentokoneiden saapumiselle ja lähdölle, mikä vahvistettiin liittovaltion ilmailuviranomaisen (Rosaviatsiya) toimesta. Tämä operatiivinen tauko saattaa viitata taustalla oleviin ongelmiin ilmailuhallinnassa tai turvallisuusprotokollissa. [5]
+## Teollisuuslaitoksen tulipalo Ryazanissa saatu hallintaan dronehyökkäyksen jälkeen
+Maaliskuun 15. päivänä 2026 tulipalo teollisuuslaitoksessa Ryazanissa, joka vaurioitui dronehyökkäyksessä, on saatu hallintaan operatiivisten palveluiden mukaan. Hyökkäyksen, jota pidetään Kiovan hallinnon tekemänä, seurauksena kuolonuhrit ovat nousseet neljään, ja alueelliset viranomaiset arvioivat jatkuvasti ympäristövaikutuksia. [3]
 
-**COMMENT:** Tämä lentoaseman keskeytys voi heijastaa laajempia haasteita ilmailusektorilla ja se voi vaikuttaa alueelliseen liikennevakauteen.
+**COMMENT:** Tämä tapahtuma korostaa kaupungin infrastruktuurin kasvavaa riskiä droneiskujen kohteena, mikä herättää huolta sisäisestä turvallisuudesta.
 
-**LOCATION:** Kaluga / Kaluga, 54.5101087, 36.2598115 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.510109&mlon=36.259811#map=8/54.510109/36.259811) (Калуга)
+**LOCATION:** Ryazan / Ryazan, 54.6702523, 39.6884462 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.670252&mlon=39.688446#map=8/54.670252/39.688446) (Рязань)
 
-**KEYWORDS:** #russia #пуск
-
-
-## Venäjä lisää ylityörajoitusta ja muita keskeisiä kehityksiä 14. toukokuuta 2026
-Maaliskuun 14. päivänä 2026 Venäjän valtion duma hyväksyi lain, joka lisää ylityörajan 240 tuntiin vuodessa ja nimitti Yana Lantratovan uudeksi ihmisoikeusvaltuutetuksi. Lisäksi entinen luonnonvaraministeri Denis Butsaev tuomittiin poissaolevana väärinkäytöksistä. [6]
-
-**COMMENT:** Lainsäädännölliset muutokset ja oikeudelliset toimet tuovat esiin Venäjän hallituksen keskittymisen työvoimakäytäntöihin ja vastuuseen valtion instituutioissa.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #вс рф #флот #вдв #удар #сво #про
+**KEYWORDS:** #russia #штаб #сво #бпла #сф #про
 
 
-## Venäjä valmis keskusteluun Japanin kanssa, jos ehdotetaan
-Maaliskuun 14. päivänä 2026 Venäjän ulkoministeriö totesi, että Venäjä on valmis keskusteluun Japanin kanssa, mutta ei ole aloittanut kutsuja liiketoimintatehtäville, jotka tähtäävät japanilaisten yritysten omaisuuden suojelemiseen. [7]
+## Venäjän tutkintakomitea avaa tutkinnan dronehyökkäyksen jälkeen Ryazanissa
+Maaliskuun 15. päivänä 2026 Venäjän tutkintakomitea käynnisti rikosasian terroristiteosta dronehyökkäyksen jälkeen Ryazanissa, joka johti neljän kuolemaan, mukaan lukien alaikäinen. Tapahtumassa, joka on liitetty ukrainalaisiin asevoimiin, drone-iskut kohdistuivat asuin- ja siviilikohteisiin, mikä on johtanut tutkimuksen käynnistämiseen. [4]
 
-**COMMENT:** Tämä lausunto heijastaa Venäjän varovaisuutta ulkoisissa suhteissaan, erityisesti Japanin kanssa, jatkuvien geopoliittisten jännitteiden keskellä.
+**COMMENT:** Tämä tapahtuma korostaa Venäjän ja Ukrainan välisiä kasvavia jännitteitä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Ryazan Oblast / Ryazan Oblast, 54.4226732, 40.5705246 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.422673&mlon=40.570525#map=8/54.422673/40.570525) (Рязанская область)
 
-**KEYWORDS:** #russia #россия #сво #сф #про
-
-
-## Sergey Neverov vetäytyy esivaaleista
-Maaliskuun 14. päivänä 2026 Sergey Neverov ilmoitti vetäytyvänsä ennakkoäänestyksestä Yhdistyneen Venäjän puolueesta valtion duman vaaleissa. Hän tukee toista ehdokasta Artem Koryuchenkoa, korostaen Koryuchenkon kokemusta osallistujana erityisessä sotatoimissaan ja urhoollisuusmitaliensa kantajana. [8]
-
-**COMMENT:** Tämä vetäytyminen heijastaa merkittävää muutosta Yhdistyneen Venäjän puolueen sisällä vaalien valmistellessa mahdollisia ehdokasstrategioiden muutoksia.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #россия #призыв #сво
+**KEYWORDS:** #russia #бпла #про
 
 
-## Tulgorelektrotransin johtaja asetettu kotiarestiin kuolemaan johtaneen onnettomuuden vuoksi
-Maaliskuun 14. päivänä 2026 Tulan sairaslaakarin piirituomioistuin määräsi Tulgorelektrotransin johtajan kotiarestiin kuukauden ja 15 päivän ajaksi kuolemaan johtaneen onnettomuuden vuoksi, joka johti kuuden henkilön kuolemaan. [9]
+## Entinen Tomskin TV-yhtiön TV-2 johtaja Victor Muchnik pidätetty poissaolevana
+Maaliskuun 15. päivänä 2026 Tomskin alueellinen tutkintakomitea ilmoitti entisen TV-2:n johtajan Victor Muchnikin ja lakimies Alexey Pryanishnikovin pidätyksestä poissaolevana. Heitä pidetään ulkomaisina toimijoina, ja heitä vastaan on käynnistetty rikosasioita ulkomaisena toimijana toimimisen kieltämisestä. [5]
 
-**COMMENT:** Tämä tapaus heijastaa jatkuvaa turvallisuuden sääntöjen tarkastelua Venäjän kunnallisissa palveluissa, erityisesti liikennealalla.
+**COMMENT:** Pidätykset korostavat kasvavaa valvontaa ulkomaisina toimijoina pidettäviä henkilöitä kohtaan Venäjällä.
 
-**LOCATION:** Tula / Tula, 54.1930321, 37.61754 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.193032&mlon=37.617540#map=8/54.193032/37.617540) (Тула)
+**LOCATION:** Tomsk / Tomsk, 56.4887526, 84.9523434 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.488753&mlon=84.952343#map=8/56.488753/84.952343) (Томск)
 
 **KEYWORDS:** #russia #про
 
 
-## Venäjän alueet kohteena suuressa drone-hyökkäyksessä
-Maaliskuun 13. päivänä 2026 Venäjän alueet, erityisesti Moskova ja Jaroslavl, kokivat merkittävän drone-hyökkäyksen, missä puolustusministeriö raportoi 286 ukrainalaisen dronejen kaatamisesta yön aikana. [10]
+## Pussy Riot lisätään Rosfinmonitoringin terroristien ja ääriryhmien listalle
+Maaliskuun 15. päivänä 2026 Venäjän rahoitusvalvontaviranomainen Rosfinmonitoring lisäsi punk-ryhmä Pussy Riotin listalle organisaatioista ja henkilöistä, joita on liitetty ääririittoihin tai terrorismiin. Tämä nimitys, joka seuraa joulukuussa annettua tuomiota, joka vahvisti ryhmän äärimmäisyysstatuksen, velvoittaa pankkeja jäädyttämään niiden varat ja keskeyttämään palvelut. [6]
 
-**COMMENT:** Tämä dronehyökkäys korostaa jatkuvaa uhkaa, jonka Ukrainan sotilaalliset toimet aiheuttavat.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #российские #вс рф #российские военные #минобороны #пво #штаб #министр обороны #удар #рэб #беспилотник #бпла #пуск #про
-
-
-## Venäjän joukot hyökkäävät NATO:n tukikohtiin Kharkivissa 14. toukokuuta
-Maaliskuun 14. päivänä 2026 Venäläiset joukot suorittivat laajan hyökkäyksen sotilas- ja teollisuustiloihin Kharkivin alueella, kohdistuen keskeiseen puolustusinfrastruktuuriin useissa paikoissa, mukaan lukien Volchansk ja Balakleya. [11]
-
-**COMMENT:** Tämä sotilaallinen toiminta korostaa konfliktin jatkuvaa intensiivisyyttä ja Venäjän keskittymistä heikentää Ukrainan puolustusrakenteita.
-
-**LOCATION:** Kharkiv Oblast / Kharkiv Oblast, Unknown, Unknown [Click for Map Location](Unknown) (Unknown)
-
-**KEYWORDS:** #российские #вс рф #российские войска #полк #удар #сво #сф #часть #про
-
-
-## Venäjä aloittaa lasten rajan ylittämisen Abkhazian ja Etelä-Ossetian kautta syntymätodistuksilla
-Maaliskuun 14. päivänä 2026 Venäjä käynnisti uudelleen venäläisten kansalaisten alle 14-vuotiaiden lasten rajanylitykset Abkhazian ja Etelä-Ossetian kautta syntymätodistuksilla. [12]
-
-**COMMENT:** Tämä rajanylityksen uudelleenkäynnistäminen saattaa viitata Kreml'in politiikan muuttumiseen Abkhazian ja Etelä-Ossetian suuntaan.
-
-**LOCATION:** Abkhazia / Embassy of Abkhazia, 55.7446749, 37.5970333 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.744675&mlon=37.597033#map=8/55.744675/37.597033) (Абхазия)
-
-**KEYWORDS:** #россия #учения #пуск #про
-
-
-## Pashinyan ei ole huolissaan Venäjän laista, joka suojaa asevoimia kansalaisten ulkomaille
-Maaliskuun 14. päivänä 2026 Armenian pääministeri Nikol Pashinyan käsitteli hiljattain hyväksyttyä Venäjän lakia, joka sallii Venäjän asevoimien käytön pidätettyjen kansalaisten suojelemiseen ulkomailla. [13]
-
-**COMMENT:** Tämä lausunto viittaa Armenialta jatkuvaan sitoutumiseen Venäjän läheisiin suhteisiin.
-
-**LOCATION:** Armenia / Armenia, 40.7696272, 44.6736646 [Click for Map Location](https://www.openstreetmap.org/?mlat=40.769627&mlon=44.673665#map=8/40.769627/44.673665) (Армения)
-
-**KEYWORDS:** #россия #вооруженные силы рф #вс рф #вс россии #военная база #сф #про
-
-
-## Venäjän suurlähettiläs selventää sotilaallisia toimintoja Ukrainassa Unkarin ulkoministerille
-Maaliskuun 14. päivänä 2023 Venäjän suurlähettiläs Budapestissa, Jevgeni Stanislavov, tapasi Unkarin ulkoministeri Anita Orbanin selventääkseen Venäjän asevoimien toimintaa Ukrainan konfliktin yhteydessä. [14]
-
-**COMMENT:** Tämä diplomaattinen vuoropuhelu korostaa Venäjän pyrkimyksiä hallita sotilaallisten toimien käsityksiä Ukrainassa.
-
-**LOCATION:** Budapest / Budapest, 47.4978789, 19.0402383 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.497879&mlon=19.040238#map=8/47.497879/19.040238) (Будапешт)
-
-**KEYWORDS:** #россия #минобороны россии #вооруженные силы рф #вс рф #минобороны #удар #сво #беспилотник #бпла #вертолет #пуск #про
-
-
-## AVTOVAZin toimitusjohtaja Sokolov vaihtaa Mercedesin Lada Auraan
-Maaliskuun 14. päivänä 2023 AVTOVAZin toimitusjohtaja Maxim Sokolov siirtyi ajamaan Lada Auraa. [15]
-
-**COMMENT:** Tämä vaihto ulkomaisesta luksusautosta kotimaiseksi malliksi heijastaa vauhtia paikallisen teollisuuden edistämiseksi taloudellisen paineen keskellä.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #российский #сво #про
-
-
-## Viro lyhentää Narva-1 tarkastuspisteen aukioloaikoja
-Kesäkuun 15. päivänä 2023 Viro lyhentää Narva-1 tarkastuspisteen aukioloaikoja 12 tuntiin päivässä. [16]
-
-**COMMENT:** Tämä aukioloaikojen vähentäminen voi viitata Viron turvallisuustaktiikoiden kehittämiseen.
-
-**LOCATION:** Narva-1 Checkpoint / Narva-1 Checkpoint, Unknown, Unknown [Click for Map Location](Unknown) (Unknown)
-
-**KEYWORDS:** #россия #российские #удар #пуск #армия #про
-
-
-## Bryanskin virkaatekevä kuvernööri Kovalchuk jakaa ensimmäisen viestin
-Maaliskuun 14. päivänä 2023 Bryanskin alueen virkaatekevä kuvernööri Yegor Kovalchuk ilmaisi kiitollisuuttaan presidentti Vladimir Putinille ensimmäisessä sosiaalisen median viestissään. [17]
-
-**COMMENT:** Kovalchukin nimittäminen virkaatekevänä kuvernöörinä korostaa Kreml'in keskittymistä alueellisiin johtajuuksiin.
-
-**LOCATION:** Bryanskin alue / Bryansk Oblast, 52.8873315, 33.415853 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.887332&mlon=33.415853#map=8/52.887332/33.415853) (Брянская область)
-
-**KEYWORDS:** #россия #штаб #сво #про
-
-
-## Venäjä syyttää Japaniin reagoimattomuudesta dialogin edellytyksiin
-Maaliskuun 14. päivänä 2026 Venäjän ulkoministeri Maria Zaharova ilmoitti, että Japani ei ole vastannut listaamilleen edellytyksille, joiden on tarkoitus aloittaa keskustelut maiden välillä. [18]
-
-**COMMENT:** Tämä reagoinnin puute Japanilta viittaa mahdolliseen tukkeutumiseen diplomaattisissa suhteissa.
+**COMMENT:** Pussy Riotin lisääminen ääriryhmien listalle korostaa valtakunnan pyrkimyksiä tukahduttaa opposition ääniä.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #сво #про
+**KEYWORDS:** #russia #сво #сф #часть #про
 
 
-## Unkarin ulkoministeri tapaa Venäjän suurlähettilään
-Maaliskuun 14. päivänä 2026 Venäjän suurlähettiläs Budapestissa, Jevgeni Stanislavov, tapasi Unkarin uuden ulkoministerin, Anita Orbanin, keskustellakseen Venäjän joukoista Ukrainassa. [19]
+## Rajoitukset poistetaan Krasnodar Kran ilmatilasta
+Maaliskuun 15. päivänä 2026 Rosaviatsiya nosti rajoitukset ilmatilasta Krasnodar Krajilla, mikä mahdollistaa Sochi-kentän normaalit toiminnot. Päätös mahdollistaa myös Gelendzhik- ja Krasnodar-lentokenttien jälleen hyväksyä ja lähettää lentoja. [7]
 
-**COMMENT:** Tämä tapaaminen heijastaa Venäjän pyrkimyksiä hallita sotilaallisia toimintojensa käsityksiä Ukrainassa.
+**COMMENT:** Tämä ilmatilarajoitusten poistaminen viittaa normaalin paluuseen alueen ilmailussa, mikä voi parantaa alueellista yhteyksiä ja taloudellista toimintaa.
 
-**LOCATION:** Budapest / Budapest, 47.4978789, 19.0402383 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.497879&mlon=19.040238#map=8/47.497879/19.040238) (Будапешт)
+**LOCATION:** Krasnodar Krai / Krasnodar Krai, 45.7682027, 39.0258102 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.768203&mlon=39.025810#map=8/45.768203/39.025810) (Краснодарский край)
 
-**KEYWORDS:** #вс россии #удар #беспилотник #сф #про
-
-
-## Ukrainan joukot yrittivät hyökätä kouluun Vasilyevkassa
-Maaliskuun 14. päivänä 2026 Ukrainan asevoimat yrittivät iskeä kouluun Vasilyevkassa, Zaporižžian alueella dronella, joka epäonnistui räjähtämään iskun yhteydessä. [20]
-
-**COMMENT:** Tämä tapaus korostaa konfliktin jatkuvaa heikkoutta ja siviili-infrastruktuurin uhkia sotilaallisten toimien vuoksi.
-
-**LOCATION:** Vasilyevka / Vasilyevka, Unknown, Unknown [Click for Map Location](Unknown) (Unknown)
-
-**KEYWORDS:** #российские #батальон #удар #сво #беспилотник #бпла #про
+**KEYWORDS:** #russia #про
 
 
-## Yana Lantratova nimitetään uudeksi ihmisoikeusvaltuutetuksi Venäjällä
-Maaliskuun 14. päivänä 2026 Yana Lantratova nimettiin Venäjän uudeksi ihmisoikeusvaltuutetuksi valtion duman toimesta, ja hänestä tuli selkeä suosikki kolmen ehdokkaan joukossa. [21]
+## Putin kehottaa vahvistamaan Venäjän talouden positiivisia suuntauksia
+Maaliskuun 15. päivänä 2026 presidentti Vladimir Putin korosti tarvetta varmistaa Venäjän talouden positiivisten suuntauksien kestävyys, korostaen eri toimialojen talouskasvun laajentamisen tärkeyttä. Hän totesi, että aiemmat hallituksen toimenpiteet taloudellisen tilanteen normalisoimiseksi alkavat tuottaa positiivisia tuloksia, maaliskuussa 2026 ilmoitetun BKT-kasvun ollessa 1,8 %. [8]
 
-**COMMENT:** Lantratovan nimittäminen ihmisoikeusvaltuutetuksi voi viitata Kreml'in lähestymistapojen muutokseen kansalaisoikeuksiin.
+**COMMENT:** Tämä ohjeistus viittaa selkeään keskittymiseen Venäjän talouden vakauden varmistamiseen jatkuvien haasteiden keskellä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
 
-**KEYWORDS:** #россия #российский #сво #сф #часть #про
-
-
-## Venäjän valtion duma nostaa ylityörajan 240 tuntiin vuodessa
-Maaliskuun 14. päivänä 2026 Venäjän valtion duma hyväksyi muutoksen työlakeihin, joka nostaa ylityötyöajan vuositason 120:sta 240:ään tunnin syyskuun 1. päivänä 2026. [22]
-
-**COMMENT:** Tämä lainsäädäntömuutos viittaa hallituksen reagointiin työmarkkinatilanteeseen.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #штаб #пуск #про
+**KEYWORDS:** #российский #удар #сво #сф #часть #про
 
 
-## Mirashnik: Ukrainan joukoissa oli 10% vähenemistä EU:n rahoituksen katkosten vuoksi
-Maaliskuun 14. päivänä 2026 Rodion Mirashnik, Venäjän ulkoministeriön erityisedustaja, raportoi 10%:n vähenemisestä Ukrainan joukkojen hyökkäyksissä siviilikohteita vastaan huhtikuun aikana. [23]
+## Venäjän joukot tähtäävät ukrainalaisiin veturiparkkeihin sotilaskuljetusten häiritsemiseksi
+Maaliskuun 15. päivänä 2026 Venäjän joukot jatkoivat kampanjaansa ukrainalaisten sotilaslogistiikan heikentämiseksi tuhoamalla järjestelmällisesti vetureita, kuten drone-kuvissa on nähtävä hyökkäys veturiin Kryvyj Rihissä. Sotilasasiantuntija Boris Dzhereliyevskyi selitti, että vetureihin kohdistaminen on strateginen aloite, jonka tarkoituksena on purkaa Ukrainan sotilasoperaatioiden kannalta kriittinen liikenneinfrastruktuuri. [9]
 
-**COMMENT:** Raportoitu väheneminen saattaa viitata operatiivisiin haasteisiin, joita Ukrainan joukot kohtaavat finanssiongelmien vuoksi.
+**COMMENT:** Tämä jatkuva hyökkäys Ukrainan rautatieliikenteen kykyihin korostaa Venäjän keskittynyttä strategiaa logistiikan häiritsemiseksi konfliktin aikana.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Kryvyi Rih / Kryvyi Rih, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=Unknown&mlon=Unknown) (Кривой Рог)
 
-**KEYWORDS:** #российские #учения #удар #беспилотник #про
+**KEYWORDS:** #российские #вооружение #бригада #удар #сво #сф #часть #про
 
 
-## Zaharova: Venäjä tarjoaa Japanille askelia dialogin jatkamiseksi
-Maaliskuun 14. päivänä 2026 Maria Zaharova, Venäjän ulkoministeriön virallinen edustaja, ilmoitti, että Venäjä on antanut Japanille luettelon askelista, jotka ovat tarpeen dialogin aloittamiseen maiden välillä. [24]
+## Venäjä lanseeraa massiivisia yhdistettyjä iskuja Ukrainaan
+Maaliskuun 15. päivänä 2026 Venäjän joukot toteuttivat vuoden suurimmat yhdistetyt hyökkäykset Ukrainaan käyttäen kruiisimoottoreita, ballistisia ohjuksia ja hypersonisia aseita. Hyökkäys sisälsi vähintään 64 ohjusta, jotka kohdistuivat ukrainalaisten asevoimien laitoksiin pääasiassa Kiovassa ja keskisessä Ukrainassa. [10]
 
-**COMMENT:** Tämä kehitys heijastaa jatkuvia diplomaattisia ponnisteluja Venäjän taholta.
+**COMMENT:** Tämä ainutlaatuinen laajuinen ohjusiskujen ilmaus merkitsee mahdollista eskalaatiota Venäjän sotilaallisissa toiminnoissa jatkuvan jännitteen keskellä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Kiova / Kyiv, 50.4500336, 30.5241361 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.450034&mlon=30.524136#map=8/50.450034/30.524136) (Киев)
 
-**KEYWORDS:** #россия #сво
+**KEYWORDS:** #россия #российские #российские войска #пво #полк #удар #сво #разведка #беспилотник #перехват #про
+
+
+## Venäjän joukot iskevät Kozyniin Kiovan alueella iskuohjuksilla
+Maaliskuun 15. päivänä 2023 Venäjän joukot suorittivat ohjusiskun Kozynin kylään Kiovan alueella käyttäen Iskander-ohjuksia. Hyökkäys kohdistui alueelle, joka raportoidusti sisältää tunnettuja ukrainalaisliikemiesten ja oligarkkien luksusomaisuuksia, vaikka tarkkoja vaurioita ei ole ilmoitettu. [11]
+
+**COMMENT:** Tämä isku korostaa jatkuvaa sotilaallisten toimenpiteiden intensiivisyyttä Venäjän ja Ukrainan joukkojen välillä.
+
+**LOCATION:** Kozyn / Kozyn, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=Unknown&mlon=Unknown) (Козын)
+
+**KEYWORDS:** #российские #минобороны рф #вооруженные силы рф #вс рф #российские войска #минобороны #удар #сво #ракетный удар #беспилотник #пуск #армия
+
+
+## 33 kadettikoulun opiskelijaa joutui sairaalaan Krasnojarskissa epäillyn ruokamyrkytyksen vuoksi
+Maaliskuun 15. päivänä 2023 33 opiskelijaa Krasnoyarskin kadettikoulusta koki äkillisiä suolistoinfektiota oireita, mikä johti epidemiologiseen tutkimukseen Krasnojarskin Rospotrebnadzorin toimesta. Tutkimus on paljastanut noroviruksen RNA:n läsnäolon joissakin sairastuneissa, mikä johtaa toimenpiteisiin syyn selvittämiseksi ja opiskelijoiden ruokaturvallisuuden varmistamiseksi. [12]
+
+**COMMENT:** Tämä tapahtuma korostaa ruokaturvallisuusprotokollien mahdollisia heikkouksia valtion laitoksissa.
+
+**LOCATION:** Krasnoyarsk / Krasnoyarsk, 56.0091173, 92.872586 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.009117&mlon=92.872586#map=8/56.009117/92.872586) (Красноярск)
+
+**KEYWORDS:** #россия #учения #корпус #про
+
+
+## Tuomioistuin vahvistaa entisen tuomarin Sapegan omaisuuden takavarikon laillisuuden
+Maaliskuun 15. päivänä 2023 venäläinen tuomioistuin piti voimassa päätöksen konfiskoida entisen tuomari Vyacheslav Sapegan omaisuus, jonka arvo on 54 miljoonaa ruplaa, valtion hyväksi. Tämä päätös seuraa Venäjän korkeimman tuomioistuimen puheenjohtajan Igor Krasnovin antamaa direktiiviä tutkia Sapegaa korruptiovelvoitteiden rikkomisesta hänen tuomarikaudellaan. [13]
+
+**COMMENT:** Tämä oikeudellinen toimenpide heijastaa jatkuvia toimenpiteitä korruptiota vastaan Venäjän oikeusjärjestelmässä.
+
+**LOCATION:** Nizhny Novgorod Oblast / Nizhny Novgorod Oblast, 55.4718033, 44.0911594 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.471803&mlon=44.091159#map=8/55.471803/44.091159) (Нижний Новгород)
+
+**KEYWORDS:** #россия #удар
+
+
+## Vapautetut venäläissotilaat ottavat yhteyttä läheisiinsä after captivity
+Maaliskuun 15. päivänä 2023 vapautetut venäläiset sotilaat Ukrainan vangistuksesta kommunikoivat perheidensä kanssa ja jakavat hyvinvointiaan. Venäjän puolustusministeriön mukaan 205 venäläistä sotilasta palautettiin vastineeksi samasta määrästä ukrainalaisia sotilaita, ja palaavat sotilaat saavat tällä hetkellä hoitoa Valko-Venäjällä. [14]
+
+**COMMENT:** Tämä kehitys osoittaa jatkuvia vanginvaihtoja Venäjän ja Ukrainan välillä.
+
+**LOCATION:** Valko-Venäjä / Belarus, 53.4250605, 27.6971358 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.425061&mlon=27.697136#map=8/53.425061/27.697136) (Беларусь)
+
+**KEYWORDS:** #россия #российские #минобороны рф #мо рф #вооруженные силы рф #вс рф #российские военные #минобороны #военнослужащий #сво
+
+
+## 12-vuotias poika sairaalahoitoon huvipuistotapaturman vuoksi Bashkortostanissa
+Maaliskuun 10. päivänä 2023 12-vuotias poika joutui sairaalaan vahingoituttuaan huvipuistotapahtumassa Sterlitamakissa, Bashkortostanissa. Tapahtuma tapahtui, kun laite käynnistyi vahingossa pojan yrittäessä siirtyä toiseen koppeliin, mikä johti hänen vahingoittumiseensa ja alueellisen tutkintakomitean käynnistämään rikostutkimukseen. [15]
+
+**COMMENT:** Tämä tapahtuma korostaa turvallisuushuolia huvipuistojen sääntelyssä Venäjällä.
+
+**LOCATION:** Sterlitamak / Sterlitamak, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=Unknown&mlon=Unknown) (Стерлитамак)
+
+**KEYWORDS:** #россия #удар #сво #про
+
+
+## Haitallisia aineita ei havaittu Ryazanissa droneiskutulen jälkeen
+Maaliskuun 15. päivänä 2023, tulipalon jälkeen, jonka aiheutti dronehyökkäys Ryazanissa, Rospotrebnadzorin asiantuntijat keräsivät ilmasampita ja eivät löytäneet haitallisia aineita, jotka ylittäisivät turvallisuusstandardit. Tuli, joka tapahtui teollisuusalueella, on saatu hallintaan, ja hätäpalvelut työskentelevät edelleen jäljellä olevien kuumakohtien sammutuksessa. [16]
+
+**COMMENT:** Tämä tapahtuma havainnollistaa droneiskujen jatkuvaa uhkaa Venäjän alueella.
+
+**LOCATION:** Ryazan / Ryazan, 54.6702523, 39.6884462 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.670252&mlon=39.688446#map=8/54.670252/39.688446) (Рязань)
+
+**KEYWORDS:** #россия #пво #штаб #удар #беспилотник #бпла #сф #про
+
+
+## Venäjän joukot valloittavat Charivnen ja etenevät Orikhiviin
+Maaliskuun 15. päivänä 2026 Venäjän joukot valloittivat Charivnen kylän Zaporizhhian alueella, läpäisten Ukrainan puolustuksen Orikhivin lähellä. Tämä läpimurto, johon liittyi koordinoituja hyökkäyksiä vihollisen asemiin ja toimitusreitteihin, mahdollistaa lisäedistymisen alueella. [17]
+
+**COMMENT:** Charivnen valtaus merkitsee strategista voittoa, joka voisi parantaa Venäjän operatiivisia kykyjä alueella.
+
+**LOCATION:** Zaporizhzhia Oblast / Zaporizhzhia Oblast, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=Unknown&mlon=Unknown) (Запорожская область)
+
+**KEYWORDS:** #российские #минобороны рф #российская армия #минобороны #полк #удар #сво #армия #про
+
+
+## Trump keskustelee ydinaseiden riisumisesta Xi Jinpingin kanssa
+Maaliskuun 15. päivänä 2026, Kiinan ja Yhdysvaltojen huippukokouksessa presidentti Donald Trump ilmoitti keskusteluista ydinaseiden riisumisesta, johon saatettiin sisällyttää Venäjän osallistuminen. Trump korosti, että vaikka uusia virallisia sopimuksia ei ollut saavutettu, keskustelu nosti esiin Venäjän huomioon ottamisen tulevissa ydinaseiden riisumistavoitteissa, mahdollisesti tulevassa G20-kokouksessa Miamissa. [18]
+
+**COMMENT:** Tämä dialogi osoittaa jatkuvia Yhdysvaltojen pyrkimyksiä käsitellä ydinaseiden riisumista yhdessä keskeisten maailman toimijoiden, mukaan lukien Venäjän, kanssa.
+
+**LOCATION:** Miami / Miami, 25.7741566, -80.1935973 [Click for Map Location](https://www.openstreetmap.org/?mlat=25.774157&mlon=-80.193597#map=8/25.774157/-80.193597) (Майами)
+
+**KEYWORDS:** #россия #сво #сф #про
+
+
+## Slovakia harkitsee suoria öljyhankintoja Venäjältä
+Maaliskuun 15. päivänä 2026 Slovakian pääministeri Robert Fico ilmoitti, että Slovakia harkitsee mahdollisuutta tehdä suoria öljyhankintoja Venäjältä. Fico aikoo keskustella tästä aloitteesta valtion toimijan Transpetrolin edustajien kanssa, pyrkien varmistamaan resursseja öljynjalostamoille Bratislavassa samalla kun hän huomautti, että Venäjä on valmis jatkamaan öljyn kuljetuksia Druzhba-putkella Ukrainan kannasta riippuen. [19]
+
+**COMMENT:** Tämä kehitys voi merkitä muutosta Slovakian energiahankintastrategiassa, mikä voi vaikuttaa alueellisiin energiapoliittisiin suhteisiin.
+
+**LOCATION:** Bratislava / Bratislava, 48.1516988, 17.1093063 [Click for Map Location](https://www.openstreetmap.org/?mlat=48.151699&mlon=17.109306#map=8/48.151699/17.109306) (Братислава)
+
+**KEYWORDS:** #россия #удар #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1089520?utm_source=top
+[1] Interfax - https://interfax.ru/russia/1089632?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1089469?utm_source=top
+[2] Interfax - https://interfax.ru/russia/1089608?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/world/1089513?utm_source=top
+[3] Interfax - https://interfax.ru/russia/1089630?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1089521?utm_source=top
+[4] Interfax - https://interfax.ru/russia/1089627?utm_source=top
 
-[5] interfax.ru - https://interfax.ru/russia/1089535
+[5] Interfax - https://interfax.ru/russia/1089696
 
-[6] interfax.ru - https://interfax.ru/russia/1089532
+[6] Interfax - https://interfax.ru/russia/1089695
 
-[7] interfax.ru - https://interfax.ru/russia/1089531
+[7] Interfax - https://interfax.ru/russia/1089690
 
-[8] interfax.ru - https://interfax.ru/russia/1089530
+[8] Aif - https://aif.ru/politics/putin-poruchil-zakrepit-polozhitelnuyu-dinamiku-v-rossiyskoy-ekonomike
 
-[9] interfax.ru - https://interfax.ru/russia/1089529
+[9] Aif - https://aif.ru/society/strashnyy-syurpriz-dostavili-k-domu-zelenskogo-glavnaya-novost-svo-15-maya
 
-[10] aif.ru - https://aif.ru/society/posledniy-ultimatum-bomby-rasplaty-besposhchadno-rushat-byushchie-po-rf-bazy
+[10] Aif - https://aif.ru/society/noch-dlinnyh-kinzhalov-kiev-sotryasli-samye-moshchnye-udary-v-centre-voronki
 
-[11] aif.ru - https://aif.ru/society/udary-ispepelili-taynye-bazy-nato-pod-harkovom-glavnaya-novost-svo-14-maya
+[11] Vesti - https://www.vesti.ru/ns/vs-rf-udarili-iskanderami-po-kozinu-v-kievskoj-oblasti
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/vozobnovlen-propusk-detej-v-abkhaziyu-i-yuzhnuyu-osetiyu-po-svidetelstvu-o-rozhdenii
+[12] Vesti - https://www.vesti.ru/ns/v-krasnoyarske-otravilis-33-vospitannika-kadetskogo-korpusa
 
-[13] www.vesti.ru - https://www.vesti.ru/ns/u-pashinyana-net-obespokoennosti-iz-za-zakona-o-zashchite-rossiyan-s-pomoshchyu-vs-rf
+[13] Vesti - https://www.vesti.ru/ns/sud-podtverdil-zakonnost-izyatiya-imushchestva-byvshego-sudi-sapegi-na-54-mln
 
-[14] www.vesti.ru - https://www.vesti.ru/ns/posol-rf-razyasnil-glave-mid-vengrii-dejstviya-vs-rf-v-khode-konflikta-na-ukraine
+[14] Vesti - https://www.vesti.ru/ns/edu-domoj-vernuvshiesya-iz-plena-voennye-rf-svyazalis-s-rodstvennikami
 
-[15] www.vesti.ru - https://www.vesti.ru/ns/gendirektor-avtovaza-sokolov-pomenyal-mercedes-na-lada-aura
+[15] Vesti - https://www.vesti.ru/ns/v-bashkirii-12-letnij-shkolnik-popal-v-bolnicu-posle-incidenta-na-attrakcione
 
-[16] www.vesti.ru - https://www.vesti.ru/ns/rezhim-raboty-kpp-narva-1-na-granice-ehstonii-i-rf-sokratyat-do-12-chasov
+[16] Vesti - https://www.vesti.ru/ns/v-ryazani-ne-vyyavleno-prevyshenie-vrednykh-veshchestv-iz-za-pozhara-posle-ataki-bpla
 
-[17] www.vesti.ru - https://www.vesti.ru/ns/bogomaz-podelilsya-v-socseti-pervym-postom-bryanskogo-vrio-gubernatora-kovalchuka
+[17] Iz - https://iz.ru/2097778/osvobozhdenie-charivnogo-sozdalo-usloviia-dlia-prodvizheniia-v-napravlenii-orekhova-izi
 
-[18] iz.ru - https://iz.ru/2097335/v-mid-rf-zaiavili-ob-otsutstvii-reaktcii-iaponii-na-usloviia-dlia-dialoga-izi
+[18] Iz - https://iz.ru/2097865/2026-05-15/tramp-soobshchil-ob-obsuzhdenii-denuklearizatcii-s-si-tczinpinom?main_click
 
-[19] iz.ru - https://iz.ru/2097317/2026-05-14/anita-orban-provela-vstrechu-s-poslom-rossii
-
-[20] iz.ru - https://iz.ru/2097361/2026-05-14/balitckii-soobshchil-o-neudachnoi-popytke-vsu-atakovat-zdanie-shkoly-v-vasilevke?main_click
-
-[21] www.kp.ru - https://www.kp.ru/daily/277782/5249006/
-
-[22] www.kp.ru - https://www.kp.ru/daily/277782/5249177/
-
-[23] www.kp.ru - https://www.kp.ru/online/news/6970340/
-
-[24] www.kp.ru - https://www.kp.ru/online/news/6970331/
+[19] KP - https://www.kp.ru/online/news/6972101/
