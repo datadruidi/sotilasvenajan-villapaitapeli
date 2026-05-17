@@ -1,173 +1,142 @@
-# Report Date: 2026-05-16
+# Report Date: 2026-05-17
 
 ## Summary
-Raportointijaksolla on todettavissa useita merkittäviä tapahtumia, jotka korostavat Venäjän ja sen lähialueiden turvallisuustilanteen heikentymistä sekä poliittista aktiivisuutta kansainvälisissä suhteissa. Erityisesti Putin, Kiinan presidentin Xi Jinpingin kutsusta, suunnittelee vierailua Pekingiin, mikä vahvistaa Venäjän ja Kiinan strategista kumppanuutta. Samalla Belgorodissa tapahtui dronehyökkäys, joka vaati loukkaantumisia, ja Pyatigorskissa kaksi lievästi erilaista kaasupommiin liittyvää tapausta aiheutti huolta turvallisuudesta. Tilanne on monimutkainen, ja julkinen huoli saattaa vaikuttaa hallitusten turvallisuuspolitiikkaan ja toimiin.
+Raportointijaksolla Moskovassa ja sen ympäristössä tapahtui useita dronehyökkäyksiä, jotka johtivat kuolemaan ja haavoittumisiin. Tapahtumat osoittavat kasvavia uhkia siviilialueilla ja vauhdittavat turvallisuus- ja puolustustoimien tiukentamista. Tulevaisuudessa voidaan odottaa lisätoimenpiteitä drone-käytön rajoittamiseksi ja infrastruktuurin suojelemiseksi tällaisten hyökkäysten varalta. Raskaan kaluston käyttö ydinvoimaloiden lähellä lisää jännitteitä alueella ja heijastaa jatkuvia sotilaallisia uhkia. Myös muutamaan lentokenttään liittyvät tapahtumat osoittavat parantuneiden toimintamääräysten myötä paluuta normaalitilaan, mikä vaikuttaa alueelliseen ilmailun ja turvallisuuden hallintaan.
 
-## Putin vierailee Kiinassa 19.-20. toukokuuta Xi Jinpingin kutsusta
-Raportin mukaan Kremlin ilmoitti, että presidentti Vladimir Putin vierailee Kiinassa 19.-20. toukokuuta presidentti Xi Jinpingin kutsusta. Vierailu merkitsee hyvien naapuruussuhteiden, ystävyyden ja yhteistyön sopimuksen 25-vuotisjuhlaa ja siihen sisältyy keskusteluja kahdenvälisistä suhteista ja kansainvälisistä kysymyksistä. [1]
+## Kolme kuollutta dronehyökkäyksessä Moskovan alueella
+Maaliskuun 17. päivänä 2026 tapahtui dronehyökkäys Moskovan alueella, jossa kolme henkilöä kuoli, mukaan lukien nainen Khimkissä ja kaksi miestä Pogorelkyssa. Hyökkäys aiheutti myös merkittäviä vaurioita yksityisiin koteihin ja infrastruktuuriin, mikä herättää jatkuvia huolia alueen turvallisuudesta ja kohdistumisesta. [1]
 
-**COMMENT:** Tämä vierailu korostaa Venäjän ja Kiinan välistä strategista kumppanuutta ja yhteisiä kiinnostuksia alueellisen vakauden ja yhteistyön osalta.
+**COMMENT:** Hyökkäys droneilla korostaa haavoittuvuuksia siviilialueilla ja mahdollisia jännitteiden kärjistymisiä drone-sodankäynnissä. Tulevat vaikutukset saattavat sisältää lisääntyneitä turvallisuustoimia sekä mahdollisen muutoksen sotilasstrategioissa koskien dronejen käyttöä kaupunkialueilla.
 
-**LOCATION:** Beijing / Beijing, 39.9057136, 116.3912972 [Click for Map Location](https://www.openstreetmap.org/?mlat=39.905714&mlon=116.391297#map=8/39.905714/116.391297) (北京)
+**LOCATION:** Moskovan alue / Moscow Oblast, 55.5043158, 38.0353929 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.504316&mlon=38.035393#map=8/55.504316/38.035393) (Московская область)
 
-**KEYWORDS:** #russia #удар #про
-
-
-## Vauriotiedote: Yli seitsemänkymmentä asuntoa vaurioitui Belgorodissa dronehyökkäyksessä
-May 16. päivänä 2026, yli seitsemänkymmentä asuntoa korkeassa rakennuksessa Belgorodissa vaurioitui dronehyökkäyksessä. Viranomaiset vahvistivat, että kolmevuotias lapsi vietiin sairaalaan ja yhdeksän henkilöä loukkaantui onnettomuudessa, jota arvioidaan rakennusasiantuntijoiden toimesta. [2]
-
-**COMMENT:** Tämä hyökkäys osoittaa drone-operaatioiden jatkumisen asuinalueilla, mikä viittaa konfliktin kärjistymiseen ja voi vaikuttaa kotimaisiin vakauttaviin toimiin.
-
-**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
-
-**KEYWORDS:** #russia #штаб #удар #беспилотник #бпла #про
+**KEYWORDS:** #russia #сво #беспилотник #бпла
 
 
-## Tulipalo bensiiniasemalla Pyatigorskissa sammutettu räjähdyksen jälkeen
-May 16. päivänä 2026, avoimet liekit sammutettiin bensiiniaseman räjähdyksen jälkeen Pyatigorskissa, Stavropolin alueella, jossa kuusi henkilöä vietiin sairaalaan vammojen vuoksi. Noin 60 henkilöä ja 29 laitetta osallistui tulipalon hallintaan, joka ulottui noin 1 000 neliömetrin alueelle. [3]
+## Dronehyökkäys Moskovassa haavoitti 12 henkilöä
+Maaliskuun 17. päivänä 2026 tapahtui dronehyökkäys Moskovassa, jossa 12 henkilöä haavoittui, pääasiassa rakennustyöntekijöitä Moskovan öljynjalostamon lähellä. Kaupunginjohtaja Sergey Sobyanin vahvisti, että hyökkäys ei häirinnyt jalostamon toimintaa, vaikka kolme asuinrakennusta vahingoittui. [2]
 
-**COMMENT:** Tämä tapaus korostaa jatkuvia turvallisuushuolia polttoainelähetyksissä Venäjällä, erityisesti turvallisuusmääräysten noudattamisen osalta.
-
-**LOCATION:** Pyatigorsk / Pyatigorsk, 44.0375438, 43.0363667 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.037544&mlon=43.036367#map=8/44.037544/43.036367) (Пятигорск)
-
-**KEYWORDS:** #russia #про
-
-
-## Räjähdys bensiiniasemalla Pyatigorskissa loukkasi kuutta
-May 16. päivänä 2026, bensiiniasemalla Pyatigorskissa tapahtui räjähdys, joka loukkasi kuutta henkilöä kaasusäiliön purkamisen aikana. Paikalliset viranomaiset ilmoittivat, että lisälääketieteellistä apua annettiin loukkaantuneille ja että rakenteelliset vauriot rajoittuivat lähistöllä oleviin asuinrakennuksiin. [4]
-
-**COMMENT:** Räjähdys korostaa mahdollisia turvallisuuspuutteita kaasun käsittelytoiminnassa ja voi johtaa tiukempaan sääntelyyn.
-
-**LOCATION:** Pyatigorsk / Pyatigorsk, 44.0375438, 43.0363667 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.037544&mlon=43.036367#map=8/44.037544/43.036367) (Пятигорск)
-
-**KEYWORDS:** #russia #сво #про
-
-
-## Oikeus vangitsi 16 osalistujaa Leningradin alueen broileritehtaalla
-May 16. päivänä 2026, piirituomioistuin Pietarissa määräsi 16 henkilöä pidettäväksi vangittuna väkivaltaisen alterkation jälkeen Sinyavinskayan broileritehtaalla Leningradin alueella. Oikeus määräsi syytetyille kahden kuukauden pidätyksen osana tutkimusta, johon osallistui alun perin 28 henkilöä. [5]
-
-**COMMENT:** Tapaus heijastaa työmarkkinasuhteisiin liittyviä jännitteitä merkittävissä teollisuuslaitoksissa, mikä voi merkitä haasteita alueelliselle vakaudelle.
-
-**LOCATION:** Leningrad Oblast / Leningrad Oblast, 60.1853296, 32.3925325 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.185330&mlon=32.392533#map=8/60.185330/32.392533) (Ленинградская область)
-
-**KEYWORDS:** #russia #про
-
-
-## Kaksi Zaporižžian ydinvoimalan työntekijää loukkaantui droneiskusta
-May 14. päivänä 2026, kaksi Zaporižžian ydinvoimalan työntekijää loukkaantui, kun heidän ajoneuvonsa kärsi iskuista taisteludronelta lähellä Enerhodaria, Ukrainassa. Isku tapahtui vain 100 metrin päässä voimalan rajasta, mikä heijastaa drone-toiminnan kärjistymistä alueella. [6]
-
-**COMMENT:** Tämä tapaus korostaa jatkuvia turvallisuushaasteita kriittiselle infrastruktuurille konfliktialueilla.
-
-**LOCATION:** Enerhodar / Enerhodar, Unknown, Unknown
-
-**KEYWORDS:** #russia #удар #сво #бпла #пуск
-
-
-## Rosatom ilmoittaa työskentelyn jatkamisesta Bushehrin ydinvoimalassa Iranissa
-May 16. päivänä 2026, Rosatomin johtaja Alexey Likhachev ilmoitti työskentelyn jatkuvan Bushehrin ydinvoimalassa Iranissa huolimatta Yhdysvaltojen ja Iranin neuvottelujen pysähtymisestä. Jatkuva työ sisältää betoni- ja vahvistustöitä toisen reaktoriyksikön osalta. [7]
-
-**COMMENT:** Työn jatkaminen Bushehrin laitoksella viittaa Venäjän aikomukseen ylläpitää vaikutustaan Iranin ydinenergiateollisuuteen.
-
-**LOCATION:** Bushehr / Bushehr, 28.9310786, 50.8458443 [Click for Map Location](https://www.openstreetmap.org/?mlat=28.931079&mlon=50.845844#map=8/28.931079/50.845844) (بوشهر)
-
-**KEYWORDS:** #российские #про
-
-
-## Putin ja Yhdistyneiden arabiemiirikuntien presidentti keskustelevat Iranin kriisistä puhelimitse
-May 16. päivänä 2026, presidentti Vladimir Putin keskusteli puhelimitse Yhdistyneiden arabiemiirikuntien presidentti Sheikh Mohammed bin Zayed Al Nahyanin kanssa Irania koskevasta kriisistä. Molemmat johtajat painottivat poliittisten ja diplomaattisten prosessien jatkamisen tärkeyttä. [8]
-
-**COMMENT:** Tämä dialogi korostaa Venäjän strategista sitoutumista Lähi-idän geopoliittisiin asioihin.
+**COMMENT:** Tämä tapaus korostaa haavoittuvuuksia Moskovan turvallisuusasenneessa, erityisesti drone-uhkien osalta. Se saattaa aiheuttaa lisääntyneitä toimenpiteitä, joilla pyritään vahvistamaan turvallisuutta tärkeiden infrastruktuurien ympärillä.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #удар #про
+**KEYWORDS:** #russia #беспилотник #бпла #про
 
 
-## Tulipalo sammutettu räjähdyksen jälkeen bensiiniasemalla Pyatigorskissa
-May 16. päivänä 2026, räjähdys tapahtui bensiiniasemalla Pyatigorskissa, joka aiheutti tulipalon, joka kattoi 1 000 neliömetrin alueen. Kuusi henkilöä loukkaantui ja vietiin sairaalaan. [9]
+## Polttoaineasemaverkoston johtaja pidätettiin Tulipalon jälkeen Pyatigorskissa
+Maaliskuun 17. päivänä 2026 Pyatigorskissa, Stavropolissa, polttoaineasemaverkoston johtaja pidätettiin räjähdyksen ja tulipalon jälkeen, joka tapahtui yhdessä asemista ja johti vammoihin. 38-vuotias johtaja epäillään tarjoamasta vaarallisia palveluja, mikä herättää Venäjän tutkintakomitean tutkimuksen, joka saattaa pyrkiä asettamaan säilytysmittauksiin. [3]
 
-**COMMENT:** Tämä tapaus korostaa Polttoaineinfrastruktuurin jatkuvia turvallisuusvajeita. 
+**COMMENT:** Tämä tapaus korostaa mahdollisia sääntelypuutteita turvallisuusprotokollissa kriittisillä infrastruktuurialueilla. Oikeudelliset seuraamukset voivat vaikuttaa operatiivisiin standardeihin ja tarkastuksiin polttoaineasemilla alueella lähitulevaisuudessa.
 
 **LOCATION:** Pyatigorsk / Pyatigorsk, 44.0375438, 43.0363667 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.037544&mlon=43.036367#map=8/44.037544/43.036367) (Пятигорск)
 
 **KEYWORDS:** #russia #про
 
 
-## Jaroslavlin lentokenttä keskeytti toimintansa
-May 16. päivänä 2026, Jaroslavlin lentokenttä (Tunoshna) keskeytti väliaikaisesti toimintansa Rosaviatsiyan, Venäjän ilmailuviranomaisen, määräämien lentoturvatoimenpiteiden vuoksi. [10]
+## Isku vahingoitti kuljetuslaitosta Zaporizhzhian ydinvoimalassa
+Maaliskuun 17. päivänä 2026 ukrainalaisjoukkojen tykistötuli vahingoitti kuljetuslaitosta Zaporizhzhian ydinvoimalassa, mukaan lukien rakenteen katto. Raporttien mukaan vahingoittui useita busseja, mutta haavoittuneita tai tulipalosta ei raportoitu. [4]
 
-**COMMENT:** Lentokentän toimintarajoitukset korostavat jatkuvia huolia lentoturvallisuudesta alueella.
+**COMMENT:** Tämä tapaus korostaa alueen jatkuvia sotilaallisia jännitteitä, jotka vaikuttavat kriittiseen infrastruktuuriin. Voimalaitoksen jatkuva toimintakunto voi viitata kykyyn hallita häiriöitä, mutta se voi myös merkitä lisääntyneitä haavoittuvuuksia turvallisuudessa ja vakaudessa.
 
-**LOCATION:** Jaroslavl / Yaroslavl, 57.6263877, 39.8933705 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.626388&mlon=39.893371#map=8/57.626388/39.893371) (Ярославль)
+**LOCATION:** Zaporizhzhian ydinvoimala / Zaporizhzhia Nuclear Power Plant, Unknown, Unknown
+
+**KEYWORDS:** #russia #удар #беспилотник #про
+
+
+## Kalugan lentokenttä aloittaa toimintansa uudelleen
+Maaliskuun 17. päivänä 2026 Kalugan lentokenttä (Grabtsevo) aloitti normaalit toimintansa, kun Venäjän ilmailuviranomainen Rosaviatsiya poisti väliaikaiset rajoitukset ilma-alusten saapumiselle ja lähdölle. Rajoitukset olivat olleet voimassa aikaisemmin päivällä lentoturvallisuuden takaamiseksi. [5]
+
+**COMMENT:** Lentokentän toiminnan palautuminen viittaa mahdolliseen paluuseen normaaleihin lentoaikatauluihin ja voi heijastaa parantuneita turvallisuus- tai toimintakuntoja. Alueellisten ilmatiladamotiivien jatkuva seuranta voi tarjota tietoa laajemmista suuntauksista Venäjän ilmailun ja turvallisuuden hallinnassa.
+
+**LOCATION:** Kaluga / Kaluga, 54.5101087, 36.2598115 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.510109&mlon=36.259811#map=8/54.510109/36.259811) (Калуга)
 
 **KEYWORDS:** #russia #пуск
 
 
-## Venäläinen supertorpedo voi osua Lontooseen ja Pariisiin: Tärkeä päivitys 16. toukokuuta
-May 16. päivänä 2026, venäläinen vedenalainen drone "Poseidon", varustettuna ydinvoimalaitteistolla, on nostettu esiin aseena, joka kykenee takuuhyökkäyksiin. [11]
+## Michustin aloittaa työmatkansa Volgan federaalialueelle
+Maaliskuun 18. päivänä 2026 Venäjän pääministeri Mihail Michustin matkustaa Volgan federaalialueelle osallistumaan 11. 'CIPR' -konferenssin täysistuntoon digitaalisesta muutoksesta teollisuudessa, joka pidetään Nizhny Novgorodissa. Matkan aikana häneltä on myös suunniteltu kiertue 'CIPR-2026' -näyttelyssä, joka osoittaa hallituksen jatkuvaa keskittymistä teknologiseen modernisointiin. [6]
 
-**COMMENT:** Tämä kehitys korostaa Venäjän jatkuvia pyrkimyksiä parantaa sotilaallista kykyään kansainvälisten jännitteiden keskellä.
+**COMMENT:** Michustinin matka heijastaa Kremlin sitoutumista digitaalisten aloitteiden edistämiseen tärkeissä teollisissa sektoreissa. Tämä saattaa viitata pyrkimyksiin parantaa alueellista taloudellista resilienssiä ja teknologista kilpailukykyä kotimaisten ja kansainvälisten haasteiden keskellä.
+
+**LOCATION:** Nizhny Novgorod / Nizhny Novgorod, 56.3264816, 44.0051395 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.326482&mlon=44.005139#map=8/56.326482/44.005139) (Нижний Новгород)
+
+**KEYWORDS:** #russia #сф #про
+
+
+## Krasnodarin lentokenttä aloittaa toimintansa uudelleen
+Maaliskuun 17. päivänä 2026 Krasnodarin lentokenttä avattiin uudelleen lentotoimintaa varten, kun väliaikaiset rajoitukset, jotka oli asetettu lentoturvallisuuden vuoksi, poistettiin. Nämä rajoitukset olivat olleet voimassa noin puolitoista tuntia. [7]
+
+**COMMENT:** Toimintarajoitusten nopea ratkaiseminen Krasnodarin lentokentällä heijastaa valtion keskittymistä ilmatilan turvallisuuden ylläpitämiseen mahdollisten uhkien keskellä. Tämä tapaus voi viitata jatkuvaan valppautuuteen ja valmiuteen sopeutua nopeasti turvallisuusongelmiin ilmailuinfrastruktuurissa.
+
+**LOCATION:** Krasnodar / Krasnodar, 45.0351532, 38.9772396 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.035153&mlon=38.977240#map=8/45.035153/38.977240) (Краснодар)
+
+**KEYWORDS:** #russia #сво #пуск
+
+
+## Putin kutsuu onnistunutta Sarmatin testiä merkittäväksi tapahtumaksi Venäjälle
+Maaliskuun 12. päivänä 2026 presidentti Vladimir Putin ilmoitti, että Sarmatin interkontinentaalisten ballististen ohjusten onnistunut testi edustaa merkittävää virstanpylvästä Venäjälle. Testi raportoitiin strategisten ohjusjoukkojen komentaja Sergey Karakaevin toimesta, mikä korostaa ohjuksen merkitystä Venäjän sotilaallisissa kapasiteeteissa erityisesti lännen keskusteluissa sen vaikutuksista. [8]
+
+**COMMENT:** Sarmatin ohjusjärjestelmän onnistunut testi vahvistaa Venäjän strategista sotilaallista asemaa kohonneiden kansainvälisten tarkastelujen keskellä. Tämä kehitys voisi johtaa lisääntyneisiin jännitteisiin alueen turvallisuusdynamiikassa, kun Venäjä korostaa edistynyttä sotilasteknologiaansa.
 
 **LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #российский #удар #сво #пуск #арсенал #сф #часть #про
+**KEYWORDS:** #вс рф #удар #сво #пуск #сф #часть #про
 
 
-## Mironov ehdottaa jäteuudistuksen jäädyttämistä Venäjällä ja tarkastuksen suorittamista
-May 16. päivänä 2023, valtion duman varajäsen Sergey Mironov kutsui jäteuudistuksen jäädyttämistä Venäjällä ja laaja-alaisen auditoinnin aloittamista. [12]
+## Tiukka aikaraja Kiovalle Venäjälle kohdistuneiden hyökkäysten jälkeen
+Maaliskuun 17. päivänä 2026 sotilasasiantuntija Vasily Dandikin varoitti, että Kiova voi kohdata vakavan vastauksen sen hyökkäyksiin Venäjää vastaan, mikä viittaa siihen, että toimia voisi tapahtua 24 tunnin sisällä. Äskettäiset dronehyökkäykset ovat aiheuttaneet merkittäviä vaurioita ja uhreja Moskovassa ja sen ympärillä, mikä on johtanut Venäjän sotilasjoukkojen säännöllisiin iskuisiin ukrainalaisiin kohteisiin. [9]
 
-**COMMENT:** Mironovin ehdotus auditoinnin ja jäädyttämisen osalta heijastaa nousevaa tyytymättömyyttä jätehuoltopolitiikkaan.
+**COMMENT:** Konfliktin kiihtyminen heijastaa kohonneita jännitteitä ja mahdollisuutta nopealle sotilaalliselle eskalaatiolle Venäjältä. Tämä tilanne voi johtaa lisääntyneeseen sotilaalliseen mobilisointiin ja vastatoimiin, jotka voivat edelleen horjuttaa aluetta.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #сво #сф #про
+**KEYWORDS:** #российские #российские военные #пво #штаб #удар #сво #беспилотник #бпла #сф #часть #про
 
 
-## Kuorma-auto törmää kahdeksaan autoon liikennevaloissa Moskovan alueella
-May 16. päivänä 2023, kuorma-auto törmäsi kahdeksaan ajoneuvoon, jotka odottivat liikennevaloa Dmitrovin kunnallisalueella Moskovan alueella. [13]
+## Venäläinen Su-35 kaataa ukrainalaisen F-16:n Krolevetsin lähellä
+Maaliskuun 17. päivänä 2026 venäläinen Su-35 keskeytti ja ampui alas ukrainalaisen F-16:n Sumyn alueella, erityisesti Krolevetsin lähellä. Ukrainalainen lentokone tuhottiin ilmatilan ohjuksella, osana suunniteltua operaatiota F-16:ta kohtaan, jotka perustuvat Nizhinin lentotukikohtaan. [10]
 
-**COMMENT:** Tämä tapaus korostaa jatkuvia huolia liikenneturvallisuudesta ja liikennesääntöjen noudattamisesta Moskovan alueella.
+**COMMENT:** Tämä tapaus korostaa jatkuvaa intensiivisyyttä ilmakenttätaisteluissa venäläisten ja ukrainalaisten joukkojen välillä, mikä viittaa jatkuvaan ilmapuolustukseen konfliktissa. Onnellinen keskeytys voisi saada Ukrainan arvioimaan uudelleen taktista sijoittumistaan hävittäjälentokoneille alueella.
 
-**LOCATION:** Dmitrovsky Municipal District / Dmitrovsky Municipal District, Unknown, Unknown
+**LOCATION:** Krolevets / Krolevets, Unknown, Unknown
 
-**KEYWORDS:** #россия #тоф #про
+**KEYWORDS:** #российский #полк #удар #сво #перехват #истребитель #сф #часть #про
 
 
-## Lapsi kuolee auton alle Dagestanissa
-May 15. päivänä 2023, 9-vuotias poika kuoli, kun Mercedes-Benz törmäsi häneen henkilökohtaisella liikuntavälineellä suojatiellä Kizilyurtissa, Dagestanissa. [14]
+## Ukrainan joukot tykittävät kuljetustyöpajan Zaporizhzhian ydinvoimalassa
+Maaliskuun 17. päivänä 2023 ukrainalaisten asevoimien tykistötuli kohdistui kuljetustyöpajaan Zaporizhzhian ydinvoimalassa, aiheuttaen vaurioita rakennuksen katolle ja useille busseille, mutta ilman haavottumisia tai tulipaloa. Voimalaitoksen johto vahvisti, että toiminnot jatkuvat normaalisti hyökkäyksestä huolimatta. [11]
 
-**COMMENT:** Tämä traaginen tapaus korostaa jatkuvia huolia jalankulkijoiden turvallisuudesta Dagestanissa.
+**COMMENT:** Tämä tapaus korostaa jatkuvia sotilaallisia jännitteitä, jotka ympäröivät kriittistä infrastruktuuria Ukrainassa, erityisesti ydinvoimaloiden lähellä. Tällaisia kohteita kohdistuva jatkuva tykistötuli herättää vakavia huolia turvallisuudesta ja turvallisuudesta, mikä todennäköisesti johtaa lisääntyneisiin sotilaallisiin toimiin tai kansainväliseen tarkasteluun konfliktin dynamiikassa.
 
-**LOCATION:** Kizilyurt / Kizilyurt, 43.1999049, 46.8713343 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.199905&mlon=46.871334#map=8/43.199905/46.871334) (Кизилюрт)
+**LOCATION:** Zaporizhzhian ydinvoimala / Zaporizhzhia Nuclear Power Plant, Unknown, Unknown
 
-**KEYWORDS:** #россия #про
+**KEYWORDS:** #россия #удар #артиллерия #беспилотник #бпла #про
 
 
 # Sources
-[1] interfax.ru - https://interfax.ru/russia/1089809?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1089824?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1089944?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1089878?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1089945?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1089866?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1090024?utm_source=top
 
-[5] interfax.ru - https://interfax.ru/russia/1089817?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1090031
 
-[6] interfax.ru - https://interfax.ru/russia/1089887
+[5] interfax.ru - https://interfax.ru/russia/1090030
 
-[7] interfax.ru - https://interfax.ru/world/1089886
+[6] interfax.ru - https://interfax.ru/russia/1090024
 
-[8] interfax.ru - https://interfax.ru/russia/1089883
+[7] interfax.ru - https://interfax.ru/russia/1090022
 
-[9] interfax.ru - https://interfax.ru/russia/1089878
+[8] interfax.ru - https://interfax.ru/russia/1090020
 
-[10] interfax.ru - https://interfax.ru/russia/1089877
+[9] aif.ru - https://aif.ru/politics/putin-nazval-bolshim-sobytiem-dlya-rossii-uspeshnoe-ispytanie-sarmata
 
-[11] aif.ru - https://aif.ru/society/supertorpeda-rf-doletit-do-londona-i-parizha-glavnaya-novost-svo-16-maya
+[10] aif.ru - https://aif.ru/society/maksimalno-zhestkiy-otvet-za-ataki-na-rf-kievu-dali-sutki-na-rasplatu
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/mironov-predlozhil-zamorozit-musornuyu-reformu-v-rf-i-provesti-ee-audit
+[11] aif.ru - https://aif.ru/society/letayushchiy-grob-ruhnul-nad-ukrainoy-samolyot-nato-razorvalo-popolam
 
-[13] www.vesti.ru - https://www.vesti.ru/ns/fura-protaranila-vosem-mashin-na-svetofore-v-podmoskove
+[12] www.vesti.ru - https://www.vesti.ru/ns/artillerijskij-obstrel-vsu-transportnogo-cekha-zafiksirovan-na-zaporozhskoj-aehs
 
-[14] www.vesti.ru - https://www.vesti.ru/ns/v-dagestane-mercedes-sbil-nasmert-rebenka-na-sim
+[13] www.vesti.ru - https://www.vesti.ru/ns/prichinoj-chp-na-zapravke-v-pyatigorske-moglo-stat-nebezopasnoe-oborudovanie
