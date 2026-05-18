@@ -1,142 +1,174 @@
-# Report Date: 2026-05-17
+# Report Date: 2026-05-18
 
 ## Summary
-Raportointijaksolla Moskovassa ja sen ympäristössä tapahtui useita dronehyökkäyksiä, jotka johtivat kuolemaan ja haavoittumisiin. Tapahtumat osoittavat kasvavia uhkia siviilialueilla ja vauhdittavat turvallisuus- ja puolustustoimien tiukentamista. Tulevaisuudessa voidaan odottaa lisätoimenpiteitä drone-käytön rajoittamiseksi ja infrastruktuurin suojelemiseksi tällaisten hyökkäysten varalta. Raskaan kaluston käyttö ydinvoimaloiden lähellä lisää jännitteitä alueella ja heijastaa jatkuvia sotilaallisia uhkia. Myös muutamaan lentokenttään liittyvät tapahtumat osoittavat parantuneiden toimintamääräysten myötä paluuta normaalitilaan, mikä vaikuttaa alueelliseen ilmailun ja turvallisuuden hallintaan.
+Raportointijaksolla Venäjän turvallisuuspolitiikan keskipisteenä on ollut harvinaisten ja harvinaisten maametallien teollisuuden kehittäminen. Presidentti Putinin keskustelut turvallisuusneuvoston kanssa viittaavat mahdollisiin investointeihin ja sääntelytoimiin. Samanaikaisesti lisääntynyt jännitys Ukrainan kanssa näkyy voimakkaana sotilaallisena reagointina, erityisesti Moskovan alueella tapahtuneen dronehyökkäyksen jälkeen. Liettuan suunnitelma luoda miinakenttä Venäjän rajalle korostaa alueen turvallisuusdynamiikan kiristymistä.
 
-## Kolme kuollutta dronehyökkäyksessä Moskovan alueella
-Maaliskuun 17. päivänä 2026 tapahtui dronehyökkäys Moskovan alueella, jossa kolme henkilöä kuoli, mukaan lukien nainen Khimkissä ja kaksi miestä Pogorelkyssa. Hyökkäys aiheutti myös merkittäviä vaurioita yksityisiin koteihin ja infrastruktuuriin, mikä herättää jatkuvia huolia alueen turvallisuudesta ja kohdistumisesta. [1]
+## Putin Discusses Development of Rare and Rare Earth Metals Industry with Security Council Members
+On May 18th, 2026, President Vladimir Putin held discussions with permanent members of the Security Council regarding the development of the rare and rare earth metals industry to ensure Russia's technological sovereignty and national security. This meeting highlights the prioritization of critical industries in the context of national defense and could lead to increased state support and regulation in this sector. [1]
 
-**COMMENT:** Hyökkäys droneilla korostaa haavoittuvuuksia siviilialueilla ja mahdollisia jännitteiden kärjistymisiä drone-sodankäynnissä. Tulevat vaikutukset saattavat sisältää lisääntyneitä turvallisuustoimia sekä mahdollisen muutoksen sotilasstrategioissa koskien dronejen käyttöä kaupunkialueilla.
+**COMMENT:** The focus on the rare and rare earth metals industry reflects Russia's strategy to bolster its self-sufficiency in critical technologies. This could signify heightened regulatory measures and investments aimed at enhancing Russia's technological independence in the near future.
 
-**LOCATION:** Moskovan alue / Moscow Oblast, 55.5043158, 38.0353929 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.504316&mlon=38.035393#map=8/55.504316/38.035393) (Московская область)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #сво #беспилотник #бпла
-
-
-## Dronehyökkäys Moskovassa haavoitti 12 henkilöä
-Maaliskuun 17. päivänä 2026 tapahtui dronehyökkäys Moskovassa, jossa 12 henkilöä haavoittui, pääasiassa rakennustyöntekijöitä Moskovan öljynjalostamon lähellä. Kaupunginjohtaja Sergey Sobyanin vahvisti, että hyökkäys ei häirinnyt jalostamon toimintaa, vaikka kolme asuinrakennusta vahingoittui. [2]
-
-**COMMENT:** Tämä tapaus korostaa haavoittuvuuksia Moskovan turvallisuusasenneessa, erityisesti drone-uhkien osalta. Se saattaa aiheuttaa lisääntyneitä toimenpiteitä, joilla pyritään vahvistamaan turvallisuutta tärkeiden infrastruktuurien ympärillä.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #беспилотник #бпла #про
+**KEYWORDS:** #russia #министр обороны #про
 
 
-## Polttoaineasemaverkoston johtaja pidätettiin Tulipalon jälkeen Pyatigorskissa
-Maaliskuun 17. päivänä 2026 Pyatigorskissa, Stavropolissa, polttoaineasemaverkoston johtaja pidätettiin räjähdyksen ja tulipalon jälkeen, joka tapahtui yhdessä asemista ja johti vammoihin. 38-vuotias johtaja epäillään tarjoamasta vaarallisia palveluja, mikä herättää Venäjän tutkintakomitean tutkimuksen, joka saattaa pyrkiä asettamaan säilytysmittauksiin. [3]
+## Kremlin Calls Zelensky's Comments on Russia's Alleged NATO Attack Plans Provocation
+On May 18th, 2026, Kremlin spokesperson Dmitry Peskov responded to Ukrainian President Volodymyr Zelensky's claims that Russia is planning to attack a NATO country from Belarus. Peskov stated that such remarks are seen as an attempt to escalate tensions and continue military hostilities, emphasizing Belarus's sovereignty and alliance with Russia. [2]
 
-**COMMENT:** Tämä tapaus korostaa mahdollisia sääntelypuutteita turvallisuusprotokollissa kriittisillä infrastruktuurialueilla. Oikeudelliset seuraamukset voivat vaikuttaa operatiivisiin standardeihin ja tarkastuksiin polttoaineasemilla alueella lähitulevaisuudessa.
+**COMMENT:** The Kremlin's reaction underscores ongoing tensions with Ukraine and NATO, suggesting a defensive posture in Russian rhetoric. This may signal an intention to bolster domestic narrative against perceived threats from the West, while continuing military readiness in the region.
 
-**LOCATION:** Pyatigorsk / Pyatigorsk, 44.0375438, 43.0363667 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.037544&mlon=43.036367#map=8/44.037544/43.036367) (Пятигорск)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #про
-
-
-## Isku vahingoitti kuljetuslaitosta Zaporizhzhian ydinvoimalassa
-Maaliskuun 17. päivänä 2026 ukrainalaisjoukkojen tykistötuli vahingoitti kuljetuslaitosta Zaporizhzhian ydinvoimalassa, mukaan lukien rakenteen katto. Raporttien mukaan vahingoittui useita busseja, mutta haavoittuneita tai tulipalosta ei raportoitu. [4]
-
-**COMMENT:** Tämä tapaus korostaa alueen jatkuvia sotilaallisia jännitteitä, jotka vaikuttavat kriittiseen infrastruktuuriin. Voimalaitoksen jatkuva toimintakunto voi viitata kykyyn hallita häiriöitä, mutta se voi myös merkitä lisääntyneitä haavoittuvuuksia turvallisuudessa ja vakaudessa.
-
-**LOCATION:** Zaporizhzhian ydinvoimala / Zaporizhzhia Nuclear Power Plant, Unknown, Unknown
-
-**KEYWORDS:** #russia #удар #беспилотник #про
+**KEYWORDS:** #russia #россия #удар #про
 
 
-## Kalugan lentokenttä aloittaa toimintansa uudelleen
-Maaliskuun 17. päivänä 2026 Kalugan lentokenttä (Grabtsevo) aloitti normaalit toimintansa, kun Venäjän ilmailuviranomainen Rosaviatsiya poisti väliaikaiset rajoitukset ilma-alusten saapumiselle ja lähdölle. Rajoitukset olivat olleet voimassa aikaisemmin päivällä lentoturvallisuuden takaamiseksi. [5]
+## Russia Extradites Romanian Organized Crime Member Convicted of Attempted Murder
+On May 18th, 2026, Russia extradited a Romanian citizen who was on international wanted lists and convicted of serious crimes, including attempted murder, to Romania. The individual received an 18-year prison sentence in 2008 for a series of crimes committed in Bucharest, reflecting ongoing cooperation between Russian and Romanian law enforcement agencies in organized crime cases. [3]
 
-**COMMENT:** Lentokentän toiminnan palautuminen viittaa mahdolliseen paluuseen normaaleihin lentoaikatauluihin ja voi heijastaa parantuneita turvallisuus- tai toimintakuntoja. Alueellisten ilmatiladamotiivien jatkuva seuranta voi tarjota tietoa laajemmista suuntauksista Venäjän ilmailun ja turvallisuuden hallinnassa.
+**COMMENT:** The extradition highlights Russia's willingness to engage with international law enforcement efforts against organized crime. This commitment may influence future security collaborations and affect organized crime dynamics in the region.
 
-**LOCATION:** Kaluga / Kaluga, 54.5101087, 36.2598115 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.510109&mlon=36.259811#map=8/54.510109/36.259811) (Калуга)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
-**KEYWORDS:** #russia #пуск
-
-
-## Michustin aloittaa työmatkansa Volgan federaalialueelle
-Maaliskuun 18. päivänä 2026 Venäjän pääministeri Mihail Michustin matkustaa Volgan federaalialueelle osallistumaan 11. 'CIPR' -konferenssin täysistuntoon digitaalisesta muutoksesta teollisuudessa, joka pidetään Nizhny Novgorodissa. Matkan aikana häneltä on myös suunniteltu kiertue 'CIPR-2026' -näyttelyssä, joka osoittaa hallituksen jatkuvaa keskittymistä teknologiseen modernisointiin. [6]
-
-**COMMENT:** Michustinin matka heijastaa Kremlin sitoutumista digitaalisten aloitteiden edistämiseen tärkeissä teollisissa sektoreissa. Tämä saattaa viitata pyrkimyksiin parantaa alueellista taloudellista resilienssiä ja teknologista kilpailukykyä kotimaisten ja kansainvälisten haasteiden keskellä.
-
-**LOCATION:** Nizhny Novgorod / Nizhny Novgorod, 56.3264816, 44.0051395 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.326482&mlon=44.005139#map=8/56.326482/44.005139) (Нижний Новгород)
-
-**KEYWORDS:** #russia #сф #про
+**KEYWORDS:** #russia #учения #сво #про
 
 
-## Krasnodarin lentokenttä aloittaa toimintansa uudelleen
-Maaliskuun 17. päivänä 2026 Krasnodarin lentokenttä avattiin uudelleen lentotoimintaa varten, kun väliaikaiset rajoitukset, jotka oli asetettu lentoturvallisuuden vuoksi, poistettiin. Nämä rajoitukset olivat olleet voimassa noin puolitoista tuntia. [7]
+## Court Reduces Sentence for Man Convicted of Shooting near Church in Yekaterinburg
+On May 18th, 2026, the Sverdlovsk Regional Court reduced the sentence of Roman Stadler, who had been convicted for shooting near the 'Bolshoi Zlatooust' church in Yekaterinburg in October 2023. The court amended the original ruling from a two-year colony sentence to two years of compulsory labor with a 15% deduction to the state. [4]
 
-**COMMENT:** Toimintarajoitusten nopea ratkaiseminen Krasnodarin lentokentällä heijastaa valtion keskittymistä ilmatilan turvallisuuden ylläpitämiseen mahdollisten uhkien keskellä. Tämä tapaus voi viitata jatkuvaan valppautuuteen ja valmiuteen sopeutua nopeasti turvallisuusongelmiin ilmailuinfrastruktuurissa.
+**COMMENT:** The reduction of Stadler's sentence may indicate a shift in legal responses to public disturbances involving firearms, particularly in sensitive locations like places of worship. This could reflect broader trends in the handling of public order offenses in Russia, potentially signaling a more lenient approach in certain cases.
 
-**LOCATION:** Krasnodar / Krasnodar, 45.0351532, 38.9772396 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.035153&mlon=38.977240#map=8/45.035153/38.977240) (Краснодар)
+**LOCATION:** Jekaterinburg / Yekaterinburg, 56.8382071, 60.6007886 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.838207&mlon=60.600789#map=8/56.838207/60.600789)
 
-**KEYWORDS:** #russia #сво #пуск
-
-
-## Putin kutsuu onnistunutta Sarmatin testiä merkittäväksi tapahtumaksi Venäjälle
-Maaliskuun 12. päivänä 2026 presidentti Vladimir Putin ilmoitti, että Sarmatin interkontinentaalisten ballististen ohjusten onnistunut testi edustaa merkittävää virstanpylvästä Venäjälle. Testi raportoitiin strategisten ohjusjoukkojen komentaja Sergey Karakaevin toimesta, mikä korostaa ohjuksen merkitystä Venäjän sotilaallisissa kapasiteeteissa erityisesti lännen keskusteluissa sen vaikutuksista. [8]
-
-**COMMENT:** Sarmatin ohjusjärjestelmän onnistunut testi vahvistaa Venäjän strategista sotilaallista asemaa kohonneiden kansainvälisten tarkastelujen keskellä. Tämä kehitys voisi johtaa lisääntyneisiin jännitteisiin alueen turvallisuusdynamiikassa, kun Venäjä korostaa edistynyttä sotilasteknologiaansa.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #вс рф #удар #сво #пуск #сф #часть #про
+**KEYWORDS:** #russia #удар #про
 
 
-## Tiukka aikaraja Kiovalle Venäjälle kohdistuneiden hyökkäysten jälkeen
-Maaliskuun 17. päivänä 2026 sotilasasiantuntija Vasily Dandikin varoitti, että Kiova voi kohdata vakavan vastauksen sen hyökkäyksiin Venäjää vastaan, mikä viittaa siihen, että toimia voisi tapahtua 24 tunnin sisällä. Äskettäiset dronehyökkäykset ovat aiheuttaneet merkittäviä vaurioita ja uhreja Moskovassa ja sen ympärillä, mikä on johtanut Venäjän sotilasjoukkojen säännöllisiin iskuisiin ukrainalaisiin kohteisiin. [9]
+## Restrictions Lifted at Nizhny Novgorod Airport
+On May 18th, 2026, the restrictions on the acceptance and departure of flights at Nizhny Novgorod Airport were lifted by Rosaviatsiya following a security situation earlier in the day. The restrictions had been imposed after an attack by over twenty drones was reported in the region, which caused minor damage to civilian infrastructure but resulted in no casualties. [5]
 
-**COMMENT:** Konfliktin kiihtyminen heijastaa kohonneita jännitteitä ja mahdollisuutta nopealle sotilaalliselle eskalaatiolle Venäjältä. Tämä tilanne voi johtaa lisääntyneeseen sotilaalliseen mobilisointiin ja vastatoimiin, jotka voivat edelleen horjuttaa aluetta.
+**COMMENT:** This incident highlights ongoing concerns regarding drone attacks in the region, which may prompt heightened security measures at airports. The swift response and subsequent lifting of restrictions could indicate the government's focus on maintaining air travel safety and operational continuity despite emerging threats.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Nizhny Novgorod / Nizhny Novgorod, 56.3264816, 44.0051395 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.326482&mlon=44.005139#map=8/56.326482/44.005139)
 
-**KEYWORDS:** #российские #российские военные #пво #штаб #удар #сво #беспилотник #бпла #сф #часть #про
-
-
-## Venäläinen Su-35 kaataa ukrainalaisen F-16:n Krolevetsin lähellä
-Maaliskuun 17. päivänä 2026 venäläinen Su-35 keskeytti ja ampui alas ukrainalaisen F-16:n Sumyn alueella, erityisesti Krolevetsin lähellä. Ukrainalainen lentokone tuhottiin ilmatilan ohjuksella, osana suunniteltua operaatiota F-16:ta kohtaan, jotka perustuvat Nizhinin lentotukikohtaan. [10]
-
-**COMMENT:** Tämä tapaus korostaa jatkuvaa intensiivisyyttä ilmakenttätaisteluissa venäläisten ja ukrainalaisten joukkojen välillä, mikä viittaa jatkuvaan ilmapuolustukseen konfliktissa. Onnellinen keskeytys voisi saada Ukrainan arvioimaan uudelleen taktista sijoittumistaan hävittäjälentokoneille alueella.
-
-**LOCATION:** Krolevets / Krolevets, Unknown, Unknown
-
-**KEYWORDS:** #российский #полк #удар #сво #перехват #истребитель #сф #часть #про
+**KEYWORDS:** #russia #бпла #пуск
 
 
-## Ukrainan joukot tykittävät kuljetustyöpajan Zaporizhzhian ydinvoimalassa
-Maaliskuun 17. päivänä 2023 ukrainalaisten asevoimien tykistötuli kohdistui kuljetustyöpajaan Zaporizhzhian ydinvoimalassa, aiheuttaen vaurioita rakennuksen katolle ja useille busseille, mutta ilman haavottumisia tai tulipaloa. Voimalaitoksen johto vahvisti, että toiminnot jatkuvat normaalisti hyökkäyksestä huolimatta. [11]
+## "United Russia" Opposes Ban on Children's Access to Social Media
+On May 18th, 2026, Sergey Boyarsky, the chairman of the State Duma's Information Policy Committee, announced that the parliamentary majority does not support a proposed ban on social media access for users under 14 years old. He emphasized the importance of focusing on the development of domestic platforms to combat harmful content rather than imposing age restrictions, arguing that the matter of children’s access should be handled within families. [6]
 
-**COMMENT:** Tämä tapaus korostaa jatkuvia sotilaallisia jännitteitä, jotka ympäröivät kriittistä infrastruktuuria Ukrainassa, erityisesti ydinvoimaloiden lähellä. Tällaisia kohteita kohdistuva jatkuva tykistötuli herättää vakavia huolia turvallisuudesta ja turvallisuudesta, mikä todennäköisesti johtaa lisääntyneisiin sotilaallisiin toimiin tai kansainväliseen tarkasteluun konfliktin dynamiikassa.
+**COMMENT:** This stance by a major political party reflects a trend towards prioritizing domestic digital solutions while resisting potentially restrictive regulations affecting family privacy. The decision may signal a shift in legislative focus towards supporting local initiatives rather than imposing federal controls on social media access.
 
-**LOCATION:** Zaporizhzhian ydinvoimala / Zaporizhzhia Nuclear Power Plant, Unknown, Unknown
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #россия #удар #артиллерия #беспилотник #бпла #про
+**KEYWORDS:** #russia #россия #сво #про
+
+
+## Putin and Xi Jinping to Open Cross-Year Education Ceremony
+On May 18th, 2026, Russian President Vladimir Putin, during an official visit to China, will participate in the opening ceremony of the Cross-Year of Education alongside Chinese President Xi Jinping. This event marks the commencement of numerous educational initiatives aimed at strengthening educational ties between the two countries, set to last until October 2027. [7]
+
+**COMMENT:** The engagement underscores Russia's strategic partnership with China, particularly in education and cultural exchange. This initiative may enhance bilateral relations and indicative of Russia's efforts to bolster influence in Asia amid global geopolitical tensions.
+
+**LOCATION:** Peking / Beijing, 39.9057136, 116.3912972 [Click for Map Location](https://www.openstreetmap.org/?mlat=39.905714&mlon=116.391297#map=8/39.905714/116.391297)
+
+**KEYWORDS:** #russia #удар #сво #про
+
+
+## Russian Air Defense Intercepts 91 Ukrainian Drones
+On March 20th, 2026, Russian air defense units intercepted and destroyed 91 Ukrainian drones over various regions of Russia, including the Moscow and Belgorod regions, according to the Russian Ministry of Defense. This incident highlights ongoing hostilities and the responsiveness of Russian military assets amidst hopes for a resumption of peace talks regarding Ukraine. [8]
+
+**COMMENT:** The interception of Ukrainian drones indicates a heightened operational tempo in air defense, possibly in response to increased drone activity. As the Kremlin seeks to renew peace negotiations, continued military engagements may complicate diplomatic efforts and influence regional stability.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #минобороны рф #вс рф #минобороны #министерство обороны #пво #флот #штаб #удар #сво #беспилотник #бпла #перехват #про
+
+
+## Immediate Response by Russia Following Ukrainian Attack on Moscow Region
+On May 18th, 2026, the Russian military responded decisively to a Ukrainian drone attack that targeted the Moscow region on May 17th. The Russian Defense Ministry reported the downing of over 600 Ukrainian drones and confirmed civilian casualties in the cities of Khimki and Mytishchi, indicating heightened tensions and potential escalation in military engagements between Russia and Ukraine. [9]
+
+**COMMENT:** The Russian military's swift retaliatory measures highlight its focus on securing domestic airspace and responding to perceived threats from Ukraine. Ongoing military exchanges may further strain the situation, possibly leading to increased military readiness and operational responses by Russian forces along the border.
+
+**LOCATION:** Moskova Oblast / Moscow Oblast, 55.5043158, 38.0353929 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.504316&mlon=38.035393#map=8/55.504316/38.035393)
+
+**KEYWORDS:** #россия #российские #минобороны рф #вс рф #российские военные #минобороны #штаб #удар #сво #беспилотник #бпла #сф #часть #про
+
+
+## Putin Records Video Address to Citizens Ahead of Upcoming Visit to China
+On May 18th, 2026, Russian President Vladimir Putin recorded a video address to the citizens of the People's Republic of China ahead of his official visit scheduled for May 19th-20th. This year, instead of a traditional article for local media, the address will be disseminated through relevant channels, indicating a shift in communication strategy with foreign nations. [10]
+
+**COMMENT:** This development highlights Russia's emphasis on direct communication with its foreign counterparts, possibly to strengthen diplomatic ties. The video address may signal a greater focus on media engagement in international relations, potentially impacting future interactions with China and other nations.
+
+**LOCATION:** Kiina / China, 35.000074, 104.999927 [Click for Map Location](https://www.openstreetmap.org/?mlat=35.000074&mlon=104.999927#map=8/35.000074/104.999927)
+
+**KEYWORDS:** #российский #удар #сво #про
+
+
+## Lithuania Plans to Create Minefield at Border with Russia
+On May 18th, 2026, Lithuania's Defense Minister, Robertas Kajaunas, announced plans to establish a minefield along its border with Russia as part of the EU's Eastern Flank Watch initiative. This project aims to enhance defense capabilities in response to perceived threats from Russia by creating a reliable defensive line equipped with anti-tank measures and mines to impede troop movements. [11]
+
+**COMMENT:** The establishment of a minefield indicates a significant escalation in Lithuania's military posture regarding its border with Russia, highlighting ongoing tensions in the region. This measure may provoke reciprocal actions from Russia and further complicate security dynamics in Eastern Europe.
+
+**LOCATION:** Liettua / Lithuania, 55.3500003, 23.7499997 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.350000&mlon=23.750000#map=8/55.350000/23.750000)
+
+**KEYWORDS:** #россия #полигон #министр обороны #армия #про
+
+
+## 91 Ukrainian Drone Intercepted in Nine Hours Over Russian Regions
+On May 18th, 2023, Russian air defense forces intercepted 91 Ukrainian drones over several Russian regions, including Moscow, between 7:00 AM and 4:00 PM local time. The Ministry of Defense of the Russian Federation confirmed that drones were downed over Belgorod, Voronezh, Kaluga, Kursk, Lipetsk, Nizhny Novgorod, Rostov, Tula regions, and Krasnodar Krai. [12]
+
+**COMMENT:** This event underscores the ongoing drone warfare dynamics between Russia and Ukraine, indicating persistent threats to Russian territory. The high number of intercepts may lead to increased vigilance and a possible escalation in defensive measures by Russian forces.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+
+**KEYWORDS:** #российские #минобороны рф #мо рф #минобороны #пво #противовоздушная оборона #беспилотник #бпла #перехват #про
+
+
+## Lithuania to Create Minefield on Border with Russia
+On May 18th, 2026, Lithuanian Defense Minister Robertas Kaunas announced plans to establish a minefield along the border with Russia as part of the European Union's Eastern Flank Watch project. This initiative is aimed at countering perceived threats from Russia and includes measures to enhance border defense capabilities. [13]
+
+**COMMENT:** This development highlights Lithuania's proactive defense strategy amid escalating tensions with Russia. In the near term, this may lead to increased military readiness and further NATO involvement in the region.
+
+**LOCATION:** Liettua / Lithuania, 55.3500003, 23.7499997 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.350000&mlon=23.750000#map=8/55.350000/23.750000)
+
+**KEYWORDS:** #россия #министр обороны #удар #про
+
+
+## FIG Allows Russian Gymnasts to Compete Without Restrictions
+On May 18th, 2026, the International Gymnastics Federation (FIG) announced that Russian athletes are now permitted to compete in international events under their national flag and anthem. This development follows a decision made by FIG's executive committee in Sharm el-Sheikh, which also comes in response to calls from the European Commission to lift restrictions on Russian athletes that have been in place since February 2022. [14]
+
+**COMMENT:** This decision marks a significant shift in the status of Russian athletes, reflecting changing international attitudes toward Russia in the sports domain. It may indicate potential for increased Russian participation in global sports, possibly influencing broader diplomatic relations.
+
+**LOCATION:** Sharm el-Sheikh / Sharm el-Sheikh, Unknown, Unknown
+
+**KEYWORDS:** #россия #удар #сво #пуск #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1089944?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1090149?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1089945?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1090133?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1090024?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1090142?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1090031
+[4] interfax.ru - https://interfax.ru/russia/1090205
 
-[5] interfax.ru - https://interfax.ru/russia/1090030
+[5] interfax.ru - https://interfax.ru/russia/1090200
 
-[6] interfax.ru - https://interfax.ru/russia/1090024
+[6] interfax.ru - https://interfax.ru/russia/1090195
 
-[7] interfax.ru - https://interfax.ru/russia/1090022
+[7] interfax.ru - https://interfax.ru/russia/1090193
 
-[8] interfax.ru - https://interfax.ru/russia/1090020
+[8] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
 
-[9] aif.ru - https://aif.ru/politics/putin-nazval-bolshim-sobytiem-dlya-rossii-uspeshnoe-ispytanie-sarmata
+[9] aif.ru - https://aif.ru/society/mgnovennaya-rasplata-za-moskvu-obrushilas-na-vsu-glavnaya-novost-svo-18-maya
 
-[10] aif.ru - https://aif.ru/society/maksimalno-zhestkiy-otvet-za-ataki-na-rf-kievu-dali-sutki-na-rasplatu
+[10] www.vesti.ru - https://www.vesti.ru/ns/putin-pered-predstoyashchim-vizitom-v-knr-zapisal-videoobrashchenie-k-grazhdanam-strany
 
-[11] aif.ru - https://aif.ru/society/letayushchiy-grob-ruhnul-nad-ukrainoy-samolyot-nato-razorvalo-popolam
+[11] www.vesti.ru - https://www.vesti.ru/ns/litva-planiruet-sozdat-minnoe-pole-na-granice-s-rf-pishut-smi
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/artillerijskij-obstrel-vsu-transportnogo-cekha-zafiksirovan-na-zaporozhskoj-aehs
+[12] www.vesti.ru - https://www.vesti.ru/ns/91-ukrainskij-bpla-perekhvachen-za-devyat-chasov-nad-rossijskimi-regionami
 
-[13] www.vesti.ru - https://www.vesti.ru/ns/prichinoj-chp-na-zapravke-v-pyatigorske-moglo-stat-nebezopasnoe-oborudovanie
+[13] iz.ru - https://iz.ru/2099281/2026-05-18/litva-sozdast-minnoe-pole-na-granitce-s-rossiei?main_click
+
+[14] iz.ru - https://iz.ru/2099277/kakie-federatcii-dopustili-rf-do-uchastiia-v-sorevnovaniiakh-bez-ogranichenii-glavnoe-izi?main_click
