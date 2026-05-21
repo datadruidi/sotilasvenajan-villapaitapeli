@@ -1,246 +1,332 @@
-# Report Date: 2026-05-20
+# Raportti päivä: 2026-05-21
 
 ## Summary
-Raportointijaksolla on havaittavissa merkittäviä tapahtumia, jotka heijastavat kehittyviä suhteita Venäjän ja Kiinan välillä sekä jännitteitä Venäjän ja länsimaiden, erityisesti EU:n ja Ukrainan, välillä. Venäjän presidentti Vladimir Putinin Kiinan vierailu tuo esiin laaja-alaiset yhteistyömahdollisuudet ja vahvistaa maiden välistä strategista kumppanuutta. Samanaikaisesti Venäjän keskuspankin vaatimukset Euroclearia vastaan ja Zelenskyin julkilausumat uhkista Belarusista viittaavat kasvaviin jännitteisiin. Lähitulevaisuudessa voidaan odottaa lisää diplomatiaa ja mahdollisia taloudellisia toimenpiteitä, jotka voivat vaikuttaa alueelliseen turvallisuuteen.
+Raportointijaksolla tilanne on kiihtynyt Venäjän ja Ukrainan välillä, erityisesti drone hyökkäysten ja vastatoimien osalta. Useita siviiliuhreja on raportoitu sekä Venäjällä että Donetskin alueella. Venäjän puolustusvoimat ovat intensiivisesti torjuneet droneja, mikä viittaa jatkuvaan kriisiin ja sotilaallisiin operaatioihin. Lähitulevaisuudessa on todennäköistä, että tilanne tulee kiristymään entisestään, ja sekä Venäjän että Ukrainan osalta sotatoimet voivat lisääntyä.
 
-## Putin Highlights Limitless Cooperation Prospects Between Russia and China
-On May 20th, 2026, Russian President Vladimir Putin officially visited China, where he and Chinese President Xi Jinping signed over 20 cooperation documents across various sectors. This visit marks an important step in strengthening bilateral ties amidst ongoing geopolitical dynamics, particularly following a significant yet less productive visit by U.S. President Donald Trump to Beijing. [1]
+## Kaksi kuollutta dronehyökkäyksessä Syzraneen
+Raportoidusti 21. toukokuuta 2026 tapahtuneessa dronehyökkäyksessä Syzraneessa, Samara-alueella, kuoli kaksi henkilöä ja useita haavoittui. Alueen kuvernööri vahvisti tapahtuman ja sen jälkeiset turvallisuustoimenpiteet paikallisilla lentokentillä. Venäjän armeija raportoi myös useista Ukrainan droneista, jotka torjuttiin alueella. [1]
 
-**COMMENT:** This development underscores Russia's desire to solidify its strategic partnership with China in light of shifting international relations. Future cooperation initiatives may further enhance both countries' geopolitical influence and economic ties, potentially impacting regional security dynamics.
+**COMMENT:** Tapahtuma korostaa konfliktin jatkuvia jännitteitä ja drone-teknologian käyttöä. 
 
-**LOCATION:** Beijing / Beijing, 39.9057136, 116.3912972 [Click for Map Location](https://www.openstreetmap.org/?mlat=39.905714&mlon=116.391297#map=8/39.905714/116.391297)
+**LOCATION:** Syzran / Syzran, Unknown, Unknown, Unknown [Click for Map Location](Unknown) (Сызрань)
 
-**KEYWORDS:** #russia #россия #сво #сф #про
+**KEYWORDS:** #russia #минобороны #пво #сво #беспилотник #бпла 
 
 
-## Bank of Russia Requests Immediate Enforcement of Court Decision Against Euroclear
-On May 20th, 2026, the Bank of Russia submitted a request to the Moscow Arbitration Court for the immediate enforcement of a court decision regarding its lawsuit against the Belgian depository Euroclear. The request follows the court's previous ruling on May 15th, which fully satisfied the Bank's claims but has yet to take effect. [2]
+## Keskuspankki kehottaa pankkeja tarkistamaan suuria käteistalletuksia
+21. toukokuuta 2026 Venäjän keskuspankki suositteli pankkeja lisäämään tarkkuutta suurten asiakkailta tehtävien käteistalletusten suhteen, korostaen rahanpesun estämisen tarvetta. Suositus edellyttää pankkien analysoivan päivittäisiä tapahtumia erityisesti yli 5 miljoonan ruplan käteistalletusten osalta kuukaudessa. [2]
 
-**COMMENT:** This development indicates heightened tensions between Russia and the EU, as the Bank of Russia seeks to expedite the enforcement of its legal claims against Euroclear. The outcome could affect Russia's financial interactions with Western institutions and reflect broader geopolitical conflicts.
+**COMMENT:** Tämä ohjeistus viittaa jatkuviin huoliin talousrikoksista ja sääntelyvalvonnan tarpeesta. 
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #russia #сф #про 
 
 
-## Kremlin Confirms Upcoming Visit of Whitcoff and Kushner to Russia
-On May 20th, 2026, Yuri Ushakov, an aide to the President of Russia, confirmed that the visit of U.S. Special Envoy Steve Whitcoff and Jared Kushner, son-in-law of President Donald Trump, is expected in the coming weeks. The exact dates of the visit remain unknown, but it highlights ongoing diplomatic engagements between Russia and the United States amid fluctuating relations. [3]
+## Lukashenka ja Putin pitävät yhteisiä ydinvoimaharjoituksia videokonferenssissa
+21. toukokuuta 2026 Valko-Venäjän presidentti Alexander Lukashenka ja Venäjän presidentti Vladimir Putin pitivät videokonferenssin ydinaseyksiköiden yhteisharjoituksen aikana. Tämä oli ensimmäinen laatuaan, ja molemmat johtajat korostivat sitoutumista puolustukseen ja valmiuteen. [3]
 
-**COMMENT:** This visit indicates a continuing dialogue between Russia and the current U.S. administration, focusing on investment and economic relations. Future interactions may either stabilize relations or amplify ongoing geopolitical tensions, depending on the discussions' outcomes.
+**COMMENT:** Yhteinen harjoitus osoittaa Valko-Venäjän ja Venäjän sotilaallista yhteistyötä. 
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #russia #российские #минобороны #учения #штаб #сво #про 
 
 
-## Tourist Flow Between Russia and China Increased by 50% Due to Visa-Free Regime
-On May 20th, 2026, Russian Minister of Economic Development Maxim Reshetnikov announced a 50% increase in mutual tourism flow between Russia and China following the introduction of a visa-free regime. This development aligns with agreements made by the leaders of both countries to enhance business relations and improve tourism links. [4]
+## Yli 110 dronea tuhottu Bryanskin alueella
+21. toukokuuta 2026 Bryanskin alueella yli 110 vihollisen dronea tuhottiin Venäjän puolustusministeriön ilmapuolustusosastojen ja kansalliskaartin erikoisjoukkojen toimesta. Hyökkäys kohdistui Belaya Beryezkan kylään, mikä aiheutti yhden siviilin loukkaantumisen. [4]
 
-**COMMENT:** The increase in tourist flow suggests an intensifying economic partnership between Russia and China, particularly in the tourism sector. This trajectory may further enhance bilateral cooperation and support economic growth through tourism-related job creation and service exports.
+**COMMENT:** Tapahtuma korostaa jatkuvia ilmailuuhkia ja puolustusvoimien aktiivisia toimia. 
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Bryanskin alue / Bryansk Oblast, 52.8873315, 33.415853 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.887332&mlon=33.415853#map=8/52.887332/33.415853) (Брянская область)
 
-**KEYWORDS:** #russia #россия #удар #пуск #сф #про
+**KEYWORDS:** #russia #пво #сво #беспилотник #бпла 
 
 
-## Drone Strikes in Belgorod Region and Rostov-on-Don Result in Injuries
-On the evening of March 20th, 2026, a series of drone strikes in the Belgorod region and Rostov-on-Don injured several individuals, with reports of at least four victims overall. Local emergency services reported that a drone struck a vehicle in the village of Golovino, while debris from a drone damaged a residential building in Rostov-on-Don, though there were no fatalities and fires were avoided. [5]
+## Siviiliuhreja raportoituna UAV-hyökkäysten seurauksena Donetskin ja Bryanskin alueilla
+9. maaliskuuta 2026 tapahtuneissa dronehyökkäyksissä Donetskin kansantasavallassa yksi siviili kuoli ja kahdeksan muuta haavoittui. Bryanskin alueella puolustusvoimat torjuivat 116 vihollisen dronea. [5]
 
-**COMMENT:** These strikes highlight the ongoing risks of drone warfare in the region, emphasizing vulnerabilities in civilian areas. The injuries reported may prompt further scrutiny on drone operations and potential retaliatory measures by local authorities.
+**COMMENT:** Nämä tapahtumat osoittavat jatkuvia jännitteitä ja sotatoimia rintamalinjoilla. 
 
-**LOCATION:** Belgorod Oblast / Belgorod Oblast, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762)
+**LOCATION:** Donetskin kansantasavalta / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](Unknown) (Донецкая народная республика)
 
-**KEYWORDS:** #российские #минобороны рф #российские военные #минобороны #пво #штаб #удар #сво #беспилотник #бпла #про
+**KEYWORDS:** #российские #минобороны рф #российские военные #минобороны #пво #штаб #удар #сво #беспилотник #бпла #про 
 
 
-## Three Wounded in DPR Drone Attack
-On May 20th, 2026, three civilians were reported injured in the Donetsk People's Republic (DPR) due to a drone attack by the Armed Forces of Ukraine, as stated by regional head Denis Pushilin. The incident occurred in Novopetrykovka and involved one man and two women receiving medical assistance following the strike. [6]
+## Yksi kuollut ja kahdeksan haavoittunutta dronehyökkäyksessä Donetskin kansantasavallassa
+21. toukokuuta 2026 dronehyökkäys Donetskin kansantasavallan alueella aiheutti yhden siviilin kuoleman ja kahdeksan muun haavoittumisen. Tapahtuma kohdistui siviili-infrastruktuuriin Makeevkassa. [6]
 
-**COMMENT:** This incident highlights the ongoing conflict in the region and the continued risk to civilians from military actions. The situation may exacerbate tensions and provoke further responses from both sides as the conflict persists.
+**COMMENT:** Tämä hyökkäys korostaa jatkuvaa jännittyneisyyttä Donetskin alueella. 
 
-**LOCATION:** Novopetrykovka / Novopetrykovka, 0, 0 [Click for Map Location](Unknown)
+**LOCATION:** Krasnogvardeysky District / Krasnogvardeysky District, Unknown, Unknown [Click for Map Location](Unknown) (Красногвардейский район)
 
-**KEYWORDS:** #russia #удар #бпла #про
+**KEYWORDS:** #russia #удар #бпла #про 
 
 
-## Tourism Between Russia and China Increased by 50% Due to Visa-Free Regime
-On May 20th, 2026, Russian Minister of Economic Development Maxim Reshetnikov reported that mutual tourism flow between Russia and China increased by 50% in the first quarter of the year following the introduction of a visa-free regime. This development is a direct result of agreements between the leaders of both countries, aimed at strengthening business ties and enhancing tourism connections. [7]
+## Venäjän puolustusministeriö raportoi 101 ukrainalaisen dronean tuhoamisesta
+21. toukokuuta 2026 Venäjän puolustusministeriö ilmoitti, että sen joukot torjuivat ja tuhosivat 101 ukrainalaista dronea Moskovan ja Leningradin alueilla. Torjunta tapahtui useilla muilla alueilla, mukaan lukien Bryansk ja Belgorod. [7]
 
-**COMMENT:** The increase in tourism flow indicates a deepening bilateral relationship, which enhances Russia's economic stability and capacity in the tourism sector. Continued cooperation and the expansion of tourism may lead to more economic opportunities and collaborative projects in various sectors.
+**COMMENT:** Dronejen torjuminen viittaa korkeaan operatiiviseen turvallisuuteen ja puolustusvalmiuteen. 
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #россия #удар #пуск #сф #про
+**KEYWORDS:** #russia #российские #минобороны рф #российские военные #минобороны #беспилотник #перехват 
 
 
-## Rosselkhoznadzor to Ban Import of Flowers from Armenia Starting May 22nd
-On May 20th, 2026, Rosselkhoznadzor announced a temporary ban on the import of flower products from Armenia, effective May 22nd. This decision aims to protect Russia's phytosanitary safety and export potential due to ongoing quarantine issues detected during previous imports. [8]
+## Tilapäiset rajoitukset Gelendzhik-lentokentällä
+21. toukokuuta 2026 Gelendzhik-lentokentällä otettiin käyttöön tilapäisiä rajoituksia saapuville ja lähteville lennoille. Rosaviatsian ilmoittamat toimenpiteet ovat tarpeen lentoturvallisuuden takaamiseksi. [8]
 
-**COMMENT:** This development highlights ongoing concerns regarding agricultural imports from Armenia and reflects Russia's proactive stance on phytosanitary regulations. The implications may lead to increased scrutiny of imports from other countries and signal a potential tightening of overall trade policies in the agricultural sector.
+**COMMENT:** Rajoitusten käyttö Gelendzhik-lentokentällä korostaa jatkuvia huolia ilmailuturvallisuudesta. 
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Gelendzhik / Gelendzhik, Unknown, Unknown [Click for Map Location](Unknown) (Геленджик)
 
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #russia #сво #пуск 
 
 
-## Russian Foreign Ministry Says No Specific Deadlines for Armenia's Decision Between EAEU and EU
-On May 20th, 2026, the Russian Foreign Ministry stated that there are currently no specific deadlines concerning Armenia's choice to remain in the Eurasian Economic Union (EAEU) or to join the European Union (EU). This remark was made by Deputy Foreign Minister Mikhail Galuzin during a press conference in Moscow, indicating Russia's interest in clarity regarding Armenia's geopolitical direction. [9]
+## Venäjä ja Valko-Venäjä suorittavat ydinharjoituksia 21. toukokuuta 2026
+21. toukokuuta 2026 Venäjä ja Valko-Venäjä suorittivat yhteisiä ydinharjoituksia, jotka käsittivät käytännön laukaisuja useista ohjusjärjestelmistä. Presidentti Putin vahvisti harjoitusten onnistuneen suorittamisen. [9]
 
-**COMMENT:** The lack of deadlines for Armenia may reflect Russia's cautious approach amid shifting regional dynamics. Future developments could signal Armenia's stance and test Russia's influence in post-Soviet space.
+**COMMENT:** Yhteiset ydinharjoitukset heijastavat ympäröivien turvallisuustilanteiden kiristymistä. 
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #russia #россия #про
+**KEYWORDS:** #russia #учения #сво #бпла #пуск #про 
 
 
-## Putin Discusses Prospects for Russia-China Relations During Visit
-On May 20th, 2026, Russian President Vladimir Putin, during his visit to China, stated that the two countries have identified further areas for cooperation in their bilateral relations. Putin expressed appreciation for the teams from both nations that worked intensively to prepare for the meeting, emphasizing the importance of the progress made in strengthening ties over recent years. [10]
+## Tilapäiset rajoitukset purettu Pulkovo-lentokentällä
+21. toukokuuta 2026 Pulkovo-lentokenttä Moskova:ssa jatkoi toimintojaan, kun Rosaviatsia ilmoitti rajoitusten purkamisesta. Rajoituksia oli ollut voimassa, kun lentoasemaa koordinoitiin asianomaisten viranomaisten kanssa. [10]
 
-**COMMENT:** This meeting underscores the ongoing strategic partnership between Russia and China, which may enhance Russia's leverage in geopolitical affairs. The continued collaboration could signal a shift in regional dynamics as both nations seek to bolster their influence in the face of Western pressures.
+**COMMENT:** Toimintojen elpyminen Pulkovo-lentokentällä viittaa elpymisympäristöön. 
 
-**LOCATION:** Beijing / Beijing, 39.9057136, 116.3912972 [Click for Map Location](https://www.openstreetmap.org/?mlat=39.905714&mlon=116.391297#map=8/39.905714/116.391297)
+**LOCATION:** Pulkovo-lentokenttä / Pulkovo Airport, Unknown, Unknown [Click for Map Location](Unknown) (Пулково)
 
-**KEYWORDS:** #российский #удар #сво #сф #часть #про
+**KEYWORDS:** #russia #пуск 
 
 
-## Zelensky Announces Preparation for Response to Possible Attack from Belarus
-On May 20th, 2023, Ukrainian President Volodymyr Zelensky stated that Ukraine is preparing a response to a potential offensive from Russian forces via Belarus. He instructed Ukrainian diplomats and intelligence agencies to devise additional measures to influence Belarus amid concerns over possible military operations directed at Kyiv. [11]
+## Drone tuhottu Leningradin alueella
+21. toukokuuta 2026 drone tuhottiin Leningradin alueella. Tapahtuma koski alueen ilmapuolustusvoimia, eikä vaurioita tai loukkaantumisia ole raportoitu. [11]
 
-**COMMENT:** Zelensky's announcement indicates heightened military readiness and readiness to increase defensive measures in response to perceived threats from Belarus. This development suggests ongoing tensions and the potential for escalated conflict in the region, influencing Ukraine's military strategy and diplomatic actions.
+**COMMENT:** Droneon tuhoaminen voi viitata jatkuvaan valvontaan. 
 
-**LOCATION:** Belarus / Belarus, 53.4250605, 27.6971358 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.425061&mlon=27.697136#map=8/53.425061/27.697136)
+**LOCATION:** Leningradin alue / Leningrad Oblast, 60.1853296, 32.3925325 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.185330&mlon=32.392533#map=8/60.185330/32.392533) (Ленинградская область)
 
-**KEYWORDS:** #россия #удар #сво #беспилотник #про
+**KEYWORDS:** #russia #пво #сво #беспилотник #бпла 
 
 
-## Outcomes of Putin's Talks with Xi Jinping Highlight Russia-China Alliance
-On May 20th, 2023, President Vladimir Putin concluded a two-day official visit to China, during which he held discussions with Chinese leader Xi Jinping. Analysts emphasize that the talks underscored a mutual commitment to advocating for a multipolar world, demonstrating a practical alliance against Western hegemony. [12]
+## EU yllättynyt Yhdistyneen kuningaskunnan päätöksestä helpottaa Venäjältä hankittujen polttoaineiden pakotteita
+21. toukokuuta 2026 Euroopan komissio ilmaisi yllätyksensä Yhdistyneen kuningaskunnan hallituksen päätöksestä helpottaa pakotteita Venäjältä hankitulle lentopetroliin ja dieselille. [12]
 
-**COMMENT:** The discussions between Putin and Xi may signal a strengthening of the Russia-China partnership in response to perceived threats from Western nations. This alignment could lead to increased collaboration on security and geopolitical strategies in the near future.
+**COMMENT:** Tämä kehitys saattaa heikentää lännen kollektiivista asemaa Venäjää vastaan. 
 
-**LOCATION:** Beijing / Beijing, 39.9057136, 116.3912972 [Click for Map Location](https://www.openstreetmap.org/?mlat=39.905714&mlon=116.391297#map=8/39.905714/116.391297)
+**LOCATION:** Bryssel / Brussels, 50.8467372, 4.352493 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.846737&mlon=4.352493#map=8/50.846737/4.352493) (Брюссель)
 
-**KEYWORDS:** #россия #сво #сф #про
+**KEYWORDS:** #россия #про 
 
 
-## Mass Poisoning in Children's Camp Near Magnitogorsk
-On May 20th, 2023, a mass poisoning incident occurred at the "Ural Zori" children's camp near Magnitogorsk, affecting both children and staff participating in a forum. Symptoms resembling a gastrointestinal infection, including vomiting, diarrhea, and fever, were reported, and health authorities are providing medical assistance while isolating those affected from healthy individuals. [13]
+## Putin julistaa ydinaseet viimeiseksi keinoksi Venäjän ja Valko-Venäjän turvallisuudelle
+21. toukokuuta 2026 Venäjän presidentti Vladimir Putin totesi, että ydinaseet ovat viimeinen keino Venäjän ja Valko-Venäjän turvallisuuden varmistamiseksi. [13]
 
-**COMMENT:** This incident highlights potential public health vulnerabilities in children's facilities in Russia, raising concerns about food safety and hygiene standards. Continued monitoring of the situation may reveal broader implications for regulatory oversight in similar establishments.
+**COMMENT:** Putin korostaa jatkuvaa ydinpelotteen merkitystä. 
 
-**LOCATION:** Magnitogorsk / Magnitogorsk, 53.4070173, 58.9811297 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.407017&mlon=58.981130#map=8/53.407017/58.981130)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #штаб #про
+**KEYWORDS:** #россия #российский #учения #удар #сво #сф #часть #про 
 
 
-## Expert Reports Creation of 30-Kilometer 'Kill Zone' near Konstantinovka
-On May 20th, 2026, Russian forces established a 30-kilometer 'kill zone' around Konstantinovka in the Donetsk People's Republic. This area is designed to thwart any attempts by Ukrainian command to restore logistics and supply lines, effectively targeting all rear logistics efforts. [14]
+## Kiinniotettu ukrainalainen tiedusteluupseeri paljastaa huolestuttavia salaisuuksia Kiovasta
+21. toukokuuta 2026 kiinniotettu ukrainalainen vastatiedusteluupseeri Sergey Mikhailov paljasti merkittäviä salaisuuksia liittyen Ukrainan asevoimiin. [14]
 
-**COMMENT:** The establishment of this kill zone indicates a significant enhancement in Russian operational capabilities to disrupt Ukrainian logistics. This development may constrain Ukraine's ability to conduct sustained military operations in the area, potentially heightening the intensity of the conflict.
+**COMMENT:** Tämä tapahtuma korostaa jatkuvia tiedustelutaistoja ja venäläisten joukkojen mahdollista hyödyntämistä. 
 
-**LOCATION:** Konstantinovka / Konstantinovka, 0, 0 [Click for Map Location](Unknown)
+**LOCATION:** Zaporizhzhian alue / Zaporizhzhia Oblast, Unknown, Unknown [Click for Map Location](Unknown) (Запорожская область)
 
-**KEYWORDS:** #россия #российские #вс рф #российские войска #российская армия #российские военные #сво #логистика #сф #армия #про
+**KEYWORDS:** #российский #полк #удар #сво #сф #про 
 
 
-## Rosselkhoznadzor Imposes Import Restrictions on Flowers from Armenia
-On May 22nd, 2026, Rosselkhoznadzor will implement temporary restrictions on the import of floral products from Armenia to protect Russia's phytosanitary status and export potential. The decision follows ongoing findings of quarantine objects despite assurances from Armenia's food safety inspection authority. [15]
+## Laajat hyökkäykset Kharkivin kriittiseen infrastruktuuriin 20. toukokuuta
+20. toukokuuta 2026 Kharkivissa tapahtui laajoja pommituksia, jotka kohdistuivat kriittisiin infrastruktuureihin. [15]
 
-**COMMENT:** This measure reflects ongoing concerns within Russia regarding biosecurity and the integrity of imported goods. Such restrictions may indicate heightened scrutiny of food imports as Russia continues to navigate trade and safety issues within the Eurasian Economic Union.
+**COMMENT:** Tämä hyökkäys korostaa kriittisen infrastruktuurin merkitystä konfliktissa. 
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Kharkiv / Kharkiv, 49.9923181, 36.2310146 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.992318&mlon=36.231015#map=8/49.992318/36.231015) (Харьков)
 
-**KEYWORDS:** #россия #про
+**KEYWORDS:** #российские #российские военные #командование #полк #удар #сво #бпла #перехват #логистика #сф #про 
 
 
-## Oleg Gazmanov Testifies in Court Regarding Former Director's Fraud Case
-On May 20th, 2023, Russian singer Oleg Gazmanov appeared in the Khoroshevsky Court in Moscow to testify in the case against his former concert director Dmitry Tsarenko, who is accused of committing large-scale fraud amounting to over 15 million rubles. This case follows Tsarenko's previous conviction and four-year prison sentence for similar offenses, with investigators uncovering additional fraudulent activities linked to concert proceeds. [16]
+## Venäjän ilmapuolustusvoimat tuhoavat 101 ukrainalaista dronea viidessä tunnissa
+21. toukokuuta 2026 Venäjän puolustusministeriö raportoi, että ilmapuolustusjärjestelmät tuhosivat 101 ukrainalaista dronea eri alueilla, mukaan lukien Moskovan alue. [16]
 
-**COMMENT:** The involvement of high-profile figures like Gazmanov in legal proceedings can reflect broader issues of corruption and mismanagement within the entertainment industry in Russia. This case may lead to increased scrutiny of financial practices among artists and their management teams, as authorities seek to bolster regulations against fraud.
+**COMMENT:** Tämä merkitsee korkeaa valmiustasoa Venäjän ilmapuolustusvoimissa. 
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #сво #про
+**KEYWORDS:** #российские #минобороны рф #минобороны #пво #противовоздушная оборона #беспилотник #бпла #про 
 
 
-## Lavrov Highlights Increasing Aggressiveness from Zelensky and the EU
-On May 20th, 2026, Russian Foreign Minister Sergey Lavrov stated in an interview that both Ukrainian President Vladimir Zelensky and representatives of the European Union have become increasingly aggressive and brazen over the past year. Lavrov emphasized that while Russia remains open to dialogue, it is observing the behavior of both parties closely, indicating potential implications for future diplomatic interactions. [17]
+## Liettuaa syytetään Ukrainan tukemisesta dronehyökkäyksissä Venäjälle
+21. toukokuuta 2026 Valko-Venäjän viranomaiset syyttivät Liettuaa siitä, että se on avannut ilmatilansa helpottaakseen ukrainalaisten dronehyökkäysten suorittamista Venäjälle. [17]
 
-**COMMENT:** The remarks by Lavrov suggest a heightened tension in Russo-Ukrainian relations, as Russia perceives escalating assertiveness from Ukraine and the EU. This dynamic may complicate future negotiation efforts and indicate a potential for increased confrontation in the region.
+**COMMENT:** Tämä tapahtuma voi kiristää tilannetta rajoilla. 
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Liettua / Lithuania, 55.3500003, 23.7499997 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.350000&mlon=23.750000#map=8/55.350000/23.750000) (Литва)
 
-**KEYWORDS:** #россия #про
+**KEYWORDS:** #россия #удар #сво #беспилотник #бпла #про 
 
 
-## Putin and Xi Jinping Sign Agreements During Talks in Beijing
-On May 20th, 2026, talks between Russian President Vladimir Putin and Chinese President Xi Jinping took place in Beijing, resulting in the signing of 21 agreements aimed at strengthening comprehensive partnership and strategic cooperation. The discussions highlighted a continued emphasis on economic collaboration, with both leaders noting that trade between Russia and China has exceeded $200 billion for the third consecutive year. [18]
+## Tutkinta Voronezhin asukasta vastaan, joka peitti 168 ruplaa tuloa
+21. toukokuuta 2026 Venäjän tutkintakomitean päällikkö Alexander Bastrykin määräsi tutkinnan tapaukseen, jossa Voronezhin asukas syytetään 168 ruplan tulojen salaamisesta sosiaalietuuksia hakiessaan. [18]
 
-**COMMENT:** The outcome of the Putin-Xi talks marks a significant step in reinforcing the economic and strategic partnership between Russia and China, which could enhance Russia's position in global trade networks. In the near term, this may lead to increased collaboration on key economic and geopolitical initiatives that align with Moscow's foreign policy objectives.
+**COMMENT:** Tämä tutkinta voi viitata lisääntyneeseen tarkkuuteen sosiaalisen hyvinvoinnin hakemuksissa. 
 
-**LOCATION:** Beijing / Beijing, 39.9057136, 116.3912972 [Click for Map Location](https://www.openstreetmap.org/?mlat=39.905714&mlon=116.391297#map=8/39.905714/116.391297)
+**LOCATION:** Voronezh / Voronezh, 51.6605982, 39.2005858 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.660598&mlon=39.200586#map=8/51.660598/39.200586) (Воронеж)
 
-**KEYWORDS:** #российский #российские #вс рф #российские военные #минобороны #армия россии #пво #учения #штаб #удар #сво #беспилотник #сф #армия #про
+**KEYWORDS:** #россия #сво #про 
 
 
-## Summary of Vladimir Putin's Visit to China on May 20, 2026
-On May 20th, 2026, President Vladimir Putin concluded a two-day visit to China, during which he engaged in extensive negotiations and meetings with Chinese President Xi Jinping. The visit included significant diplomatic discussions and ceremonial events at Tiananmen Square, emphasizing the importance of Russo-Chinese relations. [19]
+## Nainen kuollut ja kahdeksan haavoittunutta Ukrainan hyökkäyksessä Donetskin kansantasavallassa
+21. toukokuuta 2026 ukrainalainen dronehyökkäys kohdistui siviililaitokseen Makeevkassa, mikä johti naisen kuolemaan ja kahdeksan muun loukkaantumiseen. [19]
 
-**COMMENT:** This visit reflects Russia's ongoing efforts to strengthen ties with China amidst shifting geopolitical landscapes. The high level of engagement could signal increased cooperation between the two nations in key areas such as security and economic development.
+**COMMENT:** Tämä tapahtuma voi vaikuttaa siviilien moraaliin. 
 
-**LOCATION:** Beijing / Beijing, 39.9057136, 116.3912972 [Click for Map Location](https://www.openstreetmap.org/?mlat=39.905714&mlon=116.391297#map=8/39.905714/116.391297)
+**LOCATION:** Makeevka / Makeevka, Unknown, Unknown [Click for Map Location](Unknown) (Макеевка)
 
-**KEYWORDS:** #россия #российский #удар #сф #армия #про
+**KEYWORDS:** #россия #удар #беспилотник #про 
 
 
-## Armenian Court Delays Hearings for Six Russians Accused of Espionage
-On May 20th, 2026, six Russian citizens have been imprisoned in Armenia for two years on espionage charges, allegedly spying for Azerbaijan, with their hearings continually postponed without clear explanations. The Russian government is actively seeking clarification on their situation amidst Armenia's drifting away from its historical alliance with Russia, raising concerns about regional stability and the implications for Russian influence in the Caucasus. [20]
+## Venäjän ilmapuolustusvoimat tuhoavat 101 ukrainalaista dronea viidessä tunnissa
+21. toukokuuta 2026 Venäjän ilmapuolustusjoukot torjuivat ja tuhosivat 101 ukrainalaista dronea eri Venäjän alueilla. [20]
 
-**COMMENT:** The continued detention of these individuals underscores potential strains in Armenia-Russia relations as Armenia increasingly distances itself from Russian geopolitical structures. This situation may provoke further diplomatic efforts by Moscow to reassert its influence in the region amidst growing tensions with Azerbaijan.
+**COMMENT:** Tämä tapahtuma heijastaa voimakasta valmiutta Venäjän ilmapuolustusjärjestelmissä. 
 
-**LOCATION:** Armenia / Armenia, 40.7696272, 44.6736646 [Click for Map Location](https://www.openstreetmap.org/?mlat=40.769627&mlon=44.673665#map=8/40.769627/44.673665)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #российский #сво #часть #про
+**KEYWORDS:** #минобороны рф #минобороны #пво #рэб #беспилотник #бпла #перехват #про 
+
+
+## Venäjän suurlähetystö esittää vaatimuksia Yhdysvalloille Ivin ja Olshanskyn tapauksessa
+21. toukokuuta 2026 Venäjän suurlähetystö Yhdysvalloissa esitti virallisesti muistiinpanon, jossa se vaati Ivin ja Olshanskyn asianmukaista käsittelyä. [21]
+
+**COMMENT:** Tämä vaatimus voi kiristää Yhdysvaltojen ja Venäjän suhteita. 
+
+**LOCATION:** Florida / Florida, 27.7567667, -81.4639835 [Click for Map Location](https://www.openstreetmap.org/?mlat=27.756767&mlon=-81.463983#map=8/27.756767/-81.463983) (Флорида)
+
+**KEYWORDS:** #россия #российский #про 
+
+
+## Ilmapuolustusvoimat torjuvat 101 ukrainalaista dronea Venäjällä viidessä tunnissa
+21. toukokuuta 2026 Venäjän puolustusministeriö ilmoitti, että ilmapuolustusjärjestelmät torjuivat ja tuhosivat 101 ukrainalaista dronea. [22]
+
+**COMMENT:** Tämä tapahtuma korostaa jatkuvaa konfliktia Ukrainan kanssa. 
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #минобороны рф #минобороны #пво #рэб #беспилотник #бпла #перехват #про 
+
+
+## Venäjä ja Valko-Venäjä suorittavat 'Doomsday'-harjoituksia: Suuria harjoituksia Neuvostoliiton hajoamisen jälkeen
+21. toukokuuta 2026 Venäjän ja Valko-Venäjän sotilasvoimat aloittivat merkittäviä yhteisiä ydinharjoituksia, joita kutsutaan 'Doomsday'. [23]
+
+**COMMENT:** Harjoitukset heijastavat vahvistunutta sotilaallista kumppanuutta Venäjän ja Valko-Venäjän välillä. 
+
+**LOCATION:** Valko-Venäjä / Belarus, 53.4250605, 27.6971358 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.425061&mlon=27.697136#map=8/53.425061/27.697136) (Беларусь)
+
+**KEYWORDS:** #россия #российские #российские военные #генштаб #учения #маневры #штаб #министр обороны #призыв #удар #сво #вертолет #пуск #про 
+
+
+## Dronehyökkäykset Baltian maissa: Viimeisimmät päivitykset 21. toukokuuta 2026
+21. toukokuuta 2026 huoli Baltian maissa kasvoi, kun 15 Euroopan parlamentin jäsentä vaati kiireellisiä toimenpiteitä Venäjää vastaan. [24]
+
+**COMMENT:** Tämän tilanteen seurauksena Naton vastauksia voidaan odottaa. 
+
+**LOCATION:** Baltia / Baltics, Unknown, Unknown [Click for Map Location](Unknown) (Балтийские страны)
+
+**KEYWORDS:** #россия #пво #командование #удар #беспилотник #про 
+
+
+## Kiinalaiset mediakuvat F-16:n alasampumista käännekohtana Ukrainan konfliktissa
+21. toukokuuta 2026 venäläinen Su-35-hävittäjä ampui alas ukrainalaisen F-16:n Sumyn alueella, mikä kiinalaisten medioiden mukaan oli kriittinen hetki Ukrainan konfliktissa. [25]
+
+**COMMENT:** Tämä tapahtuma voi johtaa Ukrainan ja sen liittolaisten strategioiden korjaamiseen. 
+
+**LOCATION:** Sumyn alue / Sumy Oblast, Unknown, Unknown [Click for Map Location](Unknown) (Сумская область)
+
+**KEYWORDS:** #россия #ввс #сво #истребитель 
+
+
+## Lavrov ja palestiinalainen varapresidentti keskustelevat Gazan tilanteesta
+21. toukokuuta 2026 Venäjän ulkoministeri Sergey Lavrov puhui palestiinalaisen varapresidenttivihdessä Hussein Sheikh kanssa Gazan tilanteesta, korostaen rauhaan tähtäävän diplomaattisen sitoumustan merkitystä. [26]
+
+**COMMENT:** Tämä keskustelu korostaa Venäjän aktiivista roolia Lähi-idän diplomatiassa. 
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #россия #удар #пуск #про 
+
+
+## Venäjän puolustusministeriö raportoi 101 ukrainalaisen dronean tuhoamisesta viidessä tunnissa
+21. toukokuuta 2026 Venäjän puolustusministeriö ilmoitti, että ilmapuolustusjoukot tuhosivat 101 ukrainalaista dronea eri Venäjän alueilla. [27]
+
+**COMMENT:** Tämä merkitsee kiihtyvää dronejen käyttöä Ukrainalta, mikä voi johtaa sotilaallisiin vastatoimiin Venäjältä. 
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #минобороны россии #вс рф #минобороны #пво #сво #беспилотник #бпла #перехват 
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1090752?utm_source=top
+[1] Interfax - https://interfax.ru/russia/1090857?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1090760?utm_source=top
+[2] Interfax - https://interfax.ru/russia/1090922?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1090629?utm_source=top
+[3] Interfax - https://interfax.ru/russia/1090974?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1090819
+[4] Interfax - https://interfax.ru/russia/1090984?utm_source=top
 
-[5] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[5] Interfax - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
 
-[6] interfax.ru - https://interfax.ru/russia/1090813
+[6] Interfax - https://interfax.ru/russia/1091048
 
-[7] interfax.ru - https://interfax.ru/russia/1090811
+[7] Interfax - https://interfax.ru/russia/1091045
 
-[8] interfax.ru - https://interfax.ru/russia/1090807
+[8] Interfax - https://interfax.ru/russia/1091042
 
-[9] interfax.ru - https://interfax.ru/russia/1090804
+[9] Interfax - https://interfax.ru/russia/1091038
 
-[10] aif.ru - https://aif.ru/politics/putin-rasskazal-o-perspektivah-razvitiya-otnosheniy-rossii-s-kitaem
+[10] Interfax - https://interfax.ru/russia/1091041
 
-[11] www.vesti.ru - https://www.vesti.ru/ns/zelenskij-zayavil-o-podgotovke-otveta-na-sluchaj-nastupleniya-iz-belorussii
+[11] Interfax - https://interfax.ru/russia/1091039
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/nazvan-glavnyj-itog-peregovorov-putina-i-si-czinpina
+[12] Interfax - https://interfax.ru/world/1091035
 
-[13] www.vesti.ru - https://www.vesti.ru/ns/v-detskom-lagere-pod-magnitogorskom-proizoshlo-massovoe-otravlenie
+[13] Aif - https://aif.ru/politics/putin-nazval-yadernoe-oruzhie-krayney-meroy-bezopasnosti-rossii-i-belorussii
 
-[14] www.vesti.ru - https://www.vesti.ru/ns/ehkspert-soobshchil-o-sozdanii-30-kilometrovoj-kill-zony-v-rajone-konstantinovki
+[14] Aif - https://aif.ru/society/plennyy-razvedchik-vsu-vydal-zhutkie-tayny-kieva-glavnaya-novost-svo-21-maya
 
-[15] www.vesti.ru - https://www.vesti.ru/ns/rosselkhoznadzor-ogranichivaet-import-cvetov-iz-armenii
+[15] Aif - https://aif.ru/society/harkov-podzhigayut-so-vseh-storon-glavnaya-novost-svo-21-maya
 
-[16] www.vesti.ru - https://www.vesti.ru/ns/gazmanov-vystupil-v-sude-po-ugolovnomu-delu-svoego-byvshego-direktora
+[16] Vesti - https://www.vesti.ru/ns/pvo-sbila-101-bespilotnik-vsu-za-pyat-chasov
 
-[17] iz.ru - https://iz.ru/2100859/lavrov-zaiavil-ob-agressivnom-povedenii-zelenskogo-i-evrosoiuza-izi
+[17] Vesti - https://www.vesti.ru/ns/litva-pomogaet-vsu-atakovat-rf-dronami-zayavili-v-belorussii
 
-[18] iz.ru - https://iz.ru/2100780/2026-05-20/chto-proizoshlo-za-den-20-maia-glavnoe
+[18] Vesti - https://www.vesti.ru/ns/glava-sk-zainteresovalsya-delom-zhitelnicy-voronezha-o-sokrytii-168-rub-dokhodov
 
-[19] www.kp.ru - https://www.kp.ru/daily/277784/5251768/
+[19] Vesti - https://www.vesti.ru/ns/v-dnr-pri-udare-vsu-pogibla-zhenshchina-eshche-8-chelovek-poluchili-raneniya
 
-[20] www.kp.ru - https://www.kp.ru/daily/277784/5251767/
+[20] Iz - https://iz.ru/2101542/sily-pvo-za-piat-chasov-sbili-101-bespilotnik-vsu-nad-regionami-rossii-izi
+
+[21] Iz - https://iz.ru/2101537/posolstvo-rossii-napravilo-notu-s-trebovaniiami-ssha-po-delu-ivina-i-olshanskogo-izi
+
+[22] Iz - https://iz.ru/2101542/sily-pvo-za-piat-chasov-sbili-101-bespilotnik-vsu-nad-regionami-rossii-izi?main_click
+
+[23] KP - https://www.kp.ru/daily/277784/5252084/
+
+[24] KP - https://www.kp.ru/daily/277784/5252145/
+
+[25] KP - https://www.kp.ru/online/news/6982439/
+
+[26] KP - https://www.kp.ru/online/news/6982435/
+
+[27] KP - https://www.kp.ru/online/news/6982421/
+
+[28] Ria - https://ria.ru/20260521/ukraina-2093748932.html
