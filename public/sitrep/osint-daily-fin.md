@@ -1,332 +1,198 @@
-# Raportti päivä: 2026-05-21
+# Report Date: 2026-05-22
 
 ## Summary
-Raportointijaksolla tilanne on kiihtynyt Venäjän ja Ukrainan välillä, erityisesti drone hyökkäysten ja vastatoimien osalta. Useita siviiliuhreja on raportoitu sekä Venäjällä että Donetskin alueella. Venäjän puolustusvoimat ovat intensiivisesti torjuneet droneja, mikä viittaa jatkuvaan kriisiin ja sotilaallisiin operaatioihin. Lähitulevaisuudessa on todennäköistä, että tilanne tulee kiristymään entisestään, ja sekä Venäjän että Ukrainan osalta sotatoimet voivat lisääntyä.
+Raportointijaksolla on raportoitu useista merkittävistä tapahtumista, erityisesti Luhanskin kansantasavallan alueella tapahtuneen iskun jälkeen. Venäjän presidentti Vladimir Putin on korostanut maan strategista puolustusvalmiutta ja tuonut esiin humanitaariset kysymykset, kuten uusien johtajien roolin katastrofiavustuksissa Dagestanissa. Ongoing military operations are likely to persist in response to escalations in the region, particularly concerning Ukraine.
 
-## Kaksi kuollutta dronehyökkäyksessä Syzraneen
-Raportoidusti 21. toukokuuta 2026 tapahtuneessa dronehyökkäyksessä Syzraneessa, Samara-alueella, kuoli kaksi henkilöä ja useita haavoittui. Alueen kuvernööri vahvisti tapahtuman ja sen jälkeiset turvallisuustoimenpiteet paikallisilla lentokentillä. Venäjän armeija raportoi myös useista Ukrainan droneista, jotka torjuttiin alueella. [1]
+## Putin Reports Six Dead and Fifteen Missing After Hostel Strike in Luhansk People's Republic
+On May 22nd, 2026, Russian President Vladimir Putin announced that six people were killed and fifteen were reported missing following a strike on a hostel in Starobilsk, Luhansk People's Republic. Putin indicated that 39 others were injured, and rescue operations were ongoing at the site of the attack, which targeted an educational building and dormitory. [1]
 
-**COMMENT:** Tapahtuma korostaa konfliktin jatkuvia jännitteitä ja drone-teknologian käyttöä. 
+**COMMENT:** The incident underscores the ongoing conflict dynamics in the Luhansk region and highlights the tragic human toll associated with military actions. This situation may influence public sentiment and security measures within Russia as the government navigates the operational fallout and humanitarian response.
 
-**LOCATION:** Syzran / Syzran, Unknown, Unknown, Unknown [Click for Map Location](Unknown) (Сызрань)
+**LOCATION:** Starobilsk / Starobilsk, Luhansk People's Republic, Russia [Click for Map Location]()
 
-**KEYWORDS:** #russia #минобороны #пво #сво #беспилотник #бпла 
+**KEYWORDS:** #russia #корпус #удар #пуск #про
 
 
-## Keskuspankki kehottaa pankkeja tarkistamaan suuria käteistalletuksia
-21. toukokuuta 2026 Venäjän keskuspankki suositteli pankkeja lisäämään tarkkuutta suurten asiakkailta tehtävien käteistalletusten suhteen, korostaen rahanpesun estämisen tarvetta. Suositus edellyttää pankkien analysoivan päivittäisiä tapahtumia erityisesti yli 5 miljoonan ruplan käteistalletusten osalta kuukaudessa. [2]
+## Court Increases Sentence of Russian General Arslanov to 19 Years
+On May 22nd, 2026, the Second Western District Military Court in Moscow increased the sentence of Khalil Arslanov, the former Deputy Head of the General Staff of the Russian Armed Forces, to 19 years in a strict regime colony for his involvement in bribery and fraud. Originally sentenced to 17 years in 2025, the court found that he had committed significant financial crimes, including embezzlement totaling 6.7 billion rubles. [2]
 
-**COMMENT:** Tämä ohjeistus viittaa jatkuviin huoliin talousrikoksista ja sääntelyvalvonnan tarpeesta. 
+**COMMENT:** The heightened sentence reflects ongoing efforts by Russian authorities to address corruption within the military ranks, suggesting a strict stance on integrity violations. In the near term, this could indicate increasing scrutiny and potential consequences for military officials involved in similar misconduct.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Moscow / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #сф #про 
+**KEYWORDS:** #russia #вс рф #генштаб #гарнизон #штаб #полк #удар
 
 
-## Lukashenka ja Putin pitävät yhteisiä ydinvoimaharjoituksia videokonferenssissa
-21. toukokuuta 2026 Valko-Venäjän presidentti Alexander Lukashenka ja Venäjän presidentti Vladimir Putin pitivät videokonferenssin ydinaseyksiköiden yhteisharjoituksen aikana. Tämä oli ensimmäinen laatuaan, ja molemmat johtajat korostivat sitoutumista puolustukseen ja valmiuteen. [3]
+## Court Sentences Minor Terrorism Advocate to Five Years in the Arctic
+On May 22nd, 2026, a Northern naval military court in the Arctic sentenced a minor who expressed admiration for the Columbine terrorist ideology to five years in prison. The court found the teenager guilty of engaging with a banned terrorist organization and intent to commit acts of violence based on his online activities and promotion of the ideology among peers. [3]
 
-**COMMENT:** Yhteinen harjoitus osoittaa Valko-Venäjän ja Venäjän sotilaallista yhteistyötä. 
+**COMMENT:** This case underscores the increasing focus of Russian authorities on extremist ideologies and youth radicalization, particularly through online platforms. The Russian state's response may intensify scrutiny of individuals and organizations perceived to endorse or promote such ideologies, potentially leading to further legal actions against similar cases.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Museum of Arctic and Antarctic / Museum of Arctic and Antarctic, 59.9274503, 30.3536019 [Click for Map Location](https://www.openstreetmap.org/?mlat=59.927450&mlon=30.353602#map=8/59.927450/30.353602)
 
-**KEYWORDS:** #russia #российские #минобороны #учения #штаб #сво #про 
+**KEYWORDS:** #russia #флот #северный #флот #сво #про
 
 
-## Yli 110 dronea tuhottu Bryanskin alueella
-21. toukokuuta 2026 Bryanskin alueella yli 110 vihollisen dronea tuhottiin Venäjän puolustusministeriön ilmapuolustusosastojen ja kansalliskaartin erikoisjoukkojen toimesta. Hyökkäys kohdistui Belaya Beryezkan kylään, mikä aiheutti yhden siviilin loukkaantumisen. [4]
+## Putin Highlights Importance of Developing Unmanned Systems
+On May 22nd, 2026, President Vladimir Putin emphasized the significance of enhancing unmanned systems in Russia during a meeting with program graduates. He acknowledged the rising effectiveness of these systems, including noted UAVs, while indicating the need for further development to achieve operational goals. [4]
 
-**COMMENT:** Tapahtuma korostaa jatkuvia ilmailuuhkia ja puolustusvoimien aktiivisia toimia. 
+**COMMENT:** The focus on unmanned systems reflects Russia's ongoing military modernization efforts and aims to enhance operational capabilities. This could lead to increased investment in related technologies and a potential shift in military strategy over the coming years.
 
-**LOCATION:** Bryanskin alue / Bryansk Oblast, 52.8873315, 33.415853 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.887332&mlon=33.415853#map=8/52.887332/33.415853) (Брянская область)
+**LOCATION:** Moscow / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #пво #сво #беспилотник #бпла 
+**KEYWORDS:** #russia #сво #бпла #рлс #пуск #про
 
 
-## Siviiliuhreja raportoituna UAV-hyökkäysten seurauksena Donetskin ja Bryanskin alueilla
-9. maaliskuuta 2026 tapahtuneissa dronehyökkäyksissä Donetskin kansantasavallassa yksi siviili kuoli ja kahdeksan muuta haavoittui. Bryanskin alueella puolustusvoimat torjuivat 116 vihollisen dronea. [5]
+## Putin Expects New Leadership of Dagestan to Address Flood Victims' Needs
+On May 22nd, 2026, President Vladimir Putin expressed confidence that the new leadership of Dagestan would effectively assist residents affected by recent floods. He emphasized the importance of local graduates participating in relief efforts during a meeting with graduates of the 'Time of Heroes' program. [5]
 
-**COMMENT:** Nämä tapahtumat osoittavat jatkuvia jännitteitä ja sotatoimia rintamalinjoilla. 
+**COMMENT:** This statement highlights the Kremlin's focus on immediate disaster response and the role of local governance in recovery efforts. The implications for internal stability and state responsiveness may be significant as Dagestan faces ongoing challenges.
 
-**LOCATION:** Donetskin kansantasavalta / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](Unknown) (Донецкая народная республика)
+**LOCATION:** Dagestan / Dagestan, North Caucasian Federal District, Russia, 43.0, 47.0 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.000000&mlon=47.000000#map=8/43.000000/47.000000)
 
-**KEYWORDS:** #российские #минобороны рф #российские военные #минобороны #пво #штаб #удар #сво #беспилотник #бпла #про 
+**KEYWORDS:** #russia #пуск #про
 
 
-## Yksi kuollut ja kahdeksan haavoittunutta dronehyökkäyksessä Donetskin kansantasavallassa
-21. toukokuuta 2026 dronehyökkäys Donetskin kansantasavallan alueella aiheutti yhden siviilin kuoleman ja kahdeksan muun haavoittumisen. Tapahtuma kohdistui siviili-infrastruktuuriin Makeevkassa. [6]
+## Putin Highlights Russian Armed Forces' Progress in Zaporozhye
+On May 22nd, 2026, President Vladimir Putin acknowledged the successful progress of the Russian Armed Forces in the Zaporozhye direction during a meeting with alumni of the Heroes' Time program. He emphasized their consistent advancement and reassured that all losses suffered are not in vain. [6]
 
-**COMMENT:** Tämä hyökkäys korostaa jatkuvaa jännittyneisyyttä Donetskin alueella. 
+**COMMENT:** Putin's remarks reflect a strategic emphasis on military successes amidst ongoing conflict, indicating a strong push to maintain morale within the ranks. This focus on achievements may serve to bolster public support and reinforce the state's narrative regarding the military operations in Ukraine.
 
-**LOCATION:** Krasnogvardeysky District / Krasnogvardeysky District, Unknown, Unknown [Click for Map Location](Unknown) (Красногвардейский район)
+**LOCATION:** Zaporozhye / Zaporozhye, Ukraine [Click for Map Location]()
 
-**KEYWORDS:** #russia #удар #бпла #про 
+**KEYWORDS:** #russia #вс россии #сво #пуск #про
 
 
-## Venäjän puolustusministeriö raportoi 101 ukrainalaisen dronean tuhoamisesta
-21. toukokuuta 2026 Venäjän puolustusministeriö ilmoitti, että sen joukot torjuivat ja tuhosivat 101 ukrainalaista dronea Moskovan ja Leningradin alueilla. Torjunta tapahtui useilla muilla alueilla, mukaan lukien Bryansk ja Belgorod. [7]
+## Belgorod Region Allocated 2 Billion Rubles for Housing for Border Residents
+On May 22nd, 2026, the Russian government allocated 2 billion rubles to the Belgorod region to support the purchase of housing for residents affected by conflicts near the border. This funding will benefit 316 families whose homes were destroyed or who were displaced due to military actions, and it reflects ongoing state efforts to address the humanitarian impact of the conflict with Ukraine. [7]
 
-**COMMENT:** Dronejen torjuminen viittaa korkeaan operatiiviseen turvallisuuteen ja puolustusvalmiuteen. 
+**COMMENT:** This decision underscores the Russian government's prioritization of support for border regions directly impacted by the conflict with Ukraine. In the near term, such measures may further entrench support for affected populations and stabilize the region amidst ongoing security challenges.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Belgorod / Belgorod, Belgorod Oblast, Central Federal District, Russia, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339)
 
-**KEYWORDS:** #russia #российские #минобороны рф #российские военные #минобороны #беспилотник #перехват 
+**KEYWORDS:** #russia #сво #про
 
 
-## Tilapäiset rajoitukset Gelendzhik-lentokentällä
-21. toukokuuta 2026 Gelendzhik-lentokentällä otettiin käyttöön tilapäisiä rajoituksia saapuville ja lähteville lennoille. Rosaviatsian ilmoittamat toimenpiteet ovat tarpeen lentoturvallisuuden takaamiseksi. [8]
+## Putin Instructs Ministry of Defense to Prepare Response to APU Attack in LPR
+On May 22nd, 2026, Russian President Vladimir Putin directed the Ministry of Defense to formulate a response to an attack by the Armed Forces of Ukraine on the Starobel professional college in the Luhansk People's Republic (LPR). The attack, which involved 16 drones striking the hostel and adjacent educational facilities, has prompted a condemnation from Putin, who highlighted the absence of military targets nearby and emphasized the need for a thorough investigation into the incident. [8]
 
-**COMMENT:** Rajoitusten käyttö Gelendzhik-lentokentällä korostaa jatkuvia huolia ilmailuturvallisuudesta. 
+**COMMENT:** This incident highlights the escalating tensions between Russia and Ukraine, particularly in the context of military conflicts in the LPR. The Kremlin's swift response may suggest a potential increase in military activity or retaliatory measures in the region.
 
-**LOCATION:** Gelendzhik / Gelendzhik, Unknown, Unknown [Click for Map Location](Unknown) (Геленджик)
+**LOCATION:** Luhansk People's Republic / Luhansk People's Republic, Ukraine, Russia [Click for Map Location]()
 
-**KEYWORDS:** #russia #сво #пуск 
+**KEYWORDS:** #российский #мо рф #минобороны #корпус #удар #сво #бпла #пуск #сф #часть #про
 
 
-## Venäjä ja Valko-Venäjä suorittavat ydinharjoituksia 21. toukokuuta 2026
-21. toukokuuta 2026 Venäjä ja Valko-Venäjä suorittivat yhteisiä ydinharjoituksia, jotka käsittivät käytännön laukaisuja useista ohjusjärjestelmistä. Presidentti Putin vahvisti harjoitusten onnistuneen suorittamisen. [9]
+## Putin Asserts No Sacrifice by Russia in Special Military Operation Was in Vain
+On May 22nd, 2023, Russian President Vladimir Putin stated that all losses suffered by Russia during the special military operation in Ukraine were justified, declaring that not a single sacrifice was unnecessary. This assertion was made during a meeting with graduates of the 'Time of Heroes' program, where he criticized the Ukrainian armed forces for their failures on the front lines. [9]
 
-**COMMENT:** Yhteiset ydinharjoitukset heijastavat ympäröivien turvallisuustilanteiden kiristymistä. 
+**COMMENT:** Putin's remarks reinforce the narrative of justifying military actions and losses to the Russian public, suggesting a continued focus on domestic support for the military campaign. As the conflict progresses, such statements may aim to bolster morale among troops and deter dissent over casualties.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Moscow / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #учения #сво #бпла #пуск #про 
+**KEYWORDS:** #россия #российский #удар #сво #пуск #про
 
 
-## Tilapäiset rajoitukset purettu Pulkovo-lentokentällä
-21. toukokuuta 2026 Pulkovo-lentokenttä Moskova:ssa jatkoi toimintojaan, kun Rosaviatsia ilmoitti rajoitusten purkamisesta. Rajoituksia oli ollut voimassa, kun lentoasemaa koordinoitiin asianomaisten viranomaisten kanssa. [10]
+## Casualties Rise to Six in Ukrainian Strike on College in LPR
+On May 22nd, 2023, six individuals were reported dead and 39 injured following a strike by the Armed Forces of Ukraine on the Starobel Professional College in the Luhansk People's Republic (LPR). President Putin emphasized the absence of military targets in the vicinity, framing the attack as egregious against civilians. [10]
 
-**COMMENT:** Toimintojen elpyminen Pulkovo-lentokentällä viittaa elpymisympäristöön. 
+**COMMENT:** This incident underscores the ongoing violence in the region, potentially increasing tensions and complicating peace efforts. The continued targeting of educational institutions indicates a troubling pattern that may provoke further escalation in military responses.
 
-**LOCATION:** Pulkovo-lentokenttä / Pulkovo Airport, Unknown, Unknown [Click for Map Location](Unknown) (Пулково)
+**LOCATION:** Starobel / Starobel, Luhansk People's Republic, Russia [Click for Map Location]()
 
-**KEYWORDS:** #russia #пуск 
+**KEYWORDS:** #россия #российский #корпус #удар #бпла #пуск #про
 
 
-## Drone tuhottu Leningradin alueella
-21. toukokuuta 2026 drone tuhottiin Leningradin alueella. Tapahtuma koski alueen ilmapuolustusvoimia, eikä vaurioita tai loukkaantumisia ole raportoitu. [11]
+## Ukraine Proposes Local Truce to Evacuate Civilians from Oleshki
+On May 22nd, 2023, Ukraine proposed a local truce to Russia aimed at evacuating civilians from the village of Oleshki in the Kherson region, as announced by Ukrainian Ombudsman Dmitry Lubinets. The truce would facilitate the removal of approximately six thousand civilians from Oleshki and surrounding settlements, pending confirmation of the ceasefire from the Russian side. [11]
 
-**COMMENT:** Droneon tuhoaminen voi viitata jatkuvaan valvontaan. 
+**COMMENT:** This proposal highlights ongoing humanitarian concerns amid the conflict in Ukraine and reflects strategic positioning by Kyiv. The successful negotiation of a truce could influence future ceasefire discussions and may impact the overall security situation in the region.
 
-**LOCATION:** Leningradin alue / Leningrad Oblast, 60.1853296, 32.3925325 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.185330&mlon=32.392533#map=8/60.185330/32.392533) (Ленинградская область)
+**LOCATION:** Oleshki / Oleshki, Kherson Oblast, Ukraine, Russia [Click for Map Location]()
 
-**KEYWORDS:** #russia #пво #сво #беспилотник #бпла 
+**KEYWORDS:** #россия #вс рф #удар #сво #беспилотник #про
 
 
-## EU yllättynyt Yhdistyneen kuningaskunnan päätöksestä helpottaa Venäjältä hankittujen polttoaineiden pakotteita
-21. toukokuuta 2026 Euroopan komissio ilmaisi yllätyksensä Yhdistyneen kuningaskunnan hallituksen päätöksestä helpottaa pakotteita Venäjältä hankitulle lentopetroliin ja dieselille. [12]
+## Russian Fighters Destroy Azov Company in Rubtsovo Direction
+On May 22nd, 2023, Russian fighters reportedly destroyed a company of militants from the Azov group and 15 units of NATO equipment in the Rubtsovo direction. According to security forces, over 80 militants were killed, with no survivors among the group, showcasing a significant military engagement in the ongoing conflict. [12]
 
-**COMMENT:** Tämä kehitys saattaa heikentää lännen kollektiivista asemaa Venäjää vastaan. 
+**COMMENT:** This operation indicates a focused effort by Russian forces to eliminate threats from recognized extremist groups in the region. Future operations may continue to prioritize the destruction of militant capabilities, potentially escalating conflict in the area.
 
-**LOCATION:** Bryssel / Brussels, 50.8467372, 4.352493 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.846737&mlon=4.352493#map=8/50.846737/4.352493) (Брюссель)
+**LOCATION:** Rubtsovo / Rubtsovo, Ryazan Oblast, Central Federal District, Russia, 54.5975999, 39.9217488 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.597600&mlon=39.921749#map=8/54.597600/39.921749)
 
-**KEYWORDS:** #россия #про 
+**KEYWORDS:** #российские #вооруженные #силы #рф #вс #российские #военнослужащие #пво #корпус #удар #сво #беспилотник #бпла #армия #про
 
 
-## Putin julistaa ydinaseet viimeiseksi keinoksi Venäjän ja Valko-Venäjän turvallisuudelle
-21. toukokuuta 2026 Venäjän presidentti Vladimir Putin totesi, että ydinaseet ovat viimeinen keino Venäjän ja Valko-Venäjän turvallisuuden varmistamiseksi. [13]
+## Putin Addresses Graduates of 'Time of Heroes' Educational Program After Luhansk Attack
+On May 22, 2026, President Vladimir Putin met with graduates of the 'Time of Heroes' educational program in the Kremlin, where he addressed the recent attack on Starobel Professional College in the Luhansk People's Republic. He reported six fatalities and 39 injuries due to a drone strike, emphasizing that the targeted area had no military presence, framing the event as a deliberate act by Ukraine's armed forces. [13]
 
-**COMMENT:** Putin korostaa jatkuvaa ydinpelotteen merkitystä. 
+**COMMENT:** This incident underscores ongoing tensions and the use of military force in the conflict, highlighting the potential for escalated rhetoric and actions from the Russian government. In the near-term, such statements may reinforce hardline positions within Russia regarding military engagement in Ukraine.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Moscow Kremlin / Moscow Kremlin, Дворцовая площадь, 19, Tverskoy District, Moscow, Central Federal District, Russia, 55.7516212, 37.618122 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.751621&mlon=37.618122#map=8/55.751621/37.618122)
 
-**KEYWORDS:** #россия #российский #учения #удар #сво #сф #часть #про 
+**KEYWORDS:** #россия #учения #корпус #удар #сво #бпла #пуск #про
 
 
-## Kiinniotettu ukrainalainen tiedusteluupseeri paljastaa huolestuttavia salaisuuksia Kiovasta
-21. toukokuuta 2026 kiinniotettu ukrainalainen vastatiedusteluupseeri Sergey Mikhailov paljasti merkittäviä salaisuuksia liittyen Ukrainan asevoimiin. [14]
+## Rospotrebnadzor Suspends Import of Jermuk Water in Russia
+On May 22nd, 2026, Rospotrebnadzor announced the temporary suspension of the import and circulation of all consignments of Jermuk mineral water in Russia due to misleading claims about its therapeutic properties. This action, which has been communicated to the Eurasian Economic Commission and relevant authorities in member countries, reflects ongoing scrutiny of product safety and compliance within imports from Armenia. [14]
 
-**COMMENT:** Tämä tapahtuma korostaa jatkuvia tiedustelutaistoja ja venäläisten joukkojen mahdollista hyödyntämistä. 
+**COMMENT:** This suspension highlights increasing regulatory oversight in response to health concerns, potentially signaling a broader trend of tightened import controls. Russian authorities may further investigate and enhance scrutiny on other imported products from Armenia in the near future.
 
-**LOCATION:** Zaporizhzhian alue / Zaporizhzhia Oblast, Unknown, Unknown [Click for Map Location](Unknown) (Запорожская область)
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
-**KEYWORDS:** #российский #полк #удар #сво #сф #про 
+**KEYWORDS:** #россия #сво #про
 
 
-## Laajat hyökkäykset Kharkivin kriittiseen infrastruktuuriin 20. toukokuuta
-20. toukokuuta 2026 Kharkivissa tapahtui laajoja pommituksia, jotka kohdistuivat kriittisiin infrastruktuureihin. [15]
+## Putin Orders Defense Ministry to Prepare Response to Ukrainian Attack on College in LPR
+On May 22nd, 2026, Russian President Vladimir Putin directed the Defense Ministry to draft proposals for responding to an attack by Ukrainian militants on a college in Starobelsk, Luhansk People's Republic (LPR). Putin condemned the assault and reiterated that such actions reflect the terrorist nature of the Ukrainian regime. [15]
 
-**COMMENT:** Tämä hyökkäys korostaa kriittisen infrastruktuurin merkitystä konfliktissa. 
+**COMMENT:** This directive indicates a potential escalation in the Russian military response to Ukrainian actions and highlights the ongoing tensions in the region. Future developments may involve increased military readiness and operations from Russian forces in response to perceived threats.
 
-**LOCATION:** Kharkiv / Kharkiv, 49.9923181, 36.2310146 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.992318&mlon=36.231015#map=8/49.992318/36.231015) (Харьков)
+**LOCATION:** Starobelsk / Starobelsk, Luhansk People's Republic, Ukraine, Russia [Click for Map Location]()
 
-**KEYWORDS:** #российские #российские военные #командование #полк #удар #сво #бпла #перехват #логистика #сф #про 
+**KEYWORDS:** #российский #минобороны #россии #вс #минобороны #удар #сво #про
 
 
-## Venäjän ilmapuolustusvoimat tuhoavat 101 ukrainalaista dronea viidessä tunnissa
-21. toukokuuta 2026 Venäjän puolustusministeriö raportoi, että ilmapuolustusjärjestelmät tuhosivat 101 ukrainalaista dronea eri alueilla, mukaan lukien Moskovan alue. [16]
+## Russia and Belarus Conduct Joint Strategic Forces Exercises Featuring Nuclear Warhead
+On May 22nd, 2026, Russia and Belarus completed joint strategic forces exercises that included the launch of intercontinental missiles, marking a significant development in military readiness. Notably, it was announced that a real nuclear warhead was deployed for the first time during these drills, underscoring the Russian leadership's readiness to resort to nuclear capabilities if deemed necessary. [16]
 
-**COMMENT:** Tämä merkitsee korkeaa valmiustasoa Venäjän ilmapuolustusvoimissa. 
+**COMMENT:** The exercise demonstrates an assertive posture by Russia, signaling both military readiness and a willingness to project power. Future exercises may increasingly emphasize nuclear elements, potentially heightening tensions with Western nations.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
-**KEYWORDS:** #российские #минобороны рф #минобороны #пво #противовоздушная оборона #беспилотник #бпла #про 
-
-
-## Liettuaa syytetään Ukrainan tukemisesta dronehyökkäyksissä Venäjälle
-21. toukokuuta 2026 Valko-Venäjän viranomaiset syyttivät Liettuaa siitä, että se on avannut ilmatilansa helpottaakseen ukrainalaisten dronehyökkäysten suorittamista Venäjälle. [17]
-
-**COMMENT:** Tämä tapahtuma voi kiristää tilannetta rajoilla. 
-
-**LOCATION:** Liettua / Lithuania, 55.3500003, 23.7499997 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.350000&mlon=23.750000#map=8/55.350000/23.750000) (Литва)
-
-**KEYWORDS:** #россия #удар #сво #беспилотник #бпла #про 
-
-
-## Tutkinta Voronezhin asukasta vastaan, joka peitti 168 ruplaa tuloa
-21. toukokuuta 2026 Venäjän tutkintakomitean päällikkö Alexander Bastrykin määräsi tutkinnan tapaukseen, jossa Voronezhin asukas syytetään 168 ruplan tulojen salaamisesta sosiaalietuuksia hakiessaan. [18]
-
-**COMMENT:** Tämä tutkinta voi viitata lisääntyneeseen tarkkuuteen sosiaalisen hyvinvoinnin hakemuksissa. 
-
-**LOCATION:** Voronezh / Voronezh, 51.6605982, 39.2005858 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.660598&mlon=39.200586#map=8/51.660598/39.200586) (Воронеж)
-
-**KEYWORDS:** #россия #сво #про 
-
-
-## Nainen kuollut ja kahdeksan haavoittunutta Ukrainan hyökkäyksessä Donetskin kansantasavallassa
-21. toukokuuta 2026 ukrainalainen dronehyökkäys kohdistui siviililaitokseen Makeevkassa, mikä johti naisen kuolemaan ja kahdeksan muun loukkaantumiseen. [19]
-
-**COMMENT:** Tämä tapahtuma voi vaikuttaa siviilien moraaliin. 
-
-**LOCATION:** Makeevka / Makeevka, Unknown, Unknown [Click for Map Location](Unknown) (Макеевка)
-
-**KEYWORDS:** #россия #удар #беспилотник #про 
-
-
-## Venäjän ilmapuolustusvoimat tuhoavat 101 ukrainalaista dronea viidessä tunnissa
-21. toukokuuta 2026 Venäjän ilmapuolustusjoukot torjuivat ja tuhosivat 101 ukrainalaista dronea eri Venäjän alueilla. [20]
-
-**COMMENT:** Tämä tapahtuma heijastaa voimakasta valmiutta Venäjän ilmapuolustusjärjestelmissä. 
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #минобороны рф #минобороны #пво #рэб #беспилотник #бпла #перехват #про 
-
-
-## Venäjän suurlähetystö esittää vaatimuksia Yhdysvalloille Ivin ja Olshanskyn tapauksessa
-21. toukokuuta 2026 Venäjän suurlähetystö Yhdysvalloissa esitti virallisesti muistiinpanon, jossa se vaati Ivin ja Olshanskyn asianmukaista käsittelyä. [21]
-
-**COMMENT:** Tämä vaatimus voi kiristää Yhdysvaltojen ja Venäjän suhteita. 
-
-**LOCATION:** Florida / Florida, 27.7567667, -81.4639835 [Click for Map Location](https://www.openstreetmap.org/?mlat=27.756767&mlon=-81.463983#map=8/27.756767/-81.463983) (Флорида)
-
-**KEYWORDS:** #россия #российский #про 
-
-
-## Ilmapuolustusvoimat torjuvat 101 ukrainalaista dronea Venäjällä viidessä tunnissa
-21. toukokuuta 2026 Venäjän puolustusministeriö ilmoitti, että ilmapuolustusjärjestelmät torjuivat ja tuhosivat 101 ukrainalaista dronea. [22]
-
-**COMMENT:** Tämä tapahtuma korostaa jatkuvaa konfliktia Ukrainan kanssa. 
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #минобороны рф #минобороны #пво #рэб #беспилотник #бпла #перехват #про 
-
-
-## Venäjä ja Valko-Venäjä suorittavat 'Doomsday'-harjoituksia: Suuria harjoituksia Neuvostoliiton hajoamisen jälkeen
-21. toukokuuta 2026 Venäjän ja Valko-Venäjän sotilasvoimat aloittivat merkittäviä yhteisiä ydinharjoituksia, joita kutsutaan 'Doomsday'. [23]
-
-**COMMENT:** Harjoitukset heijastavat vahvistunutta sotilaallista kumppanuutta Venäjän ja Valko-Venäjän välillä. 
-
-**LOCATION:** Valko-Venäjä / Belarus, 53.4250605, 27.6971358 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.425061&mlon=27.697136#map=8/53.425061/27.697136) (Беларусь)
-
-**KEYWORDS:** #россия #российские #российские военные #генштаб #учения #маневры #штаб #министр обороны #призыв #удар #сво #вертолет #пуск #про 
-
-
-## Dronehyökkäykset Baltian maissa: Viimeisimmät päivitykset 21. toukokuuta 2026
-21. toukokuuta 2026 huoli Baltian maissa kasvoi, kun 15 Euroopan parlamentin jäsentä vaati kiireellisiä toimenpiteitä Venäjää vastaan. [24]
-
-**COMMENT:** Tämän tilanteen seurauksena Naton vastauksia voidaan odottaa. 
-
-**LOCATION:** Baltia / Baltics, Unknown, Unknown [Click for Map Location](Unknown) (Балтийские страны)
-
-**KEYWORDS:** #россия #пво #командование #удар #беспилотник #про 
-
-
-## Kiinalaiset mediakuvat F-16:n alasampumista käännekohtana Ukrainan konfliktissa
-21. toukokuuta 2026 venäläinen Su-35-hävittäjä ampui alas ukrainalaisen F-16:n Sumyn alueella, mikä kiinalaisten medioiden mukaan oli kriittinen hetki Ukrainan konfliktissa. [25]
-
-**COMMENT:** Tämä tapahtuma voi johtaa Ukrainan ja sen liittolaisten strategioiden korjaamiseen. 
-
-**LOCATION:** Sumyn alue / Sumy Oblast, Unknown, Unknown [Click for Map Location](Unknown) (Сумская область)
-
-**KEYWORDS:** #россия #ввс #сво #истребитель 
-
-
-## Lavrov ja palestiinalainen varapresidentti keskustelevat Gazan tilanteesta
-21. toukokuuta 2026 Venäjän ulkoministeri Sergey Lavrov puhui palestiinalaisen varapresidenttivihdessä Hussein Sheikh kanssa Gazan tilanteesta, korostaen rauhaan tähtäävän diplomaattisen sitoumustan merkitystä. [26]
-
-**COMMENT:** Tämä keskustelu korostaa Venäjän aktiivista roolia Lähi-idän diplomatiassa. 
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #удар #пуск #про 
-
-
-## Venäjän puolustusministeriö raportoi 101 ukrainalaisen dronean tuhoamisesta viidessä tunnissa
-21. toukokuuta 2026 Venäjän puolustusministeriö ilmoitti, että ilmapuolustusjoukot tuhosivat 101 ukrainalaista dronea eri Venäjän alueilla. [27]
-
-**COMMENT:** Tämä merkitsee kiihtyvää dronejen käyttöä Ukrainalta, mikä voi johtaa sotilaallisiin vastatoimiin Venäjältä. 
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #минобороны россии #вс рф #минобороны #пво #сво #беспилотник #бпла #перехват 
+**KEYWORDS:** #россия #российский #учения #боеготовность #вооружение #штаб #удар #сво #перехват #пуск #сф #про
 
 
 # Sources
 
-[1] Interfax - https://interfax.ru/russia/1090857?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1091243?utm_source=top
 
-[2] Interfax - https://interfax.ru/russia/1090922?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1091253?utm_source=top
 
-[3] Interfax - https://interfax.ru/russia/1090974?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1091273
 
-[4] Interfax - https://interfax.ru/russia/1090984?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1091269
 
-[5] Interfax - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[5] interfax.ru - https://interfax.ru/russia/1091267
 
-[6] Interfax - https://interfax.ru/russia/1091048
+[6] interfax.ru - https://interfax.ru/russia/1091265
 
-[7] Interfax - https://interfax.ru/russia/1091045
+[7] interfax.ru - https://interfax.ru/russia/1091264
 
-[8] Interfax - https://interfax.ru/russia/1091042
+[8] aif.ru - https://aif.ru/politics/putin-poruchil-mo-rf-podgotovit-otvet-na-udar-vsu-po-kolledzhu-v-lnr
 
-[9] Interfax - https://interfax.ru/russia/1091038
+[9] www.vesti.ru - https://www.vesti.ru/ns/putin-zayavil-chto-ni-odna-zhertva-rossii-v-khode-svo-ne-byla-naprasnoj
 
-[10] Interfax - https://interfax.ru/russia/1091041
+[10] www.vesti.ru - https://www.vesti.ru/ns/kolichestvo-pogibshikh-pri-udare-vsu-po-kolledzhu-v-lnr-vyroslo-do-6-chelovek
 
-[11] Interfax - https://interfax.ru/russia/1091039
+[11] www.vesti.ru - https://www.vesti.ru/ns/ukraina-predlozhila-rossii-lokalnoe-peremirie-v-rajone-oleshek
 
-[12] Interfax - https://interfax.ru/world/1091035
+[12] www.vesti.ru - https://www.vesti.ru/ns/rossijskie-bojcy-unichtozhili-do-roty-azovcev-na-rubcovskom-napravlenii
 
-[13] Aif - https://aif.ru/politics/putin-nazval-yadernoe-oruzhie-krayney-meroy-bezopasnosti-rossii-i-belorussii
+[13] iz.ru - https://iz.ru/2102097/2026-05-22/putin-vstretilsia-s-vypusknikami-programmy-vremia-geroev-glavnoe
 
-[14] Aif - https://aif.ru/society/plennyy-razvedchik-vsu-vydal-zhutkie-tayny-kieva-glavnaya-novost-svo-21-maya
+[14] iz.ru - https://iz.ru/2102158/2026-05-22/rospotrebnadzor-priostanovil-vvoz-i-oborot-vody-dzhermuk-v-rf?main_click
 
-[15] Aif - https://aif.ru/society/harkov-podzhigayut-so-vseh-storon-glavnaya-novost-svo-21-maya
+[15] www.kp.ru - https://www.kp.ru/online/news/6984250/
 
-[16] Vesti - https://www.vesti.ru/ns/pvo-sbila-101-bespilotnik-vsu-za-pyat-chasov
-
-[17] Vesti - https://www.vesti.ru/ns/litva-pomogaet-vsu-atakovat-rf-dronami-zayavili-v-belorussii
-
-[18] Vesti - https://www.vesti.ru/ns/glava-sk-zainteresovalsya-delom-zhitelnicy-voronezha-o-sokrytii-168-rub-dokhodov
-
-[19] Vesti - https://www.vesti.ru/ns/v-dnr-pri-udare-vsu-pogibla-zhenshchina-eshche-8-chelovek-poluchili-raneniya
-
-[20] Iz - https://iz.ru/2101542/sily-pvo-za-piat-chasov-sbili-101-bespilotnik-vsu-nad-regionami-rossii-izi
-
-[21] Iz - https://iz.ru/2101537/posolstvo-rossii-napravilo-notu-s-trebovaniiami-ssha-po-delu-ivina-i-olshanskogo-izi
-
-[22] Iz - https://iz.ru/2101542/sily-pvo-za-piat-chasov-sbili-101-bespilotnik-vsu-nad-regionami-rossii-izi?main_click
-
-[23] KP - https://www.kp.ru/daily/277784/5252084/
-
-[24] KP - https://www.kp.ru/daily/277784/5252145/
-
-[25] KP - https://www.kp.ru/online/news/6982439/
-
-[26] KP - https://www.kp.ru/online/news/6982435/
-
-[27] KP - https://www.kp.ru/online/news/6982421/
-
-[28] Ria - https://ria.ru/20260521/ukraina-2093748932.html
+[16] www.kp.ru - https://www.kp.ru/daily/277785.5/5252737/
