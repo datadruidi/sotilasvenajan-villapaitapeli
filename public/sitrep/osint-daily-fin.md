@@ -1,198 +1,178 @@
-# Report Date: 2026-05-22
+# Report Date: 2026-05-23
 
 ## Summary
-Raportointijaksolla on raportoitu useista merkittävistä tapahtumista, erityisesti Luhanskin kansantasavallan alueella tapahtuneen iskun jälkeen. Venäjän presidentti Vladimir Putin on korostanut maan strategista puolustusvalmiutta ja tuonut esiin humanitaariset kysymykset, kuten uusien johtajien roolin katastrofiavustuksissa Dagestanissa. Ongoing military operations are likely to persist in response to escalations in the region, particularly concerning Ukraine.
+Raportointijaksolla Itä-Ukrainassa ja Venäjällä on tapahtunut useita vakavia konfliktitilanteita, jotka heijastavat jatkuvaa kiristymistä alueella. Starobelskin opiskelijakotiin kohdistunut hyökkäys, joka on aiheuttanut useita kuolonuhreja, korostaa siviiliväestön riskejä. Samanaikaisesti Zaporozhye-alueella on otettu käyttöön polttoaineenmyyntirajoituksia toimitushäiriöiden vuoksi. Venäjän puolustusministeriön raportti Ukrainan dronejen tuhoamisesta sekä jatkuvat hyökkäykset Zaporozhye ydinvoimalaan lisäävät jännitteitä. Viranomaiset näyttävät myös pyrkivän hallitsemaan narratiivia ulkomaisille tiedotusvälineille, mikä viittaa mahdollisiin poliittisiin strategioihin.
 
-## Putin Reports Six Dead and Fifteen Missing After Hostel Strike in Luhansk People's Republic
-On May 22nd, 2026, Russian President Vladimir Putin announced that six people were killed and fifteen were reported missing following a strike on a hostel in Starobilsk, Luhansk People's Republic. Putin indicated that 39 others were injured, and rescue operations were ongoing at the site of the attack, which targeted an educational building and dormitory. [1]
+## Kuolonuhrien määrä nousi 18:aan Starobelskin opiskelijakotiin kohdistuneen hyökkäyksen jälkeen
+Raportoidusti 23. toukokuuta 2026 Starobelskin opiskelijakotiin kohdistuneen hyökkäyksen uhreiksi on laskettu nyt 18 henkilöä, kun pelastajat löysivät kaksi lisää ruumista raunioista. Hyökkäys tapahtui opiskelijakodissa, jossa oli 86 nuorta asukkaita. Venäjän tutkintakomitea on käynnistänyt asiassa rikostutkinnan. [1]
 
-**COMMENT:** The incident underscores the ongoing conflict dynamics in the Luhansk region and highlights the tragic human toll associated with military actions. This situation may influence public sentiment and security measures within Russia as the government navigates the operational fallout and humanitarian response.
+**COMMENT:** Tämä tapaus korostaa alueen jatkuvaa epävakautta ja siviiliväestön riskejä sotatoimien keskellä. Tällaiset hyökkäykset voivat pahentaa jännitteitä ja herättää kansainvälistä huomiota.
 
-**LOCATION:** Starobilsk / Starobilsk, Luhansk People's Republic, Russia [Click for Map Location]()
+**LOCATION:** Starobelsk / Starobelsk, Luhansk People's Republic, Russia [Click for Map Location]()
 
-**KEYWORDS:** #russia #корпус #удар #пуск #про
+**KEYWORDS:** #russia #корпус #удар
 
 
-## Court Increases Sentence of Russian General Arslanov to 19 Years
-On May 22nd, 2026, the Second Western District Military Court in Moscow increased the sentence of Khalil Arslanov, the former Deputy Head of the General Staff of the Russian Armed Forces, to 19 years in a strict regime colony for his involvement in bribery and fraud. Originally sentenced to 17 years in 2025, the court found that he had committed significant financial crimes, including embezzlement totaling 6.7 billion rubles. [2]
+## Polttoaineenmyyntirajoitukset Zaporozhyen alueella
+23. toukokuuta 2026 Zaporozhyen alueen kuvernööri Yevgeny Balitsky ilmoitti väliaikaisten rajoitusten käyttämisestä polttoaineen myynnissä bensiiniasemilla toimitushäiriöiden vuoksi. Tämä toimenpide pyrkii estämään keinotekoisten polttoainetarjontakriisien syntymisen alueen toimitustilanteen vakautuessa. [2]
 
-**COMMENT:** The heightened sentence reflects ongoing efforts by Russian authorities to address corruption within the military ranks, suggesting a strict stance on integrity violations. In the near term, this could indicate increasing scrutiny and potential consequences for military officials involved in similar misconduct.
+**COMMENT:** Polttoaineenmyyntirajoitus osoittaa Zaporozhyen alueen jatkuvia logistisia haasteita, mikä voi viitata syvempiin ongelmiin alueellisen vakauden suhteen.
 
-**LOCATION:** Moscow / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Zaporozhye region / Zaporozhye region, Ukraine [Click for Map Location]()
 
-**KEYWORDS:** #russia #вс рф #генштаб #гарнизон #штаб #полк #удар
+**KEYWORDS:** #russia #сво #пуск #про
 
 
-## Court Sentences Minor Terrorism Advocate to Five Years in the Arctic
-On May 22nd, 2026, a Northern naval military court in the Arctic sentenced a minor who expressed admiration for the Columbine terrorist ideology to five years in prison. The court found the teenager guilty of engaging with a banned terrorist organization and intent to commit acts of violence based on his online activities and promotion of the ideology among peers. [3]
+## Venäjän puolustusministeriö raportoi 800 ukrainan dronen tuhosta yhdessä päivässä
+23. toukokuuta 2026 Venäjän puolustusministeriö raportoi, että niiden joukot tuhosivat 800 Ukrainan lennokkityyppistä dronea yhden päivän aikana operaatiossa, joka kohdistui Ukrainan energiatilanteisiin. Lisäksi Venäjän ilmapuolustusjärjestelmät ampuivat alas kahdeksan ohjattua ilma-alusta samana ajanjaksona. [3]
 
-**COMMENT:** This case underscores the increasing focus of Russian authorities on extremist ideologies and youth radicalization, particularly through online platforms. The Russian state's response may intensify scrutiny of individuals and organizations perceived to endorse or promote such ideologies, potentially leading to further legal actions against similar cases.
+**COMMENT:** Raportoitu huomattava dronien tuhoaminen osoittaa Venäjän sotilaallisen toiminnan tehostumista Ukrainan ilmatilassa ja voi viitata strategisiin muutoksiin, jotka tavoittelevat Ukrainan logistiikkaa ja infrastruktuuria.
 
-**LOCATION:** Museum of Arctic and Antarctic / Museum of Arctic and Antarctic, 59.9274503, 30.3536019 [Click for Map Location](https://www.openstreetmap.org/?mlat=59.927450&mlon=30.353602#map=8/59.927450/30.353602)
+**LOCATION:** Moskova / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #флот #северный #флот #сво #про
+**KEYWORDS:** #russia #российские #минобороны рф #минобороны россии #российские военные #минобороны #удар #беспилотник #про
 
 
-## Putin Highlights Importance of Developing Unmanned Systems
-On May 22nd, 2026, President Vladimir Putin emphasized the significance of enhancing unmanned systems in Russia during a meeting with program graduates. He acknowledged the rising effectiveness of these systems, including noted UAVs, while indicating the need for further development to achieve operational goals. [4]
+## Entinen senaattori ja lawyer pidätetty Moskovassa petossyytöksistä
+23. toukokuuta 2026 Moskovassa entinen senaattori Vasily Duma ja lakimies Dmitry Kletochkin pidätettiin, ja Zamoskvoretsky-tuomioistuin määräsi heidät pidätettäväksi 20. heinäkuuta 2026 asti. Heitä syytetään ryhmäpetokseen liittyvästä rikoksesta, joka käsittää yli 20 miljoonaa dollaria. [4]
 
-**COMMENT:** The focus on unmanned systems reflects Russia's ongoing military modernization efforts and aims to enhance operational capabilities. This could lead to increased investment in related technologies and a potential shift in military strategy over the coming years.
+**COMMENT:** Senaattorin ja tunnetun lakimiehen pidätys osoittaa merkittävää toimintaa Venäjän poliittisessa kentässä, joka liittyy taloudellisiin korruptioepäilyihin.
 
-**LOCATION:** Moscow / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Moskova / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #сво #бпла #рлс #пуск #про
+**KEYWORDS:** #russia #сво
 
 
-## Putin Expects New Leadership of Dagestan to Address Flood Victims' Needs
-On May 22nd, 2026, President Vladimir Putin expressed confidence that the new leadership of Dagestan would effectively assist residents affected by recent floods. He emphasized the importance of local graduates participating in relief efforts during a meeting with graduates of the 'Time of Heroes' program. [5]
+## Venäjän ulkoministeriö järjestää vierailun ulkomaisille toimittajille Starobelskin hyökkäyspaikkaan
+23. toukokuuta 2026 Venäjän ulkoministeriö ilmoitti järjestävänsä vierailun akreditoiduille ulkomaisille toimittajille Starobelskiin, missä on tapahtunut äskettäinen hyökkäys Luhanskin valtion pedagogiselle yliopistolle. Vierailun tarkoituksena on vastata lännen väitteisiin hyökkäyksen luonteesta. [5]
 
-**COMMENT:** This statement highlights the Kremlin's focus on immediate disaster response and the role of local governance in recovery efforts. The implications for internal stability and state responsiveness may be significant as Dagestan faces ongoing challenges.
+**COMMENT:** Tämä järjestetty vierailu viittaa Venäjän hallituksen halukkuuteen hallita narratiivia äskettäisestä hyökkäyksestä kasvavan kansainvälisen huomion keskellä.
 
-**LOCATION:** Dagestan / Dagestan, North Caucasian Federal District, Russia, 43.0, 47.0 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.000000&mlon=47.000000#map=8/43.000000/47.000000)
+**LOCATION:** Starobelsk / Starobelsk, Luhansk People's Republic, Russia [Click for Map Location]()
 
-**KEYWORDS:** #russia #пуск #про
+**KEYWORDS:** #russia #корпус #удар #сво
 
 
-## Putin Highlights Russian Armed Forces' Progress in Zaporozhye
-On May 22nd, 2026, President Vladimir Putin acknowledged the successful progress of the Russian Armed Forces in the Zaporozhye direction during a meeting with alumni of the Heroes' Time program. He emphasized their consistent advancement and reassured that all losses suffered are not in vain. [6]
+## Kuusi haavoittunutta Venäjän Belgorodin alueella
+23. toukokuuta 2026 alueen päämaja raportoi, että kuusi siviiliä haavoittui Ukrainan tehdessä iskuja Belgorodin alueella Venäjällä. Haavoittuneet, jotka kärsivät raketti-iskusta ja droneiskusta Borisovkassa, saavat parhaillaan lääkärinhoitoa. [6]
 
-**COMMENT:** Putin's remarks reflect a strategic emphasis on military successes amidst ongoing conflict, indicating a strong push to maintain morale within the ranks. This focus on achievements may serve to bolster public support and reinforce the state's narrative regarding the military operations in Ukraine.
+**COMMENT:** Tapaus korostaa Belgorodin alueen jatkuvia turvallisuushuolia, mikä voi viitata raja-alueiden jännitteiden mahdollisiin lisääntymin.
 
-**LOCATION:** Zaporozhye / Zaporozhye, Ukraine [Click for Map Location]()
+**LOCATION:** Belgorod Oblast / Belgorod Oblast, Central Federal District, Russia, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762)
 
-**KEYWORDS:** #russia #вс россии #сво #пуск #про
+**KEYWORDS:** #russia #штаб #бригада #удар
 
 
-## Belgorod Region Allocated 2 Billion Rubles for Housing for Border Residents
-On May 22nd, 2026, the Russian government allocated 2 billion rubles to the Belgorod region to support the purchase of housing for residents affected by conflicts near the border. This funding will benefit 316 families whose homes were destroyed or who were displaced due to military actions, and it reflects ongoing state efforts to address the humanitarian impact of the conflict with Ukraine. [7]
+## Ukrainan joukot hyökkäävät jälleen Zaporozhyen ydinvoimalaitokseen
+23. toukokuuta 2026 Ukrainan asevoimat suorittivat useita droneiskuja Zaporozhyen ydinvoimalaitokselle, mikä aiheutti merkittäviä vaurioita laitoksen kuljetustyöpajalle ja henkilökuntabusseille. Jatkuvat hyökkäykset lisäävät jännitteitä alueella, jotka vaikuttavat niin laitoksen työntekijöihin kuin paikalliseen väestöön Energodarissa. [7]
 
-**COMMENT:** This decision underscores the Russian government's prioritization of support for border regions directly impacted by the conflict with Ukraine. In the near term, such measures may further entrench support for affected populations and stabilize the region amidst ongoing security challenges.
+**COMMENT:** Tämä eskalaatio tärkeisiin infrastruktuuriin kohdistuvissa dronehyökkäyksissä osoittaa jatkuvia operatiivisia uhkia konfliktialueella.
 
-**LOCATION:** Belgorod / Belgorod, Belgorod Oblast, Central Federal District, Russia, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339)
+**LOCATION:** Zaporozhye Nuclear Power Plant / Zaporozhye Nuclear Power Plant, Ukraine [Click for Map Location]()
 
-**KEYWORDS:** #russia #сво #про
+**KEYWORDS:** #russia #удар #сво #беспилотник #бпла #про
 
 
-## Putin Instructs Ministry of Defense to Prepare Response to APU Attack in LPR
-On May 22nd, 2026, Russian President Vladimir Putin directed the Ministry of Defense to formulate a response to an attack by the Armed Forces of Ukraine on the Starobel professional college in the Luhansk People's Republic (LPR). The attack, which involved 16 drones striking the hostel and adjacent educational facilities, has prompted a condemnation from Putin, who highlighted the absence of military targets nearby and emphasized the need for a thorough investigation into the incident. [8]
+## Roketti-iskut Belgorodin alueen kylään aiheuttavat tuhoja
+23. toukokuuta 2026 Borisovkan kylä Belgorodin alueella Venäjällä koki kaksi raketti-iskua, jotka johtuvat Ukrainan armeijasta, mikä aiheutti vaurioita asuinrakennuksiin, autoihin ja hallintorakennuksiin. Operatiivinen päämaja raportoi, että viisi ajoneuvoa syttyi tuleen, ja uhriluku on vielä selvitettävänä. [8]
 
-**COMMENT:** This incident highlights the escalating tensions between Russia and Ukraine, particularly in the context of military conflicts in the LPR. The Kremlin's swift response may suggest a potential increase in military activity or retaliatory measures in the region.
+**COMMENT:** Tämä tapaus korostaa Venäjän ja Ukrainan välisten jatkuvien konfliktien vaikutusta ja väkivallan mahdollista lisääntymistä rajaseudulla.
 
-**LOCATION:** Luhansk People's Republic / Luhansk People's Republic, Ukraine, Russia [Click for Map Location]()
+**LOCATION:** Borisovka / Borisovka, Belgorod Oblast, Russia [Click for Map Location]()
 
-**KEYWORDS:** #российский #мо рф #минобороны #корпус #удар #сво #бпла #пуск #сф #часть #про
+**KEYWORDS:** #russia #штаб
 
 
-## Putin Asserts No Sacrifice by Russia in Special Military Operation Was in Vain
-On May 22nd, 2023, Russian President Vladimir Putin stated that all losses suffered by Russia during the special military operation in Ukraine were justified, declaring that not a single sacrifice was unnecessary. This assertion was made during a meeting with graduates of the 'Time of Heroes' program, where he criticized the Ukrainian armed forces for their failures on the front lines. [9]
+## Ulkoministeriö järjestää toimittajien vierailun tragediapaikalle LPR:ssä
+23. toukokuuta 2026 Venäjän ulkoministeriö ilmoitti valmiudestaan järjestää vierailu ulkomaisille toimittajille äskettäin isketyn koulutustilan paikalle Starobelskissa. Tapahtuma on johtanut 48 henkilön, mukaan lukien opiskelijoiden, haavoittumiseen, mikä johtaa ministeriön tarkoitukseen vastustaa lännen väitteitä YK:n turvallisuusneuvostossa. [9]
 
-**COMMENT:** Putin's remarks reinforce the narrative of justifying military actions and losses to the Russian public, suggesting a continued focus on domestic support for the military campaign. As the conflict progresses, such statements may aim to bolster morale among troops and deter dissent over casualties.
+**COMMENT:** Tämä tapahtuma korostaa Venäjän pyrkimyksiä hallita narratiivia sotilasiskujen ympärillä ja luoda tietty kuva kansainväliselle yhteisölle.
 
-**LOCATION:** Moscow / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Starobelsk / Starobelsk, Luhansk People's Republic, Russia [Click for Map Location]()
 
-**KEYWORDS:** #россия #российский #удар #сво #пуск #про
+**KEYWORDS:** #россия #ввс #корпус #удар #сво #пуск #сф #часть #про
 
 
-## Casualties Rise to Six in Ukrainian Strike on College in LPR
-On May 22nd, 2023, six individuals were reported dead and 39 injured following a strike by the Armed Forces of Ukraine on the Starobel Professional College in the Luhansk People's Republic (LPR). President Putin emphasized the absence of military targets in the vicinity, framing the attack as egregious against civilians. [10]
+## Kuolonuhreja tunnistettu Starobelskin yliopistolla APU:n iskun jälkeen
+23. toukokuuta 2023 vahvistettiin kuolonuhreja Starobelskin yliopistolla APU:n suorittaman UAV-hyökkäyksen jälkeen. Hyökkäys johti vähintään 18 kuolemaan, ja pelastusoperaatiot ovat käynnissä alueella. [10]
 
-**COMMENT:** This incident underscores the ongoing violence in the region, potentially increasing tensions and complicating peace efforts. The continued targeting of educational institutions indicates a troubling pattern that may provoke further escalation in military responses.
+**COMMENT:** Tämä tapaus korostaa jatkuvan konfliktin vaikutusta siviili-infrastruktuuriin ja koulutusympäristön tragediaa.
 
-**LOCATION:** Starobel / Starobel, Luhansk People's Republic, Russia [Click for Map Location]()
+**LOCATION:** Starobelsk / Starobelsk, Luhansk Oblast, Ukraine [Click for Map Location]()
 
-**KEYWORDS:** #россия #российский #корпус #удар #бпла #пуск #про
+**KEYWORDS:** #россия #корпус #удар #бпла #про
 
 
-## Ukraine Proposes Local Truce to Evacuate Civilians from Oleshki
-On May 22nd, 2023, Ukraine proposed a local truce to Russia aimed at evacuating civilians from the village of Oleshki in the Kherson region, as announced by Ukrainian Ombudsman Dmitry Lubinets. The truce would facilitate the removal of approximately six thousand civilians from Oleshki and surrounding settlements, pending confirmation of the ceasefire from the Russian side. [11]
+## 6-vuotias lapsi pelastettiin fonttaanin putkeen joutumisen jälkeen Moskovassa
+23. toukokuuta 2023 5-vuotias poika joutui fontaanin vesiviemäriputkeen Moskovassa Simferopol Boulevardilla. Onneksi hänet pelastettiin ja hänet tutkitaan parhaillaan lääkärin toimesta. [11]
 
-**COMMENT:** This proposal highlights ongoing humanitarian concerns amid the conflict in Ukraine and reflects strategic positioning by Kyiv. The successful negotiation of a truce could influence future ceasefire discussions and may impact the overall security situation in the region.
+**COMMENT:** Tämä tapaus korostaa lasten turvallisuuteen liittyviä huolia Venäjän kaupunkiympäristöissä.
 
-**LOCATION:** Oleshki / Oleshki, Kherson Oblast, Ukraine, Russia [Click for Map Location]()
+**LOCATION:** Simferopol Boulevard / Simferopol Boulevard, Moscow, Russia [Click for Map Location]()
 
-**KEYWORDS:** #россия #вс рф #удар #сво #беспилотник #про
+**KEYWORDS:** #россия #часть #про
 
 
-## Russian Fighters Destroy Azov Company in Rubtsovo Direction
-On May 22nd, 2023, Russian fighters reportedly destroyed a company of militants from the Azov group and 15 units of NATO equipment in the Rubtsovo direction. According to security forces, over 80 militants were killed, with no survivors among the group, showcasing a significant military engagement in the ongoing conflict. [12]
+## Venäjän ulkoministeriö julistaa NPT:n kansainvälisen turvallisuuden perustaksi
+23. toukokuuta 2026 Venäjän ulkoministeriö vahvisti, että ydinsulkusopimus (NPT) on edelleen keskeinen elementti kansainvälisessä turvallisuudessa ja ei-leviämisjärjestelmässä. Lausunto korosti huolia Israelin ja USA:n aggressiosta Irania kohtaan, mikä on vaikeuttanut keskusteluja NPT:stä viimeisimmässä tarkistuskonferenssissa. [12]
 
-**COMMENT:** This operation indicates a focused effort by Russian forces to eliminate threats from recognized extremist groups in the region. Future operations may continue to prioritize the destruction of militant capabilities, potentially escalating conflict in the area.
+**COMMENT:** Tämä Venäjän ulkoministeriön lausunto osoittaa Moskovan jatkuvaa sitoutumista NPT:hen ja sen vastustusta lännen uhkille.
 
-**LOCATION:** Rubtsovo / Rubtsovo, Ryazan Oblast, Central Federal District, Russia, 54.5975999, 39.9217488 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.597600&mlon=39.921749#map=8/54.597600/39.921749)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
-**KEYWORDS:** #российские #вооруженные #силы #рф #вс #российские #военнослужащие #пво #корпус #удар #сво #беспилотник #бпла #армия #про
+**KEYWORDS:** #россия #учения #удар #сф #про
 
 
-## Putin Addresses Graduates of 'Time of Heroes' Educational Program After Luhansk Attack
-On May 22, 2026, President Vladimir Putin met with graduates of the 'Time of Heroes' educational program in the Kremlin, where he addressed the recent attack on Starobel Professional College in the Luhansk People's Republic. He reported six fatalities and 39 injuries due to a drone strike, emphasizing that the targeted area had no military presence, framing the event as a deliberate act by Ukraine's armed forces. [13]
+## Venäjän ulkoministeriö kutsuu NPT:n kansainvälisen turvallisuuden kivijalkana
+23. toukokuuta 2026 Venäjän ulkoministeriö korosti ydinaseiden leviämisen estämissopimusta (NPT) olennaiseksi kansainväliseen turvallisuuteen. Ministeriö kritisoi Israelin ja USA:n aggressiivista toimintaa Iraniin suhtautuen, mikä hidastaa tehokasta vuoropuhelua. [13]
 
-**COMMENT:** This incident underscores ongoing tensions and the use of military force in the conflict, highlighting the potential for escalated rhetoric and actions from the Russian government. In the near-term, such statements may reinforce hardline positions within Russia regarding military engagement in Ukraine.
+**COMMENT:** Tämä lausunto heijastaa Venäjän painotusta NPT:hen osana ulkopolitiikkaansa, erityisesti lännen kanssa käytävissä keskusteluissa turvallisuudesta ja ydinkysymyksistä.
 
-**LOCATION:** Moscow Kremlin / Moscow Kremlin, Дворцовая площадь, 19, Tverskoy District, Moscow, Central Federal District, Russia, 55.7516212, 37.618122 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.751621&mlon=37.618122#map=8/55.751621/37.618122)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
-**KEYWORDS:** #россия #учения #корпус #удар #сво #бпла #пуск #про
+**KEYWORDS:** #россия #учения #удар #сф #про
 
 
-## Rospotrebnadzor Suspends Import of Jermuk Water in Russia
-On May 22nd, 2026, Rospotrebnadzor announced the temporary suspension of the import and circulation of all consignments of Jermuk mineral water in Russia due to misleading claims about its therapeutic properties. This action, which has been communicated to the Eurasian Economic Commission and relevant authorities in member countries, reflects ongoing scrutiny of product safety and compliance within imports from Armenia. [14]
+## Venäjän armeija kohdistaa hyökkäyksiä Ukrainan sotilas-teollisiin ja energia-alan kohteisiin
+23. toukokuuta 2026 Venäjän asevoimat suorittavat operaatioita käyttäen ilmailua, droneja, raketti-tykistöä ja tykkitulella iskua Ukrainan sotilas-teollisiin kohteisiin ja energia-alan laitteisiin, jotka tukevat Ukrainan asevoimia. Tämä toiminta kuvastaa jatkuvia sotilaallisia sitoumuksia ja kohdistettuja iskuja. [14]
 
-**COMMENT:** This suspension highlights increasing regulatory oversight in response to health concerns, potentially signaling a broader trend of tightened import controls. Russian authorities may further investigate and enhance scrutiny on other imported products from Armenia in the near future.
+**COMMENT:** Tämä tapahtuma osoittaa, kuinka intensiivisesti sotilasoperaatiot jatkuvat, ja kohdistuessaan Ukrainan infrastruktuuriin.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Ukraina / Ukraine [Click for Map Location]()
 
-**KEYWORDS:** #россия #сво #про
-
-
-## Putin Orders Defense Ministry to Prepare Response to Ukrainian Attack on College in LPR
-On May 22nd, 2026, Russian President Vladimir Putin directed the Defense Ministry to draft proposals for responding to an attack by Ukrainian militants on a college in Starobelsk, Luhansk People's Republic (LPR). Putin condemned the assault and reiterated that such actions reflect the terrorist nature of the Ukrainian regime. [15]
-
-**COMMENT:** This directive indicates a potential escalation in the Russian military response to Ukrainian actions and highlights the ongoing tensions in the region. Future developments may involve increased military readiness and operations from Russian forces in response to perceived threats.
-
-**LOCATION:** Starobelsk / Starobelsk, Luhansk People's Republic, Ukraine, Russia [Click for Map Location]()
-
-**KEYWORDS:** #российский #минобороны #россии #вс #минобороны #удар #сво #про
-
-
-## Russia and Belarus Conduct Joint Strategic Forces Exercises Featuring Nuclear Warhead
-On May 22nd, 2026, Russia and Belarus completed joint strategic forces exercises that included the launch of intercontinental missiles, marking a significant development in military readiness. Notably, it was announced that a real nuclear warhead was deployed for the first time during these drills, underscoring the Russian leadership's readiness to resort to nuclear capabilities if deemed necessary. [16]
-
-**COMMENT:** The exercise demonstrates an assertive posture by Russia, signaling both military readiness and a willingness to project power. Future exercises may increasingly emphasize nuclear elements, potentially heightening tensions with Western nations.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #россия #российский #учения #боеготовность #вооружение #штаб #удар #сво #перехват #пуск #сф #про
+**KEYWORDS:** #вс россии #удар #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1091243?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1091410?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1091253?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1091422?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1091273
+[3] interfax.ru - https://interfax.ru/russia/1091380?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1091269
+[4] interfax.ru - https://interfax.ru/russia/1091402?utm_source=top
 
-[5] interfax.ru - https://interfax.ru/russia/1091267
+[5] interfax.ru - https://interfax.ru/russia/1091372?utm_source=top
 
-[6] interfax.ru - https://interfax.ru/russia/1091265
+[6] interfax.ru - https://interfax.ru/russia/1091427
 
-[7] interfax.ru - https://interfax.ru/russia/1091264
+[7] interfax.ru - https://interfax.ru/russia/1091423
 
-[8] aif.ru - https://aif.ru/politics/putin-poruchil-mo-rf-podgotovit-otvet-na-udar-vsu-po-kolledzhu-v-lnr
+[8] interfax.ru - https://interfax.ru/russia/1091422
 
-[9] www.vesti.ru - https://www.vesti.ru/ns/putin-zayavil-chto-ni-odna-zhertva-rossii-v-khode-svo-ne-byla-naprasnoj
+[9] interfax.ru - https://interfax.ru/russia/1091421
 
-[10] www.vesti.ru - https://www.vesti.ru/ns/kolichestvo-pogibshikh-pri-udare-vsu-po-kolledzhu-v-lnr-vyroslo-do-6-chelovek
+[10] aif.ru - https://aif.ru/politics/zaharova-mid-organizuet-dlya-korrespondentov-poseshchenie-mesta-tragedii-v-lnr
 
-[11] www.vesti.ru - https://www.vesti.ru/ns/ukraina-predlozhila-rossii-lokalnoe-peremirie-v-rajone-oleshek
+[11] www.vesti.ru - https://www.vesti.ru/ns/poyavilis-kadry-opoznaniya-pogibshikh-pri-udare-vsu-po-starobelsku
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/rossijskie-bojcy-unichtozhili-do-roty-azovcev-na-rubcovskom-napravlenii
+[12] www.vesti.ru - https://www.vesti.ru/ns/v-moskve-6-letnego-rebenka-zasosalo-v-trubu-fontana
 
-[13] iz.ru - https://iz.ru/2102097/2026-05-22/putin-vstretilsia-s-vypusknikami-programmy-vremia-geroev-glavnoe
+[13] iz.ru - https://iz.ru/2102568/2026-05-23/mid-rf-nazval-dniao-kraeugolnym-kamnem-mezhdunarodnoi-bezopasnosti
 
-[14] iz.ru - https://iz.ru/2102158/2026-05-22/rospotrebnadzor-priostanovil-vvoz-i-oborot-vody-dzhermuk-v-rf?main_click
+[14] iz.ru - https://iz.ru/2102568/2026-05-23/mid-rf-nazval-dniao-kraeugolnym-kamnem-mezhdunarodnoi-bezopasnosti?main_click
 
-[15] www.kp.ru - https://www.kp.ru/online/news/6984250/
+[15] www.kp.ru - https://www.kp.ru/daily/277785.5/5252972/
 
-[16] www.kp.ru - https://www.kp.ru/daily/277785.5/5252737/
+[16] ria.ru - https://ria.ru/20260523/vs-2094251126.html
