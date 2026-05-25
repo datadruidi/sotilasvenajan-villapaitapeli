@@ -114,7 +114,7 @@ const SHORT_WAR_STORY_OPTIONS = [
     id: 'short-story-weapons-and-ammunition' as const,
     file: 'Part_1_Weapons_and_Ammunition.md',
     audioFile: 'Part_1_Weapons_and_Ammunition.mp3',
-    labelFi: 'Aseet ja ammukset',
+    labelFi: 'Osa 1: Aseet ja ammukset',
     labelEn: 'Part 1: Weapons and Ammunition',
     available: true,
   },

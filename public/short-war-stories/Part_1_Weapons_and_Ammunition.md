@@ -4,7 +4,9 @@
 
 ---
 
-Часть первая: Добро пожаловать на СВО
+![Part 1: Weapons and Ammunition](./short-war-stories/images/part-1-weapons-and-ammunition.png)
+
+# Часть первая: Добро пожаловать на СВО
 
 ---
 
