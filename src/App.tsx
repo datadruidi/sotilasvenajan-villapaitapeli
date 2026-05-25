@@ -569,8 +569,13 @@ function App() {
     setShowSplash(false)
   }
 
+  const handleSplashMemoryGame = () => {
+    playButtonClick(muted)
+    window.open(MEMORY_GAME_URL, '_blank', 'noopener,noreferrer')
+  }
+
   if (showSplash) {
-    return <SplashScreen appLanguage={appLanguage} muted={muted} onPlay={handleSplashPlay} onOpenDailyBrief={openDailyBriefFromSplash} onChangeLanguage={changeAppLanguage} />
+    return <SplashScreen appLanguage={appLanguage} muted={muted} onPlay={handleSplashPlay} onPlayMemoryGame={handleSplashMemoryGame} onOpenDailyBrief={openDailyBriefFromSplash} onChangeLanguage={changeAppLanguage} />
   }
 
   if (view === 'vehicles-game' && selectedBranch) {

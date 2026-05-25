@@ -11,8 +11,11 @@ const INTRO_URL = `${SETTINGS_AUDIO_BASE_URL}intro.mp3`
 const TIETOA_URL = `${SETTINGS_PAGES_BASE_URL}README.md`
 const UPDATES_URL = `${SETTINGS_PAGES_BASE_URL}UPDATES.md`
 const SOUNDTRACK_URL = `${SETTINGS_PAGES_BASE_URL}soundtrack.md`
+const SHORT_WAR_STORIES_BASE_URL = `${import.meta.env.BASE_URL}short-war-stories/`
+const SHORT_WAR_STORIES_AUDIO_BASE_URL = `${SHORT_WAR_STORIES_BASE_URL}audio/`
 const GITHUB_URL = 'https://github.com/datadruidi/sotilasvenajan-villapaitapeli'
 const GOOGLE_PLAY_URL = 'https://play.google.com/store/apps/details?id=com.sotilasvenajan.villapaitapeli&hl=en_NZ'
+const FEEDBACK_URL = 'https://pad.riseup.net/p/MqxWfBo7cIo-x0yPks6g-keep'
 
 type InfoPage =
   | 'tietoa'
@@ -29,7 +32,10 @@ type InfoPage =
   | 'kalustokuvasto-miehittamattomat-jarjestelmat'
   | 'kalustokuvasto-maahanlaskujoukot'
   | 'kalustokuvasto-strategiset-ohjusjoukot'
+  | 'short-story-weapons-and-ammunition'
   | null
+
+type StoryPage = Exclude<InfoPage, null> & 'short-story-weapons-and-ammunition'
 
 const EQUIPMENT_CATALOG_OPTIONS = [
   {
@@ -103,8 +109,55 @@ const SOURCES_OPTIONS = [
   },
 ]
 
+const SHORT_WAR_STORY_OPTIONS = [
+  {
+    id: 'short-story-weapons-and-ammunition' as const,
+    file: 'Story_Weapons_and_Ammunition.md',
+    audioFile: 'Weapons_and_Ammunition.mp3',
+    labelFi: 'Aseet ja ammukset',
+    labelEn: 'Weapons and Ammunition',
+    available: true,
+  },
+  {
+    labelFi: 'Kalusto ja alustat',
+    labelEn: 'Equipment and Platforms',
+    available: false,
+  },
+  {
+    labelFi: 'Organisaatiorakenne',
+    labelEn: 'Organization Structure',
+    available: false,
+  },
+  {
+    labelFi: 'Koulutus ja teht\u00E4v\u00E4t',
+    labelEn: 'Training and Tasks',
+    available: false,
+  },
+  {
+    labelFi: 'Taistelu ja taktiikka',
+    labelEn: 'Combat and Tactics',
+    available: false,
+  },
+  {
+    labelFi: 'Maasto ja linnoitteet',
+    labelEn: 'Terrain and Fortifications',
+    available: false,
+  },
+  {
+    labelFi: 'Sotilasarvot',
+    labelEn: 'Military Ranks',
+    available: false,
+  },
+  {
+    labelFi: 'Kyberturvallisuuden k\u00E4sitteist\u00F6',
+    labelEn: 'Cybersecurity Terminology',
+    available: false,
+  },
+]
+
 interface SplashScreenProps {
   onPlay: () => void
+  onPlayMemoryGame: () => void
   onOpenDailyBrief: () => void
   muted: boolean
   appLanguage: AppLanguage
@@ -133,35 +186,55 @@ function GooglePlayIcon() {
   )
 }
 
-export function SplashScreen({ onPlay, onOpenDailyBrief, muted, appLanguage, onChangeLanguage }: SplashScreenProps) {
+function FeedbackIcon() {
+  return (
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" className="splash-store-link-icon">
+      <path
+        fill="currentColor"
+        d="M4.5 4.25A2.75 2.75 0 0 0 1.75 7v7.25A2.75 2.75 0 0 0 4.5 17h1.25v2.75c0 .34.2.65.51.79.31.13.68.07.92-.17L10.55 17h8.95a2.75 2.75 0 0 0 2.75-2.75V7a2.75 2.75 0 0 0-2.75-2.75h-15Zm0 1.5h15c.69 0 1.25.56 1.25 1.25v7.25c0 .69-.56 1.25-1.25 1.25h-9.26c-.2 0-.39.08-.53.22l-2.46 2.46V16.25a.75.75 0 0 0-.75-.75h-2A1.25 1.25 0 0 1 3.25 14.25V7c0-.69.56-1.25 1.25-1.25Zm2.25 3.5a.75.75 0 0 0 0 1.5h10.5a.75.75 0 0 0 0-1.5H6.75Zm0 3.25a.75.75 0 0 0 0 1.5h6.5a.75.75 0 0 0 0-1.5h-6.5Z"
+      />
+    </svg>
+  )
+}
+
+export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted, appLanguage, onChangeLanguage }: SplashScreenProps) {
   const isEnglish = appLanguage === 'eng'
   const [infoPage, setInfoPage] = useState<InfoPage>(null)
   const [isInfoMenuOpen, setIsInfoMenuOpen] = useState(false)
   const [isEquipmentMenuOpen, setIsEquipmentMenuOpen] = useState(false)
   const [isSourcesMenuOpen, setIsSourcesMenuOpen] = useState(false)
+  const [isShortStoriesMenuOpen, setIsShortStoriesMenuOpen] = useState(false)
   const [pageContent, setPageContent] = useState<string | null>(null)
   const [pageError, setPageError] = useState<string | null>(null)
+  const [isStoryAudioPlaying, setIsStoryAudioPlaying] = useState(false)
   const introAudioRef = useRef<HTMLAudioElement | null>(null)
+  const storyAudioRef = useRef<HTMLAudioElement | null>(null)
 
   const equipmentCatalogPage = EQUIPMENT_CATALOG_OPTIONS.find((option) => option.id === infoPage)
   const sourcesPage = SOURCES_OPTIONS.find((option) => option.id === infoPage)
+  const storyPage = SHORT_WAR_STORY_OPTIONS.find((option): option is Extract<typeof SHORT_WAR_STORY_OPTIONS[number], { id: StoryPage }> => option.available && option.id === infoPage)
   const pageUrl = infoPage === 'tietoa'
       ? TIETOA_URL
       : infoPage === 'paivitykset'
         ? UPDATES_URL
         : infoPage === 'soundtrack'
           ? SOUNDTRACK_URL
+          : storyPage
+            ? `${SHORT_WAR_STORIES_BASE_URL}${storyPage.file}`
           : sourcesPage
             ? `${SETTINGS_SOURCES_BASE_URL}${sourcesPage.file}`
           : equipmentCatalogPage
             ? `${import.meta.env.BASE_URL}kalustokuvasto/${equipmentCatalogPage.file}`
             : null
+  const storyAudioUrl = storyPage ? `${SHORT_WAR_STORIES_AUDIO_BASE_URL}${storyPage.audioFile}` : null
   const pageTitle = infoPage === 'tietoa'
       ? (isEnglish ? 'About' : 'Tietoa')
       : infoPage === 'paivitykset'
         ? (isEnglish ? 'Updates' : 'Paivitykset')
         : infoPage === 'soundtrack'
           ? (isEnglish ? 'Soundtrack' : 'Soundtrack')
+          : storyPage
+            ? (isEnglish ? storyPage.labelEn : storyPage.labelFi)
           : sourcesPage
             ? (isEnglish ? sourcesPage.labelEn : sourcesPage.labelFi)
           : equipmentCatalogPage
@@ -199,17 +272,42 @@ export function SplashScreen({ onPlay, onOpenDailyBrief, muted, appLanguage, onC
       .catch(() => setPageError(isEnglish ? 'Could not load content.' : 'Sisaltoa ei voitu ladata.'))
   }, [pageUrl, isEnglish])
 
+  useEffect(() => {
+    if (storyAudioRef.current) {
+      storyAudioRef.current.pause()
+      storyAudioRef.current.currentTime = 0
+      storyAudioRef.current = null
+    }
+    setIsStoryAudioPlaying(false)
+  }, [storyAudioUrl])
+
+  useEffect(() => {
+    return () => {
+      if (storyAudioRef.current) {
+        storyAudioRef.current.pause()
+        storyAudioRef.current.currentTime = 0
+        storyAudioRef.current = null
+      }
+    }
+  }, [])
+
   const openInfoPage = (page: InfoPage) => {
     playButtonClick(muted)
     setIsInfoMenuOpen(false)
     setIsEquipmentMenuOpen(false)
     setIsSourcesMenuOpen(false)
+    setIsShortStoriesMenuOpen(false)
     setInfoPage(page)
   }
 
   const openKalustokuvastoMenu = () => {
     playButtonClick(muted)
     setIsEquipmentMenuOpen(true)
+  }
+
+  const openShortStoriesMenu = () => {
+    playButtonClick(muted)
+    setIsShortStoriesMenuOpen(true)
   }
 
   const openGithub = () => {
@@ -220,6 +318,11 @@ export function SplashScreen({ onPlay, onOpenDailyBrief, muted, appLanguage, onC
   const openGooglePlay = () => {
     playButtonClick(muted)
     window.open(GOOGLE_PLAY_URL, '_blank', 'noopener,noreferrer')
+  }
+
+  const openFeedback = () => {
+    playButtonClick(muted)
+    window.open(FEEDBACK_URL, '_blank', 'noopener,noreferrer')
   }
 
   const openInfoMenu = () => {
@@ -247,6 +350,50 @@ export function SplashScreen({ onPlay, onOpenDailyBrief, muted, appLanguage, onC
     setIsSourcesMenuOpen(false)
   }
 
+  const closeShortStoriesMenu = () => {
+    playButtonClick(muted)
+    setIsShortStoriesMenuOpen(false)
+  }
+
+  const toggleStoryAudio = () => {
+    if (!storyAudioUrl) return
+    playButtonClick(muted)
+    let audio = storyAudioRef.current
+    if (!audio) {
+      audio = new Audio(storyAudioUrl)
+      audio.volume = 0.85
+      audio.loop = true
+      audio.addEventListener('ended', () => setIsStoryAudioPlaying(false))
+      storyAudioRef.current = audio
+    }
+    if (audio.paused) {
+      audio.currentTime = 0
+      audio.play()
+        .then(() => setIsStoryAudioPlaying(true))
+        .catch(() => setIsStoryAudioPlaying(false))
+    } else {
+      audio.pause()
+      setIsStoryAudioPlaying(false)
+    }
+  }
+
+  const restartStoryAudio = () => {
+    if (!storyAudioUrl) return
+    playButtonClick(muted)
+    let audio = storyAudioRef.current
+    if (!audio) {
+      audio = new Audio(storyAudioUrl)
+      audio.volume = 0.85
+      audio.loop = true
+      audio.addEventListener('ended', () => setIsStoryAudioPlaying(false))
+      storyAudioRef.current = audio
+    }
+    audio.currentTime = 0
+    audio.play()
+      .then(() => setIsStoryAudioPlaying(true))
+      .catch(() => setIsStoryAudioPlaying(false))
+  }
+
   const handleLogoClick = () => {
     if (muted) return
     if (introAudioRef.current) {
@@ -271,6 +418,16 @@ export function SplashScreen({ onPlay, onOpenDailyBrief, muted, appLanguage, onC
             <h1 className="splash-info-page-title">{pageTitle}</h1>
             <span className="splash-info-header-spacer" aria-hidden="true" />
           </div>
+          {storyAudioUrl && (
+            <div className="short-story-audio-controls" aria-label={isEnglish ? 'Story audio controls' : 'Tarinan \u00E4\u00E4niohjaimet'}>
+              <button type="button" className="short-story-audio-btn" onClick={toggleStoryAudio}>
+                {isStoryAudioPlaying ? (isEnglish ? 'Pause' : 'Tauko') : (isEnglish ? 'Play Audio' : 'Toista \u00E4\u00E4ni')}
+              </button>
+              <button type="button" className="short-story-audio-btn short-story-audio-btn-secondary" onClick={restartStoryAudio}>
+                {isEnglish ? 'Start Over' : 'Alusta'}
+              </button>
+            </div>
+          )}
           <div className="splash-info-body">
             {pageError && <p className="splash-info-error">{pageError}</p>}
             {pageContent == null && !pageError && (
@@ -324,39 +481,61 @@ export function SplashScreen({ onPlay, onOpenDailyBrief, muted, appLanguage, onC
         </div>
         <div className="splash-buttons">
           <button type="button" className="splash-play-btn" onClick={onPlay}>
-            {isEnglish ? 'Play' : 'Pelaa'}
+            {isEnglish ? 'Play the Military Quiz' : 'Pelaa sotilastietovisaa'}
           </button>
-          <button type="button" className="splash-info-btn" onClick={onOpenDailyBrief}>
-            {isEnglish ? 'OSINT Daily Brief' : 'OSINT-päiväkatsaus'}
+          <button type="button" className="splash-info-btn" onClick={onPlayMemoryGame}>
+            {isEnglish ? 'Play Military Memory Game' : 'Pelaa sotilasmuistipeli\u00E4'}
           </button>
-          <button type="button" className="splash-info-btn" onClick={openKalustokuvastoMenu}>
+          <button type="button" className="splash-info-btn splash-primary-btn" onClick={openShortStoriesMenu}>
+            {isEnglish ? 'Listen to Short War Stories' : 'Kuuntele lyhyit\u00E4 sotatarinoita'}
+          </button>
+          <button type="button" className="splash-info-btn splash-primary-btn" onClick={onOpenDailyBrief}>
+            {isEnglish ? 'Daily OSINT Brief' : 'P\u00E4ivitt\u00E4inen OSINT-katsaus'}
+          </button>
+          <button type="button" className="splash-info-btn splash-danger-btn" onClick={openKalustokuvastoMenu}>
             {isEnglish ? 'Equipment Catalog' : 'Kalustokuvasto'}
           </button>
-          <button type="button" className="splash-info-btn" onClick={openInfoMenu}>
+          <button type="button" className="splash-info-btn splash-settings-btn splash-danger-btn" onClick={openInfoMenu}>
             {isEnglish ? 'Information & Settings' : 'Tiedot ja asetukset'}
           </button>
         </div>
         <div className="splash-store-links" aria-label={isEnglish ? 'External links' : 'Ulkoiset linkit'}>
-          <span className="splash-store-links-label">{isEnglish ? 'Available on:' : 'Saatavilla:'}</span>
-          <div className="splash-store-links-row">
-            <button
-              type="button"
-              className="splash-store-link-btn"
-              onClick={openGithub}
-              aria-label={isEnglish ? 'Open GitHub page' : 'Avaa GitHub-sivu'}
-              title="GitHub"
-            >
-              <GitHubIcon />
-            </button>
-            <button
-              type="button"
-              className="splash-store-link-btn"
-              onClick={openGooglePlay}
-              aria-label={isEnglish ? 'Open Google Play page' : 'Avaa Google Play -sivu'}
-              title="Google Play"
-            >
-              <GooglePlayIcon />
-            </button>
+          <div className="splash-store-link-group">
+            <span className="splash-store-links-label">{isEnglish ? 'Available on:' : 'Saatavilla:'}</span>
+            <div className="splash-store-links-row">
+              <button
+                type="button"
+                className="splash-store-link-btn"
+                onClick={openGithub}
+                aria-label={isEnglish ? 'Open GitHub page' : 'Avaa GitHub-sivu'}
+                title="GitHub"
+              >
+                <GitHubIcon />
+              </button>
+              <button
+                type="button"
+                className="splash-store-link-btn"
+                onClick={openGooglePlay}
+                aria-label={isEnglish ? 'Open Google Play page' : 'Avaa Google Play -sivu'}
+                title="Google Play"
+              >
+                <GooglePlayIcon />
+              </button>
+            </div>
+          </div>
+          <div className="splash-store-link-group">
+            <span className="splash-store-links-label splash-feedback-label">{isEnglish ? 'Give Feedback' : 'Anna palautetta'}</span>
+            <div className="splash-store-links-row">
+              <button
+                type="button"
+                className="splash-store-link-btn"
+                onClick={openFeedback}
+                aria-label={isEnglish ? 'Give feedback' : 'Anna palautetta'}
+                title={isEnglish ? 'Give Feedback' : 'Anna palautetta'}
+              >
+                <FeedbackIcon />
+              </button>
+            </div>
           </div>
         </div>
         {isInfoMenuOpen && (
@@ -400,6 +579,30 @@ export function SplashScreen({ onPlay, onOpenDailyBrief, muted, appLanguage, onC
                 {SOURCES_OPTIONS.map((option) => (
                   <button key={option.id} type="button" className="splash-info-btn" onClick={() => openInfoPage(option.id)}>
                     {isEnglish ? option.labelEn : option.labelFi}
+                  </button>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
+        {isShortStoriesMenuOpen && (
+          <div className="splash-menu-overlay" role="dialog" aria-modal="true" aria-label={isEnglish ? 'Short War Stories' : 'Lyhyit\u00E4 sotatarinoita'}>
+            <button type="button" className="splash-menu-backdrop" onClick={closeShortStoriesMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'} />
+            <div className="splash-menu-card splash-menu-card-wide">
+              <div className="splash-menu-header">
+                <h2 className="splash-menu-title">{isEnglish ? 'Short War Stories' : 'Lyhyit\u00E4 sotatarinoita'}</h2>
+                <button type="button" className="splash-menu-close" onClick={closeShortStoriesMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'}>
+                  ?
+                </button>
+              </div>
+              <div className="splash-menu-buttons">
+                {SHORT_WAR_STORY_OPTIONS.map((option) => option.available && 'id' in option ? (
+                  <button key={option.labelEn} type="button" className="splash-info-btn" onClick={() => openInfoPage('short-story-weapons-and-ammunition')}>
+                    {isEnglish ? option.labelEn : option.labelFi}
+                  </button>
+                ) : (
+                  <button key={option.labelEn} type="button" className="splash-info-btn splash-info-btn-disabled" disabled>
+                    {isEnglish ? `${option.labelEn} (Coming Soon)` : `${option.labelFi} (Tulossa)`}
                   </button>
                 ))}
               </div>

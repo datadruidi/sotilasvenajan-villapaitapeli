@@ -6,6 +6,16 @@ This file is a cumulative changelog: newest versions are listed first. Older ent
 
 ---
 
+## Version 1.0.12 content update (2026-05-25)
+
+This update refreshes the splash screen and adds the first short war story listening experience.
+
+- Added **Short War Stories / Lyhyita sotatarinoita** with the first **Weapons and Ammunition** story.
+- Added story audio playback with pause, restart, and looping behavior.
+- Refined splash-screen buttons, colors, feedback link, and front-page shortcuts.
+
+---
+
 ## Version 1.0.12 (2026-03-15)
 
 This update focuses on slimming the bundled Android payload and preparing a fresh release package after asset cleanup.
