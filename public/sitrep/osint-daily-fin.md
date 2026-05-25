@@ -1,178 +1,306 @@
-# Report Date: 2026-05-23
+# Report Date: 2026-05-25
 
 ## Summary
-Raportointijaksolla Itä-Ukrainassa ja Venäjällä on tapahtunut useita vakavia konfliktitilanteita, jotka heijastavat jatkuvaa kiristymistä alueella. Starobelskin opiskelijakotiin kohdistunut hyökkäys, joka on aiheuttanut useita kuolonuhreja, korostaa siviiliväestön riskejä. Samanaikaisesti Zaporozhye-alueella on otettu käyttöön polttoaineenmyyntirajoituksia toimitushäiriöiden vuoksi. Venäjän puolustusministeriön raportti Ukrainan dronejen tuhoamisesta sekä jatkuvat hyökkäykset Zaporozhye ydinvoimalaan lisäävät jännitteitä. Viranomaiset näyttävät myös pyrkivän hallitsemaan narratiivia ulkomaisille tiedotusvälineille, mikä viittaa mahdollisiin poliittisiin strategioihin.
+Raportointijaksolla tapahtui merkittäviä muutoksia Venäjän sisä- ja ulkopolitiikassa. Uuden puolustusministerin nimittäminen viittaa mahdollisiin muutoksiin sotilasstrategioissa. Lisäksi havaittujen magneettimiinien löytäminen osoittaa akuutteja turvallisuusuhkia meriliikenteessä. Lainsäädäntötoimet, kuten uusi laki, joka sallii asevoimien käytön kansalaisten suojelemiseksi ulkomailla, heijastavat Venäjän pyrkimyksiä lisätä kansainvälistä vaikutusvaltaa. Lähipäivinä voimme odottaa lisää liikkeitä, jotka vahvistavat hallituksen kontrollia sekä ulkomaisia että sisäisiä uhkia kohtaan.
 
-## Kuolonuhrien määrä nousi 18:aan Starobelskin opiskelijakotiin kohdistuneen hyökkäyksen jälkeen
-Raportoidusti 23. toukokuuta 2026 Starobelskin opiskelijakotiin kohdistuneen hyökkäyksen uhreiksi on laskettu nyt 18 henkilöä, kun pelastajat löysivät kaksi lisää ruumista raunioista. Hyökkäys tapahtui opiskelijakodissa, jossa oli 86 nuorta asukkaita. Venäjän tutkintakomitea on käynnistänyt asiassa rikostutkinnan. [1]
+## Vitaly Shulika Appointed Deputy Minister of Defense of Russia
+On May 25th, 2026, Colonel-General Vitaly Shulika was appointed to lead the Ministry of Defense of the Russian Federation, as announced on the military department's website. His appointment follows the resignation of Oleg Saveliev, who left his position as Deputy Minister for a new role. [1]
 
-**COMMENT:** Tämä tapaus korostaa alueen jatkuvaa epävakautta ja siviiliväestön riskejä sotatoimien keskellä. Tällaiset hyökkäykset voivat pahentaa jännitteitä ja herättää kansainvälistä huomiota.
+**COMMENT:** This change in leadership at the Ministry of Defense indicates potential shifts in military policy or direction within Russia's defense apparatus. Monitoring Shulika's actions in this role may provide insights into the Kremlin's security and military strategies going forward.
 
-**LOCATION:** Starobelsk / Starobelsk, Luhansk People's Republic, Russia [Click for Map Location]()
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #корпус #удар
-
-
-## Polttoaineenmyyntirajoitukset Zaporozhyen alueella
-23. toukokuuta 2026 Zaporozhyen alueen kuvernööri Yevgeny Balitsky ilmoitti väliaikaisten rajoitusten käyttämisestä polttoaineen myynnissä bensiiniasemilla toimitushäiriöiden vuoksi. Tämä toimenpide pyrkii estämään keinotekoisten polttoainetarjontakriisien syntymisen alueen toimitustilanteen vakautuessa. [2]
-
-**COMMENT:** Polttoaineenmyyntirajoitus osoittaa Zaporozhyen alueen jatkuvia logistisia haasteita, mikä voi viitata syvempiin ongelmiin alueellisen vakauden suhteen.
-
-**LOCATION:** Zaporozhye region / Zaporozhye region, Ukraine [Click for Map Location]()
-
-**KEYWORDS:** #russia #сво #пуск #про
+**KEYWORDS:** #russia #минобороны рф #минобороны #полк
 
 
-## Venäjän puolustusministeriö raportoi 800 ukrainan dronen tuhosta yhdessä päivässä
-23. toukokuuta 2026 Venäjän puolustusministeriö raportoi, että niiden joukot tuhosivat 800 Ukrainan lennokkityyppistä dronea yhden päivän aikana operaatiossa, joka kohdistui Ukrainan energiatilanteisiin. Lisäksi Venäjän ilmapuolustusjärjestelmät ampuivat alas kahdeksan ohjattua ilma-alusta samana ajanjaksona. [3]
+## Magnetic Mines Discovered on Tanker Arriving from Belgium at Leningrad Region Port
+On May 25th, 2026, several magnetic mines were discovered on the hull of the gas tanker 'ARRHENIUS' upon its arrival at the Ust-Luga port in the Leningrad region after coming from Antwerp, Belgium. The FSB has initiated a case for an attempted terrorist attack, highlighting significant security concerns regarding maritime threats to Russian ports. [2]
 
-**COMMENT:** Raportoitu huomattava dronien tuhoaminen osoittaa Venäjän sotilaallisen toiminnan tehostumista Ukrainan ilmatilassa ja voi viitata strategisiin muutoksiin, jotka tavoittelevat Ukrainan logistiikkaa ja infrastruktuuria.
+**COMMENT:** The discovery of explosive devices indicates an acute security threat to maritime activities in Russian waters, particularly from international shipping routes. This incident may lead to heightened security protocols and increased investigations into port security measures across the region.
 
-**LOCATION:** Moskova / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Ust-Luga / Ust-Luga, Unknown, Unknown
 
-**KEYWORDS:** #russia #российские #минобороны рф #минобороны россии #российские военные #минобороны #удар #беспилотник #про
-
-
-## Entinen senaattori ja lawyer pidätetty Moskovassa petossyytöksistä
-23. toukokuuta 2026 Moskovassa entinen senaattori Vasily Duma ja lakimies Dmitry Kletochkin pidätettiin, ja Zamoskvoretsky-tuomioistuin määräsi heidät pidätettäväksi 20. heinäkuuta 2026 asti. Heitä syytetään ryhmäpetokseen liittyvästä rikoksesta, joka käsittää yli 20 miljoonaa dollaria. [4]
-
-**COMMENT:** Senaattorin ja tunnetun lakimiehen pidätys osoittaa merkittävää toimintaa Venäjän poliittisessa kentässä, joka liittyy taloudellisiin korruptioepäilyihin.
-
-**LOCATION:** Moskova / Moscow, Central Federal District, Russia, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
-
-**KEYWORDS:** #russia #сво
+**KEYWORDS:** #russia #корпус #сво #про
 
 
-## Venäjän ulkoministeriö järjestää vierailun ulkomaisille toimittajille Starobelskin hyökkäyspaikkaan
-23. toukokuuta 2026 Venäjän ulkoministeriö ilmoitti järjestävänsä vierailun akreditoiduille ulkomaisille toimittajille Starobelskiin, missä on tapahtunut äskettäinen hyökkäys Luhanskin valtion pedagogiselle yliopistolle. Vierailun tarkoituksena on vastata lännen väitteisiin hyökkäyksen luonteesta. [5]
+## Bribery Scheme for Gold Mining Licenses Uncovered in Transbaikalia
+On May 25th, 2026, a bribery scheme involving the issuance of gold mining licenses was uncovered in the Trans-Baikal Territory, resulting in the arrest of eight individuals, including officials and representatives of gold mining companies. The Federal Security Service (FSB) revealed that these individuals accepted bribes to expedite application approvals and issue favorable expert opinions for certain companies while denying others. [3]
 
-**COMMENT:** Tämä järjestetty vierailu viittaa Venäjän hallituksen halukkuuteen hallita narratiivia äskettäisestä hyökkäyksestä kasvavan kansainvälisen huomion keskellä.
+**COMMENT:** This incident highlights significant corruption within the licensing process for natural resource extraction, which could undermine regulatory integrity and governance in the region. The implications of such corruption could lead to increased scrutiny on regulatory practices and potential reforms in resource management policies in Russia.
 
-**LOCATION:** Starobelsk / Starobelsk, Luhansk People's Republic, Russia [Click for Map Location]()
+**LOCATION:** Trans-Baikal Territory / Trans-Baikal Territory, Unknown, Unknown
 
-**KEYWORDS:** #russia #корпус #удар #сво
-
-
-## Kuusi haavoittunutta Venäjän Belgorodin alueella
-23. toukokuuta 2026 alueen päämaja raportoi, että kuusi siviiliä haavoittui Ukrainan tehdessä iskuja Belgorodin alueella Venäjällä. Haavoittuneet, jotka kärsivät raketti-iskusta ja droneiskusta Borisovkassa, saavat parhaillaan lääkärinhoitoa. [6]
-
-**COMMENT:** Tapaus korostaa Belgorodin alueen jatkuvia turvallisuushuolia, mikä voi viitata raja-alueiden jännitteiden mahdollisiin lisääntymin.
-
-**LOCATION:** Belgorod Oblast / Belgorod Oblast, Central Federal District, Russia, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762)
-
-**KEYWORDS:** #russia #штаб #бригада #удар
+**KEYWORDS:** #russia #учения #сво #про
 
 
-## Ukrainan joukot hyökkäävät jälleen Zaporozhyen ydinvoimalaitokseen
-23. toukokuuta 2026 Ukrainan asevoimat suorittivat useita droneiskuja Zaporozhyen ydinvoimalaitokselle, mikä aiheutti merkittäviä vaurioita laitoksen kuljetustyöpajalle ja henkilökuntabusseille. Jatkuvat hyökkäykset lisäävät jännitteitä alueella, jotka vaikuttavat niin laitoksen työntekijöihin kuin paikalliseen väestöön Energodarissa. [7]
+## Duma Set to Consider Amendments to Punish Relocants on June 26
+On May 25th, 2026, the Council of the Duma announced the second reading of a bill aimed at increasing administrative penalties for Russians committing offenses against the interests of the state while abroad, scheduled for June 26. The bill includes provisions for the seizure of property belonging to relocants who promote terrorism, extremism, or justify Nazism from abroad. [4]
 
-**COMMENT:** Tämä eskalaatio tärkeisiin infrastruktuuriin kohdistuvissa dronehyökkäyksissä osoittaa jatkuvia operatiivisia uhkia konfliktialueella.
+**COMMENT:** This legislative move highlights the Kremlin's ongoing efforts to exert control over Russian citizens abroad and to deter any dissent or perceived threats to national security. The implications of this bill might increase state surveillance and potentially lead to a stricter crackdown on dissidents living outside Russia.
 
-**LOCATION:** Zaporozhye Nuclear Power Plant / Zaporozhye Nuclear Power Plant, Ukraine [Click for Map Location]()
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #russia #удар #сво #беспилотник #бпла #про
-
-
-## Roketti-iskut Belgorodin alueen kylään aiheuttavat tuhoja
-23. toukokuuta 2026 Borisovkan kylä Belgorodin alueella Venäjällä koki kaksi raketti-iskua, jotka johtuvat Ukrainan armeijasta, mikä aiheutti vaurioita asuinrakennuksiin, autoihin ja hallintorakennuksiin. Operatiivinen päämaja raportoi, että viisi ajoneuvoa syttyi tuleen, ja uhriluku on vielä selvitettävänä. [8]
-
-**COMMENT:** Tämä tapaus korostaa Venäjän ja Ukrainan välisten jatkuvien konfliktien vaikutusta ja väkivallan mahdollista lisääntymistä rajaseudulla.
-
-**LOCATION:** Borisovka / Borisovka, Belgorod Oblast, Russia [Click for Map Location]()
-
-**KEYWORDS:** #russia #штаб
+**KEYWORDS:** #russia #россия #офицер #призыв #сво #пуск #про
 
 
-## Ulkoministeriö järjestää toimittajien vierailun tragediapaikalle LPR:ssä
-23. toukokuuta 2026 Venäjän ulkoministeriö ilmoitti valmiudestaan järjestää vierailu ulkomaisille toimittajille äskettäin isketyn koulutustilan paikalle Starobelskissa. Tapahtuma on johtanut 48 henkilön, mukaan lukien opiskelijoiden, haavoittumiseen, mikä johtaa ministeriön tarkoitukseen vastustaa lännen väitteitä YK:n turvallisuusneuvostossa. [9]
+## Putin Signs Law for Extraterritorial Use of Armed Forces to Protect Citizens Abroad
+On May 25th, 2026, Russian President Vladimir Putin signed a law allowing the extraterritorial use of the Russian Armed Forces to protect citizens abroad who face legal issues in foreign jurisdictions. This legislation aims to safeguard the rights of Russian citizens against foreign legal actions not sanctioned by Russian participation or international agreements. [5]
 
-**COMMENT:** Tämä tapahtuma korostaa Venäjän pyrkimyksiä hallita narratiivia sotilasiskujen ympärillä ja luoda tietty kuva kansainväliselle yhteisölle.
+**COMMENT:** This development indicates an expansion of Russia's military reach and an effort to assert protective measures for its citizens in foreign jurisdictions. Such a legal framework may lead to increased assertiveness in Russia's foreign policy, particularly in regions with significant Russian interests or populations.
 
-**LOCATION:** Starobelsk / Starobelsk, Luhansk People's Republic, Russia [Click for Map Location]()
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #россия #ввс #корпус #удар #сво #пуск #сф #часть #про
-
-
-## Kuolonuhreja tunnistettu Starobelskin yliopistolla APU:n iskun jälkeen
-23. toukokuuta 2023 vahvistettiin kuolonuhreja Starobelskin yliopistolla APU:n suorittaman UAV-hyökkäyksen jälkeen. Hyökkäys johti vähintään 18 kuolemaan, ja pelastusoperaatiot ovat käynnissä alueella. [10]
-
-**COMMENT:** Tämä tapaus korostaa jatkuvan konfliktin vaikutusta siviili-infrastruktuuriin ja koulutusympäristön tragediaa.
-
-**LOCATION:** Starobelsk / Starobelsk, Luhansk Oblast, Ukraine [Click for Map Location]()
-
-**KEYWORDS:** #россия #корпус #удар #бпла #про
+**KEYWORDS:** #russia #россия #вс рф #вс россии #удар #сво #сф #про
 
 
-## 6-vuotias lapsi pelastettiin fonttaanin putkeen joutumisen jälkeen Moskovassa
-23. toukokuuta 2023 5-vuotias poika joutui fontaanin vesiviemäriputkeen Moskovassa Simferopol Boulevardilla. Onneksi hänet pelastettiin ja hänet tutkitaan parhaillaan lääkärin toimesta. [11]
+## Russia Proposes to Restrict Regional Limits on Mobile Base Station Installations
+On May 25th, 2026, the Russian Ministry of Digital Services submitted a draft law aimed at prohibiting regions from imposing additional restrictions on the installation of mobile base stations. The proposal is intended to facilitate the development of telecom infrastructure by ensuring uniform regulations across the country. [6]
 
-**COMMENT:** Tämä tapaus korostaa lasten turvallisuuteen liittyviä huolia Venäjän kaupunkiympäristöissä.
+**COMMENT:** This legislative move reflects the Russian government's focus on enhancing digital infrastructure as a key component of its economic strategy. If enacted, it could streamline mobile communications development, potentially improving state control over telecommunications.
 
-**LOCATION:** Simferopol Boulevard / Simferopol Boulevard, Moscow, Russia [Click for Map Location]()
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
 
-**KEYWORDS:** #россия #часть #про
+**KEYWORDS:** #russia #российские #учения #удар #сф #про
 
 
-## Venäjän ulkoministeriö julistaa NPT:n kansainvälisen turvallisuuden perustaksi
-23. toukokuuta 2026 Venäjän ulkoministeriö vahvisti, että ydinsulkusopimus (NPT) on edelleen keskeinen elementti kansainvälisessä turvallisuudessa ja ei-leviämisjärjestelmässä. Lausunto korosti huolia Israelin ja USA:n aggressiosta Irania kohtaan, mikä on vaikeuttanut keskusteluja NPT:stä viimeisimmässä tarkistuskonferenssissa. [12]
+## Russia and Brazil Prepare New Nuclear Energy Cooperation Agreement
+On May 25th, 2026, Russian and Brazilian officials announced they are working on a new agreement to enhance cooperation in nuclear energy during a meeting in Brasilia. The Russian Ambassador to Brazil, Alexei Labetsky, emphasized ongoing negotiations that include plans for floating nuclear power plants, indicating promising prospects for Russian state-owned nuclear corporation Rosatom in Brazil. [7]
 
-**COMMENT:** Tämä Venäjän ulkoministeriön lausunto osoittaa Moskovan jatkuvaa sitoutumista NPT:hen ja sen vastustusta lännen uhkille.
+**COMMENT:** This development underscores Russia's intent to strengthen its nuclear energy ties with Brazil, potentially enhancing its influence in the Latin American energy sector. Continued collaboration in this field may lead to increased state control over energy resources and bolster Russia's geopolitical presence in the region.
+
+**LOCATION:** Brasilia / Brasilia, Unknown, Unknown
+
+**KEYWORDS:** #russia #россия #российский #про
+
+
+## Russian Forces to Strike Ukrainian Military-Industrial Complex
+On the evening of October 23rd, 2023, the Russian Foreign Ministry announced that the Russian Armed Forces would conduct strikes against decision-making centers and facilities of the Ukrainian military-industrial complex in Kiev, focusing on sites related to UAV development and operations. This escalation indicates a shift towards targeting critical military infrastructure in response to prior attacks on Russian communications and transport in regions like Energodar. [8]
+
+**COMMENT:** The planned strikes against Ukraine's military-industrial capabilities could signify an intensification of the conflict, aimed at degrading Ukraine’s operational capabilities. This development may lead to increased tensions and further escalation in military engagements in the region.
+
+**LOCATION:** Kiova / Kiev, Unknown, Unknown
+
+**KEYWORDS:** #вооруженные силы рф #минобороны #штаб #министр обороны #полк #удар #сво #ракетный удар #беспилотник #бпла #про
+
+
+## Belgorod Residents Left Without Electricity and Water After Missile Strikes
+On May 25th, 2026, over 35,000 residents of Belgorod, Russia, lost electricity and water supply due to missile strikes from Ukraine, according to acting Governor Alexander Shuvaev. Emergency crews are currently working to repair the damage, with significant facilities having switched to backup power sources to ensure continued operation. [9]
+
+**COMMENT:** This incident underscores the ongoing impact of military actions on Russian domestic infrastructure and civilian life. Continued strikes in border regions like Belgorod may provoke security and emergency responses from the Russian government in the near term.
+
+**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339)
+
+**KEYWORDS:** #russia #штаб #удар #сво
+
+
+## Duma Finalizes Amendments for Controlling Precious Metals Circulation
+On May 25th, 2026, the State Duma Committee on the Financial Market finalized a bill aimed at regulating the circulation of precious metals by linking bar codes on jewelry to the GIIS DMDK system. This proposed legislation includes provisions for citizens' rights to transact with emissive coins and simplifies the transport of precious metal scraps. [10]
+
+**COMMENT:** This legislative move indicates a strengthening of control mechanisms over precious metal transactions, reflecting broader regulatory trends in Russia. The implementation of these amendments could have implications for the transparency and traceability of precious metals within the economy.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #russia #удар #про
+
+
+## Putin Signs Law to Recruit Tajik Citizens for Work in Russia
+On May 25th, 2026, Russian President Vladimir Putin ratified a protocol amending the agreement with Tajikistan regarding the organized recruitment of Tajik citizens for temporary work in Russia. The new law includes provisions for training Tajik citizens in vocational education and mandates state fingerprint registration for those entering Russia. [11]
+
+**COMMENT:** This development reflects Russia's strategic interest in strengthening its labor market through foreign recruitment, specifically from Tajikistan. The law may also indicate broader efforts to enhance ties with Central Asian countries amid ongoing economic challenges.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #russia #учения #удар #про
+
+
+## Russia Ratifies Agreement to Enhance Cooperation with South Ossetia
+On May 25th, 2026, President Vladimir Putin signed a law ratifying an agreement with South Ossetia to deepen cooperation in political, economic, and defense domains. This agreement aims to ensure regional peace and stability, alongside supporting the development of a common economic space. [12]
+
+**COMMENT:** The ratification of this agreement highlights Russia's intent to solidify its influence in South Ossetia and the broader Caucasus region. This move could prompt further integration efforts with South Ossetia, reflecting ongoing strategies to enhance regional control and stability.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #russia #россия #сво #сф #про
+
+
+## Russia Ratifies Free Trade Agreement with Indonesia
+On May 25th, 2026, Russian President Vladimir Putin signed a law ratifying a free trade agreement between the Eurasian Economic Union (EAEU) and Indonesia. This agreement, originally signed on December 21, 2025, aims to enhance trade cooperation, covering about 90% of the commodity nomenclature in various sectors, including agriculture and technology. [13]
+
+**COMMENT:** This ratification reflects Russia's intent to strengthen economic ties with Southeast Asian nations, positioning itself as a vital trade partner in the region. The move could signal increased Russian influence in regional markets, potentially shifting trade dynamics away from traditional Western partners.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+
+**KEYWORDS:** #россия #удар #сво #сф #про
+
+
+## Russian Armed Forces Capture Dobropasovo in Dnipropetrovsk Region
+On May 25th, 2026, Russian troops took control of the village of Dobropasovo in the Dnipropetrovsk region during offensive actions. This operation was reported by the Russian Ministry of Defense, although further details regarding the operation have not been disclosed. [14]
+
+**COMMENT:** The capture of Dobropasovo indicates ongoing military operations and persistence in territorial objectives in Ukraine. This may lead to intensified military engagement in the region as Russian forces aim to assert control.
+
+**LOCATION:** Dobropasovo / Dobropasovo, Unknown, Unknown
+
+**KEYWORDS:** #российские #минобороны рф #вс рф #российские войска #army #минобороны #министр обороны #сво #сф #часть #про
+
+
+## Russian Strikes in Ukraine Utilize 'Oreshnik' and 'Zircon' Missiles
+On May 24th, 2026, the Russian Defense Ministry announced the use of ballistic missiles 'Oreshnik' to target Ukrainian military infrastructure, including key military command points and facilities associated with the military-industrial complex near Kyiv. The operation involved over 50 missiles and more than 700 drones, aiming to disrupt Ukraine's production capabilities for military hardware. [15]
+
+**COMMENT:** This significant increase in missile deployment indicates a heightened commitment by Russia to disrupt Ukrainian military infrastructure in the ongoing conflict. The extensive use of advanced missile systems also suggests potential escalations in military engagements in the region.
+
+**LOCATION:** Kiova / Kyiv, 50.4500336, 30.5241361 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.450034&mlon=30.524136#map=8/50.450034/30.524136)
+
+**KEYWORDS:** #минобороны рф #минобороны #удар #сво #беспилотник #перехват #сф #часть #про
+
+
+## Russia Confirms Use of Armed Forces to Protect Citizens Arrested by Foreign Courts
+On May 25th, 2023, Russian President Vladimir Putin signed a law authorizing the use of the Russian Armed Forces to protect citizens arrested or prosecuted by foreign courts. This law allows for extraterritorial military action in instances where foreign judicial decisions are deemed not to comply with Russia's international treaties or UN Security Council resolutions. [16]
+
+**COMMENT:** This development indicates a significant escalation in Russia's readiness to assert its protectiveness over its citizens abroad, potentially increasing diplomatic tensions with other nations. In the near term, this may lead to more confrontational postures in international legal matters involving Russian nationals.
 
 **LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
-**KEYWORDS:** #россия #учения #удар #сф #про
+**KEYWORDS:** #россия #вооруженные силы рф #вс рф #удар #сво
 
 
-## Venäjän ulkoministeriö kutsuu NPT:n kansainvälisen turvallisuuden kivijalkana
-23. toukokuuta 2026 Venäjän ulkoministeriö korosti ydinaseiden leviämisen estämissopimusta (NPT) olennaiseksi kansainväliseen turvallisuuteen. Ministeriö kritisoi Israelin ja USA:n aggressiivista toimintaa Iraniin suhtautuen, mikä hidastaa tehokasta vuoropuhelua. [13]
+## Man Found Dead in Lipetsk Region After Disappearance with Son
+On May 22nd, 2023, a 43-year-old man named Alexei was discovered dead in the Lipetsk region with stab wounds, following his disappearance alongside his 18-year-old son. A criminal case has been opened for the murder of two individuals as searches for the son continue. [17]
 
-**COMMENT:** Tämä lausunto heijastaa Venäjän painotusta NPT:hen osana ulkopolitiikkaansa, erityisesti lännen kanssa käytävissä keskusteluissa turvallisuudesta ja ydinkysymyksistä.
+**COMMENT:** This incident raises concerns about potential violence and criminal activities in the Lipetsk region. The ongoing investigation may reveal deeper issues regarding safety and law enforcement effectiveness in the area.
+
+**LOCATION:** Lebedyansky District / Lebedyansky District, Unknown, Unknown
+
+**KEYWORDS:** #россия #сво #про
+
+
+## Russian Embassy Confirms Consular Access to Metropolitan Hilarion in Czech Republic
+On May 24th, 2023, the Russian Embassy in the Czech Republic confirmed that it received consular access to Metropolitan Hilarion of the Russian Orthodox Church following his detention for alleged drug possession. This incident occurred after he left the Orthodox Church of the Holy First Apostles Peter and Paul in Karlovy Vary, signaling potential diplomatic implications amid his legal issues abroad. [18]
+
+**COMMENT:** The provision of consular access indicates the Russian government's commitment to protecting its citizens abroad, even when facing serious allegations. This situation may impact Russia's diplomatic relations with the Czech Republic and could influence the handling of similar cases in the future.
+
+**LOCATION:** Karlovy Vary / Karlovy Vary, Unknown, Unknown
+
+**KEYWORDS:** #россия #российские #сво #про
+
+
+## Father and Son Detained on Suspicion of Murder in Lipetsk Region
+On May 25th, 2023, authorities in the Lipetsk region detained a father and son in connection with the murder of a man whose body was discovered in a forest area. The investigation follows the disappearance of the victims on May 22nd, during which relatives reported them missing after they failed to return home from Lipetsk. [19]
+
+**COMMENT:** This incident highlights ongoing issues related to violent crime in Russia, which may prompt increased scrutiny on family-related disputes. The investigation's outcome could influence local public safety perceptions and law enforcement strategies in the region.
+
+**LOCATION:** Lipetsk Oblast / Lipetsk Oblast, 52.6935178, 39.1122664 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.693518&mlon=39.112266#map=8/52.693518/39.112266)
+
+**KEYWORDS:** #россия #удар #про
+
+
+## Death Toll from UAV Attack on Ryazan Rises to Five
+On May 25th, 2023, the death toll from a UAV attack in Ryazan, attributed to the Armed Forces of Ukraine, increased to five, including an eight-year-old girl. The attack also resulted in damage to two high-rise buildings, prompting local authorities to respond to the incident. [20]
+
+**COMMENT:** The increase in casualties from this UAV attack underscores the ongoing security threats posed by cross-border military actions. Continued incidents of this nature may influence local and national security policies in Russia, particularly in related regions.
+
+**LOCATION:** Ryazan / Ryazan, 54.6295687, 39.7425039 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.629569&mlon=39.742504#map=8/54.629569/39.742504)
+
+**KEYWORDS:** #россия #удар #беспилотник #бпла #про
+
+
+## Russians' Confidence in Police Reaches Record Levels Since 2011
+On May 25th, 2026, Russian Minister of Internal Affairs Vladimir Kolokoltsev reported that public trust in law enforcement has hit a record high of 68%, the highest level since 2011, during the first meeting of the new Public Council under the Ministry. This increase in confidence is attributed to efforts in promoting dialogue between society and the police, while Kolokoltsev cautioned against potential disruptions from 'destructive forces' that threaten national stability. [21]
+
+**COMMENT:** The rising confidence in the police may indicate an effective state strategy to bolster public trust in authorities amid a challenging socio-political climate. In the near term, this could enhance the government's capacity to manage dissent and maintain internal stability through improved public perception of law enforcement.
 
 **LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
-**KEYWORDS:** #россия #учения #удар #сф #про
+**KEYWORDS:** #россия #удар #сво #сф #про
 
 
-## Venäjän armeija kohdistaa hyökkäyksiä Ukrainan sotilas-teollisiin ja energia-alan kohteisiin
-23. toukokuuta 2026 Venäjän asevoimat suorittavat operaatioita käyttäen ilmailua, droneja, raketti-tykistöä ja tykkitulella iskua Ukrainan sotilas-teollisiin kohteisiin ja energia-alan laitteisiin, jotka tukevat Ukrainan asevoimia. Tämä toiminta kuvastaa jatkuvia sotilaallisia sitoumuksia ja kohdistettuja iskuja. [14]
+## The Telegraph: Russia's Oreshnik Missile Cannot Be Intercepted
+On May 24th, 2026, The Telegraph reported that Russia’s Oreshnik missile, featuring high speed and a dividing warhead, cannot be intercepted, posing significant challenges for air defense systems. The report coincides with a recent Russian military response to Ukrainian attacks on civilian infrastructure, highlighting escalating tensions in the region. [22]
 
-**COMMENT:** Tämä tapahtuma osoittaa, kuinka intensiivisesti sotilasoperaatiot jatkuvat, ja kohdistuessaan Ukrainan infrastruktuuriin.
+**COMMENT:** The inability to intercept the Oreshnik missile indicates a potential shift in the dynamics of military engagement in the region, particularly regarding air defense capabilities. This development may prompt Ukraine and its allies to reassess their defensive strategies in light of these advanced missile systems.
 
-**LOCATION:** Ukraina / Ukraine [Click for Map Location]()
+**LOCATION:** Ukraina / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
 
-**KEYWORDS:** #вс россии #удар #про
+**KEYWORDS:** #вс рф #вс россии #российская армия #минобороны #корпус #удар #сво #перехват #армия #про
+
+
+## Putin Signs Law Allowing Use of Armed Forces to Protect Russians Arrested Abroad
+On May 25th, 2026, President Vladimir Putin signed a law that authorizes the Armed Forces of the Russian Federation to intervene on behalf of Russians arrested by foreign courts without Russian involvement. This legislation aims to safeguard the rights of Russian citizens facing prosecution abroad and establishes similar protective powers for the Russian government. [23]
+
+**COMMENT:** This law reflects a strategic shift in Russia's approach to protecting its citizens internationally, potentially enabling more assertive actions abroad. The implementation of such measures may indicate an increase in geopolitical tensions and could lead to heightened diplomatic confrontations in the future.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+
+**KEYWORDS:** #россия #вс рф #про
+
+
+## Russians' Confidence in Police Reaches Highest Level Since 2011
+On May 25th, 2026, Vladimir Kolokoltsev, head of the Ministry of Internal Affairs, announced that public trust in the police has reached a record high of 68%, according to a recent VTSIOM poll. This increase reflects significant efforts to enhance dialogue between society and law enforcement amid warnings of attempts by 'destructive forces' to destabilize the country. [24]
+
+**COMMENT:** The rising confidence in police may indicate a temporary stabilization in public sentiment towards state institutions. However, ongoing challenges posed by perceived external threats could impact this trend moving forward.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+
+**KEYWORDS:** #россия #удар #сво #сф #про
+
+
+## United Russia Sends 148,000 Tons of Humanitarian Supplies to SVO Zone
+On May 25th, 2026, the United Russia party announced the delivery of 148,000 tons of humanitarian supplies to the Special Military Operation (SVO) zone. This measure aims to support affected regions and underscore the party's commitment to aid efforts amidst ongoing conflicts. [25]
+
+**COMMENT:** This large-scale humanitarian initiative reflects the Russian state's sustained logistical capacity in support of military operations. Continued humanitarian efforts in conflict areas may serve to bolster domestic support for the government's ongoing military engagements.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+
+**KEYWORDS:** #россия #сво
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1091410?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1091637?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1091422?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1091613?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1091380?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1091585?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1091402?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1091690
 
-[5] interfax.ru - https://interfax.ru/russia/1091372?utm_source=top
+[5] interfax.ru - https://interfax.ru/russia/1091691
 
-[6] interfax.ru - https://interfax.ru/russia/1091427
+[6] interfax.ru - https://interfax.ru/russia/1091688
 
-[7] interfax.ru - https://interfax.ru/russia/1091423
+[7] interfax.ru - https://interfax.ru/russia/1091689
 
-[8] interfax.ru - https://interfax.ru/russia/1091422
+[8] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
 
-[9] interfax.ru - https://interfax.ru/russia/1091421
+[9] interfax.ru - https://interfax.ru/russia/1091684
 
-[10] aif.ru - https://aif.ru/politics/zaharova-mid-organizuet-dlya-korrespondentov-poseshchenie-mesta-tragedii-v-lnr
+[10] interfax.ru - https://interfax.ru/russia/1091682
 
-[11] www.vesti.ru - https://www.vesti.ru/ns/poyavilis-kadry-opoznaniya-pogibshikh-pri-udare-vsu-po-starobelsku
+[11] interfax.ru - https://interfax.ru/russia/1091681
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/v-moskve-6-letnego-rebenka-zasosalo-v-trubu-fontana
+[12] interfax.ru - https://interfax.ru/russia/1091680
 
-[13] iz.ru - https://iz.ru/2102568/2026-05-23/mid-rf-nazval-dniao-kraeugolnym-kamnem-mezhdunarodnoi-bezopasnosti
+[13] interfax.ru - https://interfax.ru/business/1091678
 
-[14] iz.ru - https://iz.ru/2102568/2026-05-23/mid-rf-nazval-dniao-kraeugolnym-kamnem-mezhdunarodnoi-bezopasnosti?main_click
+[14] aif.ru - https://aif.ru/society/army/vs-rf-osvobodili-dobropasovo-v-dnepropetrovskoy-oblasti
 
-[15] www.kp.ru - https://www.kp.ru/daily/277785.5/5252972/
+[15] aif.ru - https://aif.ru/society/stalo-izvestno-kakie-obekty-porazili-oreshnik-i-cirkon-na-ukraine
 
-[16] ria.ru - https://ria.ru/20260523/vs-2094251126.html
+[16] www.vesti.ru - https://www.vesti.ru/ns/vs-rf-budut-privlekat-dlya-zashchity-rossiyan-arestovannykh-inostrannymi-sudami
+
+[17] www.vesti.ru - https://www.vesti.ru/ns/shot-nazval-prichiny-gibeli-muzhchiny-propavshego-s-synom-v-lipeckoj-oblasti
+
+[18] www.vesti.ru - https://www.vesti.ru/ns/posolstvo-rf-podtverdilo-poluchenie-konsulskogo-dostupa-k-mitropolitu-ilarionu
+
+[19] www.vesti.ru - https://www.vesti.ru/ns/v-lipeckoj-oblasti-po-podozreniyu-v-ubijstve-muzhchiny-zaderzhany-ego-syn-i-znakomyj
+
+[20] www.vesti.ru - https://www.vesti.ru/ns/chislo-pogibshikh-pri-atake-bpla-na-ryazan-dostiglo-pyati
+
+[21] iz.ru - https://iz.ru/2103451/2026-05-25/uroven-doveriia-rossiian-k-politcii-dostig-rekordnykh-pokazatelei-s-2011-goda
+
+[22] iz.ru - https://iz.ru/2103443/2026-05-25/telegraph-nazvala-nevozmozhnym-perekhvat-oreshnika
+
+[23] iz.ru - https://iz.ru/2103460/2026-05-25/putin-podpisal-zakon-o-prave-privlekat-vs-rf-dlia-zashchity-arestovannykh-za-rubezhom?main_click
+
+[24] iz.ru - https://iz.ru/2103451/2026-05-25/uroven-doveriia-rossiian-k-politcii-dostig-rekordnykh-pokazatelei-s-2011-goda?main_click
+
+[25] ria.ru - https://ria.ru/20260525/er-2094552159.html
