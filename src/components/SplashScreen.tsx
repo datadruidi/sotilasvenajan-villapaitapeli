@@ -363,7 +363,6 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
 
   const toggleStoryAudio = () => {
     if (!storyAudioUrl) return
-    playButtonClick(muted)
     let audio = storyAudioRef.current
     if (!audio) {
       audio = new Audio(storyAudioUrl)

@@ -35,7 +35,6 @@ const CONTENT_TYPES: { id: ContentType; label: string; available: boolean }[] = 
   { id: 'venajan-asevoimat', label: '2. Sotilasorganisaatio', available: true },
   { id: 'tactical-signs', label: '3. Sotilasmerkistö', available: true },
   { id: 'ranks', label: '4. Sotilasarvot', available: true },
-  { id: 'memory-game', label: '5. Muistipeli', available: true },
 ]
 
 /** Sub-options under Venäjän asevoimat (same structure as before, just grouped) */
