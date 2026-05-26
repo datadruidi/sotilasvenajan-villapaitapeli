@@ -33,9 +33,12 @@ type InfoPage =
   | 'kalustokuvasto-maahanlaskujoukot'
   | 'kalustokuvasto-strategiset-ohjusjoukot'
   | 'short-story-weapons-and-ammunition'
+  | 'short-story-equipment-and-platforms'
   | null
 
-type StoryPage = Exclude<InfoPage, null> & 'short-story-weapons-and-ammunition'
+type StoryPage =
+  | 'short-story-weapons-and-ammunition'
+  | 'short-story-equipment-and-platforms'
 
 const EQUIPMENT_CATALOG_OPTIONS = [
   {
@@ -114,14 +117,17 @@ const SHORT_WAR_STORY_OPTIONS = [
     id: 'short-story-weapons-and-ammunition' as const,
     file: 'Part_1_Weapons_and_Ammunition.md',
     audioFile: 'Part_1_Weapons_and_Ammunition.mp3',
-    labelFi: 'Osa 1: Aseet ja ammukset',
-    labelEn: 'Part 1: Weapons and Ammunition',
+    labelFi: 'Osa 1: Tervetuloa SVO:hon',
+    labelEn: 'Part 1: Welcome to the SVO',
     available: true,
   },
   {
-    labelFi: 'Kalusto ja alustat',
-    labelEn: 'Equipment and Platforms',
-    available: false,
+    id: 'short-story-equipment-and-platforms' as const,
+    file: 'Part_2_Equipment_and_Platforms.md',
+    audioFile: 'Part_2_Equipment_and_Platforms.mp3',
+    labelFi: 'Osa 2: Paperitiikeri',
+    labelEn: 'Part 2: Paper Tiger',
+    available: true,
   },
   {
     labelFi: 'Organisaatiorakenne',
@@ -597,7 +603,7 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
               </div>
               <div className="splash-menu-buttons">
                 {SHORT_WAR_STORY_OPTIONS.map((option) => option.available && 'id' in option ? (
-                  <button key={option.labelEn} type="button" className="splash-info-btn" onClick={() => openInfoPage('short-story-weapons-and-ammunition')}>
+                  <button key={option.labelEn} type="button" className="splash-info-btn" onClick={() => openInfoPage(option.id as StoryPage)}>
                     {isEnglish ? option.labelEn : option.labelFi}
                   </button>
                 ) : (
