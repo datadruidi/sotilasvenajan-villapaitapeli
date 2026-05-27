@@ -14,7 +14,7 @@
 
 ---
 
-**Thank You for listening. Next we start the sentence by sentence description of the story.**
+**Thank You for reading. Next we start the sentence by sentence description of the story.**
 
 ----
 

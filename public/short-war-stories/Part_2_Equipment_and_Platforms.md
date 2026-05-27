@@ -14,7 +14,7 @@ This is a story of Private Ivan’s second day near the frontline in Ukraine. He
 
 ---
 
-**Thank You for listening. Next we start the sentence by sentence description of the story.**
+**Thank You for reading. Next we start the sentence by sentence description of the story.**
 
 ----
 

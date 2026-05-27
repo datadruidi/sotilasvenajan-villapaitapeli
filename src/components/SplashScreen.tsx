@@ -34,11 +34,13 @@ type InfoPage =
   | 'kalustokuvasto-strategiset-ohjusjoukot'
   | 'short-story-weapons-and-ammunition'
   | 'short-story-equipment-and-platforms'
+  | 'short-story-organization-structure'
   | null
 
 type StoryPage =
   | 'short-story-weapons-and-ammunition'
   | 'short-story-equipment-and-platforms'
+  | 'short-story-organization-structure'
 
 const EQUIPMENT_CATALOG_OPTIONS = [
   {
@@ -130,9 +132,12 @@ const SHORT_WAR_STORY_OPTIONS = [
     available: true,
   },
   {
-    labelFi: 'Organisaatiorakenne',
-    labelEn: 'Organization Structure',
-    available: false,
+    id: 'short-story-organization-structure' as const,
+    file: 'Part_3_Organization_Structure.md',
+    audioFile: 'Part_3_Organization_Structure.mp3',
+    labelFi: 'Osa 3: Iso armeija, pieni soppa',
+    labelEn: 'Part 3: Big Army, Small Soup',
+    available: true,
   },
   {
     labelFi: 'Koulutus ja teht\u00E4v\u00E4t',
