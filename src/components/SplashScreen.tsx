@@ -491,13 +491,13 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
         </div>
         <div className="splash-buttons">
           <button type="button" className="splash-play-btn" onClick={onPlay}>
-            {isEnglish ? 'Play the Military Quiz' : 'Pelaa sotilastietovisaa'}
+            {isEnglish ? 'Play Military Quiz' : 'Pelaa sotilastietovisaa'}
           </button>
           <button type="button" className="splash-info-btn" onClick={onPlayMemoryGame}>
             {isEnglish ? 'Play Military Memory Game' : 'Pelaa sotilasmuistipeli\u00E4'}
           </button>
           <button type="button" className="splash-info-btn splash-primary-btn" onClick={openShortStoriesMenu}>
-            {isEnglish ? 'Listen to Short War Stories' : 'Kuuntele lyhyit\u00E4 sotatarinoita'}
+            {isEnglish ? 'Short War Stories' : 'Lyhyit\u00E4 sotatarinoita'}
           </button>
           <button type="button" className="splash-info-btn splash-primary-btn" onClick={onOpenDailyBrief}>
             {isEnglish ? 'Daily OSINT Brief' : 'P\u00E4ivitt\u00E4inen OSINT-katsaus'}
