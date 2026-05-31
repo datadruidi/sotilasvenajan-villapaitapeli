@@ -4,16 +4,16 @@
  * Do not edit by hand; re-run the script after adding or renaming images.
  */
 export const STRATEGIC_MISSILE_FORCES_IMAGE_PATHS: string[] = [
-  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/avangard/avangard-01.png",
-  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rs-24-yars/rs-24-yars-01.png",
-  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rs-24-yars/rs-24-yars-02.png",
-  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rs-28-sarmat/rs-28-sarmat-01.png",
-  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rs-28-sarmat/rs-28-sarmat-02.png",
-  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rt-2pm-topol/rt-2pm-topol-01.png",
-  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rt-2pm-topol/rt-2pm-topol-02.png",
-  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rt-2pm2-topol-m/rt-2pm2-topol-m-01.png",
-  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rt-2pm2-topol-m/rt-2pm2-topol-m-02.png",
-  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/ss-18-r-36m2-voyevoda/ss-18-r-36m2-voyevoda-01.png",
-  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/ur-100nuttkh/ur-100nuttkh-01.png",
-  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/ur-100nuttkh/ur-100nuttkh-02.png"
+  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/avangard/avangard-01.jpg",
+  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rs-24-yars/rs-24-yars-01.jpg",
+  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rs-24-yars/rs-24-yars-02.jpg",
+  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rs-28-sarmat/rs-28-sarmat-01.jpg",
+  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rs-28-sarmat/rs-28-sarmat-02.jpg",
+  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rt-2pm-topol/rt-2pm-topol-01.jpg",
+  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rt-2pm-topol/rt-2pm-topol-02.jpg",
+  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rt-2pm2-topol-m/rt-2pm2-topol-m-01.jpg",
+  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/rt-2pm2-topol-m/rt-2pm2-topol-m-02.jpg",
+  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/ss-18-r-36m2-voyevoda/ss-18-r-36m2-voyevoda-01.jpg",
+  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/ur-100nuttkh/ur-100nuttkh-01.jpg",
+  "/assets/suorituskyvyt/04-strategiset-ohjusjoukot/ur-100nuttkh/ur-100nuttkh-02.jpg"
 ]

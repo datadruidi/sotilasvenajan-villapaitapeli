@@ -4,16 +4,16 @@
  * Do not edit by hand; re-run the script after adding or renaming images.
  */
 export const AIRBORNE_FORCES_IMAGE_PATHS: string[] = [
-  "/assets/suorituskyvyt/05-maahanlaskujoukot/2s25-sprut-sd/2s25-sprut-sd-01.png",
-  "/assets/suorituskyvyt/05-maahanlaskujoukot/2s25-sprut-sd/2s25-sprut-sd-02.png",
-  "/assets/suorituskyvyt/05-maahanlaskujoukot/2s9-nona-s/2s9-nona-s-01.png",
-  "/assets/suorituskyvyt/05-maahanlaskujoukot/2s9-nona-s/2s9-nona-s-02.png",
-  "/assets/suorituskyvyt/05-maahanlaskujoukot/bmd-2/bmd-2-01.png",
-  "/assets/suorituskyvyt/05-maahanlaskujoukot/bmd-2/bmd-2-02.png",
-  "/assets/suorituskyvyt/05-maahanlaskujoukot/bmd-4m/bmd-4m-01.png",
-  "/assets/suorituskyvyt/05-maahanlaskujoukot/bmd-4m/bmd-4m-02.png",
-  "/assets/suorituskyvyt/05-maahanlaskujoukot/btr-d/btr-d-01.png",
-  "/assets/suorituskyvyt/05-maahanlaskujoukot/btr-d/btr-d-02.png",
-  "/assets/suorituskyvyt/05-maahanlaskujoukot/btr-mdm-rakushka/btr-mdm-rakushka-01.png",
-  "/assets/suorituskyvyt/05-maahanlaskujoukot/btr-mdm-rakushka/btr-mdm-rakushka-02.png"
+  "/assets/suorituskyvyt/05-maahanlaskujoukot/2s25-sprut-sd/2s25-sprut-sd-01.jpg",
+  "/assets/suorituskyvyt/05-maahanlaskujoukot/2s25-sprut-sd/2s25-sprut-sd-02.jpg",
+  "/assets/suorituskyvyt/05-maahanlaskujoukot/2s9-nona-s/2s9-nona-s-01.jpg",
+  "/assets/suorituskyvyt/05-maahanlaskujoukot/2s9-nona-s/2s9-nona-s-02.jpg",
+  "/assets/suorituskyvyt/05-maahanlaskujoukot/bmd-2/bmd-2-01.jpg",
+  "/assets/suorituskyvyt/05-maahanlaskujoukot/bmd-2/bmd-2-02.jpg",
+  "/assets/suorituskyvyt/05-maahanlaskujoukot/bmd-4m/bmd-4m-01.jpg",
+  "/assets/suorituskyvyt/05-maahanlaskujoukot/bmd-4m/bmd-4m-02.jpg",
+  "/assets/suorituskyvyt/05-maahanlaskujoukot/btr-d/btr-d-01.jpg",
+  "/assets/suorituskyvyt/05-maahanlaskujoukot/btr-d/btr-d-02.jpg",
+  "/assets/suorituskyvyt/05-maahanlaskujoukot/btr-mdm-rakushka/btr-mdm-rakushka-01.jpg",
+  "/assets/suorituskyvyt/05-maahanlaskujoukot/btr-mdm-rakushka/btr-mdm-rakushka-02.jpg"
 ]

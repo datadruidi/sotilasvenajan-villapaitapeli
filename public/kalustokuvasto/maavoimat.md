@@ -4,7 +4,7 @@
 
 ### BMO-T
 #### Kalustokuva
-![BMO-T](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmo-t/bmo-t-01.png)
+![BMO-T](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmo-t/bmo-t-01.jpg)
 
 #### Kalustokuvaus
 Raskas liekinheitinjoukkojen kuljetus- ja taistelutukiajoneuvo, joka perustuu T-72-alustaan ja on tarkoitettu erityisesti RPO-sarjan aseistettuja joukkueita varten. Jarjestelma painottaa suojaa ja kykya kuljettaa hyokkaysosasto panssaritaistelun valittomaan laheisyyteen.
@@ -26,7 +26,7 @@ Ajoneuvo ei korvaa varsinaista IFV:ta, koska sen paarooli on suojattu kuljetus e
 
 ### BMP-1
 #### Kalustokuva
-![BMP-1](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-1/bmp-1-01.png)
+![BMP-1](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-1/bmp-1-01.jpg)
 
 #### Kalustokuvaus
 Varhaisen sukupolven jalkavaen taisteluajoneuvo, joka yhdistaa miehiston kuljetuksen, rajallisen panssarisuojan ja orgaanisen tulituen. Jarjestelma mahdollistaa mekanisoidun jalkavaen etenemisen panssarivaunujen mukana, mutta sen suoja- ja tulivoimataso on nykyymparistossa vanhentunut.
@@ -49,9 +49,9 @@ Suoja on heikko nykyaikaisia pst-aseita, tykiston sirpalevaikutusta ja drone-uhk
 
 ### BMP-2
 #### Kalustokuva
-![BMP-2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-2/bmp-2-01.png)
-![BMP-2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-2/bmp-2-02.png)
-![BMP-2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-2/bmp-2-03.png)
+![BMP-2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-2/bmp-2-01.jpg)
+![BMP-2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-2/bmp-2-02.jpg)
+![BMP-2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-2/bmp-2-03.jpg)
 
 #### Kalustokuvaus
 Toisen sukupolven jalkavaen taisteluajoneuvo, joka paransi BMP-1:n tulivoimaa erityisesti korkeakulmaisen 30 mm automaattikanuunan avulla. Jarjestelma mahdollistaa jalkavaen kuljetuksen ja tulituen myos ilmamaaleja, kevyita ajoneuvoja ja rakennettuja kohteita vastaan paremmin kuin BMP-1.
@@ -75,9 +75,9 @@ Panssarointi ja miinasuoja ovat riittamattomia korkean uhan ymparistossa. Havait
 
 ### BMP-3
 #### Kalustokuva
-![BMP-3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-3/bmp-3-01.png)
-![BMP-3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-3/bmp-3-02.png)
-![BMP-3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-3/bmp-3-03.png)
+![BMP-3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-3/bmp-3-01.jpg)
+![BMP-3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-3/bmp-3-02.jpg)
+![BMP-3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-3/bmp-3-03.jpg)
 
 #### Kalustokuvaus
 Raskaammin aseistettu jalkavaen taisteluajoneuvo, joka yhdistaa 100 mm matalapaineaseen, 30 mm automaattikanuunan ja ohjuskyvyn yhteen torniin. Jarjestelma mahdollistaa joustavan tulituen jalkavakea, kevyita panssarimaaleja, linnoitteita ja tietyissa versioissa myos panssarivaunuja vastaan.
@@ -102,7 +102,7 @@ Vaikka tulivoima on korkea, suojataso ei tee siita raskasta IFV:ta. Monimutkaine
 
 ### BMPT Terminator
 #### Kalustokuva
-![BMPT Terminator](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmpt-terminator/bmpt-terminator-01.png)
+![BMPT Terminator](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmpt-terminator/bmpt-terminator-01.jpg)
 
 #### Kalustokuvaus
 Panssarivaunujen tukiajoneuvo, joka on suunniteltu erityisesti suojaamaan panssariosastoja lahitorjuntauhkilta, jalkavaelta ja kevyilta ajoneuvoilta. Jarjestelma mahdollistaa korkean tulitiheyden useilla asejarjestelmilla yhta aikaa ilman, etta kaytetaan varsinaista jalkavaen kuljetustilaa.
@@ -125,7 +125,7 @@ Jarjestelma ei kuljeta jalkavakea, joten se ei korvaa IFV:ta eika poista tarvett
 
 ### BTR-50
 #### Kalustokuva
-![BTR-50](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-50/btr-50-01.png)
+![BTR-50](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-50/btr-50-01.jpg)
 
 #### Kalustokuvaus
 Vanha telakuorma-alustainen miehistonkuljetusajoneuvo, jonka vahvuus on yksinkertainen rakenne ja amfibinen liikkuvuus. Jarjestelma mahdollistaa joukkojen ja kevyen kuorman siirron vaikeakulkuisessa maastossa, mutta ei tarjoa nykyaikaista suojaa.
@@ -147,7 +147,7 @@ Suoja, ergonomia ja tulivoima ovat heikkoja. Ajoneuvo on erittain haavoittuva pa
 
 ### BTR-60
 #### Kalustokuva
-![BTR-60](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-60/btr-60-01.png)
+![BTR-60](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-60/btr-60-01.jpg)
 
 #### Kalustokuvaus
 Ensimmaisen sukupolven 8x8-pyoraalustainen miehistonkuljetusajoneuvo, joka toi neuvostokalustoon hyvan strategisen liikkuvuuden ja amfibisen kyvyn. Jarjestelma mahdollistaa joukkojen nopean siirron, mutta sen suojaus ja ergonomia ovat selvasti vanhentuneita.
@@ -169,7 +169,7 @@ Polttomoottoriratkaisu, ohut panssarointi ja heikko miinasuoja tekevat ajoneuvos
 
 ### BTR-70
 #### Kalustokuva
-![BTR-70](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-70/btr-70-01.png)
+![BTR-70](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-70/btr-70-01.jpg)
 
 #### Kalustokuvaus
 BTR-60:n kehitysversio, jossa pyrittiin parantamaan liikkuvuutta ja osin taistelunkestavyytta. Jarjestelma mahdollistaa edelleen kevyen mekanisoidun jalkavaen liikkuvuuden, mutta suoja- ja kayttomukavuusongelmat sailyvat.
@@ -191,9 +191,9 @@ Kaksimoottorijarjestelma, heikko miinasuoja ja vaikea poistuminen tekevat siita 
 
 ### BTR-82A
 #### Kalustokuva
-![BTR-82A](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-82a/btr-82a-01.png)
-![BTR-82A](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-82a/btr-82a-02.png)
-![BTR-82A](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-82a/btr-82a-03.png)
+![BTR-82A](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-82a/btr-82a-01.jpg)
+![BTR-82A](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-82a/btr-82a-02.jpg)
+![BTR-82A](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-82a/btr-82a-03.jpg)
 
 #### Kalustokuvaus
 BTR-80-perheen modernisoitu versio, jossa on parempi 30 mm aseistus, uusi voimansiirto ja parannettu sisainen suojaus. Jarjestelma mahdollistaa pyoraalustaisen jalkavaen siirron ja tulituen modernimpana ratkaisuna kuin vanhat BTR-60/70-sarjat.
@@ -215,7 +215,7 @@ Suoja ei riita korkean uhan panssaritaisteluun eika miina-/IED-ymparistoon raska
 
 ### BTR-90
 #### Kalustokuva
-![BTR-90](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-90/btr-90-01.png)
+![BTR-90](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-90/btr-90-01.jpg)
 
 #### Kalustokuvaus
 Raskaampi ja kunnianhimoisempi BTR-kehityslinja, jonka tarkoitus oli nostaa pyoraalustaisen miehistonkuljetusajoneuvon tulivoimaa ja liikkuvuutta. Jarjestelma mahdollistaa paremman tulituen kuin aiemmat BTR-sarjat, mutta sita valmistettiin rajallisesti.
@@ -238,7 +238,7 @@ Rajallinen tuotanto ja kaytto vahentavat operatiivista merkitysta. Se ei ratkais
 
 ### Kamaz Typhoon
 #### Kalustokuva
-![Kamaz Typhoon](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/kamaz-typhoon/kamaz-typhoon-01.png)
+![Kamaz Typhoon](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/kamaz-typhoon/kamaz-typhoon-01.jpg)
 
 #### Kalustokuvaus
 MRAP-tyyppinen suojattu pyoraajoneuvo, joka on suunniteltu henkiloston kuljetukseen miina- ja vaijytysuhkien ymparistossa. Jarjestelma mahdollistaa turvallisemman liikkeen tieverkossa ja toissijaisilla reiteilla verrattuna vanhempiin APC-ratkaisuihin.
@@ -260,7 +260,7 @@ Korkea profiili ja rajallinen maastokelpoisuus suhteessa telakalustoon rajoittav
 
 ### KAMAZ-5350-379
 #### Kalustokuva
-![KAMAZ-5350-379](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/kamaz-5350-379/kamaz-5350-379-01.png)
+![KAMAZ-5350-379](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/kamaz-5350-379/kamaz-5350-379-01.jpg)
 
 #### Kalustokuvaus
 Sotilaskuorma-autoalusta, jota kaytetaan joukko-, huolto- ja erikoisjarjestelmien kantolavana. Jarjestelma mahdollistaa logistisen liikkuvuuden ja toimii monien ase- ja johtamisjarjestelmien perusalustana.
@@ -282,9 +282,9 @@ Ballistinen suoja on perusversioissa vahainen tai olematon. Ajoneuvo tarvitsee s
 
 ### MT-LB
 #### Kalustokuva
-![MT-LB](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/mt-lb/mt-lb-01.png)
-![MT-LB](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/mt-lb/mt-lb-02.png)
-![MT-LB](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/mt-lb/mt-lb-03.png)
+![MT-LB](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/mt-lb/mt-lb-01.jpg)
+![MT-LB](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/mt-lb/mt-lb-02.jpg)
+![MT-LB](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/mt-lb/mt-lb-03.jpg)
 
 #### Kalustokuvaus
 Monikayttoinen kevyt telakuorma-ajoneuvo, jota kaytetaan kuljetukseen, vetoon, johtamiseen ja lukemattomien erikoisjarjestelmien alustana. Jarjestelma mahdollistaa hyvan maastoliikkuvuuden ja amfibisen kayton, mutta suoja- ja ergonomiataso ovat kevyita.
@@ -305,7 +305,7 @@ Kevyt panssarointi tekee ajoneuvosta haavoittuvan lahes kaikille nykyaikaisille 
 
 ### SBA-60K2 Bulat
 #### Kalustokuva
-![SBA-60K2 Bulat](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/sba-60k2-bulat/sba-60k2-bulat-01.png)
+![SBA-60K2 Bulat](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/sba-60k2-bulat/sba-60k2-bulat-01.jpg)
 
 #### Kalustokuvaus
 Suojattu pyoraalustainen joukkoajoneuvo, joka sijoittuu APC- ja MRAP-ratkaisujen valiin. Jarjestelma mahdollistaa henkiloston kuljetuksen paremman miina- ja ballistisen suojan turvin kuin vanhat BTR-sarjat tietyissa tehtavissa.
@@ -327,7 +327,7 @@ Raskas rakenne heikentaa maastoliikkuvuutta suhteessa telakalustoon. Suojataso e
 
 ### T-54/T-55
 #### Kalustokuva
-![T-54/T-55](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-54/t-54-01.png)
+![T-54/T-55](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-54/t-54-01.jpg)
 
 #### Kalustokuvaus
 Kylman sodan panssarivaunuperhe, jota on kaytetty erittain laajasti eri maiden asevoimissa ja myohemmin myos modernisoitu moniin tukirooleihin. Jarjestelma mahdollistaa edelleen tulituen ja panssarivaunutehtavat matalamman uhan ymparistossa, mutta perusrakenne on vanhentunut.
@@ -349,7 +349,7 @@ Suoja, pimeatoiminta, ergonomia ja ampumajohto jaavat kauas nykyaikaisista MBT-j
 
 ### T-62
 #### Kalustokuva
-![T-62](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-62/t-62-01.png)
+![T-62](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-62/t-62-01.jpg)
 
 #### Kalustokuvaus
 Varhaisen kylman sodan jalkipuoliskon panssarivaunu, joka toi kayttoon 115 mm sileaputkisen paaaseen mutta jai muuten myohempien MBT-sukupolvien varjoon. Jarjestelma mahdollistaa edelleen suoran tulituen ja panssaroidun massan lisaamisen, erityisesti toissijaisilla rintamilla.
@@ -371,7 +371,7 @@ Suojaus ja sensorit jaavat selvasti jalkeen T-72B3/T-80BVM/T-90M -tasosta. Ajone
 
 ### T-64
 #### Kalustokuva
-![T-64](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-64/t-64-01.png)
+![T-64](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-64/t-64-01.jpg)
 
 #### Kalustokuvaus
 Neuvostoliiton teknisesti edistyksellinen mutta monimutkainen panssarivaunu, joka toimi myohempien T-72- ja T-80-sukupolvien kehityspohjana. Jarjestelma mahdollistaa edelleen MBT-tason tulivoiman, mutta kaytettavyys ja yllapito ovat haastavampia kuin uudemmissa ratkaisuissa.
@@ -393,9 +393,9 @@ Huoltoherkkyys, vanhentuneet sensorit ja suojaus heikentavat selviytymista nykyt
 
 ### T-72B3
 #### Kalustokuva
-![T-72B3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-72b3/t-72b3-01.png)
-![T-72B3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-72b3/t-72b3-02.png)
-![T-72B3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-72b3/t-72b3-03.png)
+![T-72B3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-72b3/t-72b3-01.jpg)
+![T-72B3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-72b3/t-72b3-02.jpg)
+![T-72B3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-72b3/t-72b3-03.jpg)
 
 #### Kalustokuvaus
 Venajan laajasti kayttama modernisoitu T-72-versio, jossa painopiste on parannetussa tahtaimessa, palonhallinnassa ja osin suojassa. Jarjestelma mahdollistaa edelleen massamaisen MBT-kyvyn suhteellisen kustannustehokkaasti.
@@ -418,9 +418,9 @@ Perusrakenne on vanha, ja miehiston suojaus ammusjarjestelyjen vuoksi on rajoitt
 
 ### T-80BVM
 #### Kalustokuva
-![T-80BVM](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-80bvm/t-80bvm-01.png)
-![T-80BVM](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-80bvm/t-80bvm-02.png)
-![T-80BVM](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-80bvm/t-80bvm-03.png)
+![T-80BVM](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-80bvm/t-80bvm-01.jpg)
+![T-80BVM](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-80bvm/t-80bvm-02.jpg)
+![T-80BVM](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-80bvm/t-80bvm-03.jpg)
 
 #### Kalustokuvaus
 Kaasuturbiinikayttoinen modernisoitu T-80-versio, jonka vahvuus on hyva liikkuvuus, kylmakelpoisuus ja parannettu suojaus. Jarjestelma mahdollistaa nopean panssarivaunutoiminnan erityisesti olosuhteissa, joissa liikkeen ja kiihtyvyyden merkitys korostuu.
@@ -442,8 +442,8 @@ Polttoaineenkulutus ja huoltotarve ovat korkeammat kuin dieselpohjaisessa kalust
 
 ### T-90M
 #### Kalustokuva
-![T-90M](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-90m/t-90m-01.png)
-![T-90M](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-90m/t-90m-02.png)
+![T-90M](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-90m/t-90m-01.jpg)
+![T-90M](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-90m/t-90m-02.jpg)
 
 #### Kalustokuvaus
 Venajan nykyisen MBT-kehityslinjan kehittyneimpiin kuuluva sarjaversio, jossa yhdistyvat parempi suojaus, sensorit ja miehiston tilannetietoisuus. Jarjestelma mahdollistaa aiempaa tehokkaamman tulenkayton, havaintokyvyn ja selviytymisen verrattuna vanhempiin T-72/T-80-modernisointeihin.
@@ -466,7 +466,7 @@ Vaikka T-90M on kehittynyt, se ei ole immuuni ylasektorin iskuaseille, pst-ohjuk
 
 ### Ural Typhoon
 #### Kalustokuva
-![Ural Typhoon](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/ural-typhoon/ural-typhoon-01.png)
+![Ural Typhoon](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/ural-typhoon/ural-typhoon-01.jpg)
 
 #### Kalustokuvaus
 Ural-alustainen MRAP/suojattu kuljetusajoneuvo, jonka tehtava on henkiloston turvallisempi kuljetus epasymmetrisessa uhkaymparistossa. Jarjestelma mahdollistaa paremman miina- ja vaijytyssuojan kuin perinteiset kuorma-autot ja vanhat APC-ratkaisut tietyissa tehtavissa.
@@ -490,7 +490,7 @@ Rakenne on vahemman sopiva suoraan etulinjan panssaritaisteluun kuin telakalusto
 
 ### 1L122 Garmony
 #### Kalustokuva
-![1L122 Garmony](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/1l122-garmony/1l122-garmony-01.png)
+![1L122 Garmony](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/1l122-garmony/1l122-garmony-01.jpg)
 
 #### Kalustokuvaus
 Kevyt tai siirrettava ilmavalvontatutka, jonka rooli on matalan ja keskitason ilmatilannekuvan tuottaminen eteen tyonnetyille joukoille. Jarjestelma mahdollistaa varhaisen varoituksen erityisesti matalalla lentavista ilma-aluksista ja UAV-kohteista.
@@ -511,7 +511,7 @@ Pieni tai keskitason kantama rajoittaa peittoa ilman hajautettua verkkoa. Tutka 
 
 ### 9s15 Obzor 01
 #### Kalustokuva
-![9s15 Obzor 01](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/9s15-obzor-01/9s15-obzor-01-01.png)
+![9s15 Obzor 01](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/9s15-obzor-01/9s15-obzor-01-01.jpg)
 
 #### Kalustokuvaus
 S-300V-perheen taistelunjohtoon liittyva valvontatutka, jonka tehtava on laajan ilmatilannekuvan muodostaminen ja maalien osoittaminen. Jarjestelma mahdollistaa ilmatorjuntajoukon tilannekuvan ja pitkan kantaman torjunnan ennakkovalmistelun.
@@ -532,7 +532,7 @@ Suurikokoinen tutkajarjestelma on nakyva ja arvokas maali. Vaikuttaminen sahkoso
 
 ### BRDM-2
 #### Kalustokuva
-![BRDM-2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/brdm-2/brdm-2-01.png)
+![BRDM-2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/brdm-2/brdm-2-01.jpg)
 
 #### Kalustokuvaus
 Kevyt 4x4-amfibinen tiedusteluajoneuvo, jonka vahvuus on liikkuvuus, pieni koko ja soveltuvuus partiointiin. Jarjestelma mahdollistaa tiedustelu-, vartiointi- ja kevyen turvallisuustehtavan, mutta ei kesta modernia tulivaikutusta.
@@ -554,7 +554,7 @@ Suoja ja sensorit ovat nykyaikaan nahden vaatimattomat. Ajoneuvo on erityisen ha
 
 ### BRM-1K
 #### Kalustokuva
-![BRM-1K](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/brm-1k/brm-1k-01.png)
+![BRM-1K](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/brm-1k/brm-1k-01.jpg)
 
 #### Kalustokuvaus
 BMP-1-alustainen tiedusteluajoneuvo, johon on integroitu tiedustelusensoreita ja lisaviestivalineita. Jarjestelma mahdollistaa tiedustelun etulinjan tuntumassa paremman maastokelpoisuuden ja sensorituen avulla kuin BRDM-2-tyyppinen ajoneuvo.
@@ -575,7 +575,7 @@ Sensori- ja suojataso on nykyaikaan nahden vaatimaton. Ajoneuvo joutuu toimimaan
 
 ### K-612-O / KDKhR-1N
 #### Kalustokuva
-![K-612-O / KDKhR-1N](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/k-612-o-kdkhr-1n/k-612-o-kdkhr-1n-01.png)
+![K-612-O / KDKhR-1N](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/k-612-o-kdkhr-1n/k-612-o-kdkhr-1n-01.jpg)
 
 #### Kalustokuvaus
 Kemialliseen, biologiseen ja sateilytiedusteluun tarkoitettu erikoisajoneuvo, joka tuottaa havaintoja saastuneista alueista ja tukee joukkojen suojautumista. Jarjestelma mahdollistaa CBRN-ympariston tunnistamisen ja reittien, kohteiden tai vaikutusalueiden arvioinnin.
@@ -596,7 +596,7 @@ Avoin lahdeaineisto yksityiskohdista on niukkaa. Jarjestelma on erikoisalusta, j
 
 ### Nebo-SV/S / Nebo-M
 #### Kalustokuva
-![Nebo-SV/S / Nebo-M](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/nebo-sv-s-nebo-m/nebo-sv-s-nebo-m-01.png)
+![Nebo-SV/S / Nebo-M](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/nebo-sv-s-nebo-m/nebo-sv-s-nebo-m-01.jpg)
 
 #### Kalustokuvaus
 Monitaajuus- ja pitkan kantaman ilmavalvontatutkaperhe, jonka tehtava on tuottaa laaja ilmatilannekuva myos vaikeasti havaittavista kohteista. Jarjestelma mahdollistaa kerroksellisen ilmatorjunnan varhaisen varoituksen ja maalinosoituksen laajalla alueella.
@@ -617,7 +617,7 @@ Suuri koko, korkea sahkomagneettinen nakyvyys ja riippuvuus verkotuksesta tekeva
 
 ### Zoopark-1
 #### Kalustokuva
-![Zoopark-1](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/zoopark-1/zoopark-1-01.png)
+![Zoopark-1](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/zoopark-1/zoopark-1-01.jpg)
 
 #### Kalustokuvaus
 Vastatykisto- ja maalinosoitustutka, joka on tarkoitettu paikantamaan kranaatinheittimien, putkitykiston, raketinheittimien ja joidenkin ohjuslaukaisujen tuliasemia. Jarjestelma mahdollistaa nopean vastatykistovaikuttamisen ja tuliyksikoiden suojan varhaisella varoituksella.
@@ -640,7 +640,7 @@ Tutkan oma sateily tekee siita havaittavan ja altistaa vastatoimille. Hajautus, 
 
 ### 1L267 Moskva-1
 #### Kalustokuva
-![1L267 Moskva-1](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/1l267-moskva-1/1l267-moskva-1-01.png)
+![1L267 Moskva-1](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/1l267-moskva-1/1l267-moskva-1-01.jpg)
 
 #### Kalustokuvaus
 Passiivinen tai paaosin passiivisiin sensoreihin nojaava EW-/ilmatilannejarjestelma, joka on tarkoitettu havaitsemaan, seuraamaan ja tukemaan ilmauhkaan vaikuttamista ilman jatkuvaa omaa sateilya. Jarjestelma mahdollistaa laajan ilmatilannekuvan ja tukee muita ilmatorjunta- tai hairintajarjestelmia.
@@ -660,7 +660,7 @@ Jarjestelma ei yksin tuota torjuntavaikutusta, vaan tarvitsee kytkennan muihin a
 
 ### 1L269 Krasukha-2
 #### Kalustokuva
-![1L269 Krasukha-2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/1l269-krasukha-2/1l269-krasukha-2-01.png)
+![1L269 Krasukha-2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/1l269-krasukha-2/1l269-krasukha-2-01.jpg)
 
 #### Kalustokuvaus
 Pitkan kantaman elektronisen hairinnan jarjestelma, jonka tehtava on vaikuttaa erityisesti ilmavalvonta- ja tiedustelujarjestelmiin. Jarjestelma mahdollistaa vastapuolen sensoriketjun hairinnan operatiivisella syvyydella.
@@ -681,7 +681,7 @@ Avoin lahdeaineisto yksityiskohdista on rajallinen ja osin propagandavaritteinen
 
 ### 1RL257 Krasukha-4
 #### Kalustokuva
-![1RL257 Krasukha-4](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/1rl257-krasukha-41rl257-krasukha-4/1rl257-krasukha-41rl257-krasukha-4-01.png)
+![1RL257 Krasukha-4](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/1rl257-krasukha-41rl257-krasukha-4/1rl257-krasukha-41rl257-krasukha-4-01.jpg)
 
 #### Kalustokuvaus
 Laajakaistainen liikkuva hairintajarjestelma, jonka tarkoitus on hairita tutkia, tiedustelujarjestelmia ja joitakin satelliitti- tai ilma-alustaisia sensoreita. Jarjestelma mahdollistaa vastapuolen ISR- ja tarkkuusaseketjun heikentamisen erityisesti operatiivisella tasolla.
@@ -701,7 +701,7 @@ Hairintajarjestelmat voivat paljastaa sijaintinsa emissioiden kautta. Vaikutus e
 
 ### Borisoglebsk 2
 #### Kalustokuva
-![Borisoglebsk 2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/borisoglebsk-2/borisoglebsk-2-01.png)
+![Borisoglebsk 2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/borisoglebsk-2/borisoglebsk-2-01.jpg)
 
 #### Kalustokuvaus
 Monialustainen taktisen tason EW-jarjestelma, joka on tarkoitettu viesti- ja radioverkkojen hairintaan seka signaalitiedusteluun. Jarjestelma mahdollistaa useiden taajuusalueiden samanaikaisen seurannan ja hairinnan liikkuvassa taistelussa.
@@ -721,7 +721,7 @@ Vaikutus on taajuus-, maasto- ja kohderiippuvainen. Jarjestelma tarvitsee osaava
 
 ### Leer-2
 #### Kalustokuva
-![Leer-2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/leer-2/leer-2-01.png)
+![Leer-2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/leer-2/leer-2-01.jpg)
 
 #### Kalustokuvaus
 Kevyempi liikkuva EW-ajoneuvo, jonka rooli on radio- ja viestiliikenteeseen vaikuttaminen taktisen tason ymparistossa. Jarjestelma mahdollistaa paikallisen hairinnan ja signaalitiedustelun erityisesti liikkuvia maajoukkoja tukien.
@@ -742,7 +742,7 @@ Avoin lahdeaineisto on melko niukkaa, mika rajoittaa yksityiskohtaista arviota. 
 
 ### R-330Zh Zhitel / R-330M1P "Diabazol"
 #### Kalustokuva
-![R-330Zh Zhitel / R-330M1P "Diabazol"](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/r-330zh-zhitel-r-330m1p-diabazol/r-330zh-zhitel-r-330m1p-diabazol-01.png)
+![R-330Zh Zhitel / R-330M1P "Diabazol"](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/r-330zh-zhitel-r-330m1p-diabazol/r-330zh-zhitel-r-330m1p-diabazol-01.jpg)
 
 #### Kalustokuvaus
 Matkapuhelin-, satelliitti- ja radioviestinnan hairintaan seka suuntimiseen tarkoitettu EW-jarjestelma. Jarjestelma mahdollistaa viestiliikenteen katkaisun, kohteiden paikannuksen ja elektronisen tilanteen hallinnan taktisen-operatiivisella rajapinnalla.
@@ -764,7 +764,7 @@ Hairinnan teho riippuu vastapuolen taajuushallinnasta, varayhteyksista ja signaa
 
 ### RB-341V Leer-3
 #### Kalustokuva
-![RB-341V Leer-3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/rb-341v-leer-3/rb-341v-leer-3-01.png)
+![RB-341V Leer-3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/elso-kalusto/rb-341v-leer-3/rb-341v-leer-3-01.jpg)
 
 #### Kalustokuvaus
 UAV-pohjainen EW-jarjestelma, joka yhdistaa ajoneuvoalustan ja Orlan-10-tyyppiset lennokit viestihairintaan, psykologiseen vaikuttamiseen ja tilannekuvaan. Jarjestelma mahdollistaa hairinnan ja vaikuttamisen myos alueille, joihin maassa oleva jammer ei helposti ulotu.
@@ -786,7 +786,7 @@ Lennokkeihin perustuva ratkaisu on haavoittuva ilmatorjunnalle ja elektroniselle
 
 ### 1B110
 #### Kalustokuva
-![1B110](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/1b110/1b110-01.png)
+![1B110](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/1b110/1b110-01.jpg)
 
 #### Kalustokuvaus
 Tykkitulen tai tulenjohtamisen komentopaikkajarjestelma, joka tukee havaintojen, maalitiedon ja tulikaskyjen kasittelya. Jarjestelma mahdollistaa tykiston tai tulitukijarjestelman nopeamman reagoinnin verrattuna puhtaasti manuaaliseen menettelyyn.
@@ -806,7 +806,7 @@ Avoin lahdeaineisto yksityiskohdista on rajallista. Vaikutus riippuu vahvasti si
 
 ### 9S737M Ranzhir-M
 #### Kalustokuva
-![9S737M Ranzhir-M](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/9s737m-ranzhir-m/9s737m-ranzhir-m-01.png)
+![9S737M Ranzhir-M](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/9s737m-ranzhir-m/9s737m-ranzhir-m-01.jpg)
 
 #### Kalustokuvaus
 Lyhyen kantaman ilmatorjunnan liikkuva komentopaikka, joka koordinoi yksittaisten torjuntayksikoiden toimintaa ja maalijakoa. Jarjestelma mahdollistaa hajautettujen SHORAD-jarjestelmien tehokkaamman yhteistoiminnan.
@@ -826,7 +826,7 @@ Komentopaikka ei tuota itse torjuntavaikutusta. Jos tietoliikenne katkeaa tai ko
 
 ### Akatsiya-ME
 #### Kalustokuva
-![Akatsiya-ME](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/akatsiya-me/akatsiya-me-01.png)
+![Akatsiya-ME](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/akatsiya-me/akatsiya-me-01.jpg)
 
 #### Kalustokuvaus
 Automatisoitu viesti- ja johtamisjarjestelma, joka on tarkoitettu joukkojen eri tasojen komentoverkon yhdistamiseen. Jarjestelma mahdollistaa kaskyjen, tilannetiedon ja raportoinnin nopeamman kasittelyn kuin perinteinen analoginen johtaminen.
@@ -847,7 +847,7 @@ Avoimissa lahteissa tekniset yksityiskohdat ovat rajallisia. Verkkoriippuvuus te
 
 ### AM-1/Medovukha and P-230T/P-234PMB
 #### Kalustokuva
-![AM-1/Medovukha and P-230T/P-234PMB](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/medovukha/medovukha-01.png)
+![AM-1/Medovukha and P-230T/P-234PMB](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/medovukha/medovukha-01.jpg)
 
 #### Kalustokuvaus
 Liikkuvia viesti- ja retranslaatiojarjestelmia, joiden tehtava on yllapitaa komentoverkon yhteyksia liikkuvassa taistelussa. Jarjestelma mahdollistaa radiosillan, komentoliikenteen ja joukkojen hajautetun johtamisen.
@@ -869,7 +869,7 @@ Vaikutus on epasuora eika nay ilman verkottunutta kokonaisuutta. Viestijarjestel
 
 ### Barnaul-T
 #### Kalustokuva
-![Barnaul-T](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/barnaul-t/barnaul-t-01.png)
+![Barnaul-T](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/barnaul-t/barnaul-t-01.jpg)
 
 #### Kalustokuvaus
 Taktisen tason ilmatorjunnan johtamisjarjestelma, joka on suunniteltu yhdistamaan sensorit, komentopaikat ja lyhyen kantaman torjuntajarjestelmat. Jarjestelma mahdollistaa ilmakohteiden nopean havaitsemisen, priorisoinnin ja maalinjaon hajautetulle ilmatorjunnalle.
@@ -890,7 +890,7 @@ Jarjestelma ei itse ammu maaleja, joten sen vaikutus riippuu alaisista torjuntay
 
 ### MPPU
 #### Kalustokuva
-![MPPU](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/mppu/mppu-01.png)
+![MPPU](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/mppu/mppu-01.jpg)
 
 #### Kalustokuvaus
 Liikkuva kenttajohtamis- tai viestikeskus, jonka tehtava on tukea yksikoiden komentamista taistelukentalla. Jarjestelma mahdollistaa komentopaikan perustamisen nopeasti ilman kiinteaa infrastruktuuria.
@@ -910,7 +910,7 @@ Avoin lahdeaineisto on niukkaa, joten tarkka alaversio ratkaisee paljon. Jarjest
 
 ### PPRU-1 Ovod-M-SV
 #### Kalustokuva
-![PPRU-1 Ovod-M-SV](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/ppru-1-ovod-m-sv/ppru-1-ovod-m-sv-01.png)
+![PPRU-1 Ovod-M-SV](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/ppru-1-ovod-m-sv/ppru-1-ovod-m-sv-01.jpg)
 
 #### Kalustokuvaus
 Lyhyen kantaman ilmatorjunnan tiedustelu- ja johtamisajoneuvo, joka tuottaa maalitietoa ja tukee torjuntayksikoiden tulenkayttoa. Jarjestelma mahdollistaa etummaisen ilmatilannekuvan erityisesti joukkoja suojaavalle ilmatorjunnalle.
@@ -931,7 +931,7 @@ Rooli on kapea ja sidottu ilmatorjunnan kokonaisuuteen. Ajoneuvo on altis vastat
 
 ### R-145BM/1/A
 #### Kalustokuva
-![R-145BM/1/A](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-145bm-1-a/r-145bm-1-a-01.png)
+![R-145BM/1/A](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-145bm-1-a/r-145bm-1-a-01.jpg)
 
 #### Kalustokuvaus
 Vanhempi panssaroitu johtamis- ja viestiajoneuvoperhe, joka perustuu BTR-60-sarjaan. Jarjestelma mahdollistaa liikkuvan komentopaikan perustamisen yksikkotasolla tilanteissa, joissa tarvitaan panssaroitua viestiyhteytta.
@@ -951,7 +951,7 @@ Vanha alusta ja viestiteknologia heikentavat selviytymista ja suojattua tiedonsi
 
 ### R-149AKSh
 #### Kalustokuva
-![R-149AKSh](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-149aksh/r-149aksh-01.png)
+![R-149AKSh](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-149aksh/r-149aksh-01.jpg)
 
 #### Kalustokuvaus
 Uudempi liikkuva johtamis- ja viestiajoneuvo, jonka tehtava on tarjota digitaalisempi komentopaikka joukkotasolle. Jarjestelma mahdollistaa komentamisen, viestinnan ja tilannekuvan yllapidon liikkuvassa operaatiossa.
@@ -971,7 +971,7 @@ Tarkat suoritusarvot riippuvat asennetusta viestikalustosta ja salausratkaisuist
 
 ### R-149BMR
 #### Kalustokuva
-![R-149BMR](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-149bmr/r-149bmr-01.png)
+![R-149BMR](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-149bmr/r-149bmr-01.jpg)
 
 #### Kalustokuvaus
 Panssaroitu komentopaikka-ajoneuvo, joka on suunniteltu johtamisen ja viestiliikenteen yllapitamiseen etulinjan laheisyydessa. Jarjestelma mahdollistaa komentoelementin siirtamisen panssaroidussa muodossa muun taisteluosaston mukana.
@@ -991,7 +991,7 @@ Ajoneuvon taisteluarvo on epasuora ja riippuvainen koko C2-verkon toiminnasta. P
 
 ### R-149MA1/A3
 #### Kalustokuva
-![R-149MA1/A3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-149ma1-a3/r-149ma1-a3-01.png)
+![R-149MA1/A3](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-149ma1-a3/r-149ma1-a3-01.jpg)
 
 #### Kalustokuvaus
 BTR-80-alustainen komento- ja viestiajoneuvoperhe, joka tarjoaa liikkuvan johtamiskyvyn joukkotasoille. Jarjestelma mahdollistaa komentamisen, tilannekuvan yllapidon ja viestiliikenteen panssaroidulla alustalla.
@@ -1011,7 +1011,7 @@ BTR-alustan suoja ei riita korkeimpaan uhkaymparistoon. Jarjestelman hyoty laske
 
 ### R-166
 #### Kalustokuva
-![R-166](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-166/r-166-01.png)
+![R-166](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-166/r-166-01.jpg)
 
 #### Kalustokuvaus
 Liikkuva radiokeskus tai viestiasema, jonka tehtava on yllapitaa joukkojen radioverkkoa kenttaolosuhteissa. Jarjestelma mahdollistaa eri johtamistasojen valisen yhteydenpidon seka viestiverkon laajentamisen.
@@ -1031,7 +1031,7 @@ Viestiverkko on herkka EW-vaikutukselle ja fyysiselle hairinnalle. Suojaus riipp
 
 ### R-419L1
 #### Kalustokuva
-![R-419L1](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-419l1/r-419l1-01.png)
+![R-419L1](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-419l1/r-419l1-01.jpg)
 
 #### Kalustokuvaus
 Mikroaaltolinkki- tai radioreleasema, joka tukee pitkahkojen kenttayhteyksien muodostamista ilman kiinteaa infrastruktuuria. Jarjestelma mahdollistaa komentoverkon ulottamisen syvemmalle ja hajautetummin.
@@ -1051,7 +1051,7 @@ Nakoyhteysvaatimus ja antennirakenne voivat lisata paljastumisriskia. Jarjestelm
 
 ### R-439MD2
 #### Kalustokuva
-![R-439MD2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-439md2/r-439md2-01.png)
+![R-439MD2](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-439md2/r-439md2-01.jpg)
 
 #### Kalustokuvaus
 Satelliittiviestijarjestelma, jonka tehtava on luoda pitkan kantaman yhteyksia silloin, kun maassa toimiva radioverkko ei riita. Jarjestelma mahdollistaa komentamisen operatiivisella syvyydella myos hajautetuissa kokoonpanoissa.
@@ -1073,7 +1073,7 @@ Riippuvuus satelliittikanavista tekee jarjestelmasta herkan hairinnalle ja kapas
 
 ### 9K22 Tunguska
 #### Kalustokuva
-![9K22 Tunguska](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ilmatorjunta/9k22-tunguska/9k22-tunguska-01.png)
+![9K22 Tunguska](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ilmatorjunta/9k22-tunguska/9k22-tunguska-01.jpg)
 
 #### Kalustokuvaus
 Tykkien ja ohjusten yhdistelmaan perustuva lyhyen kantaman itseliikkuva ilmatorjuntajarjestelma, joka on tarkoitettu liikkuvien joukkojen suojaamiseen. Jarjestelma mahdollistaa reaktion seka matalalla lentaviin ilma-aluksiin etta joihinkin drooni- ja helikopteriuhkiin.
@@ -1095,7 +1095,7 @@ Tutkaan ja nakyvaan tuliasemaan perustuva jarjestelma on altis SEAD/EW-vaikutuks
 
 ### 9K33 Osa
 #### Kalustokuva
-![9K33 Osa](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ilmatorjunta/9k33-osa/9k33-osa-01.png)
+![9K33 Osa](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ilmatorjunta/9k33-osa/9k33-osa-01.jpg)
 
 #### Kalustokuvaus
 Amfibinen lyhyen kantaman ilmatorjuntaohjusjarjestelma, joka yhdistaa tutkan, komentojarjestelman ja ohjuslaukaisimen samalle alustalle. Jarjestelma mahdollistaa itsenaisen paikallisen ilmapuolustuksen ilman erillista tulenjohtotutkaa.
@@ -1116,7 +1116,7 @@ Vanha elektroniikka ja suhteellisen lyhyt kantama heikentavat suorituskykya nyky
 
 ### 9K35M3 Strela-10M3/MN
 #### Kalustokuva
-![9K35M3 Strela-10M3/MN](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ilmatorjunta/9k35m3-strela-10m3-mn/9k35m3-strela-10m3-mn-01.png)
+![9K35M3 Strela-10M3/MN](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ilmatorjunta/9k35m3-strela-10m3-mn/9k35m3-strela-10m3-mn-01.jpg)
 
 #### Kalustokuvaus
 Kevyt, liikkuva ja etulinjan mukana kulkeva lyhyen kantaman ilmatorjuntaohjusjarjestelma. Jarjestelma mahdollistaa matalalla lentavien ilma-alusten, helikoptereiden ja osin UAV-kohteiden torjunnan hajautetusti.
@@ -1137,7 +1137,7 @@ Saa, nakyvyys, maalin lampojalki ja vastatoimet vaikuttavat voimakkaasti tehoon.
 
 ### Buk
 #### Kalustokuva
-![Buk](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ilmatorjunta/buk/buk-01.png)
+![Buk](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ilmatorjunta/buk/buk-01.jpg)
 
 #### Kalustokuvaus
 Keski- tai keskipitkan kantaman liikkuva ilmatorjuntajarjestelmaperhe, joka on tarkoitettu suojaamaan joukkoja ja kohteita lentokoneilta, risteilyohjuksilta ja joiltakin ballistisilta uhkilta. Jarjestelma mahdollistaa kerroksellisen ilmapuolustuksen liikkuvassa maasodankaynnissa.
@@ -1160,7 +1160,7 @@ Tutkapohjaisuus tekee jarjestelmasta nakyvan elektronisessa spektrissa. Suoritus
 
 ### S-300
 #### Kalustokuva
-![S-300](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ilmatorjunta/s-300/s-300-01.png)
+![S-300](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ilmatorjunta/s-300/s-300-01.jpg)
 
 #### Kalustokuvaus
 Pitkan kantaman ilmatorjuntajarjestelmaperhe, jonka maavoimaversioita kaytetaan joukkojen ja tarkeiden kohteiden suojaamiseen laajalla alueella. Jarjestelma mahdollistaa syvan ilmapuolustuksen lentokoneita, risteilyohjuksia ja osin ballistisia maaleja vastaan.
@@ -1182,7 +1182,7 @@ Jarjestelma on suuri, logistisesti raskas ja nakyva. Kokonaisuus on altis SEAD-k
 
 ### Tor
 #### Kalustokuva
-![Tor](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ilmatorjunta/tor/tor-01.png)
+![Tor](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ilmatorjunta/tor/tor-01.jpg)
 
 #### Kalustokuvaus
 Lyhyen kantaman erittain liikkuva ilmatorjuntajarjestelma, joka on suunniteltu suojaamaan joukkoja tarkkuusaseilta, lentokoneilta, helikoptereilta ja UAV-kohteilta. Jarjestelma mahdollistaa nopean ja automatisoidun lahialueen torjunnan.
@@ -1206,8 +1206,8 @@ Kantama on silti lyhyt verrattuna medium- ja long-range SAM-jarjestelmiin. Tutka
 
 ### 2S19 Msta-S
 #### Kalustokuva
-![2S19 Msta-S](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/2s19-msta-s/2s19-msta-s-01.png)
-![2S19 Msta-S](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/2s19-msta-s/2s19-msta-s-02.png)
+![2S19 Msta-S](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/2s19-msta-s/2s19-msta-s-01.jpg)
+![2S19 Msta-S](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/2s19-msta-s/2s19-msta-s-02.jpg)
 
 #### Kalustokuvaus
 152 mm itseliikkuva haupitsi, joka muodostaa venalaisen putkitykiston keskeisen telapohjaisen tuliyksikon. Jarjestelma mahdollistaa liikkuvan epasuoran tulen mekanisoitujen joukkojen mukana.
@@ -1229,7 +1229,7 @@ Vastatykisto, droonihavainnointi ja ammusten kulutuksen logistinen taakka rajoit
 
 ### 9A53-G Tornado-G
 #### Kalustokuva
-![9A53-G Tornado-G](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/9a53-g-tornado-g/9a53-g-tornado-g-01.png)
+![9A53-G Tornado-G](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/9a53-g-tornado-g/9a53-g-tornado-g-01.jpg)
 
 #### Kalustokuvaus
 Modernisoitu 122 mm raketinheitinjarjestelma, joka jatkaa Grad-perhetta paremmalla palonhallinnalla ja tarkkuudella. Jarjestelma mahdollistaa nopean aluevaikutuksen ja lyhyen vasteajan kevyemmalla logistisella jalanjaljella kuin raskaammat MLRS-jarjestelmat.
@@ -1249,7 +1249,7 @@ Tornado-G tuo Grad-konseptiin modernimpaa tulenhallintaa ja mahdollisesti paremp
 
 ### 9K515 Tornado S
 #### Kalustokuva
-![9K515 Tornado S](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/9k515-tornado-s/9k515-tornado-s-01.png)
+![9K515 Tornado S](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/9k515-tornado-s/9k515-tornado-s-01.jpg)
 
 #### Kalustokuvaus
 Raskas 300 mm raketinheitinjarjestelma, joka edustaa Smerch-perheen modernisoitua ja osin tasmallisempaa kehityslinjaa. Jarjestelma mahdollistaa syvan aluevaikutuksen ja joitakin tarkempia iskuprofiileja operatiivisella etaisyydella.
@@ -1270,9 +1270,9 @@ Jarjestelma on korkean arvon kohde ja logistisesti raskaampi kuin 122 mm jarjest
 
 ### BM-21 Grad
 #### Kalustokuva
-![BM-21 Grad](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-21-grad/bm-21-grad-01.png)
-![BM-21 Grad](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-21-grad/bm-21-grad-02.png)
-![BM-21 Grad](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-21-grad/bm-21-grad-03.png)
+![BM-21 Grad](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-21-grad/bm-21-grad-01.jpg)
+![BM-21 Grad](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-21-grad/bm-21-grad-02.jpg)
+![BM-21 Grad](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-21-grad/bm-21-grad-03.jpg)
 
 #### Kalustokuvaus
 Klassinen 122 mm moniputkiraketinheitin, jonka vahvuus on yksinkertaisuus, maara ja nopea alueellinen tulivaikutus. Jarjestelma mahdollistaa nopeasti toimitetun laajan sirpale- ja rajahdysvaikutuksen joukkoja, tuliasemia ja kevyita kohteita vastaan.
@@ -1292,7 +1292,7 @@ Tarkkuus on rajallinen ja ammusten kulutus suuri. Jarjestelma on altis vastatyki
 
 ### BM-27 Uragan
 #### Kalustokuva
-![BM-27 Uragan](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-27-uragan/bm-27-uragan-01.png)
+![BM-27 Uragan](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-27-uragan/bm-27-uragan-01.jpg)
 
 #### Kalustokuvaus
 220 mm raskas raketinheitinjarjestelma, joka sijoittuu Gradin ja Smerchin valiin vaikutusalan ja taistelukarjen koon osalta. Jarjestelma mahdollistaa laajan aluevaikutuksen syvemmalle kuin 122 mm jarjestelmat.
@@ -1312,9 +1312,9 @@ Vanha alusta ja tulenhallinta rajoittavat selviytymista ja tarkkuutta. Ammusten 
 
 ### BM-30 Smerch
 #### Kalustokuva
-![BM-30 Smerch](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-30-smerch/bm-30-smerch-01.png)
-![BM-30 Smerch](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-30-smerch/bm-30-smerch-02.png)
-![BM-30 Smerch](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-30-smerch/bm-30-smerch-03.png)
+![BM-30 Smerch](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-30-smerch/bm-30-smerch-01.jpg)
+![BM-30 Smerch](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-30-smerch/bm-30-smerch-02.jpg)
+![BM-30 Smerch](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-30-smerch/bm-30-smerch-03.jpg)
 
 #### Kalustokuvaus
 300 mm raskas raketinheitinjarjestelma, joka on suunniteltu suurten alueiden tuhoamiseen ja syvempaan tulivaikutukseen kuin kevyemmat MLRS-jarjestelmat. Jarjestelma mahdollistaa operatiivisen tason tuki-iskut joukkoja, komentopaikkoja ja aluekohteita vastaan.
@@ -1335,7 +1335,7 @@ Asema paljastuu laukaisussa ja jarjestelma on korkean arvon maali. Ammusten koko
 
 ### TOS-1A Solntsepyok
 #### Kalustokuva
-![TOS-1A Solntsepyok](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/tos-1a-solntsepyok/tos-1a-solntsepyok-01.png)
+![TOS-1A Solntsepyok](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/tos-1a-solntsepyok/tos-1a-solntsepyok-01.jpg)
 
 #### Kalustokuvaus
 Raskas termobaarinen raketinheitinjarjestelma, joka on tarkoitettu erityisesti linnoitettujen asemien, rakennusten ja suojautuneen jalkavaen tuhoamiseen. Jarjestelma mahdollistaa erittain voimakkaan lahialueen vaikutuksen, mutta ei ole perinteinen pitkan kantaman tykistojarjestelma.
@@ -1355,7 +1355,7 @@ Lyhyt kantama pakottaa jarjestelman lahelle etulinjaa, mika altistaa sen PST-, d
 
 ### TOS-2 Tosochka
 #### Kalustokuva
-![TOS-2 Tosochka](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/tos-2-tosochka/tos-2-tosochka-01.png)
+![TOS-2 Tosochka](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/tos-2-tosochka/tos-2-tosochka-01.jpg)
 
 #### Kalustokuvaus
 Pyoraalustainen raskas termobaarinen raketinheitinjarjestelma, joka jatkaa TOS-konseptia liikkuvampana ja modernimpana versiona. Jarjestelma mahdollistaa termobaarisen vaikutuksen pidemmalle ja joustavammin kuin TOS-1A tietyissa olosuhteissa.
@@ -1377,7 +1377,7 @@ Pyoraalusta ei tarjoa samanlaista panssarisuojaa kuin TOS-1A:n telapohjainen rat
 
 ### TOS-3 Drakon
 #### Kalustokuva
-![TOS-3 Drakon](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/tos-3-drakon/tos-3-drakon-01.png)
+![TOS-3 Drakon](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/tos-3-drakon/tos-3-drakon-01.jpg)
 
 #### Kalustokuvaus
 Uusin raportoitu raskaan termobaarisen raketinheitinjarjestelman kehitysvaihe, jonka tavoitteena on kasvattaa kantamaa ja selviytymiskykya suhteessa aiempiin TOS-jarjestelmiin. Jarjestelma mahdollistaa termobaarisen vaikutuksen pidemmalle, mutta avoin lahdetieto on viela rajallista.
@@ -1398,7 +1398,7 @@ Avoin lahdetieto on toistaiseksi niukkaa, joten suorituskykyarviot ovat valiaika
 
 ### Uragan-1M
 #### Kalustokuva
-![Uragan-1M](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/uragan-1m/uragan-1m-01.png)
+![Uragan-1M](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/heitin-kalusto/uragan-1m/uragan-1m-01.jpg)
 
 #### Kalustokuvaus
 Monikaliiperinen raskas raketinheitinjarjestelma, joka kykenee kayttamaan seka 220 mm etta 300 mm ammuskuormia moduuliratkaisulla. Jarjestelma mahdollistaa joustavamman ammusvalinnan ja tuliprofiilin kuin vanhat yhden kaliiperin MLRS-jarjestelmat.
@@ -1420,8 +1420,8 @@ Korkean arvon jarjestelma tarvitsee suojaa ja tehokkaan tulenjohdon. Modulaarisu
 
 ### 9K720 Iskander
 #### Kalustokuva
-![9K720 Iskander](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ohjuskalusto/9k720-iskander/9k720-iskander-01.png)
-![9K720 Iskander](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ohjuskalusto/9k720-iskander/9k720-iskander-02.png)
+![9K720 Iskander](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ohjuskalusto/9k720-iskander/9k720-iskander-01.jpg)
+![9K720 Iskander](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ohjuskalusto/9k720-iskander/9k720-iskander-02.jpg)
 
 #### Kalustokuvaus
 Liikkuva lyhyen kantaman ballistinen ohjusjarjestelma, jonka tehtava on iskea korkean arvon maaleihin operatiivisella syvyydella. Jarjestelma mahdollistaa komentopaikkojen, ilmatorjunnan, logistiikan ja infrastruktuurin tarkemman tai vahintaan nopean syvavaikuttamisen kuin tykisto.
@@ -1443,7 +1443,7 @@ Jarjestelma on korkean arvon kohde, jonka laukaisuajoneuvojen maara on rajalline
 
 ### 9P157-2 Khrizantema-S/SP
 #### Kalustokuva
-![9P157-2 Khrizantema-S/SP](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ohjuskalusto/9p157-2-khrizantema-s-sp/9p157-2-khrizantema-s-sp-01.png)
+![9P157-2 Khrizantema-S/SP](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ohjuskalusto/9p157-2-khrizantema-s-sp/9p157-2-khrizantema-s-sp-01.jpg)
 
 #### Kalustokuvaus
 Panssarintorjuntaohjusajoneuvo, joka on suunniteltu taistelemaan panssarivaunuja ja muita panssaroituja maaleja vastaan myos vaikeissa saaoloissa. Jarjestelma mahdollistaa pitkan kantaman panssarintorjunnan omalta alustalta ilman jalkautumista.
@@ -1465,7 +1465,7 @@ Jarjestelma on erikoistunut ja tarvitsee suojan lahietaisyyden uhkia vastaan. Va
 
 ### 9P163-3 Kornet-D
 #### Kalustokuva
-![9P163-3 Kornet-D](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ohjuskalusto/9p163-3-kornet-d/9p163-3-kornet-d-01.png)
+![9P163-3 Kornet-D](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ohjuskalusto/9p163-3-kornet-d/9p163-3-kornet-d-01.jpg)
 
 #### Kalustokuvaus
 Pitkan kantaman panssarintorjuntaohjusjarjestelma, joka on suunniteltu erityisesti pyoraalustaiselle korkean liikkuvuuden alustalle. Jarjestelma mahdollistaa panssarintorjunnan, kevyiden linnoitteiden tuhoamisen ja joissain profiileissa myos matalien ilma-maalien uhkaamisen.
@@ -1487,7 +1487,7 @@ Laserkeilaohjaus vaatii nakoyhteyden maaliin koko lennon ajan. Jarjestelma on ha
 
 ### 9P163M-1 Kornet-T
 #### Kalustokuva
-![9P163M-1 Kornet-T](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ohjuskalusto/9p163m-1-kornet-t/9p163m-1-kornet-t-01.png)
+![9P163M-1 Kornet-T](../../assets/suorituskyvyt/01-puolustushaarat/01-maavoimat/ohjuskalusto/9p163m-1-kornet-t/9p163m-1-kornet-t-01.jpg)
 
 #### Kalustokuvaus
 BMP-3-alustainen panssarintorjuntaohjusajoneuvo, jonka tehtava on tuhota panssarivaunuja ja muita kovia maamaaleja etaalta. Jarjestelma mahdollistaa suojatun, liikkuvan ja suhteellisen nopeasti toistettavan pst-vaikutuksen.

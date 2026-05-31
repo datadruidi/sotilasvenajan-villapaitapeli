@@ -4,7 +4,7 @@
 
 ### Altius
 #### Kalustokuva
-![altius](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/altius/altius-01.png)
+![altius](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/altius/altius-01.jpg)
 
 #### Kalustokuvaus
 
@@ -31,7 +31,7 @@ Sarjatuotannosta, maarista ja taysimittaisesta operatiivisesta kaytosta on avoim
 
 ### DJI-Phantom-3
 #### Kalustokuva
-![dji-phantom-3](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/dji-phantom-3/dji-phantom-3-01.png)
+![dji-phantom-3](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/dji-phantom-3/dji-phantom-3-01.jpg)
 
 #### Kalustokuvaus
 
@@ -58,7 +58,7 @@ Alusta on altis elektroniselle hairinnalle, paikannuksen estolle ja fyysiselle t
 
 ### Dragonfly
 #### Kalustokuva
-![dragonfly](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/dragonfly/dragonfly-01.png)
+![dragonfly](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/dragonfly/dragonfly-01.jpg)
 
 #### Kalustokuvaus
 
@@ -85,8 +85,8 @@ Avoin lahdeaineisto ei riita vahvistamaan tarkkaa valmistajaa, kayttoonottoa tai
 
 ### Eleron-10
 #### Kalustokuva
-![eleron-10](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-10/eleron-10-01.png)
-![eleron-10](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-10/eleron-10-02.png)
+![eleron-10](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-10/eleron-10-01.jpg)
+![eleron-10](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-10/eleron-10-02.jpg)
 
 #### Kalustokuvaus
 
@@ -113,7 +113,7 @@ Pieni koko, rajallinen hyotykuorma ja suhteellisen lyhyt kesto rajaavat vaikutuk
 
 ### Eleron-3
 #### Kalustokuva
-![eleron-3](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-3/eleron-3-01.png)
+![eleron-3](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-3/eleron-3-01.jpg)
 
 #### Kalustokuvaus
 
@@ -140,7 +140,7 @@ Pieni koko ja sahkoinen voimalinja rajoittavat hyotykuormaa seka huonon saan suo
 
 ### Eleron-7
 #### Kalustokuva
-![eleron-7](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-7/eleron-7-01.png)
+![eleron-7](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-7/eleron-7-01.jpg)
 
 #### Kalustokuvaus
 
@@ -167,8 +167,8 @@ Tietopohja ei riita varmaan arvioon kayttomaaria, alaversioita tai nykyista asem
 
 ### Forpost
 #### Kalustokuva
-![forpost](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/forpost/forpost-01.png)
-![forpost](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/forpost/forpost-02.png)
+![forpost](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/forpost/forpost-01.jpg)
+![forpost](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/forpost/forpost-02.jpg)
 
 #### Kalustokuvaus
 
@@ -195,8 +195,8 @@ Jarjestelma on suurempi ja nakyvampi kuin pienet kentta-UAV:t, mika kasvattaa to
 
 ### Geran-2
 #### Kalustokuva
-![geran-2](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/geran-2/geran-2-01.png)
-![geran-2](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/geran-2/geran-2-02.png)
+![geran-2](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/geran-2/geran-2-01.jpg)
+![geran-2](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/geran-2/geran-2-02.jpg)
 
 #### Kalustokuvaus
 
@@ -223,7 +223,7 @@ Alusta on hidas ja melko ennalta-arvattava verrattuna risteilyohjuksiin, minka v
 
 ### Gerbera
 #### Kalustokuva
-![gerbera](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/gerbera/gerbera-01.png)
+![gerbera](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/gerbera/gerbera-01.jpg)
 
 #### Kalustokuvaus
 
@@ -250,7 +250,7 @@ Avoin tekninen dokumentaatio on niukkaa, ja jarjestelma nayttaa kehittyvan nopea
 
 ### Granat-1
 #### Kalustokuva
-![granat-1](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/granat-1/granat-1-01.png)
+![granat-1](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/granat-1/granat-1-01.jpg)
 
 #### Kalustokuvaus
 
@@ -277,7 +277,7 @@ Hyotykuorma, saasietokyky ja viestikantama ovat kevyen UAV:n tasolla. Elektronin
 
 ### Granat-2
 #### Kalustokuva
-![granat-2](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/granat-2/granat-2-01.png)
+![granat-2](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/granat-2/granat-2-01.jpg)
 
 #### Kalustokuvaus
 
@@ -304,7 +304,7 @@ Pieni toimintasade ja kevyt rakenne rajaavat vaikutuksen lahelle omaa etulinjaa.
 
 ### Granat-4
 #### Kalustokuva
-![granat-4](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/granat-4/granat-4-01.png)
+![granat-4](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/granat-4/granat-4-01.jpg)
 
 #### Kalustokuvaus
 
@@ -331,7 +331,7 @@ Avoin lahdeaineisto ei riita tarkkaan ja ajantasaiseen versiovertailuun. Tama ka
 
 ### Grusha
 #### Kalustokuva
-![grusha](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/grusha/grusha-01.png)
+![grusha](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/grusha/grusha-01.jpg)
 
 #### Kalustokuvaus
 
@@ -358,7 +358,7 @@ Tietopuutteet ovat merkittavia, eika jarjestelman nykyisesta operatiivisesta ase
 
 ### KUB-E
 #### Kalustokuva
-![kub-e](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/kub-e/kub-e-01.png)
+![kub-e](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/kub-e/kub-e-01.jpg)
 
 #### Kalustokuvaus
 
@@ -385,7 +385,7 @@ Suorituskyky riippuu voimakkaasti sensoriohjauksesta, linkista ja maalinetsintak
 
 ### Leer-3
 #### Kalustokuva
-![leer-3](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/leer-3/leer-3-01.png)
+![leer-3](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/leer-3/leer-3-01.jpg)
 
 #### Kalustokuvaus
 
@@ -412,7 +412,7 @@ Teho riippuu sahkomagneettisesta ymparistosta, verkkojen rakenteesta ja UAV:n se
 
 ### Luch-Korsar
 #### Kalustokuva
-![luch-korsar](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/luch-korsar/luch-korsar-01.png)
+![luch-korsar](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/luch-korsar/luch-korsar-01.jpg)
 
 #### Kalustokuvaus
 
@@ -439,7 +439,7 @@ Ohjelman nakyvyys on ollut suurempi kuin avoimesti vahvistettu kenttavaikutus. V
 
 ### Mohajer-6
 #### Kalustokuva
-![mohajer-6](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/mohajer-6/mohajer-6-01.png)
+![mohajer-6](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/mohajer-6/mohajer-6-01.jpg)
 
 #### Kalustokuvaus
 
@@ -465,8 +465,8 @@ Avoimissa lahteissa tekniset tiedot vaihtelevat alaversioittain ja lahteittain. 
 
 ### Okhotnik-S-70
 #### Kalustokuva
-![okhotnik-s-70](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/okhotnik-s-70/okhotnik-s-70-01.png)
-![okhotnik-s-70](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/okhotnik-s-70/okhotnik-s-70-02.png)
+![okhotnik-s-70](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/okhotnik-s-70/okhotnik-s-70-01.jpg)
+![okhotnik-s-70](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/okhotnik-s-70/okhotnik-s-70-02.jpg)
 
 #### Kalustokuvaus
 
@@ -493,9 +493,9 @@ Tuotantomaarista, kypsyystasosta ja todellisesta palvelusvalmiudesta on edelleen
 
 ### Orion-E-Inokhodets
 #### Kalustokuva
-![orion-e-inokhodets](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orion-e-inokhodets/orion-e-inokhodets-01.png)
-![orion-e-inokhodets](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orion-e-inokhodets/orion-e-inokhodets-02.png)
-![orion-e-inokhodets](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orion-e-inokhodets/orion-e-inokhodets-03.png)
+![orion-e-inokhodets](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orion-e-inokhodets/orion-e-inokhodets-01.jpg)
+![orion-e-inokhodets](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orion-e-inokhodets/orion-e-inokhodets-02.jpg)
+![orion-e-inokhodets](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orion-e-inokhodets/orion-e-inokhodets-03.jpg)
 
 #### Kalustokuvaus
 
@@ -522,9 +522,9 @@ Jarjestelma on suurempi ja kalliimpi kuin etulinjan kulutettavat UAV:t, mika lis
 
 ### Orlan-10
 #### Kalustokuva
-![orlan-10](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-10/orlan-10-01.png)
-![orlan-10](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-10/orlan-10-02.png)
-![orlan-10](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-10/orlan-10-03.png)
+![orlan-10](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-10/orlan-10-01.jpg)
+![orlan-10](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-10/orlan-10-02.jpg)
+![orlan-10](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-10/orlan-10-03.jpg)
 
 #### Kalustokuvaus
 
@@ -551,9 +551,9 @@ Alusta ei ole erityisen selviytymiskykyinen modernia elektronista sodankayntia t
 
 ### Orlan-30
 #### Kalustokuva
-![orlan-30](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-30/orlan-30-01.png)
-![orlan-30](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-30/orlan-30-02.png)
-![orlan-30](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-30/orlan-30-03.png)
+![orlan-30](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-30/orlan-30-01.jpg)
+![orlan-30](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-30/orlan-30-02.jpg)
+![orlan-30](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-30/orlan-30-03.jpg)
 
 #### Kalustokuvaus
 
@@ -580,8 +580,8 @@ Jarjestelma on suurempi ja siten nakyvampi seka mahdollisesti kalliimpi kuin Orl
 
 ### Supercam-S150
 #### Kalustokuva
-![supercam-s150](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s150/supercam-s150-01.png)
-![supercam-s150](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s150/supercam-s150-02.png)
+![supercam-s150](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s150/supercam-s150-01.jpg)
+![supercam-s150](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s150/supercam-s150-02.jpg)
 
 #### Kalustokuvaus
 
@@ -608,9 +608,9 @@ Kevyt runko, sahkoinen voimalinja ja line-of-sight-riippuvuus rajaavat syvyyssuu
 
 ### Supercam-S350
 #### Kalustokuva
-![supercam-s350](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s350/supercam-s350-01.png)
-![supercam-s350](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s350/supercam-s350-02.png)
-![supercam-s350](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s350/supercam-s350-03.png)
+![supercam-s350](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s350/supercam-s350-01.jpg)
+![supercam-s350](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s350/supercam-s350-02.jpg)
+![supercam-s350](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s350/supercam-s350-03.jpg)
 
 #### Kalustokuvaus
 
@@ -638,8 +638,8 @@ Jarjestelma nojaa yha datalinkkiin, GNSS:aan ja suhteellisen haavoittuvaan ilma-
 
 ### Takhion
 #### Kalustokuva
-![takhion](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/takhion/takhion-01.png)
-![takhion](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/takhion/takhion-02.png)
+![takhion](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/takhion/takhion-01.jpg)
+![takhion](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/takhion/takhion-02.jpg)
 
 #### Kalustokuvaus
 
@@ -666,7 +666,7 @@ Jarjestelma nojaa edelleen line-of-sight-ohjaukseen ja suhteellisen haavoittuvaa
 
 ### Yakovlev-Pchela
 #### Kalustokuva
-![yakovlev-pchela](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/yakovlev-pchela/yakovlev-pchela-01.png)
+![yakovlev-pchela](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/yakovlev-pchela/yakovlev-pchela-01.jpg)
 
 #### Kalustokuvaus
 
@@ -693,9 +693,9 @@ Jarjestelma on vanhentunut suhteessa nykyisiin EO/IR-, linkki- ja selviytymiskyk
 
 ### ZALA-421-08
 #### Kalustokuva
-![zala-421-08](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-08/zala-421-08-01.png)
-![zala-421-08](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-08/zala-421-08-02.png)
-![zala-421-08](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-08/zala-421-08-03.png)
+![zala-421-08](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-08/zala-421-08-01.jpg)
+![zala-421-08](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-08/zala-421-08-02.jpg)
+![zala-421-08](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-08/zala-421-08-03.jpg)
 
 #### Kalustokuvaus
 
@@ -722,8 +722,8 @@ Kevyt alusta rajoittaa kantamaa, hyotykuormaa ja huonon saan kestavyytta. Selviy
 
 ### ZALA-421-16
 #### Kalustokuva
-![zala-421-16](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-16/zala-421-16e-01.png)
-![zala-421-16](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-16/zala-421-16e-02.png)
+![zala-421-16](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-16/zala-421-16e-01.jpg)
+![zala-421-16](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-16/zala-421-16e-02.jpg)
 
 #### Kalustokuvaus
 
@@ -750,8 +750,8 @@ Perhe on teknisesti hajanainen, joten yhden version suorituskykya ei pida yleist
 
 ### ZALA-421-22
 #### Kalustokuva
-![zala-421-22](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-22/zala-421-22-01.png)
-![zala-421-22](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-22/zala-421-22-02.png)
+![zala-421-22](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-22/zala-421-22-01.jpg)
+![zala-421-22](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-22/zala-421-22-02.jpg)
 
 #### Kalustokuvaus
 
@@ -778,9 +778,9 @@ Roottorialusta on tyypillisesti hitaampi, aanekkaampi ja lyhytkestoisempi kuin v
 
 ### ZALA-Lancet
 #### Kalustokuva
-![zala-lancet](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-lancet/lancet-1-01.png)
-![zala-lancet](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-lancet/lancet-1-02.png)
-![zala-lancet](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-lancet/lancet-1-03.png)
+![zala-lancet](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-lancet/lancet-1-01.jpg)
+![zala-lancet](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-lancet/lancet-1-02.jpg)
+![zala-lancet](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-lancet/lancet-1-03.jpg)
 
 #### Kalustokuvaus
 
@@ -807,7 +807,7 @@ Kertakayttoisyys ja suhteellisen kevyt taistelukarki rajoittavat vaikutusta rask
 
 ### Zastava
 #### Kalustokuva
-![zastava](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zastava/zastava-01.png)
+![zastava](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zastava/zastava-01.jpg)
 
 #### Kalustokuvaus
 
@@ -836,7 +836,7 @@ Kevyen mini-UAV:n tavoin jarjestelma karsii rajallisesta kantamasta ja hyotykuor
 
 ### Cobra-1600
 #### Kalustokuva
-![cobra-1600](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/cobra-1600/cobra-1600-01.png)
+![cobra-1600](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/cobra-1600/cobra-1600-01.jpg)
 
 #### Kalustokuvaus
 Kevyt sappari- ja EOD-robotti, jota kaytetaan epailyttavien kohteiden etatarkastukseen, rajahteiden ensidiagnostiikkaan ja vaarallisten esineiden siirtamiseen. Avoimissa lahteissa se esiintyy ennen kaikkea pioneerijoukkojen tiedustelu- ja raivausrobotin roolissa.
@@ -858,7 +858,7 @@ Kevyen luokan EOD-robotin vaikutus riippuu voimakkaasti yhteydesta operaattoriin
 
 ### Kapitan
 #### Kalustokuva
-![kapitan](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/kapitan/kapitan-01.png)
+![kapitan](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/kapitan/kapitan-01.jpg)
 
 #### Kalustokuvaus
 Modulaarinen telaketjuinen robottijarjestelma, joka on suunnattu tiedustelu-, EOD- ja pioneeritehtaviin. Jarjestelma on esitetty ensisijaisesti monikayttoisena insinoori- ja valvontarobottina, ei raskaana taistelualustana.
@@ -880,8 +880,8 @@ Lyhyehko ohjausetaisyys ja line-of-sight-tyyppinen kaytto rajoittavat sen hyotya
 
 ### Marker
 #### Kalustokuva
-![marker](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/marker/marker-01.png)
-![marker](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/marker/marker-02.png)
+![marker](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/marker/marker-01.jpg)
+![marker](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/marker/marker-02.jpg)
 
 #### Kalustokuvaus
 Kokeellinen ja modulaarinen miehittamaton maa-ajoneuvo, jota on kehitetty autonomian, sensorifuusion ja asemoduulien testialustaksi. Se on enemman teknologinen kehitysalusta kuin laajasti vakiintunut sarjatuotettu kenttajarjestelma.
@@ -903,7 +903,7 @@ Autonomiaan ja verkottumiseen perustuvat suorituskyvyt ovat herkkia hairinnalle,
 
 ### MRK-3
 #### Kalustokuva
-![mrk-3](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-3/mrk-3-01.png)
+![mrk-3](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-3/mrk-3-01.jpg)
 
 #### Kalustokuvaus
 Avoimissa lahteissa MRK-3 esiintyy miehittamattomana maa-ajoneuvona, jonka rooliksi kuvataan taistelutuki tai partiointi. Jarjestelmasta on kuitenkin julkisesti saatavilla hyvin vahan varmennettua teknista tietoa.
@@ -924,7 +924,7 @@ Koska luotettavaa teknista tietoa on vahan, myos kayttoymparistoa ja taistelukes
 
 ### MRK-35MA
 #### Kalustokuva
-![mrk-35ma](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-35ma/mrk-35ma-01.png)
+![mrk-35ma](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-35ma/mrk-35ma-01.jpg)
 
 #### Kalustokuvaus
 MRK-35MA kuuluu avoimissa lahteissa pieniin robottijarjestelmiin, joita liitetaan tiedustelu-, raivaus- tai CBRN-tyyppisiin tehtaviin. Julkinen tekninen aineisto on kuitenkin niukkaa ja osin epayhtenaista.
@@ -945,7 +945,7 @@ Niukka lahdeaineisto tekee vaikeaksi arvioida, onko jarjestelma prototyyppi, raj
 
 ### MRK-46
 #### Kalustokuva
-![mrk-46](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-46/mrk-46-01.png)
+![mrk-46](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-46/mrk-46-01.jpg)
 
 #### Kalustokuvaus
 MRK-46 on pieni telaketjuinen robottijarjestelma, joka on suunnattu tiedustelu- ja miinanraivaus-/EOD-tehtaviin. Se edustaa vanhemman sukupolven insinoorirobotteja, joissa painottuu manipulaatio ja etatyoskentely.
@@ -966,7 +966,7 @@ Kaapeliohjaus rajoittaa liikkuvuutta, toimintasadetta ja kayttoa monimutkaisessa
 
 ### Nerekhta
 #### Kalustokuva
-![nerekhta](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/nerekhta/nerekhta-01.png)
+![nerekhta](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/nerekhta/nerekhta-01.jpg)
 
 #### Kalustokuvaus
 Monikayttoinen telaketjuinen robottialusta, jota on kehitetty vartiointi-, tiedustelu-, tulituki- ja logistiikkatehtaviin. Jarjestelma on tunnettu ennen kaikkea kokeellisena tai rajatusti kayttoonotettuna aseistetun UGV:n kehityslinjana.
@@ -988,7 +988,7 @@ Jarjestelman aseistaminen ei automaattisesti tee siita taistelukentalla kestavaa
 
 ### Prokhod-1
 #### Kalustokuva
-![prokhod-1](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/prokhod-1/prokhod-1-01-01.png)
+![prokhod-1](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/prokhod-1/prokhod-1-01-01.jpg)
 
 #### Kalustokuvaus
 Raskas miehittamaton miinanraivausjarjestelma, joka perustuu BMR-3MA/T-90-perheen alustaan ja on suunniteltu avaamaan kulkukelpoisia reitteja miinoitetulla alueella. Se kuuluu selvasti insinoorijoukkojen lapimurto- ja reitinavauskalustoon, ei yleiskayttoiseen robottiajoneuvoluokkaan.
@@ -1011,7 +1011,7 @@ Suuri koko, hidas eteneminen ja ennakoitava kayttotapa tekevat jarjestelmasta na
 
 ### Uran-14
 #### Kalustokuva
-![uran-14](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-14/uran-14-01.png)
+![uran-14](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-14/uran-14-01.jpg)
 
 #### Kalustokuvaus
 Raskas telaketjuinen miehittamaton erikoisajoneuvo, jonka paarooli on palontorjunta vaarallisissa tai vaikeapaasyisissa kohteissa. Se sijoittuu insinoori- ja pelastusrobotin kategoriaan, vaikka joissain lahteissa mainitaan myos toissijaisia raivaus- ja tukitehtavia.
@@ -1033,7 +1033,7 @@ Hidas nopeus ja erikoistunut tehtavaprofiili rajaavat kayttoa dynaamisessa taist
 
 ### Uran-6
 #### Kalustokuva
-![uran-6](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-6/uran-6-01.png)
+![uran-6](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-6/uran-6-01.jpg)
 
 #### Kalustokuvaus
 Miehittamaton miinanraivausjarjestelma, joka on suunniteltu pioneerijoukkojen kayttoon miinojen, rajahteiden ja rajahtamattomien ammusten poistamiseen. Se on yksi tunnetuimmista venalaisista insinoorirobotteista ja avoimissa lahteissa selvasti operatiiviseen kayttoon liitetty jarjestelma.
@@ -1055,8 +1055,8 @@ Jarjestelma ei korvaa raskasta panssaroitua lapimurtoajoneuvoa eika sovi itsenai
 
 ### Uran-9
 #### Kalustokuva
-![uran-9](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-9/uran-9-01.png)
-![uran-9](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-9/uran-9-02.png)
+![uran-9](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-9/uran-9-01.jpg)
+![uran-9](../../assets/suorituskyvyt/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-9/uran-9-02.jpg)
 
 #### Kalustokuvaus
 Aseistettu telaketjuinen taistelurobotti, joka on kehitetty tiedustelu-, tulituki- ja terrorisminvastaisiin tehtaviin. Se on venalaisen UGV-kehityksen tunnetuin taistelualusta, mutta samalla yksi niista, joiden todellisesta kenttakypsyydesta on eniten kriittisia huomioita.

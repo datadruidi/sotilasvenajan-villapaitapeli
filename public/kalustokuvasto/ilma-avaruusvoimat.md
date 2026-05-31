@@ -1,23 +1,23 @@
-Ôªø# Kalustokuvasto
+# Kalustokuvasto
 
 ## havittajat-ja-torjuntakoneet
 
 ### Sukhoi Su-35S
 #### Kuvamateriaali
-![Sukhoi Su-35S](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/sukhoi-su-35s/sukhoi-su-35s-01.png)
-![Sukhoi Su-35S](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/sukhoi-su-35s/sukhoi-su-35s-02.png)
+![Sukhoi Su-35S](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/sukhoi-su-35s/sukhoi-su-35s-01.jpg)
+![Sukhoi Su-35S](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/sukhoi-su-35s/sukhoi-su-35s-02.jpg)
 
 #### Kalustokuvaus
-Raskas monitoimih√§vitt√§j√§, jonka p√§√§rooli on ilmaherruuden saavuttaminen, saattoteht√§v√§t ja pitk√§n kantaman ilmataistelu. Kone yhdist√§√§ suuren toimintamatkan, korkean kuorman ja superohjautuvuuden, mutta ei ole aidosti matalahavaittava viidennen sukupolven kone.
+Raskas monitoimih‰vitt‰j‰, jonka p‰‰rooli on ilmaherruuden saavuttaminen, saattoteht‰v‰t ja pitk‰n kantaman ilmataistelu. Kone yhdist‰‰ suuren toimintamatkan, korkean kuorman ja superohjautuvuuden, mutta ei ole aidosti matalahavaittava viidennen sukupolven kone.
 
 #### Suorituskyvyt
-P√§√§aseistukseen kuuluu ilma-ilma-aseistus, kuten R-77 (–†-77) ja pitk√§n kantaman R-37M (–†-37–ú), sek√§ ilma-maa-aseistus eri ohjus- ja pommiperheist√§. ODINin mukaan R-77:n kantama on noin 90‚Äì100 km ja R-37M:n yli 300 km; k√§yt√§nn√∂n osumatodenn√§k√∂isyys riippuu sensorifuusiosta, maalinosoituksesta ja vastatoimista.
+P‰‰aseistukseen kuuluu ilma-ilma-aseistus, kuten R-77 (?-77) ja pitk‰n kantaman R-37M (?-37?), sek‰ ilma-maa-aseistus eri ohjus- ja pommiperheist‰. ODINin mukaan R-77:n kantama on noin 90ñ100 km ja R-37M:n yli 300 km; k‰yt‰nnˆn osumatodenn‰kˆisyys riippuu sensorifuusiosta, maalinosoituksesta ja vastatoimista.
 
 #### Huomioitava analyysiin
-Su-35S on Ven√§j√§n k√§yt√§nn√∂ss√§ t√§rkein ei-stealth-ilmaherruusalusta ja toimii usein my√∂s pitk√§n kantaman ohjuslavettina. Avoimissa l√§hteiss√§ suorituskyky√§ korostetaan, mutta todellinen vaikutus riippuu vahvasti tutkaverkosta, A-50/A-50U -tuesta ja asevarastojen laadusta.
+Su-35S on Ven‰j‰n k‰yt‰nnˆss‰ t‰rkein ei-stealth-ilmaherruusalusta ja toimii usein myˆs pitk‰n kantaman ohjuslavettina. Avoimissa l‰hteiss‰ suorituskyky‰ korostetaan, mutta todellinen vaikutus riippuu vahvasti tutkaverkosta, A-50/A-50U -tuesta ja asevarastojen laadusta.
 
 #### Operatiiviset rajoitteet
-Suuri tutkapinta-ala tekee koneesta n√§kyv√§mm√§n kuin matalahavaittavat vastustajat. Pitk√§n kantaman taistelukyky heikkenee, jos verkotettu tilannekuva, AWACS-tuki tai nykyaikainen ohjuskalusto eiv√§t ole k√§ytett√§viss√§.
+Suuri tutkapinta-ala tekee koneesta n‰kyv‰mm‰n kuin matalahavaittavat vastustajat. Pitk‰n kantaman taistelukyky heikkenee, jos verkotettu tilannekuva, AWACS-tuki tai nykyaikainen ohjuskalusto eiv‰t ole k‰ytett‰viss‰.
 
 #### L?hteet
 - [ODIN: Su-35S (Flanker-M) Russian Air Superiority Fighter](https://odin.tradoc.army.mil/WEG/Asset/fec6885d1280b773496ffd94dcb226a2)
@@ -26,20 +26,20 @@ Suuri tutkapinta-ala tekee koneesta n√§kyv√§mm√§n kuin matalahavaittavat vastust
 
 ### Sukhoi Su-57
 #### Kuvamateriaali
-![Sukhoi Su-57](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/sukhoi-su-57/sukhoi-su-57-01.png)
-![Sukhoi Su-57](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/sukhoi-su-57/sukhoi-su-57-02.png)
+![Sukhoi Su-57](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/sukhoi-su-57/sukhoi-su-57-01.jpg)
+![Sukhoi Su-57](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/sukhoi-su-57/sukhoi-su-57-02.jpg)
 
 #### Kalustokuvaus
-Viidennen sukupolven monitoimih√§vitt√§j√§, jonka tarkoitus on yhdist√§√§ matalahavaittavuus, verkottunut tilannekuva ja moniroolinen aseenk√§ytt√∂. Se on Ven√§j√§n teknologisesti edistynein h√§vitt√§j√§, mutta avoimissa l√§hteiss√§ tuotantom√§√§r√§t ja todellinen operatiivinen massa n√§ytt√§v√§t edelleen rajallisilta.
+Viidennen sukupolven monitoimih‰vitt‰j‰, jonka tarkoitus on yhdist‰‰ matalahavaittavuus, verkottunut tilannekuva ja moniroolinen aseenk‰yttˆ. Se on Ven‰j‰n teknologisesti edistynein h‰vitt‰j‰, mutta avoimissa l‰hteiss‰ tuotantom‰‰r‰t ja todellinen operatiivinen massa n‰ytt‰v‰t edelleen rajallisilta.
 
 #### Suorituskyvyt
-Su-57 on tarkoitettu k√§ytt√§m√§√§n pitk√§n kantaman ilma-ilma-aseita sek√§ moderneja t√§sm√§aseita, kuten Kh-69 (–•-69) ja Kh-38 (–•-38) -sarjoja. ODINin mukaan Kh-69 on noin 290 km luokan ilmasta laukaistava risteilyohjus; tarkat integraatio- ja varastom√§√§r√§t eiv√§t kuitenkaan ole avoimissa l√§hteiss√§ t√§ysin l√§pin√§kyvi√§.
+Su-57 on tarkoitettu k‰ytt‰m‰‰n pitk‰n kantaman ilma-ilma-aseita sek‰ moderneja t‰sm‰aseita, kuten Kh-69 (?-69) ja Kh-38 (?-38) -sarjoja. ODINin mukaan Kh-69 on noin 290 km luokan ilmasta laukaistava risteilyohjus; tarkat integraatio- ja varastom‰‰r‰t eiv‰t kuitenkaan ole avoimissa l‰hteiss‰ t‰ysin l‰pin‰kyvi‰.
 
 #### Huomioitava analyysiin
-Su-57:n merkitys on suhteellisesti suurempi kuin pelkk√§ lukum√§√§r√§, koska se toimii my√∂s teknologian, sensorifuusion ja uusien aseiden k√§ytt√∂alustana. Analyysissa on syyt√§ erottaa suunniteltu suorituskyky todistetusta taisteluk√§yt√∂st√§.
+Su-57:n merkitys on suhteellisesti suurempi kuin pelkk‰ lukum‰‰r‰, koska se toimii myˆs teknologian, sensorifuusion ja uusien aseiden k‰yttˆalustana. Analyysissa on syyt‰ erottaa suunniteltu suorituskyky todistetusta taisteluk‰ytˆst‰.
 
 #### Operatiiviset rajoitteet
-Pieni m√§√§r√§ koneita rajoittaa vaikutusta koko ilmasodank√§yntiin. Avoin tieto koneen stealth-tasosta, sensorifuusiosta ja tuotantokyvyst√§ on osin ristiriitaista, joten arviot on pidett√§v√§ varovaisina.
+Pieni m‰‰r‰ koneita rajoittaa vaikutusta koko ilmasodank‰yntiin. Avoin tieto koneen stealth-tasosta, sensorifuusiosta ja tuotantokyvyst‰ on osin ristiriitaista, joten arviot on pidett‰v‰ varovaisina.
 
 #### L?hteet
 - [ODIN: Su-57 (Felon) Russian Stealth Fighter](https://odin.tradoc.army.mil/WEG/Asset/0dabf5bc7b5370a11075350ea11f38aa)
@@ -48,20 +48,20 @@ Pieni m√§√§r√§ koneita rajoittaa vaikutusta koko ilmasodank√§yntiin. Avoin tieto
 
 ### Mikoyan MiG-31
 #### Kuvamateriaali
-![Mikoyan MiG-31](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/mikoyan-mig-31/mikoyan-mig-31-01.png)
-![Mikoyan MiG-31](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/mikoyan-mig-31/mikoyan-mig-31-02.png)
+![Mikoyan MiG-31](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/mikoyan-mig-31/mikoyan-mig-31-01.jpg)
+![Mikoyan MiG-31](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/mikoyan-mig-31/mikoyan-mig-31-02.jpg)
 
 #### Kalustokuvaus
-Raskas torjuntah√§vitt√§j√§, jonka p√§√§teht√§v√§ on pitk√§n kantaman ilmapuolustus, suurten alueiden valvonta ja nopea reagointi korkealla lent√§viin maaleihin. Alusta on edelleen relevantti erityisesti nopeuden, korkeussuorituskyvyn ja raskaan ohjuskuorman takia.
+Raskas torjuntah‰vitt‰j‰, jonka p‰‰teht‰v‰ on pitk‰n kantaman ilmapuolustus, suurten alueiden valvonta ja nopea reagointi korkealla lent‰viin maaleihin. Alusta on edelleen relevantti erityisesti nopeuden, korkeussuorituskyvyn ja raskaan ohjuskuorman takia.
 
 #### Suorituskyvyt
-MiG-31 k√§ytt√§√§ pitk√§n kantaman ilma-ilma-ohjuksia, erityisesti R-37M (–†-37–ú), jonka ODIN ilmoittaa yli 300 km kantaman luokkaan. Osaa MiG-31-varianttien rooleista on laajennettu my√∂s erikoisaseiden kuljetukseen, mutta t√§m√§ ei koske kaikkia perusmallin koneita.
+MiG-31 k‰ytt‰‰ pitk‰n kantaman ilma-ilma-ohjuksia, erityisesti R-37M (?-37?), jonka ODIN ilmoittaa yli 300 km kantaman luokkaan. Osaa MiG-31-varianttien rooleista on laajennettu myˆs erikoisaseiden kuljetukseen, mutta t‰m‰ ei koske kaikkia perusmallin koneita.
 
 #### Huomioitava analyysiin
-MiG-31 on ennen kaikkea ilmatilan sulkija ja pitk√§n kantaman torjunta-alusta, ei moniroolih√§vitt√§j√§ l√§nsimaisessa merkityksess√§. Sen arvo kasvaa, kun se toimii verkottuneena maa- ja ilmavalvonnan kanssa.
+MiG-31 on ennen kaikkea ilmatilan sulkija ja pitk‰n kantaman torjunta-alusta, ei moniroolih‰vitt‰j‰ l‰nsimaisessa merkityksess‰. Sen arvo kasvaa, kun se toimii verkottuneena maa- ja ilmavalvonnan kanssa.
 
 #### Operatiiviset rajoitteet
-Suuri koko ja n√§kyvyys rajoittavat selviytymist√§ moderneja vastustajia vastaan ilman tukea. Koneen tehokkuus riippuu vahvasti tutkasta, datalinkist√§ ja pitk√§n kantaman ohjusten saatavuudesta.
+Suuri koko ja n‰kyvyys rajoittavat selviytymist‰ moderneja vastustajia vastaan ilman tukea. Koneen tehokkuus riippuu vahvasti tutkasta, datalinkist‰ ja pitk‰n kantaman ohjusten saatavuudesta.
 
 #### L?hteet
 - [ODIN: MiG-31 (Foxhound) Russian Interceptor/Attack Aircraft](https://odin.tradoc.army.mil/WEG/Asset/a4669ef1dd64227e040b5bfc32b11855)
@@ -69,79 +69,79 @@ Suuri koko ja n√§kyvyys rajoittavat selviytymist√§ moderneja vastustajia vastaan
 
 ### Mikoyan MiG-29
 #### Kuvamateriaali
-![Mikoyan MiG-29](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/mikoyan-mig-29/mikoyan-mig-29-01.png)
+![Mikoyan MiG-29](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/mikoyan-mig-29/mikoyan-mig-29-01.jpg)
 
 #### Kalustokuvaus
-Nelj√§nnen sukupolven kaksimoottorinen h√§vitt√§j√§, jota on k√§ytetty ensisijaisesti ilmaherruuden saavuttamiseen ja l√§hialueen ilmapuolustukseen. Ven√§j√§n k√§yt√∂ss√§ se edustaa vanhempaa mutta edelleen k√§ytt√∂kelpoista Fulcrum-perhett√§, jonka rooli on osin v√§istynyt uudemmille MiG-31-, Su-30- ja Su-35-koneille.
+Nelj‰nnen sukupolven kaksimoottorinen h‰vitt‰j‰, jota on k‰ytetty ensisijaisesti ilmaherruuden saavuttamiseen ja l‰hialueen ilmapuolustukseen. Ven‰j‰n k‰ytˆss‰ se edustaa vanhempaa mutta edelleen k‰yttˆkelpoista Fulcrum-perhett‰, jonka rooli on osin v‰istynyt uudemmille MiG-31-, Su-30- ja Su-35-koneille.
 
 #### Suorituskyvyt
-Suunniteltu lyhyen ja keskipitk√§n kantaman ilmataisteluun sek√§ rajattuun ilma-maa-k√§ytt√∂√∂n. Aseistus ja avionics vaihtelevat voimakkaasti alaversioittain, joten suorituskyky pit√§√§ arvioida aina varianttikohtaisesti.
+Suunniteltu lyhyen ja keskipitk‰n kantaman ilmataisteluun sek‰ rajattuun ilma-maa-k‰yttˆˆn. Aseistus ja avionics vaihtelevat voimakkaasti alaversioittain, joten suorituskyky pit‰‰ arvioida aina varianttikohtaisesti.
 
 #### Huomioitava analyysiin
-Avoimissa l√§hteiss√§ MiG-29:n ven√§l√§isk√§ytt√∂ kuvataan usein sekoittuneena SMT-, UB- ja muiden modernisoitujen versioiden kanssa. Pelkk√§ ‚ÄúMiG-29‚Äù ei siksi viel√§ kerro sensoritasosta, aseintegraatioista tai yksik√∂n todellisesta taisteluarvosta.
+Avoimissa l‰hteiss‰ MiG-29:n ven‰l‰isk‰yttˆ kuvataan usein sekoittuneena SMT-, UB- ja muiden modernisoitujen versioiden kanssa. Pelkk‰ ìMiG-29î ei siksi viel‰ kerro sensoritasosta, aseintegraatioista tai yksikˆn todellisesta taisteluarvosta.
 
 #### Operatiiviset rajoitteet
-Vanhemmat rungot, lyhyempi toimintas√§de ja rajallisempi modernisointitaso heikent√§v√§t k√§ytt√∂√§ verrattuna uudempaan Flanker-perheeseen. Huollon, varaosien ja modernisointistandardien vaihtelu voi n√§ky√§ yksikk√∂kohtaisesti.
+Vanhemmat rungot, lyhyempi toimintas‰de ja rajallisempi modernisointitaso heikent‰v‰t k‰yttˆ‰ verrattuna uudempaan Flanker-perheeseen. Huollon, varaosien ja modernisointistandardien vaihtelu voi n‰ky‰ yksikkˆkohtaisesti.
 
 #### L?hteet
 - [ODIN WEG: MiG-29 (Fulcrum) Russian Multirole Fighter Aircraft](https://odin.tradoc.army.mil/WEG/Asset/8e5ee70c6f22f4df21b8514ebc3a68e9)
-- [ODIN WEG ‚Äì p√§√§sivu](https://odin.tradoc.army.mil/WEG)
+- [ODIN WEG ñ p‰‰sivu](https://odin.tradoc.army.mil/WEG)
 
 ### Mikoyan MiG-35
 #### Kuvamateriaali
-![Mikoyan MiG-35](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/mikoyan-mig-35/mikoyan-mig-35-01.png)
+![Mikoyan MiG-35](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/mikoyan-mig-35/mikoyan-mig-35-01.jpg)
 
 #### Kalustokuvaus
-MiG-29-perheen 4++-sukupolven jatkokehitelm√§, joka on tarkoitettu monitoimih√§vitt√§j√§ksi korkean intensiteetin toimintaymp√§rist√∂√∂n. Alusta on suunniteltu taistelemaan ilma-, maa- ja merimaaleja vastaan kaikissa s√§√§oloissa.
+MiG-29-perheen 4++-sukupolven jatkokehitelm‰, joka on tarkoitettu monitoimih‰vitt‰j‰ksi korkean intensiteetin toimintaymp‰ristˆˆn. Alusta on suunniteltu taistelemaan ilma-, maa- ja merimaaleja vastaan kaikissa s‰‰oloissa.
 
 #### Suorituskyvyt
-Valmistajan mukaan kone kykenee k√§ytt√§m√§√§n moderneja aseita, tekem√§√§n tiedustelua ja toimimaan my√∂s ryhm√§johtamisen solmuna. UAC ilmoittaa APAA-tutkan havaitsevan ilmamaaleja enint√§√§n noin 160 kilometrin et√§isyydelt√§, mutta k√§yt√§nn√∂n suorituskyky riippuu maalista ja taisteluymp√§rist√∂st√§.
+Valmistajan mukaan kone kykenee k‰ytt‰m‰‰n moderneja aseita, tekem‰‰n tiedustelua ja toimimaan myˆs ryhm‰johtamisen solmuna. UAC ilmoittaa APAA-tutkan havaitsevan ilmamaaleja enint‰‰n noin 160 kilometrin et‰isyydelt‰, mutta k‰yt‰nnˆn suorituskyky riippuu maalista ja taisteluymp‰ristˆst‰.
 
 #### Huomioitava analyysiin
-MiG-35 on teknisesti kyvyk√§s, mutta avoimen l√§hdeaineiston perusteella sen k√§ytt√∂√∂noton mittakaava on j√§√§nyt rajalliseksi verrattuna Su-30/35-linjoihin. Siksi se on analyysissa enemm√§n niche-kyky kuin VKS:n m√§√§r√§llinen selk√§ranka.
+MiG-35 on teknisesti kyvyk‰s, mutta avoimen l‰hdeaineiston perusteella sen k‰yttˆˆnoton mittakaava on j‰‰nyt rajalliseksi verrattuna Su-30/35-linjoihin. Siksi se on analyysissa enemm‰n niche-kyky kuin VKS:n m‰‰r‰llinen selk‰ranka.
 
 #### Operatiiviset rajoitteet
-Pieni laivuekoko rajoittaa vaikutusta koko ilmavoiman tasolla. Avoimissa l√§hteiss√§ tuotanto- ja k√§ytt√∂m√§√§r√§t ovat usein ristiriitaisia, joten operatiivista painoarvoa ei pid√§ yliarvioida.
+Pieni laivuekoko rajoittaa vaikutusta koko ilmavoiman tasolla. Avoimissa l‰hteiss‰ tuotanto- ja k‰yttˆm‰‰r‰t ovat usein ristiriitaisia, joten operatiivista painoarvoa ei pid‰ yliarvioida.
 
 #### L?hteet
 - [UAC: MiG-35](https://uacrussia.ru/en/aircraft/lineup/military/mig-35/)
-- [United Aircraft Corporation ‚Äì p√§√§sivu](https://uacrussia.ru/en/)
+- [United Aircraft Corporation ñ p‰‰sivu](https://uacrussia.ru/en/)
 
 ### Sukhoi Su-27
 #### Kuvamateriaali
-![Sukhoi Su-27](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/sukhoi-su-27/sukhoi-su-27-01.png)
+![Sukhoi Su-27](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/sukhoi-su-27/sukhoi-su-27-01.jpg)
 
 #### Kalustokuvaus
-Raskas kaksimoottorinen ilmaherruush√§vitt√§j√§, joka muodostaa suuren osan ven√§l√§isen Flanker-perheen teknisest√§ perustasta. Sit√§ on k√§ytetty erityisesti ilmatilan hallintaan, torjuntaan ja pitk√§n kantaman partiointiin.
+Raskas kaksimoottorinen ilmaherruush‰vitt‰j‰, joka muodostaa suuren osan ven‰l‰isen Flanker-perheen teknisest‰ perustasta. Sit‰ on k‰ytetty erityisesti ilmatilan hallintaan, torjuntaan ja pitk‰n kantaman partiointiin.
 
 #### Suorituskyvyt
-Kone tarjoaa hyv√§n nopeuden, nousukyvyn ja ohjattavuuden erityisesti ilmataistelussa. Vanhemmissa perusversioissa avioniikka ja monitoimisuus j√§√§v√§t kuitenkin selv√§sti Su-30-, Su-35- ja Su-57-kaluston alapuolelle.
+Kone tarjoaa hyv‰n nopeuden, nousukyvyn ja ohjattavuuden erityisesti ilmataistelussa. Vanhemmissa perusversioissa avioniikka ja monitoimisuus j‰‰v‰t kuitenkin selv‰sti Su-30-, Su-35- ja Su-57-kaluston alapuolelle.
 
 #### Huomioitava analyysiin
-Su-27-perhe on laaja, ja avoimissa l√§hteiss√§ perus-Su-27, UB, SM ja SM3 voivat esiinty√§ saman otsikon alla. Analyysissa kannattaa erottaa puhdas ilmaherruusk√§ytt√∂ modernisoiduista monitoimiversioista.
+Su-27-perhe on laaja, ja avoimissa l‰hteiss‰ perus-Su-27, UB, SM ja SM3 voivat esiinty‰ saman otsikon alla. Analyysissa kannattaa erottaa puhdas ilmaherruusk‰yttˆ modernisoiduista monitoimiversioista.
 
 #### Operatiiviset rajoitteet
-Ik√§√§ntyv√§ runkokanta ja osin vanhentunut j√§rjestelm√§arkkitehtuuri rajoittavat kasvupotentiaalia. Kone on edelleen relevantti, mutta sen suhteellinen merkitys pienenee modernisoidumman Flanker-kaluston rinnalla.
+Ik‰‰ntyv‰ runkokanta ja osin vanhentunut j‰rjestelm‰arkkitehtuuri rajoittavat kasvupotentiaalia. Kone on edelleen relevantti, mutta sen suhteellinen merkitys pienenee modernisoidumman Flanker-kaluston rinnalla.
 
 #### L?hteet
 - [ODIN WEG: Su-27 (Flanker) Russian Multirole Fighter Aircraft](https://odin.tradoc.army.mil/WEG/Asset/Su-27_%28Flanker%29_Russian_Multirole_Fighter_Aircraft)
-- [ODIN WEG ‚Äì p√§√§sivu](https://odin.tradoc.army.mil/WEG)
+- [ODIN WEG ñ p‰‰sivu](https://odin.tradoc.army.mil/WEG)
 
 ### Sukhoi Su-30
 #### Kuvamateriaali
-![Sukhoi Su-30](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/sukhoi-su-30/sukhoi-su-30-01.png)
+![Sukhoi Su-30](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/havittajat-ja-torjuntakoneet/sukhoi-su-30/sukhoi-su-30-01.jpg)
 
 #### Kalustokuvaus
-Kaksipaikkainen raskas monitoimih√§vitt√§j√§, joka yhdist√§√§ ilmataistelun, pitk√§n toimintas√§teen ja iskuroolin samaan alustaan. Ven√§j√§n k√§yt√∂ss√§ erityisesti Su-30SM/SM2 toimii joustavana yleiskoneena useisiin teht√§v√§kokonaisuuksiin.
+Kaksipaikkainen raskas monitoimih‰vitt‰j‰, joka yhdist‰‰ ilmataistelun, pitk‰n toimintas‰teen ja iskuroolin samaan alustaan. Ven‰j‰n k‰ytˆss‰ erityisesti Su-30SM/SM2 toimii joustavana yleiskoneena useisiin teht‰v‰kokonaisuuksiin.
 
 #### Suorituskyvyt
-Alus kykenee ilma-ilma- ja ilma-maa-teht√§viin, pitk√§√§n partiointiin ja ryhm√§toimintaan kahden hengen miehist√∂n ansiosta. Sen vahvuus on monipuolisuus eik√§ yksitt√§inen huippuominaisuus, mik√§ tekee siit√§ k√§ytt√∂kelpoisen useissa operatiivisissa profiileissa.
+Alus kykenee ilma-ilma- ja ilma-maa-teht‰viin, pitk‰‰n partiointiin ja ryhm‰toimintaan kahden hengen miehistˆn ansiosta. Sen vahvuus on monipuolisuus eik‰ yksitt‰inen huippuominaisuus, mik‰ tekee siit‰ k‰yttˆkelpoisen useissa operatiivisissa profiileissa.
 
 #### Huomioitava analyysiin
-Su-30 on k√§yt√§nn√∂ss√§ yksi VKS:n t√§rkeimmist√§ monitoimialustoista. Variantit ja modernisointitasot vaikuttavat olennaisesti sensoreihin, aseisiin ja verkottumiseen, joten ‚ÄúSu-30‚Äù on analyysissa liian yleinen nimike ilman alaversiota.
+Su-30 on k‰yt‰nnˆss‰ yksi VKS:n t‰rkeimmist‰ monitoimialustoista. Variantit ja modernisointitasot vaikuttavat olennaisesti sensoreihin, aseisiin ja verkottumiseen, joten ìSu-30î on analyysissa liian yleinen nimike ilman alaversiota.
 
 #### Operatiiviset rajoitteet
-Suuri koko ja korkea arvo tekev√§t koneesta merkitt√§v√§n tappioherkkyyden n√§k√∂kulmasta. Suorituskyvyn t√§ysim√§√§r√§inen hy√∂dynt√§minen edellytt√§√§ my√∂s toimivaa huoltoa, asevarantoa ja koulutettua miehist√∂√§.
+Suuri koko ja korkea arvo tekev‰t koneesta merkitt‰v‰n tappioherkkyyden n‰kˆkulmasta. Suorituskyvyn t‰ysim‰‰r‰inen hyˆdynt‰minen edellytt‰‰ myˆs toimivaa huoltoa, asevarantoa ja koulutettua miehistˆ‰.
 
 #### L?hteet
 - [ODIN WEG: Su-30 (Flanker-C) Russian Multirole Fighter Aircraft](https://odin.tradoc.army.mil/WEG/Asset/Su-30_%28Flanker-C%29_Russian_Multirole_Fighter_Aircraft)
@@ -151,20 +151,20 @@ Suuri koko ja korkea arvo tekev√§t koneesta merkitt√§v√§n tappioherkkyyden n√§k√
 
 ### Sukhoi Su-34
 #### Kuvamateriaali
-![Sukhoi Su-34](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/isku-ja-rynnakkokoneet/sukhoi-su-34/sukhoi-su-34-01.png)
-![Sukhoi Su-34](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/isku-ja-rynnakkokoneet/sukhoi-su-34/sukhoi-su-34-02.png)
+![Sukhoi Su-34](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/isku-ja-rynnakkokoneet/sukhoi-su-34/sukhoi-su-34-01.jpg)
+![Sukhoi Su-34](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/isku-ja-rynnakkokoneet/sukhoi-su-34/sukhoi-su-34-02.jpg)
 
 #### Kalustokuvaus
-Kaksipaikkainen h√§vitt√§j√§pommittaja, joka on suunniteltu syvyyssuuntaisiin isku-, pommitus- ja merimaalirooleihin. Alusta painottuu asekuormaan, toimintamatkaan ja huonon s√§√§n iskukykyyn enemm√§n kuin l√§hitaistelun ilmaherruuteen.
+Kaksipaikkainen h‰vitt‰j‰pommittaja, joka on suunniteltu syvyyssuuntaisiin isku-, pommitus- ja merimaalirooleihin. Alusta painottuu asekuormaan, toimintamatkaan ja huonon s‰‰n iskukykyyn enemm‰n kuin l‰hitaistelun ilmaherruuteen.
 
 #### Suorituskyvyt
-Su-34 kykenee k√§ytt√§m√§√§n ohjattuja pommeja, risteilyohjuksia ja taktisia ilmasta-maahan-ohjuksia, mukaan lukien Kh-38 (–•-38) -sarjan aseet. ODINin mukaan Kh-38 on tarkoitettu erityisesti modernien ven√§l√§isten iskuh√§vitt√§jien aseeksi; kantama vaihtelee versiosta riippuen, joten avoin l√§hdeaineisto ei tue yht√§ varmaa arvoa kaikille alaversioille.
+Su-34 kykenee k‰ytt‰m‰‰n ohjattuja pommeja, risteilyohjuksia ja taktisia ilmasta-maahan-ohjuksia, mukaan lukien Kh-38 (?-38) -sarjan aseet. ODINin mukaan Kh-38 on tarkoitettu erityisesti modernien ven‰l‰isten iskuh‰vitt‰jien aseeksi; kantama vaihtelee versiosta riippuen, joten avoin l‰hdeaineisto ei tue yht‰ varmaa arvoa kaikille alaversioille.
 
 #### Huomioitava analyysiin
-Su-34 on yksi Ven√§j√§n keskeisist√§ taktisen syv√§iskun alustoista. Analyysissa kannattaa erottaa rungon oma suorituskyky siit√§, mit√§ aseita, maalinosoitusta ja elektronista suojautumista kullakin lennolla oikeasti on mukana.
+Su-34 on yksi Ven‰j‰n keskeisist‰ taktisen syv‰iskun alustoista. Analyysissa kannattaa erottaa rungon oma suorituskyky siit‰, mit‰ aseita, maalinosoitusta ja elektronista suojautumista kullakin lennolla oikeasti on mukana.
 
 #### Operatiiviset rajoitteet
-Kone ei ole matalahavaittava ja sen selviytyminen riippuu pitk√§lti stand-off-aseista, h√§irinn√§st√§ ja ilmapuolustuksen aukkojen hy√∂dynt√§misest√§. Avoimissa l√§hteiss√§ yksitt√§isten asepakettien ja sensorikokonaisuuksien tiedot ovat osin puutteellisia.
+Kone ei ole matalahavaittava ja sen selviytyminen riippuu pitk‰lti stand-off-aseista, h‰irinn‰st‰ ja ilmapuolustuksen aukkojen hyˆdynt‰misest‰. Avoimissa l‰hteiss‰ yksitt‰isten asepakettien ja sensorikokonaisuuksien tiedot ovat osin puutteellisia.
 
 #### L?hteet
 - [ODIN: Su-34 (Fullback) Russian Fighter-Bomber Aircraft](https://odin.tradoc.army.mil/WEG/Asset/Su-34%20%28Fullback%29%20Russian%20Fighter-Bomber%20Aircraft)
@@ -173,36 +173,36 @@ Kone ei ole matalahavaittava ja sen selviytyminen riippuu pitk√§lti stand-off-as
 
 ### Sukhoi Su-24
 #### Kuvamateriaali
-![Sukhoi Su-24](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/isku-ja-rynnakkokoneet/sukhoi-su-24/sukhoi-su-24-01.png)
+![Sukhoi Su-24](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/isku-ja-rynnakkokoneet/sukhoi-su-24/sukhoi-su-24-01.jpg)
 
 #### Kalustokuvaus
-Muuttuvasiipinen taktinen pommittaja ja iskuh√§vitt√§j√§, joka on suunniteltu matalalla suoritettaviin all-weather-iskuihin. Se edustaa vanhempaa mutta edelleen k√§ytt√∂kelpoista syv√§isku- ja interdiktioalustaa.
+Muuttuvasiipinen taktinen pommittaja ja iskuh‰vitt‰j‰, joka on suunniteltu matalalla suoritettaviin all-weather-iskuihin. Se edustaa vanhempaa mutta edelleen k‰yttˆkelpoista syv‰isku- ja interdiktioalustaa.
 
 #### Suorituskyvyt
-Kone kykenee kantamaan laajaa pommi- ja ohjuskuormaa sek√§ toimimaan huonossakin s√§√§ss√§. Sen vahvuus on iskuj√§rjestelm√§n kantama ja kuormankantokyky, mutta ei nykyaikaisen monitoimih√§vitt√§j√§n sensorifuusio tai selviytymiskyky.
+Kone kykenee kantamaan laajaa pommi- ja ohjuskuormaa sek‰ toimimaan huonossakin s‰‰ss‰. Sen vahvuus on iskuj‰rjestelm‰n kantama ja kuormankantokyky, mutta ei nykyaikaisen monitoimih‰vitt‰j‰n sensorifuusio tai selviytymiskyky.
 
 #### Huomioitava analyysiin
-Su-24 on yh√§ relevantti silloin, kun painopiste on massassa, asekuormassa ja pitk√§√§n vakiintuneissa iskuprofiileissa. Avoimissa l√§hteiss√§ modernisoidut Su-24M/M2-versiot pit√§√§ erottaa vanhemmista koneista.
+Su-24 on yh‰ relevantti silloin, kun painopiste on massassa, asekuormassa ja pitk‰‰n vakiintuneissa iskuprofiileissa. Avoimissa l‰hteiss‰ modernisoidut Su-24M/M2-versiot pit‰‰ erottaa vanhemmista koneista.
 
 #### Operatiiviset rajoitteet
-Ik√§√§ntyv√§ suunnittelu, suurempi havaittavuus ja korkea haavoittuvuus nykyaikaista ilmatorjuntaa vastaan rajoittavat k√§ytt√∂√§ korkeauhkaymp√§rist√∂ss√§. Se soveltuu paremmin tilanteisiin, joissa vastapuolen ilmapuolustus on jo kulutettu tai hajautettu.
+Ik‰‰ntyv‰ suunnittelu, suurempi havaittavuus ja korkea haavoittuvuus nykyaikaista ilmatorjuntaa vastaan rajoittavat k‰yttˆ‰ korkeauhkaymp‰ristˆss‰. Se soveltuu paremmin tilanteisiin, joissa vastapuolen ilmapuolustus on jo kulutettu tai hajautettu.
 
 #### L?hteet
 - [ODIN WEG: Su-24 (Fencer) Russian Attack Aircraft](https://odin.tradoc.army.mil/WEG/Asset/659cb131aaa8324369448bfc5ba60c7e)
-- [ODIN WEG ‚Äì p√§√§sivu](https://odin.tradoc.army.mil/WEG)
+- [ODIN WEG ñ p‰‰sivu](https://odin.tradoc.army.mil/WEG)
 
 ### Sukhoi Su-25
 #### Kuvamateriaali
-![Sukhoi Su-25](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/isku-ja-rynnakkokoneet/sukhoi-su-25/sukhoi-su-25-01.png)
+![Sukhoi Su-25](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/isku-ja-rynnakkokoneet/sukhoi-su-25/sukhoi-su-25-01.jpg)
 
 #### Kalustokuvaus
-Panssaroitu l√§hitukikone, joka on suunniteltu tukemaan maavoimia suoraan taistelukent√§n l√§heisyydess√§. Sen ydinrooli on iskujen antaminen maaleihin, joita vastaan tarvitaan kest√§v√§ ja yksinkertainen hy√∂kk√§ysalusta.
+Panssaroitu l‰hitukikone, joka on suunniteltu tukemaan maavoimia suoraan taistelukent‰n l‰heisyydess‰. Sen ydinrooli on iskujen antaminen maaleihin, joita vastaan tarvitaan kest‰v‰ ja yksinkertainen hyˆkk‰ysalusta.
 
 #### Suorituskyvyt
-Kone kantaa tyypillisesti raketteja, pommeja, tykkiaseistusta ja osassa versioita t√§sm√§aseita. Sen vahvuus on kyky operoida vaativissa kentt√§olosuhteissa ja kest√§√§ taisteluvaurioita paremmin kuin moni nopeampi h√§vitt√§j√§.
+Kone kantaa tyypillisesti raketteja, pommeja, tykkiaseistusta ja osassa versioita t‰sm‰aseita. Sen vahvuus on kyky operoida vaativissa kentt‰olosuhteissa ja kest‰‰ taisteluvaurioita paremmin kuin moni nopeampi h‰vitt‰j‰.
 
 #### Huomioitava analyysiin
-Su-25:n arvo syntyy erityisesti CAS-roolissa, mutta avoimissa l√§hteiss√§ eri modernisointitasot kuten SM- ja SM3-versiot menev√§t usein sekaisin. Varianttitunnistus on t√§rke√§, koska se vaikuttaa suuresti t√§ht√§ys- ja omasuojakykyyn.
+Su-25:n arvo syntyy erityisesti CAS-roolissa, mutta avoimissa l‰hteiss‰ eri modernisointitasot kuten SM- ja SM3-versiot menev‰t usein sekaisin. Varianttitunnistus on t‰rke‰, koska se vaikuttaa suuresti t‰ht‰ys- ja omasuojakykyyn.
 
 #### Operatiiviset rajoitteet
 Hidas ja matalalla toimiva profiili altistaa koneen MANPADS- ja lyhyen kantaman ilmatorjuntauhille. Ilman tehokasta SEAD-/DEAD-tukea tappioriski kasvaa nopeasti.
@@ -215,20 +215,20 @@ Hidas ja matalalla toimiva profiili altistaa koneen MANPADS- ja lyhyen kantaman 
 
 ### Tupolev Tu-160
 #### Kuvamateriaali
-![Tupolev Tu-160](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/strategiset-pommittajat/tupolev-tu-160/tupolev-tu-160-01.png)
-![Tupolev Tu-160](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/strategiset-pommittajat/tupolev-tu-160/tupolev-tu-160-02.png)
+![Tupolev Tu-160](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/strategiset-pommittajat/tupolev-tu-160/tupolev-tu-160-01.jpg)
+![Tupolev Tu-160](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/strategiset-pommittajat/tupolev-tu-160/tupolev-tu-160-02.jpg)
 
 #### Kalustokuvaus
-Strateginen yli√§√§nipommikone, jonka p√§√§teht√§v√§ on pitk√§n kantaman risteilyohjusiskut ja ydinpelotteen ilmakomponentin tukeminen. Alusta tarjoaa suuren asekuorman ja pitk√§n toimintas√§teen, mutta sen k√§ytt√∂ painottuu stand-off-aseisiin eik√§ tunkeutumiseen vahvasti suojattuun ilmatilaan.
+Strateginen yli‰‰nipommikone, jonka p‰‰teht‰v‰ on pitk‰n kantaman risteilyohjusiskut ja ydinpelotteen ilmakomponentin tukeminen. Alusta tarjoaa suuren asekuorman ja pitk‰n toimintas‰teen, mutta sen k‰yttˆ painottuu stand-off-aseisiin eik‰ tunkeutumiseen vahvasti suojattuun ilmatilaan.
 
 #### Suorituskyvyt
-Tu-160 k√§ytt√§√§ pitk√§n kantaman ilmasta laukaistavia risteilyohjuksia, joilla voidaan iske√§ kaukaa ilman tunkeutumista kohdealueen ilmapuolustukseen. Koneen vahvuus on suuri asekuorma ja korkea nopeus, mutta avoin l√§hdeaineisto ei aina erittele luotettavasti k√§yt√∂ss√§ olevia ohjusm√§√§ri√§ tai modernisointitason mukaista aseintegraatiota.
+Tu-160 k‰ytt‰‰ pitk‰n kantaman ilmasta laukaistavia risteilyohjuksia, joilla voidaan iske‰ kaukaa ilman tunkeutumista kohdealueen ilmapuolustukseen. Koneen vahvuus on suuri asekuorma ja korkea nopeus, mutta avoin l‰hdeaineisto ei aina erittele luotettavasti k‰ytˆss‰ olevia ohjusm‰‰ri‰ tai modernisointitason mukaista aseintegraatiota.
 
 #### Huomioitava analyysiin
-Tu-160 on ennen kaikkea strateginen ohjuslavetti eik√§ taktinen pommittaja. Sen operatiivinen arvo liittyy kykyyn tuottaa pitk√§n kantaman iskupainetta useita uhkasuuntia pitkin.
+Tu-160 on ennen kaikkea strateginen ohjuslavetti eik‰ taktinen pommittaja. Sen operatiivinen arvo liittyy kykyyn tuottaa pitk‰n kantaman iskupainetta useita uhkasuuntia pitkin.
 
 #### Operatiiviset rajoitteet
-Korkean arvon ja pienen m√§√§r√§n j√§rjestelm√§n√§ kone on altis valikoidulle kulumiselle, huoltokuormitukselle ja tukikohtariippuvuudelle. Selviytyminen perustuu aseiden kantamaan, ei koneen omaan matalahavaittavuuteen.
+Korkean arvon ja pienen m‰‰r‰n j‰rjestelm‰n‰ kone on altis valikoidulle kulumiselle, huoltokuormitukselle ja tukikohtariippuvuudelle. Selviytyminen perustuu aseiden kantamaan, ei koneen omaan matalahavaittavuuteen.
 
 #### L?hteet
 - [ODIN: Tu-160 (Blackjack) Russian Strategic Bomber](https://odin.tradoc.army.mil/WEG/Asset/2eedc66c20000a6ebf19307d5db7582a)
@@ -236,41 +236,41 @@ Korkean arvon ja pienen m√§√§r√§n j√§rjestelm√§n√§ kone on altis valikoidulle ku
 
 ### Tupolev Tu-95MS
 #### Kuvamateriaali
-![Tupolev Tu-95MS](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/strategiset-pommittajat/tupolev-tu-95ms/tupolev-tu-95ms-01.png)
-![Tupolev Tu-95MS](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/strategiset-pommittajat/tupolev-tu-95ms/tupolev-tu-95ms-02.png)
+![Tupolev Tu-95MS](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/strategiset-pommittajat/tupolev-tu-95ms/tupolev-tu-95ms-01.jpg)
+![Tupolev Tu-95MS](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/strategiset-pommittajat/tupolev-tu-95ms/tupolev-tu-95ms-02.jpg)
 
 #### Kalustokuvaus
-Potkuriturbiininen strateginen pommikone, jota k√§ytet√§√§n ennen kaikkea pitk√§n kantaman risteilyohjusalustana. Vaikka alusta on i√§k√§s, se s√§ilytt√§√§ merkityksens√§ suurena ja suhteellisen taloudellisena stand-off-iskujen kantolaitteena.
+Potkuriturbiininen strateginen pommikone, jota k‰ytet‰‰n ennen kaikkea pitk‰n kantaman risteilyohjusalustana. Vaikka alusta on i‰k‰s, se s‰ilytt‰‰ merkityksens‰ suurena ja suhteellisen taloudellisena stand-off-iskujen kantolaitteena.
 
 #### Suorituskyvyt
-Tu-95MS:n ydinsuorituskyky on pitk√§n kantaman risteilyohjusten kuljettaminen ja laukaisu turvallisemmalta et√§isyydelt√§. Koneen omat lento-ominaisuudet eiv√§t tee siit√§ modernia l√§pimurtoalustaa, mutta suuri toimintamatka ja asekuorma tukevat strategista iskuroolia.
+Tu-95MS:n ydinsuorituskyky on pitk‰n kantaman risteilyohjusten kuljettaminen ja laukaisu turvallisemmalta et‰isyydelt‰. Koneen omat lento-ominaisuudet eiv‰t tee siit‰ modernia l‰pimurtoalustaa, mutta suuri toimintamatka ja asekuorma tukevat strategista iskuroolia.
 
 #### Huomioitava analyysiin
-Tu-95MS on edelleen relevantti, koska asej√§rjestelm√§ on t√§rke√§mpi kuin rungon ik√§. Analyysissa painopiste kannattaa pit√§√§ ohjuskuormassa, laukaisuprofiileissa ja tukikohtaketjussa.
+Tu-95MS on edelleen relevantti, koska asej‰rjestelm‰ on t‰rke‰mpi kuin rungon ik‰. Analyysissa painopiste kannattaa pit‰‰ ohjuskuormassa, laukaisuprofiileissa ja tukikohtaketjussa.
 
 #### Operatiiviset rajoitteet
-Hidas ja helposti havaittava alusta ei sovellu korkean uhan ilmatilan l√§p√§isyyn. I√§k√§s kalusto lis√§√§ huolto- ja k√§ytett√§vyysriskej√§, vaikka modernisoidut aseet voivat pit√§√§ vaikutuksen edelleen merkitt√§v√§n√§.
+Hidas ja helposti havaittava alusta ei sovellu korkean uhan ilmatilan l‰p‰isyyn. I‰k‰s kalusto lis‰‰ huolto- ja k‰ytett‰vyysriskej‰, vaikka modernisoidut aseet voivat pit‰‰ vaikutuksen edelleen merkitt‰v‰n‰.
 
 #### L?hteet
 - [ODIN: Tu-95 (Bear) Russian Strategic Bomber Aircraft](https://odin.tradoc.army.mil/WEG/Asset/Tu-95_%28Bear%29_Russian_Strategic_Bomber_Aircraft)
-- [UAC: Tu-95–ú–°](https://uacrussia.ru/en/aircraft/lineup/strategic/tu-95ms/)
+- [UAC: Tu-95??](https://uacrussia.ru/en/aircraft/lineup/strategic/tu-95ms/)
 
 ### Tupolev Tu-22M3
 #### Kuvamateriaali
-![Tupolev Tu-22M3](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/strategiset-pommittajat/tupolev-tu-22m3/tupolev-tu-22m3-01.png)
-![Tupolev Tu-22M3](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/strategiset-pommittajat/tupolev-tu-22m3/tupolev-tu-22m3-02.png)
+![Tupolev Tu-22M3](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/strategiset-pommittajat/tupolev-tu-22m3/tupolev-tu-22m3-01.jpg)
+![Tupolev Tu-22M3](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/strategiset-pommittajat/tupolev-tu-22m3/tupolev-tu-22m3-02.jpg)
 
 #### Kalustokuvaus
-Pitk√§n kantaman yli√§√§ninen pommittaja ja ohjuskantaja, jonka p√§√§roolit ovat merimaali- ja maaiskut sek√§ operatiivis-strateginen tulenk√§ytt√∂. J√§rjestelm√§ sijoittuu taktisen ja strategisen ilmasodan v√§liin ja tarjoaa nopeasti k√§ytt√∂√∂n saatavan raskaan iskukyvyn.
+Pitk‰n kantaman yli‰‰ninen pommittaja ja ohjuskantaja, jonka p‰‰roolit ovat merimaali- ja maaiskut sek‰ operatiivis-strateginen tulenk‰yttˆ. J‰rjestelm‰ sijoittuu taktisen ja strategisen ilmasodan v‰liin ja tarjoaa nopeasti k‰yttˆˆn saatavan raskaan iskukyvyn.
 
 #### Suorituskyvyt
-UAC:n mukaan Tu-22M3 on suunniteltu meri- ja maamaalien tuhoamiseen ohjuksilla ja pommeilla jopa 2 200 km et√§isyydell√§ tukikohdasta. Modernisoiduissa k√§ytt√∂profiileissa siihen liitet√§√§n my√∂s pitk√§n kantaman iskuaseita, mutta kaikkien varianttien aseintegraatiot eiv√§t ole avoimissa l√§hteiss√§ t√§ysin varmistettuja.
+UAC:n mukaan Tu-22M3 on suunniteltu meri- ja maamaalien tuhoamiseen ohjuksilla ja pommeilla jopa 2 200 km et‰isyydell‰ tukikohdasta. Modernisoiduissa k‰yttˆprofiileissa siihen liitet‰‰n myˆs pitk‰n kantaman iskuaseita, mutta kaikkien varianttien aseintegraatiot eiv‰t ole avoimissa l‰hteiss‰ t‰ysin varmistettuja.
 
 #### Huomioitava analyysiin
-Tu-22M3 on merkitt√§v√§ etenkin merellisen iskukyvyn ja operatiivisen syvyystulen n√§k√∂kulmasta. Analyysissa on t√§rke√§√§ erottaa vanhempi Tu-22M3 ja modernisoitu Tu-22M3M toisistaan.
+Tu-22M3 on merkitt‰v‰ etenkin merellisen iskukyvyn ja operatiivisen syvyystulen n‰kˆkulmasta. Analyysissa on t‰rke‰‰ erottaa vanhempi Tu-22M3 ja modernisoitu Tu-22M3M toisistaan.
 
 #### Operatiiviset rajoitteet
-Kone ei ole matalahavaittava ja tarvitsee joko aseiden kantamaa tai suojattua l√§hestymisprofiilia. Osa suorituskykytiedoista liittyy modernisointisuunnitelmiin eik√§ v√§ltt√§m√§tt√§ koko k√§yt√∂ss√§ olevaan laivastoon.
+Kone ei ole matalahavaittava ja tarvitsee joko aseiden kantamaa tai suojattua l‰hestymisprofiilia. Osa suorituskykytiedoista liittyy modernisointisuunnitelmiin eik‰ v‰ltt‰m‰tt‰ koko k‰ytˆss‰ olevaan laivastoon.
 
 #### L?hteet
 - [UAC: Tu-22M3](https://uacrussia.ru/en/aircraft/lineup/military/tu-22m3/)
@@ -280,20 +280,20 @@ Kone ei ole matalahavaittava ja tarvitsee joko aseiden kantamaa tai suojattua l√
 
 ### Beriev A-50U
 #### Kuvamateriaali
-![Beriev A-50U](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/beriev-a-50u/beriev-a-50u-01.png)
-![Beriev A-50U](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/beriev-a-50u/beriev-a-50u-02.png)
+![Beriev A-50U](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/beriev-a-50u/beriev-a-50u-01.jpg)
+![Beriev A-50U](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/beriev-a-50u/beriev-a-50u-02.jpg)
 
 #### Kalustokuvaus
-Ilmasta varhaisvaroitus- ja johtamiskone, jonka teht√§v√§ on muodostaa laaja ilmatilannekuva ja tukea h√§vitt√§jien sek√§ ilmatorjunnan johtamista. A-50U on A-50:n modernisoitu versio, mutta avoimissa l√§hteiss√§ yksityiskohtaiset erot eri koneiden v√§lill√§ eiv√§t aina ole t√§ysin l√§pin√§kyvi√§.
+Ilmasta varhaisvaroitus- ja johtamiskone, jonka teht‰v‰ on muodostaa laaja ilmatilannekuva ja tukea h‰vitt‰jien sek‰ ilmatorjunnan johtamista. A-50U on A-50:n modernisoitu versio, mutta avoimissa l‰hteiss‰ yksityiskohtaiset erot eri koneiden v‰lill‰ eiv‰t aina ole t‰ysin l‰pin‰kyvi‰.
 
 #### Suorituskyvyt
-ODINin A-50-tiedon mukaan havaintoet√§isyys on noin 650 km ilmakohteisiin ja noin 300 km maakohteisiin, ja kone voi johtaa jopa kymment√§ h√§vitt√§j√§√§. A-50U:n p√§ivitykset liittyv√§t erityisesti elektroniikkaan ja ty√∂asemien modernisointiin, mutta kaikkia tarkkoja suoritusarvoja ei julkaista avoimesti.
+ODINin A-50-tiedon mukaan havaintoet‰isyys on noin 650 km ilmakohteisiin ja noin 300 km maakohteisiin, ja kone voi johtaa jopa kymment‰ h‰vitt‰j‰‰. A-50U:n p‰ivitykset liittyv‰t erityisesti elektroniikkaan ja tyˆasemien modernisointiin, mutta kaikkia tarkkoja suoritusarvoja ei julkaista avoimesti.
 
 #### Huomioitava analyysiin
-A-50U on korkean arvon mahdollistaja, koska se kasvattaa muiden alustojen tehokkuutta enemm√§n kuin oma aseistus antaisi ymm√§rt√§√§. Harvalukuisena j√§rjestelm√§n√§ jokainen tappio tai pitk√§ huoltojakso vaikuttaa verkotettuun ilmasodank√§yntiin suhteettoman paljon.
+A-50U on korkean arvon mahdollistaja, koska se kasvattaa muiden alustojen tehokkuutta enemm‰n kuin oma aseistus antaisi ymm‰rt‰‰. Harvalukuisena j‰rjestelm‰n‰ jokainen tappio tai pitk‰ huoltojakso vaikuttaa verkotettuun ilmasodank‰yntiin suhteettoman paljon.
 
 #### Operatiiviset rajoitteet
-Suuri ja helposti havaittava alusta tarvitsee et√§isyytt√§ ja suojaa. Avoin l√§hdeaineisto A-50U:n k√§ytett√§viss√§ olevasta m√§√§r√§st√§ ja kunnosta on osin ristiriitaista, joten numeerisia arvioita on k√§sitelt√§v√§ varoen.
+Suuri ja helposti havaittava alusta tarvitsee et‰isyytt‰ ja suojaa. Avoin l‰hdeaineisto A-50U:n k‰ytett‰viss‰ olevasta m‰‰r‰st‰ ja kunnosta on osin ristiriitaista, joten numeerisia arvioita on k‰sitelt‰v‰ varoen.
 
 #### L?hteet
 - [ODIN: A-50 (Mainstay) Russian Airborne Early Warning and Control Aircraft](https://odin.tradoc.army.mil/WEG/Asset/959b91ef93e87a6027da20d3a2ff9b0c)
@@ -301,20 +301,20 @@ Suuri ja helposti havaittava alusta tarvitsee et√§isyytt√§ ja suojaa. Avoin l√§h
 
 ### Ilyushin Il-78
 #### Kuvamateriaali
-![Ilyushin Il-78](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/ilyushin-il-78/ilyushin-il-78-01.png)
-![Ilyushin Il-78](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/ilyushin-il-78/ilyushin-il-78-02.png)
+![Ilyushin Il-78](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/ilyushin-il-78/ilyushin-il-78-01.jpg)
+![Ilyushin Il-78](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/ilyushin-il-78/ilyushin-il-78-02.jpg)
 
 #### Kalustokuvaus
-Ilmatankkauskone, jonka rooli on pident√§√§ h√§vitt√§jien, pommittajien ja erikoiskoneiden toimintas√§dett√§ sek√§ tukea pitk√§n kantaman ilmaoperaatioita. Se on keskeinen mahdollistaja etenkin strategisen ja operatiivisen tason isku- ja torjuntateht√§ville.
+Ilmatankkauskone, jonka rooli on pident‰‰ h‰vitt‰jien, pommittajien ja erikoiskoneiden toimintas‰dett‰ sek‰ tukea pitk‰n kantaman ilmaoperaatioita. Se on keskeinen mahdollistaja etenkin strategisen ja operatiivisen tason isku- ja torjuntateht‰ville.
 
 #### Suorituskyvyt
-Rosoboronexportin mukaan Il-78MK-90A kykenee tankkaamaan lennossa yht√§ raskasta tai kahta taktista konetta samanaikaisesti, ja siirrett√§v√§ polttoainem√§√§r√§ 1 000 km et√§isyydell√§ on 78 tonnia. Lis√§ksi j√§rjestelm√§ voi jakaa polttoainetta maassa ja toimia rajatusti my√∂s kuljetuskoneena.
+Rosoboronexportin mukaan Il-78MK-90A kykenee tankkaamaan lennossa yht‰ raskasta tai kahta taktista konetta samanaikaisesti, ja siirrett‰v‰ polttoainem‰‰r‰ 1 000 km et‰isyydell‰ on 78 tonnia. Lis‰ksi j‰rjestelm‰ voi jakaa polttoainetta maassa ja toimia rajatusti myˆs kuljetuskoneena.
 
 #### Huomioitava analyysiin
-Il-78:n merkitys n√§kyy v√§lillisesti muiden alustojen kantaman, partioajan ja asekuorman k√§ytett√§vyydess√§. Ilmatankkauskyvyn rajallisuus voi muodostaa pullonkaulan koko ilmaoperaation laajuudelle.
+Il-78:n merkitys n‰kyy v‰lillisesti muiden alustojen kantaman, partioajan ja asekuorman k‰ytett‰vyydess‰. Ilmatankkauskyvyn rajallisuus voi muodostaa pullonkaulan koko ilmaoperaation laajuudelle.
 
 #### Operatiiviset rajoitteet
-Suuri ja hidas tukialusta tarvitsee turvallisen ilmatilan tai suojatun takatilan. Avoimissa l√§hteiss√§ ven√§l√§isen k√§yt√∂ss√§ olevan laivaston tarkka koko ja palveluskelpoisuus eiv√§t ole t√§ysin yhten√§isi√§.
+Suuri ja hidas tukialusta tarvitsee turvallisen ilmatilan tai suojatun takatilan. Avoimissa l‰hteiss‰ ven‰l‰isen k‰ytˆss‰ olevan laivaston tarkka koko ja palveluskelpoisuus eiv‰t ole t‰ysin yhten‰isi‰.
 
 #### L?hteet
 - [Rosoboronexport: IL-78MK-90A](https://roe.ru/en/production/aerospace-forces/aircraft/military-transport-and-special-purpose-aircraft/il-78/?theme=theme-lightblue)
@@ -322,82 +322,82 @@ Suuri ja hidas tukialusta tarvitsee turvallisen ilmatilan tai suojatun takatilan
 
 ### Ilyushin Il-20/22
 #### Kuvamateriaali
-![Ilyushin Il-20/22](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/ilyushin-il-18-20-22/ilyushin-il-18-20-22-01.png)
+![Ilyushin Il-20/22](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/ilyushin-il-18-20-22/ilyushin-il-18-20-22-01.jpg)
 
 #### Kalustokuvaus
-Il-18-runkoon perustuva tiedustelu-, elektroninen tiedonhankinta- ja komentokoneryhm√§. N√§it√§ alustoja on k√§ytetty signaalitiedusteluun, viestien v√§litykseen ja ilmassa toimivina johto- tai relay-ratkaisuina.
+Il-18-runkoon perustuva tiedustelu-, elektroninen tiedonhankinta- ja komentokoneryhm‰. N‰it‰ alustoja on k‰ytetty signaalitiedusteluun, viestien v‰litykseen ja ilmassa toimivina johto- tai relay-ratkaisuina.
 
 #### Suorituskyvyt
-Il-20 tarjoaa tilaa erikoisantureille ja pitk√§hk√∂n lentoajan tiedusteluun, kun taas Il-22/22M toimii komentopaikka- ja viestinv√§litysalustana. Perhe tarjoaa hy√∂dyllisen erikoiskyvyn, vaikka se perustuu vanhaan runkoon.
+Il-20 tarjoaa tilaa erikoisantureille ja pitk‰hkˆn lentoajan tiedusteluun, kun taas Il-22/22M toimii komentopaikka- ja viestinv‰litysalustana. Perhe tarjoaa hyˆdyllisen erikoiskyvyn, vaikka se perustuu vanhaan runkoon.
 
 #### Huomioitava analyysiin
-Il-20/22-alustojen arvo on suhteettoman suuri niiden lukum√§√§r√§√§n n√§hden, koska ne tukevat komentoa, tilannekuvaa ja tiedustelua. Avoimissa l√§hteiss√§ alaversioiden erottelu on t√§rke√§√§, sill√§ teht√§v√§t eroavat merkitt√§v√§sti.
+Il-20/22-alustojen arvo on suhteettoman suuri niiden lukum‰‰r‰‰n n‰hden, koska ne tukevat komentoa, tilannekuvaa ja tiedustelua. Avoimissa l‰hteiss‰ alaversioiden erottelu on t‰rke‰‰, sill‰ teht‰v‰t eroavat merkitt‰v‰sti.
 
 #### Operatiiviset rajoitteet
-Suuri koko, v√§h√§inen omasuoja ja vanha runko tekev√§t koneista haavoittuvia kiistanalaisessa ilmatilassa. Ne soveltuvat parhaiten ilmatilaan, jossa uhkataso on hallittavissa tai et√§isyys rintamasta riitt√§v√§.
+Suuri koko, v‰h‰inen omasuoja ja vanha runko tekev‰t koneista haavoittuvia kiistanalaisessa ilmatilassa. Ne soveltuvat parhaiten ilmatilaan, jossa uhkataso on hallittavissa tai et‰isyys rintamasta riitt‰v‰.
 
 #### L?hteet
 - [Air Vectors: Ilyushin Il-18 & Il-38](https://www.airvectors.net/avil18.html)
-- [UAC ‚Äì p√§√§sivu](https://uacrussia.ru/en/)
+- [UAC ñ p‰‰sivu](https://uacrussia.ru/en/)
 
 ### Ilyushin Il-80
 #### Kuvamateriaali
-![Ilyushin Il-80](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/ilyushin-il-80/ilyushin-il-80-01.png)
+![Ilyushin Il-80](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/ilyushin-il-80/ilyushin-il-80-01.jpg)
 
 #### Kalustokuvaus
-Ilmassa toimiva komentokone, jonka teht√§v√§ on tukea valtion ja asevoimien johtamista poikkeusoloissa. Se kuuluu ven√§l√§isen airborne command post -kyvyn ytimeen eik√§ tavalliseen kuljetus- tai tiedustelukalustoon.
+Ilmassa toimiva komentokone, jonka teht‰v‰ on tukea valtion ja asevoimien johtamista poikkeusoloissa. Se kuuluu ven‰l‰isen airborne command post -kyvyn ytimeen eik‰ tavalliseen kuljetus- tai tiedustelukalustoon.
 
 #### Suorituskyvyt
-Il-80 tarjoaa suojatun johtamis- ja viestint√§ymp√§rist√∂n strategisen tason p√§√§t√∂ksenteon tueksi. Avoimissa l√§hteiss√§ yksityiskohtaiset j√§rjestelm√§tiedot ovat tarkoituksella niukkoja, mutta rungon rooli komentopaikkana on selv√§.
+Il-80 tarjoaa suojatun johtamis- ja viestint‰ymp‰ristˆn strategisen tason p‰‰tˆksenteon tueksi. Avoimissa l‰hteiss‰ yksityiskohtaiset j‰rjestelm‰tiedot ovat tarkoituksella niukkoja, mutta rungon rooli komentopaikkana on selv‰.
 
 #### Huomioitava analyysiin
-Il-80 on korkean arvon strateginen alusta, jonka vaikutus perustuu johtamiskykyyn eik√§ m√§√§r√§√§n. T√§m√§n tyyppisen kaluston havaittu aktivointi voi olla indikaattori kohonneesta strategisesta valmiudesta, mutta yksitt√§isi√§ havaintoja ei pid√§ ylitulkita.
+Il-80 on korkean arvon strateginen alusta, jonka vaikutus perustuu johtamiskykyyn eik‰ m‰‰r‰‰n. T‰m‰n tyyppisen kaluston havaittu aktivointi voi olla indikaattori kohonneesta strategisesta valmiudesta, mutta yksitt‰isi‰ havaintoja ei pid‰ ylitulkita.
 
 #### Operatiiviset rajoitteet
-Avoin l√§hdeaineisto on niukkaa, joten tarkkoja j√§rjestelm√§arvioita tulee k√§sitell√§ varoen. Koneen harvalukuisuus tekee siit√§ my√∂s korostetun kriittisen resurssin.
+Avoin l‰hdeaineisto on niukkaa, joten tarkkoja j‰rjestelm‰arvioita tulee k‰sitell‰ varoen. Koneen harvalukuisuus tekee siit‰ myˆs korostetun kriittisen resurssin.
 
 #### L?hteet
 - [Air Vectors: Ilyushin Il-18 & Il-38](https://www.airvectors.net/avil18.html)
-- [UAC ‚Äì p√§√§sivu](https://uacrussia.ru/en/)
+- [UAC ñ p‰‰sivu](https://uacrussia.ru/en/)
 
 ### Tupolev Tu-214
 #### Kuvamateriaali
-![Tupolev Tu-214](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/tupolev-tu-214/tupolev-tu-214-01.png)
+![Tupolev Tu-214](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/tupolev-tu-214/tupolev-tu-214-01.jpg)
 
 #### Kalustokuvaus
-Keskimatkan kaksimoottorinen suihkukone, jonka perusalusta on siviilik√§ytt√∂inen mutta josta on johdettu my√∂s erikoisversioita. Ven√§l√§isess√§ turvallisuus- ja sotilask√§yt√∂ss√§ sit√§ liitet√§√§n erityisesti tiedustelu-, valvonta- ja erikoisteht√§v√§muunnoksiin.
+Keskimatkan kaksimoottorinen suihkukone, jonka perusalusta on siviilik‰yttˆinen mutta josta on johdettu myˆs erikoisversioita. Ven‰l‰isess‰ turvallisuus- ja sotilask‰ytˆss‰ sit‰ liitet‰‰n erityisesti tiedustelu-, valvonta- ja erikoisteht‰v‰muunnoksiin.
 
 #### Suorituskyvyt
-Perusrunko tarjoaa hyv√§n toimintas√§teen, matkustamo- ja j√§rjestelm√§tilan sek√§ hy√∂dyllisen alustan erikoisvarustelulle. Avoimissa l√§hteiss√§ sotilasvarianttien tarkat sensorit ja j√§rjestelm√§t ovat kuitenkin osin ep√§selvi√§ tai varianttikohtaisia.
+Perusrunko tarjoaa hyv‰n toimintas‰teen, matkustamo- ja j‰rjestelm‰tilan sek‰ hyˆdyllisen alustan erikoisvarustelulle. Avoimissa l‰hteiss‰ sotilasvarianttien tarkat sensorit ja j‰rjestelm‰t ovat kuitenkin osin ep‰selvi‰ tai varianttikohtaisia.
 
 #### Huomioitava analyysiin
-Tu-214 kannattaa analysoida alustaperheen√§ eik√§ yhten√§ yhten√§isen√§ ‚Äúsotilaskoneena‚Äù. Erikoisversiot voivat painottua tiedusteluun, avoimen taivaan tarkastuksiin, relay-toimintaan tai muuhun valtion k√§ytt√∂√∂n.
+Tu-214 kannattaa analysoida alustaperheen‰ eik‰ yhten‰ yhten‰isen‰ ìsotilaskoneenaî. Erikoisversiot voivat painottua tiedusteluun, avoimen taivaan tarkastuksiin, relay-toimintaan tai muuhun valtion k‰yttˆˆn.
 
 #### Operatiiviset rajoitteet
-Avoin l√§hdetieto sotilasvarianttien todellisista kokoonpanoista on paikoin niukkaa. Siksi pelkk√§ Tu-214-havainto ei riit√§ kertomaan teht√§v√§profiilia ilman lis√§kontekstia.
+Avoin l‰hdetieto sotilasvarianttien todellisista kokoonpanoista on paikoin niukkaa. Siksi pelkk‰ Tu-214-havainto ei riit‰ kertomaan teht‰v‰profiilia ilman lis‰kontekstia.
 
 #### L?hteet
 - [UAC: Tu-214](https://uacrussia.ru/en/aircraft/lineup/civil/tu-214/)
-- [UAC ‚Äì model range](https://uacrussia.ru/en/aircraft/)
+- [UAC ñ model range](https://uacrussia.ru/en/aircraft/)
 
 ## kuljetuskoneet
 
 ### Ilyushin Il-76MD-90A
 #### Kuvamateriaali
-![Ilyushin Il-76MD-90A](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/ilyushin-il-76md-90a/ilyushin-il-76md-90a-01.png)
-![Ilyushin Il-76MD-90A](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/ilyushin-il-76md-90a/ilyushin-il-76md-90a-02.png)
+![Ilyushin Il-76MD-90A](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/ilyushin-il-76md-90a/ilyushin-il-76md-90a-01.jpg)
+![Ilyushin Il-76MD-90A](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/ilyushin-il-76md-90a/ilyushin-il-76md-90a-02.jpg)
 
 #### Kalustokuvaus
-Raskas sotilaskuljetuskone, joka on tarkoitettu joukkojen, ajoneuvojen, huollon ja erikoiskuormien siirtoon sek√§ laskuvarjo- ja laskuoperaatioihin. Se muodostaa Ven√§j√§n sotilaskuljetuskyvyn rungon pitk√§n matkan teht√§viss√§.
+Raskas sotilaskuljetuskone, joka on tarkoitettu joukkojen, ajoneuvojen, huollon ja erikoiskuormien siirtoon sek‰ laskuvarjo- ja laskuoperaatioihin. Se muodostaa Ven‰j‰n sotilaskuljetuskyvyn rungon pitk‰n matkan teht‰viss‰.
 
 #### Suorituskyvyt
-Rosoboronexportin mukaan Il-76MD-90AE kuljettaa enint√§√§n 60 tonnin kuorman, lent√§√§ 750‚Äì800 km/h nopeudella ja saavuttaa noin 4 000 km toimintamatkan 60 tonnin hy√∂tykuormalla. Kone voi operoida my√∂s valmistelemattomilta kentilt√§ ja tukea autonomista purku- ja lastaustoimintaa.
+Rosoboronexportin mukaan Il-76MD-90AE kuljettaa enint‰‰n 60 tonnin kuorman, lent‰‰ 750ñ800 km/h nopeudella ja saavuttaa noin 4 000 km toimintamatkan 60 tonnin hyˆtykuormalla. Kone voi operoida myˆs valmistelemattomilta kentilt‰ ja tukea autonomista purku- ja lastaustoimintaa.
 
 #### Huomioitava analyysiin
-Il-76MD-90A on logistinen mahdollistaja, ei taistelualusta, mutta sen vaikutus n√§kyy nopeasti siirrett√§v√§ss√§ reserviss√§, huollossa ja erikoisjoukkojen liikkuvuudessa. Modernisoitu versio on my√∂s perusta useille erikoiskonemuutoksille.
+Il-76MD-90A on logistinen mahdollistaja, ei taistelualusta, mutta sen vaikutus n‰kyy nopeasti siirrett‰v‰ss‰ reserviss‰, huollossa ja erikoisjoukkojen liikkuvuudessa. Modernisoitu versio on myˆs perusta useille erikoiskonemuutoksille.
 
 #### Operatiiviset rajoitteet
-Suuri kuljetuskone on haavoittuva modernissa ilmapuolustusymp√§rist√∂ss√§ ilman riitt√§v√§√§ suojaa. Avoin tieto tuotantotahdista ja todellisesta k√§ytt√∂√∂nsaannista vaihtelee l√§hteitt√§in.
+Suuri kuljetuskone on haavoittuva modernissa ilmapuolustusymp‰ristˆss‰ ilman riitt‰v‰‰ suojaa. Avoin tieto tuotantotahdista ja todellisesta k‰yttˆˆnsaannista vaihtelee l‰hteitt‰in.
 
 #### L?hteet
 - [Rosoboronexport: IL-76MD-90AE](https://roe.ru/en/production/aerospace-forces/aircraft/military-transport-and-special-purpose-aircraft/il-76/?theme=theme-lightblue)
@@ -405,262 +405,262 @@ Suuri kuljetuskone on haavoittuva modernissa ilmapuolustusymp√§rist√∂ss√§ ilman 
 
 ### Antonov An-12
 #### Kuvamateriaali
-![Antonov An-12](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/antonov-an-12/antonov-an-12-01.png)
+![Antonov An-12](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/antonov-an-12/antonov-an-12-01.jpg)
 
 #### Kalustokuvaus
-Keskiraskas potkuriturbiinikuljetuskone, jota on k√§ytetty joukkojen, rahdin ja laskuvarjokuormien siirtoihin. Se oli pitk√§√§n neuvosto- ja ven√§l√§isen sotilaskuljetusilmailun perusalusta.
+Keskiraskas potkuriturbiinikuljetuskone, jota on k‰ytetty joukkojen, rahdin ja laskuvarjokuormien siirtoihin. Se oli pitk‰‰n neuvosto- ja ven‰l‰isen sotilaskuljetusilmailun perusalusta.
 
 #### Suorituskyvyt
-Antonovin mukaan kone kykenee kuljettamaan enint√§√§n noin 20 tonnia kuormaa ja toimimaan jopa noin 6 000 kilometrin lentomatkalla. T√§rkein vahvuus on yksinkertainen sotilaskuljetuskyky takaramppineen eik√§ moderni avionics.
+Antonovin mukaan kone kykenee kuljettamaan enint‰‰n noin 20 tonnia kuormaa ja toimimaan jopa noin 6 000 kilometrin lentomatkalla. T‰rkein vahvuus on yksinkertainen sotilaskuljetuskyky takaramppineen eik‰ moderni avionics.
 
 #### Huomioitava analyysiin
-An-12 on edelleen hy√∂dyllinen logistinen ty√∂juhta, mutta sen analyysiarvo liittyy enemm√§n kapasiteettiin kuin selviytymiskykyyn. VKS-k√§yt√∂ss√§ rungon ik√§ ja huollettavuus ovat usein olennaisempia kuin nimellinen suoritusarvo.
+An-12 on edelleen hyˆdyllinen logistinen tyˆjuhta, mutta sen analyysiarvo liittyy enemm‰n kapasiteettiin kuin selviytymiskykyyn. VKS-k‰ytˆss‰ rungon ik‰ ja huollettavuus ovat usein olennaisempia kuin nimellinen suoritusarvo.
 
 #### Operatiiviset rajoitteet
-Ik√§√§ntyv√§ kalusto kasvattaa kunnossapito- ja k√§ytett√§vyysriski√§. Kone ei sovellu korkean uhkan ilmatilaan ilman suojaa ja ilmaherruutta.
+Ik‰‰ntyv‰ kalusto kasvattaa kunnossapito- ja k‰ytett‰vyysriski‰. Kone ei sovellu korkean uhkan ilmatilaan ilman suojaa ja ilmaherruutta.
 
 #### L?hteet
 - [Antonov: AN-12](https://www.antonov.com/en/history/an-12)
-- [Antonov ‚Äì p√§√§sivu](https://www.antonov.com/en)
+- [Antonov ñ p‰‰sivu](https://www.antonov.com/en)
 
 ### Antonov An-26
 #### Kuvamateriaali
-![Antonov An-26](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/antonov-an-26/antonov-an-26-01.png)
+![Antonov An-26](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/antonov-an-26/antonov-an-26-01.jpg)
 
 #### Kalustokuvaus
-Kevyt kaksimoottorinen kuljetuskone, jota on k√§ytetty henkil√∂st√∂-, rahti- ja l√§√§kint√§kuljetuksiin sek√§ rajattuihin laskuvarjoteht√§viin. Se on pienempi ja joustavampi kuin An-12, mutta my√∂s kuormaltaan selv√§sti vaatimattomampi.
+Kevyt kaksimoottorinen kuljetuskone, jota on k‰ytetty henkilˆstˆ-, rahti- ja l‰‰kint‰kuljetuksiin sek‰ rajattuihin laskuvarjoteht‰viin. Se on pienempi ja joustavampi kuin An-12, mutta myˆs kuormaltaan selv‰sti vaatimattomampi.
 
 #### Suorituskyvyt
-Antonovin mukaan suuri rahtiovi ja ramppi mahdollistavat nopean lastauksen, kuorman pudotukset ja henkil√∂st√∂n siirrot. Kone soveltuu lyhyemmille ja vaatimattomammille kentille kuin raskaammat kuljetuskoneet.
+Antonovin mukaan suuri rahtiovi ja ramppi mahdollistavat nopean lastauksen, kuorman pudotukset ja henkilˆstˆn siirrot. Kone soveltuu lyhyemmille ja vaatimattomammille kentille kuin raskaammat kuljetuskoneet.
 
 #### Huomioitava analyysiin
-An-26 on analyysissa enemm√§n taktinen kuljetus- ja yhteyskone kuin operatiivinen vaikutusalusta. Sen merkitys n√§kyy erityisesti hajautetussa logistiikassa, yhteyskonek√§yt√∂ss√§ ja pienemmiss√§ kuljetuseriss√§.
+An-26 on analyysissa enemm‰n taktinen kuljetus- ja yhteyskone kuin operatiivinen vaikutusalusta. Sen merkitys n‰kyy erityisesti hajautetussa logistiikassa, yhteyskonek‰ytˆss‰ ja pienemmiss‰ kuljetuseriss‰.
 
 #### Operatiiviset rajoitteet
-Pieni kuormakapasiteetti rajoittaa raskaan kaluston siirtoa. Ik√§√§ntyv√§ runkokanta ja rajallinen suojaus tekev√§t koneesta haavoittuvan kiistanalaisessa ilmatilassa.
+Pieni kuormakapasiteetti rajoittaa raskaan kaluston siirtoa. Ik‰‰ntyv‰ runkokanta ja rajallinen suojaus tekev‰t koneesta haavoittuvan kiistanalaisessa ilmatilassa.
 
 #### L?hteet
 - [Antonov: AN-26](https://www.antonov.com/en/history/an-26)
-- [Antonov ‚Äì p√§√§sivu](https://www.antonov.com/en)
+- [Antonov ñ p‰‰sivu](https://www.antonov.com/en)
 
 ### Antonov An-72
 #### Kuvamateriaali
-![Antonov An-72](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/antonov-an-72/antonov-an-72-01.png)
+![Antonov An-72](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/antonov-an-72/antonov-an-72-01.jpg)
 
 #### Kalustokuvaus
-STOL-ominaisuuksiin painottuva suihkuk√§ytt√∂inen kuljetuskone, joka on suunniteltu toimimaan lyhyilt√§ ja heikosti varustetuilta kiitoteilt√§. Se tarjoaa ven√§l√§iselle k√§ytt√§j√§lle erikoistuneen kuljetuskyvyn hankaliin kentt√§olosuhteisiin.
+STOL-ominaisuuksiin painottuva suihkuk‰yttˆinen kuljetuskone, joka on suunniteltu toimimaan lyhyilt‰ ja heikosti varustetuilta kiitoteilt‰. Se tarjoaa ven‰l‰iselle k‰ytt‰j‰lle erikoistuneen kuljetuskyvyn hankaliin kentt‰olosuhteisiin.
 
 #### Suorituskyvyt
-Antonovin mukaan kone on tarkoitettu noin 600 metrin ep√§valmistelluille kiitoteille, ja moottorien sijoitus siiven yl√§puolelle tukee lyhyen nousun ja laskun suorituskyky√§. T√§m√§ tekee siit√§ k√§ytt√∂kelpoisen alueilla, joilla tavalliset kuljetuskoneet ovat rajoittuneempia.
+Antonovin mukaan kone on tarkoitettu noin 600 metrin ep‰valmistelluille kiitoteille, ja moottorien sijoitus siiven yl‰puolelle tukee lyhyen nousun ja laskun suorituskyky‰. T‰m‰ tekee siit‰ k‰yttˆkelpoisen alueilla, joilla tavalliset kuljetuskoneet ovat rajoittuneempia.
 
 #### Huomioitava analyysiin
-An-72:n arvo syntyy nimenomaan kentt√§kelpoisuudesta eik√§ suuresta kuljetusmassasta. Se voi olla hy√∂dyllinen syrj√§isill√§ alueilla, arktisissa teht√§viss√§ tai tilanteissa, joissa infrastruktuuri on rajallinen.
+An-72:n arvo syntyy nimenomaan kentt‰kelpoisuudesta eik‰ suuresta kuljetusmassasta. Se voi olla hyˆdyllinen syrj‰isill‰ alueilla, arktisissa teht‰viss‰ tai tilanteissa, joissa infrastruktuuri on rajallinen.
 
 #### Operatiiviset rajoitteet
-Kapasiteetti j√§√§ selv√§sti raskaampien kuljetuskoneiden alapuolelle. Avoimissa l√§hteiss√§ ven√§l√§isk√§yt√∂n laajuus on rajallisempi kuin yleisempien Il-76- ja An-12/26-perheiden kohdalla.
+Kapasiteetti j‰‰ selv‰sti raskaampien kuljetuskoneiden alapuolelle. Avoimissa l‰hteiss‰ ven‰l‰isk‰ytˆn laajuus on rajallisempi kuin yleisempien Il-76- ja An-12/26-perheiden kohdalla.
 
 #### L?hteet
 - [Antonov: AN-72](https://www.antonov.com/en/history/an-72)
-- [Antonov ‚Äì p√§√§sivu](https://www.antonov.com/en)
+- [Antonov ñ p‰‰sivu](https://www.antonov.com/en)
 
 ### Antonov An-124
 #### Kuvamateriaali
-![Antonov An-124](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/antonov-an-124/antonov-an-124-01.png)
+![Antonov An-124](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/antonov-an-124/antonov-an-124-01.jpg)
 
 #### Kalustokuvaus
-Raskas strateginen kuljetuskone, joka on suunniteltu suurikokoisten ja eritt√§in raskaiden kuormien siirt√§miseen. Se on yksi harvoista alueen alustoista, joilla voidaan kuljettaa poikkeuksellisen raskasta kalustoa pitkill√§ et√§isyyksill√§.
+Raskas strateginen kuljetuskone, joka on suunniteltu suurikokoisten ja eritt‰in raskaiden kuormien siirt‰miseen. Se on yksi harvoista alueen alustoista, joilla voidaan kuljettaa poikkeuksellisen raskasta kalustoa pitkill‰ et‰isyyksill‰.
 
 #### Suorituskyvyt
-Antonovin mukaan An-124 kykenee kuljettamaan enint√§√§n noin 150 tonnia kuormaa ja k√§ytt√§m√§√§n etu- sek√§ takaramppia raskaan rahdin lastaamiseen. Sen suorituskyvyn ydin on strateginen ilmakuljetus eik√§ taktinen kentt√§toiminta.
+Antonovin mukaan An-124 kykenee kuljettamaan enint‰‰n noin 150 tonnia kuormaa ja k‰ytt‰m‰‰n etu- sek‰ takaramppia raskaan rahdin lastaamiseen. Sen suorituskyvyn ydin on strateginen ilmakuljetus eik‰ taktinen kentt‰toiminta.
 
 #### Huomioitava analyysiin
-An-124 on korkeaarvoinen niukkuusresurssi, jonka merkitys on logistiikassa, erikoiskuormissa ja nopeasti siirrett√§v√§ss√§ raskaassa materiaalissa. Yksitt√§isten koneiden k√§ytett√§vyys vaikuttaa koko kykyyn enemm√§n kuin m√§√§r√§llisesti suuremmissa kalustotyypeiss√§.
+An-124 on korkeaarvoinen niukkuusresurssi, jonka merkitys on logistiikassa, erikoiskuormissa ja nopeasti siirrett‰v‰ss‰ raskaassa materiaalissa. Yksitt‰isten koneiden k‰ytett‰vyys vaikuttaa koko kykyyn enemm‰n kuin m‰‰r‰llisesti suuremmissa kalustotyypeiss‰.
 
 #### Operatiiviset rajoitteet
-Suuri koko, pieni m√§√§r√§ ja korkea huoltotarve rajoittavat k√§ytt√∂√§. Kone edellytt√§√§ k√§yt√§nn√∂ss√§ turvallista ilmatilaa ja sopivaa infrastruktuuria.
+Suuri koko, pieni m‰‰r‰ ja korkea huoltotarve rajoittavat k‰yttˆ‰. Kone edellytt‰‰ k‰yt‰nnˆss‰ turvallista ilmatilaa ja sopivaa infrastruktuuria.
 
 #### L?hteet
 - [Antonov: AN-124 Ruslan](https://www.antonov.com/en/history/an-124-ruslan)
-- [Antonov ‚Äì p√§√§sivu](https://www.antonov.com/en)
+- [Antonov ñ p‰‰sivu](https://www.antonov.com/en)
 
 ### Antonov An-140
 #### Kuvamateriaali
-![Antonov An-140](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/antonov-an-140/antonov-an-140-01.png)
+![Antonov An-140](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/antonov-an-140/antonov-an-140-01.jpg)
 
 #### Kalustokuvaus
-Kevyt tai keskiluokan alueellinen potkuriturbiinikone, jota voidaan k√§ytt√§√§ henkil√∂st√∂- ja kevyisiin kuljetusteht√§viin. Sotilask√§yt√∂ss√§ sen arvo liittyy enemm√§n yhteys- ja kuljetusrooliin kuin varsinaiseen taisteluteht√§v√§√§n.
+Kevyt tai keskiluokan alueellinen potkuriturbiinikone, jota voidaan k‰ytt‰‰ henkilˆstˆ- ja kevyisiin kuljetusteht‰viin. Sotilask‰ytˆss‰ sen arvo liittyy enemm‰n yhteys- ja kuljetusrooliin kuin varsinaiseen taisteluteht‰v‰‰n.
 
 #### Suorituskyvyt
-Kone tarjoaa modernimpaa aluekuljetuskyky√§ kuin vanhemmat neuvostoajan ty√∂juhdat ja soveltuu lyhyillekin alueellisille reiteille. Avoimissa l√§hteiss√§ ven√§l√§inen sotilasrooli j√§√§ kuitenkin varsin ep√§selv√§ksi verrattuna puhtaasti sotilaskoneisiin.
+Kone tarjoaa modernimpaa aluekuljetuskyky‰ kuin vanhemmat neuvostoajan tyˆjuhdat ja soveltuu lyhyillekin alueellisille reiteille. Avoimissa l‰hteiss‰ ven‰l‰inen sotilasrooli j‰‰ kuitenkin varsin ep‰selv‰ksi verrattuna puhtaasti sotilaskoneisiin.
 
 #### Huomioitava analyysiin
-An-140:n sis√§llytt√§minen VKS-listoihin perustuu usein sekak√§ytt√∂√∂n, koulutus-, yhteys- tai ministeri√∂tason teht√§viin. Operatiivinen painoarvo on todenn√§k√∂isesti rajallinen.
+An-140:n sis‰llytt‰minen VKS-listoihin perustuu usein sekak‰yttˆˆn, koulutus-, yhteys- tai ministeriˆtason teht‰viin. Operatiivinen painoarvo on todenn‰kˆisesti rajallinen.
 
 #### Operatiiviset rajoitteet
-Avoin l√§hdeaineisto ven√§l√§isest√§ sotilask√§yt√∂st√§ on niukkaa ja osin vanhentunutta. T√§m√§n vuoksi alustaa ei pid√§ analyysissa k√§sitell√§ raskaan sotilasilmakuljetuksen runkokalustona.
+Avoin l‰hdeaineisto ven‰l‰isest‰ sotilask‰ytˆst‰ on niukkaa ja osin vanhentunutta. T‰m‰n vuoksi alustaa ei pid‰ analyysissa k‰sitell‰ raskaan sotilasilmakuljetuksen runkokalustona.
 
 #### L?hteet
-- [Antonov An-140 ‚Äì Encyclopaedia Britannica](https://www.britannica.com/topic/Antonov-Design-Bureau)
-- [Antonov ‚Äì p√§√§sivu](https://www.antonov.com/en)
+- [Antonov An-140 ñ Encyclopaedia Britannica](https://www.britannica.com/topic/Antonov-Design-Bureau)
+- [Antonov ñ p‰‰sivu](https://www.antonov.com/en)
 
 ### Antonov An-148
 #### Kuvamateriaali
-![Antonov An-148](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/antonov-an-148/antonov-an-148-01.png)
+![Antonov An-148](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/antonov-an-148/antonov-an-148-01.jpg)
 
 #### Kalustokuvaus
-Suihkuk√§ytt√∂inen alueellinen kuljetus- ja yhteyslentokone, jota voidaan k√§ytt√§√§ henkil√∂st√∂siirtoihin ja valtionhallinnollisiin kuljetuksiin. Sotilask√§yt√∂ss√§ se on enemm√§n hallinnollinen tai tukiroolin alusta kuin taistelukent√§n kuljetuskone.
+Suihkuk‰yttˆinen alueellinen kuljetus- ja yhteyslentokone, jota voidaan k‰ytt‰‰ henkilˆstˆsiirtoihin ja valtionhallinnollisiin kuljetuksiin. Sotilask‰ytˆss‰ se on enemm‰n hallinnollinen tai tukiroolin alusta kuin taistelukent‰n kuljetuskone.
 
 #### Suorituskyvyt
-Kone tarjoaa nopeamman ja mukavamman aluekuljetusratkaisun kuin vanhemmat potkuriturbiinikoneet. Avoin l√§hdeaineisto ei kuitenkaan osoita sille merkitt√§v√§√§ taktisen ilmakuljetuksen roolia VKS:ssa.
+Kone tarjoaa nopeamman ja mukavamman aluekuljetusratkaisun kuin vanhemmat potkuriturbiinikoneet. Avoin l‰hdeaineisto ei kuitenkaan osoita sille merkitt‰v‰‰ taktisen ilmakuljetuksen roolia VKS:ssa.
 
 #### Huomioitava analyysiin
-An-148:n merkitys on analyysissa rajallinen, ellei tarkastelun kohteena ole valtionjohto-, henkil√∂st√∂- tai erikoiskuljetus. Sen sotilaallinen k√§ytt√∂ on avoimissa l√§hteiss√§ selv√§sti v√§hemm√§n n√§kyv√§ kuin Il-76- tai An-12-perheill√§.
+An-148:n merkitys on analyysissa rajallinen, ellei tarkastelun kohteena ole valtionjohto-, henkilˆstˆ- tai erikoiskuljetus. Sen sotilaallinen k‰yttˆ on avoimissa l‰hteiss‰ selv‰sti v‰hemm‰n n‰kyv‰ kuin Il-76- tai An-12-perheill‰.
 
 #### Operatiiviset rajoitteet
-Rajallinen sotilaallinen rooli ja niukka avoin l√§hdeaineisto vaikeuttavat tarkkaa arviointia. Alustaa ei pid√§ tulkita varsinaiseksi etulinjan kuljetuskyvyksi ilman lis√§n√§ytt√∂√§.
+Rajallinen sotilaallinen rooli ja niukka avoin l‰hdeaineisto vaikeuttavat tarkkaa arviointia. Alustaa ei pid‰ tulkita varsinaiseksi etulinjan kuljetuskyvyksi ilman lis‰n‰yttˆ‰.
 
 #### L?hteet
-- [Antonov ‚Äì p√§√§sivu](https://www.antonov.com/en)
-- [UAC ‚Äì civil aircraft lineup](https://uacrussia.ru/en/aircraft/lineup/civil/)
+- [Antonov ñ p‰‰sivu](https://www.antonov.com/en)
+- [UAC ñ civil aircraft lineup](https://uacrussia.ru/en/aircraft/lineup/civil/)
 
 ### Ilyushin Il-18/Il-20/Il-22
 #### Kuvamateriaali
-![Ilyushin Il-18](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/ilyushin-il-18/ilyushin-il-18-01.png)
+![Ilyushin Il-18](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/ilyushin-il-18/ilyushin-il-18-01.jpg)
 
 #### Kalustokuvaus
-Nelimoottorinen potkuriturbiinikone, jota on k√§ytetty kuljetus-, koulutus- ja erikoisteht√§vien alustana. Ven√§l√§isess√§ kontekstissa sen merkitys liittyy erityisesti erikoisversioihin ja johdannaisiin, ei en√§√§ moderniin yleiskuljetukseen.
+Nelimoottorinen potkuriturbiinikone, jota on k‰ytetty kuljetus-, koulutus- ja erikoisteht‰vien alustana. Ven‰l‰isess‰ kontekstissa sen merkitys liittyy erityisesti erikoisversioihin ja johdannaisiin, ei en‰‰ moderniin yleiskuljetukseen.
 
 #### Suorituskyvyt
-Perusalusta tarjoaa pitk√§hk√∂n toiminta-ajan ja suuren rungon erilaisille sis√§isille j√§rjestelm√§ratkaisuille. T√§m√§n vuoksi Il-18-perhe on ollut hy√∂dyllinen my√∂s tiedustelu- ja valvontajohdannaisissa.
+Perusalusta tarjoaa pitk‰hkˆn toiminta-ajan ja suuren rungon erilaisille sis‰isille j‰rjestelm‰ratkaisuille. T‰m‰n vuoksi Il-18-perhe on ollut hyˆdyllinen myˆs tiedustelu- ja valvontajohdannaisissa.
 
 #### Huomioitava analyysiin
-Il-18:n arvo syntyy enemm√§n alustaperheest√§ kuin alkuper√§isest√§ matkustaja- tai kuljetusversiosta. Pelkk√§ ‚ÄúIl-18‚Äù voi avoimissa l√§hteiss√§ toimia sateenvarjok√§sitteen√§ johdannaisille, joilla on hyvin erilainen teht√§v√§profiili.
+Il-18:n arvo syntyy enemm‰n alustaperheest‰ kuin alkuper‰isest‰ matkustaja- tai kuljetusversiosta. Pelkk‰ ìIl-18î voi avoimissa l‰hteiss‰ toimia sateenvarjok‰sitteen‰ johdannaisille, joilla on hyvin erilainen teht‰v‰profiili.
 
 #### Operatiiviset rajoitteet
-Perusrakenne on vanha, eik√§ kone edusta modernia sotilaskuljetusratkaisua. Tiedot aktiivisesta ven√§l√§isk√§yt√∂st√§ painottuvat usein johdannaisiin, eiv√§t perusmalliin.
+Perusrakenne on vanha, eik‰ kone edusta modernia sotilaskuljetusratkaisua. Tiedot aktiivisesta ven‰l‰isk‰ytˆst‰ painottuvat usein johdannaisiin, eiv‰t perusmalliin.
 
 #### L?hteet
 - [Air Vectors: Ilyushin Il-18 & Il-38](https://www.airvectors.net/avil18.html)
-- [UAC ‚Äì p√§√§sivu](https://uacrussia.ru/en/)
+- [UAC ñ p‰‰sivu](https://uacrussia.ru/en/)
 
 ### Ilyushin Il-62
 #### Kuvamateriaali
-![Ilyushin Il-62](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/ilyushin-il-62/ilyushin-il-62-01.png)
+![Ilyushin Il-62](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/ilyushin-il-62/ilyushin-il-62-01.jpg)
 
 #### Kalustokuvaus
-Pitk√§n matkan suihkukone, jota on k√§ytetty henkil√∂st√∂-, VIP- ja hallinnollisiin kuljetuksiin. Sotilasroolissa se liittyy enemm√§n valtion ja asevoimien strategiseen henkil√∂st√∂liikkuvuuteen kuin taistelukent√§n logistiikkaan.
+Pitk‰n matkan suihkukone, jota on k‰ytetty henkilˆstˆ-, VIP- ja hallinnollisiin kuljetuksiin. Sotilasroolissa se liittyy enemm‰n valtion ja asevoimien strategiseen henkilˆstˆliikkuvuuteen kuin taistelukent‰n logistiikkaan.
 
 #### Suorituskyvyt
-Kone tarjoaa pitk√§n kantaman ja suuren matkustajakapasiteetin. Sen vahvuus on strateginen henkil√∂kuljetus, ei taktinen joustavuus tai suojattu toiminta korkean uhkan alueella.
+Kone tarjoaa pitk‰n kantaman ja suuren matkustajakapasiteetin. Sen vahvuus on strateginen henkilˆkuljetus, ei taktinen joustavuus tai suojattu toiminta korkean uhkan alueella.
 
 #### Huomioitava analyysiin
-Il-62 n√§kyy analyysissa l√§hinn√§ silloin, kun tarkastellaan esikunta-, delegaatio- tai valtionhallinnollista liikkuvuutta. Se ei ole VKS:n ydintaistelukyky√§, vaikka se voi olla t√§rke√§ tukitoimintojen n√§k√∂kulmasta.
+Il-62 n‰kyy analyysissa l‰hinn‰ silloin, kun tarkastellaan esikunta-, delegaatio- tai valtionhallinnollista liikkuvuutta. Se ei ole VKS:n ydintaistelukyky‰, vaikka se voi olla t‰rke‰ tukitoimintojen n‰kˆkulmasta.
 
 #### Operatiiviset rajoitteet
-Vanha matkustajakonerunko rajoittaa kasvupotentiaalia ja k√§ytett√§vyytt√§. Sen k√§ytt√∂ edellytt√§√§ turvallista ilmatilaa ja asianmukaista lentokentt√§infrastruktuuria.
+Vanha matkustajakonerunko rajoittaa kasvupotentiaalia ja k‰ytett‰vyytt‰. Sen k‰yttˆ edellytt‰‰ turvallista ilmatilaa ja asianmukaista lentokentt‰infrastruktuuria.
 
 #### L?hteet
 - [Encyclopaedia Britannica: Ilyushin Design Bureau](https://www.britannica.com/topic/Ilyushin)
-- [UAC ‚Äì p√§√§sivu](https://uacrussia.ru/en/)
+- [UAC ñ p‰‰sivu](https://uacrussia.ru/en/)
 
 ### Tupolev Tu-134
 #### Kuvamateriaali
-![Tupolev Tu-134](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/tupolev-tu-134/tupolev-tu-134-01.png)
+![Tupolev Tu-134](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/tupolev-tu-134/tupolev-tu-134-01.jpg)
 
 #### Kalustokuvaus
-Kevyt tai keskikokoinen suihkuk√§ytt√∂inen matkustaja- ja yhteyskone, jota on k√§ytetty my√∂s koulutus- ja erikoisteht√§viss√§. Sotilask√§yt√∂ss√§ se on ollut ennen kaikkea henkil√∂st√∂- ja j√§rjestelm√§alusta.
+Kevyt tai keskikokoinen suihkuk‰yttˆinen matkustaja- ja yhteyskone, jota on k‰ytetty myˆs koulutus- ja erikoisteht‰viss‰. Sotilask‰ytˆss‰ se on ollut ennen kaikkea henkilˆstˆ- ja j‰rjestelm‰alusta.
 
 #### Suorituskyvyt
-Koneen suorituskyky riitt√§√§ alueelliseen henkil√∂st√∂- ja yhteysliikenteeseen sek√§ joissain versioissa koulutus- tai tukiteht√§viin. Sen arvo ei perustu kuormankantoon tai taistelunkestoon vaan saatavilla olevaan runkoon ja yksinkertaiseen k√§ytt√∂√∂n.
+Koneen suorituskyky riitt‰‰ alueelliseen henkilˆstˆ- ja yhteysliikenteeseen sek‰ joissain versioissa koulutus- tai tukiteht‰viin. Sen arvo ei perustu kuormankantoon tai taistelunkestoon vaan saatavilla olevaan runkoon ja yksinkertaiseen k‰yttˆˆn.
 
 #### Huomioitava analyysiin
-Tu-134 voi esiinty√§ avoimissa l√§hteiss√§ koulutus- tai erityisversiona, jolloin perusnimike ei kerro koko teht√§v√§kuvaa. Siksi kone kannattaa analyysissa n√§hd√§ enemm√§n tukiroolin alustana kuin yleisilmakuljetuksen avainkykyn√§.
+Tu-134 voi esiinty‰ avoimissa l‰hteiss‰ koulutus- tai erityisversiona, jolloin perusnimike ei kerro koko teht‰v‰kuvaa. Siksi kone kannattaa analyysissa n‰hd‰ enemm‰n tukiroolin alustana kuin yleisilmakuljetuksen avainkykyn‰.
 
 #### Operatiiviset rajoitteet
-Ik√§√§ntyv√§ kalusto ja rajallinen sotilasrelevanssi pienent√§v√§t merkityst√§. Avoimissa l√§hteiss√§ aktiivinen VKS-k√§ytt√∂ voi my√∂s olla m√§√§r√§llisesti v√§h√§ist√§.
+Ik‰‰ntyv‰ kalusto ja rajallinen sotilasrelevanssi pienent‰v‰t merkityst‰. Avoimissa l‰hteiss‰ aktiivinen VKS-k‰yttˆ voi myˆs olla m‰‰r‰llisesti v‰h‰ist‰.
 
 #### L?hteet
 - [Encyclopaedia Britannica: Tupolev](https://www.britannica.com/topic/Tupolev)
-- [UAC ‚Äì p√§√§sivu](https://uacrussia.ru/en/)
+- [UAC ñ p‰‰sivu](https://uacrussia.ru/en/)
 
 ### Tupolev Tu-154
 #### Kuvamateriaali
-![Tupolev Tu-154](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/tupolev-tu-154/tupolev-tu-154-01.png)
+![Tupolev Tu-154](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/tupolev-tu-154/tupolev-tu-154-01.jpg)
 
 #### Kalustokuvaus
-Kolmimoottorinen keskipitk√§n matkan suihkukone, jota on k√§ytetty my√∂s sotilas- ja hallintokuljetuksiin. Ven√§l√§isess√§ sotilask√§yt√∂ss√§ sen rooli liittyy l√§hinn√§ henkil√∂st√∂n ja delegaatioiden siirtoihin.
+Kolmimoottorinen keskipitk‰n matkan suihkukone, jota on k‰ytetty myˆs sotilas- ja hallintokuljetuksiin. Ven‰l‰isess‰ sotilask‰ytˆss‰ sen rooli liittyy l‰hinn‰ henkilˆstˆn ja delegaatioiden siirtoihin.
 
 #### Suorituskyvyt
-Kone tarjoaa suuren matkustajakapasiteetin ja k√§ytt√∂kelpoisen toimintas√§teen. Se ei kuitenkaan ole taktinen sotilaskuljetuskone eik√§ tarjoa merkitt√§v√§√§ kentt√§kelpoisuutta tai omasuojausta.
+Kone tarjoaa suuren matkustajakapasiteetin ja k‰yttˆkelpoisen toimintas‰teen. Se ei kuitenkaan ole taktinen sotilaskuljetuskone eik‰ tarjoa merkitt‰v‰‰ kentt‰kelpoisuutta tai omasuojausta.
 
 #### Huomioitava analyysiin
-Tu-154:n sotilaallinen arvo on hallinnollinen ja logistinen, ei taistelullinen. Jos tarkastelun painopiste on varsinaisessa sotilasoperaatiossa, sen merkitys j√§√§ toissijaiseksi.
+Tu-154:n sotilaallinen arvo on hallinnollinen ja logistinen, ei taistelullinen. Jos tarkastelun painopiste on varsinaisessa sotilasoperaatiossa, sen merkitys j‰‰ toissijaiseksi.
 
 #### Operatiiviset rajoitteet
-Vanha rakenne, huoltotarve ja rajallinen sotilaallinen erikoistuminen kaventavat k√§ytt√∂√§. Kone ei sovellu korkean uhkan toimintaymp√§rist√∂√∂n.
+Vanha rakenne, huoltotarve ja rajallinen sotilaallinen erikoistuminen kaventavat k‰yttˆ‰. Kone ei sovellu korkean uhkan toimintaymp‰ristˆˆn.
 
 #### L?hteet
 - [Encyclopaedia Britannica: Tupolev](https://www.britannica.com/topic/Tupolev)
-- [UAC ‚Äì p√§√§sivu](https://uacrussia.ru/en/)
+- [UAC ñ p‰‰sivu](https://uacrussia.ru/en/)
 
 ### Let L-410 Turbolet
 #### Kuvamateriaali
-![Let L-410 Turbolet](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/let-l-410-turbolet/let-l-410-turbolet-01.png)
+![Let L-410 Turbolet](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/kuljetuskoneet/let-l-410-turbolet/let-l-410-turbolet-01.jpg)
 
 #### Kalustokuvaus
-Kevyt kaksimoottorinen potkuriturbiinikone, jota voidaan k√§ytt√§√§ yhteys-, koulutus- ja kevyisiin kuljetusteht√§viin. Se on pieni mutta k√§yt√§nn√∂llinen alusta lyhyille yhteys- ja henkil√∂st√∂lennolle.
+Kevyt kaksimoottorinen potkuriturbiinikone, jota voidaan k‰ytt‰‰ yhteys-, koulutus- ja kevyisiin kuljetusteht‰viin. Se on pieni mutta k‰yt‰nnˆllinen alusta lyhyille yhteys- ja henkilˆstˆlennolle.
 
 #### Suorituskyvyt
-Kone soveltuu lyhyille kiitoteille ja pienille kuormille sek√§ rajattuun koulutus- tai yhteysk√§ytt√∂√∂n. Sen suorituskyvyn ydin on yksinkertainen alueellinen liikkuvuus eik√§ sotilaallinen erikoiskyky.
+Kone soveltuu lyhyille kiitoteille ja pienille kuormille sek‰ rajattuun koulutus- tai yhteysk‰yttˆˆn. Sen suorituskyvyn ydin on yksinkertainen alueellinen liikkuvuus eik‰ sotilaallinen erikoiskyky.
 
 #### Huomioitava analyysiin
-L-410:n merkitys sotilaslistoissa on yleens√§ marginaalinen verrattuna varsinaisiin kuljetus- tai taistelualustoihin. Se on hy√∂dyllinen tuki- ja yhteyskone, mutta ei muuta kokonaiskuvaa VKS:n iskukyvyst√§.
+L-410:n merkitys sotilaslistoissa on yleens‰ marginaalinen verrattuna varsinaisiin kuljetus- tai taistelualustoihin. Se on hyˆdyllinen tuki- ja yhteyskone, mutta ei muuta kokonaiskuvaa VKS:n iskukyvyst‰.
 
 #### Operatiiviset rajoitteet
-Pieni koko ja hy√∂tykuorma rajoittavat k√§ytt√∂√§. Avoimissa l√§hteiss√§ ven√§l√§isen sotilask√§yt√∂n laajuus on rajallinen ja voi painottua erillisiin yksik√∂ihin.
+Pieni koko ja hyˆtykuorma rajoittavat k‰yttˆ‰. Avoimissa l‰hteiss‰ ven‰l‰isen sotilask‰ytˆn laajuus on rajallinen ja voi painottua erillisiin yksikˆihin.
 
 #### L?hteet
 - [LET Aircraft Industries: L-410 NG](https://www.let.cz/en/l-410-ng)
-- [LET Aircraft Industries ‚Äì p√§√§sivu](https://www.let.cz/en)
+- [LET Aircraft Industries ñ p‰‰sivu](https://www.let.cz/en)
 
 ### Antonov An-30
 #### Kuvamateriaali
-![Antonov An-30](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/antonov-an-30/antonov-an-30-01.png)
+![Antonov An-30](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/antonov-an-30/antonov-an-30-01.jpg)
 
 #### Kalustokuvaus
-Ilmakuvaukseen ja kartoitukseen suunniteltu erikoisversio An-24-perheest√§. Sen p√§√§rooli on ollut ilmakuvauksen, tiedonkeruun ja havaintotoiminnan tukeminen.
+Ilmakuvaukseen ja kartoitukseen suunniteltu erikoisversio An-24-perheest‰. Sen p‰‰rooli on ollut ilmakuvauksen, tiedonkeruun ja havaintotoiminnan tukeminen.
 
 #### Suorituskyvyt
-Antonovin mukaan koneen etuosan laaja n√§kyvyys, kameraluukut ja eri kuvauskorkeudet tukevat topografista kuvausta ja kartoitusta. Kyseess√§ ei ole taistelukone vaan erikoistiedonhankinnan alusta.
+Antonovin mukaan koneen etuosan laaja n‰kyvyys, kameraluukut ja eri kuvauskorkeudet tukevat topografista kuvausta ja kartoitusta. Kyseess‰ ei ole taistelukone vaan erikoistiedonhankinnan alusta.
 
 #### Huomioitava analyysiin
-An-30 on analyysissa relevantti l√§hinn√§ silloin, kun tarkastellaan ilmakuvaus- ja valvontakyky√§ tai vanhemman polven tiedonhankintaa. Sen painoarvo nykyoperaatioissa on todenn√§k√∂isesti rajallinen.
+An-30 on analyysissa relevantti l‰hinn‰ silloin, kun tarkastellaan ilmakuvaus- ja valvontakyky‰ tai vanhemman polven tiedonhankintaa. Sen painoarvo nykyoperaatioissa on todenn‰kˆisesti rajallinen.
 
 #### Operatiiviset rajoitteet
-Vanha erikoisalusta ja kapea teht√§v√§profiili rajoittavat k√§ytt√∂√§. Avoin l√§hdeaineisto aktiivisesta ven√§l√§isk√§yt√∂st√§ on niukkaa.
+Vanha erikoisalusta ja kapea teht‰v‰profiili rajoittavat k‰yttˆ‰. Avoin l‰hdeaineisto aktiivisesta ven‰l‰isk‰ytˆst‰ on niukkaa.
 
 #### L?hteet
 - [Antonov: AN-30](https://antonov.com/en/history/an-30)
-- [Antonov ‚Äì p√§√§sivu](https://www.antonov.com/en)
+- [Antonov ñ p‰‰sivu](https://www.antonov.com/en)
 
 ## helikopterit
 
 ### Kamov Ka-52
 #### Kuvamateriaali
-![Kamov Ka-52](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/helikopterit/kamov-ka-52/kamov-ka-52-01.png)
-![Kamov Ka-52](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/helikopterit/kamov-ka-52/kamov-ka-52-02.png)
+![Kamov Ka-52](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/helikopterit/kamov-ka-52/kamov-ka-52-01.jpg)
+![Kamov Ka-52](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/helikopterit/kamov-ka-52/kamov-ka-52-02.jpg)
 
 #### Kalustokuvaus
-Taisteluhelikopteri, joka on suunniteltu aseelliseen tiedusteluun, l√§hitulitukeen ja panssarintorjuntaan. Alusta painottuu liikkuvaan tulenk√§ytt√∂√∂n, sensorikykyyn ja kykyyn tukea maajoukkoja matalalla korkeudella.
+Taisteluhelikopteri, joka on suunniteltu aseelliseen tiedusteluun, l‰hitulitukeen ja panssarintorjuntaan. Alusta painottuu liikkuvaan tulenk‰yttˆˆn, sensorikykyyn ja kykyyn tukea maajoukkoja matalalla korkeudella.
 
 #### Suorituskyvyt
-ODINin mukaan Ka-52 on aseellinen tiedustelu- ja taistelualusta, joka soveltuu rynn√§kk√∂√∂n, l√§hitulitukeen, saattosuojaukseen ja tiedusteluun. Tyypillinen aseistus koostuu tykist√§, raketeista ja panssarintorjuntaohjuksista; tarkka ampumaet√§isyys riippuu k√§ytetyst√§ ohjuksesta ja sensorikokoonpanosta.
+ODINin mukaan Ka-52 on aseellinen tiedustelu- ja taistelualusta, joka soveltuu rynn‰kkˆˆn, l‰hitulitukeen, saattosuojaukseen ja tiedusteluun. Tyypillinen aseistus koostuu tykist‰, raketeista ja panssarintorjuntaohjuksista; tarkka ampumaet‰isyys riippuu k‰ytetyst‰ ohjuksesta ja sensorikokoonpanosta.
 
 #### Huomioitava analyysiin
-Ka-52:n tehokkuus riippuu paljon siit√§, k√§ytet√§√§nk√∂ sit√§ itsen√§isen√§ hy√∂kk√§ysalustana vai verkotettuna osana tulenjohto- ja tiedusteluketjua. Avoimissa l√§hteiss√§ tappiot ja kuluminen viittaavat siihen, ett√§ korkea tekninen suorituskyky ei yksin takaa selviytymist√§ kyll√§isess√§ ilmatorjuntaymp√§rist√∂ss√§.
+Ka-52:n tehokkuus riippuu paljon siit‰, k‰ytet‰‰nkˆ sit‰ itsen‰isen‰ hyˆkk‰ysalustana vai verkotettuna osana tulenjohto- ja tiedusteluketjua. Avoimissa l‰hteiss‰ tappiot ja kuluminen viittaavat siihen, ett‰ korkea tekninen suorituskyky ei yksin takaa selviytymist‰ kyll‰isess‰ ilmatorjuntaymp‰ristˆss‰.
 
 #### Operatiiviset rajoitteet
-Helikopteri on altis lyhyen kantaman ilmatorjunnalle ja kannettaville ohjuksille, jos se joutuu toimimaan liian l√§hell√§ etulinjaa. Ase- ja sensorialaversioiden erot tekev√§t yksitt√§isten koneiden vertailusta osin ep√§varmaa.
+Helikopteri on altis lyhyen kantaman ilmatorjunnalle ja kannettaville ohjuksille, jos se joutuu toimimaan liian l‰hell‰ etulinjaa. Ase- ja sensorialaversioiden erot tekev‰t yksitt‰isten koneiden vertailusta osin ep‰varmaa.
 
 #### L?hteet
 - [ODIN: Ka-52 Alligator (Hokum B) Russian Attack Helicopter](https://odin.tradoc.army.mil/WEG/Asset/Ka-52_Alligator_%28Hokum_B%29_Russian_Attack_Helicopter)
@@ -668,20 +668,20 @@ Helikopteri on altis lyhyen kantaman ilmatorjunnalle ja kannettaville ohjuksille
 
 ### Mil Mi-8AMTSh
 #### Kuvamateriaali
-![Mil Mi-8AMTSh](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/helikopterit/mil-mi-8amtsh/mil-mi-8amtsh-01.png)
-![Mil Mi-8AMTSh](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/helikopterit/mil-mi-8amtsh/mil-mi-8amtsh-02.png)
+![Mil Mi-8AMTSh](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/helikopterit/mil-mi-8amtsh/mil-mi-8amtsh-01.jpg)
+![Mil Mi-8AMTSh](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/helikopterit/mil-mi-8amtsh/mil-mi-8amtsh-02.jpg)
 
 #### Kalustokuvaus
-Aseistettu kuljetushelikopteri, jota k√§ytet√§√§n joukkojen siirtoon, huoltoon, l√§√§kint√§evakuointiin ja tulituen tukiteht√§viin. Se on monik√§ytt√∂inen ty√∂juhta, jonka arvo perustuu m√§√§r√§√§n, joustavuuteen ja kykyyn toimia etulinjan l√§hell√§.
+Aseistettu kuljetushelikopteri, jota k‰ytet‰‰n joukkojen siirtoon, huoltoon, l‰‰kint‰evakuointiin ja tulituen tukiteht‰viin. Se on monik‰yttˆinen tyˆjuhta, jonka arvo perustuu m‰‰r‰‰n, joustavuuteen ja kykyyn toimia etulinjan l‰hell‰.
 
 #### Suorituskyvyt
-ODINin Mi-8AMT-tiedon mukaan alusta on suunniteltu matkustajien ja rahdin kuljetukseen, ulkoisen kuorman siirtoon sek√§ etsint√§- ja pelastusteht√§viin; aseistetut versiot kykenev√§t my√∂s raketti- ja konekiv√§√§ritukeen. Suorituskyky vaihtelee alaversion mukaan, joten kaikki Mi-8AMTSh-koneet eiv√§t ole identtisi√§ varustelultaan.
+ODINin Mi-8AMT-tiedon mukaan alusta on suunniteltu matkustajien ja rahdin kuljetukseen, ulkoisen kuorman siirtoon sek‰ etsint‰- ja pelastusteht‰viin; aseistetut versiot kykenev‰t myˆs raketti- ja konekiv‰‰ritukeen. Suorituskyky vaihtelee alaversion mukaan, joten kaikki Mi-8AMTSh-koneet eiv‰t ole identtisi‰ varustelultaan.
 
 #### Huomioitava analyysiin
-Mi-8AMTSh:n merkitys on ennen kaikkea operatiivinen: se mahdollistaa joukkojen liikkuvuuden, huollon ja nopean reagoinnin. Yksinkertaisempanakin alustana sen vaikutus voi olla suurempi kuin teknisesti kehittyneemmill√§ mutta harvalukuisilla j√§rjestelmill√§.
+Mi-8AMTSh:n merkitys on ennen kaikkea operatiivinen: se mahdollistaa joukkojen liikkuvuuden, huollon ja nopean reagoinnin. Yksinkertaisempanakin alustana sen vaikutus voi olla suurempi kuin teknisesti kehittyneemmill‰ mutta harvalukuisilla j‰rjestelmill‰.
 
 #### Operatiiviset rajoitteet
-Keskikokoinen helikopteri on haavoittuva ilmatorjunnalle, erityisesti matalalla ja hitaassa profiilissa. Avoimissa l√§hteiss√§ Mi-8AMT-, Mi-17- ja Mi-8AMTSh-perheiden tiedot limittyv√§t osin toisiinsa.
+Keskikokoinen helikopteri on haavoittuva ilmatorjunnalle, erityisesti matalalla ja hitaassa profiilissa. Avoimissa l‰hteiss‰ Mi-8AMT-, Mi-17- ja Mi-8AMTSh-perheiden tiedot limittyv‰t osin toisiinsa.
 
 #### L?hteet
 - [ODIN: Mi-8AMT Russian Multi-Role Helicopter](https://odin.tradoc.army.mil/WEG/Asset/778cd1dacfc0ff864a40c7fc5225652c)
@@ -691,20 +691,20 @@ Keskikokoinen helikopteri on haavoittuva ilmatorjunnalle, erityisesti matalalla 
 
 ### S-400 Triumf
 #### Kuvamateriaali
-![S-400 Triumf](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/ilmatorjunta/s-400-triumf/s-400-triumf-01.png)
-![S-400 Triumf](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/ilmatorjunta/s-400-triumf/s-400-triumf-02.png)
+![S-400 Triumf](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/ilmatorjunta/s-400-triumf/s-400-triumf-01.jpg)
+![S-400 Triumf](../../assets/suorituskyvyt/03-ilma-avaruusvoimat/ilmatorjunta/s-400-triumf/s-400-triumf-02.jpg)
 
 #### Kalustokuvaus
-Pitk√§n kantaman ilmatorjunta- ja ohjuspuolustusj√§rjestelm√§, jonka teht√§v√§ on suojata laajoja alueita lentokoneilta, risteilyohjuksilta ja tietyilt√§ ballistisilta maaleilta. J√§rjestelm√§ muodostaa Ven√§j√§n kerroksellisen ilmapuolustuksen rungon strategisesti t√§rkeill√§ alueilla.
+Pitk‰n kantaman ilmatorjunta- ja ohjuspuolustusj‰rjestelm‰, jonka teht‰v‰ on suojata laajoja alueita lentokoneilta, risteilyohjuksilta ja tietyilt‰ ballistisilta maaleilta. J‰rjestelm‰ muodostaa Ven‰j‰n kerroksellisen ilmapuolustuksen rungon strategisesti t‰rkeill‰ alueilla.
 
 #### Suorituskyvyt
-ODINin mukaan S-400 k√§ytt√§√§ useita eri ohjuksia eri kantamille ja maalityypeille. Avoimissa l√§hteiss√§ yleisimmin mainitaan 40N6-ohjuksen noin 400 km maksimikantama ja 48N6-sarjan lyhyempi mutta edelleen pitk√§n kantaman torjuntakyky; todellinen vaikutus riippuu sensoriverkosta, maaston peitteest√§ ja maaliprofiilista.
+ODINin mukaan S-400 k‰ytt‰‰ useita eri ohjuksia eri kantamille ja maalityypeille. Avoimissa l‰hteiss‰ yleisimmin mainitaan 40N6-ohjuksen noin 400 km maksimikantama ja 48N6-sarjan lyhyempi mutta edelleen pitk‰n kantaman torjuntakyky; todellinen vaikutus riippuu sensoriverkosta, maaston peitteest‰ ja maaliprofiilista.
 
 #### Huomioitava analyysiin
-S-400:n todellinen arvo on j√§rjestelm√§arkkitehtuurissa, ei vain yksitt√§isess√§ laukaisuyksik√∂ss√§. Se on parhaimmillaan verkotettuna muiden tutkien, johtokeskusten ja lyhyemm√§n kantaman suojaj√§rjestelmien kanssa.
+S-400:n todellinen arvo on j‰rjestelm‰arkkitehtuurissa, ei vain yksitt‰isess‰ laukaisuyksikˆss‰. Se on parhaimmillaan verkotettuna muiden tutkien, johtokeskusten ja lyhyemm‰n kantaman suojaj‰rjestelmien kanssa.
 
 #### Operatiiviset rajoitteet
-J√§rjestelm√§ ei ole kaikkivoipa, ja sen tehokkuus laskee matalalla lent√§vi√§, kyll√§st√§vi√§ tai monivektorisia hy√∂kk√§yksi√§ vastaan. Avoin tieto k√§yt√∂ss√§ olevista ohjusm√§√§rist√§, tutkaversioista ja valmiusasteesta on rajallista.
+J‰rjestelm‰ ei ole kaikkivoipa, ja sen tehokkuus laskee matalalla lent‰vi‰, kyll‰st‰vi‰ tai monivektorisia hyˆkk‰yksi‰ vastaan. Avoin tieto k‰ytˆss‰ olevista ohjusm‰‰rist‰, tutkaversioista ja valmiusasteesta on rajallista.
 
 #### L?hteet
 - [ODIN: S-400 Triumph (SA-21 Growler) Russian Long-Range Air Defense Missile System](https://odin.tradoc.army.mil/WEG/Asset/73ac9d16614d8cece773d91b8da86801)

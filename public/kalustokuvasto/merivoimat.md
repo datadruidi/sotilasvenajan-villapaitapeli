@@ -4,7 +4,7 @@
 
 ### Dyugon-luokka
 #### Kalustokuva
-![Dyugon-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/dyugon/dyugon-01.png)
+![Dyugon-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/dyugon/dyugon-01.jpg)
 ![Dyugon-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/dyugon/dyugon-02.jpg)
 ![Dyugon-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/dyugon/dyugon-03.jpg)
 
@@ -41,7 +41,7 @@ Kevyt aseistus ja rajallinen merikelpoisuus sitovat kayton matalan ja keskitason
 #### Kalustokuva
 ![Ivan Gren -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/ivan-gren/ivan-gren-01.jpg)
 ![Ivan Gren -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/ivan-gren/ivan-gren-02.jpg)
-![Ivan Gren -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/ivan-gren/ivan-gren-03.png)
+![Ivan Gren -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/ivan-gren/ivan-gren-03.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -77,7 +77,7 @@ Pieni yksikkomaara tekee luokasta korkean nakyvyyden ja korkean arvon resurssin.
 
 ### Ondatra-luokka
 #### Kalustokuva
-![Ondatra-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/ondatra/ondatra-01.png)
+![Ondatra-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/ondatra/ondatra-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -140,7 +140,7 @@ Iakas runko- ja jarjestelmakanta heikentaa selviytymista korkean uhan ymparistos
 
 ### Serna-luokka
 #### Kalustokuva
-![Serna-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/serna/serna-01.png)
+![Serna-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/serna/serna-01.jpg)
 ![Serna-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/serna/serna-02.jpg)
 ![Serna-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/serna/serna-03.jpg)
 
@@ -172,7 +172,7 @@ Pieni kuljetuskapasiteetti ja kevyt omasuoja rajaavat vaikutuksen paikalliseksi.
 
 ### Alligator-luokka
 #### Kalustokuva
-![Alligator-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/tapir/tapir-01.png)
+![Alligator-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/tapir/tapir-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -204,7 +204,7 @@ Ika, nakyvyys ja rajallinen omasuoja tekevat aluksista haavoittuvia nykyaikaises
 
 ### Zubr-luokka
 #### Kalustokuva
-![Zubr-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/zubr/zubr-01.png)
+![Zubr-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/zubr/zubr-01.jpg)
 ![Zubr-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/zubr/zubr-02.jpg)
 ![Zubr-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/maihinnousualukset/zubr/zubr-03.jpg)
 
@@ -281,7 +281,7 @@ Luokan taisteluarvo perustuu erikoistehtavaan eika suoraan asevaikutukseen. Vaik
 
 ### Gorya-luokka
 #### Kalustokuva
-![Gorya-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/miinantorjunta-alukset/gorya/gorya-01.png)
+![Gorya-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/miinantorjunta-alukset/gorya/gorya-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -312,7 +312,7 @@ Pieni maara, korkea erikoistuneisuus ja vanhentuva kalusto tekevat yksikoista va
 
 ### Lida-luokka
 #### Kalustokuva
-![Lida-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/miinantorjunta-alukset/lida/lida-01.png)
+![Lida-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/miinantorjunta-alukset/lida/lida-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -405,7 +405,7 @@ Ikaantyminen ja kevyt omasuoja rajaavat kayton matalan uhan ymparistoihin. Luokk
 
 ### Yevgenya-luokka
 #### Kalustokuva
-![Yevgenya-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/miinantorjunta-alukset/yevgenya/yevgenya-01.png)
+![Yevgenya-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/miinantorjunta-alukset/yevgenya/yevgenya-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -437,7 +437,7 @@ Erittain rajallinen merikelpoisuus ja aseistus sitovat kayton lahelle tukikohtia
 
 ### Akula-luokka
 #### Kalustokuva
-![Akula-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/akula/akula-01.png)
+![Akula-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/akula/akula-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -498,7 +498,7 @@ Poikkeuksellinen rooli tekee aluksesta vaikeasti luokiteltavan ja sen tarkan var
 
 ### Borei-luokka
 #### Kalustokuva
-![Borei-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/borei/borei-01.png)
+![Borei-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/borei/borei-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -538,7 +538,7 @@ Toiminta on sidottu suojattuihin partioalueisiin, saattavaan sukellusveneentorju
 
 ### Delta IV -luokka
 #### Kalustokuva
-![Delta IV -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/delta-iv/delta-iv-01.png)
+![Delta IV -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/delta-iv/delta-iv-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -600,7 +600,7 @@ Avoin tieto yksikkomaarasta, varustuksesta ja tamanhetkisesta kayttotilasta on r
 ### Kilo-luokka
 #### Kalustokuva
 ![Kilo-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/kilo/kilo-01.jpg)
-![Kilo-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/kilo/kilo-02.png)
+![Kilo-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/kilo/kilo-02.jpg)
 ![Kilo-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/kilo/kilo-03.jpg)
 ![Kilo-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/kilo/kilo-04.jpg)
 
@@ -635,7 +635,7 @@ Rajoitettu kestavyys veden alla ja tarve kayttaa snorkkelia heikentavat selviyty
 #### Kalustokuva
 ![Lada-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/lada/lada-01.jpg)
 ![Lada-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/lada/lada-02.jpg)
-![Lada-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/lada/lada-03.png)
+![Lada-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/lada/lada-03.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -670,7 +670,7 @@ Pieni maara ja ohjelmaan liittyneet tekniset viiveet rajoittavat valitonta opera
 
 ### Oscar II -luokka
 #### Kalustokuva
-![Oscar II -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/oscar-ii/oscar-ii-01.png)
+![Oscar II -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/oscar-ii/oscar-ii-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -707,7 +707,7 @@ Suuri koko lisaa havaittavuutta verrattuna ketterampiin hyokkayssukellusveneisii
 
 ### Sierra II -luokka
 #### Kalustokuva
-![Sierra II -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/sierra-ii/sierra-ii-01.png)
+![Sierra II -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/sierra-ii/sierra-ii-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -738,7 +738,7 @@ Veneita on vahan, ja niiden yllapito on vaativaa. Pieni maara tekee yksikkokohta
 
 ### Victor III -luokka
 #### Kalustokuva
-![Victor III -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/victor-iii/victor-iii-01.png)
+![Victor III -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/victor-iii/victor-iii-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -769,7 +769,7 @@ Ika, meluprofiili ja vanhentuvat jarjestelmat heikentavat kilpailukykya nykyaika
 
 ### Yasen-luokka
 #### Kalustokuva
-![Yasen-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/yasen/yasen-01.png)
+![Yasen-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/sukellusveneet/yasen/yasen-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -811,7 +811,7 @@ Pieni tuotantomaara ja korkea arvo tekevat yksikoista operatiivisesti herkkia ja
 ### Admiral Gorshkov -luokka
 #### Kalustokuva
 ![Admiral Gorshkov -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/admiral-gorshkov/admiral-gorshkov-02.jpg)
-![Admiral Gorshkov -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/admiral-gorshkov/admiral-gorshkov-03.png)
+![Admiral Gorshkov -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/admiral-gorshkov/admiral-gorshkov-03.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -850,7 +850,7 @@ Pieni maara ja korkea kysynta eri laivastoalueilla rajoittavat yhtaaikaista lasn
 
 ### Admiral Grigorovich -luokka
 #### Kalustokuva
-![Admiral Grigorovich -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/admiral-grigorovich/admiral-grigorovich-01.png)
+![Admiral Grigorovich -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/admiral-grigorovich/admiral-grigorovich-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -883,7 +883,7 @@ Yksikkomaara on rajallinen eika ilmapuolustus ylla suurten alueilmatorjunta-alus
 
 ### Bora-luokka
 #### Kalustokuva
-![Bora-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/bora/bora-01.png)
+![Bora-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/bora/bora-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -915,7 +915,7 @@ Harvinainen rakenne, pieni yksikkomaara ja huoltoherkkyys rajoittavat operatiivi
 
 ### Buyan-M-luokka
 #### Kalustokuva
-![Buyan-M-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/buyan-m/buyan-m-01.png)
+![Buyan-M-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/buyan-m/buyan-m-01.jpg)
 ![Buyan-M-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/buyan-m/buyan-m-02.jpg)
 ![Buyan-M-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/buyan-m/buyan-m-03.jpg)
 ![Buyan-M-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/buyan-m/buyan-m-04.jpg)
@@ -958,7 +958,7 @@ Rajallinen ilmapuolustus ja merikelpoisuus tekevat aluksesta haavoittuvan avomer
 
 ### Gepard-luokka
 #### Kalustokuva
-![Gepard-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/gepard/gepard-01.png)
+![Gepard-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/gepard/gepard-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -989,7 +989,7 @@ Versioerot ovat merkittavia, koska osa aluksista on rakennettu vientiin ja osa e
 
 ### Gremyashchiy-luokka
 #### Kalustokuva
-![Gremyashchiy-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/gremyashchiy/gremyashchiy-01.png)
+![Gremyashchiy-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/gremyashchiy/gremyashchiy-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -1022,7 +1022,7 @@ Pieni maara ja tuotannon vaiheittaisuus rajoittavat kokonaismassaa. Aluksen koko
 
 ### Karakurt-luokka
 #### Kalustokuva
-![Karakurt-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/karakurt/karakurt-01.png)
+![Karakurt-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/karakurt/karakurt-01.jpg)
 ![Karakurt-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/karakurt/karakurt-02.jpg)
 ![Karakurt-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/karakurt/karakurt-03.jpg)
 ![Karakurt-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/karakurt/karakurt-04.jpg)
@@ -1064,7 +1064,7 @@ Pieni runko rajoittaa kestavyytta, miehistotilaa ja avomerikelpoisuutta. Osa tod
 
 ### Kirov-luokka
 #### Kalustokuva
-![Kirov-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/kirov/kirov-01.png)
+![Kirov-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/kirov/kirov-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -1096,7 +1096,7 @@ Erittain pieni maara, korkeat yllapitokustannukset ja modernisointitarpeet rajoi
 
 ### Krivak-luokka
 #### Kalustokuva
-![Krivak-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/krivak/krivak-01.png)
+![Krivak-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/krivak/krivak-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -1127,7 +1127,7 @@ Ika ja alaversioiden erot rajaavat suorituskyvyn arviointia. Luokka ei yleensa t
 
 ### Nanuchka-luokka
 #### Kalustokuva
-![Nanuchka-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/nanuchka/nanuchka-01.png)
+![Nanuchka-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/nanuchka/nanuchka-01.jpg)
 ![Nanuchka-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/nanuchka/nanuchka-02.jpg)
 ![Nanuchka-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/nanuchka/nanuchka-03.jpg)
 ![Nanuchka-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/nanuchka/nanuchka-04.jpg)
@@ -1161,7 +1161,7 @@ Vanha suunnittelu, rajallinen ilmapuolustus ja pieni runko heikentavat selviytym
 
 ### Neustrashimy-luokka
 #### Kalustokuva
-![Neustrashimy-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/neustrashimy/neustrashimy-01.png)
+![Neustrashimy-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/neustrashimy/neustrashimy-01.jpg)
 ![Neustrashimy-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/neustrashimy/neustrashimy-02.jpg)
 ![Neustrashimy-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/neustrashimy/neustrashimy-03.jpg)
 
@@ -1196,7 +1196,7 @@ Pieni yksikkomaara ja pitkat huoltojaksot rajoittavat saatavuutta. Taisteluarvo 
 
 ### Parchim-luokka
 #### Kalustokuva
-![Parchim-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/parchim/parchim-01.png)
+![Parchim-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/parchim/parchim-01.jpg)
 ![Parchim-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/parchim/parchim-02.jpg)
 ![Parchim-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/parchim/parchim-03.jpg)
 ![Parchim-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/parchim/parchim-04.jpg)
@@ -1233,7 +1233,7 @@ Ikaantyminen ja rajallinen aseistus tekevat aluksista todennakoisesti toissijais
 
 ### Slava-luokka
 #### Kalustokuva
-![Slava-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/slava/slava-01.png)
+![Slava-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/slava/slava-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -1266,7 +1266,7 @@ Suuri koko, korkea havaittavuus ja rajallinen yksikkomaara tekevat aluksista myo
 
 ### Sovremenny-luokka
 #### Kalustokuva
-![Sovremenny-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/sovremenny/sovremenny-01.png)
+![Sovremenny-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/sovremenny/sovremenny-01.jpg)
 ![Sovremenny-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/sovremenny/sovremenny-02.jpg)
 ![Sovremenny-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/sovremenny/sovremenny-03.jpg)
 
@@ -1344,7 +1344,7 @@ Koon tuomat rajoitteet nakyvat kestavyydessa, ilmapuolustuksen syvyydessa ja mer
 
 ### Tarantul-luokka
 #### Kalustokuva
-![Tarantul-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/tarantul/tarantul-01.png)
+![Tarantul-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/tarantul/tarantul-01.jpg)
 ![Tarantul-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/tarantul/tarantul-03.jpg)
 ![Tarantul-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/tarantul/tarantul-04.jpg)
 ![Tarantul-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/tarantul/tarantul-05.jpg)
@@ -1379,7 +1379,7 @@ Pieni koko, vanhenevat sensorit ja rajallinen omasuoja heikentavat selviytymista
 
 ### Udaloy-luokka
 #### Kalustokuva
-![Udaloy-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/udaloy/udaloy-01.png)
+![Udaloy-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/taistelualukset/udaloy/udaloy-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -1418,7 +1418,7 @@ Ilmapuolustus ja monitoimisuus ovat perusmuodossa rajallisempia kuin modernissa 
 
 ### Alpinist-luokka
 #### Kalustokuva
-![Alpinist-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/alpinist/alpinist-01.png)
+![Alpinist-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/alpinist/alpinist-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -1448,7 +1448,7 @@ Avoimista lahteista saatava tieto on rajallista, mika kasvattaa epavarmuutta luo
 
 ### Baklan-luokka
 #### Kalustokuva
-![Baklan-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/baklan/baklan-01.png)
+![Baklan-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/baklan/baklan-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -1478,7 +1478,7 @@ Julkinen tieto yksittaisista jarjestelmista ja tehtavaprofiileista on niukkaa. A
 
 ### Balzam-luokka
 #### Kalustokuva
-![Balzam-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/balzam/balzam-01.png)
+![Balzam-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/balzam/balzam-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -1508,7 +1508,7 @@ Suojaus perustuu enemman etaisyyteen ja saattotukeen kuin omaan taistelukykyyn. 
 
 ### Marshal Nedelin -luokka
 #### Kalustokuva
-![Marshal Nedelin -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/marshal-nedelin/marshal-nedelin-01.png)
+![Marshal Nedelin -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/marshal-nedelin/marshal-nedelin-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -1537,7 +1537,7 @@ Alus ei ole perinteinen taisteluyksikko, joten sen liikkeet voivat viitata testi
 
 ### Moma-luokka
 #### Kalustokuva
-![Moma-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/moma/moma-01.png)
+![Moma-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/moma/moma-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -1566,7 +1566,7 @@ Ika ja vanhenevat jarjestelmat voivat rajoittaa kykya modernia, tiheaa sahkomagn
 
 ### Chusuvoy -alus
 #### Kalustokuva
-![Chusuvoy -alus](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/chusuvoy/chusuvoy-01.png)
+![Chusuvoy -alus](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/chusuvoy/chusuvoy-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -1596,7 +1596,7 @@ Avoimista lahteista saatava tieto on rajallista ja osin epatasaista. Taman vuoks
 
 ### Vishnya-luokka
 #### Kalustokuva
-![Vishnya-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/vishnya/vishnya-01.png)
+![Vishnya-luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/vishnya/vishnya-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -1629,7 +1629,7 @@ Alukset ovat korkean tiedusteluarvon yksikoita, mutta niiden suora taistelukyky 
 
 ### Yantar -alus
 #### Kalustokuva
-![Yantar -alus](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/yantar/yantar-01.png)
+![Yantar -alus](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/yantar/yantar-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
@@ -1661,7 +1661,7 @@ Julkisissa lahteissa rooliin liittyy paljon spekulaatiota, joten johtopaatoksiss
 
 ### Yury Ivanov -luokka
 #### Kalustokuva
-![Yury Ivanov -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/yury-ivanov/yury-ivanov-01.png)
+![Yury Ivanov -luokka](../../assets/suorituskyvyt/01-puolustushaarat/02-merivoimat/tiedustelualukset/yury-ivanov/yury-ivanov-01.jpg)
 
 #### Alukset
 | Latinisoitu nimi | Kyrillinen nimi | Kayttoonotto | Tila | Huom |
