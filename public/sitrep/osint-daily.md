@@ -1,200 +1,317 @@
-# Report Date: 2026-06-01
+# Report Date: 2026-06-02
 
 ## Summary
-During the reporting period, a series of significant developments unfolded in Russia, including military advancements, cybersecurity measures, and political maneuvers. The Russian Navy's modernization efforts were underscored by the Admiral Nakhimov's final test phase. Concurrently, governmental initiatives highlighted efforts to combat cyber fraud and support large families amid ongoing demographic concerns. The political landscape also showcased the dominance of figures like Vyacheslav Volodin within United Russia as elections approach. Furthermore, Russia's condemnation of international maritime actions reflects heightened tensions in foreign relations. 
+During the reporting period, various military and security-related events unfolded primarily involving Russian activities targeting Ukraine, alongside significant domestic developments in Russia. The Russian Armed Forces executed significant strikes against Ukrainian defense infrastructures, reflecting an escalation in military operations in response to ongoing conflicts. Concurrently, the FSB disclosed cybersecurity threats against Russian officials, reinforcing an urgent need for enhanced counterintelligence measures. These developments suggest continued volatility in regional security dynamics, with potential repercussions for both military strategies and domestic policies.
 
-In the near term, we may see continued emphasis on domestic security measures and family support policies, alongside potential military escalations in conflict zones.
+## FSB Discloses Operation of Spyware Targeting Russian Officials
+On June 2nd, 2026, the FSB announced the uncovering of a large-scale operation by foreign intelligence services aimed at introducing spyware on the mobile devices of high-ranking Russian officials. This malware is reported to be capable of data removal, eavesdropping on conversations, and covert monitoring through audio and video surveillance. [1]
 
-## Cruiser 'Admiral Nakhimov' Begins Final Phase of Post-Modernization Tests
-On June 1st, 2026, the heavy nuclear missile cruiser Admiral Nakhimov commenced the final stage of testing following its modernization, as reported by the press service of the Northern Fleet. This event coincides with Northern Fleet Day and marks a significant step in the Russian Navy's ongoing modernization efforts amidst broader defense initiatives. [1]
-
-**COMMENT:** This advancement in naval capabilities highlights Russia's commitment to enhancing its maritime power. The successful completion of modernization and testing of high-profile vessels like the Admiral Nakhimov may strengthen Russia's naval posture in strategic regions.
+**COMMENT:** The FSB's disclosure highlights ongoing vulnerabilities to foreign intelligence activity targeting Russian state security. This incident may prompt increased counterintelligence measures and a ramping up of cybersecurity protocols among Russian officials.
 
 **LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #российский #минобороны рф #минобороны россии #минобороны #вмф #флот #вооружение #сво #про
+**KEYWORDS:** #russia #штаб #про
 
 
-## Russian Agencies Reach Consensus on Anti-Fraud Measures Against Cyber Criminals
-On June 1st, 2026, Russian ministries and agencies finalized approximately 20 initiatives for a third set of measures aimed at combating cyber fraud, known as 'Anti-Fraud 3.0'. A key proposal prevents telecom operators from selling SIM cards with minimal starting balances, addressing a loophole that has been exploited by fraudsters to bypass subscriber identification in mobile services. [2]
+## Russian Defense Ministry Reports Massive Strike on Ukrainian Defense Industry
+On June 2nd, 2026, the Russian Defense Ministry announced that Russian armed forces executed a significant strike against multiple enterprises within Ukraine's defense industry, targeting facilities in cities such as Kiev, Zaporozhye, and Kharkov. High-precision long-range weapons, including hypersonic missiles and drones, were deployed in this operation, indicating an escalation in military actions by Russia against Ukraine's military capabilities. [2]
 
-**COMMENT:** This development highlights the Russian government's ongoing efforts to enhance cybersecurity and mitigate fraud risks. The implementation of stricter regulations on telecom operators may indicate a broader push towards reinforcing national security measures in the digital domain.
+**COMMENT:** This attack highlights Russia's ongoing focus on degrading Ukraine's military-industrial capacity, potentially impacting future military operations. Continued strikes of this nature may signal a strategic shift in Russia's offensive approach, potentially leading to further escalations in the conflict.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Kiev / Kiev, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org) (Киев)
 
-**KEYWORDS:** #российские #учения #про
-
-
-## Volodin Leads Preliminary Voting for United Russia in Saratov Region
-On June 1st, 2026, State Duma Speaker Vyacheslav Volodin emerged as the leader in the preliminary voting of the United Russia party in the Saratov region, as announced by Boris Gryzlov, Chairman of the Supreme Council of the party. This development underscores Volodin's significant influence within the party and his likely future role in Russian politics as elections approach. [3]
-
-**COMMENT:** This event highlights the consolidation of power among key political figures in Russia, particularly for Volodin, who may leverage this victory to strengthen his position ahead of the upcoming elections. The outcome reflects ongoing dynamics within United Russia and may signal further strategic alignments as the political landscape evolves.
-
-**LOCATION:** Saratov Oblast / Saratov Oblast, 51.6520555, 46.8631952 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.652056&mlon=46.863195#map=8/51.652056/46.863195) (Саратовская область)
-
-**KEYWORDS:** #russia #сво
+**KEYWORDS:** #russia #россия #российские #минобороны россии #вооруженные силы россии #про
 
 
-## Cabinet to Submit Housing Insurance Report to Putin by September 1
-On June 1st, 2026, the Russian government announced that it will prepare a report on mechanisms for housing insurance against emergencies, to be submitted to President Putin by September 1. The Ministry of Finance, in collaboration with the EMERCOM and regional authorities, is exploring the introduction of compulsory emergency risk insurance for residential properties in Russia. [4]
+## Volodin Warns of Fourfold Gas Price Increase for Armenia After Leaving EAEU
+On June 2nd, 2026, Vyacheslav Volodin, the Chairman of the State Duma, announced significant economic consequences for Armenia if it exits the Eurasian Economic Union (EAEU), highlighting a nearly fourfold increase in gas prices for Armenian citizens. This statement reflects Russia's concerns over the potential impact of Armenia's shifting political alignment toward the European Union on its economic ties and regional stability. [3]
 
-**COMMENT:** This initiative indicates a governmental focus on enhancing disaster resilience and state support for housing stability. Potential implementation of compulsory insurance could further entrench state authority over housing security and risk management in the aftermath of emergencies.
+**COMMENT:** Volodin's warning underscores Russia's sensitivity to any potential weakening of its influence in the Caucasus due to Armenia's EU aspirations. The economic implications could lead to further tensions and a reevaluation of Russia's leverage in the region, especially concerning migration and trade relationships.
 
 **LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #удар #пуск #сф #про
+**KEYWORDS:** #russia #удар #сво #про
 
 
-## Former Heads of Yekaterinburg Prison Fined for Convict Escape
-On June 1st, 2026, the Verkh-Isetsky district court in Yekaterinburg fined former officials of Prison Isolator No. 1 for negligence related to the escape of two convicts. This incident highlights issues of prison management and security oversight within the Russian penal system. [5]
+## Russian Forces Conduct Major Strikes on Ukrainian Defense Industries
+On March 20th, 2026, Russian servicemen launched a significant night operation targeting multiple Ukrainian defense industry enterprises, including the Motor Sich aircraft engine plant in Zaporizhzhia and several facilities in Kyiv. This military response followed recent attacks by Ukrainian forces on critical infrastructure, indicating a continuation of heightened hostilities in the conflict. [4]
 
-**COMMENT:** This ruling may indicate increasing scrutiny on prison officials in Russia, especially concerning security protocols. Future implications could include reforms in the penal system to enhance oversight and reduce incidents of escape.
+**COMMENT:** The intensive strikes reflect Russia's strategy to undermine Ukraine's military capabilities amid ongoing hostilities. Future military operations may intensify as Russia seeks to retaliate against perceived threats and diminish Ukraine's defense production capacity.
 
-**LOCATION:** Yekaterinburg / Yekaterinburg, 56.8382071, 60.6007886 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.838207&mlon=60.600789#map=8/56.838207/60.600789) (Екатеринбург)
+**LOCATION:** Zaporizhzhia / Zaporizhzhia, 48.2571, 38.72475 [Click for Map Location](https://www.openstreetmap.org/?mlat=48.257100&mlon=38.724750#map=8/48.257100/38.724750) (Запорожье)
 
-**KEYWORDS:** #russia #военкомат #удар #сво #про
+**KEYWORDS:** #российские #минобороны рф #вооруженные силы россии #удар #беспилотник #про
 
 
-## Deputy Prime Minister Novak Addresses Fuel Market Situation
-On June 1st, 2026, Deputy Prime Minister Alexander Novak convened a meeting in Moscow to discuss the current state of the oil products market. The government has implemented a temporary ban on kerosene exports to prioritize fuel availability for the domestic market. [6]
+## Three People Injured in Drone Attack in Belgorod Region
+On June 2nd, 2026, an FPV drone attacked a moving car in the village of Posohovo, Valui district of Belgorod region, injuring three individuals. The operational headquarters reported that the victims sustained shrapnel wounds and bruises, and all received medical treatment. [5]
 
-**COMMENT:** This meeting reflects ongoing concerns about domestic fuel supply, suggesting potential instability in the energy sector. The export ban could impact both national and international market dynamics as the government emphasizes domestic provision.
+**COMMENT:** This incident highlights ongoing security challenges in the Belgorod region, likely related to the broader context of military conflicts nearby. The continuing threat of drone attacks underscores the need for enhanced regional security measures and vigilance.
+
+**LOCATION:** Belgorod Oblast / Belgorod, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762) (Белгородская область)
+
+**KEYWORDS:** #russia #штаб #про
+
+
+## Sevastopol Resident Sentenced to Four Years for Storing Explosive Materials
+On June 2nd, 2026, the Leninsky District Court in Sevastopol sentenced a local resident to four years in prison for illegally storing an electrodetonator and approximately 700 grams of hexogen, an explosive material. The man claimed he found the explosive items on the street and brought them home, but FSB officers seized them during an investigation in Crimea and Sevastopol. [6]
+
+**COMMENT:** This case highlights ongoing concerns regarding the illegal possession of explosives in Crimea, an area of heightened security due to regional tensions. Future implications may involve increased scrutiny and enforcement measures by Russian security agencies to prevent similar incidents.
+
+**LOCATION:** Sevastopol / Sevastopol, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org) (Севастополь)
+
+**KEYWORDS:** #russia #сво #про
+
+
+## Russia Launches Massive Strike on Ukrainian Defense Industry in Response to APU Attack
+On June 2nd, 2026, Russian military forces conducted a significant strike utilizing long-range precision weapons against Ukrainian defense industry targets. This operation was described as a retaliatory measure against attacks launched by the Armed Forces of Ukraine (APU) on Starobelsk in the Luhansk People's Republic, resulting in multiple casualties. [7]
+
+**COMMENT:** This military action underscores the ongoing tensions between Russia and Ukraine, signaling a possible escalation in conflict. The use of advanced weaponry indicates a shift in Russia's tactical response, which may lead to further aggressive measures in the region.
+
+**LOCATION:** Starobelsk / Starobelsk, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org) (Старобельск)
+
+**KEYWORDS:** #russia #минобороны россии #удар #бпла #про
+
+
+## State Duma Committee Proposes Clarification of Gambling Self-Prohibition Rules
+On June 2nd, 2026, the State Duma Committee on Economic Policy finalized amendments to a bill regarding self-prohibition rules for gambling participation. The proposed changes include expanding the range of void agreements and reducing the timeframe for the Federal Tax Service to act against illegal gambling sites. [8]
+
+**COMMENT:** This legislative adjustment reflects the Russian government's intent to enhance regulatory control over gambling, targeting illegal operations more effectively. Such measures could indicate a broader strategy to maintain public order and safeguard economic interests amidst increasing scrutiny of gambling practices.
 
 **LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
 **KEYWORDS:** #russia #про
 
 
-## Russia and Philippines Strengthen Economic Partnership Despite Sanctions
-On June 1st, 2026, Russian Deputy Foreign Minister Georgy Borisenko highlighted the strengthening of economic ties between Russia and the Philippines during an exhibition celebrating 50 years of diplomatic relations. Despite facing Western sanctions, both nations maintain a constructive dialogue and align closely on various regional and international issues. [7]
+## Russian Military Claims Strike on Motor Sich Plant in Zaporozhye
+On June 2nd, 2026, the Russian armed forces reported conducting a massive strike against the Motor Sich aircraft engine plant in Zaporozhye, Ukraine, as part of retaliatory measures following an attack by the Ukrainian Armed Forces on Starobelsk. The strike also targeted other facilities producing components for attack drones and missile systems, indicating a continued focus on degrading Ukraine's military capabilities. [9]
 
-**COMMENT:** The ongoing development of economic relations with the Philippines suggests Russia's efforts to diversify its international partnerships amidst increasing isolation. This trajectory may indicate future initiatives aimed at enhancing trade and cooperation with non-Western countries in response to sanctions.
+**COMMENT:** This military action underscores the persistent volatility in the region and reflects Russia's strategic objectives to disrupt Ukrainian military production. Continued strikes on defense-related infrastructure may escalate tensions and lead to further retaliatory measures from Ukraine.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Zaporozhye / Zaporozhye, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org) (Запорожье)
 
-**KEYWORDS:** #russia #россия #удар #пуск #сф #про
-
-
-## Russia Condemns Illegal Detention of Tanker by French Navy
-On June 1st, 2026, Russian President's press secretary Dmitry Peskov declared the French Navy's detention of the tanker Tagor in the Atlantic Ocean as illegal, asserting that such actions resemble piracy. Peskov emphasized that Moscow is alert to these incidents and is actively working to safeguard Russian cargoes against similar occurrences. [8]
-
-**COMMENT:** This incident highlights mounting tensions between Russia and Western nations concerning maritime operations and sanctions enforcement. In the near term, expect Russia to bolster its measures to protect its vessels and potentially escalate diplomatic responses to deter similar actions from Western authorities.
-
-**LOCATION:** Atlantic Ocean / Atlantic Ocean, 13.581921, -38.320312 [Click for Map Location](https://www.openstreetmap.org/?mlat=13.581921&mlon=-38.320312#map=8/13.581921/-38.320312)
-
-**KEYWORDS:** #россия #сво #сф #часть #про
+**KEYWORDS:** #russia #минобороны рф #удар #бпла #пуск #про
 
 
-## Putin Awards State Honors to Large Families on International Children's Day
-On June 1st, 2023, President Vladimir Putin presented state awards, including the Order of 'Mother Heroine' and 'Parental Glory', to several families with many children during a ceremony at the Kremlin. This marks the first such event since the pandemic, highlighting a governmental focus on encouraging higher birth rates and supporting large families in various Russian regions. [9]
+## Russian Defense Ministry Reports Strikes on Defense Enterprises in Kiev
+On June 2nd, 2026, the Russian Defense Ministry announced that during a large-scale night strike on Kiev, ten defense industry enterprises were targeted, including key manufacturers of military products such as UAVs and electronic systems. This military action was described as a response to Ukrainian forces' prior attacks, highlighting the ongoing escalation in the conflict. [10]
 
-**COMMENT:** This event reflects the Russian government's ongoing initiatives to promote family growth and bolster demographic stability. The recognition of large families may indicate future policies aimed at strengthening social support systems and incentivizing population growth in key areas.
+**COMMENT:** This strike underscores the Russian military's focus on Ukraine's defense capabilities, indicating an intent to disrupt military production and logistics. Future operations may continue to target key Ukrainian infrastructure, impacting the conflict's dynamics and resource availability for Ukraine.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Kiev / Kiev, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org) (Киев)
 
-**KEYWORDS:** #россия #удар #часть #про
+**KEYWORDS:** #russia #минобороны рф #удар #бпла #пуск #про
 
 
-## Over a Third of SVO Participants Win Preliminary Voting in Russia
-On June 1st, 2023, it was reported that 480 participants of the special military operation (SVO) won in the preliminary voting for the United Russia party, according to Dmitry Medvedev, the Deputy Chairman of the Security Council of the Russian Federation. This outcome reflects not only the involvement of veterans in electoral processes but also indicates a significant level of competition among these individuals. [10]
+## Pulkovo Airport Lifts Flight Restrictions
+On June 2nd, 2026, Pulkovo Airport in Moscow lifted previously imposed restrictions on the reception and dispatch of aircraft. These restrictions had been enacted temporarily for security reasons but were cancelled later in the day as the airport resumed normal operations. [11]
 
-**COMMENT:** This event highlights the integration of military participants into political processes, which may strengthen the link between military service and political loyalty in Russia. Moving forward, this could influence parliamentary dynamics and the shaping of governance policies, especially related to military and security matters.
+**COMMENT:** The lifting of flight restrictions at Pulkovo Airport indicates an improvement in the local security situation. This development may reflect broader trends in aviation security management and operational readiness within Russia's transport infrastructure.
 
 **LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #сво #про
+**KEYWORDS:** #russia #про
 
 
-## Peskov Responds to Lithuania's UAV Airspace Claims
-On June 1st, 2023, Dmitry Peskov, the Press Secretary of the President of the Russian Federation, communicated that Russian military experts will evaluate Lithuania's assertions regarding the denial of air corridors for Ukrainian drones. This response follows claims from Lithuania that Baltic countries have restricted UAV flights intended for attacks on Russia, highlighting ongoing tensions in the region. [11]
+## Russia to Limit Import of Eggplants, Potatoes, and Dried Fruits from Armenia
+On June 3rd, 2026, Russia's agriculture watchdog Rosselkhoznadzor will implement temporary restrictions on the import of eggplants, potatoes, and dried fruits from Armenia, as well as their transit to other Eurasian Economic Union member states. This decision reflects ongoing measures to control agricultural imports and may impact trade relations within the region. [12]
 
-**COMMENT:** Peskov's remarks underscore the heightened scrutiny of airspace usage involving Ukrainian drones, indicating the Russian military's readiness to respond to perceived threats. This situation could exacerbate existing hostilities and potentially provoke further military assessment or action from Russia.
+**COMMENT:** The restriction highlights Russia's continued focus on agricultural import controls, which may be driven by food security concerns or quality control issues. Such measures could lead to increased tensions in trade relations with Armenia and potentially affect the broader economic landscape of the Eurasian Economic Union.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #российские #вс рф #российские военные #генштаб #штаб #полк #удар #сво #беспилотник #бпла #про
+**KEYWORDS:** #россия #удар #тоф #про
 
 
-## Putin Emphasizes Family Values and Parenthood
-On June 1st, 2026, President Vladimir Putin highlighted the significance of family values and parenthood during a meeting at the Kremlin with families recognized for their contributions to parenting. He underscored the need to protect traditional family structures and expressed optimism over the increasing number of large families in Russia. [12]
+## Russian Defense Ministry Reports Strikes on Motor Sich Plant Workshops in Zaporozhye
+On June 2nd, 2023, the Russian armed forces launched a night strike against the workshops of the Motor Sich aircraft engine plant in Zaporozhye, targeting what the Ministry of Defense described as retaliation for terrorist attacks on Russian civilians. Additionally, strikes were reported on the Omelchenko machine-building plant in the same area. [13]
 
-**COMMENT:** Putin's focus on family values reflects a strategic effort to reinforce social cohesion and traditional norms within Russian society. This initiative may signal upcoming measures aimed at further promoting family-oriented policies and addressing demographic challenges.
+**COMMENT:** This strike reflects Russia's continued military operations aimed at disrupting Ukraine's military-industrial capabilities. The targeting of significant industrial sites may escalate hostilities and provoke further military responses from Ukraine.
+
+**LOCATION:** Zaporozhye / Zaporozhye, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org) (Запорожье)
+
+**KEYWORDS:** #минобороны рф #мо рф #вооруженные силы россии #удар #сво #пуск #про
+
+
+## Former German Chancellor Schroeder Visits Moscow Ahead of Economic Forum
+On June 2nd, 2023, former German Chancellor Gerhard Schroeder was spotted at the Kempinski Hotel in Moscow, reportedly in town ahead of the St. Petersburg International Economic Forum starting Wednesday. The visit comes amidst Schroeder's ongoing role as a negotiator favored by Russian President Vladimir Putin regarding the Ukrainian conflict. [14]
+
+**COMMENT:** Schroeder's visit highlights ongoing diplomatic engagements between Russia and Germany, particularly in the context of the Ukraine situation. Future interactions may reinforce Russia's reliance on established political figures to pursue its strategic interests in Europe.
 
 **LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #удар #сво #часть #про
+**KEYWORDS:** #россия #удар #сво #про
 
 
-## Putin Issues Instructions for Uninterrupted Internet Access and Housing Insurance
-On June 1st, 2026, President Vladimir Putin signed several instructions aimed at ensuring uninterrupted internet access for Russians, even during blackouts, while also addressing housing insurance and support measures for veterans. This initiative reflects the government's commitment to maintaining essential services and safeguarding citizens against emergencies, highlighting a focus on social stability amid potential crises. [13]
+## Russian Armed Forces Strike Ukrainian Zvezda Plant in Sumy Region
+On June 2nd, 2023, the Armed Forces of the Russian Federation conducted a strike on the Shostkin State Plant "Zvezda" located in the Sumy region of Ukraine, as stated by the Russian Defense Ministry. This attack was described as a retaliatory measure against what the Ministry termed a terrorist attack by the Ukrainian regime in the Luhansk People's Republic, targeting various military and defense infrastructures in Ukraine. [15]
 
-**COMMENT:** From a security perspective, ensuring uninterrupted internet access highlights the Russian government's focus on maintaining control over information flow during emergencies. The introduction of housing insurance and support for veterans suggests a proactive approach to bolster domestic stability and address community needs.
+**COMMENT:** This strike indicates an escalation in Russia's military responses to perceived threats from Ukraine, particularly in terms of targeting infrastructure linked to its military capabilities. The continued focus on precision strikes against defense industry sites reflects a strategy aimed at disrupting Ukraine's military operations, which may lead to further retaliatory actions from both sides.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Sumy Oblast / Sumy Oblast, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org) (Сумская область)
 
-**KEYWORDS:** #россия #учения #про
-
-
-## Russia Imposes Temporary Ban on Aviation Kerosene Exports Amid Fuel Stability Concerns
-On June 1st, 2026, the Russian government announced a temporary ban on the export of aviation kerosene, effective until November 30th, 2026. This measure aims to maintain stability in the domestic fuel market during the tourist season, although officials reported no current shortage of jet fuel in the country. [14]
-
-**COMMENT:** This export ban reflects the government's proactive approach to managing fuel supply and market stability, highlighting underlying concerns about domestic energy security. The decision could have implications for the aviation sector and tourism, influencing fuel availability and prices while reinforcing state control over critical resources.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #россия #про
+**KEYWORDS:** #минобороны рф #вооруженные силы рф #минобороны #удар #сво #про
 
 
-## Rostov Region Father of Many Children Thanks Putin for Family Support
-On June 1st, 2026, during the International Day for the Protection of Children, President Vladimir Putin honored Nikolai Solovyov, a father of many children, with the Order of Parental Glory in Volgodonsk, Rostov region. The priest expressed gratitude for the government's support for large families, reflecting ongoing state priorities in demographic policy. [15]
+## Russian Defense Ministry Reports Strikes on Three Ukrainian Defense Industry Sites
+On June 2nd, 2023, the Russian Defense Ministry announced that it had conducted strikes on three facilities in the Kharkiv region of Ukraine, specifically targeting the Kharkiv State Aviation Enterprise and two energy complexes linked to the Ukrainian Armed Forces. These strikes were described as a response to terrorist acts attributed to the Ukrainian regime. [16]
 
-**COMMENT:** This recognition underscores the Russian government's focus on supporting family structures, a key element in its demographic strategy. Future implications may include continued initiatives to enhance family welfare as part of broader social policies.
+**COMMENT:** The strikes indicate a continued escalation in military actions between Russia and Ukraine, particularly targeting Ukraine's defense and energy infrastructure. This approach may signal Russia's intent to weaken Ukraine's military capabilities in anticipation of future operations.
 
-**LOCATION:** Volgodonsk / Volgodonsk, 47.5182668, 42.1525935 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.518267&mlon=42.152594#map=8/47.518267/42.152594) (Волгодонск)
+**LOCATION:** Kharkiv Oblast / Kharkiv Oblast, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org) (Харьковская область)
 
-**KEYWORDS:** #российский #удар
+**KEYWORDS:** #россия #минобороны рф #минобороны #армия россии #удар #сво #про
 
 
-## Russian Armed Forces Liberate Tikhonovka in DPR
-On June 1st, 2026, the Russian Armed Forces announced the liberation of the village of Tikhonovka in the Donetsk People's Republic (DPR) following decisive actions by units of the Southern group of forces. This event reflects ongoing military operations in the region amidst the broader context of conflict in Ukraine. [16]
+## Biometric Checks Identify 2,500 Foreign Nationals Banned from Entering Russia
+On June 2nd, 2023, Russian officials announced the identification of 2,500 foreign nationals prohibited from entering the country through biometric checks. This initiative, discussed during a meeting of the State Border Commission by First Deputy Prime Minister Denis Manturov, underscores ongoing efforts to enhance border security and monitoring of foreign entrants. [17]
 
-**COMMENT:** The successful operation to liberate Tikhonovka may enhance Russian control over strategically significant areas in the DPR. Continued military advancements could indicate a shift in operational tactics or intensified engagements in the ongoing conflict.
+**COMMENT:** The use of biometric checks reflects a strengthening of Russia's border control measures, which may indicate heightened concerns regarding unauthorized entry. Future implications may include expanded biometric screening for additional groups, potentially influencing foreign travel patterns and security protocols.
 
-**LOCATION:** Tikhonovka / Tikhonovka, Unknown, Unknown [Click for Map Location](#)
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #вс россии #сво
+**KEYWORDS:** #россия #удар #про
+
+
+## Daily Reports of Civilian Shelling in Donbass Discussed by Human Rights Commissioner
+On June 2nd, 2023, Yana Lantratova, the Commissioner for Human Rights in the Russian Federation, reported receiving daily accounts of civilian shelling in the Donetsk People's Republic (DPR) and Luhansk People's Republic (LPR). According to Lantratova, humanitarian supplies are frequently targeted by Ukrainian forces, indicative of ongoing hostilities affecting the civilian population in these regions. [18]
+
+**COMMENT:** This reporting highlights the persistent and targeted nature of hostilities in the Donbass, raising concerns about civilian safety and humanitarian access. Continued emphasis on these incidents may influence public perception and government policy regarding the conflict in Ukraine.
+
+**LOCATION:** Donetsk People's Republic / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org) (Донецкая Народная Республика)
+
+**KEYWORDS:** #россия #минобороны рф #минобороны #пво #удар #тоф #про
+
+
+## Deliveries of New Il-114 Aircraft to Begin This Year
+On June 2nd, 2023, the United Aircraft Corporation (UAC) announced that production of the new Il-114-300 aircraft will start this year, with an output capacity of 6 to 12 units annually depending on market demand. UAC General Director Vadim Badeha indicated that multiple regions are vying for the initial batch of aircraft, signaling significant interest in this military-capable model. [19]
+
+**COMMENT:** This development demonstrates Russia's ongoing commitment to enhancing its domestic aerospace capabilities, particularly for military applications. The successful production of the Il-114-300 could have broader implications for Russia's defense exports and regional influence in aviation technology.
+
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #россия #минобороны #истребитель #пуск #про
+
+
+## Russian Armed Forces Attack Six Ukrainian Military Airfields
+On June 2nd, 2023, the Russian Armed Forces launched a retaliatory strike against six military airfields in the Cherkasy, Rivne, Zhytomyr, Kirovograd, Khmelnytsky, and Kiev regions of Ukraine. This operation also targeted military-industrial complex facilities in the Khmelnytsky and Poltava regions, with the Russian Defense Ministry claiming all designated goals were achieved. [20]
+
+**COMMENT:** This escalation in military activity underscores Russia's ongoing commitment to its objectives in Ukraine, particularly against military infrastructure. Future operations may continue to focus on degrading Ukraine's military capabilities, which could lead to further retaliatory measures from both sides.
+
+**LOCATION:** Cherkasy Oblast / Cherkasy Oblast, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org) (Черкасская область)
+
+**KEYWORDS:** #российские #минобороны россии #вооруженные силы россии #удар #пуск #про
+
+
+## Russian Air Defense Shoots Down 381 Ukrainian Drones in One Day
+On June 2nd, 2023, Russian air defense reported the interception of 381 Ukrainian drones along with 10 guided bombs. Additionally, three HIMARS rockets were also shot down during this period, demonstrating the continuous defensive operations by Russian military forces in response to airborne threats. [21]
+
+**COMMENT:** This significant number of intercepted drones indicates a persistent threat from Ukrainian aerial capabilities. The ongoing effectiveness of Russian air defense could reflect broader trends in the state of military engagements in the region.
+
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #россия #минобороны #беспилотник #пво #про
+
+
+## Russian Army Strikes 10 Defense Industry Enterprises in Kiev with Precision Weapons
+On June 2nd, 2026, the Russian Armed Forces targeted ten military-industrial complex enterprises in Kiev, Ukraine, utilizing high-precision weaponry. This action, reported by the Russian Defense Ministry, included strikes on significant military production facilities and recruitment centers, highlighting ongoing tensions in the region. [22]
+
+**COMMENT:** This strike indicates a continued emphasis on degrading Ukraine's military capabilities by targeting key infrastructure. The implications of such actions may provoke further military responses from Ukraine and escalate the ongoing conflict dynamics.
+
+**LOCATION:** Kiev / Kiev, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org) (Киев)
+
+**KEYWORDS:** #минобороны рф #вооруженные силы россии #минобороны #армия россии #удар #про
+
+
+## Russia Launches New Missile Strikes on Ukraine
+On June 2nd, 2026, Russian forces executed a substantial missile strike on Ukraine, targeting industrial infrastructures in Zaporizhye with various weapon systems, including Caliber missiles from the Caspian Sea. This strike is indicative of Russia's ongoing military operations aimed at disrupting Ukraine's industrial capabilities amid the ongoing conflict. [23]
+
+**COMMENT:** The significant use of multiple missile types suggests an escalation in Russia's offensive operations against Ukraine. Continuous targeting of Ukrainian industrial sites reflects a strategic intent to undermine the country's economic and military production capacity.
+
+**LOCATION:** Zaporizhye / Zaporizhye, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org) (Запорожье)
+
+**KEYWORDS:** #россия #штаб #удар #бпла #арсенал #про
+
+
+## Finland Admits Drones Overhead Were Ukrainian
+On June 2nd, 2026, Finland's authorities confirmed that the drones observed over their airspace were of Ukrainian origin, prompting heightened military readiness and public advisories for citizens to stay indoors. This incident reflects ongoing tensions in the region and could signal a shift in how Finland prepares for perceived threats related to the conflict involving Ukraine and Russia. [24]
+
+**COMMENT:** This situation underscores growing anxieties in Finland regarding aerial threats, potentially altering their defense posture amidst the ongoing conflict. Future implications may involve increased military collaboration with NATO allies in response to perceived vulnerabilities.
+
+**LOCATION:** Helsinki / Helsinki, 60.1666204, 24.9435408 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.166620&mlon=24.943541#map=8/60.166620/24.943541) (Хельсинки)
+
+**KEYWORDS:** #россия #ввс #пво #удар #про
+
+
+## Russian Armed Forces Target Motor Sich Plant in Zaporozhye
+On June 2nd, 2026, Russian troops conducted strikes on the Motor Sich aircraft engine plant in the Zaporozhye region as retaliation for prior terrorist attacks against civilians. The Russian Defense Ministry confirmed that the workshops were damaged, coinciding with reported explosions and fires in Kiev, leading to power outages in several districts. [25]
+
+**COMMENT:** This strike reflects Russia's strategy of targeting military-related infrastructure in response to perceived threats. The escalation of attacks on Ukrainian infrastructure could indicate a shift in the operational tempo as the conflict continues.
+
+**LOCATION:** Zaporozhye / Zaporozhye, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org) (Запорожье)
+
+**KEYWORDS:** #российские #минобороны рф #вс рф #российские войска #удар #про
+
+
+## Russian Armed Forces Conduct Retaliatory Strikes Against Ukrainian Defense Industry
+On June 2nd, 2026, the Russian Armed Forces launched retaliatory strikes targeting Ukrainian defense industry enterprises. This action reflects ongoing military tensions and highlights Russia's continued military engagement beyond its borders. [26]
+
+**COMMENT:** The inauguration of these strikes may indicate an escalation in the ongoing conflict and a shift in Russia's operational focus towards the Ukrainian defense sector. Such developments could influence regional security dynamics and provoke further responses from Ukraine and its allies.
+
+**LOCATION:** Ukraine / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) (Украина)
+
+**KEYWORDS:** #вс россии #удар
 
 
 # Sources
+[1] interfax.ru - https://interfax.ru/russia/1093237?utm_source=top
 
-[1] interfax.ru - https://interfax.ru/russia/1093078?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1093248?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/world/1093129
+[3] interfax.ru - https://interfax.ru/russia/1093305?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1093131
+[4] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
 
-[4] interfax.ru - https://interfax.ru/russia/1093127
+[5] interfax.ru - https://interfax.ru/russia/1093327
 
-[5] interfax.ru - https://interfax.ru/russia/1093126
+[6] interfax.ru - https://interfax.ru/russia/1093326
 
-[6] interfax.ru - https://interfax.ru/russia/1093124
+[7] interfax.ru - https://interfax.ru/russia/1093320
 
-[7] interfax.ru - https://interfax.ru/russia/1093119
+[8] interfax.ru - https://interfax.ru/russia/1093319
 
-[8] aif.ru - https://aif.ru/politics/peskov-nazval-nezakonnym-zaderzhanie-rossiyskogo-tankera-franciey
+[9] interfax.ru - https://interfax.ru/russia/1093318
 
-[9] www.vesti.ru - https://www.vesti.ru/ns/putin-vruchil-gosudarstvennye-nagrady-mnogodetnym-roditelyam
+[10] interfax.ru - https://interfax.ru/russia/1093317
 
-[10] www.vesti.ru - https://www.vesti.ru/ns/svyshe-treti-uchastnikov-svo-uchastvovavshikh-v-golosovanii-er-oderzhali-pobedu
+[11] interfax.ru - https://interfax.ru/russia/1093316
 
-[11] www.vesti.ru - https://www.vesti.ru/ns/peskov-schitaet-chto-zavereniya-litvy-o-zakrytom-dlya-bpla-prostranstve-ocenyat-v-vs
+[12] www.vesti.ru - https://www.vesti.ru/ns/rossiya-ogranichit-vvoz-baklazhanov-kartofelya-i-sukhofruktov-iz-armenii
 
-[12] iz.ru - https://iz.ru/2107215/2026-06-01/putin-nazval-samymi-vazhnymi-dlia-cheloveka-semeinye-tcennosti-i-roditelstvo
+[13] www.vesti.ru - https://www.vesti.ru/ns/mo-rf-soobshchilo-o-porazhenii-cekhov-zavoda-motor-sich-v-zaporozhe
 
-[13] www.kp.ru - https://www.kp.ru/daily/277787/5256930/
+[14] www.vesti.ru - https://www.vesti.ru/ns/nemeckie-smi-pishut-o-vizite-ehks-kanclera-shredera-v-moskvu
 
-[14] www.kp.ru - https://www.kp.ru/daily/277787/5257028/
+[15] www.vesti.ru - https://www.vesti.ru/ns/vs-rf-udarili-po-ukrainskomu-zavodu-zvezda-v-sumskoj-oblasti
 
-[15] www.kp.ru - https://www.kp.ru/online/news/6999681/
+[16] www.vesti.ru - https://www.vesti.ru/ns/minoborony-rf-soobshchilo-o-nanesenii-udarov-po-trem-obektam-opk-ukrainy
 
-[16] ria.ru - https://ria.ru/20260601/svo-2095959227.html
+[17] www.vesti.ru - https://www.vesti.ru/ns/blagodarya-biometrii-vyyavleny-25-tys-inostrancev-kotorym-zapreshchen-vezd-v-rf
+
+[18] www.vesti.ru - https://www.vesti.ru/ns/lantratova-rasskazala-o-ezhednevnykh-soobshcheniyakh-ob-obstrelakh-mirnykh-zhitelej
+
+[19] www.vesti.ru - https://www.vesti.ru/ns/postavki-novykh-il-114-nachnutsya-v-ehtom-godu
+
+[20] www.vesti.ru - https://www.vesti.ru/ns/vs-rf-nochyu-porazili-shest-ukrainskikh-voennykh-aehrodromov
+
+[21] www.vesti.ru - https://www.vesti.ru/ns/pvo-rossii-za-sutki-sbila-381-bespilotnik-vsu
+
+[22] iz.ru - https://iz.ru/2107750/armiia-rossii-porazila-vysokotochnym-oruzhiem-10-predpriiatii-opk-v-kieve-izi
+
+[23] www.kp.ru - https://www.kp.ru/daily/277787.4/5257299/
+
+[24] www.kp.ru - https://www.kp.ru/daily/277787.4/5257548/
+
+[25] www.kp.ru - https://www.kp.ru/online/news/7001389/
+
+[26] ria.ru - https://ria.ru/20260602/udar--2096143741.html
