@@ -1,316 +1,233 @@
-# Report Date: 2026-06-02
+# Report Date: 2026-06-03
 
 ## Summary
-Raportointijaksolla on tapahtunut merkittäviä sotilaallisia toimia Venäjän ja Ukrainan välillä, joissa Venäjän armeija on toteuttanut useita iskuja Ukrainan puolustusteollisuuteen. FSB on myös ilmoittanut vakoiluohjelmista, jotka kohdistuvat Venäjän viranomaisiin. Lisäksi jatkuvat jännitteet ovat näkyneet Suomessa, jossa on vahvistettu ukrainalaisten dronejen havaintoja. Tällä hetkellä näyttää siltä, että konfliktin intensiivistyminen jatkuu, ja mahdolliset uusia sotatoimia voidaan odottaa lyhyellä aikavälillä.
+Raportointijaksolla on tapahtunut useita merkittäviä turvallisuus- ja taloudellisia kehityksiä Venäjällä ja sen ympäristössä. St. Petersburgissa tapahtunut UAV-hyökkäys, jonka seurauksena useita ihmisiä loukkaantui, paljastaa kasvanutta turvallisuusriskiä suurten tapahtumien aikana. Toisaalta, Ukraina on jatkanut drone-hyökkäyksiään, jotka ovat aiheuttaneet merkittäviä uhreja, mikä voi edelleen nostaa jännitteitä alueella. Presidentti Putinin ja muiden viranomaisten lausunnot viittaavat siihen, että Venäjä on valmiina tiukentamaan sotilaallista vastausta ja vahvistamaan taloudellista vakauden tunnetta ulkoisten paineiden keskellä.
 
-## FSB paljastaa vakoiluohjelman, joka kohdistuu venäläisiin viranomaisiin
-Marraskuun 2. päivänä 2026 FSB ilmoitti paljastaneensa laajamittaisen vieraan tiedustelupalvelun toiminnan, jonka tavoitteena on ollut vakoiluohjelman saattaminen korkea-arvoisten venäläisten viranomaisten mobiililaitteisiin. Tämä haittaohjelma on raportoitu kyvyksi poistaa tietoja, salakuunnella keskusteluja ja salaa tarkkailla ääni- ja videosurveillancea. [1]
+## Pyhän Pietarin kuvernööri ilmoittaa UAV-hyökkäyksen seurausten poistamisesta
+Maaliskuun 3. päivänä 2026 kuvernööri Alexander Beglov ilmoitti, että UAV-hyökkäyksen seuraukset Pyhässä Pietarissa on ratkaistu. Kaupunki koordinoi toipumispyrkimyksiä, ja neljä henkilöä raportoi loukkaantuneena, mutta heidän tilansa on vakaa. Tämä tapahtui Pyhän Pietarin kansainvälisen talousfoorumin yhteydessä. [1]
 
-**COMMENT:** FSB:n paljastus korostaa jatkuvia haavoittuvuuksia ulkomaisen tiedustelutoiminnan kohdistuessa Venäjän valtion turvallisuuteen. Tämä tapaus voi johtaa vastavakoilutoimenpiteiden lisäämiseen ja kyberturvallisuusprotokollien tiukentamiseen venäläisten viranomaisten keskuudessa.
+**COMMENT:** UAV-hyökkäys alleviivaa jatkuvia turvallisuushaasteita Venäjän kaupunkialueilla, erityisesti merkittävien julkisten tapahtumien aikana.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Pyhä Pietari / St. Petersburg, Unknown, Unknown [Click for Map Location](Unknown) (Петербург)
 
-**KEYWORDS:** #russia #штаб #про
-
-
-## Venäjän puolustusministeriö raportoi massiivista iskua Ukrainan puolustusteollisuuteen
-Marraskuun 2. päivänä 2026 Venäjän puolustusministeriö ilmoitti, että Venäjän asevoimat suorittivat merkittävän iskun useisiin Ukrainan puolustusteollisuuden yrityksiin, kohdistuen laitoksiin sellaisissa kaupungeissa kuin Kiova, Zaporozhye ja Harkova. Tässä operaatiossa käytettiin tarkkuuspitkiä aseita, mukaan lukien hypersonic-ohjuksia ja droneja, mikä viittaa Venäjän sotilaallisten toimien kärjistymiseen Ukrainan sotilaallista kapasiteettia vastaan. [2]
-
-**COMMENT:** Tämä hyökkäys korostaa Venäjän jatkuvaa keskittymistä heikentää Ukraina sotilas-teollista kapasiteettia, mikä saattaa vaikuttaa tuleviin sotilaallisiin operaatioihin. Tällaiset toimet voivat merkitä strategista muutosta Venäjän hyökkäys lähestymistavassa, mikä voi johtaa konfliktin lisäkärjistymiseen.
-
-**LOCATION:** Kiova / Kiev, Unknown, Unknown [Click for Map Location](https://interfax.ru/russia/1093248?utm_source=top) (Киев)
-
-**KEYWORDS:** #russia #россия #российские #минобороны россии #вооруженные силы россии #вооруженные силы рф #российские военные #минобороны #удар #высокоточное оружие #беспилотник #про
+**KEYWORDS:** #russia #штаб #сво #бпла #про
 
 
-## Volodin varoittaa Armenian kaasuhinnan nelinkertaisesta noususta EAEU:sta eroamisen myötä
-Marraskuun 2. päivänä 2026 Vyacheslav Volodin, Venäjän valtionduuman puheenjohtaja, ilmoitti merkittävistä taloudellisista seurauksista Armenialle, jos se eroaa Euraasian talousunionista (EAEU), korostaen lähes nelinkertaisen kaasuhinnan nousun Armenian kansalaisille. Tämä lausunto heijastaa Venäjän huolia Armenian poliittisen suuntautumisen muuttumisesta Euroopan unioniin ja sen taloudellisiin suhteisiin sekä alueelliseen vakauteen. [3]
+## Kuolemantapausten määrä nousee kahdeksaan UAV-hyökkäyksessä bussissa DPR:ssä
+Maaliskuun 3. päivänä 2026 UAV-hyökkäys bussiin Yenakiyevossa, Donetskin kansantasavallassa, johti kahdeksaan kuolemaan ja kymmeneen loukkaantumiseen, kertoi alueen johtaja Denis Pushilin. Venäjän ulkoministeriö on vaatinut kansainvälistä tuomiota hyökkäykselle, jota tutkitaan mahdollisena terroristitekona. [2]
 
-**COMMENT:** Volodinin varoitus korostaa Venäjän herkkyyttä Armenian EU-tavoitteiden aiheuttamalle mahdolliselle vaikutukselle sen vaikutusvaltaseen Kaukasiassa. Taloudelliset vaikutukset voivat johtaa lisäjännitteisiin ja Venäjän vaikutusmahdollisuuksien uudelleenarvioimiseen alueella, erityisesti maahanmuuttoon ja kauppasuhteisiin liittyen.
+**COMMENT:** Tämä tapaus korostaa jatkuvia turvallisuushaasteita Donetskin alueella ja mahdollisesti kasvavia jännitteitä UAV:n käytön ympärillä konfliktityömailla.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Yenakiyevo / Yenakiyevo, Unknown, Unknown [Click for Map Location](Unknown) (Енакиево)
 
-**KEYWORDS:** #russia #удар #сво #про
-
-
-## Venäjän joukot tekevät suuria iskuja Ukrainan puolustusteollisuuteen
-Maaliskuun 20. päivänä 2026 Venäläiset sotilaat suorittivat merkittävän yön aikana tapahtuneen operaation, kohdistuen useisiin Ukrainan puolustusteollisuuden yrityksiin, mukaan lukien Motor Sich -lentokonesuunnittelu Zaporizhzhian alueella sekä useita laitoksia Kiovassa. Tämä sotilaallinen vastaus seurasi Ukrainan joukoilta tulleita hyökkäyksiä kriittisiin infrastruktuureihin, mikä osoittaa jatkossakin noususuuntaisia vihamielisyyksiä konfliktissa. [4]
-
-**COMMENT:** Intensiiviset iskut heijastavat Venäjän strategiaa heikentää Ukrainan sotilaallisia kykyjä jatkuvien yhteenottojen keskellä. Tulevat sotilaalliset operaatiot saattavat tiivistyä, kun Venäjä pyrkii kostamaan koetut uhkat ja vähentämään Ukrainan puolustusteollisuutta.
-
-**LOCATION:** Zaporizhzhia / Zaporizhzhia, 48.2571, 38.72475 [Click for Map Location](https://www.openstreetmap.org/?mlat=48.257100&mlon=38.724750#map=8/48.257100/38.724750) (Запоріжжя)
-
-**KEYWORDS:** #российские #минобороны рф #минобороны россии #вооруженные силы россии #российские военные #российские военнослужащие #минобороны #пво #штаб #командование #удар #авиаудар #беспилотник #бпла #перехват #пуск #про
+**KEYWORDS:** #russia #удар #бпла
 
 
-## Kolme henkilöä haavoittui dronehyökkäyksessä Belgorodin alueella
-Marraskuun 2. päivänä 2026 FPV-drone hyökkäsi liikkuvaan autoon Posohovon kylässä, Valuin piirikunnassa Belgorodin alueella, haavoittaen kolmea henkilöä. Operatiivinen päämaja raportoi, että uhrit kärsivät sirpalehaavoista ja mustelmista, ja kaikki saivat lääkärinhoitoa. [5]
+## Putin pitää puheen taloudellisista kysymyksistä SPIEF:ssä
+Maaliskuun 3. päivänä 2026 presidentti Vladimir Putinin odotettavissa oleva puhe Pyhän Pietarin kansainvälisessä talousfoorumissa (SPIEF) keskittyy pääasiassa taloudellisiin aiheisiin, mutta poliittisia kysymyksiä käsitellään myös. Lehdistösihteeri Dmitry Peskov kertoi, että painotus taloudellisissa haasteissa, sekä kotimaassa että kansainvälisesti, heijastaa jatkuvia jännitteitä Venäjällä. [3]
 
-**COMMENT:** Tämä tapaus korostaa jatkuvia turvallisuushaasteita Belgorodin alueella, todennäköisesti liittyen lähellä olevien sotilaallisten konfliktien laajempaan kontekstiin. Jatkuva dronehyökkäysten uhka korostaa tarvetta parantaa alueellisia turvallisuustoimia ja valppautta.
+**COMMENT:** Painotus taloudellisissa kysymyksissä Presidentti Putinin toimesta viittaa taloudellisen vakauden priorisointiin ulkoisten paineiden keskellä.
 
-**LOCATION:** Belgorod Oblast / Belgorod Oblast, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762) (Белгородская область)
+**LOCATION:** Pyhä Pietari / St. Petersburg, Unknown, Unknown [Click for Map Location](Unknown) (Петербург)
 
-**KEYWORDS:** #russia #штаб #про
-
-
-## Sevastopolin asukkaita tuomittu neljäksi vuodeksi räjähdysaineiden säilyttämisestä
-Marraskuun 2. päivänä 2026 Sevastopolin Leninskin piirioikeus tuomitsi paikallisen asukkaan neljäksi vuodeksi vankilaan laittomasta sähkösytyttimen ja noin 700 gramman heksogeenin, räjähdysaineen, säilyttämisestä. Mies väitti löytäneensä räjähdeosat kadulta ja tuoneensa ne kotiinsa, mutta FSB:n agentit takavarikoivat ne Crimeassa ja Sevastopolissa tehtävän tutkinnan aikana. [6]
-
-**COMMENT:** Tämä tapaus korostaa jatkuvia huolia räjähteiden laittomasta hallussapidosta Krimillä, alueella, jossa on nostettu turvallisuutta paikallisten jännitteiden vuoksi. Tulevaisuuden seuraukset voivat olla lisääntyneitä tarkkaavaisuus- ja valvontatoimia Venäjän turvallisuusviranomaisilta samankaltaisten tapausten estämiseksi.
-
-**LOCATION:** Sevastopol / Sevastopol, Unknown, Unknown [Click for Map Location](https://interfax.ru/russia/1093326) (Севастополь)
-
-**KEYWORDS:** #russia #сво #про
+**KEYWORDS:** #russia #часть #про
 
 
-## Venäjän joukot suorittavat suuria iskuja Ukrainan puolustusteollisuuteen APU-hyökkäyksen vastaisesti
-Marraskuun 2. päivänä 2026 Venäjän sotilasjoukot toteuttivat merkittävän iskun käyttämällä pitkän matkan tarkkuusaseita Ukrainan puolustusteollisuuden kohteita vastaan. Tätä operaatioita kuvattiin kostona Ukrainan asevoimilta (APU) Starobelskin alueella Luhanskin kansantasavallassa tehtyjen hyökkäysten jälkeen, missä tapahtui useita uhreja. [7]
+## Peskov: Venäjä toteuttaa järjestelmällisiä kostohyökkäyksiä Ukrainaa vastaan
+Maaliskuun 3. päivänä 2026 lehdistösihteeri Dmitry Peskov ilmoitti, että Venäjä toteuttaa jo järjestelmällisiä kostohyökkäyksiä Ukrainaa vastaan viimeaikaisten omalla alueellaan tapahtuneiden hyökkäysten johdosta. Hän painotti, että nämä toimet ovat osa laajempaa sotilaallista operaatiota, jonka tavoitteena on estää lisähyökkäykset. [4]
 
-**COMMENT:** Tämä sotilaallinen toimi korostaa jatkuvia jännitteitä Venäjän ja Ukrainan välillä, merkiten mahdollista kärjistymistä konfliktissa. Kehittyneiden aseiden käyttö viittaa Venäjän taktisen vastauksen muutokseen, mikä voi johtaa edelleen aggressiivisiin toimiin alueella.
+**COMMENT:** Tämä kehitys osoittaa merkittävän eskalaation Venäjän vastauksessa Ukrainan sotilaallisiin toimintoihin, mikä korostaa aggressiivisen sotilaallisen sitoutumisen siirtymistä.
 
-**LOCATION:** Starobelsk / Starobelsk, Unknown, Unknown [Click for Map Location](https://interfax.ru/russia/1093320) (Старобельск)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #russia #российские #минобороны россии #российские военнослужащие #минобороны #удар #бпла #про 
+**KEYWORDS:** #russia #россия #минобороны #удар #сво #бпла #специальная военная операция #про
 
 
-## Valtionduuman komitea ehdottaa uhkapelin itsensä estämisen sääntöjen tarkistamista
-Marraskuun 2. päivänä 2026 Valtionduuman talouspolitiikan komitea viimeisteli muutoksia lakiin uhkapelin itse itseltään estämistä koskevista säännöistä. Ehdotetut muutokset sisältävät kumottavien sopimusten laajentamisen sekä lyhentävän aikarajan liittovaltion veropalvelulle toimia laittomia uhkapelisivustoja vastaan. [8]
+## UAV-hyökkäykset aiheuttavat uhreja Belgorodissa ja Yenakiyevossa
+Maaliskuun 20. päivänä 2026 UAV-hyökkäys Yakovlevsky-alueella Belgorodissa loukkasi miestä, ja eri isku bussissa Yenakiyevossa, Donetskin kansantasavallassa, johti kahdeksaan kuolemaan ja kymmeneen loukkaantumiseen. Venäjän hallitus on ilmoittanut, että kostohyökkäykset Ukrainaan jatkuvat hyökkäysten vuoksi sen alueella. [5]
 
-**COMMENT:** Tämä lainsäädännöllinen säätö heijastaa Venäjän hallituksen aikomusta parantaa uhkapelin sääntelyvalvontaa, kohdistuen laittomiin toimintoihin tehokkaammin. Tällaiset toimet voivat merkitä laajempaa strategiaa ylläpitää julkista järjestystä ja suojata taloudellisia etuja lisääntyvän uhkapelitoiminnan valvonnan keskellä.
+**COMMENT:** UAV-hyökkäysten eskalaatio korostaa jatkuvia jännitteitä alueella ja herättää huolta siviilien turvallisuudesta.
+
+**LOCATION:** Yenakiyevo / Yenakiyevo, Unknown, Unknown [Click for Map Location](Unknown) (Енакиево)
+
+**KEYWORDS:** #россия #российские #минобороны рф #российские военные #минобороны #пво #штаб #удар #сво #беспилотник #бпла #перехват #про
+
+
+## UAV-hyökkäys Belgorodissa loukkaa miestä ja vaurioittaa omaisuutta
+Maaliskuun 3. päivänä 2026 drone-hyökkäys Belgorodin alueella johti loukkaantumisiin ja omaisuusvaurioihin. Mies Malomikhaylovkassa sai sirpalevammoja, ja lisädronehyökkäykset vaurioittivat useita rakennuksia ja ajoneuvoja lähikylissä. [6]
+
+**COMMENT:** Dronehyökkäys viittaa mahdolliseen eskalaatioon ilmataistelumenetelmien käytössä sisäisissä aluekonflikteissa.
+
+**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгородский муниципальный округ)
+
+**KEYWORDS:** #russia #штаб #удар #бпла
+
+
+## Shoigu varoittaa Armenian EU-integraation merkitsevän eroamista EAEU:sta ja Venäjästä
+Maaliskuun 3. päivänä 2026 Venäjän turvallisuusneuvoston sihteeri Sergei Shoigu ilmoitti, että Armenian integraatio Euroopan unioniin merkitsee eroa sekä Euraasian talousunionista (EAEU) että Venäjästä. Hän varoitti, että tällaiset toimet voivat upottaa Armenian talouden vakavaan kriisiin. [7]
+
+**COMMENT:** Shoigun kommentit heijastavat kasvavia jännitteitä Armenian EU-puolien suhteen, mikä voi horjuttaa aluetta EAEU:ssa.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
 **KEYWORDS:** #russia #про
 
 
-## Venäjän armeija väittää iskeneensä Motor Sich -tehtaaseen Zaporozhyessa
-Marraskuun 2. päivänä 2026 Venäjän asevoimat raportoivat tehneensä massiivisen iskua Motor Sich -lentokoneen moottoritehtaaseen Zaporozhyessa, Ukrainassa, osana kostotoimia Ukrainan asevoimien hyökkäystä Starobelskiin vastaan. Hyökkäys kohdistui myös muihin laitoksiin, jotka tuottavat komponentteja hyökkäysdrooneille ja ohjusjärjestelmille, mikä osoittaa jatkuvaa keskittymistä Ukrainan sotilaallisten kykyjen heikentämiseen. [9]
+## Venäjän suurlähettiläs kutsutaan brittiläiseen ulkoministeriöön UAV-tapauksen vuoksi Romaniassa
+Maaliskuun 3. päivänä 2026 Venäjän suurlähettiläs Andrei Kelin kutsuttiin brittiläiseen ulkoministeriöön huolten vuoksi UAV-tapauksesta Galatsissa, Romaniassa, jossa dronen kerrottiin törmänneen asuntoon aiheuttaen tulipalon. [8]
 
-**COMMENT:** Tämä sotilaallinen toimi korostaa alueen jatkuvaa epävakaisuutta ja heijastaa Venäjän strategisia tavoitteita keskeyttää Ukrainan sotilaallista tuotantoa. Jatkuvat hyökkäykset puolustukseen liittyvään infrastruktuuriin voivat kärjistää jännitteitä ja johtaa edelleen vastatoimiin Ukrainasta.
+**COMMENT:** Venäjän suurlähettilään kutsuminen korostaa lisääntyviä diplomaattisia jännitteitä, jotka liittyvät sotilaallisiin tapahtumiin Itä-Euroopassa.
 
-**LOCATION:** Zaporozhye / Zaporozhye, Unknown, Unknown [Click for Map Location](https://interfax.ru/russia/1093318) (Запоріжжя)
+**LOCATION:** Galats / Galats, Unknown, Unknown [Click for Map Location](Unknown) (Галац)
 
-**KEYWORDS:** #russia #минобороны рф #вооруженные силы россии #минобороны #удар #бпла #пуск #про
-
-
-## Venäjän puolustusministeriö raportoi iskuista kymmenelle puolustusteollisuuden yritykselle Kiovassa
-Marraskuun 2. päivänä 2026 Venäjän puolustusministeriö ilmoitti, että suurella yön aikana tapahtuneissa iskuissa Kiovassa kohdistettiin kymmenen puolustusteollisuuden yritystä, mukaan lukien tärkeimmät sotilastavaroiden valmistajat, kuten UAV:t ja elektroniset järjestelmät. Tätä sotilaallista toimintaa kuvattiin vastauksena Ukrainan voimien aikaisempiin hyökkäyksiin, korostaen konfliktin jatkuvaa kärjistymistä. [10]
-
-**COMMENT:** Tämä isku korostaa Venäjän armeijan keskittymistä Ukrainan puolustuskylkyeisiin, mikä viittaa aikomukseen keskeyttää sotilaallinen tuotanto ja logistiikka. Tulevat toimet saattavat jatkaa keskittymistä Ukrainan keskeisiin infrastruktuureihin, mikä vaikuttaa konfliktin dynamiikkaan ja resurssien saatavuuteen Ukrainalle.
-
-**LOCATION:** Kiova / Kiev, Unknown, Unknown [Click for Map Location](https://interfax.ru/russia/1093317) (Киев)
-
-**KEYWORDS:** #russia #минобороны рф #минобороны #удар #бпла #пуск #про
+**KEYWORDS:** #russia #российский #удар #беспилотник #бпла #про
 
 
-## Pulkovo lentoasema lopettaa lentorajoitukset
-Marraskuun 2. päivänä 2026 Pulkovo lentoasema Moskovassa lopetti aikaisemmin asetetut rajoitukset lentokoneiden vastaanottamiselle ja lähettämiselle. Nämä rajoitukset oli toimeenpanettu turvallisuussyistä, mutta ne peruttiin myöhemmin saman päivän aikana, kun lentoasema palasi normaaleihin toimintatapoihinsa. [11]
+## Venäjän ilmatorjunta torjuu 148 ukrainalaista dronetta yön aikana
+Maaliskuun 6. päivänä 2026 Venäjän ilmatorjuntavoimat torjuivat onnistuneesti 148 ukrainalaista dronetta, keskittyen eteläisiin rajoihin, mukaan lukien Taganrog ja Rostovin alueet. [9]
 
-**COMMENT:** Lentorajoitusten purkaminen Pulkovo lentoasemalla osoittaa paikallisen turvallisuustilanteen parantumista. Tämä kehitys voi heijastaa laajempia suuntauksia ilmailuturvallisuuden hallinnassa ja operatiivisessa valmiudessa Venäjän liikenneinfrastruktuurissa.
+**COMMENT:** Menestyksekäs torjunta dronetta osoittaa edelleen Venäjän sotilasoperaatioiden kykyjä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Rostov Oblast / Rostov Oblast, 47.6222451, 40.7957942 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.622245&mlon=40.795794#map=8/47.622245/40.795794) (Ростовская область)
 
-**KEYWORDS:** #russia #про
-
-
-## Venäjä rajoittaa munakoisojen, perunoiden ja kuivahedelmien tuontia Armeniasta
-Marraskuun 3. päivänä 2026 Venäjän maatalousvalvoja Rosselkhoznadzor toteuttaa tilapäisiä rajoituksia munakoisojen, perunoiden ja kuivahedelmien tuonnille Armeniasta sekä niiden transitolle muille Euraasian talousunionin jäsenvaltioille. Tämä päätös heijastaa jatkuvia toimenpiteitä maataloustuontien hallinnassa ja voi vaikuttaa kauppasuhteisiin alueella. [12]
-
-**COMMENT:** Rajoitus korostaa Venäjän jatkuvaa keskittymistä maataloudellisten tuontien hallintaan, mikä voi johtua elintarviketurvallisuus huolista tai laatuhallintaongelmista. Tällaiset toimet voivat johtaa lisääntyviin jännitteisiin kauppasuhteissa Armenian kanssa ja mahdollisesti vaikuttaa laajempaan taloudelliseen maisemaan Euraasian talousunionissa.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #удар #тоф #про
+**KEYWORDS:** #российские #минобороны рф #вс рф #российские войска #минобороны #пво #удар #сво #беспилотник #бпла #перехват #пуск #армия #про
 
 
-## Venäjän puolustusministeriö raportoi iskuista Motor Sich -tehtaan työpajoihin Zaporozhyessa
-Marraskuun 2. päivänä 2023 Venäjän asevoimat käynnistivät yön aikana tapahtuneen hyökkäyksen Motor Sich -lentokonesuunnittelu tehtaan työpajoihin Zaporozhyessa, kohdistuen siihen, mitä puolustusministeriö piti kostona terrorismi-iskuille Venäjän siviileitä vastaan. Lisäksi iskuista raportoitiin Omelchenkon konepajasta samassa alueessa. [13]
+## Moskova esittelee interaktiivisen näyttelyn SPIEF-2026:ssa
+Maaliskuun 3. päivänä 2026 Moskova lanseerasi interaktiivisen näyttelyn Pyhän Pietarin kansainvälisessä talousfoorumissa (SPIEF-2026), esitellen taloudellisia saavutuksiaan ja tulevaisuuden kehityssuunnitelmiaan. [10]
 
-**COMMENT:** Tämä isku korostaa Venäjän jatkuvia sotilaallisia toimia, jotka liittyvät Ukrainan sotilaallisten teollisuuden kykyjen häiritsemiseen. Tärkeiden teollisten kohteiden kohdistaminen voi lisätä vihamielisyyksiä ja provosoida lisätoimia Ukrainalta.
+**COMMENT:** Tämä tapahtuma heijastaa Moskovan jatkuvia pyrkimyksiä asettaa itsensä innovaation ja teollisen kehityksen johtajaksi.
 
-**LOCATION:** Zaporozhye / Zaporozhye, Unknown, Unknown [Click for Map Location](https://www.vesti.ru/ns/mo-rf-soobshchilo-o-porazhenii-cekhov-zavoda-motor-sich-v-zaporozhe) (Запоріжжя)
+**LOCATION:** Pyhä Pietari / St. Petersburg, Unknown, Unknown [Click for Map Location](Unknown) (Петербург)
 
-**KEYWORDS:** #минобороны рф #мо рф #вооруженные силы россии #вооруженные силы рф #вс рф #вс россии #минобороны #удар #сво #пуск #про
+**KEYWORDS:** #россия #вдв #штаб #пуск #серийное производство #сф #про
 
 
-## Entinen Saksan liittokansleri Schroeder vierailee Moskovassa talousfoorumin alla
-Marraskuun 2. päivänä 2023 entinen Saksan liittokansleri Gerhard Schroeder havaittiin Kempinski-hotellissa Moskovassa, ja hän on ilmeisesti kaupungissa ennakoidessaan Saint-Petersburgin kansainvälisen talousfoorumin alkua keskiviikkona. Visiitti tulee osana Schroederin jatkuvaa roolia neuvottelijana, jota Venäjän presidentti Vladimir Putin suosii Ukrainan konfliktissa. [14]
+## Peskov: Uudistukset Ukraina-sovintoon epätodennäköisiä viimeaikaisten hyökkäysten jälkeen
+Maaliskuun 3. päivänä 2023, presidentti Putinin lehdistösihteeri Dmitry Peskov totesi, että merkittäviä muutoksia ukrainakriisin ratkaisussa on epätodennäköisiä, koska Ukrainan viimeaikaiset hyökkäykset ovat muuttaneet konfliktin dynamiikkaa. [11]
 
-**COMMENT:** Schroederin vierailu korostaa Venäjän ja Saksan välisten diplomaattisten suhteiden jatkuvaa tiivistymistä, erityisesti Ukrainan tilanteen osalta. Tulevat vuorovaikutukset voivat vahvistaa Venäjän riippuvuutta vakiintuneista poliittisista henkilöistä sen strategisten etujen edistämisessä Euroopassa.
+**COMMENT:** Lausunto osoittaa Kremlissä tiukkenevaa asennetta Ukrainaa kohtaan.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #удар #сво #про
-
-
-## Venäjän asevoimat hyökkäävät Shostkan valtion "Zvezda"-tehtaaseen Sumy-alueella
-Marraskuun 2. päivänä 2023 Venäjän liittovaltion asevoimat ovat hyökkääneet Shostkan valtion "Zvezda" -tehtaaseen Sumy-alueella, Venäjän puolustusministeriön ilmoituksen mukaan. Tätä hyökkäystä kuvattiin kostotoimena, kun ministeriö kutsui hyökkäyksiä Ukrainalaisten avulla Luhanskin kansantasavallassa. [15]
-
-**COMMENT:** Tämä isku merkitsee Venäjän sotilaallisten vastausten kärjistymistä koetuille uhkiin Ukrainasta, erityisesti kohdistuen infrastruktuuuriin, joka liittyy sen sotilaallisiin kykyihin. Jatkuva keskittyminen tarkkuushyökkäyksiin puolustusteollisuuskohteita vastaan voi johtaa Jatkuvaan vastatoimien kärjistymiseen niin Venäjän kuin Ukrainan keskuudessa.
-
-**LOCATION:** Sumy Oblast / Sumy Oblast, Unknown, Unknown [Click for Map Location](https://www.vesti.ru/ns/vs-rf-udarili-po-ukrainskomu-zavodu-zvezda-v-sumskoj-oblasti) (Сумская область)
-
-**KEYWORDS:** #минобороны рф #вооруженные силы рф #вс рф #минобороны #удар #сво #про
-
-
-## Venäjän puolustusministeriö raportoi iskuista kolmeen Ukrainan puolustusteollisuuden kohteeseen
-Marraskuun 2. päivänä 2023 Venäjän puolustusministeriö ilmoitti, että se oli suorittanut iskuja kolmeen kohteeseen Harkovan alueella Ukrainassa, erityisesti kohdistuen Harkovan valtion ilmailuyritykseen ja kahteen energiaan liittyvään kompleksiin, jotka liittyvät Ukrainan asevoimien kanssa. Näitä iskuja kuvattiin reaktiona Ukrainan hallitukselle liittyviin terroritekoihin. [16]
-
-**COMMENT:** Iskut viittaavat sotilaallisten toimintojen jatkuvaan kärjistymiseen Venäjän ja Ukrainan välillä, erityisesti kohdistuen Ukrainan puolustus- ja energia-infrastruktuuriin. Tällainen lähestymistapa voi viitata Venäjän aikomukseen heikentää Ukrainan sotilaallisia kykyjä tulevia operaatioita varten.
-
-**LOCATION:** Harkovan Oblast / Kharkiv Oblast, Unknown, Unknown [Click for Map Location](https://www.vesti.ru/ns/minoborony-rf-soobshchilo-o-nanesenii-udarov-po-trem-obektam-opk-ukrainy) (Харьковская область)
-
-**KEYWORDS:** #россия #минобороны рф #минобороны #армия россии #учения #удар #сво #армия #про
-
-
-## Biometriset tarkastukset tunnistavat 2500 ulkomaalaista, joilta on kielletty pääsy Venäjälle
-Marraskuun 2. päivänä 2023 venäläiset viranomaiset ilmoittivat tunnistavansa 2500 ulkomaalaista, joilta on kielletty pääsy maahan biometristen tarkastusten avulla. Tämä aloite, jota käsiteltiin Valtionrajakomission kokouksessa, vahvistaa Venäjän jatkuvia pyrkimyksiä vahvistaa rajaturvallisuutta ja ulkomaalaisten valvontaa. [17]
-
-**COMMENT:** Biometristen tarkastusten käyttöönotto heijastaa Venäjän rajavalvonnan toimenpiteiden tiukentumista, mikä voi viitata lisääntyneisiin huoliin luvattomista sisäänpääsymahdollisuuksista. Tulevaisuuden vaikutuksiin voi sisältyä laajennetut biometriset tarkastukset lisäryhmille, mikä voi mahdollisesti vaikuttaa ulkomaalaiseen matkustukseen ja turvallisuusprotokolliin.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
 **KEYWORDS:** #россия #удар #про
 
 
-## Päivittäisiä raportteja siviilien pommituksista Donbassissa käsitteli ihmisoikeuskomissaari
-Marraskuun 2. päivänä 2023 Yana Lantratova, Venäjän ihmisoikeuskomissaari, raportoi saaneensa päivittäisiä tietoja siviilien pommituksista Donetskin kansantasavallassa (DPR) ja Luhanskin kansantasavallassa (LPR). Lantratovan mukaan humanitaarisia tarvikkeita kohdistetaan usein Ukrainan joukkojen toimesta, mikä viittaa jatkuviin vihamielisyyksiin, jotka vaikuttavat siviiliväestöön näillä alueilla. [18]
+## Putin tietoinen ukrainalaisesta hyökkäyksestä bussissa Yenakiyevossa
+Maaliskuun 3. päivänä 2023 presidentti Vladimir Putin sai tiedon Ukrainan asevoimien hyökkäyksestä siviilibussiin Yenakiyevossa, Donetskin kansantasavallassa. [12]
 
-**COMMENT:** Tämä raportointi korostaa vihamielisyyksien jatkuvaa ja kohdennettua luonteen Donbassissa, mikä herättää huolta siviiliturvallisuudesta ja humanitaarisesta pääsyistä. Jatkuva painopiste näissä tapauksissa voi vaikuttaa julkiseen käsitykseen ja hallituksen politiikkaan suhteessa Ukrainan konfliktiin.
+**COMMENT:** Tämä hyökkäys korostaa jatkuvia jännitteitä Donbassin alueella.
 
-**LOCATION:** Donetskin kansantasavalta / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](https://www.vesti.ru/ns/lantratova-rasskazala-o-ezhednevnykh-soobshcheniyakh-ob-obstrelakh-mirnykh-zhitelej) (Донецкая народная Республика)
+**LOCATION:** Yenakiyevo / Yenakiyevo, Unknown, Unknown [Click for Map Location](Unknown) (Енакиево)
 
-**KEYWORDS:** #россия #минобороны рф #минобороны #пво #учения #удар #тоф #про
-
-
-## Uudet Il-114-koneet alkavat toimitukset tänä vuonna
-Marraskuun 2. päivänä 2023 Yhdistetty lentokonesuunnittelu (UAC) ilmoitti, että uuden Il-114-300 koneen tuotanto alkaa tänä vuonna, vuotuinen tuotantokapasiteetti vaihtelee 6-12 yksikön välillä riippuen markkinoiden kysynnästä. UAC:n pääjohtaja Vadim Badeha ilmoitti, että useat alueet kilpailevat ensimmäisestä lentokonesatsista, mikä signaaloi merkittävää kiinnostusta tähän sotilaskelpoinen malliin. [19]
-
-**COMMENT:** Tämä kehitys osoittaa Venäjän jatkuvaa sitoutumista parantaa kotimaista ilmailukapasiteettia, erityisesti sotilas sovelluksille. Il-114-300:n onnistunut tuotanto voisi vaikuttaa Venäjän puolustusvienti ja alueelliseen vaikutusvaltaan ilmailuteknologian alalla.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #минобороны #истребитель #пуск #про
+**KEYWORDS:** #россия #удар #беспилотник #бпла #про
 
 
-## Venäjän armeija iskee kuuteen Ukrainan sotilaslentokenttään
-Marraskuun 2. päivänä 2023 Venäjän asevoimat käynnistivät kostotoimenpiteenä iskun kuuteen sotilaslentokenttään Tšerkassin, Rivnen, Žytomyrin, Kirovogradin, Hmelnytskin ja Kiovan alueilla Ukrainassa. Tämä operaatio kohdistui myös sotilas-teolliseen kompleksiin Hmelnytskin ja Poltavan alueilla, jolloin Venäjän puolustusministeriö väitti kaikkien asetettujen tavoitteiden toteutuneen. [20]
+## Ukrainalainen dronehyökkäys bussissa, joka kuljetti matkustajia Puolasta
+Maaliskuun 3. päivänä 2023 bussin, joka matkusti Podolskista Simferopoliin, kimppuun hyökättiin ukrainalaisella dronella. [13]
 
-**COMMENT:** Tämä sotilaallinen toiminta korostaa Venäjän jatkuvaa sitoutumista tavoitteidensa saavuttamiseen Ukrainassa, erityisesti sotilas-infrastruktuurin tuhoamiseen. Tulevat operaatioita saattaa jatkossakin kohdistua Ukrainan sotilaallisten kykyjen heikentämiseen, mikä voi johtaa lisääntyneisiin vastatoimiin molemmilta osapuolilta.
+**COMMENT:** Tämä tapaus korostaa alueen jatkuvaa epävakautta, joka vaikuttaa sekä paikallisiin että ulkomaalaisiin kansalaisiin.
 
-**LOCATION:** Tšerkassit / Cherkasy Oblast, Unknown, Unknown [Click for Map Location](https://www.vesti.ru/ns/vs-rf-nochyu-porazili-shest-ukrainskikh-voennykh-aehrodromov) (Черкасская область)
+**LOCATION:** Donetskin kansantasavalta / Donetsk People's Republic, Unknown, Unknown [Click for Map Location](Unknown) (ДНР)
 
-**KEYWORDS:** #российские #минобороны россии #мо рф #вс рф #вс россии #российские военные #минобороны #министерство обороны #армия россии #удар #пуск #армия #про
-
-
-## Venäjän ilmapuolustus ampuu alas 381 ukrainalaista dronea yhdessä päivässä
-Marraskuun 2. päivänä 2023 Venäjän ilmapuolustus raportoi 381 ukrainalaisen droneen sekä 10 ohjatun pommin keskeyttämisestä. Lisäksi kolmet HIMARS-ohjukset ammuttiin alas tuona aikana, mikä osoittaa Venäjän sotilasjoukkojen jatkuvaa puolustustoimintaa ilmatuhouksille. [21]
-
-**COMMENT:** Tämä merkittävä määrä keskeytettyjä droneja viittaa jatkuvaan uhkaan ukrainalaisesta ilmailukyvystä. Venäjän ilmapuolustuksen jatkuva tehokkuus voi heijastaa laajempia trendejä alueen sotilaallisissa sitoumuksissa.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #россия #мо рф #минобороны #пво #противовоздушная оборона #беспилотник #бпла #перехват #про
+**KEYWORDS:** #россия #удар #беспилотник #бпла #про
 
 
-## Venäjän armeija iskee kymmeneen puolustusteollisuuden kohteeseen Kiovassa tarkkuusaseilla
-Marraskuun 2. päivänä 2026 Venäjän asevoimat kohdistivat kymmeneen sotilasteollisuuskompleksin yritykseen Kiovassa, Ukrainassa, hyödyntäen huipputarkkuusaseita. Tämä toiminta, josta raportoi Venäjän puolustusministeriö, sisältää iskuja merkittäviin sotilastuotantolaitoksiin ja rekrytointikeskuksiin, mikä korostaa alueen jatkuvia jännitteitä. [22]
+## GRU-päällikkö Kostyukov käsittelee turvallisuusuhkia SPIEF:ssä
+Maaliskuun 3. päivänä 2023 amiraali Igor Kostyukov vakuutti, että turvallisuusasiat liittyen Pyhän Pietarin kansainväliseen talousfoorumiin (SPIEF) hallitaan tehokkaasti. [14]
 
-**COMMENT:** Tämä isku viittaa jatkuvaan korostukseen heikentää Ukrainan sotilaallisia kykyjä hyökkäämällä keskeiseen infrastruktuuriin. Tällaisilla toimilla voi olla vaikutuksia provosoida lisää sotilaallisia vastatoimia Ukrainasta ja kärjistää jatkuvaa konfliktin dynamiikkaa.
+**COMMENT:** GRU:n itsevarma asenne SPIEF:n turvallisuuden suhteen ulkoisten uhkien keskellä viittaa valtion kontrollin ylläpitämiseen.
 
-**LOCATION:** Kiova / Kiev, Unknown, Unknown [Click for Map Location](https://iz.ru/2107750/armiia-rossii-porazila-vysokotochnym-oruzhiem-10-predpriiatii-opk-v-kieve-izi) (Киев)
+**LOCATION:** Pyhä Pietari / St. Petersburg, Unknown, Unknown [Click for Map Location](Unknown) (Петербург)
 
-**KEYWORDS:** #минобороны рф #вооруженные силы россии #минобороны #армия россии #военкомат #удар #сво #бпла #пуск #армия #про
-
-
-## Venäjä käynnistää uusia ohjusiskuja Ukrainaan
-Marraskuun 2. päivänä 2026 Venäjän joukot suorittivat merkittävän ohjusiskun Ukrainaan, kohdistuen teollisuusinfrahankkeisiin Zaporozhyessa eri asejärjestelmillä, mukaan lukien Kalibr-ohjuksia Kaspianmereltä. Tämä isku viittaa Venäjän jatkuviin sotilaallisiin operaatioihin, joiden tavoitteena on häiritä Ukrainan teollisuusyhteyksiä jatkuvien konfliktin aikana. [23]
-
-**COMMENT:** Eri ohjusjärjestelmien merkittävä käyttö viittaa Venäjän hyökkäystoimintojen kärjistymiseen yhdessä Ukrainassa. Jatkuva kohdistaminen Ukrainan teollisiin kohteisiin heijastaa strategista aikomusta heikentää maan talous- ja sotilastuotantokapasiteettia.
-
-**LOCATION:** Zaporozhye / Zaporozhye, Unknown, Unknown [Click for Map Location](https://www.kp.ru/daily/277787.4/5257299/) (Запоріжжя)
-
-**KEYWORDS:** #россия #штаб #корпус #удар #бпла #арсенал #про
+**KEYWORDS:** #российские #вс рф #вс россии #генштаб #штаб #удар #сво #беспилотник #бпла #про
 
 
-## Suomi myöntää, että havaittu drone on ukrainalainen
-Marraskuun 2. päivänä 2026 Viron viranomaiset vahvistivat, että heidän ilmatilassaan havaitut droneet ovat ukrainalaista alkuperää, mikä johti lisääntyneeseen sotilaalliseen valmiuteen ja julkisiin neuvoihin kansalaisille pysyä sisätiloissa. Tämä tapaus heijastaa alueellisia jännitteitä ja voi merkitä muutosta siinä, miten Suomi valmistautuu havaittuihin uhkiin liittyen Ukrainan ja Venäjän konflikteihin. [24]
+## Kreml reagoi myönteisesti Schroederin vierailuun Venäjällä
+Maaliskuun 3. päivänä 2023, Kremlin tiedottaja Dmitry Peskov ilmoitti, että hallitus arvioi myönteisesti entisen Saksan liittokanslerin Gerhard Schroederin vierailua Venäjällä. [15]
 
-**COMMENT:** Tämä tilanne korostaa kasvavia huolia Suomessa ilmatuhouksista, mikä voi muuttaa heidän puolustuspoliittista asennettaan jatkuvassa konfliktissa. Tulevat seuraukset voivat sisältää lisää keskusteluja sotilaallisesta yhteistyöstä Naton liittolaisten kanssa havaittujen haavoittuvuuksien vastaamiseksi.
+**COMMENT:** Schroederin vierailu voi viitata Venäjän pyrkimuksiin ylläpitää diplomaattisia kanavia eurooppalaisten johtajien kanssa.
 
-**LOCATION:** Helsinki / Helsinki, 60.1666204, 24.9435408 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.166620&mlon=24.943541#map=8/60.166620/24.943541) (Хельсинки)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #ввс #пво #министр обороны #удар #сво #рэб #беспилотник #пуск #про
-
-
-## Venäjän armeija kohdistaa Motor Sich -tehtaaseen Zaporozhyessa
-Marraskuun 2. päivänä 2026 Venäläiset joukot kärsivät Motor Sich -lentokonesuunnittelu tehtaan iskujen osana kostoa aikaisempia terrori-iskuja siviilejä kohtaan. Venäjän puolustusministeriö vahvisti, että työpajat vahingoittuivat, mikä liittyi odotettuihin räjähdyksiin ja tulipaloihin Kiovassa, mikä johti sähkökatkoihin useilla alueilla. [25]
-
-**COMMENT:** Tämä isku heijastaa Venäjän strategiaa kohdistaa sotilaallista infrastruktuuria koettujen uhkien palauttamiseksi. Hyökkäysten lisääntyminen Ukrainan infrastruktuuriin voi viitata muutokseen operatiivisessa tahdissa konfliktin jatkuessa.
-
-**LOCATION:** Zaporozhye / Zaporozhye, Unknown, Unknown [Click for Map Location](https://www.kp.ru/online/news/7001389/) (Запоріжжя)
-
-**KEYWORDS:** #российские #минобороны рф #вс рф #российские войска #минобороны #удар #про
+**KEYWORDS:** #россия #вс рф #про
 
 
-## Venäjän armeija suorittaa kostotoimia Ukrainan puolustusteollisuutta vastaan
-Marraskuun 2. päivänä 2026 Venäjän armeija käynnisti kostotoimia, jotka kohdistuivat Ukrainan puolustusteollisuuden yrityksiin. Tämä toiminta heijastaa jatkuvia sotilaallisia jännitteitä ja korostaa Venäjän sotilaallista osallistumista sen rajojen ulkopuolella. [26]
+## Zakharova kehottaa kansainväliseen tuomintaan APU-hyökkäykselle Yenakiyevossa
+Maaliskuun 3. päivänä 2023, Venäjän ulkoministeriön tiedottaja Maria Zakharova kehotti kansainvälistä yhteisöä tuomitsemaan APU:n terrori-iskun. [16]
 
-**COMMENT:** Näiden iskujen aloittaminen voi viitata konfliktin kärjistymiseen ja Venäjän operatiivisen keskittymisen siirtymiseen Ukrainan puolustussektoriin. Tällaiset tapahtumat voivat vaikuttaa alueen turvallisuusyhteyksiin ja provosoida lisää vastauksia Ukrainalta ja sen liittolaisilta.
+**COMMENT:** Tämä lausunto heijastaa Venäjän strategiaa hankkia kansainvälistä tukea Ukrainaa vastaan.
 
-**LOCATION:** Ukraina / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) (Украина)
+**LOCATION:** Yenakiyevo / Yenakiyevo, Unknown, Unknown [Click for Map Location](Unknown) (Енакиево)
+
+**KEYWORDS:** #россия #призыв #удар #сво #беспилотник #про
+
+
+## Rostec korostaa Su-57-hävittäjien stealth-kykyjä taisteluohjauksessa
+Maaliskuun 3. päivänä 2023 Rostec ilmoitti, että Venäjän viidennen sukupolven Su-57 hävittäjät voivat tehokkaasti koordinoida ilmasodankäyntiä pysyessään havaitsemattomina vihollisen tutkalta. [17]
+
+**COMMENT:** Su-57:n ilmoitetut kyvyt viittaavat merkittävään edistykseen Venäjän ilmasodankäynnin teknologiassa ja taktiikassa.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #российский #российские #вкс #удар #сво #истребитель #пуск #армия #про
+
+
+## Ukrainalaiselta dronehyökkäykseltä kuolee kahdeksan Yenakiyevossa
+Maaliskuun 3. päivänä 2026 ukrainalainen droni hyökättiin bussiin Yenakiyevossa, mikä johti kahdeksan kuolemaan ja yhdentoista loukkaantumiseen. [18]
+
+**COMMENT:** Tämä hyökkäys korostaa jatkuvia vihollisuuksia ja drone-teknologian käyttöä konfliktissa.
+
+**LOCATION:** Yenakiyevo / Yenakiyevo, Unknown, Unknown [Click for Map Location](Unknown) (Енакиево)
+
+**KEYWORDS:** #россия #удар #сво #беспилотник #про
+
+
+## Ukrainalaiselta dronehyökkäykseltä bussissa Yenakiyevossa aiheutuu uhreja
+Maaliskuun 3. päivänä 2026 ukrainalainen drone hyökkäsi bussiin Yenakiyevossa, jonka seurauksena kahdeksan kuolee ja 11 loukkaantuu. [19]
+
+**COMMENT:** Tämä tapaus korostaa jatkuvia jännitteitä ja sotilaallisia sitoumuksia alueella, mikä korostaa siviilien turvallisuuden haavoittuvuutta.
+
+**LOCATION:** Yenakiyevo / Yenakiyevo, Unknown, Unknown [Click for Map Location](Unknown) (Енакиево)
+
+**KEYWORDS:** #россия #удар #сво #беспилотник #про
 
 
 # Sources
+[1] Interfax - https://interfax.ru/russia/1093588?utm_source=top
 
-[1] interfax.ru - https://interfax.ru/russia/1093237?utm_source=top
+[2] Interfax - https://interfax.ru/russia/1093524?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1093248?utm_source=top
+[3] Interfax - https://interfax.ru/russia/1093515?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1093305?utm_source=top
+[4] Interfax - https://interfax.ru/russia/1093511?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[5] Interfax - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
 
-[5] interfax.ru - https://interfax.ru/russia/1093327
+[6] Interfax - https://interfax.ru/russia/1093655
 
-[6] interfax.ru - https://interfax.ru/russia/1093326
+[7] Interfax - https://interfax.ru/russia/1093652
 
-[7] interfax.ru - https://interfax.ru/russia/1093320
+[8] Interfax - https://interfax.ru/russia/1093648
 
-[8] interfax.ru - https://interfax.ru/russia/1093319
+[9] AIF - https://aif.ru/society/aloe-nebo-kieva-zelenoe-zarevo-zaporozhya-sekretnoe-oruzhie-krushit-ukrainu
 
-[9] interfax.ru - https://interfax.ru/russia/1093318
+[10] AIF - https://aif.ru/spief2026/sobyanin-rasskazal-chto-uvidyat-gosti-moskovskogo-stenda-na-pmef-2026
 
-[10] interfax.ru - https://interfax.ru/russia/1093317
+[11] www.vesti.ru - https://www.vesti.ru/ns/peskov-pereformatirovanie-uregulirovaniya-na-ukraine-vryad-li-vozmozhno
 
-[11] interfax.ru - https://interfax.ru/russia/1093316
+[12] www.vesti.ru - https://www.vesti.ru/ns/putinu-dolozheno-ob-atake-kievskogo-rezhima-na-avtobus-v-enakievo
 
-[12] www.vesti.ru - https://www.vesti.ru/ns/rossiya-ogranichit-vvoz-baklazhanov-kartofelya-i-sukhofruktov-iz-armenii
+[13] www.vesti.ru - https://www.vesti.ru/ns/v-rejsovom-avtobuse-atakovannom-dronom-vsu-ekhali-lyudi-iz-polshi
 
-[13] www.vesti.ru - https://www.vesti.ru/ns/mo-rf-soobshchilo-o-porazhenii-cekhov-zavoda-motor-sich-v-zaporozhe
+[14] www.vesti.ru - https://www.vesti.ru/ns/glava-gru-kostyukov-vyskazalsya-ob-ugrozakh-bezopasnosti-pmehf
 
-[14] www.vesti.ru - https://www.vesti.ru/ns/nemeckie-smi-pishut-o-vizite-ehks-kanclera-shredera-v-moskvu
+[15] www.vesti.ru - https://www.vesti.ru/ns/peskov-kreml-pozitivno-ocenivaet-poezdku-shredera-v-rossiyu
 
-[15] www.vesti.ru - https://www.vesti.ru/ns/vs-rf-udarili-po-ukrainskomu-zavodu-zvezda-v-sumskoj-oblasti
+[16] www.vesti.ru - https://www.vesti.ru/ns/zakharova-prizvala-mirovoe-soobshchestvo-osudit-terakt-vsu-v-enakieve
 
-[16] www.vesti.ru - https://www.vesti.ru/ns/minoborony-rf-soobshchilo-o-nanesenii-udarov-po-trem-obektam-opk-ukrainy
+[17] www.vesti.ru - https://www.vesti.ru/ns/rostekh-istrebiteli-su-57-upravlyayut-boem-iz-tumana-vojny
 
-[17] www.vesti.ru - https://www.vesti.ru/ns/blagodarya-biometrii-vyyavleny-25-tys-inostrancev-kotorym-zapreshchen-vezd-v-rf
+[18] RIA - https://ria.ru/20260603/enakievo-2096536082.html
 
-[18] www.vesti.ru - https://www.vesti.ru/ns/lantratova-rasskazala-o-ezhednevnykh-soobshcheniyakh-ob-obstrelakh-mirnykh-zhitelej
-
-[19] www.vesti.ru - https://www.vesti.ru/ns/postavki-novykh-il-114-nachnutsya-v-ehtom-godu
-
-[20] www.vesti.ru - https://www.vesti.ru/ns/vs-rf-nochyu-porazili-shest-ukrainskikh-voennykh-aehrodromov
-
-[21] www.vesti.ru - https://www.vesti.ru/ns/pvo-rossii-za-sutki-sbila-381-bespilotnik-vsu
-
-[22] iz.ru - https://iz.ru/2107750/armiia-rossii-porazila-vysokotochnym-oruzhiem-10-predpriiatii-opk-v-kieve-izi
-
-[23] www.kp.ru - https://www.kp.ru/daily/277787.4/5257299/
-
-[24] www.kp.ru - https://www.kp.ru/daily/277787.4/5257548/
-
-[25] www.kp.ru - https://www.kp.ru/online/news/7001389/
-
-[26] ria.ru - https://ria.ru/20260602/udar--2096143741.html
+[19] RIA - https://ria.ru/20260603/dnr-2096552866.html
