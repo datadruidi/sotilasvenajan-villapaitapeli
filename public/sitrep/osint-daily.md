@@ -1,160 +1,138 @@
-# Report Date: 2026-06-08
+# Report Date: 2026-06-09
 
 ## Summary
-During the reporting period, the Kremlin has taken significant measures to address concerns related to energy and food shortages, especially in Crimea, amid rising public anxiety. Concurrently, there have been acknowledged electoral violations in Armenia, signaling Moscow's ongoing interest in regional politics. The Russian Defense Ministry reported extensive drone interceptions, reflecting heightened military activities and countermeasures against perceived Ukrainian air threats. These developments suggest a continuing focus on stabilizing regional operations while simultaneously projecting military strength, particularly in relation to drone warfare and operational security.
+During the reporting period, significant legislative and safety-related developments emerged in Russia, including proposals to support small and medium-sized enterprises amid economic pressures, as well as responses to safety violations following a fatal fire. Military actions continue to impact civilian infrastructure in border regions, while natural disaster responses and airport operations reflect ongoing governmental focus on stability. In the near term, scrutiny regarding safety regulations and military engagements is anticipated, alongside assessments of newly implemented fraud prevention measures and international sanctions.
 
-## Kremlin Ensures Efforts to Prevent Energy Shortages in Crimea
-On June 8th, 2026, Kremlin spokesperson Dmitry Peskov announced that authorities in Crimea are actively working to prevent energy and food shortages on the peninsula, which he attributed to unwarranted public panic. Peskov emphasized that the government is taking steps to ensure the stability of supplies and pointed to previous instances of unnecessary mass buying leading to artificial shortages. [1]
+## United Russia Proposes Bill to Maintain VAT Threshold for SMEs
+On June 9th, 2026, the United Russia party submitted a bill to the State Duma aimed at maintaining the VAT revenue threshold for small and medium-sized enterprises at 20 million rubles until 2029. This legislative move aligns with President Putin's recent instructions communicated during the St. Petersburg International Economic Forum. [1]
 
-**COMMENT:** This development reflects the Kremlin's ongoing efforts to manage public sentiment and stabilize supply chains in Crimea, which is critical for maintaining local order. Continued vigilance and proactive measures may be necessary to mitigate potential unrest if supply issues persist.
+**COMMENT:** This bill indicates the government's commitment to support small and medium-sized enterprises amid economic pressures. Maintaining the VAT threshold could be a strategic measure to bolster economic stability and encourage growth in the SME sector in the face of ongoing challenges.
 
-**LOCATION:** SPARTA CRIMEA / SPARTA CRIMEA, 45.037057, 38.9756473 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.037057&mlon=38.975647#map=8/45.037057/38.975647) (СПАРТА КРЫМ)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #сво #пуск #про  
+**KEYWORDS:** #russia #россия #учения #про
 
 
-## Kremlin Reports Violations During Armenian Elections
-On June 8th, 2026, the Kremlin acknowledged numerous reports of violations occurring during the parliamentary elections in Armenia. Kremlin spokesman Dmitry Peskov stated that while they await the final results from Armenia's Central Electoral Commission, they are carefully monitoring the situation. [2]
+## Four People Die in St. Petersburg Fire
+On June 9th, 2026, four individuals lost their lives in a fire at a hangar in the Kalininsky district of St. Petersburg. The incident, which also involved an explosion due to acetone vapor ignition, has prompted the Investigative Committee to open a criminal case regarding safety violations during construction work. [2]
 
-**COMMENT:** This incident highlights Moscow's ongoing scrutiny of Armenian political developments, particularly in light of the Kremlin's interest in maintaining influence in the region. Future relations with Armenia may be affected by how these electoral violations are perceived and addressed by Armenian authorities.
+**COMMENT:** The fire highlights ongoing safety issues within facilities handling hazardous materials, raising concerns about compliance with safety regulations. This incident may lead to increased scrutiny of safety protocols in similar industrial sites across Russia.
 
-**LOCATION:** Armenia / Armenia, 40.7696272, 44.6736646 [Click for Map Location](https://www.openstreetmap.org/?mlat=40.769627&mlon=44.673665#map=8/40.769627/44.673665)
+**LOCATION:** Kalininsky District / Kalininsky District, 60.0050567, 30.4043181 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.005057&mlon=30.404318#map=8/60.005057/30.404318) (Калининский район)
 
-**KEYWORDS:** #russia #про  
+**KEYWORDS:** #russia #про
 
 
-## Moscow Court Sentences Khodorkovsky to 10 Years in Absentia for Spreading False Information about the Russian Army
-On June 8th, 2026, the Meshchansky Court in Moscow sentenced former Yukos owner Mikhail Khodorkovsky to 10 years in prison in absentia for disseminating false information about the Russian army. This ruling reflects ongoing state measures against individuals deemed as threats to the Russian military narrative, particularly targeting those identified as foreign agents. [3]
+## Power Outage Affects Over 34,000 in Bryansk Region Due to APU Attack
+On June 9th, 2026, over 34,000 residents in several districts of Bryansk Region, Russia, were left without electricity following an attack on an energy facility attributed to the Armed Forces of Ukraine (APU). Although power has been nearly fully restored, this incident underscores the ongoing impacts of military actions on civilian infrastructure in border regions. [3]
 
-**COMMENT:** This sentencing underscores the Russian state's commitment to controlling information regarding military operations, particularly in an era of heightened scrutiny of its actions. The implications for dissenters and critics abroad may intensify as the Kremlin seeks to project a unified stance against perceived misinformation.
+**COMMENT:** This attack highlights the vulnerability of critical infrastructure in Russian border areas amid the ongoing conflict. The ability to quickly restore power may suggest resilience measures are in place, but continued attacks could lead to further instability in the region.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Bryansk Oblast / Bryansk Oblast, 52.8873315, 33.415853 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.887332&mlon=33.415853#map=8/52.887332/33.415853) (Брянская область)
 
-**KEYWORDS:** #russia #вс рф #сво #сф #про  
+**KEYWORDS:** #russia #удар #сво #про
 
 
-## Russian Defense Ministry Reports Destruction of 124 Ukrainian Drones Since Monday Morning
-On June 8th, 2026, the Russian Defense Ministry reported that the military shot down 124 Ukrainian drones since Monday morning, with interceptions occurring over various regions including Belgorod, Bryansk, and over the Black Sea. The ministry detailed that air defense units reported multiple engagements throughout the morning, underlining Russia's ongoing military operations against Ukrainian drone activities. [4]
+## Russian Government Allocates 174.9 Million Rubles for Disaster Relief in Dagestan and Chechnya
+On June 9th, 2026, the Russian government allocated 174.9 million rubles from its reserve fund to aid residents of Dagestan and Chechnya affected by severe flooding in March and April 2026. This financial assistance aims to help those who lost essential property due to heavy rains and flooding, with oversight from the Ministry of Emergency Situations. [4]
 
-**COMMENT:** This event highlights the escalating use of drone warfare in the ongoing conflict between Russia and Ukraine, reflecting a significant operational focus on air defense. In the near term, Russia may continue to enhance its air defense capabilities in response to perceived threats from Ukrainian drone operations.
+**COMMENT:** The financial aid reflects the government's commitment to addressing local disasters and maintaining social stability in affected regions. Future implications may include increased scrutiny on emergency management practices and potential adjustments to resource allocation strategies for disaster response.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Dagestan / Dagestan, 43.0, 47.0 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.000000&mlon=47.000000#map=8/43.000000/47.000000) (Дагестан)
 
-**KEYWORDS:** #russia #российские #минобороны рф #российские военные #минобороны #пво #беспилотник #про  
+**KEYWORDS:** #russia #штаб #сф #про
 
 
-## Fire Near Finnish Railway Station in St. Petersburg Injures Two
-On June 8th, 2026, a fire in a 30 by 50 meter hangar near the Finnish railway station in St. Petersburg resulted in the hospitalization of two men. The fire, which spread to 400 square meters, led to structural damage, including a roof collapse, and is under investigation by the local prosecutor’s office. [5]
+## Sochi Airport Temporarily Suspends Flights
+On June 9th, 2026, temporary restrictions on the reception and release of aircraft were implemented at Sochi Airport to ensure flight safety, as announced by Rosaviatsiya. The airport is currently part of the Aerodynamics Group, which oversees these measures. [5]
 
-**COMMENT:** This incident indicates potential vulnerabilities in fire safety procedures at transport-related facilities in St. Petersburg. Such events could lead to increased scrutiny and regulatory responses from local authorities to enhance emergency preparedness.
+**COMMENT:** The suspension of flights at Sochi Airport indicates a proactive approach to maintaining aviation safety, which may reflect broader concerns regarding aviation operations in the region. This could signal upcoming increased scrutiny or changes in security protocols for flights operating in and out of Russia.
 
-**LOCATION:** St. Petersburg / St. Petersburg, Unknown, Unknown
+**LOCATION:** Sochi / Sochi, 43.5854823, 39.723109 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.585482&mlon=39.723109#map=8/43.585482/39.723109) (Сочи)
 
-**KEYWORDS:** #russia #про  
+**KEYWORDS:** #russia #сво #пуск
 
 
-## Yaroslavl Airport Resumes Aircraft Operations
-On June 8th, 2026, restrictions on the reception and release of aircraft at Yaroslavl airport (Tunoshna) have been lifted, as confirmed by Rosaviatsiya. These restrictions were initially imposed to ensure flight safety. [6]
+## Security to be the Main Priority for September Elections, Says CEC Head
+On June 9th, 2026, Ella Pamfilova, Chairman of the CEC of the Russian Federation, emphasized that ensuring the safety of all participants in the upcoming September elections will be the commission's top priority. This declaration follows her meeting with the Commissioner for Human Rights, highlighting the significance of strict law observance even under challenging circumstances. [6]
 
-**COMMENT:** The resumption of full operations at Yaroslavl airport indicates an improvement in the operational capacity of regional aviation. This change could reflect broader efforts by Russian authorities to enhance domestic transportation and connectivity.
+**COMMENT:** This focus on security during the electoral process reflects the authorities' heightened concern over stability and control. The formation of a working group with regional human rights commissioners indicates a strategic alignment to mitigate potential electoral unrest.
 
-**LOCATION:** Yaroslavl / Yaroslavl, 57.6263877, 39.8933705 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.626388&mlon=39.893371#map=8/57.626388/39.893371)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #пуск  
+**KEYWORDS:** #russia #сво #про
 
 
-## Russian Defense Ministry Reports Destruction of 95 Ukrainian Drones
-On June 8th, 2026, the Russian Defense Ministry reported that from 14:00 to 20:00, 95 Ukrainian drones were intercepted and destroyed across multiple regions including Belgorod, Bryansk, Kaluga, Kursk, Orel, Ryazan, Tula, and the Moscow region, along with additional UAVs neutralized over Krasnodar Territory, Crimea, and the Black Sea. This operation reflects the ongoing efforts of the Russian military to bolster air defenses against UAV threats from Ukraine. [7]
+## Explosions Reported in Zaporozhye Amid Ukrainian Blockade Attempts
+On June 8th, 2026, a series of explosions were reported in Zaporozhye, Ukraine, targeting Ukrainian military infrastructure linked to the blockade of Crimea. Russian forces utilized drones and precision strikes to target key logistics hubs that support Ukrainian operations in the region. [7]
 
-**COMMENT:** The destruction of this number of Ukrainian UAVs indicates a significant operational response from the Russian military and reveals ongoing tensions in the region. In the near term, the effectiveness of Russian air defenses could influence Ukraine's drone operations, leading to potential shifts in tactical strategies on both sides.
+**COMMENT:** This event highlights the continued focus of Russian military operations on disrupting Ukrainian capabilities, particularly concerning Crimea. Future strikes may further intensify, indicating an ongoing escalation in military engagement in the southern front.
 
-**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339)
+**LOCATION:** Zaporozhye / Zaporozhye, Unknown, Unknown 
 
-**KEYWORDS:** #russia #российские #минобороны рф #российские военные #минобороны #пво #беспилотник #бпла  
+**KEYWORDS:** #россия #российские #российские войска #российские военные #полк #удар #беспилотник #пуск #про
 
 
-## Ulyanovsk and Kazan Airports Resume Normal Operations
-On June 8th, 2026, Ulyanovsk's Baratayevka and Kazan airports returned to normal operations after previously imposed restrictions on aircraft reception and release were lifted. These restrictions had been enacted by Rosaviatsiya to ensure flight safety. [8]
+## Attacks Damage Over 250 Apartments in Belgorod Region
+On June 9th, 2023, more than 250 apartments sustained damage in Belgorod and surrounding settlements due to strikes by the Armed Forces of Ukraine. The strikes also resulted in injuries to civilians and damage to several commercial and social facilities. [8]
 
-**COMMENT:** The lifting of these restrictions suggests a return to standard aviation operations, which may indicate improved security assessments in these regions. Continued monitoring of flight safety protocols will be necessary to ensure stability in air travel amidst evolving risks.
+**COMMENT:** This incident reflects ongoing tensions and military engagements in the Belgorod region, indicative of the heightened security risks along the border. Such attacks may influence local security measures and public sentiment towards military operations in the area.
 
-**LOCATION:** Ulyanovsk / Ulyanovsk, 54.3150278, 48.403373 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.315028&mlon=48.403373#map=8/54.315028/48.403373)
+**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
 
-**KEYWORDS:** #russia #сво #пуск  
+**KEYWORDS:** #россия #штаб #удар #беспилотник #бпла #про
 
 
-## Train Services Suspended in Crimea Following UAV Attack
-On June 8th, 2026, the movement of suburban and long-distance passenger trains in Crimea was suspended due to a UAV attack on the Moscow-Simferopol locomotive. Passengers are being transported by bus from Kerch to Simferopol while authorities work to prevent energy and food shortages on the peninsula. [9]
+## State Duma Passes Second Package of Measures Against Fraudsters
+On June 9th, 2026, the State Duma adopted a second package of legislative measures aimed at combating telephone and cyber fraud, titled 'Anti-Trump 2.0'. The new regulations allow individuals to hold a maximum of 20 bank cards to counteract fraudulent activities, reflecting a balance between the interests of citizens and businesses while confronting organized scams. [9]
 
-**COMMENT:** The suspension of train services in Crimea highlights the ongoing security challenges facing the region, likely linked to escalating drone activity. This incident may prompt further measures from Russian authorities to stabilize transportation and supply lines in the area.
+**COMMENT:** The adoption of this legislative package highlights an ongoing commitment by the Russian government to strengthen measures against financial fraud, which poses significant threats to both individuals and the economy. In the near term, the efficacy of these measures will be closely monitored, especially concerning their impact on the operational capacity of fraud networks within the country.
 
-**LOCATION:** Crimea / Crimea, Unknown, Unknown
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #russia #российский #штаб #командование #призыв #удар #сво #авиаудар #беспилотник #бпла  
-
-
-## Ministry of Energy Addresses Fuel Supply Issues Due to Increased Air Attacks
-On June 8th, 2026, the Russian Ministry of Energy reported that an increase in enemy air attacks has caused temporary fuel supply difficulties in several southern regions. The ministry emphasized the establishment of a permanent branch headquarters to maintain stable operations within the fuel and energy complex amid these challenges. [10]
-
-**COMMENT:** This development highlights the vulnerabilities in Russia's fuel and energy supply chain due to security threats. In the near term, continued air assaults may lead to further operational adjustments and security concerns in the affected regions.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #russia #штаб #про  
-
-
-## Kazan and Ulyanovsk Airports Suspend Flight Operations
-On June 8th, 2026, Kazan and Ulyanovsk airports in Russia temporarily suspended the reception and departure of flights following directives from Rosaviatsiya to ensure flight safety. These actions indicate ongoing operational adjustments in response to security considerations within Russia's aviation sector. [11]
-
-**COMMENT:** This suspension reflects heightened safety protocols, possibly in response to recent developments affecting air travel security in the region. Such measures could foreshadow ongoing scrutiny and increased regulation of aviation operations to maintain control and reassure the public.
-
-**LOCATION:** Kazan / Kazan, 55.7946485, 49.1115022 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.794649&mlon=49.111502#map=8/55.794649/49.111502)
-
-**KEYWORDS:** #russia #сво #пуск  
-
-
-## Russian Tankers Use Culinary Code to Confuse Enemy Radio Frequencies
-On June 8th, 2023, Russian tank crews revealed that they are using culinary phrases over radio communications to obscure their operations from enemy forces. Phrases such as "drink compote" signal specific actions, enhancing operational security during engagements in the Special Military Operation in Ukraine. [12]
-
-**COMMENT:** The use of unconventional communication methods by Russian forces indicates a tactical adaptation aimed at improving operational security. This development may signify an increasing emphasis on countering enemy intelligence efforts and could lead to further innovations in military communication protocols.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #российские #вооруженные силы рф #вс рф #командование #сво #беспилотник #бпла #перехват #про  
-
-
-## Russian Air Defense Forces Shoot Down 95 Drones in Six Hours
-On June 8th, 2023, Russian air defense forces reported the destruction of 95 Ukrainian drones over several regions of Russia within a six-hour period from 14:00 to 20:00 MSK. The drones were intercepted in the Bryansk, Belgorod, Kursk, Kaluga, Orel, Ryazan, Tula regions, as well as in the Moscow region, Krasnodar Krai, the Republic of Crimea, and over the Black Sea. [13]
-
-**COMMENT:** The high number of intercepted UAVs indicates an ongoing significant drone threat from Ukraine, requiring robust air defense capabilities within Russian territory. This incident may prompt further adjustments in Russian defense postures and strategic responses to aerial threats.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #минобороны рф #мо рф #вооруженные силы рф #вс рф #минобороны #пво #противовоздушная оборона #удар #беспилотник #бпла #перехват #про  
+**KEYWORDS:** #россия #вдв #про
 
 
 ## Putin Discusses Expansion of Russia's Nuclear Icebreaker Fleet
-On June 8th, 2026, President Vladimir Putin held a meeting with Andrey Puchkov, General Director of the United Shipbuilding Corporation, focusing on the construction and expansion of Russia's nuclear icebreaker fleet. The government has invested over 80 billion rubles in the company for 2023-2024, highlighting its significance in military and transport capacities. [14]
+On June 8th, 2026, President Vladimir Putin held a meeting with Andrey Puchkov, General Director of the United Shipbuilding Corporation, to discuss the growth of Russia's nuclear icebreaker fleet and military transport ships. The government has invested over 80 billion rubles in shipbuilding goals, highlighting Russia's strategic commitment to expanding its maritime capabilities. [10]
 
-**COMMENT:** This meeting underscores Russia's commitment to enhancing its naval capabilities and maintaining a leading position in polar maritime operations. The continued investment in icebreakers may also indicate strategic priorities related to Arctic resource access and military presence.
+**COMMENT:** This development reflects Russia's emphasis on strengthening its naval presence and capabilities, particularly in the Arctic region. The expansion of the icebreaker fleet could enhance Russia's control over Arctic shipping routes and resource extraction activities.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #российские #флот #вдв #удар #сво #про  
+**KEYWORDS:** #россия #российские #флот #вдв #удар #сво #про
+
+
+## European Commission Proposes Personal Sanctions Against Patriarch Kirill
+On June 9th, 2026, the European Commission included Patriarch Kirill, head of the Russian Orthodox Church, in its latest draft of personal sanctions against Russia. This move follows Hungary's previous veto against such sanctions in 2022 and signals ongoing tensions between the EU and Russia regarding sanctions implementation. [11]
+
+**COMMENT:** The inclusion of a prominent religious leader like Patriarch Kirill in sanctions reflects a strategic approach by the EU to apply pressure on key figures in the Russian establishment. Future implications may include increased internal dissent within Russia over religious leadership and further economic repercussions for the sanctioned entities.
+
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #россия #сво #про
 
 
 # Sources
-[1] interfax.ru - https://interfax.ru/russia/1094742?utm_source=top  
-[2] interfax.ru - https://interfax.ru/russia/1094740?utm_source=top  
-[3] interfax.ru - https://interfax.ru/russia/1094752?utm_source=top  
-[4] interfax.ru - https://interfax.ru/russia/1094759?utm_source=top  
-[5] interfax.ru - https://interfax.ru/russia/1094824  
-[6] interfax.ru - https://interfax.ru/russia/1094823  
-[7] interfax.ru - https://interfax.ru/russia/1094822  
-[8] interfax.ru - https://interfax.ru/russia/1094820  
-[9] interfax.ru - https://interfax.ru/russia/1094817  
-[10] interfax.ru - https://interfax.ru/russia/1094815  
-[11] interfax.ru - https://interfax.ru/russia/1094812  
-[12] www.vesti.ru - https://www.vesti.ru/ns/pej-kompot-kak-rossijskie-tankisty-pytayutsya-zaputat-vraga-na-radiochastotakh  
-[13] www.vesti.ru - https://www.vesti.ru/ns/sily-pvo-za-6-chasov-unichtozhili-95-bespilotnikov-vsu-nad-rossijskimi-regionami  
-[14] www.kp.ru - https://www.kp.ru/daily/277789/5260567/
+
+[1] interfax.ru - https://interfax.ru/russia/1094901?utm_source=top
+
+[2] interfax.ru - https://interfax.ru/russia/1094895?utm_source=top
+
+[3] interfax.ru - https://interfax.ru/russia/1094890?utm_source=top
+
+[4] interfax.ru - https://interfax.ru/russia/1095004
+
+[5] interfax.ru - https://interfax.ru/russia/1095001
+
+[6] interfax.ru - https://interfax.ru/russia/1094996
+
+[7] aif.ru - https://aif.ru/society/blokada-kryma-provalilas-fury-kamikadze-vsu-goryat-pod-zaporozhem
+
+[8] www.vesti.ru - https://www.vesti.ru/ns/opershtab-bolee-250-kvartir-povrezhdeny-v-belgorode-i-belgorodskom-okruge
+
+[9] www.kp.ru - https://www.kp.ru/daily/277789.4/5260924/
+
+[10] www.kp.ru - https://www.kp.ru/daily/277789/5260567/
+
+[11] www.kp.ru - https://www.kp.ru/online/news/7014204/
