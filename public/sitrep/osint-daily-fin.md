@@ -1,282 +1,236 @@
-# Raportti päivämäärällä: 2026-06-14
+# Report Date: 2026-06-16
 
 ## Summary
-Raportointijaksolla tilanne venäläisessä ilmatilassa on edelleen epävakaata, mikä ilmenee useista UAV-iskujen aiheuttamista vaurioista ja onnettomuuksista. Ongoing tensions between Russia and Ukraine are evident, emphasizing the need for enhanced air defense capabilities. Tapahtumien perusteella voidaan odottaa, että turvallisuustoimenpiteitä tehostetaan kriittisissä infrastruktuureissa ja teollisuuslaitoksissa, sekä mahdollisia vastatoimia venäläisiltä joukkoilta.
+Raportointijaksolla on tapahtunut merkittäviä tapahtumia, jotka vaikuttavat sekä Venäjän sisäiseen politiikkaan että sen kansainvälisiin suhteisiin. Venäjän presidentti Vladimir Putin ilmoitti Duman vaalien aikataulusta, mikä voi vaikuttaa poliittisiin strategioihin ja äänestäjäliikkeisiin. Samalla huolenaiheet drooniuhista ovat lisääntyneet, mikä on johtanut turvallisuustoimenpiteiden tiukentamiseen koulutuksissa ja muissa julkisissa tiloissa. Ulkopoliittisesti tilanne Venäjän ja Ukrainan välillä pysyy erittäin kireänä, ilman virallista kommunikaatiota ja jatkuvia sotilaallisia operaatioita molemmilta puolilta.
 
-## UAV-iskun aiheuttama tulipalo polttoainesäilytyksessä Jaroslavlin alueella
-Maaliskuun 14. päivänä 2026 UAV iski teollisiin polttoainesäilytyksiin Jaroslavlin alueella, sytyttäen tulipalon, kertoo alueen kuvernööri Mikhail Evraev. Vaikka useimmat dronet saatiin keskeytettyä, tapahtuma häiritsi liikennettä Jaroslavlin ja Moskovan välillä, mikä johti hätäpoliisin toimiin. [1]
+  
 
-**COMMENT:** Tämä tapahtuma korostaa Venäjän kriittisen infrastruktuurin jatkuvia haavoittuvuuksia UAV-iskuille, mikä voi heijastaa korkeampia operatiivisia riskejä teollisuuskohteille.
+## Putin ilmoittaa Duman vaaleista 20. syyskuuta 2026
+Presidentti Vladimir Putin allekirjoitti 16. kesäkuuta 2026 asetuksen, joka aikoo järjestää valtioduman vaalit syyskuussa. Tämä päätös on merkittävä, koska se asettaa poliittisen agendan tuleville kuukausille ja saattaa vaikuttaa hallinto- ja poliittisiin dynamiikoihin Venäjällä. [1]
 
-**LOCATION:** Jaroslavlin alue / Yaroslavl Oblast, 57.7781976, 39.0021095 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.778198&mlon=39.002110#map=8/57.778198/39.002110) (Ярославская область)
-
-**KEYWORDS:** #russia #сво #беспилотник #бпла #про
-
-
-## Drone-jätteet putoavat teollisuuslaitokseen Tulan alueella
-Maaliskuun 14. päivänä 2026 Ukrainan dronejen palaset putosivat teollisuuslaitokseen Novomoskovskissa Tulan alueella ilmapuolustusoperaation aikana. Tulan kuvernööri Dmitry Milyaev raportoi, että tapahtuma tapahtui ilmapuolustuksen torjuessa hyökkäystä, ja vahinkojen laajuutta arvioidaan. [2]
-
-**COMMENT:** Tämä tapaus alleviivaa Ukrainan konfliktista johtuvia jatkuvia ilmailuuhkia, jotka vaikuttavat strategisiin teollisuuskohteisiin Venäjällä.
-
-**LOCATION:** Novomoskovsk / Novomoskovsk, Unknown, Unknown
-
-**KEYWORDS:** #russia #беспилотник #бпла #про
-
-
-## Tulipalo sammutettu meriterminaalilla Krasnodarin alueella
-Maaliskuun 14. päivänä 2026 palomiehet onnistuivat sammuttamaan tulipalon Volna-nimisessä kylässä, Temryukin piirissä, Krasnodarin alueella, drone-iskun aiheuttaman romun sytyttämänä. Toimintaan osallistui 135 henkilökuntaa ja 38 kalustoa, ja se johti yhteen kuolemaan ja kolmeen vammoihin. [3]
-
-**COMMENT:** Tämä tapahtuma korostaa Krasnodarin alueen jatkuvia turvallisuushaasteita erityisesti UAV-uhkien osalta.
-
-**LOCATION:** Volna / Volna, Unknown, Unknown
-
-**KEYWORDS:** #russia #штаб #беспилотник #бпла #про
-
-
-## Poikkeustila julistettu neljässä maaseutuasemassa Kubanissa
-Maaliskuun 14. päivänä 2026 poikkeustila julistettiin neljässä maaseutuasemassa Krim-alueella Krasnodarin alueella Kuban-joen patokaadon seurauksena. Tilanne on johtanut tulvauhkiin asuinalueilla, mikä on saanut paikallishallinnon valmistautumaan mahdollisiin evakuointeihin. [4]
-
-**COMMENT:** Poikkeustilan julistus viittaa merkittävään paikalliseen ahdinkoon ympäristöuhkien vuoksi, joka voi kuormittaa paikallisia resursseja ja hallintoa.
-
-**LOCATION:** Kuban / Kuban, Unknown, Unknown
-
-**KEYWORDS:** #russia #сво #про
-
-
-## Venäläiset joukot iskivät Ukrainan droneiden ohjauspisteisiin
-Maaliskuun 20. päivänä 2026 Venäjän puolustusministeriö ilmoitti onnistuneista iskuista ukrainalaisiin asemiin, kohdistuen droneiden ohjauspisteisiin Donetskin kansantasavallassa ja Kharkivin alueella. Operaatio, joka toteutettiin UAV:iden avulla, korostaa Venäjän jatkuvia pyrkimyksiä ylläpitää strategista etua kyseisellä alueella Ukrainan jatkuvasta vastarinnasta huolimatta. [5]
-
-**COMMENT:** Tämä operaatio heijastaa Venäjän armeijan jatkuvaa keskittymistä Ukrainan UAV-kykyjen heikentämiseen.
-
-**LOCATION:** Donetskin kansantasavalta / Donetsk People's Republic, Unknown, Unknown
-
-**KEYWORDS:** #российские #минобороны рф #минобороны россии #вооруженные силы рф #российские войска #российские военные #минобороны #группировка войск #пво #корпус #удар #сво #беспилотник #бпла #пуск #пункт управления #про
-
-
-## Venäjän armeija iski Ukrainan droneiden ohjauskeskukseen DPR:ssä
-Maaliskuun 14. päivänä 2026 Venäjän puolustusministeriö ilmoitti, että se teki ilmaiskun Ukrainan droneiden ohjauskeskukseen lähellä Novogrishini kylää Donetskin kansantasavallassa. Isku toteutettiin UAV:iden avulla, ja lisäraportit osoittavat, että myös miehistön ohjausjärjestelmä iski ukrainalaisiin asemiin. [6]
-
-**COMMENT:** Tämä kohdennettu operaatio korostaa Venäjän jatkuvia ponnistuksia haitata Ukrainan drone-kykyjä konfliktialueella.
-
-**LOCATION:** Novogrishino / Novogrishino, Unknown, Unknown
-
-**KEYWORDS:** #russia #минобороны рф #минобороны #удар #беспилотник #бпла #пуск #пункт управления #про
-
-
-## Valtion duuma hyväksyi lain lippujen jälleenmyyjien suojelemiseksi
-Maaliskuun 14. päivänä 2026 Moskovan valtion duuma hyväksyi lain, joka suojelee kansalaisia rautatie-lippujen jälleenmyyjiltä. Uuden lainsäädännön myötä otettiin käyttöön merkittäviä sakkoja valtuuttamattomasta lippujen jälleenmyynnistä, vastauksena kansalaisten huoliin keinotekoisten pula ja hintojen kohoaminen massalippujen ostamisen seurauksena. [7]
-
-**COMMENT:** Tämä laki heijastaa hallituksen lisääntynyttä huomiota kuluttajansuojaan liikennesektorilla.
+**COMMENT:** Duman vaalien aikataulutus osoittaa rakenteellista poliittista aikajanaa, mikä voi vaikuttaa puolueiden strategioihin ja äänestäjämobilisaatioon. Tarkkailijoiden tulisi seurata vaalikehitystä poliittisen vakautumisen ja yleisen mielialan arvioimiseksi.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #сво #пуск #про
+**KEYWORDS:** #russia #удар #про
 
+  
+## GIA-tentti Voronezhissa siirretty droneuhan vuoksi
+Voronezhin koululaisille suunniteltu GIA-tentti siirrettiin toiseen päivään drooniuhkien vuoksi, sillä opiskelijat oli evakuoitava yli kahden tunnin ajaksi. Päätös tehtiin opiskelijoiden psykologisen hyvinvoinnin suojelemiseksi. [2]
 
-## UAV-isku asuinrakennukseen Orelissa tappaa yhden ja vahingoittaa yhdeksää
-Maaliskuun 14. päivänä 2026 Ukrainan drone-isku kohdistui asuinrakennukseen Orelissa, mikä johti yhteen kuolemaan ja yhdeksään vammoihin. Alueen kuvernööri raportoi, että uhrit saavat apua, ja iskua seuranneet toimet ovat käynnissä. [8]
+**COMMENT:** Tämä tapaus korostaa kasvavaa huolta drooniuhista Venäjän sisäisissä ympäristöissä, erityisesti kouluissa. Se voi johtaa turvallisuustoimenpiteiden tiukentamiseen ja hätäprotokollien uudelleenarvioimiseen alueella.
 
-**COMMENT:** Tämä tapahtuma korostaa käytävien konfliktien lisääntyvää jännitettä.
+**LOCATION:** Voronezh / Voronezh, 51.6605982, 39.2005858 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.660598&mlon=39.200586#map=8/51.660598/39.200586) (Воронеж)
 
-**LOCATION:** Orel / Orel, Unknown, Unknown
+**KEYWORDS:** #russia #беспилотник #бпла #пуск #про
 
-**KEYWORDS:** #russia #минобороны #удар #сво #беспилотник #бпла #про
+  
+## Putinille ei lähetetty virallista kutsua Zelenskin tapaamiseen G7-huippukokouksessa
+Kremlin vahvisti, ettei Ukrainaan presidentti Volodymyr Zelensky ole lähettänyt virallista kutsua tapaamiseen Putinille G7-huippukokouksessa. [3]
 
-
-## 62 ukrainalaista dronea tuhottu Tulan alueen yllä
-Maaliskuun 14. päivänä 2026 kuvernööri Dmitry Milyaev ilmoitti, että Venäjän puolustusministeriön ilmapuolustusjoukot tuhosivat 62 ukrainalaista dronea Tulan alueen yllä yön ja aamun aikana. UAV-uhat alueella jatkuvat. [9]
-
-**COMMENT:** Tapaus osoittaa Venäjän ilmapuolustuksen aktiivista osallistumista drone-uhkien torjuntaan.
-
-**LOCATION:** Tula / Tula, 54.1930321, 37.61754 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.193032&mlon=37.617540#map=8/54.193032/37.617540) (Тула)
-
-**KEYWORDS:** #russia #минобороны россии #минобороны #пво #сво #беспилотник #бпла #про
-
-
-## Viisi dronea tuhottu Rjazanin alueen yllä
-Maaliskuun 14. päivänä 2026 viisi ukrainalaista dronea ammuttiin alas Rjazanin alueen yllä kuvernööri Pavel Malkovin mukaan. Tapahtumasta ei ollut loukkaantumisia, ja se seuraa puolustusministeriön aikaisempaa lausuntoa 249 dronean tuhoamisesta. [10]
-
-**COMMENT:** Nämä UAV:t heijastavat Ukrainan jatkuneita ilmailuuhkia Venäjän maaperällä. 
-
-**LOCATION:** Rjazanin alue / Ryazan Oblast, 54.4226732, 40.5705246 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.422673&mlon=40.570525#map=8/54.422673/40.570525) (Рязанская область)
-
-**KEYWORDS:** #russia #минобороны #сво #беспилотник #бпла
-
-
-## Belgorodin alue raportoi 55 hyökkäyksestä ukrainalaisilta joukoilta
-Maaliskuun 14. päivänä 2026 aktiivinen kuvernööri Alexander Shuvaev ilmoitti, että Belgorodin alue kärsi 55 ukrainalaisista joukoista johtuvan hyökkäyksen päivän aikana. Hyökkäykset, joissa käytettiin tykistöä, monimutkaisella raketilla ja droneilla, aiheuttivat neljän loukkaantumisen, mukaan lukien lapsi. [11]
-
-**COMMENT:** Tämä hyökkäysten lisääntyminen korostaa jatkuvia turvallisuushaasteita Belgorodin alueella.
-
-**LOCATION:** Belgorodin alue / Belgorod Oblast, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762) (Белгородская область)
-
-**KEYWORDS:** #russia #пво #удар #сво #беспилотник #бпла #про
-
-
-## Kurskin alue raportoi 168 dronea tuhottu yhdessä päivässä
-Maaliskuun 14. päivänä 2026 kuvernööri Alexander Khinshtein Kurskin alueelta raportoi 168 ukrainalaista dronea tuhottu yli alueen aikana. [12]
-
-**COMMENT:** Korkea dronejen torjunta viittaa merkittävään keskittymiseen ilmailupuolustukseen.
-
-**LOCATION:** Kurskin alue / Kursk Oblast, 51.6568453, 36.4852695 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.656845&mlon=36.485270#map=8/51.656845/36.485270) (Курская область)
-
-**KEYWORDS:** #russia #сво #беспилотник
-
-
-## Venäjän ilmapuolustus ampuu alas lähes 250 ukrainalaista dronea
-Maaliskuun 14. päivänä 2026 Venäjän ilmapuolustusjärjestelmät torjuivat ja tuhosivat 249 ukrainalaista dronea eri alueilla Venäjällä, mikä korostaa edelleen konfliktiin liittyviä ilmailuohtoja. [13]
-
-**COMMENT:** Tämä huomattava dronejen torjunta korostaa jatkuvien konfliktien intensiivisyyttä.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #российские #минобороны рф #минобороны #министерство обороны #пво #сво #беспилотник #бпла #про
-
-
-## Yaroslavlin tie Moskovaan estetty jälleen turvallisuussyistä
-Maaliskuun 14. päivänä 2023 liikenne Jaroslavlilta Moskovaan estettiin jälleen turvallisuussyistä ukrainalaisista asevoimista johtuvien dronehyökkäysten jälkeen. [14]
-
-**COMMENT:** Tämä tapahtuma osoittaa jatkuvia turvallisuustoimia drone-hyökkäyksiin liittyen.
-
-**LOCATION:** Jaroslavl / Yaroslavl, 57.6263877, 39.8933705 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.626388&mlon=39.893371#map=8/57.626388/39.893371) (Ярославль)
-
-**KEYWORDS:** #россия #беспилотник #бпла #про
-
-
-## UAV-isku Orelin alueella tappaa yhden siviilin
-Maaliskuun 14. päivänä 2023 Ukrainan drone-isku osui asuinrakennukseen Orelissa, tappaen yhden siviilin ja vahingoittaen yhdeksää muuta. [15]
-
-**COMMENT:** Tämä tapahtuma korostaa drone-sodan jatkuvia riskejä siviileille Venäjän alueella.
-
-**LOCATION:** Orel / Orel, Unknown, Unknown
-
-**KEYWORDS:** #россия #удар #беспилотник #бпла #про
-
-
-## Rogozin ehdottaa tankkereiden miinoittamista EU:n pidätyksen estämiseksi
-Maaliskuun 14. päivänä 2023 senaattori Dmitry Rogozin Zaporozhyen alueella ehdotti tankkereiden miinoittamista estääkseen niiden kaappaamisen Euroopan sotilastoimesta. [16]
-
-**COMMENT:** Rogozinin ehdotus osoittaa voimakasta eskalaatiota Venäjän merellisten etujen suojaamiseksi.
-
-**LOCATION:** Zaporozhye / Zaporozhye, Unknown, Unknown
-
-**KEYWORDS:** #россия #российский #флот #сво #перехват #фрегат #про
-
-
-## Neljä dronea, jotka kohdistavat Moskovaan, tuhoaa ilmapuolustusjoukot
-Maaliskuun 14. päivänä 2023 ilmapuolustusjoukot Torjuivat ja tuhosivat neljä ukrainalaista dronea, jotka yrittivät hyökätä Moskovaan. [17]
-
-**COMMENT:** Tämä tapaus korostaa jatkuvia drone-iskun uhkia Ukrainasta.
+**COMMENT:** Tämä kehitys korostaa diplomaattisen kommunikaation puutetta Venäjän ja Ukrainan välillä, rajoittaen mahdollisuuksia konfliktin ratkaisemiseen. Tila viittaa jännitteiden jatkuvuuteen ja dialogin puutteeseen huipputasolla, mikä voi vaikuttaa tuleviin vuorovaikutuksiin maiden välillä.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #минобороны #пво #противовоздушная оборона #беспилотник #бпла #про
+**KEYWORDS:** #russia #про
 
+  
+## Drooni-iskut Moskovan alueella loukkaavat kuusi henkilöä
+Moskovan alueella kuusi henkilöä, mukaan lukien lapsi, loukkaantui drooni-iskujen seurauksena 16. kesäkuuta 2026, mukaan lukien useita paikkoja, kuten Elektrostal, Kotelniki ja Voskresensk. [4]
 
-## Venäjän ilmapuolustus tuhoaa 249 ukrainalaista dronea yöllä
-Maaliskuun 14. päivänä 2023 Venäjän ilmapuolustusjärjestelmät torjuivat ja tuhosivat 249 ukrainalaista dronea useilla Venäjän alueilla, mikä korostaa yhä ilmailuuhkien jatkuvuutta. [18]
+**COMMENT:** Drooni-iskut korostavat jatkuvia turvallisuushaasteita Moskovan alueella, herättäen huolta ilmapuolustusjärjestelmien tehokkuudesta. Jatkuvat iskut saattavat vaatia puolustustoimien uudelleenarvioimista ja viranomaisten lisääntynyttä reaktiota.
 
-**COMMENT:** Tämä laaja laajuinen dronejen torjunta osoittaa jatkuvia korkeita tasoja sotilaallisessa osallistumisessa konfliktissa.
+**LOCATION:** Moskovan alue / Moscow Oblast, 55.5043158, 38.0353929 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.504316&mlon=38.035393#map=8/55.504316/38.035393) (Московская область)
+
+**KEYWORDS:** #russia #пво #сво #беспилотник #бпла #про
+
+  
+## Drooni-isku Shebekinossa loukkaantuu paikallinen asukas
+Drooni-isku Shebekinossa aiheutti paikallisen asukkaan vamman. Isku aiheutti myös vahinkoa yksityisasunnoille ja ajoneuvoille, kun taas useita drooni-iskuja raportoitiin eri puolilla Venäjää. [5]
+
+**COMMENT:** Tämä tapaus korostaa jatkuvia droonisodan dynamiikkoja, jotka liittyvät Ukrainan konfliktin jatkuvaan uhkaan Venäjän sisäiselle turvallisuudelle. Tehokas droonien torjunta osoittaa aktiivista reagointikykyä, mutta myös drooniriskien jatkuvuutta Venäjän alueen lähellä.
+
+**LOCATION:** Shebekino / Shebekino, 50.4049335, 36.8796822 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.404933&mlon=36.879682#map=8/50.404933/36.879682) (Шебекино)
+
+**KEYWORDS:** #россия #минобороны рф #минобороны #пво #штаб #удар #сво #беспилотник #бпла #про
+
+  
+## Venäjän sotilaat iskivät Ukrainan energia- ja liikenneinfrastruktuuriin
+Venäjän asevoimat ilmoittivat 16. kesäkuuta 2026 suorittaneensa iskuja Ukrainan energia- ja liikenneinfrastruktuuriin. [6]
+
+**COMMENT:** Tämä sotilaallinen toiminta korostaa konfliktin jatkuvaa eskaloitumista, vaikuttaen suoraan Ukrainan infrastruktuuriin. Jatkuva kohdistaminen sotilaallisiin ja logistisiin kohteisiin viittaa strategiseen aikomukseen häiritä Ukrainan asevoimien toimintakykyä.
+
+**LOCATION:** Ukraina / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) (Украина)
+
+**KEYWORDS:** #russia #российские #минобороны рф #российские военные #минобороны #удар #пуск
+
+  
+## Venäjän armeija tuhoaa 491 droonin ja kaksi 'Flamingo'-ohjusta yhdessä päivässä
+Venäjän puolustusministeriö raportoi 16. kesäkuuta 2026, että 491 ukrainalaista droonia ja kaksi 'Flamingo'-ohjusta tuhottiin 24 tunnin kuluessa. [7]
+
+**COMMENT:** Tämä operatiivinen menestys osoittaa korkeaa aktiivisuutta ja valmiutta Venäjän ilmatorjuntajärjestelmissä, jotka on tarkoitettu torjumaan ukrainalaisia ilmakyvykkyyksiä.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #российские #минобороны рф #российские военные #минобороны #бпла #про
+
+  
+## Venäläinen toimittaja Badanin tuomitaan poissaolosta ulkomaisena agenttina
+Moskovassa oikeus tuomitsi venäläisen toimittajan Roman Badaninin, joka on tällä hetkellä ulkomailla, 300 000 ruplan sakkoon ulkomaalaisena agenttina toimimatta jättämisestä. [8]
+
+**COMMENT:** Tämä tapaus korostaa ulkomaisten agenttien lakien toimeenpanon jatkuvuutta Venäjällä, erityisesti ulkomailla toimivien yksilöiden osalta. Se voi viestiä kasvavasta paineesta kriittisten äänten ja maanpakoisten henkilöiden suhteen.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #удар #про
+
+  
+## Venäjän ohjusiskut aiheuttavat Naton reaktion jatkuvassa konfliktissa
+Venäjän ilmapuolustusjoukot ilmaisivat 15. kesäkuuta 2026 alasammuttaneensa 123 ukrainalaista droonia Venäjän alueilla. [9]
+
+**COMMENT:** Käynnissä oleva konflikti osoittaa Moskovan ja Kiovan välisen jännityksen kasvavan, ja Naton reaktio viittaa kansainvälisen osallistumisen mahdollisuuksiin konfliktissa.
+
+**LOCATION:** Tula Oblast / Tula Oblast, 53.9570701, 37.3690909 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.957070&mlon=37.369091#map=8/53.957070/37.369091) (Тульская область)
+
+**KEYWORDS:** #россия #российские #минобороны рф #российские войска #российские военные #минобороны #пво #удар #беспилотник #бпла #пуск #арсенал #сф #армия #про
+
+  
+## Peskov ilmoittaa Moskovan valmiudesta isännöidä Zelenskiä vakavissa keskusteluissa
+Dmitry Peskov, Venäjän presidentin tiedottaja, ilmoitti, että Moskova on valmis vastaanottamaan Ukrainan presidentti Volodymyr Zelenskin, jos hän on tosissaan keskustelemassa konfliktin ratkaisusta. [10]
+
+**COMMENT:** Tämä lausunto viittaa Venäjän mahdolliseen avoimuuteen neuvotteluille, mikä saattaa muuttaa dynaamista käsittelyä käynnissä olevassa konfliktissa. Jos Zelensky vastaa myönteisesti, se voi johtaa rauhanneuvottelujen uudelleen aloittamiseen.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #ввс #удар #сво #про
+
+  
+## Venäjän ilmavoimat ampuvat alas 491 ukrainalaista droonia
+Venäjän ilmavoimat ilmoittivat 16. kesäkuuta 2023 alasammutun 491 ukrainalaista droonia. [11]
+
+**COMMENT:** Tämä merkittävä operatiivinen menestys kuvastaa sotilaallisen intensiivisyyden jatkuvuutta alueella ja vahvistaa Venäjän kykyjä droonien torjunnassa.
 
 **LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #минобороны рф #минобороны #министерство обороны #пво #сво #беспилотник #бпла #про
+**KEYWORDS:** #российские #минобороны рф #мо рф #российские военнослужащие #минобороны #пво #противовоздушная оборона #сво #беспилотник #бпла #перехват #про
 
+  
+## Tulipalon sammuttaminen Moskovan öljynjalostamolla drooni-iskun jälkeen
+Moskovan öljynjalostamolla syttynyt tulipalo on saatu sammutettua drooni-iskun jälkeen. [12]
 
-## Kumppani Crocus City Hallin terrori-iskussa pidätetty Ingušetiassa
-Maaliskuun 14. päivänä 2023 Venäjän liittovaltion turvallisuuspalvelu pidätti 54-vuotiaan Ingušetiassa asuvan henkilön, Hasan Altemirovin, joka on syytetty terroristen tukemisesta Crocus City Hallissa. [19]
+**COMMENT:** Tämä tapaus heijastaa jatkuvia haavoittuvuuksia kriittisessä infrastruktuurissa kasvavan droonisodan keskellä. Tulevat iskut saattavat pahentaa toimintahaasteita tällaisille laitoksille.
 
-**COMMENT:** Altemirovin pidättäminen korostaa Venäjän turvallisuuspalvelujen jatkuvia ponnistuksia tuhota terroristiverkostoja maassa.
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**LOCATION:** Ingušetia / Ingushetia, 43.1655309, 44.979682 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.165531&mlon=44.979682#map=8/43.165531/44.979682) (Ингушетия)
+**KEYWORDS:** #российские #российские военнослужащие #беспилотник #бпла #про
 
-**KEYWORDS:** #россия #сво #про
+  
+## Putin ei saanut kutsua G7-huippukokoukseen, sanoo Peskov
+Kremlin tiedottaja Dmitry Peskov totesi, että presidentti Vladimir Putin ei ole saanut virallista kutsua G7-huippukokoukseen Ranskassa. [13]
 
+**COMMENT:** Tämä kehitys korostaa jännitteitä ja puutteellista diplomaattista vuorovaikutusta Venäjän ja Ukrainan välillä, erityisesti kansainvälisissä foorumeissa, kuten G7:ssa.
 
-## Uuden puhelinpetoksen suunnitelma, joka kohdistaa veronmaksajiin
-Maaliskuun 14. päivänä 2026 Anton Nemkin, valtakunnallisen duuman päätöksenteon jäsen, ilmoitti uudesta petossuunnitelmasta, jossa rikolliset esiintyvät liittovaltion veropalvelun työntekijöinä. [20]
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**COMMENT:** Tämä tapahtuma korostaa haavoittuvuuksia digitaalisen turvallisuuden alalla Venäjällä.
+**KEYWORDS:** #россия #российский #про
+
+  
+## Venäjän armeija raportoi iskuista Ukrainan energia- ja liikenneinfraan
+Venäjän puolustusministeriö ilmoitti, että Venäjän armeija on suorittanut ilmaiskuja, jotka kohdistuvat Ukrainan energia- ja liikenneinfrastruktuuriin. [14]
+
+**COMMENT:** Tämä eskalaatio heijastaa Venäjän sotilaallisia pyrkimyksiä heikentää Ukrainan logistisia kykyjä, mikä viittaa pitkittyneisiin konfliktidynamiikkoihin.
+
+**LOCATION:** Ukraina / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) (Украина)
+
+**KEYWORDS:** #российские #минобороны рф #минобороны россии #мо рф #вооруженные силы рф #вс рф #российские войска #российские военные #минобороны #удар #ракетные войска #артиллерия #беспилотник #армия
+
+  
+## Medvedev kehottaa jatkamaan hyökkäystä Ukrainan asevoimia vastaan
+Medvedev kehotti 16. kesäkuuta 2023 jatkamaan sotilaallista toimintaa Ukrainan asevoimia vastaan. [15]
+
+**COMMENT:** Medvedevin lausunnot viittaavat sitoutumiseen sotilaallisten operaatioiden tehostamiseen Ukrainaa vastaan, mikä heijastaa aggressiivista linjaa Venäjän johdolta.
 
 **LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #россия #вооруженные силы рф #вс рф #флот #удар #сво #беспилотник #бпла #армия #про
+
+  
+## Medvedev korostaa ensimmäistä kansainvälistä tunnustusta Venäjän suvereniteetille uusilla rajoilla
+Medvedev ilmoitti, että kansainvälinen tuomioistuin on virallisesti tunnustanut Venäjän suvereniteetin uusilla rajoilla. [16]
+
+**COMMENT:** Tämä tunnustus voi vahvistaa Venäjän territoriaalisia vaatimuksia ja rohkaista maan neuvotteluposiota alueellisten vesien ja turvallisuuden suhteissa.
+
+**LOCATION:** Haag / The Hague, 52.0799838, 4.3113461 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.079984&mlon=4.311346#map=8/52.079984/4.311346) (Гаага)
 
 **KEYWORDS:** #россия #удар #про
 
+  
+## Kiina kouluttaa venäläisiä sotilaita, sanoo Kallas
+Virolainen pääministeri Kaja Kallas totesi, että Kiina kouluttaa venäläisiä sotilaita Ukrainan sotatoimiin. [17]
 
-## Venäjän asevoimat iskivät Ukrainan droneiden ohjauspisteeseen lähellä Novogrishniota
-Maaliskuun 14. päivänä 2026 Venäjän armeija kohdisti droneiden ohjauspisteen ukrainalaisille armeijoille lähellä Novogrishniota Donetskin kansantasavallassa. [21]
+**COMMENT:** Tämä kehitys tuo esiin Kiinan kasvavaa osuutta Venäjän sotilaallisessa toiminnassa, mikä voi parantaa Venäjän operatiivisia kykyjä Ukrainassa.
 
-**COMMENT:** Tämä operaatio korostaa Venäjän jatkuvia ponnistuksia haitata Ukrainan sotilaallisia kykyjä tarkkuusiskujen avulla.
+**LOCATION:** Luxembourg / Luxembourg, 49.6112768, 6.129799 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.611277&mlon=6.129799#map=8/49.611277/6.129799) (Luxembourg)
 
-**LOCATION:** Novogrishino / Novogrishino, Unknown, Unknown
+**KEYWORDS:** #россия #сво #про
 
-**KEYWORDS:** #российский #российские #вс рф #российские военные #минобороны #удар #беспилотник #бпла #пункт управления #про
+  
+## Kuusi loukkaantuu Moskovan alueella massiivisen ukrainalaisen drooni-iskun seurauksena
+Kuusi siviiliä loukkaantui Moskovan alueella laajan ukrainalaisten drooni-iskun seurauksena. [18]
 
+**COMMENT:** Tämä tapaus heijastaa jatkuvia uhkia siviiliturvallisuudelle Moskovan alueella droonisodassa.
 
-## Putin keskustelee kehityksestä Donbassissa ja Novorossiassa jatkuvan konfliktin keskellä
-Maaliskuun 14. päivänä 2026 Venäjän presidentti Vladimir Putin piti videokonferenssin avainministereiden kanssa keskustellakseen kehitys- ja jälleenrakennusponnisteluista Donetskin ja Luhanskin kansantasavalloissa. [22]
+**LOCATION:** Moskovan alue / Moscow Oblast, 55.5043158, 38.0353929 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.504316&mlon=38.035393#map=8/55.504316/38.035393) (Московская область)
 
-**COMMENT:** Jatkuvat raskaat jälleenrakennusponnistukset konfliktialueilla viittaavat Venäjän sitoumukseen vahvistaa hallintaa alueilla.
+**KEYWORDS:** #российские #российские военнослужащие #удар #сво #беспилотник #бпла #часть #про
 
-**LOCATION:** Donetskin ja Luhanskin kansantasavallat / Donetsk and Luhansk People's Republics, Unknown, Unknown
+  
+## Venäjän asevoimat vapauttavat uuden Donbassin DNR:ssä
+Venäjän asevoimat ilmoitti 16. kesäkuuta 2026 vapauttaneensa Uuden Donbassin Donetskin kansantasavallassa. [19]
 
-**KEYWORDS:** #россия #удар #сво #сф #часть #про
+**COMMENT:** Uuden Donbassin vapauttaminen osoittaa Venäjän asevoimien jatkuvaa etenemistä alueella, mikä voi muuttaa alueen hallinnan tasapainoa.
 
+**LOCATION:** Donetskin kansantasavalta / Donetsk People's Republic, Unknown [Click for Map Location](Unknown) (Донецкая Народная Республика)
 
-## Ombudsman Lantratova auttaa sotilasta erottamisessa vamman jälkeen
-Maaliskuun 14. päivänä 2026 ombudsmani Yana Lantratova auttoi sotilasta, joka oli loukkaantunut sotilaallisissa operaatioissa, eroamaan armeijasta sopimuksensa päättymisen jälkeen. [23]
-
-**COMMENT:** Tämä tapaus korostaa ombudsmannin roolia sotilasasioiden käsittelyssä, erityisesti veteraanien oikeuksien ja lääketieteellisen hoidon osalta.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #минобороны россии #минобороны #министерство обороны #учения #удар #сво #десант #про
+**KEYWORDS:** #вс россии #сво
 
 
 # Sources
 
-[1] Interfax - https://interfax.ru/russia/1095744?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1096168?utm_source=top
 
-[2] Interfax - https://interfax.ru/russia/1095735?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1096212
 
-[3] Interfax - https://interfax.ru/russia/1095752?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1096208
 
-[4] Interfax - https://interfax.ru/russia/1095768
+[4] interfax.ru - https://interfax.ru/russia/1096206
 
-[5] Interfax - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[5] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
 
-[6] Interfax - https://interfax.ru/russia/1095766
+[6] interfax.ru - https://interfax.ru/russia/1096204
 
-[7] Interfax - https://interfax.ru/russia/1095764
+[7] interfax.ru - https://interfax.ru/russia/1096203
 
-[8] Interfax - https://interfax.ru/russia/1095763
+[8] interfax.ru - https://interfax.ru/russia/1096198
 
-[9] Interfax - https://interfax.ru/russia/1095762
+[9] aif.ru - https://aif.ru/society/kiev-gorit-bunkery-vzryvayutsya-otvet-na-ataki-rf-vyzval-isteriku-v-nato
 
-[10] Interfax - https://interfax.ru/russia/1095761
+[10] www.vesti.ru - https://www.vesti.ru/ns/peskov-zayavil-o-gotovnosti-moskvy-prinyat-zelenskogo
 
-[11] Interfax - https://interfax.ru/russia/1095756
+[11] www.vesti.ru - https://www.vesti.ru/ns/sily-pvo-sbili-491-dron-vsu-soobshchili-v-minoborony-rf
 
-[12] Interfax - https://interfax.ru/russia/1095754
+[12] www.vesti.ru - https://www.vesti.ru/ns/na-territorii-mnpz-likvidirovan-pozhar-vspykhnuvshij-posle-ataki-bpla
 
-[13] Aif - https://aif.ru/society/safety/sily-pvo-za-11-chasov-sbili-nad-territoriey-rf-pochti-250-ukrainskih-bpla
+[13] www.vesti.ru - https://www.vesti.ru/ns/putin-ne-poluchal-priglashenie-na-sammit-g7-o-kotorom-zayavlyal-zelenskij
 
-[14] Vesti - https://www.vesti.ru/ns/evraev-dorogu-na-moskvu-vnov-zablokirovali-iz-soobrazhenij-bezopasnosti
+[14] www.vesti.ru - https://www.vesti.ru/ns/mo-rf-soobshchilo-ob-udarakh-po-obektam-ehnergetiki-i-transporta-ukrainy
 
-[15] Vesti - https://www.vesti.ru/ns/dron-vsu-udaril-po-zhilomu-domu-v-orlovskoj-oblasti-pogib-chelovek
+[15] www.vesti.ru - https://www.vesti.ru/ns/medvedev-prizval-prodolzhat-razgrom-vsu
 
-[16] Vesti - https://www.vesti.ru/ns/rogozin-predlozhil-minirovat-tankery-chtoby-ikh-ne-zaderzhivali-voennye-es
+[16] www.vesti.ru - https://www.vesti.ru/ns/medvedev-otmetil-pervoe-mezhdunarodnoe-priznanie-suvereniteta-rf-v-novykh-granicakh
 
-[17] Vesti - https://www.vesti.ru/ns/chetyre-letevshikh-na-moskvu-drona-unichtozheny-silami-pvo
+[17] www.vesti.ru - https://www.vesti.ru/ns/kitaj-obuchaet-rossijskikh-voennykh-utverzhdaet-kallas
 
-[18] Vesti - https://www.vesti.ru/ns/sredstva-pvo-sbili-za-noch-249-ukrainskikh-dronov-nad-regionami-rossii
+[18] www.vesti.ru - https://www.vesti.ru/ns/shest-chelovek-raneny-v-podmoskove-posle-massirovannoj-ataki-dronov-vsu 
 
-[19] Vesti - https://www.vesti.ru/ns/posobnika-uchastnikov-terakta-v-krokuse-zaderzhali-v-ingushetii
-
-[20] Iz - https://iz.ru/2115132/v-edinoi-rossii-rasskazali-o-novoi-skheme-moshennichestva-izi
-
-[21] Iz - https://iz.ru/2115172/2026-06-14/vs-rf-s-pomoshchiu-geranei-porazili-punkt-upravleniia-dronami-vsu-u-novogrishino?main_click
-
-[22] KP - https://www.kp.ru/daily/277790/5262756/
-
-[23] KP - https://www.kp.ru/online/news/7020596/
+[19] ria.ru - https://ria.ru/20260616/svo-2099192602.html?rcmd_alg=slotter
