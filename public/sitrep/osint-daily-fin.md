@@ -1,216 +1,240 @@
-# Report Date: 2026-06-20
+# Report Date: 2026-06-21
 
 ## Summary
-Raportointijaksolla Venäjällä on havaittu merkittäviä sotilaallisia ja poliittisia tapahtumia, erityisesti Ukrainassa ja sen ympäristössä. FSB on tehnyt useita pidätyksiä ja ilmoittanut uhista Venäjän valtion viranomaisille, mikä viittaa jatkuvaan sisäiseen turvallisuusriskiin. Samalla Venäjän puolustusvoimat ilmoittaa useista merkittävistä saavutuksista, kuten suurten määrien ukrainalaisten dronejen tuhoamisesta. Tulohallinnan ja liiketoiminnan normalisoituminen on myös näkyvissä, mikä osaltaan heijastaa kehitystä kansallisessa infrastruktuurissa.
+Raportointijaksolla on tapahtunut merkittäviä väkivaltaisuuksia ja logistisia haasteita Krimin ja muiden Venäjän alueiden ympärillä. Ukrainan hyökkäykset droneilla ovat johtaneet siviiliuhreihin, mikä saattaa provosoida Venäjän viranomaisia toimiin. Samalla Krimillä on voimistunut polttoaineen myyntirajoituksia, ja liikenne on ollut keskeytettynä taisteluiden vuoksi. Venäläiset joukot ovat myös raportoineet aluetta vapauttaneista operaatioista Itä-Ukrainassa, mikä viittaa mahdolliseen strategiseen etulyöntiasemaan.
 
-## Yli 20 henkilöä syytetään uhista Roskomnadzorin johtohenkilöitä vastaan
-20. kesäkuuta 2026 FSB ilmoitti syyttävänsä yli 20 henkilöä juonittelusta salamurhayrityksiin ja uhkiin Roskomnadzorin johtohenkilöitä vastaan Moskovassa. FSB väittää, että Ukrainan erikoispalvelut rekrytoivat aktiivisesti Venäjän nuoria ääriliikkeisiin, mikä aiheuttaa huomattavan turvallisuusriskin valtion viranomaisille, jotka ovat mukana sotatoimissa. [1]
+## Neljä kuollutta ja 28 haavoittunutta dronehyökkäyksessä Krimillä
+Kesäkuun 21. päivänä 2026 tapahtui dronehyökkäys, jonka uskottiin olevan Ukrainan joukkojen toteuttama, Kerchin niemimaalla Krimillä. Hyökkäys johti neljän henkilön kuolemaan ja 28 vammoihin. Krimin johtaja ilmoitti, että pelastuspalvelut ovat paikalla auttamassa uhreja. [1]
 
-**COMMENT:** Tämä tapahtuma korostaa jatkuvia uhkia Venäjän valtion viranomaisille, erityisesti niille, jotka liittyvät sotatoimiin Ukrainassa. FSB:n toimet voivat viitata kasvavaan huoleen ulkoisten riskien ja kotimaisten radikalisoitumisyritysten torjumisessa.
+**COMMENT:** Tämä tapaus korostaa alueen jatkuvia vihamielisyyksiä ja väkivallan kärjistymisen mahdollisuuksia. Merkittävät siviilivaikutukset saattavat herättää voimakkaampia reaktioita Venäjän viranomaisilta ja vaikuttaa laajempiin turvallisuuskysymyksiin Krimillä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Kerchin niemimaa / Kerch, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=45.241142&mlon=35.976286#map=8/45.241142/35.976286) (Керчь)
 
-**KEYWORDS:** #russia #про  
-
-
-## Hersonin alueella sähkökatkoksia ukrainalaisten droneiskujen vuoksi
-20. kesäkuuta 2026 Hersonin alueella Ukrainassa koettiin sähköntarjonnan keskeytyksiä kahdeksassa kunnassa droneiskujen jälkeen, jotka olivat Ukrainan joukkojen toteuttamia. Kuvernööri raportoi, että kaksi henkilöä kuoli ja kuusi loukkaantui näiden iskujen seurauksena, mikä käynnisti palautusyritykset kärsineillä alueilla. [2]
-
-**COMMENT:** Droneiskut Hersonin alueella korostavat jatkuvaa konfliktia ja kriittisen infrastruktuurin haavoittuvuutta. Nämä tapahtumat voivat edelleen nostaa jännitteitä ja johtaa lisääntyneisiin sotilaallisiin reaktioihin tai operatiivisiin muutoksiin alueella.
-
-**LOCATION:** Hersonin alue / Kherson region, Unknown, Unknown
-
-**KEYWORDS:** #russia #удар #сво #беспилотник #бпла  
+**KEYWORDS:** #russia #сво #беспилотник #бпла #про
 
 
-## FSB pidättää Moskovan alueen asukkaan venäläisten sotilaiden uhkaamisesta
-20. kesäkuuta 2026 FSB ja sisäasiainministeriö pidättivät Moskovan alueen asukkaan, joka väitetysti käytti pelottelutoimia kolmea Venäjän sotilasta vastaan, oletettavasti Ukrainan erikoispalveluiden ohjauksessa. Tämä tapaus korostaa edelleen ulkomaisen vaikutuksen ja toiminnan turvallisuusongelmia venäläisten henkilöstön suhteen geopoliittisten jännitteiden kasvaessa. [3]
+## Polttoainemyynti ja kuponkien jakaminen keskeytetty Krimillä
+Kesäkuun 21. päivänä 2026 Krimin tasavallan johtaja Sergey Aksenov ilmoitti vapaan polttoainemyyntiin ja polttoainekuponkien jakamiseen liittyvistä rajoituksista, jotka tulevat voimaan kello 9.00 alkaen. Polttoainetta on saatavilla vain julkisille palveluille alueen elinvoimaisuuden ja turvallisuuden ylläpitämiseksi logistiikkaongelmien keskellä. [2]
 
-**COMMENT:** Pidätys osoittaa Venäjän viranomaisten proaktiivista suhtautumista havaittuihin uhkiin Ukrainan operatiivisten tahojen suunnalta, joka heijastaa sisäisen turvallisuuden toimien intesivistymistä.
+**COMMENT:** Tämä polttoainemyyntirajoitus heijastaa merkittäviä logistisia haasteita ja voi viitata laajempiin toimitusongelmiin alueella. Jatkuvat rajoitukset voivat edelleen pahentaa jännitteitä ja vaikuttaa julkisiin palveluihin, jos tilanne ei parane pian.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** SPARTA KRIM / Crimea, 45.037057, 38.975647 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.037057&mlon=38.975647#map=8/45.037057/38.975647) (Центральный округ)
 
-**KEYWORDS:** #russia #удар #про  
-
-
-## Venäjän puolustusministeriö ilmoittaa 740 ukrainalaisen dronejen tuhos
-20. kesäkuuta 2026 Venäjän puolustusministeriö ilmoitti, että Venäjän joukot ampuivat alas 740 ukrainalaisen asevoimien dronea yhdessä päivässä, yhdessä 13 ohjattujen ilma-aseiden ja kahden HIMARS-raketin kaappamisen kanssa. Tämä merkittävä saavutus korostaa aktiivista sotilaallista toimintaa erityisessä sotatoimialueessa, mikä viittaa jatkuvaan keskittymiseen ukrainalaisten ilmapuolustuksen heikentämiseen. [4]
-
-**COMMENT:** Suuri määrä tuhottuja droneja viittaa jatkuvaan ilmasodan eskaloitumiseen ja strategiseen korostukseen dronejen torjunnassa. Tämä kehitys voi heijastaa yrityksiä vahvistaa ilmapuolustusta alueella, mikä vaikuttaa tulevaan operatiiviseen suunnitteluun Venäjän sotilasjohtajilta.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #российские #минобороны рф #российские войска #российские военные #минобороны #министерство обороны #сво #беспилотник #про  
+**KEYWORDS:** #russia #удар #сво #пуск #про
 
 
-## Permin lentoasema resumeerii lentotoiminnan rajoitusten purkamisen jälkeen
-20. kesäkuuta 2026 Permin lentoasema, tunnettu nimellä Big Savino, resumeerasi lentotoiminnan ja jälleen aloitti lentojen vastaanoton ja lähetyksen sen jälkeen, kun liittovaltion ilmailuviranomainen (Rosaviatsia) purki toiminta rajoituksia. Tämä päätös seuraa vastaavia avauksia muilla alueilla, kuten Jekaterinburgissa, Ufassa ja Izhevskissä. [5]
+## Liikenne palautui Krimin sillalla 11 junan viivästyksen jälkeen
+Kesäkuun 21. päivänä 2026 Grand Service Express ilmoitti, että 11 junan liikenne viivästyi Krimin sillalla tapahtuneiden liikenneongelmien vuoksi, mikä johti 1,5-8,5 tunnin viivästyksiin. Liikenne palautui yhdeksän tunnin keskeytyksen jälkeen, mikä osoittaa alueen kuljetusjärjestelmän haavoittuvuuksia. [3]
 
-**COMMENT:** Lentotoiminnan resumeeraminen Permin lentoasemalla kuvaa potentiaalista normalisoitumista alueellisessa liikenteessä ja paluuta ennen rajoituksia oleviin toimintatasoihin. Tämä voisi viitata parantumisiin paikallisessa infrastruktuurissa ja operatiivisessa kapasiteetissa.
+**COMMENT:** Viivästykset korostavat liikennerakenteen mahdollisia epävakaustekijöitä ja niiden vaikutusta alueen yhteyksiin Krimille. Tulevat häiriöt saattavat edelleen kiristää logistiikkaa ja matkustamista, mikä viittaa tarpeeseen syvällisille arvioille kuljetusturvallisuudesta niemimaalla.
 
-**LOCATION:** Perm / Perm, 58.0108531, 56.2318528 [Click for Map Location](https://www.openstreetmap.org/?mlat=58.010853&mlon=56.231853#map=8/58.010853/56.231853) (Пермь)
+**LOCATION:** Krimin silta / Crimean bridge, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=45.241142&mlon=35.976286#map=8/45.241142/35.976286) (Крымский мост)
 
-**KEYWORDS:** #russia #пуск  
-
-
-## CPRF esittelee vaaliohjelmansa ennen valtiodumaa- vaaleja
-20. kesäkuuta 2026 Venäjän Kommunistisen Puolueen Keskuskomitea (CPRF) julkaisi vaaliohjelman nimeltään 'Voitto-ohjelma' puoluekokouksessa Moskovassa. Ohjelma outlines erilaisia ehdotuksia, mukaan lukien hintojen valtiollinen sääntely, strategisten teollisuuden alojen valtiollinen valvonta ja sitoutuminen eliminoida perheet, jotka elävät alle 200 000 ruplalla vuoteen 2030 mennessä. [6]
-
-**COMMENT:** CPRF:n vaaliohjelman ilmoittaminen korostaa kasvavaa populististen toimenpiteiden painotusta Venäjällä valtioduman vaalien lähestyessä. Tämä siirto saattaa viitata yrityksiin houkutella laajempaa tukea jatkuvien taloudellisten haasteiden ja sosiaalisten huolien keskellä.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #удар #сво #про  
+**KEYWORDS:** #russia #сво
 
 
-## Jekaterinburgin lentoasema resumeerii lentotoiminnan rajoitusten purkamisen jälkeen
-20. kesäkuuta 2026 Jekaterinburgin Koltsovo-lentoasema resumeerasi toiminnan, mikä mahdollistaa lentokoneiden saapua ja lähteä rajoitusten poistamisen jälkeen, jotka olivat voimassa miehittämättömien ilmapelkojen vuoksi Sverdlovskin alueella. Tämä muutos heijastaa viranomaisten reaktiota aikaisempiin turvallisuushuoliin alueella. [7]
+## Humalainen mies hyökkää lapsia vastaan leirillä Tuovassa
+Kesäkuun 21. päivänä 2026 humalainen mies hyökkäsi Orlyonok-lapsileirissä järven Chagytai lähellä Tuovassa, aiheuttaen vammautumisia 13-14 lapselle, joiden kerrotaan olevan tyydyttävässä kunnossa. Mies, syntynyt vuonna 2001, pidätettiin leirin henkilöstön toimesta ja toimitettiin poliisille, kun rikostutkinta asiasta on käynnistetty. [4]
 
-**COMMENT:** Lentojen resumeeraminen Koltsovo-lentoasemalla voi viitata paikallisen turvallisuustilanteen vakautumiseen, mikä mahdollistaa liikenneinfrastruktuurin normaalin toiminnan. Turvallisuustoimenpiteiden tehokkuuden seuraaminen naapurialueilla on ratkaisevaa tulevien operatiivisten riskien arvioimiseksi.
+**COMMENT:** Tämä tapaus herättää huolta lastenhoitopalveluissa Venäjällä. Vastuuviranomaisten toiminnan tutkiminen saattaa paljastaa järjestelmällisiä ongelmia leirien valvonnassa, mikä voi vaikuttaa tuleviin sääntöihin.
 
-**LOCATION:** Jekaterinburg / Yekaterinburg, 56.8382071, 60.6007886 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.838207&mlon=60.600789#map=8/56.838207/60.600789) (Екатеринбург)
+**LOCATION:** Orlyonok-lapsileiri / Orlyonok children's camp, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=51.401715&mlon=93.858259#map=8/51.401715/93.858259) (Орленок)
 
-**KEYWORDS:** #russia #пуск  
-
-
-## Venäjän armeija kohdistaa iskuja Ukrainan polttoaine- ja energia-infrastruktuuriin
-20. kesäkuuta 2026 Venäjän armeija toteutti iskuja Ukrainan polttoaine- ja energia-infrastruktuuriin, mukaan lukien drone- varastointilaitokset, Venäjän puolustusministeriön ilmoituksen mukaan. Operaatioon osallistui useita sotilasvarusteita, joiden kohteena olivat alueet, jotka liittyvät Ukrainan asevoimiin 154 kunnassa. [8]
-
-**COMMENT:** Tämä sotilaallinen toiminta korostaa Venäjän jatkuvia pyrkimyksiä häiritä Ukrainan kriittistä infrastruktuuria, erityisesti drone-kykyjen osalta. Tällaiset toimet voivat viitata sodan toimintojen eskaloitumiseen samalla, kun Venäjä pyrkii painostamaan Ukrainan puolustusresursseja.
-
-**LOCATION:** Ukraina / Ukraine, Unknown, Unknown
-
-**KEYWORDS:** #russia #российские #минобороны рф #российские войска #российские военные #минобороны #удар #беспилотник #про  
+**KEYWORDS:** #russia #корпус #сво #про
 
 
-## Venäjän sotilaalliset toimet Ukrainassa raportoitu
-20. maaliskuuta 2026 Venäjän puolustusministeriö raportoi edistymisestä sotatoimissa eri rintamilla Ukrainassa, mukaan lukien ukrainalaisten drone-varastointilaitosten tuhoaminen lähellä Harkovia. Lisäksi venäläisten joukkojen ilmoitettiin kaataneen useita ukrainalaisia droneja ja ohjattuja aseita näiden operaatioiden aikana. [9]
+## Sähkoverkko ylikuormitus Sevastopolin ulkopuolella ratkaistu
+Kesäkuun 21. päivänä 2026 kuvernööri Mikhail Razvozhaev ilmoitti Sevastopolissa, että sähkön ylikuormitus, joka oli vaikuttanut kaupungin sähköntoimitukseen, on ratkaistu. Tapaus seurasi UAV-hyökkäystä, joka sai paikalliset viranomaiset toteuttamaan väliaikaisia sähköverkon sulkemisia. [5]
 
-**COMMENT:** Tapahtumat heijastavat venäläisten joukkojen intensiivistynyttä operatiivista tempoa Ukrainassa, korostaen jatkuvia kykyjä drone-sodassa ja ilmapuolustuksessa. Nämä kehitykset voivat viitata tuleviin strategisiin siirtymiin Venäjän sotilaallisessa lähestymistavassa jatkuvassa konfliktissa.
+**COMMENT:** Ylikuormituksen ratkaisu osoittaa nopeaa reaktiota välttämättömien palvelujen palauttamiseen mahdollisen turvallisuusuhan jälkeen. Tulevat tapaukset saattavat johtaa tarkempaan valvontaan kriittisen infrastruktuurin kestävyyden suhteen UAV-hyökkäyksiä vastaan.
 
-**LOCATION:** Harkov / Kharkiv, 49.9923181, 36.2310146 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.992318&mlon=36.231015#map=8/49.992318/36.231015) (Харьков)
+**LOCATION:** Sevastopol / Sevastopol, 55.7544976, 37.6157186 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.754498&mlon=37.615719#map=8/55.754498/37.615719) (Севастополь)
 
-**KEYWORDS:** #российские #минобороны рф #минобороны россии #российские военные #российские военнослужащие #минобороны #министерство обороны #удар #сво #авиаудар #беспилотник #бпла #бомбардировщик #про  
-
-
-## Venäjän armeija ottaa hallintaansa rakennuksia Donetskin alueella
-20. kesäkuuta 2026 Venäjän joukot hallitsivat 94 rakennusta Konstantinovkassa ja 47 Krasny Limanissa hyökkäysoperaatioissa ukrainalaisia joukkoja vastaan Donetskin kansantasavallassa. Puolustusministeriö raportoi venäläisten joukkojen jatkuvasta edistyksestä ja merkittävistä tappioista ukrainalaiselle armeijalle. [10]
-
-**COMMENT:** Näiden kaupunkialueiden valtaus heijastaa Venäjän sotilaallisia ponnistuksia vakauttaa hallinta Donetskin alueella jatkuvassa vihollisuudessa. Tämä voi viitata kestävästi jatkuneeseen venäläiseen hyökkäykseen, mikä voi johtaa lisäalueiden valtaamiseen alueella.
-
-**LOCATION:** Konstantinovka / Konstantinovka, Unknown, Unknown
-
-**KEYWORDS:** #russia #российские #минобороны рф #российские войска #минобороны #про  
+**KEYWORDS:** #russia #бпла
 
 
-## Venäjän joukot parannavat asemapaikkojaan SVO-alueella
-20. kesäkuuta 2026 Venäjän puolustusministeriö ilmoitti, että sen sotilasjoukot ovat onnistuneesti parantaneet asemapaikkojaan erityisellä sotatoimialueella, lopettaen 94 rakennusta Krasnoy Limanissa ja muita edistymisiä. Raportti yksityiskohtaisesti erilaisia taktisista parannuksista eri ryhmittymissä, mukaan lukien Pohjoinen, Keskus, Etelä, Itä ja Länsi, mikä heijastaa jatkuvia sotilaallisia operaatioita ja strategisia kehityksiä nykyisten taistelutehtävien keskellä. [11]
+## Robinson-heliportti kadonnut Primoryessa
+Kesäkuun 21. päivänä 2026 Robinson-heliportti, joka oli rekisteröity metsätalouskäyttöön, katosi lennolla Terneyn kylästä Primorskin alueelta ilman aikataulun mukaista yhteydenottoa. Etsintä- ja pelastustoimia on parhaillaan käynnissä, ja rikosjuttua on aloitettu liikenneturvallisuuden sääntöjen rikkomisesta, mikä saattaa johtaa mahdollisiin kuolonuhreihin. [6]
 
-**COMMENT:** Tämä operatiivinen päivitys viittaa mahdolliseen sodankäynnin eskaloitumiseen ja jatkuvaan keskittymiseen alueiden valtaamiseen Ukrainassa. Tällaiset kehitykset viittaavat siihen, että Venäjän asevoimat saattavat valmistautua lisäoperaatioihin vahvistaakseen asemapaikkojaan ja lisätäkseen painetta ukrainalaisten puolustuslinjojen.
+**COMMENT:** Helikopterin katoaminen korostaa Venäjän syrjäisten alueiden ilmailuturvallisuuden haasteita, mikä saattaa johtaa sääntelyvalvonnan lisääntymiseen ja ilmailutoimintojen tarkkailun tiukentamiseen. Kun etsintä- ja pelastustoimet jatkuvat, tapaus voi myös vaikuttaa paikallisiin toimintatapoihin ja turvallisuustoimiin ilmailutoiminnassa.
 
-**LOCATION:** Krasnoy Liman / Krasnoy Liman, Unknown, Unknown
+**LOCATION:** Primorskij krai / Primorsky Krai, 45.0819456, 134.726645 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.081946&mlon=134.726645#map=8/45.081946/134.726645) (Приморский край)
 
-**KEYWORDS:** #russia #российские #минобороны рф #российские войска #минобороны #сво #про  
-
-
-## Kaksi henkilöä kuoli Luhanskissa dronejen pudottamassa räjähteessä
-20. kesäkuuta 2026 kaksi henkilöä menetti henkensä Luhanskin kansantasavallassa, kun ukrainalaisten asevoimien drone pudotti räjähdyksen vilkkaalla moottoritiellä. Tapahtuma tapahtui, kun siviilit yrittivät poistaa epäilyttävän esineen, mikä korostaa jatkuvia vaaroja drone-sodankäynnissä alueella. [12]
-
-**COMMENT:** Tämä hyökkäys korostaa pysyvää epävakauden ja riskien olemassaoloa siviileille konfliktialueilla, erityisesti kun jännitteet ovat korkeat. Tapahtuma voi laukaista vastatoimenpiteitä turvallisuustoimissa tai lisääntynyttä sotilaallista toimintaa alueella drone-uhkien käsittelemiseksi.
-
-**LOCATION:** Luhanskin kansantasavalta / Luhansk People's Republic, Unknown, Unknown
-
-**KEYWORDS:** #russia #сво #беспилотник #бпла #пуск #часть #про  
+**KEYWORDS:** #russia #вертолет #про
 
 
-## Venäjän puolustusministeriö ilmoittaa korkeista ukrainalaisten sotilaiden tappioista
-20. kesäkuuta 2026 Venäjän puolustusministeriö ilmoitti, että Ukrainan asevoimien (AFU) arvioidaan kärsineen noin 1 370 uhria konfliktivyöhykkeellä yhden päivän aikana. Tämä ilmoitus korosti suuria sotilaallisia sitoutumisia eri operatiivisissa ryhmissä, paljastaen sekä AFU:n tappioiden mittakaavan että Venäjän sotilasjohdon jatkuvan kohdistamisen vihollisen logistiikkaan ja henkilöstön sijoituksiin. [18]
+## Venäjä raportoi sotilaallisia kehityksiä Ukrainassa
+Kesäkuun 21. päivänä 2023 Venäjän puolustusministeriö ilmoitti joukkojen parantaneen asemiaan eri operatiiviryhmissä Ukrainassa, tehden merkittäviä iskuja sotilas-infrastruktuuriin, mukaan lukien logistiikkakeskuksiin ja lentokenttiin. Lisäksi raportoitiin useista dronehyökkäyksistä, jotka johtivat siviiliuhreihin Belgorodin alueella ja Kerchin niemimaalla. [7]
 
-**COMMENT:** Tämä korkea lukema ukrainalaisista tappioista viittaa mahdollisesti kestämättömään tasoon attritiota Ukrainassa, mikä voi vaikuttaa sen operatiiviseen kykyyn lyhyellä aikavälillä. Jatkuvasti intensiiviset venäläiset toimet saattavat lisätä painetta ukrainalaisille joukoille, mikä mahdollisesti johtaa strategisiin siirtymiin sijoituksissa ja laajempiin konfliktidynamiikkaan.
+**COMMENT:** Nämä sotilaalliset toimet viittaavat jatkuvaan ja aggressiiviseen asenteeseen Venäjän joukoilta Ukrainassa, mikä heijastaa pyrkimyksiä vankistaa alueen valtausta. Tällaisen toiminnan jatkuminen voi escalationi jännitteitä rajaseuduilla ja johtaa entistä voimakkaampiin sotilaallisiin vastatoimiin Ukrainalta.
+
+**LOCATION:** Kerchin niemimaa / Kerch Peninsula, 45.241142, 35.976286 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.241142&mlon=35.976286#map=8/45.241142/35.976286) (Керчь)
+
+**KEYWORDS:** #российские #минобороны рф #минобороны россии #российские военные #минобороны #министерство обороны #пво #штаб #удар #сво #авиаудар #беспилотник #бпла #бомбардировщик #про
+
+
+## Venäjän puolustusministeriö raportoi parantuneesta tilanteesta SVO-alueella
+Kesäkuun 21. päivänä 2026 Venäjän puolustusministeriö ilmoitti, että Pohjoisen, Eteläisen, Keskus- ja Länsi-ryhmien joukot ovat parantaneet taktisia asemiaan erityisessä sotilasoperaatiossa (SVO), ja merkittäviä edistysaskeleita on raportoitu Itä-ryhmästä. Ministeriön mukaan Ukrainan joukot kärsivät yli 280 sotilaan ja erilaisten sotilaallisten varusteiden menetyksiä päivän operaatioissa. [8]
+
+**COMMENT:** Tämä raportti viittaa mahdolliseen taktisen edun siirtymiseen Venäjän joukoille SVO-alueella, mikä heijastaa jatkuvia sotilaallisia taisteluita. Jatkuvat parannukset voivat viitata strategiaan, joka keskittyy saavuttamien alueiden vakiinnuttamiseen tulevia operaatioita vastaan Ukrainan puolustuksia vastaan.
 
 **LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #российские #минобороны рф #вооруженные силы рф #вс рф #российская армия #минобороны #армия россии #пво #удар #сво #беспилотник #бпла #пуск #армия #про  
+**KEYWORDS:** #russia #российские #минобороны рф #минобороны россии #российские войска #минобороны #бригада #полк #батальон #удар #сво #пуск #про
 
 
-## Yksi loukkaantunut onnettomuudessa, jossa oli 40 lasta kuljettava bussi Leningradin alueella
-20. kesäkuuta 2023 onnettomuus tapahtui A-121 Sortavala -tiellä Vsevolozhskin kunnassa Leningradin alueella, jossa oli mukana bussi, joka kuljetti 40 lasta ja kaksi autoa. Onneksi lasten keskuudessa ei ollut vahinkoja, vaikka yhdellä aikuisella autossa oli vammoja ja hän kieltäytyi sairaalahoidosta, mikä johti yhden kaistan väliaikaiseen sulkemiseen Sosnovoon. [19]
+## Sochin lentoasema keskeytti toiminnot turvallisuussyistä
+Kesäkuun 21. päivänä 2026 Sochin lentoasema keskeytti tilapäisesti toimintansa, mukaan lukien sekä saapuvat että lähtevät lennot, kuten Rosaviatsiya raportoi. Rajoitukset toteutettiin yhteistyössä asianomaisten viranomaisten kanssa lentoturvatoimenpiteiden vuoksi. [9]
 
-**COMMENT:** Tämä tapahtuma korostaa jatkuvia huolia lasten liikenneturvallisuudesta, erityisesti alueilla, joilla liikenne on lisääntynyt kesätoimien vuoksi. Lasten nopea toipuminen ja siirtyminen viittaavat tehokkaisiin hätäpalveluprotokolliin, mutta aikuisen vammat korostavat tarpeen jatkuvaan valppautteen tiellä turvallisuustoimissa.
+**COMMENT:** Lentotoimintojen keskeytys Sochin lentoasemalla korostaa jatkuvia huolia ilmailuturvallisuudesta alueella, mikä saattaa heijastaa tiukempia turvallisuustoimia. Nämä rajoitukset voivat vaikuttaa lentoliikenteeseen ja alueellisiin yhteyksiin, mikä edellyttää operatiivisen tilanteen tiivistä seurantaa lähitulevaisuudessa.
 
-**LOCATION:** Vsevolozhsky District / Vsevolozhsky District, 60.3572197, 30.6742956 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.357220&mlon=30.674296#map=8/60.357220/30.674296) (Всеволожский район)
+**LOCATION:** Sochi / Sochi, 43.5854823, 39.723109 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.585482&mlon=39.723109#map=8/43.585482/39.723109) (Сочи)
 
-**KEYWORDS:** #россия #про  
-
-
-## Tulipalo sammutettu Balashikhassa
-20. kesäkuuta 2023 tulipalo rakennusmarkkinoilla Balashikhassa lähellä Moskovaa sammutettiin alueen hätäturvapalvelujen toimesta. Tulipalo, joka peitti alueen 1 350 neliömetriä, saatiin haltuun 51 henkilöstön ja 16 laitteiston avulla, ja tilanne raportoitiin olevan hallinnassa klo 11.00. [20]
-
-**COMMENT:** Tämä tapahtuma heijastaa jatkuvia haasteita teollisuuden turvallisuuden hallinnassa Moskovan esikaupunkialueilla. Tehokas reagointi voi viitata vahvoihin hätäprotokolliin, joita saatetaan korostaa tulevissa valtion turvallisuusmääräyksissä.
-
-**LOCATION:** Balashikha / Balashikha, 55.7997662, 37.9373707 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.799766&mlon=37.937371#map=8/55.799766/37.937371) (Балашиха)
-
-**KEYWORDS:** #россия #про  
+**KEYWORDS:** #russia #пуск #про
 
 
-## Venäjän armeija vapauttaa 94 rakennusta Konstantinovkassa yhdessä päivässä
-20. kesäkuuta 2023 Venäjän hyökkäysjoukot 'Etelä' ryhmästä vapauttivat 94 rakennusta Konstantinovkassa Donetskin kansantasavallassa ukrainalaisilta joukoilta. Operaatio johti myös vihollisen sotilashyödykkeiden tuhoamiseen, mukaan lukien panssaroituja ajoneuvoja ja tykistöä. [21]
+## Venäläiset joukot tuhoavat jopa 30 ukrainalaista sotilasta Shchurovossa
+Kesäkuun 21. päivänä 2026 Venäläiset joukot raportoi tuhoavansa jopa 30 sotilasta Ukrainan 63. mekanisoidusta prikaatista Shchurovon kylässä Donin kansantasavallassa. Venäjän puolustusministeriö ilmoitti, että tämä isku oli osa laajempia sotilaallisia toimia, joiden tavoitteena on parantaa valvontaa SVO-alueella. [10]
 
-**COMMENT:** Tämä operaatio korostaa jatkuvaa sotilaallista sitoutumista Itä-Ukrainassa ja heijastaa Venäjän kestäviä ponnistuksia vakiinnuttaa hallinta alueella. Jatkuvat sotilaalliset menestyksen ja alueelliset valloitukset voivat vaikuttaa ukrainalaisten puolustussuunnitelmiin ja pidentää konfliktia.
+**COMMENT:** Tämä tapaus heijastaa jatkuvaa sotilaallista osallistumista Donetskin alueella, mikä viittaa jatkuviin vihamielisyyksiin ja Ukrainan joukkojen kohdentamiseen. Tulevat operaatiot saattavat voimistua Venäjän joukkojen edistymisen myötä alueella.
 
-**LOCATION:** Konstantinovka / Konstantinovka, Unknown, Unknown
+**LOCATION:** Shchurovo / Shchurovo, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Щурово)
 
-**KEYWORDS:** #россия #российские #минобороны рф #мо рф #вооруженные силы рф #вс рф #вс россии #российские войска #российские военные #минобороны #армия россии #сво #армия #про  
+**KEYWORDS:** #russia #российские #минобороны рф #минобороны россии #российские войска #российские военные #минобороны #удар #сво #про
+
+
+## Venäjän puolustusministeriö raportoi iskun ukrainalaiseen sotilasvarastoon Zaporozhyessa
+Kesäkuun 21. päivänä 2026 Venäjän puolustusministeriö ilmoitti iskusta ukrainalaiseen sotilasvarastoon lähellä Zaporozhyen kaupunkia, jonka tavoitteena oli sotilastekniset varat ja kamikaze-droneja. Isku, joka toteutettiin Geran UAV:lla, johti tilan tuhoamiseen, ja yli 280 sotilasta ja erilaista sotilastekniikkaa tuhoutui. [11]
+
+**COMMENT:** Tämä toimenpide korostaa jatkuvia vihamielisyyksiä ja Venäjän sotilaallisia kykyjä alueella. Jatkuvat ukrainalaisten sotilaskohteiden kohdistamistoimet voivat viitata Venäjän sotilaallisten toimien voimistumiseen konfliktin jatkuessa.
+
+**LOCATION:** Zaporozhye / Zaporozhye, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Запорожье)
+
+**KEYWORDS:** #russia #российские #минобороны рф #минобороны россии #российские войска #российские военные #минобороны #удар #сво #бпла
+
+
+## Venäjän armeija tuhoaa 483 dronetta ja neljä miehittämätöntä venettä
+Kesäkuun 21. päivänä 2026 Venäjän armeija raportoi merkittävistä ilmasodista, mukaan lukien 483 dronen ja neljän ukrainalaisen asevoimien miehittämättömän veneen tuhoamisesta Zaporozhen alueella. Tämä operaatio osoittaa jatkuvia konflikteja Itä-Ukrainassa ja Venäjän ilmailu- ja merivoimien kykyjä. [12]
+
+**COMMENT:** Suuri määrä tuhoamia ilma-aluksia viittaa sotilaallisten operaatioiden voimistumiseen, mikä heijastaa Venäjän sitoutumista operatiiviseen tehokkuuteen alueella. Jatkuvat aggressiiviset toimet voivat johtaa lisäkonflikteihin ja potentiaaliseen vastatoimeen Ukrainalta.
+
+**LOCATION:** Zaporozhen alue / Zaporozhye region, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Запорожская область)
+
+**KEYWORDS:** #russia #минобороны рф #минобороны #флот #удар #про
+
+
+## Venäjän joukot etenevät Itä-Ukrainassa keskeisten alueiden vapauttamisessa
+Kesäkuun 21. päivänä 2026 Venäjän sotilasjoukot raportoivat merkittävistä alueen valloittamisesta Itä-Ukrainassa, vapauttamalla 94 rakennusta Konstantinovkassa ja 47 Krasny Limanissa. Jatkuva taistelu ja vihollisen viestinnän tuhoaminen viittaavat konfliktin mielialojen muutokseen. [13]
+
+**COMMENT:** Tämä kehitys korostaa jatkuvaa strategista painetta Ukrainalaisille joukoille keskeisillä alueilla. Tämän kehityksen seuraukset tulevat todennäköisesti vaikuttamaan tuleviin taisteluihin, jos alueelliset vapautukset jatkuvat tällä vauhdilla.
+
+**LOCATION:** Konstantinovka / Konstantinovka, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Константиновка)
+
+**KEYWORDS:** #российские #минобороны рф #вс рф #российские военные #министерство обороны #гарнизон #командование #сво #сф #часть #про
+
+
+## UAV-launching paikka tunnistettu Kerchissä, mikä johti neljään kuolemaan
+Kesäkuun 21. päivänä 2026 kerrottiin, että Ukrainan drooneja laukaisettiin Kerchin niemimaalle, mikä johti hyökkäykseen, joka tappoi neljä ja haavoitti 28 muuta. Venäjän puolustusministeriö ilmoitti, että ilmapuolustusvoimat keskeyttivät 239 dronea eri alueilla, ja Kuivan Salmen liikenne on keskeytetty näiden tapahtumien vuoksi. [14]
+
+**COMMENT:** Tämä tapahtuma korostaa alueen jatkuvia sotilaallisia jännitteitä ja UAV:n käyttöä konfliktissa, mikä voi johtaa entistä lisääntyviin vihamielisyyksiin. Laivalastiliikenteen tilapäinen keskeytys voi myös viitata tiukentuneisiin turvallisuustoimiin näiden hyökkäysten vastauksena.
+
+**LOCATION:** Kerch / Kerch, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Керчь)
+
+**KEYWORDS:** #российские #минобороны рф #минобороны #пво #сво #беспилотник #бпла #перехват #сф #часть #про
+
+
+## Venäjän ilmapuolustusvoimat tuhoavat 483 ukrainalaista UAV:ta yhden päivän aikana
+Kesäkuun 21. päivänä 2023 Venäjän puolustusministeriö raportoi, että maan ilmapuolustusvoimat tuhosivat 483 ukrainalaista miehittämätöntä ilma-alusta (UAV) päivän aikana, mukaan lukien kahdeksan ohjattua ilma-aseita. Tuhot tapahtui eri alueilla, mukaan lukien Belgorod, Astrahan, Bryansk, Kursk, Rostov ja Orel, sekä Azov- ja Mustanmeren vesillä. [15]
+
+**COMMENT:** Suuri määrä tuhoamia UAV:ita viittaa jatkuvaan operatiiviseen toimintaan ja korkeaan sitoutumiseen etulinjoilla. Tämä saattaa viitata sotilaallisten yhteenottojen voimistumiseen, kun Ukraina jatkaa drone-sota-strategioita.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #минобороны рф #минобороны россии #минобороны #пво #противовоздушная оборона #сво #беспилотник #бпла #перехват #про
+
+
+## Kolmatoista haavoittunutta hyökkäyksessä lapsileirillä Tuovassa
+Kesäkuun 21. päivänä 2023 kolmetoista henkilöä haavoittui humalaisen miehen hyökkäyksessä "Eagle" -lapsileirillä Chagytai-järven rannalla Tuovassa. Hyökkääjä pidätettiin leirin henkilöstön toimesta ja toimitettiin lainvalvontaviranomaisille vahingon aiheuttamisen jälkeen. [16]
+
+**COMMENT:** Tämä tapaus heijastaa potentiaalisia turvallisuusvulnerabiliteettejä lastenhoitopalveluissa Venäjällä, erityisesti humalaisiin henkilöihin liittyen. Paikallisten viranomaisten voidaan tarvita arvioida leirien turvallisuusprotokollia estääkseen tulevat tapahtumat.
+
+**LOCATION:** Tuva / Tuva, 51.4017149, 93.8582593 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.401715&mlon=93.858259#map=8/51.401715/93.858259) (Тува)
+
+**KEYWORDS:** #россия #корпус #про
+
+
+## Venäjän ilmavoimat kohdistavat ukrainalaisiin militantteihin Donetskin kansantasavallassa
+Kesäkuun 21. päivänä 2023 Venäjän ilmavoimat suorittivat ilmaiskun käyttäen FAB-1500 pommeja ukrainalaisia militantteja kohtaan, jotka vetäytyivät punaisesta Limanista Donetskin kansantasavallassa (DPR). Venäjän puolustusministeriö raportoi iskun tuhoavan noin 30 sotilasta ukrainalaisesta 63. erillisestä mekanisoidusta prikaatista, jotka käyttivät entistä sisäoppilaitosta Shchurovon alueella tilapäisenä tukikohtana. [17]
+
+**COMMENT:** Tämä ilmaisku heijastaa Venäjän jatkuvia sotilaallisia operaatioita ukrainalaisia joukoita vastaan DPR:ssä, mikä viittaa jatkuviin ponnisteluihin alueiden valloittamiseksi. Kohdistettu lähestymistapa vetäytyviin joukkoihin korostaa pyrkimystä häiritä ukrainalaisten siirtymistä kesken jatkuvan konfliktin.
+
+**LOCATION:** Punainen Liman / Red Liman, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Красный Лиман)
+
+**KEYWORDS:** #российские #минобороны рф #минобороны россии #мо рф #вооруженные силы рф #вс рф #минобороны #армия россии #воздушно-космические силы #вкс #удар #авиаудар #бпла #пуск #армия #про
+
+
+## Ushakov: Venäjä odottaa voittoa eikä Anchorage-sopimusten täyttämistä
+Kesäkuun 21. päivänä 2022 Yuri Ushakov, Venäjän presidentin avustaja, ilmoitti, että Venäjä ei odota Anchorage-sopimusten täyttäminen ja keskittyy sen sijaan voiton saavuttamiseen ja omien tavoitteidensa toteuttamiseen. Hän korosti, että Moskovan kanta pysyy juurtuneena sen aikaisemmin vahvistettuihin periaatteisiin käynnissä olevassa konfliktissa. [18]
+
+**COMMENT:** Ushakovin lausunto korostaa Venäjän lujatahtoista suhtautumista strategisiin tavoitteisiinsa, mikä viittaa mahdolliseen haluttomuuteen tehdä kompromisseja tulevissa neuvotteluissa. Tämä voi viitata kielteisiin käänteisiin retoriikassa ja toiminnassa, kun Venäjä pyrkii aggressiivisemmin toteuttamaan tavoitteitaan konfliktissa.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #призыв #сво #часть #про
+
+
+## Putin tapaa sotilasuniversiteetin valmistujia ja pitää strategisia neuvotteluja
+Kesäkuun 21. päivänä 2023 Venäjän presidentti Vladimir Putin on suunnitellut sarjan neuvotteluja, mukaan lukien tapaamista sotilasuniversiteettien valmistujien kanssa, joille hän myöntää Zhukovin kunniamerkin presidentin rykmentille. Nämä neuvottelut ovat osa laajempaa agendaa, johon kuuluu keskusteluja hallituksen ja turvallisuusneuvoston kanssa, ja ne korostavat ilmailun kehittämistä. [19]
+
+**COMMENT:** Tämä neuvottelujen sarja heijastaa Putinin jatkuvaa painotusta sotilaallisen ja puolustuksen valmiuden parantamiseen, mikä korostaa sotilas koulutuksen merkitystä Venäjän strategisessa viitekehyksessä. Painotus ilmailun kehittämisessä viittaa mahdolliseen keskittymiseen sotilaallisten kykyjen parantamiseen ja valtion turvallisuushankkeiden vahvistamiseen lähitulevaisuudessa.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #российский #полк #пуск #про
+
+
+## Venäjän asevoimat varmistavat 53 rakennusta Krasny Limanissa
+Kesäkuun 21. päivänä 2023 Venäjän asevoimat ilmoittivat ottaneensa haltuunsa 53 rakennusta Krasny Limanissa Donetskin kansantasavallassa ukrainalaisten joukkojen kanssa käydyn taistelun jälkeen. Operaatio johti yli 30 militantin kuolemaan ja useiden vihollisvarustuksen tuhoamiseen, mikä osoittaa jatkuvia sotilaallisia toimia alueen valloittamiseksi. [20]
+
+**COMMENT:** Rakennusten puhdistaminen Krasny Limanilla korostaa Venäjän armeijan jatkuvaa operatiivista keskittymistä alueen hallinnan palauttamiseen. Tämä tapahtuma voi toimia indikaattorina Itä-Ukrainan dynaamisesta sotilaallisesta osallistumisesta ja vaikuttaa tuleviin strategisiin toimiin alueella.
+
+**LOCATION:** Krasny Liman / Krasny Liman, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Красный Лиман)
+
+**KEYWORDS:** #россия #российские #минобороны рф #мо рф #вооруженные силы рф #вс рф #российская армия #российские военные #российские военнослужащие #минобороны #полк #сво #армия #про
+
+
+## Venäjän armeija tyhjentää 53 rakennusta Krasny Limanista ukrainalaisista militanteista
+Kesäkuun 21. päivänä 2026 Venäläiset joukot onnistuneesti tyhjensivät 53 rakennusta ukrainalaisista militanteista Krasny Limanissa, Donetskin kansantasavallassa. Tämä operaatio, jonka toteutti Lännen sotilasryhmä, johti yli 30 ukrainalaisen sotilaan kuolemaan ja on osa laajempaa ponnistusta alueen varmistamiseksi. [23]
+
+**COMMENT:** Tämä onnistunut puhdistustoimenpide heijastaa jatkuvaa sotilaallista painetta ukrainalaisiin asemiin, mikä osoittaa strategista yritystä vakiinnuttaa hallintoa Donetskin alueella. Tulevat operaatiot voivat keskittyä vastaaviin urbaanisiin alueisiin, mikä saattaa johtaa lisääntyneisiin yhteenottoihin lähiviikkoina.
+
+**LOCATION:** Krasny Liman / Krasny Liman, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Красный Лиман)
+
+**KEYWORDS:** #российские #минобороны россии #вс рф #вс россии #минобороны #полк #сво #часть #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1097151?utm_source=top
-
-[2] interfax.ru - https://interfax.ru/russia/1097168?utm_source=top
-
-[3] interfax.ru - https://interfax.ru/russia/1097152?utm_source=top
-
-[4] interfax.ru - https://interfax.ru/russia/1097179?utm_source=top
-
-[5] interfax.ru - https://interfax.ru/russia/1097185
-
-[6] interfax.ru - https://interfax.ru/russia/1097184
-
-[7] interfax.ru - https://interfax.ru/russia/1097183
-
-[8] interfax.ru - https://interfax.ru/russia/1097178
-
-[9] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
-
-[10] interfax.ru - https://interfax.ru/russia/1097182
-
-[11] interfax.ru - https://interfax.ru/russia/1097181
-
-[12] interfax.ru - https://interfax.ru/russia/1097180
-
-[13] interfax.ru - https://interfax.ru/russia/1097179
-
-[14] aif.ru - https://aif.ru/politics/medvedev-nikakih-pravil-v-otnoshenii-kieva-bolshe-net-i-byt-ne-mozhet-byt
-
-[15] www.vesti.ru - https://www.vesti.ru/ns/sily-pvo-za-sutki-sbili-740-bespilotnikov-vsu
-
-[16] www.vesti.ru - https://www.vesti.ru/ns/stavropolskij-kraj-chastichno-obestochen-posle-obilnykh-osadkov
-
-[17] www.vesti.ru - https://www.vesti.ru/ns/stalo-izvestno-kogda-karty-visa-i-mastercard-vyvedut-iz-obrashcheniya-v-rossii
-
-[18] www.vesti.ru - https://www.vesti.ru/ns/vsu-za-sutki-poteryali-okolo-1370-bojcov
-
-[19] www.vesti.ru - https://www.vesti.ru/ns/v-lenoblasti-odin-chelovek-postradal-v-dtp-s-avtobusom-perevozivshim-40-detej
-
-[20] www.vesti.ru - https://www.vesti.ru/ns/v-podmoskove-potushili-pozhar-na-stroitelnom-rynke
-
-[21] www.vesti.ru - https://www.vesti.ru/ns/voennye-rf-osvobodili-94-zdaniya-v-konstantinovke-za-sutki
-
-[22] www.kp.ru - https://www.kp.ru/daily/277791.5/5265163/
-
-[23] www.kp.ru - https://www.kp.ru/daily/277791.5/5265638/
-
-[24] www.kp.ru - https://www.kp.ru/online/news/7031611/
-
-[25] www.kp.ru - https://www.kp.ru/online/news/7031610/
+[1] Interfax - https://interfax.ru/russia/1097266?utm_source=top  
+[2] Interfax - https://interfax.ru/russia/1097276?utm_source=top  
+[3] Interfax - https://interfax.ru/russia/1097273?utm_source=top  
+[4] Interfax - https://interfax.ru/russia/1097281?utm_source=top  
+[5] Interfax - https://interfax.ru/russia/1097289?utm_source=top  
+[6] Interfax - https://interfax.ru/russia/1097307  
+[7] Interfax - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html  
+[8] Interfax - https://interfax.ru/russia/1097302  
+[9] Interfax - https://interfax.ru/russia/1097301  
+[10] Interfax - https://interfax.ru/russia/1097299  
+[11] Interfax - https://interfax.ru/russia/1097298  
+[12] Interfax - https://interfax.ru/russia/1097297  
+[13] AIF - https://aif.ru/society/posypalas-vazhnaya-krepost-vsu-glavnaya-novost-svo-21-iyunya  
+[14] AIF - https://aif.ru/incidents/stalo-izvestno-otkuda-zapustili-bpla-v-kerch-gde-pogibli-4-cheloveka  
+[15] Vesti - https://www.vesti.ru/ns/sily-pvo-za-sutki-likvidirovali-483-ukrainskikh-bpla  
+[16] Vesti - https://www.vesti.ru/ns/predvaritelno-13-chelovek-postradali-ot-napadeniya-muzhchiny-v-lagere-v-tyve  
+[17] Vesti - https://www.vesti.ru/ns/vks-rossii-aviabombami-fab-1500-udarili-po-otstupayushchim-boevikam-vsu-v-dnr  
+[18] Vesti - https://www.vesti.ru/ns/ushakov-rf-zhdet-pobedy-a-ne-vypolneniya-dostignutykh-v-ankoridzhe-dogovorennostej  
+[19] Vesti - https://www.vesti.ru/ns/putin-vstretitsya-s-vypusknikami-voennykh-vuzov-i-provedet-neskolko-soveshchanij  
+[20] Vesti - https://www.vesti.ru/ns/vs-rf-zachistili-eshche-53-zdaniya-v-krasnom-limane  
+[21] Vesti - https://www.vesti.ru/ns/voennye-rf-osvobodili-ot-vsu-104-zdaniya-v-konstantinovke  
+[22] Vesti - https://www.vesti.ru/ns/minehnergo-nakhoditsya-v-postoyannom-vzaimodejstvii-s-mo-dlya-zashchity-infrastruktury  
+[23] KP - https://www.kp.ru/online/news/7032531/
