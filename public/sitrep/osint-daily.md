@@ -1,149 +1,178 @@
-# Report Date: 2026-06-22
+# Report Date: 2026-06-23
 
 ## Summary
-During the reporting period, several key developments occurred in Russia and surrounding regions, indicating ongoing tensions and government initiatives. The Federal Antimonopoly Service took steps to regulate fuel prices amidst rising costs. Concurrently, notable military activities in Ukraine resulted in civilian injuries from drone strikes, underscoring the conflict's impact on everyday life. Additionally, legal actions against business figures suggest a focus on corruption and stability in the economic sector. Future developments may include increased regulatory scrutiny and ongoing military responses in conflict areas.
+The reporting period has seen heightened military and political tensions, primarily surrounding Russian commitments to Belarus and ongoing operations in Ukraine. Russian officials have articulated firm support for Belarus in the face of perceived threats, while military actions in Eastern Ukraine continue amidst claims of disrupted Ukrainian plans. Additionally, domestic measures indicate a focus on economic stability and military readiness, suggesting potential challenges ahead as Russia navigates its alliances and responses to external pressures.
 
-## Federal Antimonopoly Service Blocks Fuel Sale Ads on Marketplaces
-On June 22nd, 2026, the Federal Antimonopoly Service (FAS) in Russia collaborated with digital marketplaces, including Avito, Ozon, and Wildberries, to prevent speculative fuel resale. The measures involved blocking ads for fuel sales and performing inspections on the wholesale market to ensure compliance with pricing regulations. [1]
+## Lavrov Affirms Moscow's Commitment to Protect Belarus
+On June 23rd, 2026, Russian Foreign Minister Sergei Lavrov stated at an ambassadorial round table that Moscow is prepared to fulfill its obligations under a security agreement with Belarus to protect it against threats perceived from Ukraine. He emphasized that the remarks of Ukrainian President Volodymyr Zelensky are intended to escalate the conflict and undermine diplomatic resolution prospects, reaffirming Russia's commitment to its ally. [1]
 
-**COMMENT:** The FAS's actions indicate a proactive approach to control fuel pricing, reflecting ongoing concerns about market stability amid rising fuel costs. This could lead to increased regulatory scrutiny on broader market practices and further interventions aimed at stabilizing essential commodities in the near future.
+**COMMENT:** This declaration indicates Russia's determination to bolster its security commitments in the region amid escalating tensions. The situation suggests that Moscow may increase military and political support for Belarus as tensions with Ukraine rise, potentially impacting regional stability.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #удар
+
+
+## FAS Enhances Control Over Fuel Sales for Farmers Across Multiple Districts
+On June 23rd, 2026, the Federal Antimonopoly Service (FAS) of Russia directed 16 regional authorities in the Volga, Ural, Siberian, and Northwestern Federal districts to bolster oversight of fuel sales for agricultural producers. This measure aims to ensure compliance with antimonopoly legislation, particularly during the critical seasonal field work period. [2]
+
+**COMMENT:** This heightened control reflects ongoing efforts by Russian authorities to secure fuel availability for the agricultural sector, potentially mitigating risks of supply disruptions. Future enforcement actions may impact fuel pricing and availability, influencing agricultural productivity and market stability.
+
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
+
+**KEYWORDS:** #russia #учения #сво #сф #про
+
+
+## State Duma Adopts Draft Law to Clarify Operations of Mail of Russia
+On June 23rd, 2026, the State Duma in Moscow adopted a draft law in its first reading aimed at clarifying the operations of JSC Mail of Russia. This legislative initiative, which includes amendments to existing postal and communication laws, seeks to enhance the efficiency of postal services throughout the Russian Federation. [3]
+
+**COMMENT:** The adoption of this draft law indicates a continued government focus on restructuring state-affiliated enterprises like Mail of Russia to improve service delivery. This could signal upcoming regulatory changes that might influence the commercial landscape of postal services in Russia.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #удар #сво #про
+
+
+## Putin States Russian Forces Are Nearing Completion of Operations in Konstantinovka
+On June 23rd, 2026, President Vladimir Putin announced that the Russian Armed Forces are 'practically finishing' their operations in Konstantinovka, located in the Donetsk People's Republic. He claimed that despite ongoing military actions, pockets of resistance remain, with some individuals hiding in basements, and reiterated the legitimacy of separatist claims in the region. [4]
+
+**COMMENT:** This statement underscores the ongoing military objectives of Russia in Eastern Ukraine, reflecting continued commitment to its operations in the region. The declaration may serve to bolster domestic support for military actions while signaling to Ukraine that resistance will be met with sustained force.
+
+**LOCATION:** Konstantinovka / Konstantinovka,  ,  [Click for Map Location](#) 
+
+**KEYWORDS:** #russia #вооруженные #силы #россии #удар #пуск #про
+
+
+## LDPR Announces Federal List for State Duma Elections Led by Slutsky
+On June 23rd, 2026, the Liberal Democratic Party of Russia (LDPR) revealed its federal list for the upcoming State Duma elections during a congress held in Moscow. Led by party leader Leonid Slutsky, the list includes notable figures such as Alexei Vereshchagin, Maria Voropaeva, and Boris Chernyshov, reflecting strategic party positioning ahead of the elections. [5]
+
+**COMMENT:** This development signals the LDPR's readiness for the electoral process, highlighting key individuals who may influence Russian legislative priorities. The inclusion of high-profile members could strengthen the party's appeal and voter base in a politically competitive environment.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #россия #штаб #сво #часть #про
+
+
+## Putin Warns the West of Retaliation Against Attacks on Russia
+On June 23rd, 2026, Russian President Vladimir Putin stated that the West is aware that any attacks on Russia from their territories would provoke a response from Moscow. He emphasized that it is understood, or should be understood, that such actions would lead to retaliation, particularly during a conversation with military academy graduates in Moscow. [6]
+
+**COMMENT:** Putin's remarks underscore the Kremlin's ongoing emphasis on deterrence and the potential for heightened military tensions with the West. This rhetoric may signal a preemptive stance in response to perceived Western aggression or military actions near Russian borders.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #удар #сво #пуск
+
+
+## Power Supply Disruption in Crimea
+On June 23rd, 2026, power supply disruptions were reported in central, southern, and eastern Crimea due to technological violations in electric networks, according to the state enterprise Krymenergo. Areas affected include Simferopol, Yalta, and Alushta, with restoration efforts ongoing and expected to conclude within a day. [7]
+
+**COMMENT:** This power disruption highlights vulnerabilities in Crimea's infrastructure amid ongoing regional tensions. Continued issues in critical services may indicate broader challenges for governance and stability in the area.
+
+**LOCATION:** SPARTA CRIMEA / SPARTA CRIMEA, 45.037057, 38.9756473 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.037057&mlon=38.975647#map=8/45.037057/38.975647)
 
 **KEYWORDS:** #russia #про
 
 
-## Ministry of Education Monitors Children's Return from Crimea
-On June 22nd, 2026, the Ministry of Education of Russia announced that it is overseeing the organized removal of children from the Crimea, particularly from the 'Artek' camp, where children's recreational activities have been suspended. An operational headquarters has been established to address this situation, and all measures are being taken to ensure the safety of the children as they return home. [2]
+## Gazprom Energoholding Begins Commissioning of South Yakutsk TPP
+On June 23rd, 2026, Gazprom Energoholding commenced the commissioning phase of the South Yakutsk Thermal Power Plant (TPP) in the Republic of Sakha (Yakutia). This development aims to enhance electricity supply to the eastern regions of Russia, particularly benefiting the railway infrastructure and supporting regional electrification efforts. [8]
 
-**COMMENT:** This development reflects ongoing government oversight and control over youth activities in Crimea, indicating a strong emphasis on state management of children's welfare. The situation may reveal underlying concerns related to safety and stability in the region amidst changing circumstances.
+**COMMENT:** The commissioning of the South Yakutsk TPP highlights ongoing investments in Russia's energy infrastructure, which is critical for supporting regional projects and strategic transport networks. This initiative may strengthen Gazprom's role in energy supply, possibly impacting future energy policy and rail logistics in the Far East.
 
-**LOCATION:** SPARTA CRIMEA / SPARTA CRIMEA, 45.037057, 38.9756473 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.037057&mlon=38.975647#map=8/45.037057/38.975647)
+**LOCATION:** Republic of Sakha (Yakutia) / Republic of Sakha (Yakutia),  ,  [Click for Map Location](#) 
 
-**KEYWORDS:** #russia #российский #штаб #призыв #сф #про
-
-
-## Drone Strike on Bus in Horlivka Injures 14 People
-On June 22nd, 2026, a Ukrainian drone strike in Horlivka, part of the Donetsk People's Republic, injured 14 individuals, according to city mayor Ivan Prikhodko. This incident highlights ongoing tensions in the region and raises concerns over civilian safety during military engagements. [3]
-
-**COMMENT:** This drone strike underscores the continued conflict dynamics impacting civilians in Ukraine, particularly in areas controlled by Russian-backed separatists. In the near term, such attacks may influence the security measures or responses by both local authorities and military forces in eastern Ukraine.
-
-**LOCATION:** Horlivka / Horlivka, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=Unknown&mlon=Unknown)
-
-**KEYWORDS:** #russia #удар #беспилотник #про
+**KEYWORDS:** #российские #учения #полигон #корпус #сво #пуск #про
 
 
-## Drone Attack Injures Civilians in Rylsk and Shebekin
-On March 9th, 2026, a drone attack in Rylsk injured a 38-year-old woman, who suffered a closed traumatic brain injury but refused hospitalization. Additionally, an explosion from a UAV in Shebekin resulted in a man sustaining a shrapnel wound, highlighting ongoing risks to civilians in border regions amid the military operations in Ukraine. [4]
+## Sochi Airport Faces Multiple Work Interruptions in One Day
+On June 23rd, 2026, Sochi Airport experienced its fifth interruption of services for the day, with restrictions imposed on the reception and dispatch of aircraft. The latest disruption, which lasted approximately an hour and a half, highlights ongoing operational challenges at this critical transport hub. [9]
 
-**COMMENT:** The drone attacks reflect continued instability along the Russian-Ukrainian border, indicating persistent security threats to civilian populations. The targeting of populated areas may provoke further responses from Russian authorities as concerns over internal security heighten.
+**COMMENT:** The repeated interruptions at Sochi Airport could indicate underlying issues in air traffic management or operational capacity. Continued disruptions may affect transport logistics and tourism in the region, reflecting broader vulnerabilities in Russian infrastructure management.
 
-**LOCATION:** Ryl'sk / Ryl'sk, 51.570538, 34.683506 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.570538&mlon=34.683506#map=8/51.570538/34.683506)
+**LOCATION:** Sochi / Sochi, 43.5854823, 39.723109 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.585482&mlon=39.723109#map=8/43.585482/39.723109) (Сочи)
 
-**KEYWORDS:** #российские #минобороны рф #российские военные #минобороны #министерство обороны #пво #штаб #бригада #удар #сво #беспилотник #бпла #про
-
-
-## Victims from Drone Strike on Bus in Horlivka Rise to 13
-On June 22nd, 2026, a drone strike on a passenger bus in Horlivka, located in the Donetsk People's Republic, resulted in 13 injuries. The incident highlights ongoing security concerns in the region amidst continued hostilities. [5]
-
-**COMMENT:** This drone strike reflects escalating tensions and violence in the conflict zone, suggesting potential for further military confrontations. The implications for civilian safety and regional stability may prompt increased responses from local authorities and military operations.
-
-**LOCATION:** Horlivka / Horlivka, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=Unknown&mlon=Unknown)
-
-**KEYWORDS:** #russia #удар #беспилотник #бпла #про
+**KEYWORDS:** #russia #про
 
 
-## Extension of Preferential Land Registration for Infrastructure Proposed Until 2031
-On June 22nd, 2026, a group of deputies in the State Duma proposed a bill to extend the preferential registration of land rights for infrastructure until January 1, 2031. This extension includes a simplified procedure for natural monopolies and telecom operators regarding public servitude for land use linked to linear objects created before December 30, 2004. [6]
+## Authorities Permit Transport of 200 Liters of Fuel Across the Crimean Bridge
+On June 23rd, 2026, authorities announced that it is now permissible to transport up to 200 liters of fuel in a car across the Crimean Bridge, an increase from the previous limit of 100 liters. This change is part of ongoing gasoline supply measures to meet increased demand in the region. [10]
 
-**COMMENT:** This legislative action reflects ongoing efforts to streamline land use regulations associated with essential infrastructure in Russia. The extension may indicate the government's intention to maintain support for infrastructure development as a means to bolster economic stability.
+**COMMENT:** This policy adjustment reflects the regional authorities' efforts to address fuel supply challenges amid rising demand. In the near term, this could facilitate improved logistical operations for fuel distribution in Crimea, impacting local economic conditions.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Crimean Bridge / Crimean Bridge,  ,  [Click for Map Location](#) 
 
-**KEYWORDS:** #russia #удар #про
-
-
-## Drone Strike on Bus in Horlivka Injures 13 People
-On June 22nd, 2026, a drone strike on a civilian bus in Horlivka, Donetsk People's Republic, resulted in injuries to 13 people, according to city mayor Ivan Prikhodko. The attack was attributed to Ukrainian armed forces and underscores ongoing hostilities in the region. [7]
-
-**COMMENT:** This incident reflects the continuing conflict dynamics in Eastern Ukraine, particularly the use of drones in hostilities. Increased civilian casualties may lead to heightened tensions and calls for further international scrutiny of the situation.
-
-**LOCATION:** Horlivka / Horlivka, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=Unknown&mlon=Unknown)
-
-**KEYWORDS:** #russia #удар #беспилотник #бпла #про
+**KEYWORDS:** #russia #про
 
 
-## Legal Proceedings Begin for Embezzlement Case Involving Business Figures in Russia
-On June 22nd, 2026, the Prosecutor General's Office of the Russian Federation sent a criminal case to the Presnensky District Court in Moscow regarding the embezzlement of 14 billion rubles. The case involves Kirill Yakubovsky, former co-owner of the ABC of Taste network, and Pavel Maslovsky, founder of the Petropavlovsk gold mining company, who are accused of forming a criminal community and embezzlement. [8]
+## Russian Military Disrupts Ukrainian Offensive Plans for Crimea
+On June 22nd, 2026, the Russian military successfully disrupted an operation planned by Ukrainian forces aimed at launching an offensive toward Crimea. The operation was intended to coincide with a significant commemorative date, but Russian forces executed a comprehensive counteraction, thwarting Ukrainian attempts to advance in the Kherson and Zaporozhye regions. [11]
 
-**COMMENT:** This case highlights ongoing legal actions against significant figures in the Russian business sector, indicating potential vulnerabilities within high-profile corporate governance. As investigations unfold, it may signal an intensified focus on financial crimes and corruption within Russia's economic landscape.
+**COMMENT:** This event reflects the ongoing strategic tensions surrounding Crimea and illustrates Russia's proactive military posture in the face of potential Ukrainian operations. The thwarted offensive could indicate heightened military readiness and operational developments in both states moving forward.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Crimea / Crimean Peninsula, 45.2835044, 34.2008188 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.283504&mlon=34.200819#map=8/45.283504/34.200819) (Крым)
 
-**KEYWORDS:** #russia #сво #про
-
-
-## Putin Commemorates Remembrance Day at the Tomb of the Unknown Soldier
-On June 22nd, 2026, President Vladimir Putin participated in a ceremony at the Tomb of the Unknown Soldier in Moscow, laying a wreath to honor the victims of the Great Patriotic War on its 85th anniversary. This event underscores Russia's continued emphasis on memorializing its military history and sacrifices, reflecting state priorities in national identity and historical remembrance. [9]
-
-**COMMENT:** The event signifies the Russian government's commitment to maintaining the narrative around the Great Patriotic War as a cornerstone of national pride and identity. Moving forward, such commemorations may play a crucial role in reinforcing public support for the state and its historical narratives amid ongoing geopolitical tensions.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
-
-**KEYWORDS:** #russia #гарнизон #удар #сво #сф #часть #про
+**KEYWORDS:** #российские #вс #рф #российские #военные #полк #удар #сво #беспилотник #сф #часть #про
 
 
-## Russia Strikes Ukraine in Response to Drone Attacks on Crimea
-On June 21st, 2026, Ukrainian drones attacked the Kerch Peninsula, resulting in civilian casualties and the suspension of ferry services. In retaliation, Russian forces launched strikes against Ukrainian Armed Forces positions, claiming to have intercepted a significant number of drones across various regions, including Crimea. [10]
+## Putin Addresses Military Graduates, Emphasizes Readiness Against Threats
+On June 23rd, 2026, Russian President Vladimir Putin delivered a speech to graduates of military universities, underscoring the critical role of future officers in various state security agencies. He highlighted the importance of combating terrorism and modernizing Russia's military capabilities, while asserting the country's readiness to respond to both internal and external threats amidst ongoing tensions with NATO countries. [20]
 
-**COMMENT:** The escalation in hostilities underscores ongoing tensions and could signal a shift in the scale of military engagements in the region. Future retaliatory measures may intensify as both sides respond to attacks, potentially impacting the broader strategic landscape in Ukraine.
+**COMMENT:** Putin's remarks signal a continued focus on military readiness and modernization, reflecting ongoing security concerns. The emphasis on immediate response capabilities may indicate heightened vigilance and potential escalations in Russia's military posture in the near term.
 
-**LOCATION:** Kerch Peninsula / Kerch Peninsula, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=Unknown&mlon=Unknown)
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
 
-**KEYWORDS:** #россия #российские #минобороны рф #российские военные #минобороны #пво #полк #удар #беспилотник #бпла #перехват #про
-
-
-## Likhachev Reports Increase in Ukrainian Strikes on Energodar
-On June 22nd, 2023, Alexey Likhachev, the Director General of Rosatom, reported a significant increase in attacks by Ukrainian Armed Forces on Energodar, the city adjacent to the Zaporizhzhia nuclear power plant. Likhachev noted that despite the shelling, both the personnel of the nuclear power plant and the residents continue to perform their duties, indicating a resilient local response to the heightened hostilities. [11]
-
-**COMMENT:** This escalation in shelling highlights ongoing tensions in the region and Ukraine's strategic targeting of infrastructure. The continued operational capacity of local authorities may suggest effective resilience measures but also points to a potential for further instability in the area.
-
-**LOCATION:** Energodar / Energodar, Unknown, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=Unknown&mlon=Unknown)
-
-**KEYWORDS:** #россия #удар #сво #сф #про
+**KEYWORDS:** #россия #флот #офицер #удар #сво #пуск #про
 
 
-## Russian Foreign Ministry Calls on Armenia to Decide Between EAEU and EU
-On June 22nd, 2023, the Russian Foreign Ministry urged Armenia to quickly decide whether to align with the Eurasian Economic Union (EAEU) or the European Union (EU). Russian officials, including spokeswoman Maria Zakharova, emphasized the importance of a clear decision, suggesting that a national referendum may be needed to gauge public opinion on the matter. [12]
+## Lavrov: Russia Ready to Take All Measures to Protect Union State
+On June 23rd, 2026, Russian Foreign Minister Sergey Lavrov stated that Russia is prepared to take all necessary measures to ensure the protection of the Union State, which refers to the alliance between Russia and Belarus. This statement underscores Russia's commitment to its military and political partnerships and may indicate increased regional security posturing amid ongoing geopolitical tensions. [21]
 
-**COMMENT:** This development highlights the ongoing geopolitical pressures on Armenia amid its relationships with both Russia and the EU. A shift in Armenia's position could significantly impact regional dynamics within the EAEU and the broader context of Russian influence in the South Caucasus.
+**COMMENT:** Lavrov's remarks reflect Moscow's strategic focus on safeguarding its alliance with Belarus against perceived external threats. Such declarations could lead to heightened military readiness or joint exercises in the region.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
 
-**KEYWORDS:** #россия #сво #про
-
-
-## Aksakov: State Withdrawal of Citizens' Bank Funds is Unprofitable
-On June 22nd, 2026, Russian Deputy Anatoly Aksakov stated that it would be detrimental for the state to withdraw citizens' funds from banks, arguing that such actions would undermine the economy by depleting resources essential for lending and financial transactions. This statement followed comments by Communist Party leader Gennady Zyuganov regarding the substantial deposits held in banks, highlighting concerns over the management of citizens' savings. [13]
-
-**COMMENT:** Aksakov's remarks underline a prevailing reluctance within the government to disrupt the banking sector, which could indicate a prioritization of economic stability amidst broader financial concerns. Future discussions may signal shifts in fiscal policies as the government navigates pressures from public sentiment and political leaders regarding economic management.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #россия #удар #про
+**KEYWORDS:** #россия #удар
 
 
 # Sources
-[1] interfax.ru - https://interfax.ru/russia/1097479?utm_source=top  
-[2] interfax.ru - https://interfax.ru/russia/1097478?utm_source=top  
-[3] interfax.ru - https://interfax.ru/russia/1097578  
-[4] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html  
-[5] interfax.ru - https://interfax.ru/russia/1097573  
-[6] interfax.ru - https://interfax.ru/russia/1097571  
-[7] interfax.ru - https://interfax.ru/russia/1097568  
-[8] interfax.ru - https://interfax.ru/russia/1097565  
-[9] aif.ru - https://aif.ru/politics/russia/putin-vozlozhil-venok-k-mogile-neizvestnogo-soldata-v-godovshchinu-voyny  
-[10] aif.ru - https://aif.ru/society/kiev-i-odessa-goryat-posle-udarov-po-krymu-otvet-porazil-vsu-i-nato  
-[11] www.vesti.ru - https://www.vesti.ru/ns/likhachev-zayavil-o-desyatkakh-udarov-vsu-po-ehnergodaru-za-poslednie-dni  
-[12] www.vesti.ru - https://www.vesti.ru/ns/v-mid-rossii-prizvali-armeniyu-skoree-opredelitsya-s-vyborom-mezhdu-eaehs-i-es  
-[13] rg.ru - https://rg.ru/2026/06/22/aksakov-zaiavil-chto-gosudarstvu-nevygodno-izymat-sredstva-rossiian-iz-bankov.html
+
+[1] interfax.ru - https://interfax.ru/russia/1097697?utm_source=top
+
+[2] interfax.ru - https://interfax.ru/russia/1097679?utm_source=top
+
+[3] interfax.ru - https://interfax.ru/russia/1097762
+
+[4] interfax.ru - https://interfax.ru/russia/1097765
+
+[5] interfax.ru - https://interfax.ru/russia/1097758
+
+[6] interfax.ru - https://interfax.ru/russia/1097760
+
+[7] interfax.ru - https://interfax.ru/russia/1097759
+
+[8] interfax.ru - https://interfax.ru/business/1097755
+
+[9] interfax.ru - https://interfax.ru/russia/1097752
+
+[10] interfax.ru - https://interfax.ru/russia/1097753
+
+[11] aif.ru - https://aif.ru/society/vsu-vzvyli-ot-uzhasa-pod-krymom-glavnaya-novost-svo-23-iyunya
+
+[12] aif.ru - https://aif.ru/society/rasplata-za-ataki-rf-unichtozhaet-armiyu-ukrainy-glavnaya-novost-svo-23-iyunya
+
+[13] www.vesti.ru - https://www.vesti.ru/ns/putin-pismo-zelenskogo-ne-sozdaet-predposylok-dlya-peregovorov
+
+[14] www.vesti.ru - https://www.vesti.ru/ns/vs-rf-aktivno-vnedryayut-tekhniku-s-ii
+
+[15] www.vesti.ru - https://www.vesti.ru/ns/rossijskie-voennye-vedut-zachistku-pozicij-vsu-v-konstantinovke
+
+[16] www.vesti.ru - https://www.vesti.ru/ns/v-krymu-vremenno-otmenili-sportivnye-meropriyatiya-dlya-detej
+
+[17] www.vesti.ru - https://www.vesti.ru/ns/arochnyj-metallodetektor-upal-na-malysha-v-moskovskom-tc
+
+[18] www.vesti.ru - https://www.vesti.ru/ns/v-yuzhno-sakhalinske-prodolzhayut-borotsya-s-krupnym-pozharom-na-sklade
+
+[19] www.vesti.ru - https://www.vesti.ru/ns/prikhodko-chislo-postradavshikh-ot-udara-bpla-po-avtobusu-vozroslo-do-18
+
+[20] rg.ru - https://rg.ru/2026/06/23/vladimir-putin-naputstvoval-vypusknikov-voennyh-vuzov-v-ih-budushchej-deiatelnosti.html
+
+[21] ria.ru - https://ria.ru/20260623/lavrov-2100529833.html
