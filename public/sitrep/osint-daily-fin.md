@@ -1,257 +1,316 @@
-# Raporttipäivämäärä: 23. kesäkuuta 2026
+# Raportti päivämäärä: 2026-06-24
 
 ## Yhteenveto
-Raportointijaksolla Venäjän hallinto on vahvistanut sitoutumistaan sekä sisäiseen että ulkoiseen turvallisuuteen, erityisesti Belarusin suojelun osalta. Samalla on tullut useita ilmoituksia teollisuuden ja infrastruktuurin kehittämisestä, mikä voi vaikuttaa viljelyn tuotantoon ja energian saatavuuteen Venäjällä. Alueen jännitteet, erityisesti Ukrainaan liittyen, ovat edelleen korkealla ja saattavat johtaa lisääntyneeseen sotilaalliseen valmiuteen Moskovan piirissä. Tulevat kehitykset voivat sisältää intensiivisempää sotilas harjoittelua ja poliittista yhteistyötä.
+Raportointijaksolla Venäjällä keskityttiin merkittäviin kehityskulkuihin ilmailu- ja polttoaineteollisuudessa, mikä viittaa hallituksen pyrkimyksiin parantaa itsevarmuutta ja kapasiteettia kansainvälisiä pakotteita vastaan. Venäjän armeija jatkoi sotilaallisia operaatioita Ukrainassa, mikä korostaa alueen jännitteitä ja mahdollisia provokaatioita. Lähitulevaisuudessa voidaan odottaa lisäinvestointeja infrastruktuuriin ja tiukempia sääntöjä ilmailun turvallisuudessa.
 
-## Lavrov vahvistaa Moskovan sitoutumisen suojella Valko-Venäjää
-Venäjän ulkoministeri Sergei Lavrov sanoi 23. kesäkuuta 2026, että Moskova on valmis toteuttamaan turvallisuussopimuksen mukaisia velvoitteitaan Valko-Venäjän suojelemiseksi uhkilta, joita se näkee Ukrainasta. Hän korosti, että Ukrainan presidentti Volodymyr Zelenskin lausunnot on tarkoitettu konfliktin eskaloimiseksi ja diplomatian ratkaisu mahdollisuuksien heikentämiseksi. [1]  
+## Polttoaineiden toimitus ensisijaisena näkökohtana kausittain ja luonnollisten tekijöiden myötä
+Maaliskuun 24. päivänä 2026 varapääministeri Alexander Novak korosti polttoaineiden toimitusten priorisoimista alueilla, joilla on merkittäviä kausittaisia ja luonnollisia tekijöitä polttoainemarkkinoita käsittelevässä kokouksessa. Hän ohjeisti viranomaisia priorisoimaan logistiikkaa etäisillä alueilla, korostaen ajankohtaisen polttoaineen varastoinnin merkitystä kestävien elinolojen tukemiseksi.
 
-**COMMENT:** Tämä julistus osoittaa Venäjän päättäväisyyden vahvistaa turvallisuussitoumuksiaan alueella kasvavien jännitteiden keskellä. Tilanne viittaa siihen, että Moskova saattaa lisätä sotilaallista ja poliittista tukea Valko-Venäjälle Ukrainan kanssa kasvavan jännityksen seurauksena, mikä voi vaikuttaa alueen vakauteen.  
+**COMMENT:** Tämä päätös osoittaa hallituksen tietoisuutta etäisten alueiden kohtaamista haasteista polttoainelogistiikassa ja heijastaa proaktiivista lähestymistapaa näiden alueiden vakauden varmistamiseksi. Polttoaineen toimitusten priorisointi voi vaikuttaa resurssien jakamiseen ja logistisiin strategioihin tulevaisuudessa.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)  
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #russia #удар  
+**KEYWORDS:** #russia #сво #логистика #про
 
 
-## FAS tehostaa polttoaineen myynnin valvontaa maanviljelijöille useilla alueilla
-Venäjän kilpailuvirasto (FAS) ohjeisti 23. kesäkuuta 2026 16 alueellista viranomaista Volga, Ural, Siperia ja Luoteisen liittovaltion alueilla tehostamaan polttoaineen myynnin valvontaa maataloustuottajille. Tämä toimenpide tähtää kilpailulainsäädännön noudattamisen varmistamiseen erityisesti kriittisen kauden maataloustöiden aikana. [2]  
+## Mi-2-helikopterin onnettomuus Kubanissa, pilotti kuoli
+Maaliskuun 24. päivänä 2026 Mi-2-helikopteri syöksyi alas Slavyanskin alueella Kubanissa maatalousoperaatioiden aikana, mikä johti pilotin kuolemaan. Esitutkinnat viittaavat siihen, että helikopteri saattoi osua sähkölinjaan, mikä johti rikosjutun avaamiseen Länsi-Interregional Investigative Directorate for Transportin toimesta.
 
-**COMMENT:** Tämä tehostettu valvonta heijastaa Venäjän viranomaisten jatkuvia ponnistuksia varmistaa polttoaineen saatavuus maataloussektorilla, mikä voi lieventää toimitushäiriöiden riskejä. Tulevat valvontatoimet voivat vaikuttaa polttoaineen hinnoitteluun ja saatavuuteen, vaikuttaen maataloudelliseen tuottavuuteen ja markkinavakauteen.  
+**COMMENT:** Tapahtuma korostaa mahdollisia turvallisuusongelmia ilmailutoiminnassa maatalousympäristössä, herättäen huolta Venäjän sääntelyn valvonnasta. Tulevat tutkimukset voivat paljastaa järjestelmällisiä ongelmia, jotka vaikuttavat ilmailuturvallisuusstandardeihin alueella.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)  
+**LOCATION:** Slavyansk-na-Kubani / Slavyansk-na-Kubani, 45.2590875, 38.1244609 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.259087&mlon=38.124461#map=8/45.259087/38.124461) (Славянск-на-Кубани)
 
-**KEYWORDS:** #russia #учения #сво #сф #про  
+**KEYWORDS:** #russia #вертолет #про
 
 
-## Valtion Duma hyväksyi lakiluonnoksen Venäjän Postin toiminnan selkeyttämiseksi
-Moskova hyväksyi 23. kesäkuuta 2026 ensimmäisessä käsittelyssä lakiluonnoksen, joka tähtää JSC Venäjän Postin toiminnan selkeyttämiseen. Tämä lainsäädäntöaloite, joka sisältää muutoksia olemassa oleviin posti- ja viestintälakeihin, pyrkii parantamaan postipalveluiden tehokkuutta koko Venäjän federaatiossa. [3]  
+## Moskova lyhentää UAV-yrityksiä
+Maaliskuun 24. päivänä 2026 Moskovan pormestari Sergei Sobyanin raportoi, että 15 miehittämätöntä ilma-alusta (UAV) yritti päästä Moskovaan ja ne ammuttiin alas. Tapahtuma korostaa jatkuvia ilmaturvallisuusuhkia kaupungille, kun viranomaiset vahvistavat puolustuksiaan dronehyökkäyksiä vastaan.
 
-**COMMENT:** Lakiluonnoksen hyväksyminen osoittaa hallituksen jatkuvaa puolustustyötä valtionyhtiöiden, kuten Venäjän Postin, uudistamiseen palvelun parantamiseksi. Tämä voi viitata tuleviin sääntelymuutoksiin, jotka saattavat vaikuttaa postipalveluiden kaupalliseen maisemaan Venäjällä.  
+**COMMENT:** Tämä tapahtuma korostaa droneuhkien lisääntymistä suurissa kaupungeissa Venäjällä, mikä viittaa mahdolliseen ilmaturvallisuusongelmien kiihtymiseen. Lähitulevaisuudessa voimme nähdä parannettuja torjuntatoimenpiteitä droneja vastaan.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)  
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #удар #сво #про  
+**KEYWORDS:** #russia #беспилотник #бпла
 
 
-## Putin ilmoittaa Venäjän joukkojen olevan lähellä toimintojen päätöstä Konstantinovkassa
-Presidentti Vladimir Putin ilmoitti 23. kesäkuuta 2026, että Venäjän asevoimat ovat "käytännössä lopettamassa" operaatioitaan Konstantinovkassa, joka sijaitsee Donetskin kansantasavallassa. Hän väitti, että huolimatta meneillään olevista sotatoimista, vastarintapocketit pysyvät, ja toisti separatistiväitteiden laillisuuden alueella. [4]  
+## Putin tarkistaa uusia venäläisiä lentokonesettejä: Il-114-300, SJ-100 ja MS-21
+Maaliskuun 24. päivänä 2026 Venäjän presidentti Vladimir Putin tarkisti uusia lentokonesettejä, mukaan lukien Il-114-300, SJ-100 ja MS-21 Moskossa Gromovin LII:ssä. Tämä tarkistus edeltää suunniteltua kokousta ilmailun kehittämisestä.
 
-**COMMENT:** Tämä lausunto alleviivaa Venäjän jatkuvia sotilastavoitteita Itä-Ukrainassa, mikä heijastaa sitoutumista sen toimiin alueella. Julistus voi myös vahvistaa kotimaista tukea sotilaallisille toimille samalla, kun se viestii Ukrainalle, että vastarinta kohdataan jatkuvalla voimalla.  
+**COMMENT:** Tämä tapahtuma korostaa Venäjän sitoutumista kotimaisen ilmailuteollisuuden vahvistamiseen, erityisesti tuontikorvauksen puitteissa. Uusien lentokoneiden testauksen ja kehittämisen painotukset viittaavat strategiseen siirtoon lisätä kansallista pätevyyttä ja vähentää riippuvuutta tuonnista.
 
-**LOCATION:** Konstantinovka / Konstantinovka, Unknown, Unknown [Click for Map Location](Unknown) (Константиновка)  
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #вооруженные силы россии #вс рф #удар #пуск #про  
+**KEYWORDS:** #russia #удар #пуск #про
 
 
-## LDPR ilmoittaa liittovaltion listasta valtioduman vaaleihin Slutskyn johdolla
-23. kesäkuuta 2026 Venäjän liberaalidemokraattinen puolue (LDPR) julkisti liittovaltion listansa tuleviin valtioduman vaaleihin kongressissa Moskovassa. Puolueen johtaja Leonid Slutsky johdolla lista sisältää huomattavia henkilöitä, kuten Alexei Vereshchagin, Maria Voropaeva ja Boris Chernyshov, mikä heijastaa strategista puolueasettelua vaalien alla. [5]  
+## Rikosjuttu avattu Mi-2-helikopterionnettomuuden yhteydessä Kubanissa
+Maaliskuun 24. päivänä 2026 rikosjuttu aloitettiin Mi-2-helikopterin syöksyn jälkeen Slavyanskin piirissä Krasnodarin alueella. Onnettomuudessa kuoli pilotti maatalousoperaatioiden aikana. Tutkimus keskittyy mahdollisiin ilmaliikenteen turvallisuusnormien rikkomuksiin.
 
-**COMMENT:** Tämä kehitys signaloi LDPR:n valmiutta vaaliprosessiin, korostaen tärkeitä henkilöitä, jotka saattavat vaikuttaa Venäjän lainsäädännöllisiin prioriteetteihin. Huippuväen osallistuminen voi vahvistaa puolueen vetovoimaa ja äänestäjäkuntaa poliittisesti kilpailullisessa ympäristössä.  
+**COMMENT:** Tapahtuma heijastaa jatkuvaa valvontaa ja täytäntöönpanoa ilmailuturvallisuusstandardeissa Venäjällä, mikä voi viitata viranomaisten lisääntyneeseen huomioon lentoliikennevaatimuksille. Tulevat seuraukset voivat sisältää tiukempia säännöksiä tai tarkastuksia näiden tapahtumien vuoksi.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)  
+**LOCATION:** Slavyanskin piiri / Slavyansk District, 56.015, 38.193 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.015000&mlon=38.193000#map=8/56.015000/38.193000) (Славянский район)
 
-**KEYWORDS:** #russia #россия #штаб #сво #часть #про  
+**KEYWORDS:** #russia #вертолет #про
 
 
-## Putin varoittaa länttä kostotoimista Venäjälle kohdistuneista hyökkäyksistä
-Presidentti Vladimir Putin sanoi 23. kesäkuuta 2026, että länsi on tietoinen siitä, että kaikki Venäjälle heidän alueiltaan tehdyt hyökkäykset provosoisivat vastatoimen Moskovalta. Hän korosti, että on ymmärrettävä, tai pitäisi ymmärtää, että tällaiset toimet johtaisivat kostotoimiin, erityisesti keskustellessaan armeijan akateemian valmistuneiden kanssa Moskovassa. [6]  
+## Putin vaatii kotimaisen lentokoneen moottorikehityksen kiihdyttämistä
+Maaliskuun 24. päivänä 2026 presidentti Vladimir Putin korosti Venäjän kotimaisen lentokoneen moottoriteollisuuden kehittämisen nopeuttamista ilmailusektorin edistämistä käsittelevässä kokouksessa Moskovassa.
 
-**COMMENT:** Putinin kommentit korostavat Kremlin jatkuvaa korostusta pelotteesta ja mahdollisuudesta voimakkaammin voimistuvista taasjännitteistä lännen kanssa. Tämä retoriikka voi viitata ennakoivaan asenteeseen vastatakseen koettuunsa lännen aggressioon tai sotilaallisiin toimiin Venäjän rajoilla.  
+**COMMENT:** Tämä ohjeistus korostaa Venäjän hallituksen keskittymistä itsenäisyyteen kriittisillä teknologisilla aloilla kansainvälisten pakotteiden myötä. Lentokoneen moottorien tuotannon nopeuttaminen todennäköisesti parantaa Venäjän sotilas- ja siviililentoteollisuutta.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)  
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #удар #сво #пуск  
+**KEYWORDS:** #russia #россия #российские #штаб #удар #пуск #про
 
 
-## Sähkönjakeluhäiriö Krimillä
-23. kesäkuuta 2026 Krimillä raportoitiin sähkönjakeluhäiriöistä keskellä, etelässä ja idässä teknisten rikkomusten vuoksi sähköverkoissa, valtionyhtiön Krymenergon mukaan. Vaikutusalueilla ovat Simferopol, Yalta ja Alushta, ja palautusoperaatiot ovat käynnissä ja niiden odotetaan päättyvän vuorokauden kuluessa. [7]  
+## Rajoitukset poistettu Nizhny Novgorodin lentokentällä
+Maaliskuun 24. päivänä 2026 Rosaviatsia poisti rajoitukset lentokoneiden saapumiselle ja lähdölle Nizhny Novgorodin Chkalov-lentokentällä. Aikaisemmat rajoitukset olivat voimassa ilmatilan käyttörajoitusten takia, jotka olivat rajoittaneet lentotoimintaa useita tuntia.
 
-**COMMENT:** Tämä sähkökatkos korostaa Krimin infrastruktuurin haavoittuvuuksia alueen jatkuvien jännitteiden keskellä. Jatkuvat ongelmat kriittisissä palveluissa voivat viitata laajempiin hallinta- ja vakaushaasteisiin alueella.  
+**COMMENT:** Rajoitusten purkaminen Chkalov-lentokentällä voi viitata parantuneeseen ilmatilan hallintaan ja sääntelyyn. Tämä kehitys voi parantaa alueellista liikennettä ja mahdollistaa taloudellista toimintaa Nizhny Novgorodissa.
 
-**LOCATION:** Krimi / Crimea, Unknown, Unknown [Click for Map Location](Unknown)  
+**LOCATION:** Nizhny Novgorod / Nizhny Novgorod, 56.3264816, 44.0051395 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.326482&mlon=44.005139#map=8/56.326482/44.005139) (Нижний Новгород)
 
-**KEYWORDS:** #russia #про  
+**KEYWORDS:** #russia #про
 
 
-## Gazprom Energoholding aloittaa Etelä-Yakutskin TEP:n käyttöönoton
-23. kesäkuuta 2026 Gazprom Energoholding aloitti Etelä-Yakutskin lämpövoimalan (TEP) käyttöönoton, jolla pyritään parantamaan sähkön saatavuutta Venäjän itäisille alueille, erityisesti tukea rautatieliikennettä ja alueen sähköistämistä. [8]  
+## Putin ilmoittaa täydellisestä tuontikorvauksesta lentokoneissa Venäjällä
+Maaliskuun 24. päivänä 2026 presidentti Vladimir Putin ilmoitti, että Venäjä on saavuttanut täydellisen tuontikorvauksen lentokoneissa. Tämä julistus tehtiin hänen vieraillessaan Gromovin lentotutkimusinstituutissa Zhukovskissa.
 
-**COMMENT:** Etelä-Yakutskin TEP:n käyttöönotto korostaa Venäjän energia-infrastruktuuriin investoimista, mikä on kriittistä alueprojektien tukemiseksi ja strategisten liikenneverkkojen rakentamiseksi. Tämä aloite voi vahvistaa Gazpromin roolia energian toimituksessa, jolloin se vaikuttaa tuleviin energiapoliittisiin päätöksiin ja rautateiden logistiikkaan Kaukoidässä.  
+**COMMENT:** Tämä kehitys osoittaa Venäjän jatkuvat ponnistelut parantaa kotimaista ilmailuteollisuutta kansainvälisten pakotteiden myötä. Onnistunut tuontikorvaus voi viitata strategiseen siirtoon itsenäisyyteen kriittisillä teollisuudenaloilla.
 
-**LOCATION:** Sakha (Jakutia) / Republic of Sakha (Yakutia), Unknown, Unknown [Click for Map Location](Unknown)  
+**LOCATION:** Zhukovsky / Zhukovsky, 55.5972801, 38.1199863 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.597280&mlon=38.119986#map=8/55.597280/38.119986) (Жуковский)
 
-**KEYWORDS:** #российские #учения #полигон #корпус #сво #пуск #про  
+**KEYWORDS:** #россия #удар #сво #сф #часть #про
 
 
-## Sochin lentoasema kohtaa useita työkatkoksia yhden päivän aikana
-23. kesäkuuta 2026 Sochin lentoasema kohtasi päivän viidennen palveluhäiriön, kun rajoituksia asetettiin lentokoneiden vastaanottamiseen ja lähettämiseen. Viimeisin keskeytys, joka kesti noin puolitoista tuntia, korostaa jatkuvia operatiivisia haasteita tällä kriittisellä liikenneterminaalilla. [9]  
+## Räjähdyksiä raportoitu Harkovassa ja Sumyssa Ukrainan sotilaallisten vaikeuksien keskellä
+Maaliskuun 24. päivänä 2026 tapahtui useita räjähdyksiä Harkovassa ja Sumyssa Ukrainassa, Ukrainan asevoimien heikentyvän sotilaallisen tilanteen myötä. Tämä kehitys herättää huolta mahdollisista provokaatioista Ukrainalta Valko-Venäjän suuntaan.
 
-**COMMENT:** Toistuvat keskeytykset Sochin lentoasemalla voivat viitata taustalla oleviin ongelmiin ilmailuliikenteen hallinnassa tai operatiivisessa kapasiteetissa. Jatkuvat häiriöt voivat vaikuttaa kuljetuslogistiikkaan ja matkailuun alueella, heijastaen laajempia haasteita Venäjän infrastruktuurihallinnassa.  
+**COMMENT:** Raportoidut räjähdykset viittaavat jatkuviin jännitteisiin ja sotilaallisiin haasteisiin, jotka kohtaavat Ukrainaa, mikä voi lisätä alueellista epävakautta. Tämä tilanne voi johtaa lisääntyneisiin riskeihin konflikti-spilloverille, erityisesti Valko-Venäjän osalta.
 
-**LOCATION:** Sochi / Sochi, 43.5854823, 39.723109 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.585482&mlon=39.723109#map=8/43.585482/39.723109) (Сочи)  
+**LOCATION:** Harkova / Kharkiv, 49.9923181, 36.2310146 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.992318&mlon=36.231015#map=8/49.992318/36.231015) (Харьков)
 
-**KEYWORDS:** #russia #про  
+**KEYWORDS:** #российский #минобороны рф #вс россии #army #минобороны #командование #военнослужащий #удар #сво #беспилотник #бпла #тоф #сф #про
 
 
-## Viranomaiset sallivat 200 litran polttoainesäiliön kuljetuksen Kriminsillan yli
-23. kesäkuuta 2026 viranomaiset ilmoittivat, että nyt on sallittua kuljettaa enintään 200 litraa polttoainetta autolla Kriminsillan yli, mikä on kaksinkertainen aikaisempaan 100 litran rajaan verrattuna. Tämä muutos on osa jatkuvia kaasun toimitusstrategioita alueen lisääntyneen kysynnän täyttämiseksi. [10]  
+## Venäjän ulkoministeriö korostaa Haagissa saavutetun voiton geopoliittisia seurauksia
+Maaliskuun 24. päivänä 2023 Venäjän ulkoministeriö totesi, että Venäjän voitolla Haagissa Ukrainaa vastaan on merkittäviä poliittisia ja geopoliittisia seurauksia. Tämä voitto vahvisti Venäjän vaatimusta Azovinmerelle sisävesinä ja hylkäsi kaikki vastakkainasettavat vaatimukset.
 
-**COMMENT:** Tämä politiikan muutos heijastaa alueellisten viranomaisten pyrkimyksiä käsitellä polttoainetoimitushaasteita kasvavan kysynnän myötä. Lähitulevaisuudessa tämä voi helpottaa polttoaineen jakelutoimintojen parantamista Krimillä, mikä vaikuttaa paikallisiin taloudellisiin olosuhteisiin.  
+**COMMENT:** Ulkoministeriön painotus tämän ratkaisevan geopoliittisen tappion merkityksestä viittaa strategiseen pyrkimykseen vahvistaa Venäjän alueellisia vaatimuksia. Tämä kehitys voi vaikuttaa Venäjän meripolitiikkaan ja sen asemaan alueellisia erimielisyyksiä koskevissa kysymyksissä.
 
-**LOCATION:** Kriminsilta / Crimean Bridge, Unknown, Unknown [Click for Map Location](Unknown)  
+**LOCATION:** Haagissa / The Hague, 52.0799838, 4.3113461 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.079984&mlon=4.311346#map=8/52.079984/4.311346) (Гаага)
 
-**KEYWORDS:** #russia #про  
+**KEYWORDS:** #россия #российский #удар #беспилотник #про
 
 
-## Venäläinen armeija häiritsee Ukrainan hyökkäysplanit Krimille
-22. kesäkuuta 2026 Venäjän armeija onnistui häiritsemään Ukrainan joukkojen hyökkäysoperaatiota, joka oli tarkoitettu käynnistettäväksi Krimiin. Operaation oli tarkoitus osua yhteen merkittävän muistopäivämäärän kanssa, mutta Venäjän joukot suorittivat kattavan vastatoimen, estäen Ukrainan yritykset edetä Hersonin ja Zaporozhjen alueilla. [11]  
+## Putin varoittaa matkustajaliikenteen tavoitteiden saavuttamiseen liittyvistä riskeistä
+Maaliskuun 24. päivänä 2023 Venäjän presidentti Vladimir Putin käsitteli riskejä, jotka liittyvät hallituksen matkustajaliikennettä koskevien tavoitteiden saavuttamiseen. Hän korosti tarpeen korvata lentokoneet kokonaan näiden tavoitteiden saavuttamiseksi.
 
-**COMMENT:** Tämä tapahtuma heijastaa jatkuvia strategisia jännitteitä Krimin ympärillä ja havainnollistaa Venäjän ennakoivaa sotilaspainetta mahdollisten Ukrainan operaatioiden edessä. Estetty hyökkäys voi viitata korkeaa sotilaallista valmiutta molemmilla osapuolilla ja operatiivisia kehityksiä tulevaisuudessa.  
+**COMMENT:** Tämä lausunto viittaa paineeseen Venäjän ilmailusektorilla, heijastaen laajempia strategisia prioriteetteja itsenäisyyden ja kestävyyden suhteen. Korvauksen korostaminen lentokoneissa viittaa merkittäviin investointeihin ja mahdollisiin muutoksiin Venäjän ilmailuteollisuudessa.
 
-**LOCATION:** Krimin niemimaa / Crimean Peninsula, 45.2835044, 34.2008188 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.283504&mlon=34.200819#map=8/45.283504/34.200819) (Крым)  
+**LOCATION:** Zhukovsky / Zhukovsky, 55.5691602, 38.1168097 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.569160&mlon=38.116810#map=8/55.569160/38.116810) (Жуковский)
 
-**KEYWORDS:** #российские #вс рф #российские военные #полк #удар #сво #беспилотник #сф #часть #про  
+**KEYWORDS:** #россия #российский #пво #удар #беспилотник #пуск #сф #про
 
 
-## Venäjän ilmatorjunta keskeyttää merkittävän määrän Ukrainan droneja
-22. kesäkuuta 2026 Venäjän ilmatorjuntajärjestelmät keskeyttivät ja tuhottivat 301 Ukrainan dronea eri alueilla, mukaan lukien Moskovan alue ja Krim. Toimet seuraavat lisääntyneitä jännitteitä Ukrainan hyökkäyksistä ja johtivat ohjusvaara ilmoituksiin useilla Venäjän alueilla. [12]  
+## Nabiullina osallistuu ilmailun kehityskokoukseen Putinin kanssa
+Maaliskuun 24. päivänä 2023 Elvira Nabiullina, Venäjän keskuspankin johtaja, osallistui kokoukseen presidentti Vladimir Putinin kanssa ilmailun kehittämisestä Zhukovskissa, Moskovan lähellä.
 
-**COMMENT:** Ukrainan dronejen keskeyttäminen merkitsee kohonnutta sotilaallista valmiutta Venäjän puolustusjärjestelmässä. Tämä tapahtuma voi viitata konfliktin jatkuvaan eskaloitumiseen Venäjän ja Ukrainan välillä, mikä lisää sotilaallisia vastatoimia molemmilta osapuolilta.  
+**COMMENT:** Tämä kokous korostaa Venäjän hallituksen jatkuvia ponnisteluja ilmailusektorin vahvistamiseksi, joka on keskeinen kehityksen väylä laajemmissa taloudellisissa haasteissa. Huippujohtajien osallistuminen merkitsee strategista painoarvoa ilmailulle kansallisissa kehitysmaaleissa.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)  
+**LOCATION:** Zhukovsky / Zhukovsky, 55.5972801, 38.1199863 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.597280&mlon=38.119986#map=8/55.597280/38.119986) (Жуковский)
 
-**KEYWORDS:** #российские #минобороны рф #минобороны #пво #вооружение #удар #сво #беспилотник #перехват #сф #про  
+**KEYWORDS:** #россия #мто #про
 
 
-## Putin: Zelenskin kirje ei luo neuvotteluille edellytyksiä
-23. kesäkuuta 2026 Venäjän presidentti Vladimir Putin totesi, että Ukrainan presidentti Volodymyr Zelenskin äskettäinen kirje ei luo neuvotteluille tarvittavia edellytyksiä kokouksessa sotilasoppilaitosten valmistuneiden kanssa Moskovassa. Tämä lausunto korostaa voimakasta pattitilannetta Venäjän ja Ukrainan välisissä diplomaattisuhteissa. [13]  
+## Venäjän sisäministeriö varoittaa deepfake-teknologian nousevasta vaarasta petoksille
+Maaliskuun 24. päivänä 2023 Venäjän sisäministeriön tutkintalaitoksen varajohtaja Danil Filippov ilmoitti, että deepfake-teknologia on tullut petkuttajien vaarallisimmaksi työkaluksi.
 
-**COMMENT:** Putinin hylkäys Zelenskin kirjettä viittaa jatkuvaan kielteiseen suhtautumiseen rauhanneuvotteluihin, mikä voi pidentää konfliktia Ukrainassa. Mahdollisuus eskalaatioon pysyy korkeana, kun molemmat osapuolet ylläpitävät juurtuneita asemiaan, mikä viittaa pysähtyneeseen diplomaattiseen ympäristöön lähitulevaisuudessa.  
+**COMMENT:** Deepfake-teknologian yleistyminen muodostaa kriittisen haasteen julkiselle turvallisuudelle, mahdollistaen kehittyneiden petoskaavojen luomisen. Teknologian lisääntyminen voi pakottaa viranomaisia tiukentamaan sääntelyä ja kehittämään vastatoimia.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)  
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #российский #пуск #про  
+**KEYWORDS:** #россия #удар #сф
 
 
-## Venäjän asevoimat ottavat käyttöön tekoälyteknologiaa
-23. kesäkuuta 2023 Venäjän puolustusministeri Andrei Belousov ilmoitti, että Venäjän asevoimat integroivat aktiivisesti tekoälyteknologioita varusteisiinsa. Tämä lausunto annettiin tapaamisessa presidentti Vladimir Putinin ja eri turvallisuusviranomaisista valmistuneiden kanssa, korostaen parannettujen taktiikoiden tarvetta näiden edistysten hyödyntämiseksi. [14]  
+## Uusi meningokokkirokote otetaan käyttöön Venäjän terveydenhuollossa
+Maaliskuun 24. päivänä 2026 ensimmäinen kotimainen pentavalentti meningokokkirokote Mengovax B rekisteröidään käytettäväksi Venäjän lääketieteellisissä laitoksissa. Tämä rokote on suunniteltu suojaamaan viideltä yleiseltä meningokokin seroryhmältä.
 
-**COMMENT:** Tekoälyteknologioiden nopea integrointi Venäjän armeijaan viittaa merkittävään muutokseen puolustuskyvyissä, mikä voi parantaa operatiivista tehokkuutta. Tämä kehitys voi viitata laajempaan sitoutumiseen Venäjän asevoimien modernisoimiseksi ja nopeaan reagointiin sisäisiin ja ulkoisiin uhkiin.  
+**COMMENT:** Mengovax B:n käyttöönotto heijastaa Venäjän prioriteettia parantaa kansanterveyttä ja rokotestrategioita. Tämä kehitys voi parantaa terveydenhuollon turvallisuutta.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)  
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #вооруженные силы рф #вс рф #минобороны #военная техника #министр обороны #беспилотник #пуск #сф #армия #про  
+**KEYWORDS:** #российские #про
 
 
-## Venäjän armeija suorittaa operaatioita Konstantinovkassa
-23. kesäkuuta 2023 Venäjän armeija on intensiivistä toimintaa Konstantinovkassa, ilmeisesti tyhjentäen yli sata rakennusta päivässä. Alueen väitetään olevan pääosin Venäjän hallinnassa, ja hyökkäysjoukot ovat aktiivisesti mukana toiminnan varmistamiseksi. [15]  
+## Lavrov: Yhdysvallat pitää venäläisdiplomaattien lapsia amerikkalaisina kansalaisina
+Maaliskuun 24. päivänä 2023 venäläinen ulkoministeri Sergey Lavrov ilmoitti, että Yhdysvallat on alkanut luokitella Yhdysvalloissa syntyneitä venäläisdiplomaattien lapsia amerikkalaisiksi kansalaisiksi.
 
-**COMMENT:** Jatkuvat sotilastoimet Konstantinovkassa viittaavat siihen, että Venäjän joukot pyrkivät konsolidoimaan valtaansa kiistellyillä alueilla. Tämä voi viitata sotilaallisten aktiviteettien voimistumiseen, kun konflikti jatkaa kehittymistään, vaikuttaen alueen vakauteen ja turvallisuusdynamiikkaan.  
+**COMMENT:** Tämä päätös Yhdysvalloilta saattaa lisätä diplomaattisia jännitteitä ja monimutkaistaa venäläisdiplomaattien ja heidän perheidensä asemaa. Tulevaisuudessa tämä voi vaikuttaa Venäjän diplomaattisiin käytäntöihin Yhdysvaltoja kohtaan.
 
-**LOCATION:** Konstantinovka / Konstantinovka, Unknown, Unknown [Click for Map Location](Unknown)  
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #российские #вооруженные силы рф #вс рф #российские войска #российские военные #сво #разведка #часть #про  
+**KEYWORDS:** #россия #учения #сво #про
 
 
-## Krim tilapäisesti keskeyttää lasten urheilutapahtumat
-22. kesäkuuta 2026 Krimin urheiluministeri Olga Torubarova ilmoitti lasten urheilutapahtumien tilapäisestä keskeyttämisestä julkisen turvallisuuden takia. Tämä keskeytys pysyy voimassa 1. syyskuuta 2026 asti ja vaikuttaa kaikkiin urheilutoimintoihin alle 18-vuotiaille Krimin alueella. [16]  
+## Uusi metroasema 'Sbercity' julkistettiin Kuntsevossa, Moskovassa
+Maaliskuun 24. päivänä 2023 Moskova ilmoitti 'Sbercity'-metroaseman nimeämisestä Rublevo-Arkhangelsk-metrolinjalle, joka sijaitsee Kuntsevo-alueella.
 
-**COMMENT:** Tämä toimenpide osoittaa tiukentuneita turvallisuusnäkökohtia julkisissa kokoontumisissa Krimillä, mikä todennäköisesti heijastaa jatkuvaa epävakautta alueella. Tällaiset toimet voivat viitata viranomaisten ennakoivaan toimintaan hallinnan ylläpitämiseksi ja turvallisuuden takaamiseksi tulevien tapahtumien tai haasteiden edessä.  
+**COMMENT:** 'Sbercity'-metroaseman perustaminen heijastaa Moskovan infrastruktuurikehitystä, joka on strateginen prioriteetti kaupunkiliikenteen parantamiseksi. Tällaiset hankkeet saattavat viitata laajempaan kaupunkimodernisaatioon.
 
-**LOCATION:** Krimi / Republic of Crimea, Unknown, Unknown [Click for Map Location](Unknown)  
+**LOCATION:** Kuntsevo / Kuntsevo District, 55.7426325, 37.3974723 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.742632&mlon=37.397472#map=8/55.742632/37.397472) (Кунцево)
 
-**KEYWORDS:** #россия #про  
+**KEYWORDS:** #россия #сво #про
 
 
-## Metallidetektori kaatuu lapsen päälle Moskovan ostoskeskuksessa
-23. kesäkuuta 2023 kaareva metallidetektori kaatui nuoren pojan päälle eteläisen Moskovan ostoskeskuksessa äitinsä kanssa ollessaan. Moskovan syyttäjänvirasto on aloittanut tutkinnan tapahtuman olosuhteista. [17]  
+## Viisitoista UAV:ta tuhoutui yrittäessään hyökätä Moskovaan
+Maaliskuun 24. päivänä 2023 viidentoista ukrainalaisen miehittämättömän ilma-aluksen (UAV) yritti hyökätä Moskovaan. Puolustusministeriö raportoi näiden dronien kaatamisesta.
 
-**COMMENT:** Tapahtuma korostaa mahdollisia turvallisuuskysymyksiä julkisissa tiloissa, mikä herättää huolta kaupallisten tilojen valvonnasta. Jatkuva valvonta sääntelyviranomaisilta saattaa johtaa turvallisuusmääräysten tiukentamiseen samankaltaisissa ympäristöissä tulevien esiintymisten estämiseksi.  
+**COMMENT:** Jatkuvat yritykset hyökätä Moskovaan UAV:lla kertovat jyrkästä eskalaatiosta dronitoiminnassa Ukrainasta. Tämä voi johtaa lisääntyneisiin turvallisuustoimiin Moskovassa ja muissa kriittisissä alueissa.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)   
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #про  
+**KEYWORDS:** #россия #минобороны #пво #беспилотник #бпла #про
 
 
-## Suuri tulipalo jatkaa sammuttamista Yuzhno-Sakhalinskissa
-23. kesäkuuta 2023 palomiehet Yuzhno-Sakhalinskissa taistelevat merkittävän varastotulen sammutuksen parissa, jossa on 1000 neliömetrin alueella paikalla muovituotteita. Pelastusharjoitukset ovat onnistuneet evakuoimaan 14 kaasusäiliötä lähistöltä, kun ponnistelut ovat vaikeutuneet korkeiden palokuormien ja voimakkaiden tuulien vuoksi. [18]  
+## Putin vakuuttaa uusien venäläisten lentokonesuunnitelmien korkean laadun
+Maaliskuun 24. päivänä 2023 presidentti Vladimir Putin julkisti, että uudet SSJ-100, MS-21 ja Il-114 -koneet osoittavat erittäin korkeaa laatua.
 
-**COMMENT:** Tämä tapahtuma korostaa haasteita hätätilanteiden hallinnassa tulipalojen leviämisen riskin vuoksi läheisiin rakennuksiin, mikä heijastaa laajempia huolia paloturvallisuudessa ja infrastruktuurin kestävyyksissä kaupunkialueilla. Tulevia paloturvallisuusasioita saatetaan joutua arvioimaan uudelleen vastaavien tapausten estämiseksi.  
+**COMMENT:** Tämä kehitys viittaa Venäjän strategiseen pyrkimykseen vahvistaa ilmailuvalmiuksiaan ja vähentää riippuvuutta tuonnista.
 
-**LOCATION:** Yuzhno-Sakhalinsk / Yuzhno-Sakhalinsk, 46.9574273, 142.727438 [Click for Map Location](https://www.openstreetmap.org/?mlat=46.957427&mlon=142.727438#map=8/46.957427/142.727438) (Южно-Сахалинск)  
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #про  
+**KEYWORDS:** #россия #удар #сво #вертолет #пуск #про
 
 
-## Dronehyökkäys linja-autoon Horlivkassa, 18 loukkaantunut
-22. kesäkuuta 2023 droneiskussa linja-autoon Horlivkassa loukkaantui 18 siviiliä, paikallisen pormestarin Ivan Prikhodkon mukaan. Hyökkäys on osoitettu Ukrainan asevoimille, ja uhrit saavat tarvittavaa apua tapahtuman jälkeen. [19]  
+## Putin väittää venäläisten lentokoneiden ylittävän länsimaisten vertailukelpoisten laatu
+Maaliskuun 24. päivänä 2023 presidentti Vladimir Putin ilmoitti, että venäläiset lentokoneet ylittävät monet länsimaisten vastineidensa. Hän huomautti, että Venäjä on onnistuneesti toteuttanut lentokoneiden tuontikorvauksen.
 
-**COMMENT:** Tämä tapahtuma korostaa alueen jatkuvaa jännitystä ja vihamielisyyksiä, mikä heijastaa drone-kansalaisten vaikutusta. Tällaiset hyökkäykset voivat entisestään eskaloida konfliktia ja haastaa alueen vakautta Itä-Ukrainassa.  
+**COMMENT:** Putinin väite venäläisten lentokoneiden ylivoimasta voi heijastaa jatkuvia pyrkimyksiä vahvistaa kansallista puolustusvalmistusta geopoliittisten jännitteiden keskellä.
 
-**LOCATION:** Horlivka / Horlivka, 48.3058686, 38.0027664 [Click for Map Location](https://www.openstreetmap.org/?mlat=48.305869&mlon=38.002766#map=8/48.305869/38.002766) (Горловка)  
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #удар #беспилотник #бпла #про  
+**KEYWORDS:** #россия #российский #российские #вертолет #сф
 
 
-## Putin puhuu upseeriopiskelijoille, korostaa valmiutta uhkia vastaan
-23. kesäkuuta 2026 presidentti Vladimir Putin piti puheen sotilas- ja turvallisuuskorkeakoulujen valmistuneille, korostaen tulevien upseerien kriittistä roolia eri turvallisuusviranomaisissa. Hän painotti terrorismin vastustamisen tärkeyttä ja Venäjän sotilasvalmiuksien modernisoimista, samalla väittäen maan valmiutta reagoida sekä sisäisiin että ulkoisiin uhkiin jatkuvien jännitteiden keskellä NATO-maiden kanssa. [20]  
+## Putin ilmoittaa täydellisestä tuontikorvauksesta kaikille lentokoneille Venäjällä
+Maaliskuun 24. päivänä 2026 presidentti Vladimir Putin ilmoitti, että Venäjä on onnistuneesti korvannut kaikki tuontilennot kotimaisilla malleilla.
 
-**COMMENT:** Putinin lausunnot viittaavat jatkuvaan keskittymiseen sotilasvalmiuteen ja modernisointiin, mikä heijastaa jatkuvia turvallisuushuolia. Korostus välittömille vastekyvyille voi viitata kohonneeseen valppauteen ja mahdollisiin esiintymisiin Venäjän sotilasilmastossa lähitulevaisuudessa.  
+**COMMENT:** Tämä siirto osoittaa merkittävää muutosta kohti suurempaa itsenäisyyttä Venäjän ilmailualalla, mikä todennäköisesti johtuu jatkuvista lännen pakotteista.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)  
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #россия #флот #офицер #удар #сво #пуск #про  
+**KEYWORDS:** #россия #российские #штаб #удар #пуск #про
 
 
-## Lavrov: Venäjä valmis tekemään kaikki toimenpiteet Unionin valtion suojaamiseksi
-23. kesäkuuta 2026 Venäjän ulkoministeri Sergey Lavrov ilmoitti, että Venäjä on valmis tekemään kaikki tarvittavat toimenpiteet Unionin valtion suojelemiseksi, joka viittaa Venäjän ja Valko-Venäjän liittoon. Tämä lausunto korostaa Venäjän sitoutumista sotilaallisiin ja poliittisiin kumppanuuksiin ja voi viitata lisääntyneeseen alueelliseen turvallisuusvarusteluun geopoliittisten jännitteiden keskellä. [21]  
+## Lavrov tunnistaa tärkeimmän kysymyksen Venäjän ja Yhdysvaltojen suhteissa
+Maaliskuun 24. päivänä 2026 Venäjän ulkoministeri Sergey Lavrov korosti merkittävää kysymystä Venäjän ja Yhdysvaltojen suhteissa.
 
-**COMMENT:** Lavrovin huomautukset heijastavat Moskovan strategista keskittymistä liittolaisensa Valko-Venäjän suojelemiseen koetukselle asetetuilta uhilta. Tällaiset julistukset voivat johtaa lisääntyneeseen sotilaalliseen valmiuteen tai yhteisiin harjoituksiin alueella.  
+**COMMENT:** Tämä kehitys korostaa jatkuvia diplomaattisia jännitteitä Venäjän ja Yhdysvaltojen välillä, erityisesti koskien suvereniteettikysymyksiä.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)  
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #удар  
+**KEYWORDS:** #россия #про
+
+
+## Putin tarkistaa ilmailuteollisuuden kehitystä
+Maaliskuun 24. päivänä 2026 presidentti Vladimir Putin tarkisti uusia ilmailuvälineitä Gromov LII:ssä.
+
+**COMMENT:** Tämä kehitys korostaa Kremlin sitoutumista ilmailuteollisuuden vahvistamiseen geopoliittisten jännitysten keskellä.
+
+**LOCATION:** Gromov LII JSC / Gromov LII JSC, 0, 0 [Click for Map Location](https://www.openstreetmap.org/?mlat=0&mlon=0#map=8/0/0) (Громов ЛИИ)
+
+**KEYWORDS:** #россия #российские #удар #пуск #серийное производство #про
+
+
+## Putin korostaa ilmailuteollisuuden kehittämisen tärkeyttä
+Maaliskuun 24. päivänä 2026 presidentti Vladimir Putin convensi kokouksen ilmailuteollisuuden kehittämisestä Gromov LII:ssä, jossa hän tarkisti uusia ilmailuvälineitä.
+
+**COMMENT:** Tämä kokous, jossa keskitytään ilmailuteollisuuden strategiseen merkitykseen, viittaa Venäjän haluun vahvistaa kansallista osaamista.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #российские #удар #пуск #серийное производство #про
+
+
+## Venäjä aikoo nostaa oikeudenkäyntejä Baltian maita vastaan
+Maaliskuun 24. päivänä 2026 Venäjän viranomaiset ilmoittivat aikovansa nostaa oikeudenkäyntejä Baltian maita vastaan väitetystä rodullisesta syrjinnästä.
+
+**COMMENT:** Tämä siirto voi aiheuttaa diplomaattisia jännitteitä Venäjän ja Baltian maiden välillä, kun se liittyy välessiöiden oikeuksiin.
+
+**LOCATION:** Baltian maat / Baltic States, 56.9172036, 24.2256812 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.917204&mlon=24.225681#map=8/56.917204/24.225681) (Балтийские страны)
+
+**KEYWORDS:** #россия #про
+
+
+## Venäjän asevoimat iskevät Ukrainan UAV-keskukseen
+Maaliskuun 24. päivänä 2026 Venäjän asevoimien operatiiviset taktiset lentokoneet ja tykistö yksiköt iskivät menestyksekkäästi unmanned-systeemiin, jota Ukrainan asevoimien erikoistoimintajoukot hallinnoivat.
+
+**COMMENT:** Tämä tapahtuma korostaa jatkuvia sotilaallisia operaatioita Venäjän ja Ukrainan välillä unmanned-järjestelmien teknologian keskiössä.
+
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #вс россии #удар #сво
 
 
 # Lähteet
-[1] interfax.ru - https://interfax.ru/russia/1097697?utm_source=top  
 
-[2] interfax.ru - https://interfax.ru/russia/1097679?utm_source=top  
+[1] interfax.ru - https://interfax.ru/russia/1098047?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/russia/1097762  
+[2] interfax.ru - https://interfax.ru/russia/1098065?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1097765  
+[3] interfax.ru - https://interfax.ru/russia/1098062?utm_source=top
 
-[5] interfax.ru - https://interfax.ru/russia/1097758  
+[4] interfax.ru - https://interfax.ru/russia/1098043?utm_source=top
 
-[6] interfax.ru - https://interfax.ru/russia/1097760  
+[5] interfax.ru - https://interfax.ru/russia/1098081
 
-[7] interfax.ru - https://interfax.ru/russia/1097759  
+[6] interfax.ru - https://interfax.ru/russia/1098080
 
-[8] interfax.ru - https://interfax.ru/business/1097755  
+[7] interfax.ru - https://interfax.ru/russia/1098078
 
-[9] interfax.ru - https://interfax.ru/russia/1097752  
+[8] aif.ru - https://aif.ru/politics/putin-zayavil-o-polnom-importozameshchenii-aviacionnoy-tehniki-v-rf
 
-[10] interfax.ru - https://interfax.ru/russia/1097753  
+[9] aif.ru - https://aif.ru/society/army/tehnika-vsu-gorit-kiev-zhdut-fatalnye-posledstviya-novosti-svo-24-iyunya
 
-[11] aif.ru - https://aif.ru/society/vsu-vzvyli-ot-uzhasa-pod-krymom-glavnaya-novost-svo-23-iyunya  
+[10] www.vesti.ru - https://www.vesti.ru/ns/v-mid-zayavili-chto-pobeda-rf-v-gaage-imeet-bolshie-geopoliticheskie-posledstviya
 
-[12] aif.ru - https://aif.ru/society/rasplata-za-ataki-rf-unichtozhaet-armiyu-ukrainy-glavnaya-novost-svo-23-iyunya  
+[11] www.vesti.ru - https://www.vesti.ru/ns/putin-zayavil-o-riskakh-ne-dostich-celej-v-sfere-passazhirskikh-aviaperevozok
 
-[13] www.vesti.ru - https://www.vesti.ru/ns/putin-pismo-zelenskogo-ne-sozdaet-predposylok-dlya-peregovorov  
+[12] www.vesti.ru - https://www.vesti.ru/ns/nabiullina-prinyala-uchastie-v-soveshchanii-po-razvitiyu-aviacii-u-putina
 
-[14] www.vesti.ru - https://www.vesti.ru/ns/vs-rf-aktivno-vnedryayut-tekhniku-s-ii  
+[13] www.vesti.ru - https://www.vesti.ru/ns/mvd-rf-dipfejk-samaya-opasnaya-tekhnologiya-primenyaemaya-moshennikami
 
-[15] www.vesti.ru - https://www.vesti.ru/ns/rossijskie-voennye-vedut-zachistku-pozicij-vsu-v-konstantinovke  
+[14] www.vesti.ru - https://www.vesti.ru/ns/v-meduchrezhdeniya-rf-postupit-novaya-vakcina-ot-meningokokka
 
-[16] www.vesti.ru - https://www.vesti.ru/ns/v-krymu-vremenno-otmenili-sportivnye-meropriyatiya-dlya-detej  
+[15] www.vesti.ru - https://www.vesti.ru/ns/lavrov-ssha-nachali-schitat-amerikancami-detej-rossijskikh-diplomatov
 
-[17] www.vesti.ru - https://www.vesti.ru/ns/arochnyj-metallodetektor-upal-na-malysha-v-moskovskom-tc  
+[16] www.vesti.ru - https://www.vesti.ru/ns/novuyu-stanciyu-metro-v-rajone-kuncevo-nazvali-sbersiti
 
-[18] www.vesti.ru - https://www.vesti.ru/ns/v-yuzhno-sakhalinske-prodolzhayut-borotsya-s-krupnym-pozharom-na-sklade  
+[17] www.vesti.ru - https://www.vesti.ru/ns/pyatnadcat-bpla-s-nachala-sutok-unichtozhili-pri-popytke-atakovat-moskvu
 
-[19] www.vesti.ru - https://www.vesti.ru/ns/prikhodko-chislo-postradavshikh-ot-udara-bpla-po-avtobusu-vozroslo-do-18  
+[18] www.vesti.ru - https://www.vesti.ru/ns/putin-uroven-novykh-rossijskikh-samoletov-ssj-100-ms-21-i-il-114-ochen-khoroshij
 
-[20] rg.ru - https://rg.ru/2026/06/23/vladimir-putin-naputstvoval-vypusknikov-voennyh-vuzov-v-ih-budushchej-deiatelnosti.html  
+[19] www.vesti.ru - https://www.vesti.ru/ns/putin-zayavil-chto-aviatekhnika-rf-prevzoshla-zapadnye-analogi-po-mnogim-poziciyam
 
-[21] ria.ru - https://ria.ru/20260623/lavrov-2100529833.html
+[20] iz.ru - https://iz.ru/2121276/2026-06-24/putin-zaiavil-o-polnom-importozameshchenii-rossiei-vsei-aviatcionnoi-tekhniki
+
+[21] iz.ru - https://iz.ru/2121236/2026-06-24/lavrov-nazval-glavnuiu-problemu-v-otnosheniiakh-rossii-i-ssha
+
+[22] iz.ru - https://iz.ru/2121310/2026-06-24/putin-provel-soveshchanie-po-razvitiiu-aviaotrasli-glavnoe
+
+[23] iz.ru - https://iz.ru/2121310/2026-06-24/putin-provel-soveshchanie-po-razvitiiu-aviaotrasli-glavnoe?main_click
+
+[24] rg.ru - https://rg.ru/2026/06/24/mid-rossiia-napravit-iski-protiv-stran-pribaltiki-iz-za-diskriminacii-russkih.html
+
+[25] rg.ru - https://rg.ru/2026/06/24/shot-vks-rossii-nakryli-sklad-s-raketami-i-bpla-kotorymi-vsu-bili-po-belgorodu.html
+
+[26] rg.ru - https://rg.ru/2026/06/23/svoej-dorogoj.html
+
+[27] www.kp.ru - https://www.kp.ru/daily/277792/5267559/
+
+[28] www.kp.ru - https://www.kp.ru/daily/277792/5267520/
+
+[29] ria.ru - https://ria.ru/20260624/rossiya-2100816924.html
+
+[30] ria.ru - https://ria.ru/20260624/rossiya-2100773213.html
