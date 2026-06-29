@@ -1,306 +1,282 @@
-# Report Date: 2026-06-26
+# Raportti päivältä: 29. kesäkuuta 2026
 
-## Summary
-Raportointijaksolla on havaittavissa useita merkittäviä tapahtumia, jotka heijastavat jatkuvaa jännitystä Venäjän ja Ukrainan välillä, sekä Venäjän omia sisäisiä haasteita. Venäjä on vahvistanut diplomasiaa Abkhazian suuntaan ja käynnistänyt hätätilan Krimillä sekä Sevastopolissa. Samanaikaisesti tapahtui vankien vaihto Venäjän ja Ukrainan välillä, mikä viittaa aktiivisiin neuvotteluihin. Tämä osoittaa, että vaikka konfliktit ovat käynnissä, hallitukset pyrkivät säilyttämään diplomaattiset yhteydet ja vaikuttamaan alueen vakautumiseen.
+## Yhteenveto
+Raportointijaksolla Venäjän puolustusministeri Andrei Belousov ilmoitti, että miehittämättömien järjestelmien tehokkuus on kolminkertaistunut, mikä viittaa merkittävään kehitykseen Venäjän sotilasoperatiivisissa kyvyissä. Lisäksi Orenburgissa tuomittiin henkilöitä, jotka osallistuivat kiellettyyn LGBT-toimintaan, mikä viestii hallituksen tiukentuvasta valvonnasta sosiaalisissa kysymyksissä. Venäjän armeija ilmoitti myös Bogodarovkan vapautuksesta Dnipropetrovskin alueella, mikä voi johtaa lisääntyneisiin sotilasoperaatioihin. Ukrainan dronehyökkäykset Moskovan alueelle korostavat konfliktin jatkuvuutta ja jännitteitä alueella. Venäjän hallitus jatkaa sotilaallisten ja diplomaattisten tavoitteidensa ajamista.
 
-## Putin Nimeää Entisen Gouverneuri Vyacheslav Gladkovin suurlähettilääksi Abkhaziaan
-On June 26th, 2026, Russian President Vladimir Putin appointed Vyacheslav Gladkov, the former governor of Belgorod, as the new ambassador to Abkhazia, replacing Mikhail Shurgalin. This move signifies a continued Russian focus on its ties with Abkhazia amidst ongoing geopolitical tensions in the region. [1]
+  
+## Venäjän puolustusministeri raportoi kolminkertaisesta tehokkuudesta miehittämättömissä järjestelmissä
+29. kesäkuuta 2026 Venäjän puolustusministeri Andrei Belousov ilmoitti, että miehittämättömien järjestelmien tehokkuus erityisessä sotatoimialueessa on noussut kolminkertaiseksi. Tämän parannuksen taustalla on lisärahoitus tekniselle kehitykselle, mikä mahdollistaa joukkueille alueiden eristämisen ja toimitusreittien katkaisemisen parantuneen drone-kapasiteetin avulla. [1]
 
-**COMMENT:** This appointment may indicate a strategic shift in Russia's diplomatic approach to Abkhazia, emphasizing regional stability. Increased engagement could reflect broader ambitions to strengthen influence in breakaway regions connected to Russia's foreign policy objectives.
+**COMMENT:** Raportoitu tehokkuuden kolminkertaistuminen miehittämättömissä järjestelmissä viittaa merkittävään edistysaskeleeseen Venäjän sotilasoperaatioissa, mikä saattaa johtaa operatiivisten taktiikoiden ja resurssien kohdentamisen muutoksiin.
 
-**LOCATION:** Abkhazia / Abkhazia, 43.1500226, 41.2299786 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.150023&mlon=41.229979#map=8/43.150023/41.229979) (Абхазия)
+**LOCATION:** Moskova / Moscow, 55.750541, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #минобороны рф #минобороны #министр обороны #дивизия #сво #про
+
+
+  
+## Ensimmäinen tuomio Venäjällä kielletyn LGBT-liikkeen osallistumisesta
+29. kesäkuuta 2026 Orenburgin keskuspiirituomioistuin tuomitsi kolme henkilöä järjestäen tapahtumia, jotka liittyvät kiellettyyn LGBT-liikkeeseen, joka on Venäjällä luokiteltu äärimmäiseksi. Tämä tapaus asettaa merkittävän oikeudellisen ennakkotapahtuman Venäjän tiukennettujen toimenpiteiden toteuttamiselle LGBT-organisaatioita vastaan. [2]
+
+**COMMENT:** Tämä tuomio korostaa LGBT-toimintaan kohdistuvaa jatkuvaa kourintaa Venäjällä, mikä heijastaa valtion tiukentunutta kontrollia sosiaalisissa kysymyksissä.
+
+**LOCATION:** Orenburg / Orenburg, 51.767125, 55.097852 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.767125&mlon=55.097852#map=8/51.767125/55.097852) (Оренбург)
+
+**KEYWORDS:** #russia #сво #сф
+
+
+  
+## Kushva palautti 28 kotia tuhoisan myrskyn jäljiltä
+29. kesäkuuta 2026 Siperian alueen kuvernööri ilmoitti, että Kushvassa palautetaan 28 myrskyn tuhoamaa kotia 22. kesäkuuta tapahtuneen myrskyn jälkeen. Lisäksi paikallisten tilojen, mukaan lukien päiväkotien ja sairaalan, korjaustyöt ovat käynnissä, ja ennaltaehkäiseviä rokotuksia on järjestetty terveydellisten huolien vuoksi. [3]
+
+**COMMENT:** Tämä tapahtuma heijastaa Venäjän hallituksen ennakoivaa reaktiota luonnonkatastrofeihin ja sen vaikutuksia paikallishallintaan ja terveydenhuoltomalleihin.
+
+**LOCATION:** Kushva / Kushva, 58.281681, 59.762502 [Click for Map Location](https://www.openstreetmap.org/?mlat=58.281681&mlon=59.762502#map=8/58.281681/59.762502) (Кушва)
+
+**KEYWORDS:** #russia #удар #пуск #про
+
+
+  
+## Venäjän sotilasoperaatiot kohdistuvat Ukrainan infrastruktuuriin
+23. lokakuuta 2023 Venäjän puolustusministeriö raportoi, että Venäjän joukot ovat onnistuneesti kohdistaneet iskuja Ukrainan asevoimien polttoaine-, energia- ja liikenneinfrastruktuuriin. Venäläinen armeija sai myös haltuunsa 209 ukrainalaista dronea ja tuhosi 126 UAV-ohjauspistettä sekä useita Starlink-viestintäasemia edellisenä päivänä. [4]
+
+**COMMENT:** Tämä operaatioiden intensiivistyminen merkitsee strategista keskittymistä Ukrainan logististen ja drone-kykyjen vahingoittamiseen, mikä heijastaa Venäjän sitoutumista pitämään painetta konfliktissa.
+
+**LOCATION:** Ukraina / Ukraine, 49.487197, 31.271832 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) 
+
+**KEYWORDS:** #россия #российский #российские #минобороны рф #вооруженные силы рф #российские военные #минобороны #удар #сво #беспилотник #бпла #перехват #пуск #про
+
+
+  
+## Venäjän armeija iskee Ukrainan kansalliskaartin UAV-ohjauspisteisiin
+29. kesäkuuta 2026 Venäjän armeija suoritti ilmaiskun, joka kohdistui Ukrainan kansalliskaartin drone-ohjauspisteisiin lähellä Kucherov Yaria Donetskin kansantasavallassa. Operaatiossa käytettiin viisi FAB-500-pommia, ja sen seurauksena vahvistettiin vihollisen UAV-toiminnan vähenemistä alueella. [5]
+
+**COMMENT:** Tämä ilmaisku korostaa rajat ylittävien sotilaallisten kohtauskohtien jatkuvaa intensiivisyyttä ja Venäjän sitoutumista häiritsemään Ukrainan drone-toimia.
+
+**LOCATION:** Kucherov Yar / Kucherov Yar, Unknown, Unknown [No Map Available]
+
+**KEYWORDS:** #russia #минобороны рф #вс рф #минобороны #министерство обороны #вкс #удар #авиаудар #беспилотник #бпла #про
+
+
+  
+## Tuomioistuin estää Siperian tiedeakatemian puheenjohtajan
+29. kesäkuuta 2026, Novosibirskin neuvoston 1. tuomioistuin kielsi akateemikko Valentin Parmonin, Siperian tiedeakatemian puheenjohtajan, kuudeksi kuukaudeksi. Tämä päätös johtui toistuvista hallinnollisen lain rikkomuksista syyttäjän pyyntöjen noudattamisessa, mikä herättää huolta vastuullisuudesta tieteellisessä hallinnassa. [6]
+
+**COMMENT:** Tämä kielto osoittaa Venäjän tieteellisten instituutioiden johdon jatkuvaa tarkastelua ja heijastaa hallinnan haavoittuvuutta.
+
+**LOCATION:** Novosibirsk / Novosibirsk, 54.967815, 82.951599 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.967815&mlon=82.951599#map=8/54.967815/82.951599) (Новосибирск)
 
 **KEYWORDS:** #russia #про
 
 
-## Hätätila Otti Voimaan Krimillä ja Sevastopolissa
-On June 26th, 2026, a regional emergency regime was officially implemented in Crimea and Sevastopol following a decision by Crimea's head, Sergey Aksenov, and Sevastopol's governor, Mikhail Razvozhaev. The emergency measures started at 13:00 to address ongoing issues in the region. [2]
+  
+## Kreml luottaa erikoissotatoiminnan tavoitteiden saavuttamiseen
+29. kesäkuuta 2026 Kremlin tiedottaja Dmitri Peskov totesi, että tämänhetkiset dynamiikat eturintamassa viittaavat siihen, että erikoissotatoiminnan tavoitteet, mukaan lukien alueelliset voitot Kurskin alueella, saavutetaan. Hän korosti luottamusta jatkuvaan sotilaalliseen kehitykseen. [7]
 
-**COMMENT:** The introduction of an emergency regime could indicate significant underlying issues in Crimea and Sevastopol, reflecting heightened levels of state control in response to local challenges. In the near term, this may lead to increased scrutiny by authorities and a potential escalation of state responses to any civil unrest or infrastructural problems.
+**COMMENT:** Tämä lausunto heijastaa Kremlissä jatkuvaa aggressiivista linjaa sekä sitoutumista sotilaallisiin tavoitteisiin Ukrainassa.
 
-**LOCATION:** Crimea and Sevastopol / Crimea and Sevastopol, Unknown, Unknown
-
-**KEYWORDS:** #russia #сво
-
-
-## Venäjä ja Ukraina Toteuttavat Vankivaihdon 160 Vankia
-On June 26th, 2026, Russia and Ukraine exchanged 160 prisoners of war each. The returned Russian servicemen are currently in the Republic of Belarus and will undergo rehabilitation before returning to Russia. [3]
-
-**COMMENT:** This exchange demonstrates ongoing negotiations between Russia and Ukraine, indicating diplomatic channels remain active despite the conflict. Future exchanges may signal attempts to build a framework for more substantive peace discussions.
-
-**LOCATION:** Republic of Belarus / Republic of Belarus, Unknown, Unknown
-
-**KEYWORDS:** #russia #россия #российские #минобороны рф #минобороны россии #российские военнослужащие #минобороны #про
-
-
-## Lavrov Vahvistaa Yhdysvaltojen Ehdot Ukrainan Suuntaan
-On June 26th, 2026, Russian Foreign Minister Sergey Lavrov announced that during the Russian-American summit in Alaska, Russia accepted US proposals aimed at resolving the situation in Ukraine. The comments, responding to US Secretary of State Marco Rubio's assertion that no agreement was reached, highlight ongoing diplomatic engagements between the two nations regarding this critical issue. [4]
-
-**COMMENT:** This development indicates a potential shift in Russia's approach to negotiations regarding Ukraine. It may reflect broader strategic considerations within Russia as it navigates its diplomatic relations with the US.
-
-**LOCATION:** Alaska / Alaska, 64.4459613, -149.680909 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.445961&mlon=-149.680909#map=8/64.445961/-149.680909)
-
-**KEYWORDS:** #russia #удар #про
-
-
-## Venäjän Puolustusministeriö Raportoi Droneiskusta Zaporozhyen Logistiikkakeskukseen
-On June 26th, 2026, the Russian Defense Ministry confirmed that a drone strike by the 'Geran-2 Siker' successfully hit a logistics center in Zaporozhye, which was used for transporting military goods. The Ministry released footage of the strike and stated that objective control confirmed the destruction of the target. [5]
-
-**COMMENT:** This drone strike emphasizes Russia's ongoing military operations and its focus on disrupting enemy logistics. Such actions may indicate an intensification of hostilities in the region as Russia seeks to maintain its operational tempo.
-
-**LOCATION:** Zaporozhye / Zaporozhye, Unknown, Unknown
-
-**KEYWORDS:** #russia #минобороны россии #минобороны #удар #беспилотник
-
-
-## Hätätila Julistettiin Krimillä ja Sevastopolissa Monien Kansallisten Tapahtumien Taustalla
-On June 26th, 2026, an emergency regime was introduced in Crimea and Sevastopol amid a series of significant national events, including the appointment of Vyacheslav Gladkov as ambassador to Abkhazia and the death of former Defense Minister Sergei Ivanov at the age of 73. [6]
-
-**COMMENT:** The introduction of an emergency regime in Crimea and Sevastopol may indicate increasing state control measures amid unfolding domestic and foreign pressures. As Russia continues to engage diplomatically regarding Ukraine, further developments in regional stability and governance could emerge in response to both internal and external challenges.
-
-**LOCATION:** Crimea and Sevastopol / Crimea and Sevastopol, Unknown, Unknown
-
-**KEYWORDS:** #russia #россия #министр обороны #сво #про
-
-
-## Novak ja Sobyanin Keskustelevat Polttoaineen Saatavuudesta Moskovassa
-On June 26th, 2026, Deputy Prime Minister Alexander Novak and Moscow Mayor Sergei Sobyanin met to discuss the sustainable supply of oil products to consumers in Moscow. They focused on coordinating federal and local efforts, monitoring fuel reserves, and managing the logistics and pricing of oil products to address market fluctuations. [7]
-
-**COMMENT:** The meeting highlights the government's proactive approach to ensure fuel stability in Moscow amid potential market disruptions. This could indicate heightened governmental awareness regarding energy supply vulnerabilities in urban centers.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Moskova / Moscow, 55.750541, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
 **KEYWORDS:** #russia #сво #про
 
 
-## Venäjän Ilmatorjunta Torjuu Satoja Ukrainan Droneja Viime Aikaisissa Hyökkäyksissä
-On June 25th, 2026, Russian air defense systems intercepted and destroyed 269 Ukrainian drones launched during an attack on various regions of Russia, including Volgograd, Kursk, and Crimea. [8]
+  
+## Putin ja Lukašenka keskustelevat alueellisesta turvallisuudesta Valdai-kokouksessa
+29. kesäkuuta 2026 Venäjän presidentti Vladimir Putin ja Valko-Venäjän presidentti Alexander Lukašenka tapasivat Valdais suurentamaan alueellista turvallisuutta ja keskittyen nouseviin jännitteisiin tiettyjen eurooppalaisten maiden taholta. [8]
 
-**COMMENT:** The interception of such a large number of drones indicates the effectiveness of Russian air defense capabilities and suggests that Ukraine may revisit its operational tactics in the face of this response. In the near term, this event could prompt further military engagements as both sides reassess their strategies in light of recent developments.
+**COMMENT:** Tämä kokous heijastaa jatkuvia huolenaiheita Kremlissä alueellisten turvallisuuskysymysten ja Lännen mahdollisten uhkien tiimoilta.
 
-**LOCATION:** Volgograd / Volgograd, 48.7081906, 44.5153353 [Click for Map Location](https://www.openstreetmap.org/?mlat=48.708191&mlon=44.515335#map=8/48.708191/44.515335)
+**LOCATION:** Valdai / Valdai, Unknown, Unknown [No Map Available]
 
-**KEYWORDS:** #россия #российские #минобороны рф #российские военные #минобороны #пво #удар #сво #беспилотник #бпла #перехват #пуск #пункт управления #сф #армия #про
+**KEYWORDS:** #russia #удар #про
 
 
-## 68 Dronea Ammuttiin Alas Venäjän ja Mustanmeren Alueilla
-On June 26th, 2026, Russian air defense forces intercepted 68 drones belonging to the Ukrainian Armed Forces over several regions in Russia as well as the Azov and Black Seas. [9]
+  
+## Putin tapaa oikeusasiamies Lantratovan
+29. kesäkuuta 2026 Venäjän presidentti Vladimir Putin tapaa Yana Lantratovan, uuden ihmisoikeusvaltuutetun, hänen ensimmäisessä työssään Putinin kanssa. Keskustelu keskittyy vankien vaihtoon ja perhesiteiden uudelleen yhdistämiseen, mikä heijastaa jatkuvaa valtion huomiota humanitaarisiin kysymyksiin. [9]
 
-**COMMENT:** The high volume of intercepted drones indicates ongoing military tensions between Russia and Ukraine, emphasizing the effectiveness of Russian air defenses. This incident may lead to further operational adjustments by Russian military forces in response to perceived threats from Ukrainian aerial capabilities.
+**COMMENT:** Tämä tapaaminen korostaa Kremlissä ihmisoikeuksien merkitystä haastavissa sisäisissä ja kansainvälisissä konteksteissa.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Moskova / Moscow, 55.750541, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #минобороны рф #минобороны #пво #беспилотник #бпла #перехват #про
+**KEYWORDS:** #russia #удар
 
 
-## Putin Kieltää Ulkomaalaisten Taistelijoiden Käännyttämisen Venäjän Asevoimissa
-On June 26th, 2026, Russian President Vladimir Putin signed a law banning the deportation of foreigners who have fought in the armed forces of the Russian Federation. This law applies to foreign citizens and stateless persons who have served or are serving with the Russian military and ensures they cannot be deported or denied residence and work permits. [10]
+  
+## Peskov vahvistaa Venäjän aseman johdonmukaisuuden Ukrainassa
+29. kesäkuuta 2026 Dmitri Peskov, Venäjän presidentin lehdistösihteeri, toisti, että Venäjän kanta rauhanomaiseen ratkaisuun Ukrainassa pysyy johdonmukaisena. Hänen huomionsa viittaavat Venäjän jatkuvaan strategiseen suunnitelmaan vaikka alueella esiintyy jatkuvasti kehityksiä. [15]
 
-**COMMENT:** This development indicates an effort to maintain the personnel strength of Russian armed forces, particularly among foreign fighters. It may also reflect broader strategies to integrate these individuals into Russian society to reinforce loyalty to the state amid ongoing military engagements.
+**COMMENT:** Tämä Peskovin lausunto osoittaa Venäjän sitoutumisen ulkopoliittisiin tavoitteisiinsa Ukrainaan liittyen.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Moskova / Moscow, 55.750541, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #российский #вооруженные силы рф #вс рф #вс россии #сво #сф #про
+**KEYWORDS:** #россия #про
 
 
-## IWF Sallii Venäläisten Painonnostajien Kilpailla Kansallisella Lipulla ja Hymnillä
-On June 26th, 2026, the International Weightlifting Federation (IWF) announced that Russian athletes are permitted to compete in official tournaments while representing the Russian Federation under its national flag and anthem. [11]
+  
+## Venäjän armeija vapauttaa Bogodarovkan Dnipropetrovskin alueella
+29. kesäkuuta 2026 Venäjän armeija ilmoitti vapauttaneensa Bogodarovkan kylän Dnipropetrovskin alueella Ukrainan joukoilta. Tiedustelu- ja puolustusministeriön mukaan Vostok-ryhmän joukot etenivät menestyksekkäästi vihollisen alueelle. [12]
 
-**COMMENT:** This development indicates a potential normalization of Russian participation in international sports, which may reflect broader diplomatic efforts by Russia to reintegrate into global sports communities. Observing future responses from international bodies will be crucial to understanding the implications for Russia's international standing and influence.
+**COMMENT:** Bogodarovkan vapautus saattaa merkitä muutosta Venäjän sotilaallisessa kyvykkyydessä Dnipropetrovskin alueella.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Bogodarovka / Bogodarovka, Unknown, Unknown [No Map Available]
 
-**KEYWORDS:** #россия #российский #удар #пуск #про
+**KEYWORDS:** #минобороны рф #вс россии #минобороны #армия россии #удар #сво #сф #часть #армия #про
 
 
-## Syytetty Yli 5 Miljardin Ruplan Ryöstöstä Roskosmosilta Myöntää Syyn
-On June 26th, 2026, a hearing commenced in Voronezh regarding the embezzlement of over 5 billion rubles from JSC Design Bureau of Chemical Automatics, a regional entity under Roscosmos. [12]
+  
+## Venäjän puolustusministeriö korostaa Bogodarovkan vapautuksen merkitystä
+29. kesäkuuta 2026 Venäjän puolustusministeriö ilmoitti Bogodarovkan kylän onnistuneesta vapauttamisesta Dnipropetrovskin alueella, mikä mahdollistaa venäläisten joukkojen varmistaa asema Gaichur-joen oikealla rannalla. [17]
 
-**COMMENT:** This high-profile embezzlement case highlights potential vulnerabilities in the oversight of state contracts within Roscosmos. It may trigger tighter scrutiny over similar contracts and reinforce internal controls in Russian state enterprises in the near future.
+**COMMENT:** Bogodarovkan vapautus edustaa taktista edistystä venäläisille joukoille.
 
-**LOCATION:** Voronezh / Voronezh, 51.6605982, 39.2005858 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.660598&mlon=39.200586#map=8/51.660598/39.200586)
+**LOCATION:** Dnipropetrovskin alue / Dnipropetrovsk region, Unknown, Unknown [No Map Available]
 
-**KEYWORDS:** #россия #сф #про
+**KEYWORDS:** #минобороны рф #минобороны россии #мо рф #вооруженные силы рф #вс рф #минобороны #сво #про
 
 
-## Peskov Tuomitsee Venäläisten Voimistelijoiden Kansallisen Symboliikan Vakauden
-On June 26th, 2026, Dmitry Peskov, the Press Secretary of the Russian President, condemned the decision by the organizers of the Challenge Cup in Cluj-Napoca, Romania, to prohibit Russian gymnasts from competing under their national flag. [13]
+  
+## Moskovan poliisi ja FSB purkavat puhelinhuijareiden viestintäsolmun
+29. kesäkuuta 2026 Moskovan poliisi ja FSB eliminoivat huijausyritysten käytössä olleen viestintäsolmun, minkä seurauksena pidätettiin 27-vuotias asukas ja 18-vuotias ulkomaalainen. [18]
 
-**COMMENT:** This incident underscores ongoing tensions in international sports regarding national representation from Russia. The Kremlin may leverage this controversy to strengthen nationalistic narratives and justify further measures against perceived injustices in international sporting events.
+**COMMENT:** Tämä toimenpide korostaa Venäjän viranomaisten jatkuvaa taistelua järjestäytynyttä rikollisuutta vastaan.
 
-**LOCATION:** Cluj-Napoca / Cluj-Napoca, 46.769379, 23.5899542 [Click for Map Location](https://www.openstreetmap.org/?mlat=46.769379&mlon=23.589954#map=8/46.769379/23.589954)
+**LOCATION:** Moskova / Moscow, 55.750541, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #российские #про
+**KEYWORDS:** #россия #удар #пуск #про
 
 
-## Ilman Dronevaara Peruttiin Tuapsin Alueella
-On June 26th, 2026, the head of the Tuapse municipal district, Sergey Boyko, announced the cancellation of the unmanned danger regime due to the perceived threat from UAV attacks. [14]
+  
+## Rikosasiat avattu ultrakevyen lentokoneen onnettomuuden jäljiltä Leningradin alueella
+29. kesäkuuta 2026 Leningradin liikenneosasto avasi rikosasian ultrakevyen E-12-lentokoneen onnettomuuden vuoksi Volosovin piirissä. Tämä tapaus johtui 28. kesäkuuta tapahtuneesta onnettomuudesta, joka johti 70-vuotiaan pilotin kuolemaan. [19]
 
-**COMMENT:** The lifting of the unmanned danger status suggests a temporary reassessment of UAV threats in the Tuapse district. Continued monitoring of drone activity in this area may indicate evolving security dynamics in response to ongoing tensions.
+**COMMENT:** Tämä tapaus tuo esiin mahdollisia sääntely- ja turvallisuuskysymyksiä ultrakevyessä ilmailussa Venäjällä.
 
-**LOCATION:** Tuapse / Tuapse, Unknown, Unknown
+**LOCATION:** Leningradin alue / Leningrad Oblast, 60.185330, 32.392533 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.185330&mlon=32.392533#map=8/60.185330/32.392533) (Ленинградская область)
 
-**KEYWORDS:** #россия #сво #беспилотник #бпла #про
+**KEYWORDS:** #россия #удар #про
 
 
-## Pelastajat Vapauttivat Pojan Hiekasta Gubkinissä
-On June 25th, 2026, rescuers in Gubkin, Yamal-Nenets Autonomous Okrug, freed a ten-year-old boy who had become trapped in sand mixed with water at the site of a demolished structure. [15]
+  
+## Venäjä ja Qatar perustavat kriisiviestintäkanavan
+29. kesäkuuta 2026 Venäjän ja Qatarin sotilasosastot allekirjoittivat muistion kriisiviestintäkanavan perustamisesta operatiiviseen yhteistyöhön. [20]
 
-**COMMENT:** This incident illustrates potential safety hazards related to demolition sites and the risks they pose to the public, particularly minors. Such occurrences may prompt local authorities to implement stricter safety regulations in the future to prevent similar accidents.
+**COMMENT:** Tämän viestintäkanavan luominen vahvistaa sotilas suhteita Venäjän ja Qatarin välillä.
 
-**LOCATION:** Gubkin / Gubkin, Unknown, Unknown
+**LOCATION:** Moskova / Moscow, 55.750541, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #сво #часть #про
+**KEYWORDS:** #россия #минобороны #ввс #армия #про
 
 
-## Entinen Venäjän Puolustusministeri Sergei Ivanov Kuolee
-On June 26th, 2026, former Russian Defense Minister Sergei Ivanov passed away at the age of 74. [16]
+  
+## Kurskin asukas kertoo kidutuksesta Ukrainan vankilasta vapautuessaan
+29. kesäkuuta 2026 Kurskin alueelta, Roman, palasi vankilasta Ukrainan asevoimien haltuun ja kertoi vakavasta kidutuksesta vangittuna ollessaan Vinnytsian alueella. [21]
 
-**COMMENT:** Ivanov's death may signal the end of an era for certain sectors of Russian defense and civil governance as he was a significant figure in bridging military and environmental policy. This could lead to shifts in the leadership dynamics within the Russian government, especially concerning defense and ecological issues.
+**COMMENT:** Tämä kerronta voi olla Venäjän viranomaisten käytössä muokkaamaan julkista käsitystä vangittujen venäläisten kohtelusta ulkomailla.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Kursk / Kursk, 51.730925, 36.192312 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.730925&mlon=36.192312#map=8/51.730925/36.192312) (Курск)
 
-**KEYWORDS:** #россия #российские #вс рф #минобороны #министр обороны #удар #сво #пуск #сф #про
+**KEYWORDS:** #россия #российский #удар #сво #про
 
 
-## Sveitsin Tiedustelu Raportoi Venäjän Ylivoimasta Ukrainan Konfliktissa
-On June 26th, 2026, the Swiss Federal Intelligence Service released its annual report indicating that Russia holds a significant advantage over Ukraine in terms of equipment and personnel, which is impacting the front lines of the conflict. [17]
+  
+## Kuljettaja pakenee paikalta massaturmassa Krasnodarissa
+29. kesäkuuta 2026 Kuljettaja Krasnodarissa aiheutti massaturman useiden ajoneuvojen kanssa ja sitten pakeni paikalta. Hyundai-ajoneuvon kuljettaja menetti hallinnan, törmäsi useisiin pysäköityihin autoihin ja pakeni lopulta jalkaisin. [22]
 
-**COMMENT:** This development highlights the shifting dynamics in the Ukraine conflict, where Russia appears to be consolidating its military advantages. The implications of declining foreign support for Ukraine could exacerbate its vulnerabilities, potentially altering the course of the conflict in the near term.
+**COMMENT:** Tämä tapaus tuo esiin tien turvallisuuteen ja valvontaan liittyviä haasteita Krasnodarissa.
 
-**LOCATION:** Ukraine / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
+**LOCATION:** Krasnodar / Krasnodar, 45.035153, 38.977240 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.035153&mlon=38.977240#map=8/45.035153/38.977240) (Краснодар)
 
-**KEYWORDS:** #россия #российские #российские войска #армия россии #офицер #удар #разведка #беспилотник #пуск #армия #про
+**KEYWORDS:** #россия #про
 
 
-## Lentokonesuunnitelma Vapautettujen Venäläisten Sotilaiden Kuljetuksessa Alueen Huolloissa
-On June 26th, 2026, a plane carrying 160 Russian servicemen who were released from Ukrainian captivity landed in the Moscow suburbs following a prisoner exchange between Russia and Ukraine. [18]
+  
+## Venäjän armeija vapauttaa Bogodarovkan Dnipropetrovskin alueella
+29. kesäkuuta 2026 Venäjän armeija ilmoitti vapauttaneensa Bogodarovkan kylän Dnipropetrovskin alueella. [23]
 
-**COMMENT:** This development highlights ongoing prisoner exchange negotiations amid tensions between Russia and Ukraine, showcasing diplomatic engagement even in a heated conflict. Future exchanges could indicate a gradual easing in hostilities or a strategic move to maintain domestic support for military actions.
+**COMMENT:** Tämä tapahtuma heijastaa jatkuvia venäläisten sotilaallisia ponnistuksia saada valtakunnallinen aluevalta Ukrainassa.
 
-**LOCATION:** suburbs of Moscow / suburbs of Moscow, Unknown, Unknown
+**LOCATION:** Dnipropetrovsk alue / Dnipropetrovsk region, Unknown, Unknown [No Map Available]
 
-**KEYWORDS:** #россия #минобороны рф #минобороны #сво #про
+**KEYWORDS:** #вс рф #минобороны #армия россии #гарнизон #полк #сво #логистика #десант #армия #про
 
 
-## IWF Koheltaa Venäläisten Painonnostajien Kilpailun Kansallisella Lipulla ja Hymnillä
-On June 26th, 2026, the International Weightlifting Federation (IWF) announced that Russian and Belarusian weightlifters will be allowed to compete under their national flags and have their national anthems played during competitions. [19]
+  
+## Moskovan ja Kiovan hiljainen diplomaatti ombudsmien kautta
+29. kesäkuuta 2026 varovaisesti vakavassa asiassa Venäjä ja Ukraina ylläpitävät vuoropuhelua ombudsmien kautta, vaikka muodolliset diplomaattisuhteet ovat keskeytettyjä. [24]
 
-**COMMENT:** This development reflects a significant shift in the IWF's stance, potentially re-integrating Russian athletes into international competitions. The implications of this may include improved morale among Russian athletes and further discussions around the broader geopolitical landscape in sports.
+**COMMENT:** Tämä vuoropuhelu ombudsmien kautta viittaa jatkumiseen helpottavissa humanitaarisissa kysymyksissä huolimatta laajemmista poliittisista jännitteistä.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Venäjä / Russia, 64.686314, 97.745306 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
 
-**KEYWORDS:** #российские #удар #сво #пуск #про
+**KEYWORDS:** #российский #учения #сво #про
 
 
-## Putin Allekirjoittaa Uudet Lait Petosten Torjumiseksi Venäjällä
-On June 26th, 2026, President Vladimir Putin signed a new package of measures aimed at combating telephone and cyber fraud in Russia, which has been under review for about a year. [20]
+  
+## Venäjän sotilasdronet hyökkäävät Kharkiviin
+29. kesäkuuta 2026 Venäjän dronet kohdistivat kahta paikkaa Kharkivissa, tarkemmin sanottuna rautatiejunktioon "Cold Mountain" ja Kharkivin korkeampaan tankkikomentokouluun. [25]
 
-**COMMENT:** The new anti-fraud measures reflect ongoing concerns about cyber crime and the need for robust responses from the Russian government. The implementation of these policies may impact the operational capabilities of fraud networks, potentially leading to shifts in how these schemes operate.
+**COMMENT:** Tämä dronehyökkäys korostaa Venäjän ilmavoimien jatkuvaa käyttöä sotilaslogistiikan kohdistamiseksi.
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Kharkiv / Kharkiv, 49.992318, 36.231015 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.992318&mlon=36.231015#map=8/49.992318/36.231015) (Харьков)
 
-**KEYWORDS:** #россия #сво #про
+**KEYWORDS:** #российские #вс рф #удар #беспилотник #часть #про
 
 
-## Venäjän Erityispalvelut Paljastaa Nuorten Terroristiverkoston Rekrytoinneissa
-On June 26th, 2026, Russian Federal Security Service (FSB) agents reported the dismantling of a teenage terrorist network operating in Dagestan that recruited minors for various criminal activities, including school shootings. [21]
+# Lähteet
 
-**COMMENT:** The emergence of such networks may indicate a concerning shift in recruitment strategies by terrorist organizations, targeting vulnerable minors. The FSB's proactive measures may need to be intensified to prevent further escalation of youth radicalization and violence.
+[1] interfax.ru - https://interfax.ru/russia/1098959?utm_source=top
 
-**LOCATION:** Dagestan / Dagestan, 43.0, 47.0 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.000000&mlon=47.000000#map=8/43.000000/47.000000)
+[2] interfax.ru - https://interfax.ru/russia/1098954?utm_source=top
 
-**KEYWORDS:** #россия #штаб #сво #бпла #часть #про
+[3] interfax.ru - https://interfax.ru/russia/1098986
 
+[4] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
 
-## Putin Allekirjoittaa Lain, Jolla Alueet Voi Kieltää Vape-myynnin Vuodesta 2027
-On June 26th, 2026, President Vladimir Putin signed legislation allowing Russian regions to impose a complete ban on the sale of electronic cigarettes starting in 2027. [22]
+[5] interfax.ru - https://interfax.ru/russia/1098984
 
-**COMMENT:** This development reflects ongoing efforts by the Russian government to regulate health-related matters and control substance sale at the regional level. The near-term implications may include increased enforcement actions and a potential decline in vape-related commerce across many regions.
+[6] interfax.ru - https://interfax.ru/russia/1098983
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+[7] interfax.ru - https://interfax.ru/russia/1098978
 
-**KEYWORDS:** #россия #удар #сво #про
+[8] interfax.ru - https://interfax.ru/russia/1098979
 
+[9] interfax.ru - https://interfax.ru/russia/1098977
 
-## Varatoimitusjohtaja Novak Käsittelee Polttoaine Tilausta Venäjällä
-On June 26th, 2026, Russian Deputy Prime Minister Alexander Novak provided an update on the current fuel market situation amid rising concerns about gasoline shortages in certain regions. [23]
+[10] interfax.ru - https://interfax.ru/russia/1098976
 
-**COMMENT:** This development highlights the Russian government's ongoing challenges in managing domestic fuel supplies and public sentiment. The emphasis on addressing perceived artificial shortages may signal efforts to prevent further market instability and public unrest related to fuel access.
+[11] interfax.ru - https://interfax.ru/russia/1098974
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+[12] aif.ru - https://aif.ru/society/armiya-rossii-osvobodila-bogodarovku-v-dnepropetrovskoy-oblasti
 
-**KEYWORDS:** #россия #штаб #удар #про
+[13] aif.ru - https://aif.ru/society/ukrainu-tryaset-ot-vozmezdiya-za-ataki-na-rf-glavnaya-novost-svo-29-iyunya
 
+[14] aif.ru - https://aif.ru/society/stalo-izvestno-otkuda-zapuskali-drony-v-storonu-podmoskovya-29-iyunya
 
-## Apple Poisti VK-sovellukset Venäjän App Storesta
-On June 25th, 2026, Apple removed several Russian applications, including VKontakte and VK Music, from its App Store, impacting various communication and educational services. [24]
+[15] www.vesti.ru - https://www.vesti.ru/ns/peskov-zayavil-o-posledovatelnosti-pozicii-rf-po-ukraine
 
-**COMMENT:** The removal of VK applications may signify increasing digital control measures against Russian tech platforms amid ongoing geopolitical tensions. In the near term, this could lead to further restrictions on digital services and foster domestic alternatives, potentially impacting user accessibility and platform dynamics in Russia.
+[16] www.vesti.ru - https://www.vesti.ru/ns/vs-rf-osvobodili-bogodarovku-v-dnepropetrovskoj-oblasti
 
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+[17] www.vesti.ru - https://www.vesti.ru/ns/v-minoborony-rf-rasskazali-o-znachenii-osvobozhdeniya-bogodarovki
 
-**KEYWORDS:** #россия #российские #удар #сво #про
+[18] www.vesti.ru - https://www.vesti.ru/ns/v-moskve-likvidirovali-uzel-svyazi-telefonnykh-aferistov
 
+[19] www.vesti.ru - https://www.vesti.ru/ns/po-faktu-krusheniya-sverkhlegkogo-samoleta-v-lenoblasti-vozbudili-delo
 
-## Venäläiset Sotilaat Palautettiin Ukrainasta Vankivaihdon Myötä
-On June 26th, 2026, a military transport aircraft Il-76MD delivered 160 Russian soldiers released from Ukrainian captivity to the suburbs of Moscow as part of a detainee exchange facilitated by the United Arab Emirates. [25]
+[20] www.vesti.ru - https://www.vesti.ru/ns/voennye-rf-i-katara-sozdadut-kanal-svyazi-na-sluchaj-krizisnykh-situacij
 
-**COMMENT:** This event highlights ongoing diplomatic efforts and exchange processes surrounding the conflict between Russia and Ukraine, indicating active engagement in humanitarian negotiations. Future exchanges may continue to reflect the dynamics of the conflict and Russia's strategic interests in repatriating its personnel.
+[21] www.vesti.ru - https://www.vesti.ru/ns/osvobozhdennyj-iz-plena-vsu-kuryanin-rasskazal-o-pytkakh
 
-**LOCATION:** suburbs of Moscow / suburbs of Moscow, Unknown, Unknown
+[22] www.vesti.ru - https://www.vesti.ru/ns/v-krasnodare-vinovnik-massovogo-dtp-skrylsya-s-mesta-avarii
 
-**KEYWORDS:** #российский #сво #про
+[23] iz.ru - https://iz.ru/2123807/2026-06-29/armiia-rossii-osvobodila-naselennyi-punkt-bogodarovka-v-dnepropetrovskoi-oblasti
 
+[24] rg.ru - https://rg.ru/2026/06/29/galuzin-rasskazal-o-tihoj-diplomatii-mezhdu-rossiej-i-ukrainoj.html
 
-# Sources
+[25] rg.ru - https://rg.ru/2026/06/29/koc-soobshchil-o-priletah-geranej-5-po-voennym-eshelonam-i-skladam-v-harkove.html
 
-[1] interfax.ru - https://interfax.ru/russia/1098564?utm_source=top
+[26] rg.ru - https://rg.ru/2026/06/29/armiia-rf-osvobodila-selo-bogodarovka-v-dnepropetrovskoj-oblasti.html
 
-[2] interfax.ru - https://interfax.ru/russia/1098508?utm_source=top
+[27] rg.ru - https://rg.ru/2026/06/28/putin-nazval-novye-predlozheniia-kieva-po-uregulirovaniiu-konflikta.html
 
-[3] interfax.ru - https://interfax.ru/russia/1098535?utm_source=top
-
-[4] interfax.ru - https://interfax.ru/russia/1098498?utm_source=top
-
-[5] interfax.ru - https://interfax.ru/russia/1098647
-
-[6] interfax.ru - https://interfax.ru/russia/1098632
-
-[7] interfax.ru - https://interfax.ru/russia/1098635
-
-[8] aif.ru - https://aif.ru/society/krushashchiy-otvet-zastavil-kiev-pozhalet-ob-atakah-vzorvany-glavnye-obekty
-
-[9] www.vesti.ru - https://www.vesti.ru/ns/za-shest-chasov-sbito-68-dronov-nad-regionami-rossii-azovskim-i-chernym-moryami
-
-[10] www.vesti.ru - https://www.vesti.ru/ns/putin-zapretil-deportaciyu-inostrancev-voevavshikh-v-sostave-vs-rossii
-
-[11] www.vesti.ru - https://www.vesti.ru/ns/iwf-dopustila-rossijskikh-tyazheloatletov-k-turniram-pod-flagom-i-gimnom-rf
-
-[12] www.vesti.ru - https://www.vesti.ru/ns/obvinyaemyj-v-khishchenii-bolee-5-mlrd-rublej-u-struktury-roskosmosa-priznal-vinu
-
-[13] www.vesti.ru - https://www.vesti.ru/ns/peskov-otreagiroval-na-reshenie-zapretit-gimnastkam-iz-rossii-nacsimvoliku
-
-[14] www.vesti.ru - https://www.vesti.ru/ns/bespilotnaya-opasnost-v-tuapsinskom-okruge-otmenena
-
-[15] www.vesti.ru - https://www.vesti.ru/ns/v-gubkinskom-spasateli-osvobodили-malchika-iz-peska-na-meste-snesennogo-stroeniya
-
-[16] iz.ru - https://iz.ru/2122674/2026-06-26/chto-proizoshlo-za-den-26-iiunia-glavnoe
-
-[17] iz.ru - https://iz.ru/2122771/razvedka-shveitcarii-zaiavila-o-prevoskhodstve-rossii-na-fronte-s-ukrainoi-izi?main_click
-
-[18] rg.ru - https://rg.ru/2026/06/26/samolet-s-osvobozhdennymi-iz-ukrainskogo-plena-voennymi-prizemlilsia-v-podmoskove.html
-
-[19] rg.ru - https://rg.ru/2026/06/26/iwf-dopustila-rossijskih-tiazheloatletov-k-sorevnovaniiam-s-flagom-i-gimnom.html
-
-[20] www.kp.ru - https://www.kp.ru/daily/277793.5/5268890/
-
-[21] www.kp.ru - https://www.kp.ru/daily/277792/5268272/
-
-[22] www.kp.ru - https://www.kp.ru/daily/277793.5/5268856/
-
-[23] www.kp.ru - https://www.kp.ru/daily/277793.5/5268512/
-
-[24] www.kp.ru - https://www.kp.ru/daily/277792/5268152/
-
-[25] www.kp.ru - https://www.kp.ru/online/news/7043096/
+[28] www.kp.ru - https://www.kp.ru/daily/277793/5269342/
