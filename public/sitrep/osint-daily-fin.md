@@ -1,380 +1,174 @@
-# Report Date: 2026-07-06
+# Report Date: 2026-07-07
 
 ## Summary
-Raportointijaksolla Venäjän ja Ukrainan välinen konflikti on kärjistynyt merkittävästi, erityisesti suurten dronehyökkäysten ja vastahyökkäysten myötä. Venäjän puolustusministeriö on ilmoittanut lisäävänsä iskuja vastatakseen länsimaisten aseiden toimituksiin Ukrainalle. Ongoing drone warfare on kummankin osapuolen toimesta osoittaa strategista kehitystä konfliktissa. Tämänhetkiset tapahtumat viittaavat siihen, että tilanne saattaa kärjistyä entisestään, mikä johtaa lisääntyneeseen kansainväliseen huomioon ja mahdollisiin laajentuneisiin sotilaallisiin sitoutumisiin.
+Raportointijaksolla Venäjällä on tapahtunut useita merkittäviä poliittisia ja sotilaallisia kehityksiä. Venäjän hallitus on ilmoittanut toimista, jotka pyrkivät vahvistamaan turismia ja teknologian itsenäisyyttä. Samalla julkiset lausunnot viittaavat kasvavaan haluun vahvistaa kansallista yhtenäisyyttä ja liittyä takaisin kansainvälisiin keskusteluihin. Kuitenkin sotilaalliset toimet Ukrainassa ja konfliktin vaikutukset siviiliväestöön pysyvät huolestuttavina. Lähitulevaisuuden kehityksissä voidaan odottaa jatkoa sekä sisäpolitiikan että kansainvälisen vuoropuhelun kehityksistä.
 
-## Venäjän puolustusministeriö käynnistää mittavan yöiskun Ukrainaan
-Raporttien mukaan 6. heinäkuuta 2026 Venäjän puolustusministeriö ilmoitti merkittävästä yöiskuista, joka kohdistui sotilas- ja teollisuuskohteisiin Ukrainassa, mukaan lukien suurkaupungit kuten Kiova. Hyökkäys oli vastatoimi aiemmille Ukrainan iskuille siviili-infrastruktuurin kohteena Venäjällä. [1]
+## Venäläishotellit Velvoitetaan Hyväksymään Asiakkaita Ilman Asiakirjoja 1. Syyskuuta Alkaen
+Maaliskuun 20. päivänä 2026 Venäjän talouskehitysministeri Maxim Reshetnikov ilmoitti, että syyskuun 1. päivästä alkaen yli 50 huoneen hotellit on velvoitettu majoittamaan vieraita jopa ilman henkilöllisyystodistuksia Max-messengerin kautta. Toimenpiteen tavoitteena on parantaa matkailuinfrastruktuuria ja varmistaa helpompi pääsy majoitukseen, mikä edellyttää hotellien varustamista ja henkilöstön kouluttamista määräajan mennessä umpeen. [1]
 
-**COMMENT:** Tämä eskalointi osoittaa merkittävää intensiivistymistä Venäjän sotilaallisissa operaatioissa tuleville uhanalaisille toimille, mikä voi johtaa lisääntyvään kansainväliseen tarkkailuun ja mahdolliseen sotilaallisen sitoutumisen eskaloitumiseen alueella.
+**COMMENT:** Toimenpide osoittaa siirtymistä kohti enemmän turistien majoittamista, mikä voi heijastaa pyrkimyksiä vahvistaa matkailusektoria muuttuvassa taloudellisessa tilanteessa. Lähitulevaisuudessa tämä politiikka voi lisätä sekä kotimaisten että ulkomaisten turistien virtoja, vaikuttaen paikallisiin talouksiin ja majoituspalveluihin Venäjällä.
 
-**LOCATION:** Kiova / Kyiv, Unknown, Unknown [Click for Map Location](Unknown)
-
-**KEYWORDS:** #российские #минобороны рф #российские военные #минобороны #удар #высокоточное оружие #беспилотник #про
-
-
-## Ilmaiset polttoaineet myynnissä 11 huoltoasemalla Sevastopolissa
-6. heinäkuuta 2026 Sevastopolin kuvernööri Mikhail Razvozhaev ilmoitti ilmaisista polttoaineen myynnistä 11 Atan-verkon huoltoasemalla alkaen kello 10:00. Jokaisella huoltoasemalla annetaan riittävästi polttoainetta 100–250 ajoneuvolle, rajoitus on 20 litraa per auto eikä myyntiä kanistereissa sallita. [2]
-
-**COMMENT:** Tämä toimenpide heijastaa valtion pyrkimyksiä hallita polttoaineen jakelua mahdollisten puutteiden tai julkisen kysynnän keskellä.
-
-**LOCATION:** Sevastopol / Sevastopol, 55.7544976, 37.6157186 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.754498&mlon=37.615719#map=8/55.754498/37.615719)
-
-**KEYWORDS:** #russia #сво #про
-
-
-## Armenian pääministeri Pashinyan vierailee Venäjällä teollisuusnäyttelyssä
-6. heinäkuuta 2026 Armenian pääministeri Nikol Pashinyan saapui Jekaterinburgiin, Venäjälle, osallistuakseen XVI Kansainvälisen teollisuusnäyttelyn "Innoprom" plenaariseen kokoukseen. Vierailunsa aikana hän tapaa Venäjän pääministeri Mikhail Mishustinin, mikä merkitsee Pashinyanin ensimmäistä virallista matkaa sen jälkeen tuoreista parlamenttivaaleista Armeniassa. [3]
-
-**COMMENT:** Pashinyanin vierailu korostaa jatkuvaa taloudellista ja teollista yhteistyötä Armenian ja Venäjän välillä.
-
-**LOCATION:** Jekaterinburg / Yekaterinburg, 56.8382071, 60.6007886 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.838207&mlon=60.600789#map=8/56.838207/60.600789)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
 
 **KEYWORDS:** #russia #про
 
 
-## Etsinnät käynnissä kadonneille turisteille Kolyma-joella
-6. heinäkuuta 2026 käynnistyi etsintätoiminta Magadanin alueella, kun viiden turistin ryhmä katosi Iganja- ja Arman-jokilla. Pelastustoimet, mukaan lukien Mi-8-helikopteri ja etsintä- ja pelastustiimi, on lähetetty kadonneiden löytämiseksi. [4]
+## Volodin Kehottaa Valtiodumaa Vältämään Poliittisia Etuja Polttoainekriisistä
+Maaliskuun 20. päivänä 2026, Valtioduman puheenjohtaja Vyacheslav Volodin kehotti kaikkia poliittisia ryhmiä pidättäytymään nykyisen polttoainetilanteen hyödyntämisestä vaalietuina tulevien vaalien alla. Hän korosti poliittisen yhdistymisen tarvetta kansallisten etujen puolustamiseksi sen sijaan, että pyrittäisiin omia etuja tavoittelevaan poliittiseen voittoon. [2]
 
-**COMMENT:** Kadonneiden turistien tapaus korostaa turvallisuuteen liittyviä haasteita Venäjän syrjäisillä alueilla.
+**COMMENT:** Volodinin kommentit viittaavat mahdolliseen yhteishengen edistämiseen poliittisten ryhmien keskuudessa taloudellisten haasteiden keskellä. Tämä lähestymistapa voi vaikuttaa tuleviin vaalistrategioihin ja kampanjan narratiiveihin, keskittyen enemmän kansalliseen yhtenäisyyteen kuin poliittiseen jakautumiseen.
 
-**LOCATION:** Magadan Oblast / Magadan Oblast, 63.5515028, 154.014726 [Click for Map Location](https://www.openstreetmap.org/?mlat=63.551503&mlon=154.014726#map=8/63.551503/154.014726)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
 
-**KEYWORDS:** #russia #вертолет #про
-
-
-## Mishustin tapaa Pashinyanin Innopromissa Jekaterinburgissa
-6. heinäkuuta 2026 Venäjän pääministeri Mikhail Mishustin tapasi Armenian pääministeri Nikol Pashinyanin aikana Innoprom-kansainvälisessä teollisuusnäyttelyssä Jekaterinburgissa. Tämä tapaaminen korostaa jatkuvaa diplomaattista sitoutumista maiden välillä. [5]
-
-**COMMENT:** Tämä kokous viittaa jatkuvaan pyritään vahvistaa suhteita Venäjän ja Armenian välillä.
-
-**LOCATION:** Jekaterinburg / Yekaterinburg, 56.8382071, 60.6007886 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.838207&mlon=60.600789#map=8/56.838207/60.600789)
-
-**KEYWORDS:** #russia #россия #сво #тоф #про
+**KEYWORDS:** #russia #удар #сво
 
 
-## Omskin kuvernööri raportoi UAV:n ammutuksi alueella
-6. heinäkuuta 2026 Omskin alueella ilmatorjuntajoukot torjuivat onnistuneesti hyökkäyksen miehittämättömästä ilma-aluksesta (UAV), kuten Omskin kuvernööri Vitaly Hotsenko on raportoinut. [6]
+## Peskov Selittää Vuoropuhelun Mahdottomuutta Lännen Kanssa
+Maaliskuun 20. päivänä 2026 Dmitry Peskov, Venäjän presidentin tiedottaja, totesi, että erityisen sotilasoperaation (SVO) aloittaminen oli välttämätön vastaus Lännen maiden vuoropuhelun epäonnistumiseen. Peskovin lausunnot korostavat Venäjän jatkuvaa kovaa linjaa suhteissaan Länteen, viitaten aikaisempiin neuvotteluihin Euroopan maiden ja Yhdysvaltojen kanssa, joita hän pitää tuottamattomina. [3]
 
-**COMMENT:** Tämä tapahtuma korostaa UAV:n jatkuvia uhkia.
+**COMMENT:** Peskovin kommentit heijastavat laajempaa eristäytymisnarratiivia ja perusteltua sotilaallista toimintaa Venäjän poliittisessa retorikassa. Tämä kanta voi viitata Venäjän ulkopolitiikan lähestymistavan mahdolliseen juurtumiseen, joka rajoittaa tulevaa diplomaattista vuoropuhelua Lännen kumppaneiden kanssa.
 
-**LOCATION:** Omsk / Omsk, 54.991375, 73.371529 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.991375&mlon=73.371529#map=8/54.991375/73.371529)
-
-**KEYWORDS:** #russia #пво #сво #беспилотник #бпла
-
-
-## Yhdistyneen Venäjän fraktio tukee AI-kehittäminen säädöstä
-6. heinäkuuta 2026 Yhdistyneen Venäjän fraktio ilmoitti aikovansa tukea hallituksen lakiesitystä ensimmäisessä käsittelyssä, joka koskee tekoälyteknologioiden kehittämistä, toteuttamista ja käyttöä Venäjän federaatiossa. [7]
-
-**COMMENT:** Tukeminen AI-säädökselle viittaa strategiseen siirtoon Venäjän hallitukselta.
-
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
-
-**KEYWORDS:** #russia #россия #российский #сво #сф #про
-
-
-## Tutkimus Tuva-alueella tutkii kolmea teoriaa kahden 12-vuotiaan tytön katoamisesta
-6. heinäkuuta 2026 tutkijat Kyzylissä, Tuvassa, tutkivat kolmea teoriaa, jotka liittyvät kahden 12-vuotiaan tytön katoamiseen, jotka ovat olleet kateissa 1. heinäkuuta lähtien. [8]
-
-**COMMENT:** Tämä käynnissä oleva tutkimus tuo esille huolen lasten turvallisuudesta alueella.
-
-**LOCATION:** Kyzyl / Kyzyl, 51.719079, 94.4300679 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.719079&mlon=94.430068#map=8/51.719079/94.430068)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
 
 **KEYWORDS:** #russia #сво #про
 
 
-## Puolustusministeriö aikoo nopeuttaa siviiliesineiden palauttamista dronehyökkäysten jälkeen
-6. heinäkuuta 2026 Venäjän puolustusministeriö ilmoitti aikovansa palauttaa nopeasti siviiliesineet, jotka vahingoittuivat yöllisten dronehyökkäysten seurauksena, jotka jäljitetään Ukrainan teoiksi. [9]
+## Peskov Kehottaa Euroopan Maailmoja Uudelleenhakemaan Vuoropuhelua Moskovan Kanssa
+Maaliskuun 20. päivänä 2026 Dmitry Peskov kehotti Euroopan maita jatkamaan vuoropuhelua Venäjän kanssa, korostaen Moskovan valmiutta kommunikointiin. Hän vakuutti, että Venäjä ei muodosta uhkaa Euroopalle ja että Euroopan maiden tulisi kuunnella Venäjän huolia välttääkseen mahdollisia ongelmia. [4]
 
-**COMMENT:** Tämä ilmoitus osoittaa jatkavaa intensiivistä sotilaallista toimintaa.
+**COMMENT:** Peskovin lausunnot heijastavat Venäjän jatkuvia pyrkimyksiä uudelleenosallistua Eurooppaan jännitteisten suhteiden keskellä. Tämä vuoropuhelupyydös voi viitata strategiseen siirtoon kohti diplomatiaa, kun Venäjä pyrkii vähentämään jännitteitä Euroopan maiden kanssa.
 
-**LOCATION:** Kiova / Kyiv, Unknown, Unknown [Click for Map Location](Unknown)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
 
-**KEYWORDS:** #russia #минобороны россии #минобороны #удар #беспилотник #истребитель #про
+**KEYWORDS:** #russia #про
 
 
-## Venäjän sotilaat torjuvat suunnitellun Ukrainan dronehyökkäyksen ennen NATO-kokousta
-6. heinäkuuta 2026 Venäjän armeija ilmoitti, että se onnistui torjumaan suunnitellun massiivisen dronehyökkäyksen Ukrainasta, joka kohdistui sotilaskohteisiin NATO-kokouksen aikana. [10]
+## Ukrainan Voimat Hyökkäävät Siviiliajoneuvoon Energodarissa, Jossa Vakavia Loukkaantumisia
+Maaliskuun 20. päivänä 2026 Ukrainan asevoimat (APU) toteuttivat dronehyökkäyksen siviiliautoon Energodarissa, jolloin auton omistaja sai vakavia vammoja ja hänet toimitettiin sairaalaan. Tämä tapaus lisää jatkuvia vihollisuuksia alueella, jossa Ukrainan iskuja on usein kohdistunut Zaporozhye ydinvoimalan ympäristöön. [5]
 
-**COMMENT:** Tämä tapaus korostaa jatkuvia jännitteitä Venäjän ja Ukrainan välillä.
+**COMMENT:** Hyökkäys korostaa jatkuvia riskejä siviilien turvallisuudelle keskellä käynnissä olevaa konfliktia alueella. Tällaiset tapaukset voivat viitata sotilaallisten operaatioiden kärjistymiseen, mikä voisi vaikuttaa alueelliseen turvallisuuteen ja ydinvoiman turvallisuusprotokolliin.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Energodar / Energodar, Unknown, Unknown 
 
-**KEYWORDS:** #russia #минобороны рф #минобороны #удар #сво #беспилотник #бпла #истребитель #про
+**KEYWORDS:** #russia #удар #сво
 
 
-## Ukraina käynnistää massiivisen dronehyökkäyksen Venäjään
-5.-6. heinäkuuta 2026 Ukraina yritti suurta dronehyökkäystä käyttäen 625 hyökkäysdronea, jotka kohdistuivat Venäjän alueelle, kuten Venäjän puolustusministeriö on raportoinut. [11]
+## Sevastopol Kohdistaa 30 Miljoonaa Ruplaa Korvaukseksi Ukrainan Hyökkäyksistä Vaurioituneelle Omaisuudelle
+Maaliskuun 20. päivänä 2026 Sevastopolin viranomaiset kohdistivat 30 miljoonaa ruplaa korvauksiksi asukkaille, joiden omaisuus vaurioitui Ukrainan asevoimien hyökkäysten seurauksena. Päätös ilmoitettiin kaupungin hallituksen kokouksessa kuvernööri Mikhail Razvozhaevin toimesta. [6]
 
-**COMMENT:** Tämä eskalointi drone-sodassa osoittaa merkittävää muutosta Ukrainan toimintaedellytyksissä.
+**COMMENT:** Tämä varaus heijastaa jatkuvia jännitteitä ja konfliktin vaikutuksia siviiliväestöön alueella, mikä osoittaa kaupungin reaktion sodan tuhoisista seurauksista. Lähitulevaisuudessa tämä voi viitata lisääntyneeseen hallituksen tukeen vaurioituneille asukkaille konfliktin jatkuessa.
 
-**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339)
+**LOCATION:** Sevastopol / Sevastopol, 55.7544976, 37.6157186 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.754498&mlon=37.615719#map=8/55.754498/37.615719) 
 
-**KEYWORDS:** #российские #минобороны рф #минобороны #министерство обороны #пво #штаб #удар #сво #рэб #беспилотник #бпла #перехват #про
+**KEYWORDS:** #russia #сво
 
 
-## Ukraina käynnistää laajamittaisen dronehyökkäyksen Venäjän alueelle
-6. heinäkuuta 2026 Ukrainan armeija käynnisti merkittävän dronehyökkäyksen, jossa oli 625 dronea ja joka kohdistui Venäjän alueelle. [12]
+## Venäjä Lähettää Vahvan Viestin NATOlle Hyökkäyksillä Ukrainassa
+Maaliskuun 20. päivänä 2026 Venäjän asevoimat toteuttivat merkittävän iskun käyttämällä korkean tarkkuuden pitkän matkan aseita ja droneja Kiovassa ja sen ympäristössä, kohdistuen Ukrainan asevoimien kriittisiin infrastruktuureihin. Tämä aggressiivinen sotilaallinen toiminta nähdään selkeänä viestinä NATOlle tulevaa huipputapaamista varten, joka osoittaa Venäjän valmiutta vahvistaa sotilaallisia kykyjään Lännen vastarintaa kohtaan. [7]
 
-**COMMENT:** Tämä tapahtuma korostaa nousevia konfliktidynamiikkoja Ukrainan ja Venäjän välillä.
+**COMMENT:** Hyökkäys korostaa Venäjän strategista asennetta, sillä se pyrkii estämään NATOn vaikutusvaltaa Itä-Euroopassa. Tulevaisuudessa tällaiset toimet voivat kärjistää jännitteitä ja provosoida lisää sotilaallisia vastatoimia NATO-jäsenvaltioilta, vaikuttaen alueellisiin turvallisuusdynamiikkoihin.
 
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
+**LOCATION:** Kiova / Kiev, Unknown, Unknown 
 
-**KEYWORDS:** #russia #минобороны #министерство обороны #удар #сво #беспилотник #про
+**KEYWORDS:** #россия #минобороны рф #вс россии #минобороны #вооружение #полк #удар #сво #беспилотник #бпла #сф #про
 
 
-## Venäjän asevoimat käynnistävät suuria iskuja sotilas- ja energiahuoltoihin Kiovassa
-6. heinäkuuta 2026 Venäjän asevoimat suorittivat merkittävän operaation, joka kohdistui sotilas-teollisuus- ja energiahuoltokohteisiin Kiovassa, Ukrainassa. [13]
+## Moskova Esittelee Teknologisia Innovaatioita Innopromissa
+Maaliskuun 20. päivänä 2026 Moskova esitteli yli 50 teknologista innovaatiota 16. Innoprom-kansainvälisessä teollisuusnäyttelyssä, johon osallistui 38 paikallista yritystä eri korkean teknologian aloilta, mukaan lukien radioelektroniikka, lääketiede ja robotiikka. Erityisesti esittelyssä oli merkittäviä edistysaskeleita, kuten ensimmäinen Venäläinen supernopea optinen lähetin ja tekoälykykyiset kotimaiset sirut, mikä korostaa kaupungin pyrkimyksiä vahvistaa kansallista korkean teknologian teollisuutta. [8]
 
-**COMMENT:** Tämä eskalointi osoittaa jatkuvaa aggressiivista asennetta Venäjältä uhkaavia tapahtumia vastaan.
+**COMMENT:** Näyttely heijastaa Moskovan sitoutumista edistämään teknologista itsenäisyyttä, erityisesti kriittisillä aloilla kuten tekoäly ja mikroelektroniikka. Parantuneet kotimaiset kyvyt näillä alueilla voivat vahvistaa Venäjän kestävyyttä ulkoisia teknologisia paineita vastaan ja parantaa sen kilpailuasemaa globaalisti.
 
-**LOCATION:** Kiova / Kyiv, Unknown, Unknown [Click for Map Location](Unknown)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
 
-**KEYWORDS:** #российские #минобороны рф #вс рф #российские войска #минобороны #удар #сво #высокоточное оружие #беспилотник #сф #часть #про
+**KEYWORDS:** #российский #сво #сф #часть #про
 
 
-## Siviilitappioita Krimillä dronehyökkäysten seurauksena 6. heinäkuuta
-6. heinäkuuta 2026 Ukrainan asevoimien dronehyökkäys johti siviilin kuolemaan ja kahden muun vammautumiseen Krimillä. [14]
+## IOC Tilapäisesti Palauttaa Venäjän Olympiakomitean Jäsenyyden
+Maaliskuun 20. päivänä 2026 Kansainvälinen olympiakomitea (IOC) ilmoitti Venäjän olympiakomitean jäsenyyden tilapäisestä palauttamisesta, joka oli keskeytetty lokakuun 12. päivänä 2023. IOC myös kumosi aiemmat kiellot, jotka estivät venäläisten urheilijoiden osallistumisen kansainvälisiin kilpailuihin ja tapahtumien järjestämisen Venäjällä. [9]
 
-**COMMENT:** Tämä tapaus korostaa eskaloitumisen riskejä konfliktissa.
+**COMMENT:** IOC:n päätös palauttaa Venäjän olympiakomitea viittaa kansainvälisen urheilun kentän muutokseen, joka todennäköisesti helpottaa Venäjän eristyneisyyttä kilpailu-urheilussa. Tämä kehitys voi johtaa venäläisten urheilijoiden osallistumisen lisääntymiseen globaalissa kilpailussa, mikä heijastaa laajempia valtion aikomuksia vahvistaa Venäjän läsnäoloa kansainvälisellä areenalla.
 
-**LOCATION:** Krimi / Crimean Peninsula, 45.2835044, 34.2008188 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.283504&mlon=34.200819#map=8/45.283504/34.200819)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
 
-**KEYWORDS:** #российские #пво #удар #сво #разведка #беспилотник #пуск #сф #часть #про
+**KEYWORDS:** #российские #полк #удар #сво #про
 
 
-## Venäjän tykistö iskee Ukrainan tukikohtiin Zaporozhyessa
-6. heinäkuuta 2026 Venäjän puolustusministeriö raportoi, että Vostok-ryhmän tykistö kohdisti iskuja Ukrainan tukikohtiin ja kaivantoihin Zaporozhyen alueella. [15]
+## FPV Drone Räjähdys Lähistöllä Bussia Vaurioittaa Kahta Belgorodin Alueella
+Maaliskuun 20. päivänä 2026 FPV-droni räjähti bussin lähellä Tavrovossa, Belgorodin alueella, jolloin kaksi siviiliä loukkaantui. Räjähdys johtui ukrainalaisen miehittämättömän ilmasta käsin toimivan ajoneuvon hyökkäyksestä, ja yksi uhreista kärsi akubarotraumasta, jolloin hän tarvitsee lisälääkärin tutkimuksia. [10]
 
-**COMMENT:** Iskujen kohdistaminen korostaa jatkuvia sotilaallisia operaatioita, jotka pyrkivät heikentämään Ukrainan puolustusta.
+**COMMENT:** Tämä tapaus korostaa jatkuvia sotilaallisia jännitteitä Venäjän ja Ukrainan välillä, kun droneja käytetään kohdennetuissa hyökkäyksissä siviilialueilla. Tällaisilla onnettomuuksilla voi olla vaikutuksia turvallisuustoimenpiteisiin ja tietoisuuteen rajaseuduilla.
 
-**LOCATION:** Zaporozhye / Zaporozhye, Unknown, Unknown [Click for Map Location](Unknown)
+**LOCATION:** Tavrovo / Tavrovo, Unknown, Unknown 
 
-**KEYWORDS:** #минобороны рф #минобороны #полигон #удар #сво #артиллерия #разведка #пункт управления #сф #часть #про
+**KEYWORDS:** #россия #штаб #беспилотник #бпла #про
 
 
-## Venäjä aikoo lisätä vastaiskuja lännen aseiden toimituksiin
-6. heinäkuuta 2026 Venäjän puolustusministeriö ilmoitti aikovansa vastata lännen sotilaalliseen tukemiseen Ukrainalle lisäämällä vastaiskuja. [16]
+## 91 Kadonnutta Venäläistä Sotilasta Olemus Vahvistettu
+Maaliskuun 20. päivänä 2026 Venäjän oikeusasiamiehen toimisto yhdessä puolustusministeriön kanssa ilmoitti, että he ovat vahvistaneet 91 venäläisen sotilaan kohtalon, jotka raportoitiin kadonneiksi erityisessä sotilasoperaatiossa Ukrainassa. Tämä kehitys seuraa yli 9 500 pyyntöä, jotka liittyvät erityisiin operaatioihin, joista 342:lle on myönnetty myönteisiä päätöksiä liittyen lääketieteellisiin ja sosiaalisiin etuuksiin. [11]
 
-**COMMENT:** Tämä eskalointi retoriikassa osoittaa mahdollista konfliktin intensiivistymistä.
+**COMMENT:** Sotilaiden kohtalon selvittäminen korostaa Venäjän viranomaisten jatkuvia pyrkimyksiä vastata huoliin sodassa kadonneista sotilaista. Tämä voi vaikuttaa yleiseen mielipiteeseen ja tukeen sotilaallisille operaatioille, kun perheet hakevat sulkua.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
 
-**KEYWORDS:** #российские #минобороны рф #мо рф #вс рф #минобороны #пво #удар #сво #беспилотник #бпла #про
+**KEYWORDS:** #россия #минобороны рф #минобороны россии #минобороны #офицер #военнослужащий #удар #сво #армия #про
 
 
-## Ruotsin suurlähettiläs vierailee Venäjän ulkoministeriössä dronehyökkäyksen jälkeen
-6. heinäkuuta 2026 Ruotsin suurlähettiläs Christina Johannesson kutsuttiin Venäjän ulkoministeriöön ja tapasi siellä noin 40 minuuttia vastauksena dronehyökkäykseen Venäjän suurlähetystöön Tukholmassa. [17]
+## IOC Pyrkii Varmistamaan Tasavertaiset Mahdollisuudet Kaikille Urheilijoille Olympialaisissa
+Maaliskuun 20. päivänä 2026 Kansainvälinen olympiakomitea (IOC) ilmoitti aikovansa varmistaa tasavertaiset mahdollisuudet kaikille urheilijoille, erityisesti venäläisille urheilijoille Kirsty Coventryn johtamassa tiedotustilaisuudessa. Tämä päätös seuraa Venäjän olympiakomitean jäsenyyden palauttamista sekä suositusta, että kaikki rajoitukset venäläisistä urheilijoista kumottaisiin, joista Venäjän urheiluministeri Mikhail Degtyarev ilmoitti, että se nopeuttaisi heidän täydellistä paluutaan kansainvälisiin kilpailuihin. [12]
 
-**COMMENT:** Ruotsin suurlähettilään kutsuminen osoittaa terrorilta korostuvaa diplomaattista jännitettä Venäjän ja Ruotsin välillä.
+**COMMENT:** IOC:n siirto venäläisten urheilijoiden palauttamiseksi tarkoittaa mahdollista muutosta heidän osallistumisensa normalisoimiseksi globaaleissa urheilutapahtumissa. Tällä voi olla vaikutuksia Venäjän kansainväliseen asemaan ja parantaa sen vaikutusvaltaa globaalissa urheilujärjestöissä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
 
-**KEYWORDS:** #россия #беспилотник #бпла #про
+**KEYWORDS:** #россия #полк #пуск #про
 
 
-## SVR: Britannia kohtaa seuraamuksia Sevastopolin panoramasta tehdystä iskusta
-6. heinäkuuta 2026 Venäjän ulkomaan tiedustelupalvelu (SVR) ilmoitti, että britit tulevat lähellä kohtaamaan seuraukset Sevastopolin panoramasta tehdystä iskusta, [18]
+## Novosibirskissä Kadonneen Tytön Äiti Löydetty Lasten Ruumiin Löydön Jälkeen
+Maaliskuun 20. päivänä 2026 poliisi ja tutkintakomitea löysivät Novosibirskissä naisen, jonka viisivuotias tytär oli löydetty kuolleena Achinskissa, Krasnojarskin alueella. Tytär oli raportoitu kadonneeksi äitinsä kanssa 27. kesäkuuta ennen kuin hänen ruumiinsa löydettiin 5. heinäkuuta lähellä rautatiepenkkaa. [13]
 
-**COMMENT:** SVR:n lausunto heijastaa kireitä suhteita Venäjän ja Britannian välillä.
+**COMMENT:** Tämä tapaus korostaa jatkuvia ongelmia kotisateen turvallisuuden ja lasten hyvinvoinnin suhteen Venäjällä. Tällä voi olla vaikutuksia lainvalvontaprotokolliin, mikä voi johtaa lisääntyneeseen tarkasteluun ja mahdollisiin ennaltaehkäiseviin toimenpiteisiin lasten sieppausasioissa.
 
-**LOCATION:** Sevastopol / Sevastopol, 55.7544976, 37.6157186 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.754498&mlon=37.615719#map=8/55.754498/37.615719)
+**LOCATION:** Novosibirsk / Novosibirsk, 54.9678145, 82.9515989 [Click for Map Location](https://www.openstreetmap.org/?mlat=54.967815&mlon=82.951599#map=8/54.967815/82.951599) 
 
-**KEYWORDS:** #россия #удар #беспилотник #про
+**KEYWORDS:** #россия #сво #про
 
 
-## Venäjän ilmatorjunta ampui alas droneja Omskin alueella
-6. heinäkuuta 2026 Venäjän ilmatorjuntajoukot ampuivat alas ukrainalaisia droneja Omskin alueella, kuten Omskin kuvernööri Vitaly Hotsenko raportoi. [19]
+## Valtioduma Liittää Berezovskayan Kuoleman Yermolaevin Hyökkäykseen
+Maaliskuun 20. päivänä 2026 Venäjän Valtioduma -edustaja Alexander Tolmachev ehdotti, että Ukrainan kansalaisen Anastasia Berezovskayan kuolema liittyy epäonnistuneeseen salamurhayritykseen liikemies Vadim Yermolaevia kohtaan Monacossa. Tolmachev viittasi siihen, että tapaus osoittaa Ukrainan viranomaisten osallistumisen, mikä voi johtaa kasvaviin jännitteisiin ja mahdollisiin kostotoimiin sisävaltioiden konflikteissa. [14]
 
-**COMMENT:** Dronejen alasampuminen korostaa jatkuvia jännitteitä.
+**COMMENT:** Tämä tapaus korostaa kasvavia väitteitä Ukrainan osallistumisesta kohdennettuihin väkivaltaisiin tekoihin, mikä voi entisestään rasittaa Venäjän ja Ukrainan suhteita. Tarkkailijoiden tulisi seurata mahdollisia eskaloivia toimia Venäjän viranomaisilta tällaisten väitteiden jälkeen, kun ne voivat heijastaa laajempia geopoliittisia jännitteitä.
 
-**LOCATION:** Omsk Oblast / Omsk Oblast, 56.0935263, 73.5099936 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.093526&mlon=73.509994#map=8/56.093526/73.509994)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
 
-**KEYWORDS:** #россия #минобороны рф #минобороны россии #вс рф #минобороны #вкс #пво #противовоздушная оборона #беспилотник #бпла #про
-
-
-## Murhasta syytetty mies paljastaa todisteita 12-vuotiaan tytön kuolemasta Leningradin alueella
-6. heinäkuuta 2026 mies, jota epäillään 12-vuotiaan tytön murhasta Leningradin alueella, antoi avaintekijöitä tutkijoille. [20]
-
-**COMMENT:** Tämä tapaus tuo esille huolen väkivaltaisista rikoksista Venäjällä.
-
-**LOCATION:** Leningrad Oblast / Leningrad Oblast, 60.1853296, 32.3925325 [Click for Map Location](https://www.openstreetmap.org/?mlat=60.185330&mlon=32.392533#map=8/60.185330/32.392533)
-
-**KEYWORDS:** #россия #удар #про
-
-
-## FSB pidättää rikollisryhmän Krimillä, joka tarjoaa viestintää huijareille
-6. heinäkuuta 2026 FSB:n viranomaiset Krimillä pidättivät kahdeksan rikollisryhmän jäsentä, jotka oli vastuussa SIM-koteloiden tekemisestä huijaustoimintaa varten. [21]
-
-**COMMENT:** Tämä pidätys heijastaa Venäjän viranomaisten pyrkimyksiä torjua huolenaiheita Krimillä.
-
-**LOCATION:** Krimi / Crimean Peninsula, 45.2835044, 34.2008188 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.283504&mlon=34.200819#map=8/45.283504/34.200819)
-
-**KEYWORDS:** #россия #удар #пуск #про
-
-
-## Mishustin raportoi 24 triljoonan ruplan investoineen kiinteisiin pääomiin viiden vuoden aikana
-6. heinäkuuta 2026 Venäjän pääministeri Mikhail Mishustin ilmoitti, että kiinteisiin pääomiin tehtyjen investointien kokonaismäärä viimeisten viiden vuoden aikana on noin 24 triljoonaa ruplaa. [22]
-
-**COMMENT:** Tämä rahoitussitoutuminen kiinteisiin pääomiin osoittaa Venäjän hallituksen keskittymistä taloudelliseen elvytykseen.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #россия #сво #часть #про
-
-
-## Venäjän asevoimat puolustautuvat Ukrainan dronehyökkäykseltä NATO-kokouksen alla
-6. heinäkuuta 2026 Venäjän asevoimat kertoivat menestyksestään torjua koordinoitu dronehyökkäys, jossa ammuttiin alas 613 625 dronea. [23]
-
-**COMMENT:** Tämä virheiden määrä osoittaa Ukrainan toiminnan jatkuvien uhkien.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #российские #минобороны россии #вс россии #российские военные #минобороны #удар #беспилотник #бпла #про
-
-
-## FSB estää pommisuunnitelman, joka naamioitiin hajusteeksi postin kautta
-6. heinäkuuta 2026 FSB ilmoitti estäneensä suunnitelman, jossa räjähteet lähetettiin hajusteena Venäjän sotilashenkilöstölle ja viranomaisille. [24]
-
-**COMMENT:** Tämä suunnitelma korostaa turvallisuusuhkia, joita Venäjän sotilaat kohtaavat.
-
-**LOCATION:** Pervouralsk / Pervouralsk, Unknown, Unknown [Click for Map Location](Unknown)
-
-**KEYWORDS:** #россия #минобороны рф #минобороны #сво #про
-
-
-## Venäjän asevoimat tekevät massiivisia iskuja Kiovan infrastruktuuriin
-6. heinäkuuta 2026 Venäjän asevoimat toteuttivat merkittävän iskun käyttäen tarkkuusaseita ja UAV:ita useisiin kohteisiin Kiovassa, Ukrainassa. [25]
-
-**COMMENT:** Tämä sotilaallinen toimi heijastaa Venäjän pyrkimyksiä heikentää Ukrainan tukea.
-
-**LOCATION:** Kiova / Kyiv, Unknown, Unknown [Click for Map Location](Unknown)
-
-**KEYWORDS:** #минобороны рф #вс рф #минобороны #удar #сво #высокоточное оружие #беспилотник #бпла #перехват #пуск #арсенал #часть #про
-
-
-## Yhdistynyt Venäjä toimittaa ehdokasiakirjat CEC:lle valtioduumavaaleissa
-6. heinäkuuta 2026 poliittinen puolue Yhdistynyt Venäjä toimitti ehdokasiakirjat tuleviin valtioduumavaaleihin keskusvaaliviranomaiselle (CEC). [26]
-
-**COMMENT:** Ehdokkaiden toimittaminen heijastaa Yhdistynyttä Venäjää vahvistaakseen vallan konsolidointia valtioduumassa. 
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #россия #сво #часть #про
-
-
-## Venäjän joukot saavuttavat ylivoiman Konstantinovkassa Ukrainan armeijaa vastaan
-5. heinäkuuta 2026 Venäjän joukot raportoivat merkittävästä voitosta Konstantinovkassa, jolloin he vangitsivat tärkeän Ukrainan asevoimien tukikohdan. [28]
-
-**COMMENT:** Tämä tapahtuma voi vahvistaa Venäjän sotilaallista ylivoimaa Keskustan alueella.
-
-**LOCATION:** Konstantinovka / Konstantinovka, Unknown, Unknown [Click for Map Location](Unknown)
-
-**KEYWORDS:** #россия #российский #российские #минобороны рф #российские войска #российская армия #минобороны #гарнизон #штаб #призыв #удар #сво #беспилотник #перехват #часть #армия #про
-
-
-## Uusi laki kaasun toimitusten ja hintojen stabiloimiseksi Venäjällä
-5. heinäkuuta 2026 presidentti Vladimir Putin hyväksyi lain, joka on suunniteltu varmistamaan kotimaan markkinoiden kaasuntoimitukset ja tukemaan paikallisia jalostamoita. [29]
-
-**COMMENT:** Tämä laki heijastaa Venäjän hallituksen pyrkimyksiä hallita polttoaineen hintoja.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #российский #удар #пуск #про
-
-
-## SVR paljastaa brittien osallistumisen Sevastopolin museohyökkäykseen
-6. heinäkuuta 2026 Venäjän ulkomaan tiedustelupalvelu (SVR) ilmoitti, että kesäkuun 9-10 hyökkäys Sevastopolin puolustuksen museoon kehitettiin brittien erikoispalveluiden toimesta. [30]
-
-**COMMENT:** Tämä tapahtuma korostaa ulkomaisen tiedustelun jatkuvaa roolia.
-
-**LOCATION:** Sevastopol / Sevastopol, Unknown, Unknown [Click for Map Location](Unknown)
-
-**KEYWORDS:** #россия #удар #сво #беспилотник #пуск #армия #про
-
-
-## Mishustin korostaa 100 000 osaajan tarvetta Venäjällä vuosittain
-6. heinäkuuta 2026 pääministeri Mikhail Mishustin ilmoitti, että Venäjän teollisuus tarvitsee vuosittain noin 100 000 uutta korkeasti koulutettua asiantuntijaa. [31]
-
-**COMMENT:** Tämä ilmoitus heijastaa haasteita Venäjän työmarkkinoilla.
-
-**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #российский #про
-
-
-## Rikollisryhmän jäsenet pidätetään Krimillä, jotka auttavat ukrainalaisia etuja
-6. heinäkuuta 2026 FSB pidätti rikollisryhmän Krimillä, joka epäillään auttavan Ukrainan erikoispalveluita tarjoamalla viestintää puhelinhuijauksille. [32]
-
-**COMMENT:** Tämä pidätys heijastaa Venäjän viranomaisten pyrkimyksiä torjua ulkoisia uhkia Krimillä.
-
-**LOCATION:** Sevastopol / Sevastopol, Unknown, Unknown [Click for Map Location](Unknown)
-
-**KEYWORDS:** #россия #сво #пуск #про
+**KEYWORDS:** #россия #офицер #про
 
 
 # Sources
 
-[1] Interfax - https://interfax.ru/world/1101369?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1101714?utm_source=top
 
-[2] Interfax - https://interfax.ru/russia/1101388?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1101733?utm_source=top
 
-[3] Interfax - https://interfax.ru/russia/1101373?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1101809
 
-[4] Interfax - https://interfax.ru/russia/1101352?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1101803
 
-[5] Interfax - https://interfax.ru/russia/1101478
+[5] interfax.ru - https://interfax.ru/russia/1101794
 
-[6] Interfax - https://interfax.ru/russia/1101476
+[6] interfax.ru - https://interfax.ru/russia/1101798
 
-[7] Interfax - https://interfax.ru/russia/1101475
+[7] aif.ru - https://aif.ru/society/rossiya-poslala-chetkiy-signal-nato-glavnaya-novost-svo-7-iyulya
 
-[8] Interfax - https://interfax.ru/russia/1101468
+[8] aif.ru - https://aif.ru/moscow/sobyanin-rasskazal-kakie-moskovskie-razrabotki-predstavili-na-innoprome
 
-[9] Interfax - https://interfax.ru/russia/1101466
+[9] www.vesti.ru - https://www.vesti.ru/ns/mok-vremenno-vosstanovil-chlenstvo-olimpijskogo-komiteta-rossii
 
-[10] Interfax - https://interfax.ru/russia/1101467
+[10] www.vesti.ru - https://www.vesti.ru/ns/fpv-dron-vzorvalsya-okolo-avtobusa-v-belgorodskoj-oblasti-raneny-dva-cheloveka
 
-[11] Interfax - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[11] www.vesti.ru - https://www.vesti.ru/ns/ustanovlena-sudba-rossijskikh-voennosluzhashchikh-propavshikh-na-svo
 
-[12] Interfax - https://interfax.ru/russia/1101465
+[12] www.vesti.ru - https://www.vesti.ru/ns/v-mok-khotyat-predostavit-sportsmenam-ravnye-vozmozhnosti-dlya-uchastiya-v-igrakh
 
-[13] AIF - https://aif.ru/politics/vs-rf-nanesli-massirovannyy-udar-po-obektam-vpk-i-tek-v-kieve
+[13] www.vesti.ru - https://www.vesti.ru/ns/v-novosibirske-nashli-zhenshchinu-chyu-5-letnyuyu-doch-obnaruzhili-mertvoj-v-achinske
 
-[14] AIF - https://aif.ru/society/kiev-vzdrognul-ot-otveta-za-ataki-na-krym-glavnaya-novost-svo-6-iyulya
-
-[15] AIF - https://aif.ru/society/boevikov-nato-nastig-pozor-v-zaporozhe-glavnaya-novost-svo-6-iyulya
-
-[16] www.vesti.ru - https://www.vesti.ru/ns/mo-rf-otvetit-adekvatnym-rostom-otvetnykh-udarov-na-postavki-zapadom-oruzhiya-vsu
-
-[17] www.vesti.ru - https://www.vesti.ru/ns/posol-shveicii-probyla-okolo-40-minut-v-zdanii-mid-rf
-
-[18] www.vesti.ru - https://www.vesti.ru/ns/svr-britancam-pridetsya-otvetit-za-udar-po-sevastopolskoj-panorame
-
-[19] www.vesti.ru - https://www.vesti.ru/ns/khocenko-soobshchil-ob-unichtozhenii-bespilotnikov-nad-omskoj-oblastyu
-
-[20] www.vesti.ru - https://www.vesti.ru/ns/obvinyaemyj-v-ubijstve-devochki-v-lenoblasti-ukazal-gde-skryl-sledy-prestupleniya
-
-[21] www.vesti.ru - https://www.vesti.ru/ns/v-krymu-zaderzhali-gruppu-obespechivavshuyu-kanaly-svyazi-dlya-aferistov
-
-[22] www.vesti.ru - https://www.vesti.ru/ns/ehkonomika-vlozheniya-v-osnovnoj-kapital-za-pyat-let-sostavili-24-trln-rublej
-
-[23] rg.ru - https://rg.ru/2026/07/06/minoborony-predupredilo-o-roste-chisla-i-moshchnosti-otvetnyh-udarov-po-ukraine.html
-
-[24] rg.ru - https://rg.ru/2026/07/06/fsb-predotvratila-rassylku-bomb-voennym-pod-vidom-parfiuma-cherez-pochtu-rossii.html
-
-[25] rg.ru - https://rg.ru/2026/07/06/voennyj-ekspert-rossiia-za-sutki-do-sammita-nato-sistemno-obnulila-kievskij-vpk.html
-
-[26] rg.ru - https://rg.ru/2026/07/06/edinaia-rossiia-sdala-v-cik-dokumenty-svoih-kandidatov-v-gosdumu.html
-
-[27] rg.ru - https://rg.ru/2026/07/06/minoborony-rf-opublikovalo-spisok-porazhennyh-za-noch-voennyh-zavodov-v-kieve.html
-
-[28] www.kp.ru - https://www.kp.ru/daily/277795.5/5272442/
-
-[29] www.kp.ru - https://www.kp.ru/daily/277795.5/5272423/
-
-[30] www.kp.ru - https://www.kp.ru/daily/277795/5272673/
-
-[31] www.kp.ru - https://www.kp.ru/online/news/7057888/
-
-[32] www.kp.ru - https://www.kp.ru/online/news/7057880/
+[14] www.vesti.ru - https://www.vesti.ru/ns/v-gd-svyazali-gibel-berezovskoj-s-pokusheniem-na-ermolaeva
