@@ -1,258 +1,190 @@
-# Report Date: 2026-07-11
+# Report Date: 2026-07-12
 
 ## Summary
-Raportointijaksolla useat merkittävät tapahtumat ovat korostaneet Venäjän sotilaallista aktiivisuutta ja infrastruktuurin haavoittuvuutta. Uusia hyökkäyksiä on toteutettu, mukaan lukien UAV-iskuja, mikä osoittaa jatkuvia uhkia alueella. Lähitulevaisuudessa voimme odottaa edelleen jännitteiden kärjistymistä sekä lisätoimia turvallisuuden parantamiseksi rajalla ja strategisten infrastruktuurien suojelemiseksi.
+Raportointijaksolla on havaittavissa merkittäviä kehityksiä Venäjän ja Ukrainan välisten konfliktien tiimoilta. Venäjän armeija jatkaa aktiivista toimintaa, mukaan lukien dronehyökkäykset ja iskut keskeisiin sotilasrakenteisiin. Taistelut jatkuvat myös siviilien alueilla, mikä tuo mukanaan lisää uhkia alueen turvallisuudelle. Samalla Venäjä pyrkii vahvistamaan asemaansa kansainvälisesti, kuten avustustoimien kautta. Tämän tilanteen myötä tulevaisuudessa saatetaan odottaa lisää jännitteitä ja tiukennettuja turvallisuustoimia.
 
-## Neljä alusta hyökätään Taganroginlahdella, yksi kuollut
-Maaliskuun 20. päivänä 2026, neljä alusta, mukaan lukien metanolitankkeri, hyökkäsi UAV:n toimesta Taganroginlahdella, mikä johti merimiehen kuolemaan. Rostovin alueen kuvernööri raportoi, että useita UAV:ita tuhoutui hyökkäyksen torjunnassa, eikä aluksille aiheutunut metanolin vuodon riskiä. [1]
+## Polttoaine myydään vapaasti 81 asemalta Krimillä
+Maaliskuun 12. päivänä 2026 Krimin energiaministeriö ilmoitti, että polttoainetta myydään vapaasti 81 huoltamotietä, mikä on merkittävä vähennys 99 asemasta edellisenä päivänä. Rajoitusten poistaminen johtuu logistiikkavaikeuksista, jotka oli asetettu toukokuussa. [1]
 
-**COMMENT:** Tämä hyökkäys korostaa jatkuvia uhkia meriturvallisuudelle Venäjän vesillä, mikä viittaa jatkuvaan haavoittuvuuteen UAV-iskuille. Alueellisen vakauden ja Azovinmeren liiketoiminnan turvallisuuden seuraukset voivat edelleen nostaa jännitteitä alueella.
+**COMMENT:** Hallituksen päätös sallia vapaiden polttoimyyntien myynti korostaa pyrkimyksiä vakauttaa tarjontaa ja tukea paikallista logistiikkaa Krimillä.
 
-**LOCATION:** Taganroginlahti / Taganrog Bay, Unknown, Unknown [Click for Map Location]()
-
-**KEYWORDS:** #russia #сво #бпла
-
-
-## Polttoaineen myynti alkaa yhdeksällä huoltoasemalla Sevastopolissa
-Maaliskuun 20. päivänä 2026, polttoaineen myynti Sevastopolissa alkoi yhdeksällä Atan-verkoston huoltoasemalla aikaisempien logististen ongelmien vuoksi. Paikallinen hallinto on ottanut käyttöön automaattisen QR-koodin jakelujärjestelmän polttoainetilausten hallitsemiseksi. [2]
-
-**COMMENT:** Tämä tapahtuma heijastaa jatkuvia logistisia haasteita ja hallituksen lähestymistapaa polttoainejakelun hallintaan Sevastopolissa.
-
-**LOCATION:** Sevastopol / Sevastopol, Unknown, Unknown [Click for Map Location]()
+**LOCATION:** SPARTA CRIMEA / Sparta Crimea, 45.037057, 38.975647 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.037057&mlon=38.975647#map=8/45.037057/38.975647) (Центральный округ)
 
 **KEYWORDS:** #russia #сво #пуск #про
 
 
-## Tuli Tverin öljysatamassa täysin sammutettu UAV-hyökkäyksen jälkeen
-Maaliskuun 20. päivänä 2026, öljysatamassa Tverissä syttynyt tulipalo, joka johtui UAV-hyökkäyksestä, saatiin täysin sammutettua kahden päivän intensiivisten sammutustöiden jälkeen. [3]
+## 220 ukrainalaista dronea keskeytetty Venäjän alueilla
+Maaliskuun 12. päivänä 2026 Venäjän armeija sieppasi ja tuhosi 220 ukrainalaista dronea eri alueilla, mukaan lukien Belgorod, Bryansk, Kaluga, Kursk, Orel, Tula, Krasnodarin alue, Moskovan alue, Krim ja Azovin sekä Mustanmeren yllä. Tämä merkittävä dronejen keskeyttäminen korostaa jatkuvaa sotilaallista toimintaa ja Venäjän ilmatilan suojaamisen pyrkimyksiä Ukrainan kanssa lisääntyneiden jännitteiden keskellä. [2]
 
-**COMMENT:** Nopean reagoinnin avoimuus UAV:hen liittyvissä tulipaloissa korostaa paikallisten hätäpalveluiden ja alueviranomaisten toimintavalmiutta.
+**COMMENT:** Tämä tapaus osoittaa jatkuvan uhan ukrainalaisten droneiden operoinnin Venäjän alueilla. Venäjä saattaa lisätä vastatoimenpiteitä ja puolustusmenoja näillä alueilla.
 
-**LOCATION:** Tver / Tver, 56.858675, 35.920828 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.858675&mlon=35.920828#map=8/56.858675/35.920828)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
 
-**KEYWORDS:** #russia #беспилотник #бпла #про
+**KEYWORDS:** #russia #российские #российские военные #министерство обороны #беспилотник #перехват
 
 
-## 96 UAV:ta ammuttu alas Kurskin alueella yhdessä päivässä
-Maaliskuun 20. päivänä 2026, Kurskin alueen kuvernööri raportoi, että 96 UAV:ta ammuttiin alas alueella 24 tunnin aikana. [4]
+## Moskovan alueen tärkeimmät lentokentät palauttavat toimintansa
+Maaliskuun 12. päivänä 2026 Moskovan Vnukovo, Domodedovo, Zhukovsky ja Yaroslavlin lentokentät palauttivat normaalit toiminnot, kun Rosaviatsiya nosti rajoitukset lentokoneiden vastaanottamisesta ja lähdöstä. Tämä kehitys viittaa nopeaan paluuseen standardeihin ilmatilatoimintoihin. [3]
 
-**COMMENT:** Suuri määrä UAV:iden torjuminen osoittaa aktiivista uhkailmaisuutta Kurskin alueella.
+**COMMENT:** Toiminnan palauttaminen näillä keskeisillä lentokentillä viittaa matkustamisen ja logistiikan mahdolliseen normalisoitumiseen Venäjän pääkaupunkiseudulla.
 
-**LOCATION:** Kursk / Kursk, 51.730925, 36.192312 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.730925&mlon=36.192312#map=8/51.730925/36.192312)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
 
-**KEYWORDS:** #russia #сво #беспилотник
+**KEYWORDS:** #russia #пуск
 
 
-## 134 ukrainalaista UAV:ta tuhoutui Bryanskin alueella yhden päivän aikana
-Maaliskuun 20. päivänä 2026, Bryanskin alueen väliaikainen kuvernööri raportoi, että Venäjän ilmapuolustus tuhosi 134 ukrainalaista UAV:ta Bryanskin alueella. [5]
+## Sotšin lentokenttä koordinoi toimintaansa viranomaisten kanssa lentoturvallisuuden takaamiseksi
+Maaliskuun 12. päivänä 2026 Sotšin lentokenttä ilmoitti, että se operoi lentoja yhteistyössä asiaankuuluvien viranomaisten kanssa varmistaakseen turvallisuusmenettelyt. Tämä Rosaviatsian antama lausunto tuo esiin proaktiivisia toimia lentoturvallisuuden ylläpitämiseksi. [4]
 
-**COMMENT:** Suuri määrä UAV:iden tuhoaminen osoittaa jatkuvia pyrkimyksiä rajaturvallisuuden parantamiseksi Bryanskin alueella.
+**COMMENT:** Toiminnan koordinointi Sotšin lentokentällä osoittaa kohoavaa turvallisuuskeskittymistä mahdollisten uhkien tai tapausten vastauksena.
 
-**LOCATION:** Bryanskin alue / Bryansk Oblast, 52.887332, 33.415853 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.887332&mlon=33.415853#map=8/52.887332/33.415853)
+**LOCATION:** Sotši / Sochi, 43.5854823, 39.723109 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.585482&mlon=39.723109#map=8/43.585482/39.723109) 
 
-**KEYWORDS:** #russia #пво #сво #бпла #про
+**KEYWORDS:** #russia #сво
 
 
-## Ukrainan joukot hyökkäävät kattilahuoneeseen ja ruokakauppaan Energodarissa
-Maaliskuun 20. päivänä 2026, Ukrainan joukot iskivät kattilahuoneeseen ja ruokakauppaan Energodarissa. [6]
+## Dronehyökkäys Belgorodin alueella vahingoittaa kahta ihmistä
+Maaliskuun 12. päivänä 2026 dronehyökkäys Belgorodin alueella aiheutti kahden henkilön, naisen ja miehen, vammoja eri onnettomuuksissa. Tapahtuma korostaa jatkuvia vihollisuuksia alueella. [5]
 
-**COMMENT:** Tapahtuma korostaa jatkuvia taktisia yhteenottoja kriittisten infrastruktuurien lähellä.
+**COMMENT:** Dronehyökkäykset kuvaavat jatkuvaa turvallisuusriskia Belgorodin alueella, mahdollisesti lisäämällä paikallisia jännitteitä.
 
-**LOCATION:** Energodar / Energodar, Unknown, Unknown [Click for Map Location]()
+**LOCATION:** Belgorod Oblast / Belgorod Oblast, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762) 
 
-**KEYWORDS:** #russia #удар #сво #про
+**KEYWORDS:** #russia #штаб #бригада #удар #про
 
 
-## Venäjän armeija vahvistaa asemiaan Sumy-suunnassa Bachevskin valtaamisen jälkeen
-Maaliskuun 20. päivänä 2026, Venäjän armeija ilmoitti, että se on vahvistanut asemiaan Sumy-alueella Bachevskin kylän valtaamisen jälkeen. [7]
+## Venäjä lähettää 22 tonnia humanitaarista apua Venezuelas maanjäristysuhreille
+Maaliskuun 12. päivänä 2026 Venäjä toimitti 22 tonnia humanitaarista apua Venezuelas tuhojen kärsineille, kuten ruokaa, telttoja ja lääketieteellisiä varusteita, mukaan lukien lentokenttämatkasairaala. [6]
 
-**COMMENT:** Tämä kehitys merkitsee Venäjän armeijan jatkuvaa sitoutumista laajentaa territoriaalista turvallisuuttaan rajalueilla.
+**COMMENT:** Tämä humanitaarinen toimi kuvastaa Venäjän jatkuvaa sitoutumista vaikuttavaksi Latinalaisessa Amerikassa, erityisesti kriisiaikoina.
 
-**LOCATION:** Bachevsk / Bachevsk, Unknown, Unknown [Click for Map Location]()
+**LOCATION:** Venezuela / Venezuela, 8.0018709, -66.1109318 [Click for Map Location](https://www.openstreetmap.org/?mlat=8.001871&mlon=-66.110932#map=8/8.001871/-66.110932)
 
-**KEYWORDS:** #russia #российские #минобороны рф #российская армия #минобороны #полк #удар #сво #бпла #армия #про
+**KEYWORDS:** #россия #российские #про
 
 
-## Teiden sulkemiset Sverdlovskin alueella tulvavedet vuoksi
-Maaliskuun 20. päivänä 2026, osa R-351 liittovaltion moottoritietä ja erinäiset alueelliset ja kunnalliset tiet olivat tukkeutuneet Sverdlovskin alueella rankkasateiden vuoksi. [8]
+## Venäjän asevoimat hyökkäävät Ukrainan joukkojen polttoaine- ja kuljetusinfrastruktuuriin
+Maaliskuun 12. päivänä 2026 Venäjän asevoimat suorittivat iskuja polttoaine-, energia- ja kuljetusinfrastruktuuriin, joita Ukrainan armeija käytti, mukaan lukien varastoalueet pitkän matkan droneille. [7]
 
-**COMMENT:** Tulvat aiheuttavat merkittävää häiriötä paikalliselle liikenteelle ja voivat estää hätätoimenpiteitä alueella.
+**COMMENT:** Tämä sotilaallinen toiminta osoittaa Venäjän jatkuvaa keskittymistä Ukrainan logistiikan ja tukitoimien häiritsemiseen.
 
-**LOCATION:** Sverdlovskin alue / Sverdlovsk Oblast, 58.641476, 61.802155 [Click for Map Location](https://www.openstreetmap.org/?mlat=58.641475&mlon=61.802155#map=8/58.641475/61.802155)
+**LOCATION:** Odessa alue / Odessa region, Unknown, Unknown
 
-**KEYWORDS:** #russia #часть #про
+**KEYWORDS:** #российские #вооруженные силы россии #вс рф #российские войска #army #удар #сво #бпла #сф #часть #про
 
 
-## UAV-hyökkäys Belgorodin alueella sytyttää tulipalon tuotantolaitoksessa
-Maaliskuun 20. päivänä 2026, drone-isku, jonka on väitetty olevan Ukrainan asevoimien tekemä, sytytti tulipalon tuotantolaitoksessa Belgorodin alueella. [9]
+## Venäläiset ilmalöylyt tuhoavat droneja valmistavia laitoksia Kiovassa
+Maaliskuun 12. päivänä 2026 Venäjän joukot suorittivat tarkkuusiskuja kahteen sotilas-teollisuuslaitokseen Kiovassa, aiheuttaen merkittäviä vahinkoja dronejen valmistuskykyyn. [8]
 
-**COMMENT:** Tämä tapahtuma korostaa jatkuvaa drone-sodankäyntiä Venäjän ja Ukrainan konfliktissa.
+**COMMENT:** Nämä tuhoamiset dronetehtaille osoittavat Venäjän voimankäytön kasvua, tarkoituksena häiritä Ukrainan sotilasresursseja.
 
-**LOCATION:** Belgorodin alue / Belgorod Oblast, 50.708012, 37.583762 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762)
+**LOCATION:** Kiova / Kiev, Unknown, Unknown
 
-**KEYWORDS:** #russia #штаб #удар #беспилотник #бпла #про
+**KEYWORDS:** #российские #минобороны рф #российские войска #минобороны #полк #удар #сво #беспилотник #бпла #пуск #часть #про
 
 
-## Venäläiset asevoimat isku Ukrainan öljy- ja liikenneinfrastruktuuriin
-Maaliskuun 20. päivänä 2026, Venäjän puolustusministeriö raportoi, että Venäjän joukot iskivät Ukrainan öljy-, energia- ja liikenneinfrastruktuuriin. [10]
+## Venäjän asevoimat iskevän merkittävään kohteeseen Kiovassa
+Maaliskuun 12. päivänä 2026 Venäjän joukot iski "Fanplit" -yritykseen Kiovassa, joka on kriittinen sotilaallisten dronekomponenttien ja ohjusten valmistukseen. [9]
 
-**COMMENT:** Tämä eskaloituminen sotilaallisessa toiminnassa merkitsee Venäjän jatkavaa keskittymistä Ukrainan logististen kykyjen häiritsemiseen.
+**COMMENT:** Tämä onnistunut isku Ukrainan sotilasyritykseen vahvistaa konfliktin eskaloitumista.
 
-**LOCATION:** Ukraina / Ukraine, 49.487197, 31.271832 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832)
+**LOCATION:** Kiova / Kiev, Unknown, Unknown
 
-**KEYWORDS:** #russia #российские #минобороны рф #российские войска #минобороны #удар #беспилотник
+**KEYWORDS:** #вс рф #удар #сво #беспилотник #сф #часть #про
 
 
-## Venäjän armeija raportoi voittoja erityisoperaatioalueella
-Maaliskuun 20. päivänä 2026, Venäjän puolustusministeriö ilmoitti, että armeija paransi asemiaan erityisoperaatioalueella. [11]
+## Suuri dronehyökkäysyritys Moskovassa
+Maaliskuun 12. päivänä 2026 Moskovassa tapahtui yksi suurimmista dronehyökkäyksistä vuosikausiin, noin 300 dronea, mutta kaupungin ilmapuolustusjärjestelmät torjuivat suurimman osan uhista. [10]
 
-**COMMENT:** Tämä kehitys korostaa Venäjän sotilaallisten toimintojen jatkuvuutta erityisoperaatioalueilla.
+**COMMENT:** Tämä tapaus osoittaa dronehyökkäysten lisääntymistä Venäjän kriittisille kaupunkialueille.
 
-**LOCATION:** Harkova / Kharkiv region, Unknown, Unknown [Click for Map Location]()
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
 
-**KEYWORDS:** #russia #российские #минобороны рф #российская армия #российские военные #минобороны #полк #сво #десант #армия #про
+**KEYWORDS:** #россия #пво #противовоздушная оборона #беспилотник #бпла #часть #про
 
 
-## Venäjän ilmapuolustus ampuu alas kaksi ohjusta ja 445 UAV:ta
-Maaliskuun 20. päivänä 2026, Venäjän armeija ilmoitti, että sen ilmapuolustusjärjestelmät ampuivat alas kaksi ohjattua bombia, kaksi pitkäkantamaa ohjusta ja 445 UAV:ta yhden päivän aikana. [12]
+## FPV droneisku Energodarissa tappaa kolme siviiliä
+Maaliskuun 12. päivänä 2026 FPV -dronehyökkäys osui siviiliautoon Energodarissa, Zaporozhye -alueella, tappamalla kolme siviiliä. [11]
 
-**COMMENT:** Tämän mittakaavan torjunta-uhkat paljastaa jatkuvat jännitteet ja aktiiviset sotatoimet alueella.
+**COMMENT:** Tämä tapaus korostaa dronejen jatkuvaa käyttöä konfliktialueilla, mikä herättää huolta siviilien turvallisuudesta.
 
-**LOCATION:** Moskova / Moscow, 55.750541, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478)
+**LOCATION:** Energodar / Energodar, Unknown, Unknown
 
-**KEYWORDS:** #russia #российские #минобороны рф #российская армия #российские военные #минобороны #пво #сво #армия #про
+**KEYWORDS:** #россия #удар #беспилотник #бпла #про
 
 
-## Etsintä käynnissä Permin alueella kadonneelle naiselle tulvan vuoksi
-Maaliskuun 20. päivänä 2026, Kynin kylässä Permin alueella, raskaat sateet aiheuttivat tulvan, joka vahingoitti kolmea siltaa. [13]
+## Ensimmäinen video 'Banderol' ohjuksen taistelevasta käytöstä
+Maaliskuun 12. päivänä 2026 julkaistiin ensimmäinen video 'Banderol' ohjuksesta, joka oli varustettu 'Foreigner' droneilla. [12]
 
-**COMMENT:** Tämä tapahtuma korostaa infrastruktuurin jatkuvaa haavoittuvuutta äärimmäisissä sääolosuhteissa.
+**COMMENT:** Tämä kehitys tarkoittaa venäläisten UAV-teknologian integroinnin lisääntymistä sotilasoperaatioissa.
 
-**LOCATION:** Kyn / Kyn, Unknown, Unknown [Click for Map Location]()
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
 
-**KEYWORDS:** #russia #сво #про
+**KEYWORDS:** #российский #минобороны россии #вооруженные силы рф #вс рф #минобороны #корпус #батальон #сво #беспилотник #бпла #перехват #про
 
 
-## Polttoaineen myynti alkaa 99 huoltoasemalla Krimillä
-Maaliskuun 20. päivänä 2026, polttoaineen myynti alkoi 99 huoltoasemalla Krimillä, mikä indikoisi logistiikkahaasteiden mahdollista lieventämistä. [14]
+## Venäjän puolustusministeriö julkaisee kuvia Chernomorskin sataman iskuista
+Maaliskuun 12. päivänä 2026 Venäjän puolustusministeriö julkaisi materiaalin, joka esitteli äskettäin tehtyjä ryhmäiskuja Chernomorskin satamaan. [13]
 
-**COMMENT:** Polttoaineen myynnin elpyminen Krimillä voi viestiä resurssijakelun parantuvan.
+**COMMENT:** Tapahtuma korostaa Venäjän jatkuvia sotilaallisia operaatioita, jotka tähtäävät Ukrainaan.
 
-**LOCATION:** Krimin tasavalta / Republic of Crimea, Unknown, Unknown [Click for Map Location]()
+**LOCATION:** Chernomorsk / Chernomorsk, Unknown, Unknown
 
-**KEYWORDS:** #россия #сво #пуск #про
+**KEYWORDS:** #минобороны рф #вс россии #минобороны #удар #пуск
 
 
-## Venäjän asevoimat ampuu alas 445 UAV:ta ja kaksi ohjusta SVO-alueella
-Maaliskuun 20. päivänä 2026, Venäjän armeija raportoi 445 ukrainalaisen UAV:n ja kahden pitkäkantaman ohjuksen tuhoutuneen erityisoperaatioalueella. [15]
+## Venäjän ulkoministeriö julkistaa ehdotuksia keskusteluille Naton kanssa
+Maaliskuun 12. päivänä 2026 Venäjän ulkoministeriö korosti avointa suhtautumistaan keskusteluihin Naton kanssa, kuitenkaan ilman ehtojen täyttämistä. [14]
 
-**COMMENT:** Tämä eskaloituminen osoittaa jatkuvat toimintahaasteet Ukrainalle.
+**COMMENT:** Ehdotus ehtoista vuoropuhelua Naton kanssa kuvastaa Venäjän strategista ryhmittymistä kansainvälisissä turvallisuuskeskusteluissa.
 
-**LOCATION:** SVO-alue / SVO zone, Unknown, Unknown [Click for Map Location]()
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
 
-**KEYWORDS:** #российские #минобороны рф #вооруженные силы рф #вс рф #российские войска #российские военные #минобороны #сво #беспилотник #зрк #про
+**KEYWORDS:** #россия #минобороны #удар #сво #вооруженный конфликт #про
 
 
-## Venäjän armeija valloittaa Bachevskin kylän Sumy-alueella
-Maaliskuun 20. päivänä 2026, Venäjän armeija ilmoitti vallanneensa Bachevskin kylän Sumy-alueella. [16]
+## CEC vahvistaa, että valtion Duman vaalilistalla on enintään 11 puoluetta
+Maaliskuun 12. päivänä 2026 Ella Pamfilova, keskiviikkolaskentakomission puheenjohtaja, ilmoitti, että seuraavissa valtiodumavaaleissa listalla on enintään 11 puoluetta, koska jotkut puolueet ovat päättäneet olla osallistumatta. [15]
 
-**COMMENT:** Tämä kehitys merkitsee merkittävää laajentumista Venäjän sotilaallisessa hallinnassa Sumy-alueella.
+**COMMENT:** Tämä rajoitus ilmentää CEC:n tiukempaa otetta vaalimaailmasta, mikä voi entisestään syventää olemassa olevia valtaolosuhteita Duman sisällä.
 
-**LOCATION:** Bachevsk / Bachevsk, Unknown, Unknown [Click for Map Location]()
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
 
-**KEYWORDS:** #российские #минобороны рф #вс рф #российская армия #российские военные #минобороны #генштаб #штаб #удар #сво #зрк #армия #про
-
-
-## Venäjän armeija iskee drone-valmistustiloihin Kiovassa
-Maaliskuun 20. päivänä 2026, Venäjän armeija iski drone-valmistustiloihin Kiovassa. [17]
-
-**COMMENT:** Tämä isku korostaa Venäjän sotilasstrategiaa vähentää Ukrainan drone-valmistuskykyjä.
-
-**LOCATION:** Kiova / Kiev, Unknown, Unknown [Click for Map Location]()
-
-**KEYWORDS:** #россия #российские #минобороны рф #вс рф #российские войска #российская армия #российские военнослужащие #минобороны #удар #сво #беспилотник #бпла #зрк #армия #про
-
-
-## Venäjän asevoimat vapauttavat Bachevskin kylän Sumy-alueella
-Maaliskuun 20. päivänä 2026, Venäjän asevoimat ilmoittivat Bachevskin kylän vapauttamisesta Sumy-alueella. [18]
-
-**COMMENT:** Tämä kehitys merkitsee jatkuvia operatiivisia paineita Ukrainan joukoille, mikä voi johtaa lisääntyneisiin territoriaalisiin voittoihin.
-
-**LOCATION:** Bachevsk / Bachevsk, Unknown, Unknown [Click for Map Location]()
-
-**KEYWORDS:** #вс россии #пво #сво
-
-
-## Venäjä torjuu UAV-hyökkäyksen 11. heinäkuuta 2026
-Maaliskuun 20. päivänä 2026, Venäjän puolustusministeriö raportoi, että useimmat UAV:ista torjuttiin keskeisillä alueilla. [19]
-
-**COMMENT:** UAV-hyökkäyksen torjunta korostaa jatkuvia uhkia Venäjän infrastruktuurille.
-
-**LOCATION:** Venäjä / Russia, 64.686314, 97.745306 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #минобороны рф #минобороны #удар #беспилотник #бпла #часть #про
-
-
-## Sojuz-2.1a -raketti valmiina laukaisemiseen Baikonurista
-Maaliskuun 20. päivänä 2026, Sojuz-2.1a -raketti, joka kuljettaa venäläisiä ja NASA:n astronautteja, valmisteltiin laukaisemista varten Baikonurin kosmodromilta. [20]
-
-**COMMENT:** Tämä miehitetty missio korostaa Venäjän sitoutumista aktiiviseen läsnäoloon avaruudessa.
-
-**LOCATION:** Baikonurin kosmodromi / Baikonur Cosmodrome, 45.917893, 63.408372 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.917893&mlon=63.408372#map=8/45.917893/63.408372)
-
-**KEYWORDS:** #россия #пуск #про
-
-
-## CEC vahvistaa enintään 11 puoluetta puolueita valitsijaluettelossa valtioduumavaaleissa
-Maaliskuun 20. päivänä 2026, Ella Pamfilova, keskusvaalilautakunnan puheenjohtaja, ilmoitti, että vaaliluettelossa ei tule olemaan yli 11 puoluetta. [21]
-
-**COMMENT:** Tämä tapahtuma korostaa vaalikonkurssin hallittua luonteen Venäjällä.
-
-**LOCATION:** Venäjä / Russia, 64.686314, 97.745306 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306)
-
-**KEYWORDS:** #россия #часть #про
+**KEYWORDS:** #россия #сво #сф #часть #про
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1102608?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1102749?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1102626?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1102827
 
-[3] interfax.ru - https://interfax.ru/russia/1102630?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1102826
 
-[4] interfax.ru - https://interfax.ru/russia/1102624?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1102821
 
-[5] interfax.ru - https://interfax.ru/russia/1102622?utm_source=top
+[5] interfax.ru - https://interfax.ru/russia/1102818
 
-[6] interfax.ru - https://interfax.ru/russia/1102655
+[6] interfax.ru - https://interfax.ru/world/1102816
 
-[7] interfax.ru - https://interfax.ru/russia/1102653
+[7] aif.ru - https://aif.ru/society/army/vs-rf-nanesli-udary-po-toplivnoy-i-transportnoy-infrastrukture-vsu
 
-[8] interfax.ru - https://interfax.ru/russia/1102651
+[8] aif.ru - https://aif.ru/society/nato-v-panike-kiev-v-agonii-zavod-superdronov-raznesli-v-shchepki-za-minuty
 
-[9] interfax.ru - https://interfax.ru/russia/1102650
+[9] aif.ru - https://aif.ru/society/trevoga-v-britanii-iz-kieva-prishli-samye-strashnye-novosti
 
-[10] interfax.ru - https://interfax.ru/russia/1102649
+[10] www.vesti.ru - https://www.vesti.ru/ns/popytka-ataki-bespilotnikov-na-moskvu-stala-odnoj-iz-krupnejshikh-za-neskolko-let
 
-[11] interfax.ru - https://interfax.ru/russia/1102648
+[11] www.vesti.ru - https://www.vesti.ru/ns/fpv-dron-udaril-po-mashine-v-ehnergodare-ubity-tri-mirnykh-zhitelya
 
-[12] interfax.ru - https://interfax.ru/russia/1102647
+[12] www.vesti.ru - https://www.vesti.ru/ns/poyavilos-pervoe-video-boevogo-primeneniya-rakety-banderol-s-bpla-inokhodec
 
-[13] interfax.ru - https://interfax.ru/russia/1102645
+[13] rg.ru - https://rg.ru/2026/07/12/minoborony-rf-pokazalo-kadry-podgotovki-udarov-po-celiam-v-portu-chernomorska.html
 
-[14] www.vesti.ru - https://www.vesti.ru/ns/na-99-krymskikh-azs-otkrylas-prodazha-topliva
+[14] rg.ru - https://rg.ru/2026/07/12/mid-rossii-otkryta-k-dialogu-s-nato-no-aliansu-nuzhna-konfrontaciia.html
 
-[15] www.vesti.ru - https://www.vesti.ru/ns/vs-rf-za-sutki-sbili-445-dronov-i-dve-rakety-bolshoj-dalnosti-v-zone-svo
+[15] rg.ru - https://rg.ru/2026/07/12/cik-prinial-dokumenty-vseh-11-partij-dlia-uchastiia-v-vyborah-v-gosdumu.html
 
-[16] www.vesti.ru - https://www.vesti.ru/ns/rossijskaya-armiya-vzyala-pod-kontrol-bachevsk-v-sumskoj-oblasti
+[16] rg.ru - https://rg.ru/2026/07/11/na-bajkonure-ustanovili-raketu-soiuz-21a-s-pilotiruemym-korablem-soiuz-ms-29.html
 
-[17] www.vesti.ru - https://www.vesti.ru/ns/rossijskaya-armiya-porazila-zavody-po-razrabotke-i-sborke-tyazhelykh-dronov-v-kieve
-
-[18] rg.ru - https://rg.ru/2026/07/11/vs-rossii-osvobodili-naselennyj-punkt-bachevsk-v-sumskoj-oblasti.html
-
-[19] rg.ru - https://rg.ru/2026/07/11/reg-ufo/chto-izvestno-ob-otrazhenii-ataki-bpla-na-regiony-rossii-nochiu-11-iiulia.html
-
-[20] rg.ru - https://rg.ru/2026/07/11/na-bajkonure-ustanovili-raketu-soiuz-21a-s-pilotiruemym-korablem-soiuz-ms-29.html
-
-[21] rg.ru - https://rg.ru/2026/07/10/cik-v-biulleteniah-na-vyborah-v-gosdumu-budet-ne-bolee-11-partij.html
+[17] ria.ru - https://ria.ru/20260712/seyner-2104349611.html

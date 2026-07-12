@@ -1,180 +1,210 @@
-# Report Date: 2026-07-11
+# Report Date: 2026-07-12
 
 ## Summary
-The reporting period has seen a series of significant military and security incidents in Russia and Ukraine. There were attacks involving UAVs leading to casualties and infrastructure damage, highlighting the ongoing threats to maritime and territorial security. Concurrently, logistical adjustments in fuel distribution in certain regions suggest ongoing supply chain challenges. The situation indicates potential for further military engagements and the importance of refining air defense mechanisms amid escalating tensions.
+During the reporting period, several significant developments were observed in Russia and the surrounding regions, particularly in relation to military activity and logistical operations. The Russian government is responding to ongoing hostilities and security challenges, as evidenced by increased military measures and the resumption of operations at critical infrastructure points such as airports and fuel stations. The escalation of drone operations, both in attacks and interceptions, highlights a persistent threat to territorial integrity, indicating ongoing challenges in the region. Future actions may involve intensified military responses and enhanced security protocols as both sides navigate this complex landscape.
 
-## Four Ships Attacked in Taganrog Bay, One Person Killed
-On July 11th, 2026, four vessels, including a methanol tanker, were attacked by a drone in Taganrog Bay, resulting in the death of a sailor. The Governor of the Rostov region reported that several UAVs were destroyed while defending against the attack, and while the ships incurred damage, there is no risk of a methanol spill. [1]
+## Fuel Sold Freely at 81 Stations in Crimea
+On July 12th, 2026, the Ministry of Energy of the Republic of Crimea announced that fuel is being sold freely at 81 petrol stations in the region, a significant reduction from 99 stations the previous day. This follows the lifting of restrictions that had been imposed due to logistical difficulties in late May. [1]
 
-**COMMENT:** This attack highlights the ongoing threats to maritime security in Russian waters, indicating a persistent vulnerability to UAV strikes. The implications for regional stability and the security of shipping operations in the Sea of Azov may further escalate tensions in the area.
+**COMMENT:** The government’s decision to allow free fuel sales highlights efforts to stabilize supply and support local logistics in Crimea. This measure may indicate a response to ongoing challenges in managing resource distribution amid past restrictions.
 
-**LOCATION:** Taganrog Bay / Taganrog Bay, Rostov Oblast, Russia [Click for Map Location]  
-**KEYWORDS:** #russia #сво #бпла  
+**LOCATION:** SPARTA CRIMEA / Crimea, 45.037057, 38.975647 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.037057&mlon=38.975647#map=8/45.037057/38.975647) (СПАРТА КРЫМ)
 
+**KEYWORDS:** #russia #сво #пуск #про
 
-## Fuel Sales to Resume at Nine Gas Stations in Sevastopol
-On July 11th, 2026, fuel sales in Sevastopol resumed at nine gas stations operated by the Atan network, following previous restrictions due to logistical issues. The local government has implemented an automated QR code distribution system for fuel purchases, limiting sales to 20 liters per vehicle to manage supply. [2]
 
-**COMMENT:** This event reflects ongoing logistical challenges and the government's approach to managing fuel distribution in Sevastopol. The use of QR codes indicates an effort to efficiently control access amidst potential shortages, which may signal broader supply chain issues in the region.
+## 220 Ukrainian Drones Shot Down Over Russian Regions
+On July 12th, 2026, the Russian military intercepted and destroyed 220 Ukrainian drones across various regions including Belgorod, Bryansk, Kaluga, Kursk, Orel, Tula, Krasnodar Territory, Moscow Region, Crimea, and over the Azov and Black Seas. This significant drone interception highlights ongoing military engagement and efforts to secure Russian airspace amidst heightened tensions with Ukraine. [2]
 
-**LOCATION:** Sevastopol / Sevastopol, Crimea, Russia [Click for Map Location]  
-**KEYWORDS:** #russia #сво #пуск #про  
+**COMMENT:** This incident underscores the persistent threat posed by Ukrainian drone operations to Russian territorial integrity. As such skirmishes continue, Russia may increase its counter-drone measures and defense spending in these regions.
 
+**LOCATION:** Russia / Russia, 64.686314, 97.745306 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
 
-## Fire at Tver Oil Depot Fully Extinguished After UAV Attack
-On July 11th, 2026, the fire at an oil depot in Tver, initiated by an UAV attack, was fully extinguished after two days of intensive firefighting efforts led by regional forces. Acting Governor Vitaly Korolev announced that despite the incident, fuel supplies in the region remained stable, with plans for additional fuel deliveries underway. [3]
+**KEYWORDS:** #russia #российские #российские военные #министерство обороны #беспилотник #перехват
 
-**COMMENT:** The swift response to the UAV-related fire highlights the operational readiness of local emergency services and regional authorities in the face of security threats. This incident may prompt heightened awareness and preventive measures regarding UAV attacks on critical infrastructure in Russia.
 
-**LOCATION:** Tver / Tver, Tver Oblast, Central Federal District, Russia [Click for Map Location]  
-**KEYWORDS:** #russia #беспилотник #бпла #про  
+## Major Airports in Moscow Region Resume Operations
+On July 12th, 2026, Moscow's Vnukovo, Domodedovo, Zhukovsky, and Yaroslavl airports resumed normal operations after restrictions on aircraft reception and departure were lifted by Rosaviatsiya. This development indicates a quick return to standard air traffic conditions, which may reflect improved security or operational stability in the region. [3]
 
+**COMMENT:** The resumption of operations at these key airports suggests a potential normalization of travel and logistics within Russia's capital region. This could signal increased governmental confidence in managing security or operational challenges that previously warranted restrictions.
 
-## 96 Drones Shot Down Over Kursk Region in One Day
-On July 11th, 2026, the Governor of the Kursk region reported that 96 drones were shot down over the area within a 24-hour period. This event was marked by the use of aerial attacks and artillery against resettled areas, resulting in property damage but no reported casualties. [4]
+**LOCATION:** Moscow / Moscow, 55.750541, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
 
-**COMMENT:** The interception of a significant number of drones indicates an active and ongoing threat perception in the Kursk region. This situation underscores the potential for increased military engagements and the need for enhanced air defense mechanisms in the area.
+**KEYWORDS:** #russia #пуск
 
-**LOCATION:** Kursk / Kursk, Kursk Oblast, Central Federal District, 305000, Russia [Click for Map Location]  
-**KEYWORDS:** #russia #сво #беспилотник  
 
+## Sochi Airport Coordinates Operations with Authorities for Flight Safety
+On July 12th, 2026, Sochi Airport announced that it is operating flights in coordination with relevant authorities to ensure safety measures. This statement, provided by Rosaviatsia, highlights proactive steps taken to maintain flight safety amidst ongoing operational protocols. [4]
 
-## 134 Ukrainian UAVs Destroyed in Bryansk Region Within a Day
-On July 11th, 2026, Acting Governor Yegor Kovalchuk reported that Russian air defense units destroyed 134 Ukrainian drones in the Bryansk region. This incident highlights ongoing military engagement along the border. [5]
+**COMMENT:** The coordination of operations at Sochi Airport suggests a heightened focus on safety in response to potential threats or incidents. This could indicate broader government efforts to reinforce security measures at key transportation hubs, reflecting the state's priority on aviation security.
 
-**COMMENT:** The destruction of a significant number of UAVs indicates a continued emphasis on border security and military readiness in the Bryansk region. This may reflect efforts to bolster defensive capabilities amid ongoing tensions with Ukraine.
+**LOCATION:** Sochi / Sochi, 43.585482, 39.723109 [Click for Map Location](https://www.openstreetmap.org/?mlat=43.585482&mlon=39.723109#map=8/43.585482/39.723109) 
 
-**LOCATION:** Bryansk Oblast / Bryansk Oblast, Central Federal District, Russia [Click for Map Location]  
-**KEYWORDS:** #russia #пво #сво #бпла #про  
+**KEYWORDS:** #russia #сво
 
 
-## Ukrainian Forces Attack Boiler and Grocery Store in Energodar
-On July 11th, 2026, Ukrainian forces conducted strikes on a boiler facility and a grocery store in Energodar, according to the city's administration head, Maxim Pukhov. The attacks resulted in equipment damage at the boiler room but did not cause any casualties. [6]
+## Drone Attacks in Belgorod Region Injure Two People
+On July 12th, 2026, a drone attack in the Belgorod region resulted in injuries to two individuals in separate incidents. A woman was severely injured in the Grayvoron district while a man sustained shrapnel wounds in the Belgorod district, highlighting ongoing hostilities in the area. [5]
 
-**COMMENT:** This incident underscores the ongoing tactical engagements in the vicinity of critical infrastructure, such as the Zaporozhye Nuclear Power Plant. Continued military actions may lead to heightened security concerns and operational challenges for Russian forces in the region.
+**COMMENT:** The drone attacks indicate a continuing security threat in the Belgorod region, likely exacerbating local tensions. Such incidents may prompt an increase in defensive measures and military responses from Russian authorities.
 
-**LOCATION:** Energodar / Energodar, Ukraine [Click for Map Location]  
-**KEYWORDS:** #russia #удар #сво #про  
+**LOCATION:** Belgorod Oblast / Belgorod Oblast, 50.708012, 37.583762 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762) 
 
+**KEYWORDS:** #russia #штаб #бригада #удар #про
 
-## Russian Military Strengthens Positions in Sumy Direction After Capturing Bachevsk
-On July 11th, 2026, the Russian military announced that it has reinforced its positions in the Sumy region following the capture of the village of Bachevsk. The Defense Ministry stated that this control enhances the security perimeter along the Kursk border and supports the North group's troop deployment in the area. [7]
 
-**COMMENT:** This development signifies an ongoing commitment by the Russian military to expand its territorial security and operational presence near the border regions. Future military maneuvers may further affect the balance of forces in northeastern Ukraine and impact regional security dynamics.
+## Russia Sends 22 Tons of Humanitarian Aid to Venezuela for Earthquake Victims
+On July 12th, 2026, Russia delivered 22 tons of humanitarian aid to Venezuela for those affected by a recent earthquake, according to the Russian Emergencies Ministry. This aid includes food, tents, engineering equipment, and an airmobile hospital staffed by specialists from the Ministry of Health to assist the local population. [6]
 
-**LOCATION:** Bachevsk / Bachevsk, Sumy Oblast, Ukraine, Russia [Click for Map Location]  
-**KEYWORDS:** #russia #российские #минобороны рф #российская армия #минобороны #полк #удар #сво #бпла #армия #про  
+**COMMENT:** This humanitarian effort reflects Russia's ongoing commitment to maintaining influence in Latin America, particularly in times of crisis. Future operations of this nature may strengthen partnerships with nations facing challenges that require international support.
 
+**LOCATION:** Venezuela / Venezuela, 8.001871, -66.110932 [Click for Map Location](https://www.openstreetmap.org/?mlat=8.001871&mlon=-66.110932#map=8/8.001871/-66.110932) 
 
-## Roads Blocked in Sverdlovsk Region Due to Flooding
-On July 11th, 2026, a section of the federal highway R-351 "Yekaterinburg - Tyumen" and various regional and municipal roads were blocked in the Sverdlovsk region due to severe flooding caused by heavy rains. The State Traffic Inspectorate reported complete vehicle movement restrictions, particularly on a crucial highway segment, highlighting the need for traffic management measures in affected districts. [8]
+**KEYWORDS:** #россия #российские #про
 
-**COMMENT:** The flooding represents a significant disruption to local transportation and may hinder emergency response efforts in the area. Continued adverse weather conditions could lead to further infrastructure challenges and necessitate additional government intervention.
 
-**LOCATION:** Sverdlovsk Oblast / Sverdlovsk Oblast, Ural Federal District, Russia [Click for Map Location]  
-**KEYWORDS:** #russia #часть #про  
+## Russian Armed Forces Attack Fuel and Transport Infrastructure Used by Ukrainian Army
+On July 12th, 2026, the Russian Armed Forces conducted strikes against fuel, energy, and transport infrastructure utilized by the Ukrainian military, according to the Russian Ministry of Defense. The attacks targeted storage areas for long-range drones and ammunition, affecting 158 districts, while also specifically hitting targets in the Odessa region, including a patrol boat and cargo ferries linked to the Ukrainian Armed Forces. [7]
 
+**COMMENT:** This military action by Russia indicates a continued focus on disrupting Ukrainian logistics and support operations, highlighting the ongoing intensity of the conflict. Future implications may include heightened tensions in the Black Sea region and further international scrutiny of Russian military engagements.
 
-## UAV Attack in Belgorod Region Causes Fire at Production Facility
-On July 11th, 2026, a drone strike attributed to the Armed Forces of Ukraine caused a fire at a production facility in the village of Bochkovka, Belgorod region. The attack also resulted in damage to other infrastructure and vehicles in several nearby locations, reflecting ongoing tensions and hostilities in the region. [9]
+**LOCATION:** Odessa region / Odessa region, Unknown, Unknown 
 
-**COMMENT:** This incident highlights the continued use of drone warfare in the conflict between Russia and Ukraine, posing threats to critical infrastructure in border regions. The increasing frequency of attacks could lead to heightened security measures and military responses from Russian authorities in the near future.
+**KEYWORDS:** #российские #вооруженные силы россии #вс рф #российские войска #army #удар #сво #бпла #сф #часть #про
 
-**LOCATION:** Belgorod Oblast / Belgorod Oblast, Central Federal District, Russia [Click for Map Location]  
-**KEYWORDS:** #russia #штаб #удар #беспилотник #бпла #про  
 
+## Russian Strikes Destroy Drone Manufacturing Facilities in Kiev
+On July 12th, 2026, Russian forces launched precision strikes on two military-industrial enterprises in Kiev, resulting in significant damage to drone manufacturing capabilities. The Russian Defense Ministry confirmed the attack targeted facilities responsible for the assembly of long-range drones like the FP-2, emphasizing a strategic degradation of Ukraine's military resources. [8]
 
-## Russian Military Strikes Ukrainian Fuel and Transport Facilities
-On July 11th, 2026, the Russian Defense Ministry reported that Russian troops conducted strikes against Ukrainian fuel, energy, and transport infrastructure. The attacks involved long-range storage sites, ammunition depots, and positions of the Armed Forces of Ukraine across 152 districts, utilizing aircraft, drones, missile troops, and artillery. [10]
+**COMMENT:** The destruction of these drone manufacturing facilities indicates an escalation in the operational capabilities of Russian forces, reflecting increased efforts to disrupt Ukraine’s military supply chains. This development may point towards intensified military actions in the region as both sides prepare for sustained conflict.
 
-**COMMENT:** This escalation in military activity signals a continued focus by Russia on disrupting Ukrainian logistical capabilities. Such aggressive operations may indicate an intent to further hinder Ukrainian military operations in the ongoing conflict.
+**LOCATION:** Kiev / Kiev, Unknown, Unknown 
 
-**LOCATION:** Ukraine / Ukraine [Click for Map Location]  
-**KEYWORDS:** #russia #российские #минобороны рф #российские войска #минобороны #удар #беспилотник  
+**KEYWORDS:** #российские #минобороны рф #российские войска #минобороны #полк #удар #сво #беспилотник #бпла #пуск #часть #про
 
 
-## Russian Army Reports Gains in Special Operations Zone
-On July 11th, 2026, the Russian Defense Ministry announced that the military improved its positions in the special operations zone, achieving more favorable tactical lines in regions such as Kharkiv and the Donetsk People's Republic. The ministry reported significant losses for Ukrainian forces, including over 210 soldiers and various military equipment. [11]
+## Russian Armed Forces Strike Significant Target in Kiev
+On July 12th, 2026, Russian forces successfully targeted the "Fanplit" enterprise in Kiev, a site critical for the production of military drone components and missiles. This development underscores an ongoing strategy of preventing potential strikes against Russian territory while inflicting damage on Ukraine's military capabilities. [9]
 
-**COMMENT:** This development underscores the ongoing intensity of Russia's military operations in the special operations zone, indicating a potential shift in battlefield dynamics. In the near term, such tactical gains may bolster Russian confidence and could influence future operational planning in the region.
+**COMMENT:** The successful strike on a key Ukrainian military enterprise not only disrupts Ukraine's drone capabilities but also reveals the continuing escalation in military actions between Ukraine and Russia. Future implications may include heightened tensions and further military responses as both sides reassess their strategic operations.
 
-**LOCATION:** Kharkiv region / Kharkiv region, Ukraine [Click for Map Location]  
-**KEYWORDS:** #russia #российские #минобороны рф #российская армия #российские военные #минобороны #полк #сво #десант #армия #про  
+**LOCATION:** Kiev / Kiev, Unknown, Unknown 
 
+**KEYWORDS:** #вс рф #удар #сво #беспилотник #сф #часть #про
 
-## Russian Air Defense Shoots Down Two Cruise Missiles and 445 Drones
-On July 11th, 2026, the Russian military reported that its air defense systems intercepted and shot down two guided bombs, two long-range cruise missiles, and 445 drones in a day. This significant defense activity indicates a heightened state of operational readiness amid ongoing military engagements in the region. [12]
 
-**COMMENT:** The scale of intercepted aerial threats reveals ongoing tensions and active military operations in the area. Future trajectories may involve increased air defense enhancements and further military engagements in response to perceived threats.
+## Large-Scale Drone Attack Attempt on Moscow Reported
+On July 12th, 2026, Moscow experienced one of the largest attempted drone attacks in recent years, with approximately 300 drones targeting the region. The city's air defense systems successfully neutralized the majority of these threats, shooting down 45 UAVs as they approached Moscow. [10]
 
-**LOCATION:** Moscow / Moscow, Central Federal District, Russia [Click for Map Location]  
-**KEYWORDS:** #russia #российские #минобороны рф #российская армия #российские военные #минобороны #пво #сво #армия #про  
+**COMMENT:** This incident reflects an increasing sophistication and frequency of drone attacks aimed at critical urban centers in Russia. In the near term, heightened security measures and potential escalations in air defense preparedness can be anticipated in response to these threats.
 
+**LOCATION:** Moscow / Moscow, 55.750541, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
 
-## Search Underway for Woman Missing Due to Flooding in Perm Region
-On July 11th, 2026, in the village of Kyn, located in the Lysvensky district of Perm region, flooding caused by heavy rains resulted in three bridges and the main road being damaged, prompting a search for a woman swept away by the floodwaters. The regional governor reported that more than 80 personnel—including rescue service and airmobile groups—are engaged in the search and recovery efforts. [13]
+**KEYWORDS:** #россия #пво #противовоздушная оборона #беспилотник #бпла #часть #про
 
-**COMMENT:** This incident highlights the ongoing vulnerabilities in Russia's infrastructure amid extreme weather events. The response may indicate heightened regional preparedness for emergencies, reflecting broader state priorities on disaster management and public safety.
 
-**LOCATION:** Kyn / Kyn, Perm Krai, Russia [Click for Map Location]  
-**KEYWORDS:** #russia #сво #про  
+## FPV Drone Strike in Energodar Kills Three Civilians
+On July 12th, 2026, an FPV drone attack targeted a civilian car in Energodar, Zaporozhye region, resulting in the deaths of three civilians. The strike was reported by the regional governor, who noted ongoing drone activity in the area, complicating rescue efforts. [11]
 
+**COMMENT:** This incident highlights the increasing use of drones in conflict zones, raising concerns over civilian safety. The continuous threat from UAVs may result in heightened tensions and instability in the region.
 
-## Fuel Sales Commence at 99 Gas Stations in Crimea
-On July 11th, 2026, fuel sales began at 99 gas stations across Crimea, according to the Republican Ministry of Energy. This development follows a period of restrictions that were put in place due to logistical issues, which had limited fuel availability in the region since late May. [14]
+**LOCATION:** Energodar / Energodar, Unknown, Unknown 
 
-**COMMENT:** The resumption of fuel sales in Crimea indicates a potential easing of logistical challenges that have previously constrained resource distribution. Monitoring future sales patterns may provide insights into the stability of supply chains in this contested region.
+**KEYWORDS:** #россия #удар #беспилотник #бпла #про
 
-**LOCATION:** Republic of Crimea / Republic of Crimea, Russia [Click for Map Location]  
-**KEYWORDS:** #россия #сво #пуск #про  
 
+## First Video Released of Combat Use of 'Banderol' Missile with 'Foreigner' UAV
+On July 12th, 2026, the first video demonstrating the combat use of the 'Banderol' missile equipped on the 'Foreigner' drone was released. The footage shows the missile mounted beneath the UAV, highlighting advancements in Russia's drone warfare capabilities. [12]
 
-## Russian Armed Forces Shoot Down 445 Drones and Two Missiles in SVO Zone
-On July 11th, 2026, the Russian Armed Forces reported the destruction of 445 Ukrainian drones and two long-range missiles in the Special Military Operation (SVO) zone, highlighting ongoing aerial engagements. This incident underscores the heightened intensity of military operations in the region as the conflict continues to evolve. [15]
+**COMMENT:** This development signifies an escalation in the integration of UAV technology in Russian military operations, potentially enhancing their operational effectiveness. Observing the performance and outcomes of these engagements will be crucial for understanding future tactical adaptations by the Russian Armed Forces.
 
-**COMMENT:** This escalation indicates the ongoing operational challenges faced by Ukrainian forces regarding aerial threats. Such sustained engagements may suggest a shift in tactics and an emphasis on air defense capabilities within Russian military strategy going forward.
+**LOCATION:** Moscow / Moscow, 55.750541, 37.617478 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) 
 
-**LOCATION:** SVO zone / SVO zone, Ukraine [Click for Map Location]  
-**KEYWORDS:** #российские #минобороны рф #вооруженные силы рф #вс рф #российские войска #российские военные #минобороны #сво #беспилотник #зрк #про  
+**KEYWORDS:** #российский #минобороны россии #вооруженные силы рф #вс рф #минобороны #корпус #батальон #сво #беспилотник #бпла #перехват #про
 
 
-## Russian Army Establishes Control Over Bachevsk in Sumy Region
-On July 11th, 2026, the Russian military reported that it had taken control of the village of Bachevsk in the Sumy region, as part of ongoing operations in Ukraine. This development is part of a broader pattern of territorial gains, with the Russian forces securing multiple settlements within a week. [16]
+## Russian Defense Ministry Releases Footage of Strikes on Chernomorsk Port
+On July 12th, 2026, the Russian Defense Ministry released footage showcasing its recent group strikes on the Chernomorsk port using long-range air-based weapons and drones. The strikes targeted military-related infrastructure to disrupt Ukrainian forces' capabilities in the Black Sea region. [13]
 
-**COMMENT:** This event marks a significant expansion of Russian military control in the Sumy region, potentially altering the dynamics of the conflict in Ukraine. Continued territorial gains may bolster the Kremlin's strategic position in future negotiations or military engagements.
+**COMMENT:** This event underscores the ongoing military operations by Russia aimed at undermining Ukraine's logistical support in the Black Sea. The continued targeting of such infrastructure suggests a strategic focus on diminishing Ukraine's military transport capabilities in the area.
 
-**LOCATION:** Bachevsk / Bachevsk, Sumy Oblast, Ukraine, Russia [Click for Map Location]  
-**KEYWORDS:** #российские #минобороны рф #вс рф #российская армия #российские военные #минобороны #генштаб #штаб #удар #сво #зрк #армия #про  
+**LOCATION:** Chernomorsk / Chernomorsk, Unknown, Unknown 
 
+**KEYWORDS:** #минобороны рф #вс россии #минобороны #удар #пуск
 
-## Russian Army Strikes Drone Manufacturing Facilities in Kiev
-On July 11th, 2026, the Russian military conducted strikes on drone manufacturing facilities in Kiev, targeting the Aerodrone enterprise, known for producing long-range heavy drones for the Ukrainian Armed Forces. The attack specifically impacted the production of the E-300 and D-80 models, highlighting ongoing military actions aimed at diminishing Ukraine's aerial capabilities. [17]
 
-**COMMENT:** This strike underscores Russia's ongoing military strategy to disrupt Ukraine's drone manufacturing capabilities, which are crucial for its defense operations. Continued assaults of this nature are likely to escalate tensions and could provoke further military responses from Ukraine and its allies.
+## Russia's Foreign Ministry States Conditions for Dialogue with NATO
+On July 12th, 2026, Russia's Foreign Ministry reiterated its openness to dialogue with NATO, emphasizing that such discussions must consider Russia's interests and the indivisibility of security. The statement highlights ongoing tensions between Russia and NATO, with the ministry accusing the alliance of fostering confrontation and seeking external enemies. [14]
 
-**LOCATION:** Kiev / Kiev, Ukraine [Click for Map Location]  
-**KEYWORDS:** #россия #российские #минобороны рф #вс рф #российские войска #российская армия #российские военные #российские военнослужащие #минобороны #удар #сво #беспилотник #бпла #зрк #армия #про  
+**COMMENT:** The assertion of conditional dialogue with NATO reflects Russia's strategic posture in international security discussions. In the near term, this could indicate an ongoing attempt by Russia to reassert its influence and mitigate tensions, although fundamental disagreements remain likely.
+
+**LOCATION:** Russia / Russia, 64.686314, 97.745306 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
+
+**KEYWORDS:** #россия #минобороны #удар #сво #вооруженный конфликт #про
+
+
+## CEC Confirms No More Than 11 Parties on State Duma Election Ballot
+On July 12th, 2026, Ella Pamfilova, head of the Central Election Commission (CEC), announced that the ballot for the upcoming State Duma elections will not exceed 11 parties, as some parties have opted not to participate. This decision reflects ongoing electoral regulations that significantly restrict new party access, potentially consolidating state control over the electoral process. [15]
+
+**COMMENT:** The limitation to 11 parties illustrates the CEC's tightening grip on the electoral landscape, which may further entrench existing power structures within the Duma. In the near term, this could lead to decreased political plurality and reduced civic engagement in the electoral process.
+
+**LOCATION:** Russia / Russia, 64.686314, 97.745306 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) 
+
+**KEYWORDS:** #россия #сво #сф #часть #про
+
+
+## Soyuz-2.1a Rocket Prepares for Launch at Baikonur
+On July 11th, 2026, the Soyuz-2.1a rocket arrived at the launch pad in Baikonur, Kazakhstan, in preparation for its upcoming mission to the International Space Station (ISS). The mission will be crewed by Russian cosmonauts Petr Dubrov and Anna Kikina, along with NASA astronaut Anil Menon, marking a significant event in Russian space endeavors and international cooperation in space exploration. [16]
+
+**COMMENT:** This launch underscores Russia's continued commitment to manned space exploration and its collaboration with international partners like NASA. The successful execution of this mission could strengthen Russia's standing in the global space community and lead to more collaborative future projects.
+
+**LOCATION:** Baikonur / Baikonur, 45.632198, 63.320920 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.632198&mlon=63.320920#map=8/45.632198/63.320920) 
+
+**KEYWORDS:** #россия #пуск #про
+
+
+## Russian Armed Forces Target Ukrainian Ship Converted to Launch BEK
+On July 12th, 2026, the Russian Armed Forces launched an attack on a Ukrainian ship that had been modified for the purpose of launching the BEK system. This development underscores ongoing military tensions and operational engagements between Russia and Ukraine. [17]
+
+**COMMENT:** The targeting of a modified Ukrainian ship indicates a heightening of military confrontations in the region, particularly regarding strategic naval capabilities. This action may signal an escalation of operational tactics as both sides continue to adapt to the evolving conflict dynamics.
+
+**LOCATION:** Ukraine / Ukraine, 49.487197, 31.271832 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) 
+
+**KEYWORDS:** #вс россии #пуск
 
 
 # Sources
-[1] interfax.ru - https://interfax.ru/russia/1102608?utm_source=top  
-[2] interfax.ru - https://interfax.ru/russia/1102626?utm_source=top  
-[3] interfax.ru - https://interfax.ru/russia/1102630?utm_source=top  
-[4] interfax.ru - https://interfax.ru/russia/1102624?utm_source=top  
-[5] interfax.ru - https://interfax.ru/russia/1102622?utm_source=top  
-[6] interfax.ru - https://interfax.ru/russia/1102655  
-[7] interfax.ru - https://interfax.ru/russia/1102653  
-[8] interfax.ru - https://interfax.ru/russia/1102651  
-[9] interfax.ru - https://interfax.ru/russia/1102650  
-[10] interfax.ru - https://interfax.ru/russia/1102649  
-[11] interfax.ru - https://interfax.ru/russia/1102648  
-[12] interfax.ru - https://interfax.ru/russia/1102647  
-[13] interfax.ru - https://interfax.ru/russia/1102645  
-[14] www.vesti.ru - https://www.vesti.ru/ns/na-99-krymskikh-azs-otkrylas-prodazha-topliva  
-[15] www.vesti.ru - https://www.vesti.ru/ns/vs-rf-za-sutki-sbili-445-dronov-i-dve-rakety-bolshoj-dalnosti-v-zone-svo  
-[16] www.vesti.ru - https://www.vesti.ru/ns/rossijskaya-armiya-vzyala-pod-kontrol-bachevsk-v-sumskoj-oblasti  
-[17] www.vesti.ru - https://www.vesti.ru/ns/rossijskaya-armiya-porazila-zavody-po-razrabotke-i-sborke-tyazhelykh-dronov-v-kieve  
-[18] rg.ru - https://rg.ru/2026/07/11/vs-rossii-osvobodili-naselennyj-punkt-bachevsk-v-sumskoj-oblasti.html  
-[19] rg.ru - https://rg.ru/2026/07/11/reg-ufo/chto-izvestno-ob-otrazhenii-ataki-bpla-na-regiony-rossii-nochiu-11-iiulia.html  
-[20] rg.ru - https://rg.ru/2026/07/11/na-bajkonure-ustanovili-raketu-soiuz-21a-s-pilotiruemym-korablem-soiuz-ms-29.html  
-[21] rg.ru - https://rg.ru/2026/07/10/cik-v-biulleteniah-na-vyborah-v-gosdumu-budet-ne-bolee-11-partij.html
+
+[1] interfax.ru - https://interfax.ru/russia/1102749?utm_source=top
+
+[2] interfax.ru - https://interfax.ru/russia/1102827
+
+[3] interfax.ru - https://interfax.ru/russia/1102826
+
+[4] interfax.ru - https://interfax.ru/russia/1102821
+
+[5] interfax.ru - https://interfax.ru/russia/1102818
+
+[6] interfax.ru - https://interfax.ru/world/1102816
+
+[7] aif.ru - https://aif.ru/society/army/vs-rf-nanesli-udary-po-toplivnoy-i-transportnoy-infrastrukture-vsu
+
+[8] aif.ru - https://aif.ru/society/nato-v-panike-kiev-v-agonii-zavod-superdronov-raznesli-v-shchepki-za-minuty
+
+[9] aif.ru - https://aif.ru/society/trevoga-v-britanii-iz-kieva-prishli-samye-strashnye-novosti
+
+[10] www.vesti.ru - https://www.vesti.ru/ns/popytka-ataki-bespilotnikov-na-moskvu-stala-odnoj-iz-krupnejshikh-za-neskolko-let
+
+[11] www.vesti.ru - https://www.vesti.ru/ns/fpv-dron-udaril-po-mashine-v-ehnergodare-ubity-tri-mirnykh-zhitelya
+
+[12] www.vesti.ru - https://www.vesti.ru/ns/poyavilos-pervoe-video-boevogo-primeneniya-rakety-banderol-s-bpla-inokhodec
+
+[13] rg.ru - https://rg.ru/2026/07/12/minoborony-rf-pokazalo-kadry-podgotovki-udarov-po-celiam-v-portu-chernomorska.html
+
+[14] rg.ru - https://rg.ru/2026/07/12/mid-rossii-otkryta-k-dialogu-s-nato-no-aliansu-nuzhna-konfrontaciia.html
+
+[15] rg.ru - https://rg.ru/2026/07/12/cik-prinial-dokumenty-vseh-11-partij-dlia-uchastiia-v-vyborah-v-gosdumu.html
+
+[16] rg.ru - https://rg.ru/2026/07/11/na-bajkonure-ustanovili-raketu-soiuz-21a-s-pilotiruemym-korablem-soiuz-ms-29.html
+
+[17] ria.ru - https://ria.ru/20260712/seyner-2104349611.html
