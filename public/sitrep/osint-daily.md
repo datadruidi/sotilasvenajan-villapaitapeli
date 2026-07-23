@@ -1,336 +1,317 @@
-# Report Date: 2026-07-20
+# Report Date: 2026-07-23
 
 ## Summary
-During the reporting period, significant military engagements and political developments occurred in Russia and surrounding regions, highlighting ongoing tensions in the Ukraine conflict. Russia's military capabilities appear robust, particularly reflected in the successful downing of numerous Ukrainian drones and continued strikes against military targets. The registration of candidates for the State Duma elections shows political activity amidst these military tensions. Furthermore, diplomatic relations, including discussions with North Korea and potential meetings with US representatives, suggest an ongoing strategic outreach in geopolitical contexts. The situation remains fluid, and immediate implications may include escalated military preparedness and increased scrutiny on domestic policies.
+The reporting period has witnessed various incidents indicating ongoing military tensions and operational activities in the context of the Russia-Ukraine conflict. Key developments include aviation safety concerns in Russia and drone attacks affecting civilian areas, reflecting ongoing vulnerabilities. Diplomatic dialogues concerning the Ukraine situation may lead to evolving strategies, but substantial changes remain uncertain. In the near term, incidents may prompt heightened security measures and scrutiny of military preparedness across affected regions.
 
-## Russian Defense Ministry Reports Downing of 917 Ukrainian Drones in One Day
-On July 20th, 2026, the Russian Ministry of Defense announced that its air defenses successfully downed 917 drones, among other aerial targets, indicating a significant day of engagements in the ongoing conflict. Additionally, the Black Sea Fleet claimed the destruction of two unmanned vessels belonging to the Ukrainian Armed Forces in the Black Sea. [1]
+## Russian Defense Ministry Reports Combat Training Aircraft Accident in Moscow Region
+On July 23rd, 2026, the Russian Defense Ministry reported an accident involving a combat training aircraft during takeoff in the Moscow region. The pilot ejected safely, and the aircraft crashed in a deserted area without causing harm to the ground or posing any threat to safety. [1]
 
-**COMMENT:** This report highlights the ongoing intensity of aerial engagements between Russian and Ukrainian forces, suggesting a continued reliance on drone warfare. The Russian military's operational success may influence its tactical approach in future engagements and could lead to escalated air defense measures.
+**COMMENT:** This incident highlights ongoing safety issues within Russia's military aviation, potentially impacting operational readiness and public confidence. The preliminary assessment indicates a technical malfunction, which could lead to scrutiny over maintenance practices and equipment standards in the armed forces.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Moscow Oblast / Moscow Oblast, 55.5043158, 38.0353929 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.504316&mlon=38.035393#map=8/55.504316/38.035393) (Москва)
 
-**KEYWORDS:** #russia #российские #минобороны рф #российские военные #минобороны #флот #беспилотник #про
-
-
-## Federal List of Candidates Registered for State Duma Elections from 'New People' Party
-On July 20th, 2026, the Central Election Commission of Russia registered a federal list of 297 candidates from the New People party for the upcoming State Duma elections. This decision follows the party's submission of necessary documentation and the exclusion of one candidate from their initial list, reflecting an active participation in the electoral process ahead of the ninth convocation. [2]
-
-**COMMENT:** The registration of candidates by the Central Election Commission indicates ongoing preparation for the State Duma elections, showcasing the dynamics within Russia's political landscape. This development may influence the electoral strategies of other parties as they prepare their lists to compete with the New People party for parliamentary seats.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #про
+**KEYWORDS:** #russia #минобороны рф #минобороны россии #минобороны
 
 
-## Bureau 1440 Launches Second Batch of Satellites for Russian Internet Access System
-On July 19th, 2026, the Russian aerospace company Bureau 1440 successfully launched a second batch of low-orbit satellites aimed at enhancing the Russian satellite Internet access system. These satellites, after separating from the launch vehicle, are set to transition to their target orbits following inspections by the Mission Control Center. [3]
+## Two Killed and Five Injured in Ukrainian Strike on Crimea
+On July 23rd, 2026, two people were killed and five others injured in a Ukrainian strike on Crimea, according to the head of the republic, Sergey Aksenov. This incident highlights ongoing tensions and military actions in the region amid the conflict between Ukraine and Russia. [2]
 
-**COMMENT:** This satellite launch is indicative of Russia's efforts to bolster its domestic internet infrastructure and reduce reliance on foreign technologies. Future launches will likely continue to focus on expanding satellite capabilities to enhance communication and data accessibility throughout the country.
+**COMMENT:** The recent attack in Crimea underscores the persistent threat of military escalation in the region, reflecting ongoing hostilities between Ukraine and Russia. This incident may prompt a reassessment of security measures and military readiness in Crimea.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** SPARTA CRIMEA / SPARTA CRIMEA, 45.037057, 38.9756473 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.037057&mlon=38.975647#map=8/45.037057/38.975647) (СПАРТА КРЫМ)
 
-**KEYWORDS:** #russia #пуск #про
-
-
-## Roskomnadzor Confirms Access to the App Store Remains Unrestricted in Russia
-On July 20th, 2026, Roskomnadzor reported that it does not impose restrictions on access to the App Store in Russia following user complaints about access issues. The agency reassured the public that there are currently no limitations affecting the Apple app store for Russian users. [4]
-
-**COMMENT:** This development highlights Roskomnadzor's efforts to address user concerns while maintaining the accessibility of digital platforms. Continued monitoring of the agency's statements will be important to assess any shifts in digital services regulation in Russia.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #российские #про
+**KEYWORDS:** #russia #удар #сво
 
 
-## State Duma Ensures Continuous Deforestation on Baikal Will Be Prohibited
-On July 20th, 2026, the Chairman of the State Duma Committee on Ecology, Dmitry Kobylkin, announced that amendments to the law regarding Baikal will prohibit continuous logging around the lake. This law, which aims to protect the environment while balancing socio-economic development in local settlements, is currently being finalized and seeks to eliminate the risks of uncontrolled deforestation. [5]
+## Rubio and Lavrov Discuss Ukraine Conflict in Manila
+On July 23rd, 2026, U.S. Secretary of State Marco Rubio met with Russian Foreign Minister Sergei Lavrov during the ASEAN ministerial meeting in Manila, discussing potential U.S. involvement in ending the Ukraine conflict. Rubio stated that both nations should be incentivized to resolve the crisis and emphasized the complexity of finding a mutually acceptable solution. [3]
 
-**COMMENT:** The prohibition of continuous deforestation around Lake Baikal highlights increasing state emphasis on environmental conservation. This focus may indicate a broader strategy to mitigate ecological risks while addressing local economic needs in the region.
+**COMMENT:** This meeting indicates a willingness from the U.S. to engage with Russia regarding the Ukraine situation, which could signal shifts in diplomatic strategies. Continued dialogue may lead to incremental changes in the dynamics of the conflict, although substantial progress remains uncertain.
 
-**LOCATION:** Lake Baikal / Lake Baikal, 53.6167299, 108.1307186 [Click for Map Location](https://www.openstreetmap.org/?mlat=53.616730&mlon=108.130719#map=8/53.616730/108.130719) (Байкал)
+**LOCATION:** Manila / Manila, 14.5904492, 120.9803621 [Click for Map Location](https://www.openstreetmap.org/?mlat=14.590449&mlon=120.980362#map=8/14.590449/120.980362) (Манила)
 
-**KEYWORDS:** #russia #удар #сво #про
-
-
-## Group of Fraudsters Detained in Russia for Equipment Theft Exceeding 100 Million Rubles
-On July 20th, 2026, the Russian Interior Ministry announced the detention of nine suspects involved in a fraud scheme that resulted in the theft of equipment worth over 100 million rubles. The operations took place across various regions, including Moscow, Novosibirsk, Vologda, and Saratov, as well as the Donetsk People's Republic. [6]
-
-**COMMENT:** The detentions highlight ongoing issues with organized fraud targeting businesses in Russia, potentially undermining internal security and economic stability. Future investigations may reveal broader networks that could impact law enforcement's ability to control such criminal activities.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #russia #удар #сво #часть #про
+**KEYWORDS:** #российский #про
 
 
-## Moscow to Host Digital Solutions Forum with Over 100 Countries Participating
-On July 20th, 2026, Moscow announced that the annual Digital Solutions Forum will take place from October 6 to 10, expecting participation from representatives of over 100 countries and up to 20,000 guests at the national center "Russia." This forum aims to showcase the advancements of the Russian IT industry, particularly in developing domestic technologies that can compete on a global scale, indicating a strategic push towards self-sufficiency in the tech sector. [7]
+## Fatal Gas Explosion in Egorievsk Suburbs Results in One Death
+On July 23rd, 2026, a household gas explosion occurred in an apartment in Egorievsk, resulting in the discovery of a deceased individual. Evacuations included 28 residents, and local authorities are now assessing the structural safety of the building while providing emergency assistance. [4]
 
-**COMMENT:** The Digital Solutions Forum highlights Russia's ongoing efforts to enhance its technological capabilities and reduce reliance on foreign technologies. This initiative may strengthen international ties while promoting Russian IT solutions as competitive alternatives in the global market.
+**COMMENT:** The incident highlights ongoing risks associated with domestic gas safety in residential buildings within the Moscow region. In the near term, enhanced scrutiny of safety regulations and emergency response protocols may be expected in similar residential areas across Russia.
 
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #russia #россия #штаб #удар #про
-
-
-## UAV Attack Damages Seven Apartment Buildings and Nearly 90 Cars in Kursk
-On July 19th, 2026, an attack involving unmanned aerial vehicles (UAVs) in Kursk resulted in damage to seven apartment buildings and approximately 90 cars. The regional governor reported a total of ten people injured and ongoing efforts to assess and repair the damage caused by the attack. [8]
-
-**COMMENT:** This incident reflects the continuing security challenges faced by Russian regions in light of drone threats. In the near term, the escalation of such attacks may lead to increased military vigilance and defensive measures in vulnerable areas.
-
-**LOCATION:** Kursk / Kursk, 51.7309249, 36.1923123 [Click for Map Location](https://www.openstreetmap.org/?mlat=51.730925&mlon=36.192312#map=8/51.730925/36.192312) (Курс)
-
-**KEYWORDS:** #russia #сво #беспилотник #бпла #про
-
-
-## Lavrov Calls for Enhanced Cooperation with North Korea
-On July 20th, 2026, Russian Foreign Minister Sergey Lavrov emphasized the need for increased bilateral cooperation during a meeting with North Korean Foreign Minister Choi Son-hee in Moscow. This meeting follows Choi's official visit to Russia, highlighting ongoing diplomatic engagements between the two countries. [9]
-
-**COMMENT:** The discussion regarding enhanced cooperation indicates a continuing strategic alignment between Russia and North Korea, particularly in areas of regional security. This collaboration could suggest potential shifts in regional dynamics, particularly in relation to the broader geopolitical landscape involving the Korean Peninsula.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Egorievsk / Egorievsk, Unknown, Unknown [Click for Map Location] Unknown (Егорьевск)
 
 **KEYWORDS:** #russia #сво #про
 
 
-## Governor of Zaporozhye Reports Controlled Situation in Energodar Amid Ukrainian Strikes
-On July 20th, 2026, Governor Yevgeny Balitsky stated to President Putin that the situation in Energodar is complicated but under control, despite ongoing Ukrainian strikes on civilian infrastructure. Balitsky emphasized the efforts of the military to ensure safety in the city, which is crucial due to its significance to nuclear operations. [10]
+## Continued Attacks in Belgorod Region Amid Ongoing Military Operation
+On March 9th, 2026, attacks in the Belgorod region resulted in multiple injuries from drone and rocket strikes, affecting civilians at various locations. A man suffered shrapnel wounds from a drone attack on a commercial facility, while two others were reported injured from rocket fire in the village of Krutoy Log, highlighting ongoing instability in the area amid the military operation in Ukraine. [5]
 
-**COMMENT:** This development underscores the ongoing volatility in the region amid the conflict, highlighting the challenges faced by authorities in maintaining control over strategically important areas. Future military actions and infrastructure strikes may further strain the situation, impacting civilian safety and regional governance.
+**COMMENT:** The attacks in Belgorod underscore the persistent threat posed by drones and indirect fire capabilities from opposing forces. Continued casualties may prompt heightened security measures and an escalation of military responses in the region.
 
-**LOCATION:** Energodar / Energodar, 0.0, 0.0 [Click for Map Location](None) (Энергодар)
+**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
 
-**KEYWORDS:** #russia #удар #про
-
-
-## UAV Debris Injures Three During Military Operation in Ukraine
-On the night of the recent military operation in Ukraine, three individuals were injured in Yeisk due to debris from a falling UAV. The Russian Defense Ministry reported advancements by the Southern group of forces in the special operation zone, specifically targeting Ukrainian units in the Donetsk People's Republic. [11]
-
-**COMMENT:** This incident highlights the ongoing intensity of military operations and the associated risks to civilians near active combat zones. Continued advancements by Russian forces may signal an escalation in military activities in the region.
-
-**LOCATION:** Yeisk / Yeisk, 0.0, 0.0 [Click for Map Location](None) (Ейск)
-
-**KEYWORDS:** #минобороны рф #минобороны россии #минобороны #группировка войск #штаб #удар #сво #беспилотник #бпла #часть #про
+**KEYWORDS:** #российские #минобороны рф #минобороны россии #российские военнослужащие #минобороны #пво #штаб #удар #беспилотник #бпла #сф #про
 
 
-## Balitsky Reports Full Control of Novorossiya Highway in Crimea to Putin
-On July 20th, 2026, Yevgeny Balitsky, the Governor of the Zaporozhye region, informed President Vladimir Putin that the R-280 Novorossiya highway has come fully under Russian control, facilitating supply to Crimea. This follows reports of a significant reduction in the effectiveness of Ukrainian drones in that area. [12]
+## Man Injured in Drone Strike on House in Peschanoe, Kursk Region
+On July 23rd, 2026, a drone attack targeted a private house in the village of Peschanoe in the Belovsk district of the Kursk region, injuring a 41-year-old man. The victim suffered from blind shrapnel wounds and was provided first aid before being transported to a regional hospital. [6]
 
-**COMMENT:** The complete control over the Novorossiya highway enhances Russia's logistical capabilities in Crimea and reflects ongoing operational developments in the region. In the near term, this may lead to increased military confidence and further deployments in response to changing dynamics with Ukrainian forces.
+**COMMENT:** The drone strike incident reflects ongoing security concerns within Russia, particularly concerning aerial attacks in domestic areas. This event may indicate a continued pattern of drone usage in regional conflicts or unrest, necessitating heightened vigilance in internal security measures.
 
-**LOCATION:** Crimea / SPARTA CRIMEA, 45.037057, 38.9756473 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.037057&mlon=38.975647#map=8/45.037057/38.975647) (Крым)
+**LOCATION:** Peschanoe / Peschanoe, Unknown, Unknown [Click for Map Location] Unknown (Песчаное)
 
-**KEYWORDS:** #россия #сво #беспилотник #бпла #сф #часть #про
-
-
-## Russian Military Strikes Ukrainian Mercenaries in Odessa Region
-On July 20th, 2026, the Russian military launched strikes targeting a training base for foreign mercenaries near Karolino-Bugaz in the Odessa region, as well as additional sites in Yuzhny and Chernomorsk. The operations were reportedly guided by intelligence capabilities, including radio and satellite reconnaissance, demonstrating Russia's focus on disrupting Ukrainian military operations with foreign support. [13]
-
-**COMMENT:** This operation reflects Russia's ongoing emphasis on countering foreign involvement in the Ukrainian conflict through targeted military actions. Future operations may increasingly rely on advanced reconnaissance techniques to identify and engage such targets, potentially escalating military engagements in the region.
-
-**LOCATION:** Karolino-Bugaz / Karolino-Bugaz, 0.0, 0.0 [Click for Map Location](None) (Каролино-Бугаз)
-
-**KEYWORDS:** #российские #российские военные #министерство обороны #полк #удар #сво #разведка #сф #армия #про
+**KEYWORDS:** #russia #удар
 
 
-## Russian Military Strikes Military-Industrial Complex in Kyiv on July 20
-On July 20th, 2026, the Russian Defense Ministry announced the execution of a significant attack on military-industrial complex facilities in Kyiv, leading to the destruction of Flamingo missile production. The event has triggered a state of panic among Ukrainian forces and raised concerns among Western allies regarding the effectiveness of Ukraine's air defense systems. [14]
+## Putin Discusses Component Production for Weapons with Security Council
+On July 23rd, 2026, President Vladimir Putin held a meeting with the permanent members of the Security Council in Moscow, focusing on the production of components and materials essential for the serial production of weapons and military equipment. Putin emphasized Russia's capability to independently produce the necessary materials for both new and existing military technologies. [7]
 
-**COMMENT:** The Russian attack reflects ongoing strategic efforts to undermine Ukraine's military capabilities, particularly its production of high-tech weaponry. This could lead to escalated military engagements and further strains on Western support as Ukraine grapples with its air defense vulnerabilities.
+**COMMENT:** This meeting underscores Russia's ongoing efforts to bolster its military production capabilities amid global tensions. The emphasis on self-sufficiency in arms manufacturing may indicate a response to external pressures and a priority for enhancing national defense.
 
-**LOCATION:** Kyiv / Kyiv, 50.4500336, 30.5241361 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.450034&mlon=30.524136#map=8/50.450034/30.524136) (Киев)
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #российские #минобороны рф #вс рф #минобороны #пво #удар #сво #перехват #пуск #сф #часть #про
-
-
-## Putin Meets with Governor of Zaporizhzhia Region
-On July 20th, 2026, Russian President Vladimir Putin held a meeting with Yevgeny Balitsky, the Governor of the Zaporizhzhia region, to discuss the unique challenges faced by the area. This meeting highlights ongoing state attention to the region in light of recent military activity and emphasizes its strategic significance amid the conflict with Ukraine. [15]
-
-**COMMENT:** This meeting indicates the Kremlin's focus on regions experiencing security challenges due to external military threats. The attention given to the Zaporizhzhia region may suggest increases in security measures or support in response to ongoing geopolitical tensions.
-
-**LOCATION:** Zaporizhzhia / Zaporizhzhia, 48.2571, 38.72475 [Click for Map Location](https://www.openstreetmap.org/?mlat=48.257100&mlon=38.724750#map=8/48.257100/38.724750) (Запорожье)
-
-**KEYWORDS:** #россия #удар #про
+**KEYWORDS:** #russia #россия #пуск #мто #про
 
 
-## Russian Air Defense Shoots Down 917 Drones and 8 Bombs on July 20, 2026
-On July 20th, 2026, the Russian Defense Ministry reported that air defense systems shot down 917 drones and eight guided bombs from the Armed Forces of Ukraine in the special military operation zone. Additionally, four shells of the American-made HIMARS rocket system were also neutralized by these air defenses. [16]
+## Mass Fish Deaths in Tyumen Linked to Oxygen Shortages
+On July 23rd, 2026, the Nizhneob territorial administration of Rosrybolovstvo reported that mass fish deaths in the Tura River, Tyumen, were likely caused by oxygen shortages due to abnormal flooding and pollution from soil humus. Heavy rainfall in June and elevated temperatures further exacerbated the pollution, hindering the river's natural self-cleaning abilities. [8]
 
-**COMMENT:** The high number of UAVs and munitions intercepted indicates ongoing aggressive military operations by Ukraine, prompting a rapid response from Russian air defense systems. This trend may suggest a sustained conflict dynamic, potentially influencing future military resource allocation and operational strategies in the SVO zone.
+**COMMENT:** This incident reflects potential environmental and ecological stress in the region, indicating broader concerns about water quality and pollution management in Russia. The recurring nature of such events could prompt increased regulatory scrutiny and response measures from environmental authorities.
+
+**LOCATION:** Tyumen / Tyumen, 57.153534, 65.542274 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.153534&mlon=65.542274#map=8/57.153534/65.542274) (Тюмень)
+
+**KEYWORDS:** #russia #сво #про
+
+
+## Domodedovo Airport Resumes Normal Operations
+On July 23rd, 2026, Domodedovo Airport in Moscow resumed normal operations after temporary restrictions on aircraft departures and arrivals were lifted. The limitations had been imposed by Rosaviatsiya to ensure flight safety. [9]
+
+**COMMENT:** The resumption of normal airport operations is a positive indicator of stability in aviation security. This development may suggest that recent flight safety concerns have been addressed, reflecting on the overall state of aviation infrastructure in Russia.
+
+**LOCATION:** Domodedovo / Domodedovo, 55.4368213, 37.7680693 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.436821&mlon=37.768069#map=8/55.436821/37.768069) (Домодедово)
+
+**KEYWORDS:** #russia #сво #пуск
+
+
+## Strategic Missile Forces Conduct Exercises for RCB Readiness Assessment
+On July 23rd, 2026, exercises were conducted by the Strategic Missile Forces in Russia to evaluate personnel readiness for duties in radiation, chemical, and biological (RCB) contaminated environments. The Ministry of Defense reported that these planned combat training activities involved assessing the RCB situation, decontaminating special equipment, and ensuring operational readiness of military resources. [10]
+
+**COMMENT:** This exercise reflects ongoing preparations by the Russian military to enhance resilience against potential RCB threats, indicating a focus on military readiness in the face of evolving security challenges. In the near term, this may lead to increased scrutiny of RCB preparedness protocols and potential upgrades to military training and equipment standards.
 
 **LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #минобороны рф #мо рф #вооруженные силы рф #вс рф #минобороны #пво #сво #беспилотник #бпла #про
+**KEYWORDS:** #russia #минобороны рф #минобороны #министерство обороны #рвсн #ракетные войска стратегического назначения #учения #ракетные войска #пуск #про
 
 
-## Compensation Announced for Families of Victims in Wildberries Warehouse Attack in Kotovsk
-On July 20th, 2026, regional authorities in the Tambov region announced a compensation package for families affected by a recent attack on a Wildberries warehouse in Kotovsk, following a strike by the Ukrainian Armed Forces. Affected families will receive 1.5 million rubles, while those seriously injured will receive 600,000 rubles and other victims will receive 300,000 rubles. [17]
+## Russian Armed Forces Liberate Belitsky in DPR
+On July 23rd, 2026, the Russian Defense Ministry reported that the Russian military has successfully taken control of the city of Belitskoe in the Donetsk People's Republic (DPR), displacing Ukrainian militants. This development is part of ongoing operations in the region, which also saw the liberation of villages in Zaporozhye and Kharkiv the day prior. [11]
 
-**COMMENT:** This compensation move highlights the ongoing impact of military actions on civilian communities within Russia, suggesting a potential increase in state support for affected families. In the near term, this could signify heightened administrative focus on public sentiment and recovery efforts amidst ongoing hostilities.
+**COMMENT:** This military success reflects Russia's continued operational momentum in the DPR, potentially signaling an intensification of military efforts in eastern Ukraine. Future operations may further consolidate Russian control in this region and could impact the dynamics of the ongoing conflict.
 
-**LOCATION:** Kotovsk / Kotovsk, 52.5870419, 41.4994249 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.587042&mlon=41.499425#map=8/52.587042/41.499425) (Котовск)
+**LOCATION:** Belitskoe / Belitskoe, Unknown, Unknown [Click for Map Location] Unknown (Белицкое)
+
+**KEYWORDS:** #российские #минобороны рф #вс рф #российские военные #army #минобороны #сво #сф #часть #про
+
+
+## Russian Strikes Target Foreign Cargo Ships in Odessa
+On July 22nd, 2026, Russian military forces conducted airstrikes on foreign cargo ships in the Odessa region, targeting vessels believed to be delivering military supplies to Ukrainian forces. This operation reflects a strategic escalation in ongoing hostilities, highlighting Odessa's significance as a logistics hub for military aid to Ukraine. [12]
+
+**COMMENT:** This operation indicates an increased focus on disrupting supply lines supporting Ukrainian military efforts. Continued military actions in this region could intensify and lead to further retaliatory measures by Ukraine or allied nations.
+
+**LOCATION:** Odessa / Odessa, Unknown, Unknown [Click for Map Location] Unknown (Одесса)
+
+**KEYWORDS:** #российские #российские военные #минобороны #вооружение #удар #сво #ракетные войска #разведка #беспилотник #пуск #сф #про
+
+
+## State Duma Passes Law for Free IVF for Widows of War Veterans
+On July 23rd, 2026, the State Duma of Russia approved legislation granting widows of combat veterans the right to free IVF services, effective December 1, 2026. This initiative is part of the state's medical care guarantees and will be regulated by the Ministry of Health. [13]
+
+**COMMENT:** The adoption of this law highlights the government's commitment to support the families of veterans, potentially impacting social stability and welfare programs. In the near term, this may strengthen public perceptions of state support among veterans' families amid ongoing social challenges.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #минобороны рф #вс рф #минобороны #удар #сво #про
+
+
+## EU to Sanction 94 Financial Institutions Including Moscow Exchange
+On July 23rd, 2026, the European Union announced the imposition of sanctions against 94 financial institutions, notably including the Moscow Exchange, as part of its 21st sanctions package against Russia. These sanctions, which primarily target banks, involve asset freezes, travel bans, and transaction restrictions in response to ongoing geopolitical tensions. [14]
+
+**COMMENT:** The imposition of these sanctions highlights the EU's persistent strategy to exert financial pressure on Russian institutions amid ongoing conflict. This action may further isolate Russia economically and provoke retaliatory measures in the near term.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #флот #сво #про
+
+
+## Man Injured in Drone Attack in Belgorod Following Wedding Ceremony
+On July 23rd, 2026, a newlywed man was injured in Belgorod when an enemy drone detonated near the registry office shortly after he and his wife left the venue. Eyewitnesses reported that the attack occurred as the couple was celebrating with friends, underscoring the ongoing threat of drone warfare in the region. [15]
+
+**COMMENT:** The incident highlights the persistent risk posed by drone attacks in Belgorod, posing challenges to civilian safety in urban areas. Such attacks may provoke heightened security measures and a potential escalation in military responses from Russian authorities.
+
+**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
+
+**KEYWORDS:** #россия #удар #сво #беспилотник #бпла #часть #про
+
+
+## Ministry Advises Switching to Russian Security Certificates
+On July 23rd, 2026, the Ministry of Digital Services advised Russian users to switch to domestic security certificates to ensure reliable access to online resources such as banks and marketplaces. This move aims to mitigate issues caused by foreign certification centers, as domestic certificates have already been integrated into popular browsers like Yandex. [16]
+
+**COMMENT:** This recommendation reflects ongoing concerns about cybersecurity and the reliability of foreign technologies within Russia. As the country pushes for digital sovereignty, we may see increased efforts to bolster domestic technological capabilities and reduce dependency on foreign systems.
+
+**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #россия #российские #пуск
+
+
+## Russian Armed Forces Strike Key Transport Hub in Dnipropetrovsk Region
+On July 23rd, 2026, the Russian Armed Forces conducted airstrikes on targets in Pavlograd, Dnipropetrovsk region, which is vital for the logistical support of the Ukrainian Armed Forces. The city’s strategic importance lies in its role as a transport hub for military supply routes to the Kramatorsk-Slavic area. [17]
+
+**COMMENT:** This continued targeting of critical infrastructure suggests a methodical approach to disrupt Ukrainian military operations. Future strikes may further hinder logistical capabilities, affecting the operational readiness of Ukrainian forces in the region.
+
+**LOCATION:** Pavlograd / Pavlograd, Unknown, Unknown [Click for Map Location] Unknown (Павлоград)
+
+**KEYWORDS:** #россия #российские #вс рф #вс россии #российская армия #российские военные #удар #сво #армия #про
+
+
+## Man Injured in Drone Attack in Kursk Region
+On July 23rd, 2026, a man was injured by a drone attack in the village of Peschanoe, Belovo district of the Kursk region, as reported by the regional governor Alexander Khinshtein. The 41-year-old victim sustained shrapnel wounds from the attack attributed to a Ukrainian unmanned aerial vehicle and was taken to a hospital by his relatives after receiving first aid. [18]
+
+**COMMENT:** This incident underscores the ongoing security threats posed by drone operations in the region, reflecting the heightened military tensions. The frequent occurrence of such attacks may lead to increased defensive measures and heightened alert levels among local authorities.
+
+**LOCATION:** Peschanoe / Peschanoe, Unknown, Unknown [Click for Map Location] Unknown (Песчаное)
 
 **KEYWORDS:** #россия #удар #беспилотник #бпла #про
 
 
-## Kremlin Welcomes Possible Meeting Between Lavrov and Rubio
-On July 20th, 2026, Russian presidential spokesman Dmitry Peskov expressed that the Kremlin welcomes a potential meeting between Foreign Minister Sergey Lavrov and US State Department head Marco Rubio, set to take place during the ASEAN summit in the Philippines. This meeting may indicate a continued willingness for dialogue amid complex US-Russia relations. [18]
+## Domodedovo Airport Resumes Normal Operations
+On July 23rd, 2026, Domodedovo Airport in Moscow resumed normal operations after previous restrictions on flights were lifted. The Federal Air Transport Agency (Rosaviatsia) announced that the measures were implemented to ensure flight safety and that the airport is now accepting and sending flights without any limitations. [19]
 
-**COMMENT:** The Kremlin's approval of a meeting with a US official suggests a cautious approach towards diplomacy, potentially signaling a desire to stabilize or improve bilateral ties. However, the effectiveness of such engagements will depend on the broader geopolitical context and the outcomes of these discussions.
+**COMMENT:** The resumption of operations at Domodedovo Airport underscores the authorities' responsiveness to air traffic safety concerns. Moving forward, continuous monitoring of airspace regulations will be critical to ensure ongoing operational stability amid potential future restrictions.
 
-**LOCATION:** Philippines / Philippines, 12.7503486, 122.7312101 [Click for Map Location](https://www.openstreetmap.org/?mlat=12.750349&mlon=122.731210#map=8/12.750349/122.731210) (Филиппины)
+**LOCATION:** Domodedovo / Domodedovo, 55.4368213, 37.7680693 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.436821&mlon=37.768069#map=8/55.436821/37.768069) (Домодедово)
 
-**KEYWORDS:** #россия #удар #сво #про
-
-
-## Russian Ambassador Kelin May Succeed Kislyak as Senator
-On July 20th, 2026, it was reported that Andrey Kelin, the Russian Ambassador to the United Kingdom, is being considered to replace Sergey Kislyak in the Federation Council following Kislyak's anticipated resignation due to health reasons and family circumstances. This potential appointment occurs in the context of upcoming gubernatorial elections in September, indicating a possible shift in key political personnel within the Russian government. [19]
-
-**COMMENT:** The potential transition from Kislyak to Kelin in the Federation Council suggests a strategic reallocation of diplomatic figures within Russia's political landscape. Such changes may impact Russia's foreign policy direction and diplomatic engagements, particularly in relation to the UK and international affairs.
-
-**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**KEYWORDS:** #российский #сво #сф #про
+**KEYWORDS:** #россия #сво #пуск #про
 
 
-## Expert Advocates for Military Training Courses for All Age Groups
-On July 20th, 2026, military expert Yuri Knutov emphasized the necessity of compulsory primary military training in schools due to the evolving international climate, where NATO countries view Russia as a primary threat. He argued that both schoolchildren and adults must be prepared with essential skills to respond effectively to crises, especially in light of contemporary security challenges such as drone threats. [20]
+## Bastrykin Reveals Casualty Figures from Ukrainian Forces' Attacks on Russia
+On July 23rd, 2026, Alexander Bastrykin, Chairman of the Investigative Committee of the Russian Federation, reported that since 2022, nearly 1,500 civilians have been killed in attacks by the Armed Forces of Ukraine across 54 regions of Russia, including 45 children. Additionally, Bastrykin indicated that over 6,700 individuals have sustained injuries, highlighting ongoing security concerns regarding cross-border attacks against Russian territory. [20]
 
-**COMMENT:** This push for military training reflects broader security concerns within Russia and the state's emphasis on readiness amidst perceived external threats. The implementation of such training could indicate a significant shift towards militarization in educational institutions, highlighting the Kremlin's focus on national defense.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #российские #вс рф #учения #сво #пуск #сф #про
-
-
-## Fire Breaks Out in Elite Residential Complex in Central Moscow
-On July 20th, 2026, a fire broke out in the elite residential complex "On Strastny Boulevard" in central Moscow, reportedly due to construction materials on the top floor. Approximately 20 people were evacuated from the building, which houses 35 apartments with high market values. [21]
-
-**COMMENT:** This incident underscores potential safety issues in high-value residential areas in Moscow, especially concerning construction practices. Future implications may include increased scrutiny and regulation of fire safety standards in luxury developments.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #про
-
-
-## Russian Ambassador Highlights North Macedonia's Accession to Anti-Russian Coalition
-On July 20th, 2026, Russian Ambassador Dmitry Zykov announced that North Macedonia has openly joined the so-called 'coalition of the willing,' described as an anti-Russian alliance. The statement followed a meeting in Paris on July 13th, where North Macedonia's alignment with NATO and EU foreign policy was emphasized, highlighting the ongoing shift in the region's geopolitical dynamics. [22]
-
-**COMMENT:** This development indicates an increasing isolation of Russia in the Balkan region as more countries align with NATO and EU policies. The continued support for Ukraine by North Macedonia could further exacerbate tensions between Russia and NATO members in Southeast Europe.
-
-**LOCATION:** Skopje / Skopje, 41.9962164, 21.4318935 [Click for Map Location](https://www.openstreetmap.org/?mlat=41.996216&mlon=21.431894#map=8/41.996216/21.431894) (Скопье)
-
-**KEYWORDS:** #россия #сво #сф #про
-
-
-## Clean Water Points Established in Upper Salda Following Contamination
-On July 20th, 2026, authorities in Upper Salda, Sverdlovsk Oblast, established stationary points for distributing clean water due to contamination concerns linked to ammonia levels in the local tap water. The contamination was traced to runoff from poultry farm waste, prompting the construction of a barrier dam and increased filtering measures to address the issue. [23]
-
-**COMMENT:** This development highlights the ongoing challenges in managing local water supply issues, reflecting potential weaknesses in environmental and public health oversight. It could signal increased scrutiny on agricultural practices and water management within the region as authorities work to mitigate future contamination risks.
-
-**LOCATION:** Upper Salda / Upper Salda, 0.0, 0.0 [Click for Map Location](None) (Верхняя Салда)
-
-**KEYWORDS:** #россия #про
-
-
-## Putin Discusses Control of Route R-280 "Novorossia" with Zaporizhia Governor
-On July 20th, 2026, during a meeting with the Governor of the Zaporizhia region, Putin was informed about the controlled situation in Energodar amidst ongoing shelling, highlighting the efforts of Russian forces to secure the R-280 highway supplying Crimea. The governor emphasized that the effectiveness of UAV attacks on this route has been significantly reduced, showcasing the operational capabilities of Russian military forces in the region. [24]
-
-**COMMENT:** This meeting underscores the focus on regional security and infrastructure protection as part of Russia's strategic priorities in occupied territories. The operational control over key supply routes like R-280 may indicate an ongoing commitment to maintaining influence and stability in eastern Ukraine.
-
-**LOCATION:** Energodar / Energodar, 0.0, 0.0 [Click for Map Location](None) (Энергодар)
-
-**KEYWORDS:** #россия #сво #бпла #про
-
-
-## Russian Officer Reports on Ukrainian Soldier Complaints in Krasny Liman
-On July 20th, 2026, a Russian officer reported that deserters from the Armed Forces of Ukraine are expressing dissatisfaction regarding inadequate supplies and food in Krasny Liman. The report indicates that the Ukrainian command is utilizing untrained soldiers as scouts on the front line, leading to claims of resource mismanagement and tactical inefficacy. [25]
-
-**COMMENT:** This report highlights the ongoing challenges faced by Ukrainian forces in maintaining troop morale and logistical support, which could impact their operational effectiveness. As the conflict continues, the Russian military may exploit these vulnerabilities to gain an advantage in the region.
-
-**LOCATION:** Krasny Liman / Krasny Liman, 0.0, 0.0 [Click for Map Location](None) (Красный Лиман)
-
-**KEYWORDS:** #российский #российские #вс рф #российские военные #командование #офицер #военнослужащий #бпла #перехват #про
-
-
-## Former Head of Ministry of Defense Institute Sentenced to 13 Years for Bribery
-On July 20th, 2026, the court sentenced Viktor Protasov, the former head of the 27th Central Research Institute of the Russian Ministry of Defense, to 13 years in prison for accepting bribes totaling 7 million rubles between 2020 and 2025. Protasov was found guilty of soliciting bribes from employees to ensure their inclusion in an initiative scientific group and facilitate additional payments, ultimately leading to the confiscation of his property and revocation of his military rank. [26]
-
-**COMMENT:** This conviction underscores ongoing issues of corruption within the Russian military and defense sectors. The implications of such cases may contribute to heightened scrutiny of defense spending and operational transparency in future contracts.
+**COMMENT:** This disclosure reflects ongoing vulnerabilities in Russian domestic security as a result of the conflict with Ukraine. The rising number of casualties may influence public sentiment and could lead to intensified calls for increased military responses and border security measures.
 
 **LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #минобороны рф #минобороны #полк #про
+**KEYWORDS:** #россия #российский #российские #удар #бпла #про
 
 
-## UAV Attack on Moscow and Surrounding Region on July 20, 2026
-On July 20th, 2026, Ukrainian Armed Forces launched a significant UAV attack targeting Moscow and its surrounding region, deploying approximately 400 drones. Moscow Mayor Sergei Sobyanin reported that 85 of these drones were intercepted before reaching the city, while some damage and casualties occurred in areas such as Podolsk, Domodedovo, and Odintsovo. [27]
+## Putin Highlights Russia's Independent Production of Weapons Raw Materials
+On July 23, 2026, President Vladimir Putin stated that Russia is among the few nations capable of independently producing the raw materials required for weapon manufacturing. During a meeting with Security Council members, he emphasized the importance of this capability for the development of new military technologies and the modernization of existing equipment. [21]
 
-**COMMENT:** This incident underscores the ongoing threat of drone warfare in the conflict between Russia and Ukraine, highlighting vulnerabilities in air defense. In the near term, increased military responses and enhanced protective measures around Moscow may be expected as Russia seeks to mitigate future attacks.
-
-**LOCATION:** Moscow / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
-
-**KEYWORDS:** #россия #беспилотник #бпла #пуск #часть #про
-
-
-## First Russian Robot Teledroid Launched into Space
-On July 14th, 2026, the Russian anthropomorphic robot Teledroid was launched into space aboard a rocket from Baikonur, joining three human cosmonauts. This marks a significant milestone as Teledroid is designed to operate in extreme environments, potentially paving the way for robotic missions to the Moon and Mars, reducing the risks for human astronauts in dangerous areas. [28]
-
-**COMMENT:** The launch of Teledroid reflects Russia's ongoing investment in advanced robotics for space exploration, which could enhance its capabilities in future lunar and Martian missions. The development signals a strategic move towards reducing human risk in space travel and could impact future mission planning and international collaboration in space exploration.
-
-**LOCATION:** Baikonur / Baikonur, 45.6321977, 63.3209201 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.632198&mlon=63.320920#map=8/45.632198/63.320920) (Байконур)
-
-**KEYWORDS:** #российский #сво #про
-
-
-## North Korea Reaffirms Support for Russia's Position on Ukraine
-On July 20th, 2026, North Korean Foreign Minister Song Hina expressed unwavering support for Russia's military operations in Ukraine during a meeting with Russian Foreign Minister Sergey Lavrov. She emphasized that North Korea views Russia's actions as a defensive measure to uphold its sovereignty and pledged to support Russia's political stance on global platforms. [29]
-
-**COMMENT:** This reaffirmation of support from North Korea may strengthen diplomatic ties and create a unified front against Western criticism. In the near term, this could embolden Russia in its ongoing military and political strategies regarding Ukraine and influence regional security dynamics.
+**COMMENT:** This statement underscores Russia's focus on self-sufficiency in its defense production capabilities, which may enhance its strategic autonomy. Continued emphasis on developing indigenous materials could reflect broader intentions to boost military resilience amid international sanctions and pressures.
 
 **LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #российские #удар #сво #специальная военная операция
+**KEYWORDS:** #россия #удар #пуск #про
 
 
-## Russia Reduces Gas Supplies to Turkey by 4.1% in Early 2026
-On July 20th, 2026, it was reported that Russia reduced its pipeline gas supplies to Turkey by 4.1% during the first five months of the year, totaling 9.6 billion cubic meters. This decline comes as Turkey continues to negotiate future contracts with Gazprom amid pressures from the European Union regarding the export of Russian gas. [30]
+## Russian Army Strikes Ukrainian Fuel and Energy Facilities Used by Militants
+On July 23rd, 2026, the Russian Army launched strikes on various facilities in Ukraine's fuel and energy complex, targeting those utilized by militants of the Ukrainian Armed Forces. The Russian Ministry of Defense reported that unmanned aerial vehicles, operational-tactical aviation, and missile troops were employed in the attacks across 146 districts. [22]
 
-**COMMENT:** This reduction in gas supplies may reflect Russia's ongoing challenges in maintaining its energy export relationships in the face of external pressures. The situation could indicate potential shifts in Turkey's energy strategies as it seeks to balance its dependencies between Russia and European demands.
+**COMMENT:** This military action demonstrates a persistent focus on crippling Ukraine's critical infrastructure, which may hinder its operational capabilities. The continued use of advanced strike methods suggests an escalation in Russian military tactics as part of their ongoing conflict objectives.
 
-**LOCATION:** Turkey / Turkey, 39.294076, 35.2316631 [Click for Map Location](https://www.openstreetmap.org/?mlat=39.294076&mlon=35.231663#map=8/39.294076/35.231663) (Турция)
+**LOCATION:** Ukraine / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) (Украина)
 
-**KEYWORDS:** #россия #российский #про
+**KEYWORDS:** #российские #минобороны рф #вс рф #российские военнослужащие #минобороны #министерство обороны #армия россии #вооружение #удар #сво #ракетные войска #артиллерия #армия #про
+
+
+## Putin Highlights Russia's Capability to Independently Produce Weapon Raw Materials
+On July 23rd, 2026, President Vladimir Putin emphasized Russia's unique ability to independently produce the raw materials essential for weapon manufacturing during a meeting with permanent members of the Security Council. He highlighted that this production capability plays a significant role across various government departments involved in military equipment modernization and the development of promising new weapons. [23]
+
+**COMMENT:** This assertion bolsters the perception of Russia's self-sufficiency in defense production amidst ongoing global tensions. In the near term, this may facilitate accelerated military modernization efforts and enhance Russia's strategic autonomy in armament capabilities.
+
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #россия #удар #пуск #про
+
+
+## Russian Aerospace Forces Target Ukrainian Military in Kharkiv and DPR
+On July 23rd, 2026, the Russian Aerospace Forces conducted airstrikes against Ukrainian military facilities in the Kharkiv region and Donetsk People's Republic (DPR), deploying multiple FAB-500 and FAB-250 bombs against specific targets including control points and temporary military dislocation points. This operation follows the reported capture of the village of Belitskoe by Russian forces, indicating a sustained military offensive in the region. [24]
+
+**COMMENT:** The recent airstrikes highlight the ongoing intensity of the conflict and Russia's commitment to degrading Ukrainian military capabilities. Such actions may suggest a preparation for further ground operations in occupied areas, reflecting a strategic offensive posture from Russia.
+
+**LOCATION:** Kharkiv region / Kharkiv region, Unknown, Unknown [Click for Map Location] Unknown (Харьковская область)
+
+**KEYWORDS:** #вс рф #минобороны #вкс #сво #беспилотник #пункт управления #про
+
+
+## State Duma Approves Law Regulating Cryptocurrency Circulation in Russia
+On July 23rd, 2026, the State Duma of Russia approved legislation to regulate the circulation of cryptocurrencies within the country. This new law allows crypto exchanges to gain legal status and enables both qualified and unqualified investors to purchase digital assets, potentially shifting future market dynamics and impacting the use of foreign platforms. [25]
+
+**COMMENT:** The approval of this legislation may enhance the domestic cryptocurrency market, attracting new investors who previously avoided digital assets. This development could lead to increased regulatory oversight in financial markets and affect Russia's broader economic strategies concerning digital currency.
+
+**LOCATION:** Russia / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
+
+**KEYWORDS:** #россия #российские #штаб #сф #часть #про
+
+
+## Russian Armed Forces Liberate the City of Belitsk in the DPR
+On July 23rd, 2026, Russian Armed Forces announced the liberation of the city of Belitsk in the Donetsk People's Republic (DPR). This development reflects ongoing military operations in the region and indicates a continuing effort to assert control over contested territories. [26]
+
+**COMMENT:** The liberation of Belitsk underscores the persistent military engagement of Russia in the DPR, which may lead to further territorial consolidation. Observers should monitor how this event influences local governance structures and military strategies in the area.
+
+**LOCATION:** Belitsk / Belitsk, Unknown, Unknown [Click for Map Location] Unknown (Белицк)
+
+**KEYWORDS:** #вс россии #сво
 
 
 # Sources
-[1] Interfax - https://interfax.ru/russia/1104323?utm_source=top  
-[2] Interfax - https://interfax.ru/russia/1104309?utm_source=top  
-[3] Interfax - https://interfax.ru/russia/1104308?utm_source=top  
-[4] Interfax - https://interfax.ru/digital/1104342  
-[5] Interfax - https://interfax.ru/russia/1104338  
-[6] Interfax - https://interfax.ru/russia/1104334  
-[7] Interfax - https://interfax.ru/russia/1104335  
-[8] Interfax - https://interfax.ru/russia/1104333  
-[9] Interfax - https://interfax.ru/russia/1104331  
-[10] Interfax - https://interfax.ru/russia/1104329  
-[11] Interfax - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html  
-[12] AIF - https://aif.ru/society/balickiy-rossiya-polnostyu-kontroliruet-trassu-r-280-snabzhayushchuyu-krym  
-[13] AIF - https://aif.ru/society/groby-iz-odessy-poletyat-k-makronu-i-navrockomu-glavnaya-novost-svo-20-iyulya  
-[14] AIF - https://aif.ru/society/v-bunkere-zelenskogo-panika-ot-udarov-v-kieve-glavnaya-novost-svo-20-iyulya  
-[15] Vesti - https://www.vesti.ru/ns/peskov-putin-provel-vstrechu-s-gubernatorom-zaporozhskoj-oblasti  
-[16] Vesti - https://www.vesti.ru/ns/pvo-rf-za-sutki-sbila-917-bespilotnikov-i-vosem-aviabomb-vsu  
-[17] Vesti - https://www.vesti.ru/ns/semyam-pogibshikh-pri-udare-po-skladu-wildberries-v-kotovske-vyplatyat-po-15-mln  
-[18] Vesti - https://www.vesti.ru/ns/kreml-budet-privetstvovat-vozmozhnuyu-vstrechu-lavrova-i-rubio  
-[19] Vesti - https://www.vesti.ru/ns/rbk-posol-rf-v-velikobritanii-kelin-mozhet-stat-senatorom-posle-ukhoda-kislyaka  
-[20] Vesti - https://www.vesti.ru/ns/ehkspert-knutov-kurs-voennoj-podgotovke-budet-polezen-i-vzroslym-i-detyam  
-[21] Vesti - https://www.vesti.ru/ns/mash-v-moskve-gorit-zhk-na-strastnom-bulvare  
-[22] Vesti - https://www.vesti.ru/ns/posol-rf-ukazal-na-prisoedinenie-severnoj-makedonii-k-koalicii-zhelayushchikh  
-[23] Vesti - https://www.vesti.ru/ns/stacionarnye-punkty-razliva-chistoj-vody-razvernuli-v-verkhnej-salde  
-[24] RG - https://rg.ru/2026/07/20/reg-zaporozhskaya/prezident-putin-vstretilsia-s-gubernatorom-zaporozhskoj-oblasti-evgeniem-balickim.html  
-[25] RG - https://rg.ru/2026/07/20/reg-dnr/oficer-vs-rf-soobshchil-o-dezertirstve-voennyh-vsu-v-krasnom-limane.html  
-[26] RG - https://rg.ru/2026/07/20/reg-cfo/eks-nachalnik-nii-minoborony-protasov-poluchil-13-let-za-vziatki-na-7-mln-rublej.html  
-[27] KP - https://www.kp.ru/daily/277799/5278592/  
-[28] KP - https://www.kp.ru/daily/277799.5/5278461/  
-[29] KP - https://www.kp.ru/online/news/7080714/  
-[30] KP - https://www.kp.ru/online/news/7080713/
+[1] interfax.ru - https://interfax.ru/russia/1105052?utm_source=top
+
+[2] interfax.ru - https://interfax.ru/russia/1105009?utm_source=top
+
+[3] interfax.ru - https://interfax.ru/world/1105011?utm_source=top
+
+[4] interfax.ru - https://interfax.ru/russia/1105034?utm_source=top
+
+[5] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+
+[6] interfax.ru - https://interfax.ru/russia/1105074
+
+[7] interfax.ru - https://interfax.ru/russia/1105075
+
+[8] interfax.ru - https://interfax.ru/russia/1105072
+
+[9] interfax.ru - https://interfax.ru/russia/1105070
+
+[10] interfax.ru - https://interfax.ru/russia/1105063
+
+[11] aif.ru - https://aif.ru/society/army/minoborony-vs-rf-osvobodili-belickoe-v-dnr
+
+[12] aif.ru - https://aif.ru/society/taynye-gruzy-makrona-i-merca-sozhgli-v-odesse-glavnaya-novost-svo-23-iyulya
+
+[13] www.vesti.ru - https://www.vesti.ru/ns/gosduma-prinyala-zakon-o-besplatnom-ehko-dlya-vdov-veteranov-boevykh-dejstvij
+
+[14] www.vesti.ru - https://www.vesti.ru/ns/es-vvedet-sankcii-protiv-94-finansovykh-organizacij-vklyuchaya-mosbirzhu
+
+[15] www.vesti.ru - https://www.vesti.ru/ns/skrepili-uzy-krovyu-muzhchina-postradal-pri-atake-v-belgorode-na-vykhode-iz-zagsa
+
+[16] www.vesti.ru - https://www.vesti.ru/ns/mincifry-rekomendovalo-perekhodit-na-rossijskie-sertifikaty-bezopasnosti
+
+[17] www.vesti.ru - https://www.vesti.ru/ns/vs-rossii-nanesli-novyj-udar-po-vazhnomu-transportnomu-uzlu-vsu
+
+[18] www.vesti.ru - https://www.vesti.ru/ns/pri-udare-po-domu-v-kurskoj-oblasti-ranen-muzhchina
+
+[19] www.vesti.ru - https://www.vesti.ru/ns/aehroport-domodedovo-vnov-rabotaet-v-shtatnom-rezhime
+
+[20] www.vesti.ru - https://www.vesti.ru/ns/bastrykin-nazval-chislo-mirnykh-rossiyan-pogibshikh-v-rezultate-atak-vsu
+
+[21] iz.ru - https://iz.ru/2137245/putin-zaiavil-o-sposobnosti-rossii-samostoiatelno-vypuskat-syre-dlia-vooruzhenii-izi
+
+[22] iz.ru - https://iz.ru/2137142/2026-07-23/armiia-rossii-nanesla-udary-po-ispolzuemym-boevikami-obektam-tek-ukrainy
+
+[23] iz.ru - https://iz.ru/2137245/putin-zaiavil-o-sposobnosti-rossii-samostoiatelno-vypuskat-syre-dlia-vooruzhenii-izi?main_click
+
+[24] rg.ru - https://rg.ru/2026/07/23/reg-dnr/ad-na-zemle-vks-rf-unichtozhili-bombami-obekty-vsu-v-harkovskoj-oblasti-i-dnr.html
+
+[25] rg.ru - https://rg.ru/2026/07/22/ekspert-associacii-bankov-goncharova-raskryla-perspektivy-kriptorynka-v-rossii.html
+
+[26] ria.ru - https://ria.ru/20260723/belitskoe-2106409416.html
