@@ -35,12 +35,14 @@ type InfoPage =
   | 'short-story-weapons-and-ammunition'
   | 'short-story-equipment-and-platforms'
   | 'short-story-organization-structure'
+  | 'short-story-ivan-in-ukraine-full'
   | null
 
 type StoryPage =
   | 'short-story-weapons-and-ammunition'
   | 'short-story-equipment-and-platforms'
   | 'short-story-organization-structure'
+  | 'short-story-ivan-in-ukraine-full'
 
 const EQUIPMENT_CATALOG_OPTIONS = [
   {
@@ -115,6 +117,14 @@ const SOURCES_OPTIONS = [
 ]
 
 const SHORT_WAR_STORY_OPTIONS = [
+  {
+    id: 'short-story-ivan-in-ukraine-full' as const,
+    file: 'Ivan_in_Ukraine_All_Stories_Russian.md',
+    audioFile: 'Ivan-in-Ukraine_FULL.mp3',
+    labelFi: 'Ivan in Ukraine - Full Story',
+    labelEn: 'Ivan in Ukraine - Full Story',
+    available: true,
+  },
   {
     id: 'short-story-weapons-and-ammunition' as const,
     file: 'Part_1_Weapons_and_Ammunition.md',
@@ -218,6 +228,8 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
   const [pageContent, setPageContent] = useState<string | null>(null)
   const [pageError, setPageError] = useState<string | null>(null)
   const [isStoryAudioPlaying, setIsStoryAudioPlaying] = useState(false)
+  const [storyAudioCurrentTime, setStoryAudioCurrentTime] = useState(0)
+  const [storyAudioDuration, setStoryAudioDuration] = useState(0)
   const introAudioRef = useRef<HTMLAudioElement | null>(null)
   const storyAudioRef = useRef<HTMLAudioElement | null>(null)
 
@@ -290,6 +302,8 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
       storyAudioRef.current = null
     }
     setIsStoryAudioPlaying(false)
+    setStoryAudioCurrentTime(0)
+    setStoryAudioDuration(0)
   }, [storyAudioUrl])
 
   useEffect(() => {
@@ -370,14 +384,17 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
     if (!storyAudioUrl) return
     let audio = storyAudioRef.current
     if (!audio) {
-      audio = new Audio(storyAudioUrl)
-      audio.volume = 0.85
-      audio.loop = true
-      audio.addEventListener('ended', () => setIsStoryAudioPlaying(false))
-      storyAudioRef.current = audio
+      const createdAudio = new Audio(storyAudioUrl)
+      createdAudio.volume = 0.85
+      createdAudio.loop = true
+      createdAudio.addEventListener('timeupdate', () => setStoryAudioCurrentTime(createdAudio.currentTime))
+      createdAudio.addEventListener('loadedmetadata', () => setStoryAudioDuration(Number.isFinite(createdAudio.duration) ? createdAudio.duration : 0))
+      createdAudio.addEventListener('durationchange', () => setStoryAudioDuration(Number.isFinite(createdAudio.duration) ? createdAudio.duration : 0))
+      createdAudio.addEventListener('ended', () => setIsStoryAudioPlaying(false))
+      storyAudioRef.current = createdAudio
+      audio = createdAudio
     }
     if (audio.paused) {
-      audio.currentTime = 0
       audio.play()
         .then(() => setIsStoryAudioPlaying(true))
         .catch(() => setIsStoryAudioPlaying(false))
@@ -392,16 +409,39 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
     playButtonClick(muted)
     let audio = storyAudioRef.current
     if (!audio) {
-      audio = new Audio(storyAudioUrl)
-      audio.volume = 0.85
-      audio.loop = true
-      audio.addEventListener('ended', () => setIsStoryAudioPlaying(false))
-      storyAudioRef.current = audio
+      const createdAudio = new Audio(storyAudioUrl)
+      createdAudio.volume = 0.85
+      createdAudio.loop = true
+      createdAudio.addEventListener('timeupdate', () => setStoryAudioCurrentTime(createdAudio.currentTime))
+      createdAudio.addEventListener('loadedmetadata', () => setStoryAudioDuration(Number.isFinite(createdAudio.duration) ? createdAudio.duration : 0))
+      createdAudio.addEventListener('durationchange', () => setStoryAudioDuration(Number.isFinite(createdAudio.duration) ? createdAudio.duration : 0))
+      createdAudio.addEventListener('ended', () => setIsStoryAudioPlaying(false))
+      storyAudioRef.current = createdAudio
+      audio = createdAudio
     }
     audio.currentTime = 0
+    setStoryAudioCurrentTime(0)
     audio.play()
       .then(() => setIsStoryAudioPlaying(true))
       .catch(() => setIsStoryAudioPlaying(false))
+  }
+
+  const seekStoryAudio = (time: number) => {
+    const audio = storyAudioRef.current
+    if (!audio) return
+    audio.currentTime = time
+    setStoryAudioCurrentTime(time)
+  }
+
+  const formatAudioTime = (seconds: number) => {
+    if (!Number.isFinite(seconds)) return '0:00'
+    const wholeSeconds = Math.max(0, Math.floor(seconds))
+    const hours = Math.floor(wholeSeconds / 3600)
+    const minutes = Math.floor((wholeSeconds % 3600) / 60)
+    const remainingSeconds = wholeSeconds % 60
+    return hours > 0
+      ? `${hours}:${String(minutes).padStart(2, '0')}:${String(remainingSeconds).padStart(2, '0')}`
+      : `${minutes}:${String(remainingSeconds).padStart(2, '0')}`
   }
 
   const handleLogoClick = () => {
@@ -429,13 +469,29 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
             <span className="splash-info-header-spacer" aria-hidden="true" />
           </div>
           {storyAudioUrl && (
-            <div className="short-story-audio-controls" aria-label={isEnglish ? 'Story audio controls' : 'Tarinan \u00E4\u00E4niohjaimet'}>
-              <button type="button" className="short-story-audio-btn" onClick={toggleStoryAudio}>
-                {isStoryAudioPlaying ? (isEnglish ? 'Pause' : 'Tauko') : (isEnglish ? 'Play Audio' : 'Toista \u00E4\u00E4ni')}
-              </button>
-              <button type="button" className="short-story-audio-btn short-story-audio-btn-secondary" onClick={restartStoryAudio}>
-                {isEnglish ? 'Start Over' : 'Alusta'}
-              </button>
+            <div className="short-story-audio-player" aria-label={isEnglish ? 'Story audio controls' : 'Tarinan \u00E4\u00E4niohjaimet'}>
+              <div className="short-story-audio-controls">
+                <button type="button" className="short-story-audio-btn" onClick={toggleStoryAudio}>
+                  {isStoryAudioPlaying ? (isEnglish ? 'Pause' : 'Tauko') : (isEnglish ? 'Play Audio' : 'Toista \u00E4\u00E4ni')}
+                </button>
+                <button type="button" className="short-story-audio-btn short-story-audio-btn-secondary" onClick={restartStoryAudio}>
+                  {isEnglish ? 'Start Over' : 'Alusta'}
+                </button>
+              </div>
+              <div className="short-story-audio-seek">
+                <span>{formatAudioTime(storyAudioCurrentTime)}</span>
+                <input
+                  type="range"
+                  min="0"
+                  max={storyAudioDuration || 0}
+                  step="0.1"
+                  value={Math.min(storyAudioCurrentTime, storyAudioDuration || 0)}
+                  onChange={(event) => seekStoryAudio(Number(event.target.value))}
+                  disabled={storyAudioDuration === 0}
+                  aria-label={isEnglish ? 'Audio position' : '\u00C4\u00E4nen kohta'}
+                />
+                <span>{formatAudioTime(storyAudioDuration)}</span>
+              </div>
             </div>
           )}
           <div className="splash-info-body">
@@ -607,7 +663,12 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
               </div>
               <div className="splash-menu-buttons">
                 {SHORT_WAR_STORY_OPTIONS.map((option) => option.available && 'id' in option ? (
-                  <button key={option.labelEn} type="button" className="splash-info-btn" onClick={() => openInfoPage(option.id as StoryPage)}>
+                  <button
+                    key={option.labelEn}
+                    type="button"
+                    className={`splash-info-btn${option.id === 'short-story-ivan-in-ukraine-full' ? ' splash-info-btn-full-story' : ''}`}
+                    onClick={() => openInfoPage(option.id as StoryPage)}
+                  >
                     {isEnglish ? option.labelEn : option.labelFi}
                   </button>
                 ) : (
@@ -643,4 +704,3 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
     </div>
   )
 }
-
