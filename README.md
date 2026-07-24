@@ -1,8 +1,8 @@
-# Military Russian 101
+# All Things Russian Military 101 / Sotilasvenäjän villapaitapeli
 
 ![Military Russian 101 banner](docs/banner.png)
 
-Military Russian 101 is a learning game. It teaches Russian military words and topics. The app is available in Finnish and English.
+All Things Russian Military 101 (Sotilasvenäjän villapaitapeli) is a learning game. It teaches Russian military words and topics. The app is available in Finnish and English.
 
 Play in a browser at [villapaitapeli.fi](https://villapaitapeli.fi).
 
