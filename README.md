@@ -8,16 +8,6 @@ Play in a browser at [villapaitapeli.fi](https://villapaitapeli.fi).
 
 ## Main screen
 
-The main screen has six choices:
-
-1. Military Quiz
-2. Military Memory Game
-3. Short War Stories
-4. Daily OSINT Brief
-5. Equipment Catalog
-6. Information & Settings
-
-
 ![Main screen](docs/main-screen.png)
 
 ## 1. Military Quiz
