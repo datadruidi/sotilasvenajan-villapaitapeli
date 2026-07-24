@@ -1,5 +1,7 @@
 ---------------------
+
 Available on YouTube: https://www.youtube.com/watch?v=lCqAK6c5sdI
+
 ---------------------
 
 # Часть первая. Добро пожаловать на СВО
