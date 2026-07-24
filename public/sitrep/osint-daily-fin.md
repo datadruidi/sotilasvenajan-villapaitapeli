@@ -1,238 +1,254 @@
-# Report Date: 2026-07-23
+# Report Date: 2026-07-24
 
 ## Summary
-Raportointijaksolla on raportoitu useita tapahtumia, jotka heijastavat konflikteihin liittyvää jännittynyttä tilannetta Venäjän ja Ukrainan välillä. Venäjän puolustusministeriö raportoi onnettomuuden Moskovassa, kun samalla Ukrainasta tuli uutisia iskuista Krimillä, mikä lisää jännitteitä alueella. Diplomatia nousi esiin Yhdysvaltojen ulkoministerin ja Venäjän ulkoministerin välisessä keskustelussa, joka saattaa viitata mahdollisiin muutoksiin neuvottelustrategioissa. Aiemmista iskuista johtuvat turvallisuuskysymykset ja kansalaisten loukkaantumiset heijastavat tulevien päivien mahdollisia rehevöityviä sotilaallisia toimia sekä liikehdintää ympäröivissä valtioissa.
+Raportointijaksolla Venäjän hallitus on toteuttanut useita toimenpiteitä, jotka vaikuttavat kansainvälisiin suhteisiin ja talouteen. Uudet lainsäädäntötoimet pakeneville rikollisille ja elintarviketarkastukset Armeniasta osoittavat tiukentuvaa valtionvaltaa. Samaan aikaan Venäjän viranomaiset ovat vahvistaneet sitoutumistaan strategisiin tavoitteisiin Ukrainassa. Lähitulevaisuudessa voidaan odottaa lisää toimenpiteitä, jotka voivat vaikuttaa kansainväliseen kauppaan ja alueelliseen turvallisuuteen.
 
-## Venäläinen puolustusministeriö raportoi taisteluharjoituslentokoneen onnettomuudesta Moskovan alueella
-Raportoitujat mukaan, 23. heinäkuuta 2026, Venäjän puolustusministeriö ilmoitti taisteluharjoituslentokoneen onnettomuudesta nousun yhteydessä Moskovan alueella. Pilotti onnistui ejected turvallisesti, ja lentokone romahti autioon alueeseen aiheuttamatta vahinkoa maassa tai uhkaamatta turvallisuutta. [1]
+## Liittovaltion neuvosto hyväksyy rajoituksia ulkomailla oleville pakeneville rikollisille
+Raportoituna 24. heinäkuuta 2026 Venäjän liittovaltion neuvosto hyväksyi uusia lakeja, jotka asettavat rajoituksia ulkomailla elävien rikollisten osalta, jotka ovat rikkoneet lakia. Tämä lainsäädäntötoimi vastaa kasvavaan kieltäytymiseen, jota ulkomaat ovat osoittaneet rikollisten luovuttamisen suhteen poliittisista syistä, ja tavoitteena on parantaa rikosoikeudellisten seuraamusten valvontaa Venäjällä. [1]
 
-**COMMENT:** Tapahtuma korostaa jatkuvia turvallisuusongelmia Venäjän sotilasilmailussa, mikä voi vaikuttaa operatiiviseen valmiuteen ja julkiseen luottamukseen. 
-
-**LOCATION:** Moskovan alue / Moscow Oblast, 55.5043158, 38.0353929 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.504316&mlon=38.035393#map=8/55.504316/38.035393) (Московская область)
-
-**KEYWORDS:** #russia #минобороны рф #минобороны россии #минобороны  
-
-
-## Kaksi kuollut ja viisi haavoittunutta Ukrainan iskussa Krimillä
-23. heinäkuuta 2026, kaksi ihmistä kuoli ja viisi muuta haavoittui Ukrainan iskussa Krimillä, ilmoitti tasavallan päämies Sergey Aksenov. Tapahtuma korostaa alueen jatkuvia jännitteitä ja sotatoimia Ukrainan ja Venäjän välillä. [2]
-
-**COMMENT:** Äskettäinen isku Krimillä korostaa sotilaallisen eskalaation uhkaa alueella ja voi aiheuttaa turvallisuustoimenpiteiden uudelleenarviointia Krimissä. 
-
-**LOCATION:** SPARTA KRIMEA / SPARTA CRIMEA, 45.037057, 38.9756473 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.037057&mlon=38.975647#map=8/45.037057/38.975647) (СПАРТА КРИМ)
-
-**KEYWORDS:** #russia #удар #сво  
-
-
-## Rubio ja Lavrov keskustelivat Ukrainan konfliktista Manilassa
-23. heinäkuuta 2026, Yhdysvaltain ulkoministeri Marco Rubio tapasi Venäjän ulkoministerin Sergei Lavrovin, keskustellen mahdollisesta Yhdysvaltojen vaikutuksesta Ukrainan konfliktin päättämiseen. Rubio totesi, että molempia kansoja tulisi kannustaa kriisin ratkaisemiseen ja korosti ratkaisun löytämisen monimutkaisuutta. [3]
-
-**COMMENT:** Tämä kohtaaminen viittaa Yhdysvaltojen halukkuuteen sitoutua Venäjän kanssa Ukrainan tilanteeseen, mikä voi merkitä muutoksia diplomaattisissa strategioissa. 
-
-**LOCATION:** Manila / Manila, 14.5904492, 120.9803621 [Click for Map Location](https://www.openstreetmap.org/?mlat=14.590449&mlon=120.980362#map=8/14.590449/120.980362) (Манила)
-
-**KEYWORDS:** #российский #про  
-
-
-## Kuolettava kaasupäästösysäys Egorievskissa
-23. heinäkuuta 2026, kotitaloudessa tapahtui kaasupäästö Egorievskissa, mikä johti löydökseen kuolleen henkilön. Evakuoitiin 28 asukasta, ja paikalliset viranomaiset arvioivat rakennuksen rakenteellista turvallisuutta tarjoamalla kiireellistä apua. [4]
-
-**COMMENT:** Tapaus korostaa jatkuvia riskejä, jotka liittyvät kotitalouksien kaasuturvallisuuteen Moskovan alueen asuinrakennuksissa. 
-
-**LOCATION:** Egorievsk / Egorievsk, Tuntematon, Tuntematon [Click for Map Location](Unknown) (Егорьевск)
-
-**KEYWORDS:** #russia #сво #про  
-
-
-## Jatkuvat hyökkäykset Belgorodin alueella
-23. heinäkuuta 2026, Belgorodin alueella tapahtui hyökkäyksiä, jotka johtivat useisiin loukkaantumisiin drone- ja rakettiiskuista, koskien siviiliväestöä eri paikoissa. [5]
-
-**COMMENT:** Hyökkäykset Belgorodissa korostavat dronesotien uhkaa, mikä voi aiheuttaa lisätoimenpiteitä ja sotilaallisten vastausten lisääntymistä alueella. 
-
-**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
-
-**KEYWORDS:** #российские #минобороны рф #минобороны россии #российские военнослужащие #минобороны #пво #штаб #удар #беспилотник #бпла #сф #про  
-
-
-## Mies haavoittui dronehyökkäyksessä Peschanoessa
-23. heinäkuuta 2026, dronehyökkäys kohdistui yksityiseen taloon Peschanoessa, Kurskin alueella, mikä johti 41-vuotiaan miehen haavoittumiseen. Uhri sai shrapnel-vammoja ja häntä hoidettiin ennen siirtoa alueelliseen sairaalaan. [6]
-
-**COMMENT:** Tämä dronehyökkäys heijastaa jatkuvia turvallisuusongelmia Venäjällä, erityisesti lentohyökkäyksiä sisäalueilla. 
-
-**LOCATION:** Peschanoe / Peschanoe, Tuntematon, Tuntematon [Click for Map Location](Unknown) (Песчаноe)
-
-**KEYWORDS:** #russia #удар  
-
-
-## Putin keskustelee komponenttiproduktion varmistamisesta
-23. heinäkuuta 2026, Presidentti Vladimir Putin piti kokouksen turvallisuusneuvoston jäsenten kanssa Moskovassa, keskittyen aseiden ja sotilaskaluston valmistukseen tarvittavien komponenttien tuotannon varmistamiseen. [7]
-
-**COMMENT:** Tämä kokous korostaa Venäjän pyrkimyksiä vahvistaa sotilastuotantokykyjään globaalien jännitteiden keskellä. 
+**COMMENT:** Lakien hyväksyminen merkitsee lisääntyvää huomiota Venäjän pakolaisia kansainvälisessä kontekstissa ja huolia ulkomaisten luovutuspolitiikkojen vaikutuksista sisäiseen turvallisuuteen.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #россия #пуск #мто #про  
+**KEYWORDS:** #russia #удар #про
 
 
-## Massiiviset kalakuolemat Tyumenissa
-23. heinäkuuta 2026,Nizhneobin alueen hallinto Rosrybolovstovasta raportoi, että massiiviset kalakuolemat Tura-joessa Tyumenissa johtuvat todennäköisesti hapen puutteesta. [8]
+## Rosselkhoznadzor rajoittaa maitotuotteiden toimituksia Armeniasta alkaen 27. heinäkuuta
+Raportoituna 24. heinäkuuta 2026 Venäjän maatalousvalvontaviranomainen Rosselkhoznadzor ilmoitti rajoittavansa maitotuotteiden toimituksia Armeniasta 27. heinäkuuta alkaen, johtuen tarkastuksissa löydetyistä rikkomuksista. Viraston mukaan tavoitteena on estää vaarallisten infektioiden leviämistä ja taata elintarvikkeiden turvallisuus Venäjän markkinoilla. [2]
 
-**COMMENT:** Tämä tapahtuma heijastaa ympäristö- ja ekologisia paineita alueella, mikä voi johtaa lisääntyvään säännölliseen valvontaan. 
+**COMMENT:** Tämä rajoitus heijastaa jatkuvaa sääntelyvalvontaa elintarviketurvallisuuden varmistamiseksi Venäjällä.
 
-**LOCATION:** Tyumen / Tyumen, 57.153534, 65.542274 [Click for Map Location](https://www.openstreetmap.org/?mlat=57.153534&mlon=65.542274#map=8/57.153534/65.542274) (Тюмень)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #russia #сво #про  
+**KEYWORDS:** #russia #про
 
 
-## Domodedovo lentokenttä palauttaa normaalit toiminnot
-23. heinäkuuta 2026, Domodedovo lentokenttä Moskovassa palautti normaalit toimintonsa sen jälkeen, kun aikaisemmat rajoitukset lentotoiminnassa poistettiin. [9]
+## Lavrov vakuuttaa Venäjän saavuttavan tavoitteensa Ukrainassa olosuhteista riippumatta
+Raportoituna 24. heinäkuuta 2026 Venäjän ulkoministeri Sergey Lavrov korosti Venäjän sitoutumista tavoitteidensa saavuttamiseen Ukrainassa, ilmoittaen mieluummin poliittisesta ratkaisusta mutta väittäen, että tavoitteet saavutetaan kaikissa olosuhteissa. [3]
 
-**COMMENT:** Normaalitilanteeseen palauttaminen lentokentällä on positiivinen merkki lentoturvallisuuden vakaudesta. 
+**COMMENT:** Lavrovin lausunnot ilmensivät Venäjän jyrkkää asennetta strategisiin tavoitteisiinsa Ukrainassa, vaikkakin kansainvälisestä kritiikistä huolimatta.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #сво
+
+
+## Tavarat ja alueet pelastettu UAV-hyökkäyksen jälkeen Wildberries-varastoissa
+Raportoituna 24. heinäkuuta 2026 Wildberries-yrityksen logistiikkakompleksit Pietarissa ja Simferopolissa kohtasivat miehittämättömien ilma-alusten (UAV) hyökkäyksen, jonka seurauksena osaa tavaroista ja alueista oli onnistuttu pelastamaan. [4]
+
+**COMMENT:** UAV-hyökkäys Wildberriesille korostaa mahdollisia haavoittuvuuksia Venäjän logistiikkainfrastruktuurissa, mikä voi johtaa tiukentuneisiin turvallisuustoimenpiteisiin keskeisillä alueilla.
+
+**LOCATION:** Simferopol / Simferopol, 44.9423753, 34.0968267 [Click for Map Location](https://www.openstreetmap.org/?mlat=44.942375&mlon=34.096827#map=8/44.942375/34.096827) (Симферополь)
+
+**KEYWORDS:** #russia #бпла #часть #про
+
+
+## Nabiullina keskustelee toimitusshokista varastohyökkäysten seurauksena
+Raportoituna 24. heinäkuuta 2026 Venäjän keskuspankin puheenjohtaja Elvira Nabiullina keskusteli varastohyökkäysten aiheuttamista toimitusshokeista lehdistötilaisuudessa Moskovassa. [5]
+
+**COMMENT:** Nabiullinan huomautukset korostavat kasvavia huolia Venäjän talousjohdossa hyökkäysten mahdollisista inflaatiovaikutuksista.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #сф #про
+
+
+## Peskov väittää, että Ukrainan komentajan lausunnot oikeuttavat Venäjän sotilaallista toimintaa
+Raportoituna 24. heinäkuuta 2026 Dmitry Peskov, presidentti Vladimir Putinin tiedottaja, totesi, että Ukrainan asevoimien uuden komentajan Mikhail Drapatyn lausunnot asukkaista Donbassissa tukevat Venäjän erityistä sotilasoperaatiota. [6]
+
+**COMMENT:** Peskovin lausunnot heijastavat Venäjän logiikkaa sotilaallisten toimien oikeuttamisessa.
+
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+
+**KEYWORDS:** #russia #россия #сво #специальная военная операция
+
+
+## Rajoitukset kumottu Domodedovo-lentokentällä
+Raportoituna 24. heinäkuuta 2026 Rosaviatsiya ilmoitti, että lentopalvelujen rajoitukset Domodedovo-lentokentällä Moskovassa on kumottu noin 20 minuutin viivästyksen jälkeen. [7]
+
+**COMMENT:** Rajoitusten purkaminen Domodedovossa osoittaa paluuta normaaliin lentotoimintaan, mikä on tärkeää sisäiselle matkustamiselle ja kansainväliselle yhteydelle.
 
 **LOCATION:** Domodedovo / Domodedovo, 55.4368213, 37.7680693 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.436821&mlon=37.768069#map=8/55.436821/37.768069) (Домодедово)
 
-**KEYWORDS:** #russia #сво #пуск  
+**KEYWORDS:** #russia #про
 
 
-## Strategiset ohjusjoukot suorittavat harjoituksia RCB-valmiuden arvioimiseksi
-23. heinäkuuta 2026, strategiset ohjusjoukot Venäjällä suorittivat harjoituksia arvioidakseen henkilöstön valmiutta säteily-, kemiallisessa ja biologisessa (RCB) saastuneessa ympäristössä. [10]
+## Kaksitoista uhri sairaalaan UAV-hyökkäyksen jälkeen Kirovissa
+Raportoituna 24. heinäkuuta 2026 kaksitoista henkilöä vietiin sairaalaan UAV-hyökkäyksen seurauksena Kirovissa, viranomaisten mukaan. [8]
 
-**COMMENT:** Tämä harjoitus heijastaa Venäjän armeijan jatkuvia valmisteluja, joissa korostuu RCB-uhkien kestävyys. 
+**COMMENT:** Käynyt tapaus osoittaa kasvaneita uhkauskynnyksiä, mikä voi johtaa lisääntyneisiin turvallisuusvastauksiin.
+
+**LOCATION:** Kirov / Kirov, 58.6035661, 49.6666241 [Click for Map Location](https://www.openstreetmap.org/?mlat=58.603566&mlon=49.666624#map=8/58.603566/49.666624) (Киров)
+
+**KEYWORDS:** #russia #бпла
+
+
+## Maersk lopettaa toimintansa Ukrainassa Venäjän iskujen vuoksi Odessassa
+Raportoituna 24. heinäkuuta 2026 Maersk ilmoitti, että se ei enää toimi Ukrainassa Venäjän asevoimien äskettäisten iskujen takia Odessan satamiin. [9]
+
+**COMMENT:** Tämä kehitys estää merkittävästi lännen aseiden kuljetuksen Ukrainaan.
+
+**LOCATION:** Odessassa / Odessa, Unknown [Click for Map Location](Unknown) (Одесса)
+
+**KEYWORDS:** #минобороны рф #вс рф #минобороны #флот #вооружение #офицер #удар #сво #бпла #сф #часть #про
+
+
+## Peskov: Donbassin asukkaat tekivät oikean päätöksen jättää Ukraina
+Raportoituna 24. heinäkuuta 2026 Dmitry Peskov totesi, että Donbassin asukkaat päättivät oikein jättää Ukrainan. [10]
+
+**COMMENT:** Tämä lausunto tukee Kremlille ominaista narratiivia sotilastoimien puolustamisesta.
+
+**LOCATION:** Donbass / Donbass, Unknown [Click for Map Location](Unknown) (Донбасс)
+
+**KEYWORDS:** #вс рф #сво #специальная военная операция #про
+
+
+## Bastrykin määrää oikeudellinen arvio Drapatyn lausunnoista venäläisistä
+Raportoituna 24. heinäkuuta 2026 Alexander Bastrykin, Venäjän tutkintakomitean puheenjohtaja, määräsi oikeudellisen arvion Ukrainan asevoimien komentaja Mikhail Drapatyn viimeisistä lausunnoista. [11]
+
+**COMMENT:** Tämä kehitys korostaa jatkuvia jännitteitä Venäjän ja Ukrainan välisessä diskurssissa.
 
 **LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**KEYWORDS:** #russia #минобороны рф #минобороны #министерство обороны #рвсн #ракетные войска стратегического назначения #учения #ракетные войска #пуск #про  
+**KEYWORDS:** #россия #бпла #про
 
 
-## Venäjän asevoimat vapauttavat Belitskin DPR:stä
-23. heinäkuuta 2026, Venäjän puolustusministeriö ilmoitti, että Venäjän armeija on onnistuneesti ottanut hallintaansa Belitskin kaupungin Donetskin kansantasavallassa (DPR). [11]
+## Putin vierailee Irkutskin ilmailutehtaalla esitellessään MS-21-konetta
+Raportoituna 24. heinäkuuta 2026 presidentti Vladimir Putin vieraili Irkutskin ilmailutehtaalla, jossa hän esitteli ensimmäisen tuotantokoneen MS-21 -mallista. [12]
 
-**COMMENT:** Tämä sotilaallinen menestys heijastaa Venäjän operatiivista momentumia DPR:ssä, mikä mahdollisesti merkitsee sotilaallisten ponnistelujen lisääntymistä Itä-Ukrainassa. 
+**COMMENT:** Putin on sitoutunut ilmailuteollisuuden kehittämiseen Venäjän elvytyssuunnitelmien tukemiseksi.
 
-**LOCATION:** Belitskoe / Belitskoe, Tuntematon, Tuntematon [Click for Map Location](Unknown) (Белицкое)
+**LOCATION:** Irkutsk / Irkutsk, 52.2891225, 104.279829 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.289122&mlon=104.279829#map=8/52.289122/104.279829) (Иркутск)
 
-**KEYWORDS:** #российские #минобороны рф #вс рф #российские военные #army #минобороны #сво #сф #часть #про  
-
-
-## Venäjän iskut kohdistuvat ulkomaisiin rahtilaivoihin Odessassa
-22. heinäkuuta 2026, Venäläiset sotilaat suorittivat ilmaiskejä ulkomaisiin rahtilaivoihin Odessan alueella, mikä heijastaa strategista eskalaatiota jatkuvissa vihollisuuksissa. [12]
-
-**COMMENT:** Tämä operaatio osoittaa lisääntynyttä painotusta Ukrainan sotilaallista tukea tukevien toimituslinjojen keskeyttämiseen. 
-
-**LOCATION:** Odessa / Odessa, Tuntematon, Tuntematon [Click for Map Location](Unknown) (Одесса)
-
-**KEYWORDS:** #российские #российские военные #минобороны #вооружение #удар #сво #ракетные войска #разведка #беспилотник #пуск #сф #про  
+**KEYWORDS:** #россия #сво #про
 
 
-## Valtioduma hyväksyy lain sotaveteraanien leskien ilmaiselle IVF:lle
-23. heinäkuuta 2026, Venäjän valtioduma hyväksyi lainsäädännön, joka antaa sotaveteraanien leskille oikeuden ilmaisille IVF-palveluille. [13]
+## Balashikhan myrkyttäjä tuomitaan elinkautiseen vankeuteen
+Raportoituna 24. heinäkuuta 2026 Moskova tuomitsi Artem Missuran, Balashikhasta kotoisin olevan, elinkautiseen vankeuteen kahden henkilön murhasta ja seitsemän muun yrityksestä. [13]
 
-**COMMENT:** Lain hyväksyminen korostaa hallituksen sitoutumista tukemaan veteraaniperheiden hyvinvointia. 
+**COMMENT:** Tämä tuomio heijastaa väkivaltaisen rikollisuuden ja yhteiskunnallisen epätoivon jatkuvia ongelmia Venäjällä.
 
-**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Balashikha / Balashikha, 55.7997662, 37.9373707 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.799766&mlon=37.937371#map=8/55.799766/37.937371) (Балашиха)
 
-**KEYWORDS:** #минобороны рф #вс рф #минобороны #удар #сво #про  
+**KEYWORDS:** #россия #сво #сф #про
 
 
-## EU asettaa sanktiot 94 rahoituslaitosta, mukaan lukien Moskovan pörssi
-23. heinäkuuta 2026, Euroopan unioni ilmoitti asettavansa pakotteita 94 rahoituslaitosta, mukaan lukien Moskovan pörssi, osana 21. pakotepakettia Venäjää vastaan. [14]
+## Matvienko: Mikään hyökkäys ei heikennä luottamusta Venäjän voittoon
+Raportoituna 24. heinäkuuta 2026 Valentina Matvienko, liittovaltion neuvoston puheenjohtaja, totesi, että mikään terroriteko tai provokaatio ei heikennä kansan luottamusta voittoon. [14]
 
-**COMMENT:** Pakotteiden asettaminen korostaa EU:n strategiaa kohdistaa taloudellista painetta Venäjän instituutioita kohtaan. 
+**COMMENT:** Matvienkon lausunnot heijastavat Kremlin pyrkimystä ylläpitää moraalia ja koheesiota jatkuvien konfliktien aikana.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #флот #сво #про  
+**KEYWORDS:** #россия #удар #про
 
 
-## Mies haavoittui dronehyökkäyksessä Belgorodissa häitä seuranneena
-23. heinäkuuta 2026, vastahäitä viettänyt mies haavoittui Belgorodissa, kun vihollisdrone räjähti lähellä rekisteröintitoimistoa. [15]
+## Liittovaltion neuvosto hyväksyy rajoituksia pakeneville relokaanteille
+Raportoituna 24. heinäkuuta 2026 liittovaltion neuvosto hyväksyi joukon lakeja, jotka tähtäävät väliaikaisten toimenpiteiden toteuttamiseen venäläisiin kansalaisiin, jotka välttävät rikosoikeudellista tai hallinnollista rangaistusta ulkomailla. [15]
 
-**COMMENT:** Tämä tapaus korostaa dronen hyökkäyksistä aiheutuvan jatkuvan uhan. 
-
-**LOCATION:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
-
-**KEYWORDS:** #россия #удар #сво #беспилотник #бпла #часть #про  
-
-
-## Ministeri kehottaa siirtymään venäläisiin turvallisuustodistuksiin
-23. heinäkuuta 2026, digitaalisten palveluiden ministeriö kehotti venäläisiä käyttäjiä siirtymään kotimaisiin turvallisuustodistuksiin varmistaakseen luotettavan pääsyn verkkoresursseihin. [16]
-
-**COMMENT:** Tämä suositus heijastaa jatkuvia huolia kyberturvallisuudesta ja ulkomaisten teknologioiden luotettavuudesta Venäjällä. 
+**COMMENT:** Tämä oikeudellinen toimi osoittaa valtion valvonnan tiukentumista henkilöihin, jotka nähtiin kansalliseen turvallisuuteen liittyvinä uhkina.
 
 **LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #россия #российские #пуск  
+**KEYWORDS:** #россия #удар #сф #про
 
 
-## Venäjän asevoimat iskevät Ukrainan polttoaine- ja energiahuoltoon
-23. heinäkuuta 2026, Venäjän armeija iski useisiin Ukrainan polttoaine- ja energiahuoltoinfrastruktuuriin, mikä osoittaa jatkuvaa fokusta Ukrainan kriittisen infrastruktuurin tuhoamiseksi. [22]
+## Putin ilmoittaa MS-21:n lyhennetyn version ylittävän 5 000 km:n toimintasäteen
+Raportoituna 24. heinäkuuta 2026 presidentti Vladimir Putin ilmoitti, että tulevan lyhennetyn MS-21-210-koneen on oltava yli 5 000 kilometrin toimintasäde. [16]
 
-**COMMENT:** Tämä sotilaallinen toimi osoittaa sistemattista lähestymistapaa Ukrainan sotilaallisten toimintojen häiritsemiseksi. 
+**COMMENT:** Tämä ilmoitus voi merkitä suuntausta Venäjän ilmailukykyjen ja kilpailukyvyn vahvistamisessa kansainvälisillä markkinoilla.
 
-**LOCATION:** Ukraina / Ukraine, 49.4871968, 31.2718321 [Click for Map Location](https://www.openstreetmap.org/?mlat=49.487197&mlon=31.271832#map=8/49.487197/31.271832) (Украина)
+**LOCATION:** Irkutsk / Irkutsk, 52.2891225, 104.279829 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.289122&mlon=104.279829#map=8/52.289122/104.279829) (Иркутск)
 
-**KEYWORDS:** #российские #минобороны рф #вс рф #российские военнослужащие #минобороны #министерство обороны #армия россии #вооружение #удар #сво #ракетные войска #артиллерия #армия #про  
+**KEYWORDS:** #россия #российский #удар #сво #про
 
 
-## Venäjän asevoimat vapauttavat Belitskin DPR:stä
-23. heinäkuuta 2026, Venäjän asevoimat ilmoittivat Belitskin vapauttamisesta Donetskin kansantasavallassa. [26]
+## Kreml tuomitsee Ukrainan komentajan hirvittävät lausunnot
+Raportoituna 24. heinäkuuta 2026 Kremlin tiedottaja Dmitry Peskov tuomitsi Ukrainan komentaja Mikhail Drapatyn lausunnot hirvittäviksi. [17]
 
-**COMMENT:** Belitskin vapauttaminen korostaa Venäjän jatkuvaa sotilaallista sitoutumista DPR:ssä. 
+**COMMENT:** Tämä vahva tuomio korostaa Venäjän ja Ukrainan välisiä jännitteitä ja propagandataisteluja.
 
-**LOCATION:** Belitsk / Belitsk, Tuntematon, Tuntematon [Click for Map Location](Unknown) (Белицк)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**KEYWORDS:** #вс россии #сво  
+**KEYWORDS:** #россия #сво #часть
+
+
+## Vladimir Putin esittelee ensimmäisen täysin tuontikorvattujen MS-21-310-koneen
+Raportoituna 24. heinäkuuta 2026 presidentti Vladimir Putin esitteli ensimmäisen täysin tuontikorvattujen matkustajakoneen, MS-21-310. [18]
+
+**COMMENT:** MS-21-310:n esittely heijastaa Venäjän pyrkimystä omavaraisuuteen kriittisillä teollisuudenaloilla.
+
+**LOCATION:** Irkutsk / Irkutsk, 52.2891225, 104.279829 [Click for Map Location](https://www.openstreetmap.org/?mlat=52.289122&mlon=104.279829#map=8/52.289122/104.279829) (Иркутск)
+
+**KEYWORDS:** #россия #российский #флот #удар #пуск #сф #про
+
+
+## Ohjusisku Ukrainan asevoimilta Kiovassa aiheuttaa kuusi kuolonuhria
+Raportoituna 24. heinäkuuta 2026 Ukrainan asevoimat suorittivat ohjusiskun teollisuuslaitokseen Kirovissa, mikä johti kuuden henkilön kuolemaan ja 26 muun vammautumiseen. [19]
+
+**COMMENT:** Tämä tapahtuma korostaa konfliktin jatkuvia dynamiikkoja ja infrastruktuurin haavoittuvuutta.
+
+**LOCATION:** Kirov / Kirov, 58.6035661, 49.6666241 [Click for Map Location](https://www.openstreetmap.org/?mlat=58.603566&mlon=49.666624#map=8/58.603566/49.666624) (Киров)
+
+**KEYWORDS:** #российские #удар #ракетный удар #беспилотник #бпла #часть #про
+
+
+## Venäjän asevoimat vapauttivat kaksi asutusta Harkovan alueella
+Raportoituna 24. heinäkuuta 2026 Venäjän asevoimat raportoivat kahden asutuksen vapauttamisesta Harkovan alueella. [24]
+
+**COMMENT:** Asutusten vapauttaminen voi vahvistaa Venäjän asemaa alueella ja mahdollisesti johtaa uusiin sotilaallisiin kohteisiin.
+
+**LOCATION:** Harkovan alue / Kharkiv region, Unknown [Click for Map Location](Unknown) (Харьков)
+
+**KEYWORDS:** #вс россии #сво
 
 
 # Sources
 
-[1] interfax.ru - https://interfax.ru/russia/1105052?utm_source=top
+[1] interfax.ru - https://interfax.ru/russia/1105271?utm_source=top
 
-[2] interfax.ru - https://interfax.ru/russia/1105009?utm_source=top
+[2] interfax.ru - https://interfax.ru/russia/1105234?utm_source=top
 
-[3] interfax.ru - https://interfax.ru/world/1105011?utm_source=top
+[3] interfax.ru - https://interfax.ru/russia/1105253?utm_source=top
 
-[4] interfax.ru - https://interfax.ru/russia/1105034?utm_source=top
+[4] interfax.ru - https://interfax.ru/russia/1105229?utm_source=top
 
-[5] interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
+[5] interfax.ru - https://interfax.ru/russia/1105376
 
-[6] interfax.ru - https://interfax.ru/russia/1105074
+[6] interfax.ru - https://interfax.ru/russia/1105369
 
-[7] interfax.ru - https://interfax.ru/russia/1105075
+[7] interfax.ru - https://interfax.ru/russia/1105366
 
-[8] interfax.ru - https://interfax.ru/russia/1105072
+[8] interfax.ru - https://interfax.ru/russia/1105362
 
-[9] interfax.ru - https://interfax.ru/russia/1105070
+[9] aif.ru - https://aif.ru/society/odessa-gorit-i-teryaet-vyhod-k-moryu-glavnaya-novost-svo-24-iyulya
 
-[10] interfax.ru - https://interfax.ru/russia/1105063
+[10] www.vesti.ru - https://www.vesti.ru/ns/peskov-zhiteli-donbassa-pravilno-reshili-ujti-s-ukrainy
 
-[11] aif.ru - https://aif.ru/society/army/minoborony-vs-rf-osvobodili-belickoe-v-dnr
+[11] www.vesti.ru - https://www.vesti.ru/ns/bastrykin-poruchil-dat-pravovuyu-ocenku-slovam-drapatogo-o-rossiyanakh
 
-[12] aif.ru - https://aif.ru/society/taynye-gruzy-makrona-i-merca-sozhgli-v-odesse-glavnaya-novost-svo-23-iyulya
+[12] www.vesti.ru - https://www.vesti.ru/ns/najden-klyuchevoj-kadr-iz-poezdki-putina-v-irkutsk
 
-[13] www.vesti.ru - https://www.vesti.ru/ns/gosduma-prinyala-zakon-o-besplatnom-ehko-dlya-vdov-veteranov-boevykh-dejstvij
+[13] www.vesti.ru - https://www.vesti.ru/ns/balashikhinskij-otravitel-poluchil-pozhiznennyj-srok
 
-[14] www.vesti.ru - https://www.vesti.ru/ns/es-vvedet-sankcii-protiv-94-finansovykh-organizacij-vklyuchaya-mosbirzhu
+[14] www.vesti.ru - https://www.vesti.ru/ns/matvienko-nikakie-ataki-ne-pokoleblyut-uverennost-v-pobede-rf
 
-[15] www.vesti.ru - https://www.vesti.ru/ns/skrepili-uzy-krovyu-muzhchina-postradal-pri-atake-v-belgorode-na-vykhode-iz-zagsa
+[15] www.vesti.ru - https://www.vesti.ru/ns/sovfed-odobril-ogranicheniya-dlya-skryvayushchikhsya-ot-nakazaniya-relokantov
 
-[16] www.vesti.ru - https://www.vesti.ru/ns/mincifry-rekomendovalo-perekhodit-na-rossijskie-sertifikaty-bezopasnosti
+[16] www.vesti.ru - https://www.vesti.ru/ns/putin-dalnost-poleta-ukorochennoj-versii-ms-21-dolzhna-prevyshat-5-tys-km
 
-[17] www.vesti.ru - https://www.vesti.ru/ns/vs-rossii-nanesli-novyj-udar-po-vazhnomu-transportnomu-uzlu-vsu
+[17] iz.ru - https://iz.ru/2137895/v-kremle-nazvali-chudovishchnymi-zaiavleniia-drapatogo-ob-rf-i-zhiteliakh-donbassa-izi
 
-[18] www.vesti.ru - https://www.vesti.ru/ns/pri-udare-po-domu-v-kurskoj-oblasti-ranen-muzhchina
+[18] iz.ru - https://iz.ru/2137835/2026-07-24/vladimiru-putinu-pokazali-pervyi-polnostiu-importozameshchennyi-ms-21-310
 
-[19] www.vesti.ru - https://www.vesti.ru/ns/aehroport-domodedovo-vnov-rabotaet-v-shtatnom-rezhime
+[19] iz.ru - https://iz.ru/2137869/2026-07-24/shest-chelovek-pogibli-pri-udare-vsu-po-predpriiatiiu-v-kirove-chto-izvestno
 
-[20] www.vesti.ru - https://www.vesti.ru/ns/bastrykin-nazval-chislo-mirnykh-rossiyan-pogibshikh-v-rezultate-atak-vsu
+[20] iz.ru - https://iz.ru/2137889/2026-07-24/tovarooborot-rossii-i-kazakhstana-vyros-na-15-za-pervye-piat-mesiatcev-2026-goda?main_click
 
-[21] iz.ru - https://iz.ru/2137245/putin-zaiavil-o-sposobnosti-rossii-samostoiatelno-vypuskat-syre-dlia-vooruzhenii-izi
+[21] rg.ru - https://rg.ru/2026/07/24/zaharova-obratilas-k-masku-posle-ego-slov-o-konflikte-na-ukraine-i-ustupkah-rf.html
 
-[22] iz.ru - https://iz.ru/2137142/2026-07-23/armiia-rossii-nanesla-udary-po-ispolzuemym-boevikami-obektam-tek-ukrainy
+[22] rg.ru - https://rg.ru/2026/07/24/chto-izvestno-o-raketnom-udare-vs-rf-po-voennoj-vystavke-pod-kievom.html
 
-[23] iz.ru - https://iz.ru/2137245/putin-zaiavil-o-sposobnosti-rossii-samostoiatelno-vypuskat-syre-dlia-vooruzhenii-izi?main_click
+[23] rg.ru - https://rg.ru/2026/07/24/reg-pfo/chto-izvestno-o-raketnoj-atake-vsu-na-kirov.html
 
-[24] rg.ru - https://rg.ru/2026/07/23/reg-dnr/ad-na-zemle-vks-rf-unichtozhili-bombami-obekty-vsu-v-harkovskoj-oblasti-i-dnr.html
-
-[25] rg.ru - https://rg.ru/2026/07/22/ekspert-associacii-bankov-goncharova-raskryla-perspektivy-kriptorynka-v-rossii.html
-
-[26] ria.ru - https://ria.ru/20260723/belitskoe-2106409416.html
+[24] ria.ru - https://ria.ru/20260724/svo-2106680736.html
