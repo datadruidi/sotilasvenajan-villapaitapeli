@@ -53,8 +53,6 @@ This part has eight word lists:
 
 You can answer in Finnish or English. You can also answer in Russian. You can add difficult words to the Review list.
 
-![Military Operations menu](docs/military-operations-menu.png)
-
 ![Military Operations game](docs/words-game.png)
 
 #### Military Abbreviations
@@ -71,7 +69,6 @@ This part has six lists:
 
 The game shows a prompt in Finnish or English. You choose the correct Russian abbreviation. Abbreviations have their own Review list.
 
-![Military Abbreviations menu](docs/military-abbreviations-menu.png)
 
 ![Military Abbreviations game](docs/military-abbreviations-game.png)
 
@@ -91,8 +88,6 @@ The available branches are:
 - Strategic Missile Forces
 - Airborne Forces
 - Unmanned Systems Forces
-
-![Military Capabilities menu](docs/military-capabilities-menu.png)
 
 ![Military Capabilities game](docs/vehicles-game.png)
 
