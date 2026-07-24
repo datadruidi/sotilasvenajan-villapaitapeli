@@ -1,141 +1,198 @@
 # Military Russian 101
 
-![Banner](docs/banner.png)
+![Military Russian 101 banner](docs/banner.png)
 
-![Military Russian 101](docs/main.png)
+Military Russian 101 is a learning game. It teaches Russian military words and topics. The app is available in Finnish and English.
 
-## Purpose
+Play in a browser at [villapaitapeli.fi](https://villapaitapeli.fi). You can also get it from [Google Play](https://play.google.com/store/apps/details?id=com.sotilasvenajan.villapaitapeli).
 
-Military Russian 101 is a quiz-style learning game for studying Russian military vocabulary and military culture. Using the texts and images shown in the app, you can practice military terminology and learn about military districts, capabilities, ranks, and military symbology. 
+## Main screen
 
-![Main screen - splash with Pelaa, Tietoa, and Lahteet](docs/splash.png)
+The main screen has six choices:
 
-**Image:** Start screen
+1. Military Quiz
+2. Military Memory Game
+3. Short War Stories
+4. Daily OSINT Brief
+5. Equipment Catalog
+6. Information & Settings
+
+You can also change the language. Links to GitHub, Google Play, and feedback are at the bottom.
+
+![Main screen](docs/main-screen.png)
+
+## 1. Military Quiz
+
+The quiz has four main sections:
+
+1. Military Vocabulary
+2. Military Organization
+3. Military Symbology
+4. Military Ranks
+
+Most games have ten questions. Each question has four choices. The app saves the number of completed rounds.
+
+![Military Quiz main menu](docs/military-quiz-menu.png)
+
+### 1.1 Military Vocabulary
+
+This section has two parts. They are Military Operations and Military Abbreviations.
+
+#### Military Operations
+
+This part has eight word lists:
+
+- Weapons and Ammunition
+- Equipment and Platforms
+- Organization Structure
+- Training and Tasks
+- Combat and Tactics
+- Terrain and Fortifications
+- Military Ranks
+- Cybersecurity Terminology
+- Review
+
+You can answer in Finnish or English. You can also answer in Russian. You can add difficult words to the Review list.
+
+![Military Operations menu](docs/military-operations-menu.png)
+
+![Military Operations game](docs/words-game.png)
+
+#### Military Abbreviations
+
+This part has six lists:
+
+- Security and Intelligence Agencies
+- Defense Administration and Command
+- Main Branches and Special Forces
+- Operational Capabilities
+- Equipment Capabilities
+- Leadership, Administration and Daily Terms
+- Review
+
+The game shows a prompt in Finnish or English. You choose the correct Russian abbreviation. Abbreviations have their own Review list.
+
+![Military Abbreviations menu](docs/military-abbreviations-menu.png)
+
+![Military Abbreviations game](docs/military-abbreviations-game.png)
+
+### 1.2 Military Organization
+
+This section has two parts. They are Military Capabilities and Military Districts.
+
+#### Military Capabilities
+
+This is an image quiz. You identify military equipment from a picture.
+
+The available branches are:
+
+- Ground Forces
+- Navy
+- Aerospace Forces
+- Strategic Missile Forces
+- Airborne Forces
+- Unmanned Systems Forces
+
+![Military Capabilities menu](docs/military-capabilities-menu.png)
+
+![Military Capabilities game](docs/vehicles-game.png)
 
 
-#### The game is available on https://villapaitapeli.fi and downloadable for free from Google Play Store.
+#### Military Districts
 
----
+This part has two games:
 
-## Content Structure (Current)
+- Military District Bases
+- Military District Insignia
 
-From the main menu you choose one of four content types. Each option takes you to sub-selections and then to a 10-question round with four multiple-choice answers per question.
+##### Military District Bases
 
-![Contents - four top-level options (1-4)](docs/contents-screen.png)
+The current game covers the Leningrad Military District. You identify a base on a map. You can save bases to the Review list.
 
-### 1. Sotilassanasto / Military Vocabulary
+The Central, Eastern, Moscow, and Southern military districts are shown as future options. They can be added by request.
 
-#### 1.1. Sotilastoiminta / Military Operations
+![Military District Bases game](docs/garrisons-game.png)
 
-- 1.1.1. Aseet ja ammukset / Weapons and Ammunition
-- 1.1.2. Kalusto ja alustat / Equipment and Platforms
-- 1.1.3. Organisaatiorakenne / Organization Structure
-- 1.1.4. Koulutus ja tehtavat / Training and Tasks
-- 1.1.5. Taistelu ja taktiikka / Combat and Tactics
-- 1.1.6. Maasto ja linnoitteet / Terrain and Fortifications
-- 1.1.7. Sotilasarvot / Military Ranks
-- 1.1.8. Kyberturvallisuuden kasitteistoa / Cybersecurity Terminology
-- Kertaus / Review
+##### Military District Insignia
 
-#### 1.2. Sotilaslyhenteet / Military Abbreviations
+This is an image quiz. You identify a military district insignia.
 
-- 1.2.1. Valtion turvallisuus- ja tiedusteluelimet / Security and Intelligence Agencies
-- 1.2.2. Puolustushallinto ja asevoimien johto / Defense Administration and Command
-- 1.2.3. Asevoimien paahaarat ja erikoisjoukot / Main Branches and Special Forces
-- 1.2.4. Toiminnalliset suorituskyvyt / Operational Capabilities
-- 1.2.5. Kalustolliset suorituskyvyt / Equipment Capabilities
-- 1.2.6. Johtaminen, hallinto ja arjen lyhenteet / Leadership, Administration and Daily Terms
-- 1.2.7. Kertaus / Review
+![Military District Insignia game](docs/military-district-insignia-game.png)
 
-![Sotilassanasto - quiz with word and four options](docs/words-game.png)
+### 1.3 Military Symbology
 
-**Image:** Game view with one question word and four answer options.
+You see a military symbol. You choose its correct meaning.
 
----
+![Military Symbology menu](docs/military-symbology-menu.png)
 
-### 2. Sotilasorganisaatio / Military Organization
+### 1.4 Military Ranks
 
-#### 2.1. Sotilaspiirit / Military Districts
+This section uses Russian Ground Forces rank insignia.
 
-- 2.1.1. Leningradin sotilaspiiri / Leningrad Military District
-- 2.1.1.1. Pohjoinen vastuualue / Northern AOO
-- 2.1.1.2. Etelainen vastuualue / Southern AOO
-- 2.1.1.3. Kaliningradin vastuualue / Kaliningrad
-- 2.1.1.4. Kaikki yhdessa / Combined View
-- 2.1.1.5. Kertaus / Review
-- 2.1.2. Lahialueen joukot / Nearby Forces (FIN) - Ei julkaistu / NTR
-- 2.1.3. Sotilaspiirien tunnukset / Military District Insignia
+![Military Ranks game](docs/ranks-game.png)
 
-![Sotilaspiirit - map with marker and four garrison name options](docs/garrisons-game.png)
+## 2. Military Memory Game
 
-**Image:** Map-based identification round.
+The Memory Game opens in a new page. You match military images and names.
 
-#### 2.2. Suorituskyvyt / Military Capabilities
+![Military Memory Game](docs/memory-game.png)
 
-- 2.2.1. Merivoimat / Navy
-- 2.2.1.1. Alusluokat / Naval Ship Classes
-- 2.2.1.2. Alusten nimet / Naval Ship Names
-- 2.2.2. Ilma- ja avaruusvoimat / Aerospace Forces
-- 2.2.3. Maavoimat / Ground Forces
-- 2.2.4. Strategiset ohjusjoukot / Strategic Missile Forces
-- 2.2.5. Maahanlaskujoukot / Airborne Forces
-- 2.2.6. Miehittamattomien jarjestelmien joukot / Unmanned Systems Forces
+## 3. Short War Stories
 
-![Suorituskyvyt](docs/vehicles-game.png)
+These stories follow Private Ivan near the front in Ukraine. The text is in Russian. English translations help you study each sentence. Each available story has audio. You can play, pause, restart, and seek the audio. The full story is also available as one long recording.
 
-**Image:** Capabilities identification round.
+![Short War Stories menu](docs/short-war-stories-menu.png)
 
----
+## 4. Daily OSINT Brief
 
-### 3. Sotilasmerkisto / Military Symbology
+The brief gathers information from Russian-language sources. AI translates and analyzes it. 
+The browser brief updates every day. You can also read older briefs.
 
-- 3.1. Joukkotyypit / Unit Size
-- 3.2. Joukkokoko / Echelons
+![Daily OSINT Brief](docs/daily-osint-brief.png)
 
-![Tactical signs - tactical symbol image and four options](docs/tactical-signs-game.png)
+## 5. Equipment Catalog
 
-**Image:** Tactical symbol image and four text options.
+The catalog is a study reference. It has pictures and short equipment details.
 
----
+The catalog has six sections:
 
-### 4. Sotilasarvot / Military Ranks
+- Ground Forces
+- Navy
+- Aerospace Forces
+- Unmanned Systems
+- Airborne Forces
+- Strategic Missile Forces
 
-- 4.1. Suomeksi / In English (depends on selected app language)
-- 4.2. Venajaksi / In Russian
-- Kertaus / Review
+![Equipment Catalog page](docs/equipment-catalog-page.png)
 
-![Sotilasarvot - rank insignia image and four rank name options](docs/ranks-game.png)
+## 6. Information & Settings
 
-**Image:** Rank insignia image and four answer options.
+This menu has four sections:
 
----
+- About
+- Updates
+- Sources & Licenses
+- Soundtrack
+
 
 ## Source code
 
-Source code is available at:
-**https://github.com/datadruidi/sotilasvenajan-villapaitapeli**
+The source code is on [GitHub](https://github.com/datadruidi/sotilasvenajan-villapaitapeli).
 
-The project is maintained by a single developer, so occasional bugs, delayed updates, and unfinished modules are possible.
+The project has one main developer. Some parts may still be unfinished.
 
----
+## Feedback
 
-## Feedback and feature requests
+Send email to **villapaitapeli.shaky136@passmail.net**.
 
-You can send feedback and feature requests to:
-
-**villapaitapeli.shaky136@passmail.net**
-
-Or post anonymously on the feedback pad:
-
-**https://pad.riseup.net/p/MqxWfBo7cIo-x0yPks6g-keep**
----
+You can also use the [anonymous feedback pad](https://pad.riseup.net/p/MqxWfBo7cIo-x0yPks6g-keep).
 
 ## Disclaimer
 
-You download and use this application at your own risk. The author is not responsible for any direct or indirect damages caused by using the software or its content, or for misuse. Information in the app is based on open sources. Use the app according to applicable laws and your organization guidance.
+The information comes from open sources. Follow the law and your organization rules.
 
-## Privacy policy
+## Privacy
 
-The site uses Cloudflare Web Analytics to track visitor counts and page usage statistics. The service does not use cookies, does not collect personal data, and does not store unique identifiers. Analytics are used only to improve site functionality and usability. The site has no user accounts, logins, or forms.
+The website uses Cloudflare Web Analytics. It counts visits and page use. It does not use cookies. It does not collect personal data or store unique IDs. The app has no user accounts, logins, or forms.
 
 ![Military Russian 101](docs/end.png)
