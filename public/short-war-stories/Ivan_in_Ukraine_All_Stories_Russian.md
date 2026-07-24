@@ -1,6 +1,6 @@
 ---------------------
 
-Available on YouTube: https://www.youtube.com/watch?v=lCqAK6c5sdI
+[Available on YouTube](https://www.youtube.com/watch?v=lCqAK6c5sdI)
 
 ---------------------
 
