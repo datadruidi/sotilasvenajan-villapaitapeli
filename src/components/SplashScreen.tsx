@@ -14,7 +14,7 @@ const SOUNDTRACK_URL = `${SETTINGS_PAGES_BASE_URL}soundtrack.md`
 const SHORT_WAR_STORIES_BASE_URL = `${import.meta.env.BASE_URL}short-war-stories/`
 const SHORT_WAR_STORIES_AUDIO_BASE_URL = `${SHORT_WAR_STORIES_BASE_URL}audio/`
 const GITHUB_URL = 'https://github.com/datadruidi/sotilasvenajan-villapaitapeli'
-const YOUTUBE_URL = 'https://www.youtube.com/@sotilasvenaja'
+const YOUTUBE_URL = 'https://www.youtube.com/@Duoloops'
 const GOOGLE_PLAY_URL = 'https://play.google.com/store/apps/details?id=com.sotilasvenajan.villapaitapeli&hl=en_NZ'
 const FEEDBACK_URL = 'https://pad.riseup.net/p/MqxWfBo7cIo-x0yPks6g-keep'
 
