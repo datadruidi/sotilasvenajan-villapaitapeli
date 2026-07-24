@@ -14,6 +14,7 @@ const SOUNDTRACK_URL = `${SETTINGS_PAGES_BASE_URL}soundtrack.md`
 const SHORT_WAR_STORIES_BASE_URL = `${import.meta.env.BASE_URL}short-war-stories/`
 const SHORT_WAR_STORIES_AUDIO_BASE_URL = `${SHORT_WAR_STORIES_BASE_URL}audio/`
 const GITHUB_URL = 'https://github.com/datadruidi/sotilasvenajan-villapaitapeli'
+const YOUTUBE_URL = 'https://www.youtube.com/@sotilasvenaja'
 const GOOGLE_PLAY_URL = 'https://play.google.com/store/apps/details?id=com.sotilasvenajan.villapaitapeli&hl=en_NZ'
 const FEEDBACK_URL = 'https://pad.riseup.net/p/MqxWfBo7cIo-x0yPks6g-keep'
 
@@ -207,6 +208,18 @@ function GooglePlayIcon() {
   )
 }
 
+function YouTubeIcon() {
+  return (
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" className="splash-store-link-icon">
+      <path
+        fill="#ff0000"
+        d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8Z"
+      />
+      <path fill="#fff" d="m9.6 15.6 6.2-3.6-6.2-3.6v7.2Z" />
+    </svg>
+  )
+}
+
 function FeedbackIcon() {
   return (
     <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" className="splash-store-link-icon">
@@ -343,6 +356,11 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
   const openGooglePlay = () => {
     playButtonClick(muted)
     window.open(GOOGLE_PLAY_URL, '_blank', 'noopener,noreferrer')
+  }
+
+  const openYouTube = () => {
+    playButtonClick(muted)
+    window.open(YOUTUBE_URL, '_blank', 'noopener,noreferrer')
   }
 
   const openFeedback = () => {
@@ -577,6 +595,15 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
                 title="GitHub"
               >
                 <GitHubIcon />
+              </button>
+              <button
+                type="button"
+                className="splash-store-link-btn"
+                onClick={openYouTube}
+                aria-label={isEnglish ? 'Open YouTube channel' : 'Avaa YouTube-kanava'}
+                title="YouTube"
+              >
+                <YouTubeIcon />
               </button>
               <button
                 type="button"
