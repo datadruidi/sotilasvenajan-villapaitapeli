@@ -4,7 +4,7 @@
 
 Military Russian 101 is a learning game. It teaches Russian military words and topics. The app is available in Finnish and English.
 
-Play in a browser at [villapaitapeli.fi](https://villapaitapeli.fi). You can also get it from [Google Play](https://play.google.com/store/apps/details?id=com.sotilasvenajan.villapaitapeli).
+Play in a browser at [villapaitapeli.fi](https://villapaitapeli.fi).
 
 ## Main screen
 
@@ -17,7 +17,6 @@ The main screen has six choices:
 5. Equipment Catalog
 6. Information & Settings
 
-You can also change the language. Links to GitHub, Google Play, and feedback are at the bottom.
 
 ![Main screen](docs/main-screen.png)
 
