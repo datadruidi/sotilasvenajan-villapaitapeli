@@ -10,6 +10,7 @@ import { RanksGameView } from './components/RanksGameView'
 import { TacticalSignsGameView } from './components/TacticalSignsGameView'
 import { SplashScreen } from './components/SplashScreen'
 import { WordsGameView } from './components/WordsGameView'
+import { CyrillicTypingGameView } from './components/CyrillicTypingGameView'
 import { getRoundsKey, getRounds, incrementRounds, formatRoundsDisplay } from './lib/roundsStorage'
 import { playButtonClick } from './lib/sound'
 import { loadWordsCSV, getWordsListLabel, SOTILASSANASTO_MENU_IDS, LYHENTEET_LIST_IDS, isPerussanastoListId, isLyhenteetListId } from './lib/wordsData'
@@ -35,6 +36,7 @@ const CONTENT_TYPES: { id: ContentType; label: string; available: boolean }[] = 
   { id: 'venajan-asevoimat', label: '2. Sotilasorganisaatio', available: true },
   { id: 'tactical-signs', label: '3. Sotilasmerkistö', available: true },
   { id: 'ranks', label: '4. Sotilasarvot', available: true },
+  { id: 'memory-game', label: '5. Sotilasmuistipeli', available: true },
 ]
 
 /** Sub-options under Venäjän asevoimat (same structure as before, just grouped) */
@@ -234,7 +236,7 @@ function App() {
   const [dailyBriefError, setDailyBriefError] = useState<string | null>(null)
   const [showDailyBriefInfo, setShowDailyBriefInfo] = useState(false)
   const [showSplash, setShowSplash] = useState(true)
-  const [view, setView] = useState<'landing' | 'vehicles-game' | 'words-game' | 'garrisons-game' | 'district-insignia-game' | 'tactical-signs-game' | 'ranks-game'>('landing')
+  const [view, setView] = useState<'landing' | 'vehicles-game' | 'words-game' | 'garrisons-game' | 'district-insignia-game' | 'tactical-signs-game' | 'ranks-game' | 'typing-game'>('landing')
   const [showLadataanIkkuna, setShowLadataanIkkuna] = useState(false)
   const [pendingView, setPendingView] = useState<'vehicles-game' | 'words-game' | 'garrisons-game' | 'district-insignia-game' | 'tactical-signs-game' | 'ranks-game' | null>(null)
   const [gameMenuTitle, setGameMenuTitle] = useState('')
@@ -568,13 +570,17 @@ function App() {
     setShowSplash(false)
   }
 
-  const handleSplashMemoryGame = () => {
-    playButtonClick(muted)
-    window.open(MEMORY_GAME_URL, '_blank', 'noopener,noreferrer')
+  const handleSplashTypingGame = () => {
+    setShowSplash(false)
+    setView('typing-game')
   }
 
   if (showSplash) {
-    return <SplashScreen appLanguage={appLanguage} muted={muted} onPlay={handleSplashPlay} onPlayMemoryGame={handleSplashMemoryGame} onOpenDailyBrief={openDailyBriefFromSplash} onChangeLanguage={changeAppLanguage} />
+    return <SplashScreen appLanguage={appLanguage} muted={muted} onToggleMute={toggleMute} onPlay={handleSplashPlay} onPlayTypingGame={handleSplashTypingGame} onOpenDailyBrief={openDailyBriefFromSplash} onChangeLanguage={changeAppLanguage} />
+  }
+
+  if (view === 'typing-game') {
+    return <CyrillicTypingGameView appLanguage={appLanguage} muted={muted} onToggleMute={toggleMute} onBack={() => { backToLanding(); setShowSplash(true) }} />
   }
 
   if (view === 'vehicles-game' && selectedBranch) {

@@ -179,9 +179,10 @@ const SHORT_WAR_STORY_OPTIONS = [
 
 interface SplashScreenProps {
   onPlay: () => void
-  onPlayMemoryGame: () => void
+  onPlayTypingGame: () => void
   onOpenDailyBrief: () => void
   muted: boolean
+  onToggleMute: () => void
   appLanguage: AppLanguage
   onChangeLanguage: (language: AppLanguage) => void
 }
@@ -231,7 +232,7 @@ function FeedbackIcon() {
   )
 }
 
-export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted, appLanguage, onChangeLanguage }: SplashScreenProps) {
+export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted, onToggleMute, appLanguage, onChangeLanguage }: SplashScreenProps) {
   const isEnglish = appLanguage === 'eng'
   const [infoPage, setInfoPage] = useState<InfoPage>(null)
   const [isInfoMenuOpen, setIsInfoMenuOpen] = useState(false)
@@ -554,12 +555,23 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
         </button>
         <div className="splash-language-picker">
           <span className="splash-language-label">{isEnglish ? 'Choose language' : 'Valitse kieli'}</span>
-          <div className="landing-language-switch" role="group" aria-label="Language">
-            <button type="button" className={`lang-btn ${appLanguage === 'fin' ? 'active' : ''}`} onClick={() => onChangeLanguage('fin')}>
-              <span className="lang-flag" aria-hidden="true">{"\uD83C\uDDEB\uD83C\uDDEE"}</span> FIN
-            </button>
-            <button type="button" className={`lang-btn ${appLanguage === 'eng' ? 'active' : ''}`} onClick={() => onChangeLanguage('eng')}>
-              <span className="lang-flag" aria-hidden="true">{"\uD83C\uDDEC\uD83C\uDDE7"}</span> ENG
+          <div className="splash-language-controls">
+            <div className="landing-language-switch" role="group" aria-label="Language">
+              <button type="button" className={`lang-btn ${appLanguage === 'fin' ? 'active' : ''}`} onClick={() => onChangeLanguage('fin')}>
+                <span className="lang-flag" aria-hidden="true">{"\uD83C\uDDEB\uD83C\uDDEE"}</span> FIN
+              </button>
+              <button type="button" className={`lang-btn ${appLanguage === 'eng' ? 'active' : ''}`} onClick={() => onChangeLanguage('eng')}>
+                <span className="lang-flag" aria-hidden="true">{"\uD83C\uDDEC\uD83C\uDDE7"}</span> ENG
+              </button>
+            </div>
+            <button
+              type="button"
+              className="mute-btn splash-mute-btn"
+              onClick={onToggleMute}
+              title={muted ? (isEnglish ? 'Unmute' : 'Äänet päälle') : (isEnglish ? 'Mute' : 'Mykistä äänet')}
+              aria-label={muted ? (isEnglish ? 'Unmute' : 'Äänet päälle') : (isEnglish ? 'Mute' : 'Mykistä äänet')}
+            >
+              {muted ? '🔇' : '🔊'}
             </button>
           </div>
         </div>
@@ -567,8 +579,9 @@ export function SplashScreen({ onPlay, onPlayMemoryGame, onOpenDailyBrief, muted
           <button type="button" className="splash-play-btn" onClick={onPlay}>
             {isEnglish ? 'Play Military Quiz' : 'Pelaa sotilastietovisaa'}
           </button>
-          <button type="button" className="splash-info-btn" onClick={onPlayMemoryGame}>
-            {isEnglish ? 'Play Military Memory Game' : 'Pelaa sotilasmuistipeli\u00E4'}
+          <button type="button" className="splash-info-btn" onClick={onPlayTypingGame}>
+            <span className="splash-new-label">{isEnglish ? 'NEW!' : 'UUSI!'}</span>
+            {isEnglish ? 'Play Tank Racer' : 'Pelaa tankkirallia'}
           </button>
           <button type="button" className="splash-info-btn splash-primary-btn" onClick={openShortStoriesMenu}>
             {isEnglish ? 'Short War Stories' : 'Lyhyit\u00E4 sotatarinoita'}

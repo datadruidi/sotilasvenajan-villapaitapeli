@@ -13,10 +13,10 @@ const WRONG_URL = getAudioUrl('/tiedot-ja-asetukset/audio/wrong.mp3')
 const COMPLETE_URL = getAudioUrl('/tiedot-ja-asetukset/audio/complete.mp3')
 const BUTTON_URL = getAudioUrl('/tiedot-ja-asetukset/audio/button.mp3')
 
-function playSound(url: string): void {
+function playSound(url: string, volume = 1): void {
   try {
     const audio = new Audio(url)
-    audio.volume = 1
+    audio.volume = volume
     audio.play().catch(() => {
       // Ignore autoplay policy or load errors (e.g. file missing)
     })
@@ -40,8 +40,13 @@ export function playRoundComplete(muted?: boolean): void {
   playSound(COMPLETE_URL)
 }
 
+export function playTypingExplosion(muted?: boolean): void {
+  if (muted) return
+  playSound(COMPLETE_URL)
+}
+
 /** Play when user clicks buttons on front screen / option menu (not inside the game). */
 export function playButtonClick(muted?: boolean): void {
   if (muted) return
-  playSound(BUTTON_URL)
+  playSound(BUTTON_URL, 0.5)
 }

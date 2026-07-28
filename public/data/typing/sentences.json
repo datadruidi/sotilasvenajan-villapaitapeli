@@ -1,0 +1,363 @@
+[
+  {
+    "id": "A1-001",
+    "difficulty": "beginner",
+    "russian": "Утром Иван проверяет автомат, оружие и патроны. Потом он кладёт всё в машину и идёт к старому штабу у дороги.",
+    "translations": {
+      "fi": "Aamulla Ivan tarkistaa rynnäkkökiväärin, aseen ja patruunat. Sitten hän laittaa kaiken ajoneuvoon ja menee tien vieressä olevalle vanhalle esikunnalle.",
+      "en": "In the morning, Ivan checks the assault rifle, the weapon, and the cartridges. Then he puts everything in the vehicle and goes to the old headquarters by the road."
+    },
+    "vocabulary": [
+      "утром",
+      "проверять",
+      "автомат",
+      "оружие",
+      "патрон",
+      "машина",
+      "штаб",
+      "дорога"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "A1-002",
+    "difficulty": "beginner",
+    "russian": "У дороги стоит старый танк. У танка есть башня и двигатель, но двигатель не работает, и танк не едет.",
+    "translations": {
+      "fi": "Tien vieressä seisoo vanha panssarivaunu. Panssarivaunussa on torni ja moottori, mutta moottori ei toimi eikä vaunu liiku.",
+      "en": "An old tank stands by the road. The tank has a turret and an engine, but the engine does not work, and the tank does not move."
+    },
+    "vocabulary": [
+      "дорога",
+      "танк",
+      "башня",
+      "двигатель"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "A1-003",
+    "difficulty": "beginner",
+    "russian": "Наше отделение ждёт снабжения у штаба. Рядом стоят три солдата, пустая машина и ящик без боеприпасов.",
+    "translations": {
+      "fi": "Ryhmämme odottaa täydennystä esikunnan luona. Vieressä seisoo kolme sotilasta, tyhjä ajoneuvo ja laatikko ilman ampumatarvikkeita.",
+      "en": "Our squad is waiting for supplies by headquarters. Nearby are three soldiers, an empty vehicle, and a box without ammunition."
+    },
+    "vocabulary": [
+      "отделение",
+      "снабжение",
+      "штаб",
+      "рядом",
+      "солдат",
+      "машина",
+      "боеприпасы"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "A1-004",
+    "difficulty": "beginner",
+    "russian": "Пётр стоит на холме и наблюдает лес, реку и мост. Иван смотрит направо, но видит только поле и грязную дорогу.",
+    "translations": {
+      "fi": "Pjotr seisoo kukkulalla ja tarkkailee metsää, jokea ja siltaa. Ivan katsoo oikealle, mutta näkee vain pellon ja mutaisen tien.",
+      "en": "Pyotr stands on a hill and observes the forest, the river, and the bridge. Ivan looks to the right but sees only a field and a muddy road."
+    },
+    "vocabulary": [
+      "холм",
+      "наблюдать",
+      "лес",
+      "река",
+      "мост",
+      "направо",
+      "поле",
+      "дорога"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "A1-005",
+    "difficulty": "beginner",
+    "russian": "Капитан даёт Ивану простое задание: проверить средства связи. Иван нажимает кнопку, но старое устройство молчит.",
+    "translations": {
+      "fi": "Kapteeni antaa Ivanille yksinkertaisen tehtävän: tarkistaa viestivälineet. Ivan painaa nappia, mutta vanha laite on hiljaa.",
+      "en": "The captain gives Ivan a simple task: check the communications equipment. Ivan presses the button, but the old device remains silent."
+    },
+    "vocabulary": [
+      "капитан",
+      "задание",
+      "проверять",
+      "средства связи",
+      "устройство"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "A2-001",
+    "difficulty": "intermediate",
+    "russian": "Утром Иван проверяет старый автомат и считает патроны. Потом он идёт к машине, но двигатель снова не работает.",
+    "translations": {
+      "fi": "Aamulla Ivan tarkistaa vanhan rynnäkkökiväärin ja laskee patruunat. Sitten hän menee ajoneuvolle, mutta moottori ei taaskaan toimi.",
+      "en": "In the morning, Ivan checks the old assault rifle and counts the cartridges. Then he goes to the vehicle, but the engine is not working again."
+    },
+    "vocabulary": [
+      "утром",
+      "проверять",
+      "автомат",
+      "патрон",
+      "машина",
+      "двигатель"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "A2-002",
+    "difficulty": "intermediate",
+    "russian": "Капитан говорит, что рота готова, но Иван видит только отделение. Штаб молчит, а снабжение всё ещё идёт из тыла.",
+    "translations": {
+      "fi": "Kapteeni sanoo komppanian olevan valmis, mutta Ivan näkee vain ryhmän. Esikunta vaikenee, ja täydennys tulee yhä selustasta.",
+      "en": "The captain says that the company is ready, but Ivan sees only a squad. Headquarters is silent, and supplies are still coming from the rear."
+    },
+    "vocabulary": [
+      "рота",
+      "отделение",
+      "штаб",
+      "снабжение",
+      "тыл"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "A2-003",
+    "difficulty": "intermediate",
+    "russian": "Перед нами река, лес и разрушенный мост. Алексей ищет дорогу, а Пётр показывает маленькую тропинку рядом с болотом.",
+    "translations": {
+      "fi": "Edessämme ovat joki, metsä ja tuhoutunut silta. Aleksei etsii tietä, ja Pjotr näyttää pienen polun suon vierestä.",
+      "en": "In front of us are a river, a forest, and a destroyed bridge. Alexei looks for a road, and Pyotr points out a small path beside the bog."
+    },
+    "vocabulary": [
+      "река",
+      "лес",
+      "мост",
+      "дорога",
+      "тропинка",
+      "болото"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "A2-004",
+    "difficulty": "intermediate",
+    "russian": "Вечером солдаты идут к наблюдательному пункту на холме. Там нет средств связи, поэтому Пётр ведёт наблюдение сам.",
+    "translations": {
+      "fi": "Illalla sotilaat menevät kukkulalla olevalle tähystyspaikalle. Siellä ei ole viestivälineitä, joten Pjotr tähystää itse.",
+      "en": "In the evening, the soldiers go to the observation post on the hill. There is no communications equipment there, so Pyotr conducts the observation himself."
+    },
+    "vocabulary": [
+      "вечером",
+      "солдат",
+      "наблюдательный пункт",
+      "холм",
+      "средства связи",
+      "вести наблюдение"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "A2-005",
+    "difficulty": "intermediate",
+    "russian": "Майор ставит задачу проверить танк и бронированную машину. Башня не двигается, двигатель молчит, но в докладе всё работает.",
+    "translations": {
+      "fi": "Majuri antaa tehtäväksi tarkistaa panssarivaunun ja panssaroidun ajoneuvon. Torni ei liiku ja moottori on hiljaa, mutta raportissa kaikki toimii.",
+      "en": "The major assigns the task of checking the tank and the armoured vehicle. The turret does not move and the engine is silent, but everything works in the report."
+    },
+    "vocabulary": [
+      "майор",
+      "ставить задачу",
+      "проверять",
+      "танк",
+      "бронированный",
+      "машина",
+      "башня",
+      "двигатель"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "B1-001",
+    "difficulty": "advanced",
+    "russian": "Хотя приказ звучит уверенно, никто не понимает настоящую задачу подразделения. Иван замечает, что обстановка меняется быстрее, чем решения штаба.",
+    "translations": {
+      "fi": "Vaikka käsky kuulostaa varmalta, kukaan ei ymmärrä yksikön todellista tehtävää. Ivan huomaa tilanteen muuttuvan nopeammin kuin esikunnan päätökset.",
+      "en": "Although the order sounds confident, nobody understands the unit's real task. Ivan notices that the situation changes faster than headquarters' decisions."
+    },
+    "vocabulary": [
+      "задача",
+      "подразделение",
+      "обстановка",
+      "решение",
+      "штаб"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "B1-002",
+    "difficulty": "advanced",
+    "russian": "Когда связь исчезает, командир требует продолжать наблюдение и передавать точные сведения. Пётр спокойно отвечает, что без радио это невозможно.",
+    "translations": {
+      "fi": "Kun yhteys katoaa, komentaja vaatii jatkamaan tähystystä ja välittämään tarkkoja tietoja. Pjotr vastaa rauhallisesti, että ilman radiota se on mahdotonta.",
+      "en": "When communications disappear, the commander demands that observation continue and that accurate information be transmitted. Pyotr calmly replies that this is impossible without a radio."
+    },
+    "vocabulary": [
+      "связь",
+      "командир",
+      "наблюдение",
+      "сведения"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "B1-003",
+    "difficulty": "advanced",
+    "russian": "Капитан называет отступление организованным переходом на новый рубеж, чтобы доклад выглядел успешным. Иван понимает этот обман, но молчит.",
+    "translations": {
+      "fi": "Kapteeni kutsuu vetäytymistä järjestäytyneeksi siirtymiseksi uudelle linjalle, jotta raportti näyttäisi onnistuneelta. Ivan ymmärtää petoksen mutta vaikenee.",
+      "en": "The captain calls the retreat an organized movement to a new line so that the report appears successful. Ivan understands the deception but remains silent."
+    },
+    "vocabulary": [
+      "организованный",
+      "переход",
+      "рубеж",
+      "успешно",
+      "обман"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "B1-004",
+    "difficulty": "advanced",
+    "russian": "Пётр оценивает позицию и замечает, что траншея разрушена, а наблюдательный пункт открыт для огня. Поэтому обороняться здесь опасно.",
+    "translations": {
+      "fi": "Pjotr arvioi asemaa ja huomaa taisteluhaudan olevan tuhoutunut ja tähystyspaikan olevan avoin tulelle. Siksi täällä puolustautuminen on vaarallista.",
+      "en": "Pyotr assesses the position and notices that the trench is destroyed and the observation post is exposed to fire. Therefore, defending here is dangerous."
+    },
+    "vocabulary": [
+      "оценивать",
+      "позиция",
+      "траншея",
+      "наблюдательный пункт",
+      "огонь",
+      "обороняться"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "B1-005",
+    "difficulty": "advanced",
+    "russian": "Штаб сообщает, что наступление продолжается успешно, несмотря на потерянную технику и пустые склады. Иван понимает, что отчёты заменили реальность.",
+    "translations": {
+      "fi": "Esikunta ilmoittaa hyökkäyksen jatkuvan menestyksekkäästi kadonneesta kalustosta ja tyhjistä varastoista huolimatta. Ivan ymmärtää raporttien korvanneen todellisuuden.",
+      "en": "Headquarters reports that the offensive is continuing successfully despite lost equipment and empty stores. Ivan understands that reports have replaced reality."
+    },
+    "vocabulary": [
+      "штаб",
+      "наступление",
+      "успешно",
+      "техника"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "B2-001",
+    "difficulty": "superhuman",
+    "russian": "Хотя майор сообщает, что батальон полностью готов к наступлению, Иван видит пустой ящик с боеприпасами и машину без двигателя. Он понимает, что доклад снова важнее реальности.",
+    "translations": {
+      "fi": "Vaikka majuri ilmoittaa pataljoonan olevan täysin valmis hyökkäykseen, Ivan näkee tyhjän ampumatarvikelaatikon ja ajoneuvon ilman moottoria. Hän ymmärtää, että raportti on jälleen todellisuutta tärkeämpi.",
+      "en": "Although the major reports that the battalion is fully ready for the offensive, Ivan sees an empty ammunition box and a vehicle without an engine. He understands that the report is once again more important than reality."
+    },
+    "vocabulary": [
+      "майор",
+      "батальон",
+      "наступление",
+      "боеприпасы",
+      "машина",
+      "двигатель"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "B2-002",
+    "difficulty": "superhuman",
+    "russian": "Когда подразделение выходит к реке, карта обещает мост, но впереди только холодная вода и минное поле. Пётр предлагает искать тропинку, потому что приказ уже потерял смысл.",
+    "translations": {
+      "fi": "Kun alayksikkö saapuu joelle, kartta lupaa sillan, mutta edessä on vain kylmää vettä ja miinakenttä. Pjotr ehdottaa polun etsimistä, koska käsky on jo menettänyt merkityksensä.",
+      "en": "When the sub-unit reaches the river, the map promises a bridge, but only cold water and a minefield lie ahead. Pyotr suggests looking for a path because the order has already lost its meaning."
+    },
+    "vocabulary": [
+      "подразделение",
+      "река",
+      "мост",
+      "впереди",
+      "минное поле",
+      "тропинка"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "B2-003",
+    "difficulty": "superhuman",
+    "russian": "Штаб требует вести наблюдение, разведку и огонь одновременно, хотя средства связи не работают. Иван замечает, что командир оценивает обстановку только по старому докладу.",
+    "translations": {
+      "fi": "Esikunta vaatii suorittamaan tähystystä, tiedustelua ja tulenkäyttöä samanaikaisesti, vaikka viestivälineet eivät toimi. Ivan huomaa, että komentaja arvioi tilannetta vain vanhan raportin perusteella.",
+      "en": "Headquarters demands observation, reconnaissance, and fire at the same time, although the communications equipment does not work. Ivan notices that the commander assesses the situation only from an old report."
+    },
+    "vocabulary": [
+      "штаб",
+      "вести наблюдение",
+      "разведка",
+      "огонь",
+      "средства связи",
+      "командир",
+      "оценивать",
+      "обстановка"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "B2-004",
+    "difficulty": "superhuman",
+    "russian": "Капитан уверяет, что новая позиция укреплена, однако траншея разрушена, наблюдательный пункт пуст, а рядом находится болото. Даже Алексей понимает, что обороняться здесь невозможно.",
+    "translations": {
+      "fi": "Kapteeni vakuuttaa uuden aseman olevan linnoitettu, mutta taisteluhauta on tuhoutunut, tähystyspaikka on tyhjä ja vieressä on suo. Jopa Aleksei ymmärtää, ettei täällä voi puolustautua.",
+      "en": "The captain insists that the new position is fortified, but the trench is destroyed, the observation post is empty, and a bog is nearby. Even Alexei understands that defending here is impossible."
+    },
+    "vocabulary": [
+      "позиция",
+      "укреплённый",
+      "траншея",
+      "наблюдательный пункт",
+      "рядом",
+      "болото",
+      "обороняться"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "B2-005",
+    "difficulty": "superhuman",
+    "russian": "После неудачной атаки майор называет отход организованным переходом на новый рубеж. Иван слушает его и думает, что язык доклада умеет превращать поражение в успех.",
+    "translations": {
+      "fi": "Epäonnistuneen hyökkäyksen jälkeen majuri kutsuu vetäytymistä järjestäytyneeksi siirtymiseksi uudelle linjalle. Ivan kuuntelee häntä ja ajattelee, että raportin kieli osaa muuttaa tappion onnistumiseksi.",
+      "en": "After the failed attack, the major calls the withdrawal an organized movement to a new line. Ivan listens and thinks that the language of the report can turn defeat into success."
+    },
+    "vocabulary": [
+      "атака",
+      "майор",
+      "организованный",
+      "переход",
+      "рубеж",
+      "поражение"
+    ],
+    "enabled": true
+  }
+  
+]
