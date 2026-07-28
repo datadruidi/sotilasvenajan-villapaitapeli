@@ -6,6 +6,21 @@ This file is a cumulative changelog: newest versions are listed first. Older ent
 
 ---
 
+## Version 1.0.12 Tank Racer update (2026-07-28)
+
+This update adds the new **Tank Racer / Tankkiralli** Cyrillic typing game and reorganizes the Memory Game entry.
+
+- Added four Russian typing levels: **A1, A2, B1, and B2**.
+- Added strict Cyrillic typing with exact capitalization, punctuation, spaces, and `е`/`ё` handling.
+- Added a first-keystroke timer, CPM, accuracy, persistent best times, and Finnish or English translations after completion.
+- Added a moving tank, mine finish point, explosion sequence, completion sound, mute support, and background-run cancellation.
+- Added replay, new-sentence, and main-menu controls.
+- Added dynamically loaded exercises in `public/data/typing/sentences.json` so more texts can be added without changing the game code.
+- Added **Tank Racer** to the splash screen and moved **Military Memory Game / Sotilasmuistipeli** beneath **Military Quiz** as its fifth game.
+- Refined splash-screen language and mute controls and reduced button-click sound volume.
+
+---
+
 ## Version 1.0.12 content update (2026-05-25)
 
 This update refreshes the splash screen and adds the first short war story listening experience.

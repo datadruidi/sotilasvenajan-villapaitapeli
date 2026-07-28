@@ -12,12 +12,13 @@ Play in a browser at [villapaitapeli.fi](https://villapaitapeli.fi).
 
 ## 1. Military Quiz
 
-The quiz has four main sections:
+The Military Quiz menu has five games:
 
 1. Military Vocabulary
 2. Military Organization
 3. Military Symbology
 4. Military Ranks
+5. Military Memory Game
 
 Most games have ten questions. Each question has four choices. The app saves the number of completed rounds.
 
@@ -115,11 +116,19 @@ This section uses Russian Ground Forces rank insignia.
 
 ![Military Ranks game](docs/ranks-game.png)
 
-## 2. Military Memory Game
+### 1.5 Military Memory Game
 
 The Memory Game opens in a new page. You match military images and names.
 
 ![Military Memory Game](docs/memory-game.png)
+
+## 2. Tank Racer
+
+Tank Racer is a Cyrillic typing game with four language levels: A1, A2, B1, and B2. Type the Russian exercise exactly as shown to move the tank toward the mine. Capital letters, punctuation, spaces, and the distinction between `е` and `ё` all count.
+
+The timer begins with the first typed character. After completing a text, the game shows elapsed time, characters per minute, accuracy, the saved best time, and a Finnish or English translation. You can retry the same exercise or load another exercise from the selected level.
+
+![Tank Racer game](docs/tank-racer.png)
 
 ## 3. Short War Stories
 
@@ -129,7 +138,7 @@ These stories follow Private Ivan near the front in Ukraine. The text is in Russ
 
 ## 4. Daily OSINT Brief
 
-The brief gathers information from Russian-language sources. AI translates and analyzes it. 
+The brief gathers information from Russian-language sources. AI translates and analyzes it.
 The browser brief updates every day. You can also read older briefs.
 
 ![Daily OSINT Brief](docs/daily-osint-brief.png)
