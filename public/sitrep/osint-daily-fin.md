@@ -1,387 +1,244 @@
-# Raporttipäivämäärä: 2026-07-26
+# Report Date: 2026-07-28
 
-## Yhteenveto
-Raportointijaksolla Venäjän hallitus on vahvistanut liittovaltion toimenpiteitä sijoittaakseen resurssit ja teknologiat kohdistettuihin sotilaallisiin operaatioihin Ukrainassa. Presidentti Putin on todennut, että Ukraina tulee lopulta menettämään lännen alueensa, mikä viittaa Venäjän aikeisiin vahvistaa väitteitä alueellista koskemattomuutta kohtaan. Samalla lukuisten unmanned-järjestelmien muodostaminen venäläisessä laivastossa on osoitus pyrkimyksistä modernisoida sotilaallisia valmiuksia. Myös sään aiheuttamat hätätilanteet ja jatkuvat sotilaalliset iskut Ukrainan infrastruktuuria vastaan ovat lisääntyneet, mikä saattaa johtaa entistä suurempiin jännitteisiin ja toimiin alueella.
+## Summary
+Raportointijaksolla Venäjällä on raportoitu merkittäviä tapahtumia, jotka liittyvät jatkuviin konflikteihin, luonnonkatastrofeihin ja muutoksiin alueellisessa turbenttisessa ympäristössä. Esimerkiksi Tyumenin alueella on julistettu hätätila tulvien vuoksi, mikä osoittaa haasteet luonnonkatastrofien hallinnassa. Belhorodissa ja muualla idässä on tapahtunut lentokohtaihyökkäyksiä, jotka ovat aiheuttaneet siviiliuhreja. Lyhyellä aikavälillä voidaan odottaa valtion mobilisoimista katastrofien hallitsemiseksi ja tiukennettuja turvallisuustoimia alueilla, joilla on ollut konfliktivaroja.
 
-## Putin ennustaa Ukrainan lopulta menettävän Lännen alueita
-Presidentti Vladimir Putin ilmoitti 26. heinäkuuta 2026 Venäjän laivaston sotilaiden kanssa käydyssä kokouksessa uskovansa, että Ukraina tulee lopulta menettämään lännen alueensa. Hän väitti, että vain Venäjä takaa Ukrainan territoriaalisen koskemattomuuden ja kuvasi Ukrainan hallituksen kantaa Venäjää kohtaan järjettömäksi. Tämä retoriikka välittää Venäjän pyrkimyksistä vahvistaa vaatimuksiaan Ukrainan alueita kohtaan. [1]
+## Hätätila Julistettu Tulvakalenterissa Tyumenin Alueella
+Raportin mukaan heinäkuun 28. päivänä 2026 Tyumenin alueella Venäjällä on julistettu hätätila vakavien tulvien vuoksi, kun vedenpinta nousi 877 cm:n tasolle, ylittäen kriittisen rajan 850 cm. Tämä merkittävä tapahtuma heijastaa jatkuvia haasteita luonnonkatastrofien hallinnassa ja korostaa valtion operatiivisia vastauskykyjä tällaisissa kriiseissä. [1]
 
-**KOMMENTTI:** Putinin puheet korostavat Venäjän käynnissä olevia vaatimuksia, mikä voi lisätä jännitteitä Itä-Euroopassa.
+**COMMENT:** Hätätilan julistus viittaa mahdolliseen valtion mobilisointiin katastrofivastaus- ja elvytysponnistuksiin. Lähitulevaisuudessa saatamme nähdä lisää valtion huomiota infrastruktuurin kestävyydessä ja tulvahallintastrategioissa alttiilla alueilla.
 
-**SIJAINNIT:** St. Petersburg / St. Petersburg, Russia [Click for Map Location](https://www.openstreetmap.org/?mlat=59.9343&mlon=30.3351#map=8/59.9343/30.3351) (Санкт-Петербург)
+**LOCATION:** Tyumenin alue / Tyumen Oblast, 58.8206488, 70.3658837 [Click for Map Location](https://www.openstreetmap.org/?mlat=58.820649&mlon=70.365884#map=8/58.820649/70.365884) (Тюменская область)
 
-**AVAINSANAT:** #russia #россия #вмф #удар #сво #сф #про
+**KEYWORDS:** #russia #сво #про
 
 
-## Venäjän laivasto perustaa miehittämättömien järjestelmien prikaateja
-Venäjän laivaston komentaja, amiraali Alexander Moiseev, ilmoitti 26. heinäkuuta 2026 laivastossa miehittämättömien järjestelmien prikaatien muodostamisesta. Pohjoislaivastossa toimintavalmiuteen tulleet yksiköt ovat saaneet tarvitsemansa aseistuksen. [2]
+## Neljä Siviiliä Vaurioitui Drone Hyökkäyksissä Belhorodissa
+Heinäkuun 28. päivänä 2026 neljä siviiliä vahingoittui Ukrainasta peräisin olevien dronestrategioiden vuoksi Belhorodin alueella. Tapahtumat tapahtuivat useissa kylistä ja aiheuttivat vahinkoa kaupallisille tiloille ja ajoneuvoille. [2]
 
-**KOMMENTTI:** Miehittämättömien järjestelmien kehittäminen viittaa strategiseen muutokseen teknologian integroimisessa sotilasoperaatioihin.
+**COMMENT:** Tämä tapahtuma korostaa jatkuvia konfliktidynamiikkoja Venäjän ja Ukrainan rajalla, erityisesti drone-teknologian käyttöä taistelussa. Se voi johtaa lisäturvatoimiin Belhorodin alueella viranomaisten reagoidessa näihin kasvaviin uhkiin.
 
-**SIJAINNIT:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Belgorod / Belgorod Oblast, 50.7080119, 37.5837615 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.708012&mlon=37.583762#map=8/50.708012/37.583762) (Белгородская область)
 
-**AVAINSANAT:** #russia #вмф #флот #вооружение #полк #сво #сф #часть #про
+**KEYWORDS:** #russia #штаб #удар #беспилотник #бпла
 
 
-## Hätätila julistettu Rostov-on-Doniin vakavien sääolosuhteiden vuoksi
-26. heinäkuuta 2026 viranomaiset Rostov-on-Donissa julistivat hätätilan vakavien sääolosuhteiden vuoksi, jotka ovat jättäneet yli 100 taajamaa ilman sähköä ja aiheuttaneet 28 raportoituja vammoja. Pelastustoimet ovat aktiivisesti työskennelleet palautustöiden parissa. [3]
+## Krasnodarin Lentokenttä Toteuttaa Tilapäisiä Lennonjulistuksia
+Heinäkuun 28. päivänä 2026 Krasnodarin lentokenttä ilmoitti tilapäisistä rajoituksista lentokoneiden saapumiselle ja lähdölle. Nämä toimenpiteet otettiin käyttöön Rosaviatsian toimesta lentoturvallisuuden varmistamiseksi. [3]
 
-**KOMMENTTI:** Hätätilan julistus korostaa paikallisen infrastruktuurin rasitusta, mikä voi heikentää hätätyövoiman resursseja.
+**COMMENT:** Tilapäiset lentorajoitukset Krasnodarin lentokentällä korostavat huomion kiinnittämistä ilmailuturvallisuuteen, joka on Venäjän valtiolle merkittävä huolenaihe. Tällaiset toimenpiteet voivat viitata lisääntyneisiin turvallisuusprotokolliin tai reaktioihin nouseviin uhkiin ilmakuljetuksessa.
 
-**SIJAINNIT:** Rostov-on-Don / Rostov-on-Don, 47.2222596, 39.7198736 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.222260&mlon=39.719874#map=8/47.222260/39.719874) (Ростов-на-Дону)
+**LOCATION:** Krasnodar / Krasnodar, 45.0351532, 38.9772396 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.035153&mlon=38.977240#map=8/45.035153/38.977240) (Краснодар)
 
-**AVAINSANAT:** #russia #бригада #про
+**KEYWORDS:** #russia #сво #пуск
 
 
-## Venäjän armeija keskeytti 32 ukrainalaista dronea heinäkuun 26. päivä
-26. heinäkuuta 2026 Venäjän armeija keskeytti ja tuhosi 32 ukrainalaista dronea käyttämällä ilmanpuolustusjärjestelmiään Belgorodin, Bryanskin ja Kurskin alueilla sekä Krimillä ja Mustalla merellä. Tämä operaatio osoittaa armeijan jatkuvan valmiuden ja tehokkuuden UAV-uhkien torjumisessa. [4]
+## Venäjän Ulkoministeriö Tuomitsee Ukrainan Hyökkäyksen Iranilaista Aluksia Kohtaan
+Heinäkuun 28. päivänä 2026 Venäjän ulkoministeriö tuomitsi Ukrainan hyökkäyksen iranilaiseen kaupalliseen alukseen Kaspianmerellä aggressiossa, joka rikkoo kansainvälistä lakia. [4]
 
-**KOMMENTTI:** Tapaus havainnollistaa konfliktin jatkuvia dynamiikkoja ja Venäjän puolustuksen keskittymistä UAV:ita vastaan.
+**COMMENT:** Venäjän tuomio Ukrainan toimiin heijastaa Moskovan aikomusta korostaa vaikutusvaltaansa alueellisten turvallisuustilanteiden suhteen ja ylläpitää kumppanuuksia Iranin kanssa. Tämä tapaus voi edelleen pahentaa jännitteitä Venäjän ja Ukrainan välillä, mahdollisesti johtamalla lisääntyneeseen sotilaalliseen asettamiseen alueella.
 
-**SIJAINNIT:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
+**LOCATION:** Kaspianmeri / Caspian Sea, 41.7789772, 50.5607579 [Click for Map Location](https://www.openstreetmap.org/?mlat=41.778977&mlon=50.560758#map=8/41.778977/50.560758) (Каспийское море)
 
-**AVAINSANAT:** #russia #российские #российские военные #минобороны #министерство обороны #пво #беспилотник #бпла #перехват
+**KEYWORDS:** #russia #российский #удар #сво #беспилотник #про
 
 
-## Hätätila Rostov-on-Donissa vakavan sään vuoksi
-Venäjän laivasto ilmoitti 26. heinäkuuta 2026 miehittämättömien järjestelmien prikaatien muodostamisesta, mukaan lukien miehittämätön alus, joka on suunniteltu sukellusveneiden havaitsemiseen. Samaan aikaan Rostov-on-Donissa julistettiin hätätila vakavien sääolosuhteiden vuoksi. [5]
+## Puolustusministeriö Raportoi 356 Dronen Tuhoamisesta Venäjän Alueella
+Heinäkuun 28. päivänä 2026 Venäjän puolustusministeriö raportoi ilmatorjuntajoukkojen hävittäneen 356 ukrainalaista dronea heinäkuun 27. ja 28. päivän yön aikana. [5]
 
-**KOMMENTTI:** Miehittämättömien prikaatien perustaminen viittaa laivaston strategiseen modernisoinnin pyrkimykseen. 
+**COMMENT:** Tällaisen suuren määrän droneja kaatoaminen osoittaa pysyviä uhkia Venäjän alueellista koskemattomuutta kohtaan, mikä vaatii jatkuvaa valppautta ilmatorjuntaoperaatioissa. Tämä tapahtuma saattaa johtaa lisä sotilasstrategioiden mukauttamiseen ja sotaoperaatioiden mukautumiseen alueella.
 
-**SIJAINNIT:** Rostov-on-Don / Rostov-on-Don, 47.2222596, 39.7198736 [Click for Map Location](https://www.openstreetmap.org/?mlat=47.222260&mlon=39.719874#map=8/47.222260/39.719874) (Ростов-на-Дону)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**AVAINSANAT:** #russia #россия #вмф #флот #полк #удар #сво #пуск #сф #часть #про
+**KEYWORDS:** #российские #минобороны рф #российские военные #минобороны #пво #сво #беспилотник #бпла #сф #часть #про
 
 
-## Ukrainan droneisku haavoitti neljää Horlivkassa
-26. heinäkuuta 2026 Horlivkassa Donetskin kansantasavallassa tapahtui droneisku, jossa neljä henkilöä, mukaan lukien kolme ambulanssityöntekijää ja siviili, haavoittui. Kaupungin pormestari Ivan Prikhodko tuomitsi hyökkäyksen. [6]
+## Zakharova Kommentoi Uuden Saksan Suurlähettilaan Lähestymistapaa
+Heinäkuun 28. päivänä 2026 Venäjän ulkoministeriön edustaja Maria Zakharova ilmaisi huolensa uuden Saksan suurlähettilään Clemens von Goetzen lähestymistavasta. [6]
 
-**KOMMENTTI:** Tämä tapaus korostaa siviili-infrastruktuurin kohdistuvia hyökkäyksiä konfliktialueella.
+**COMMENT:** Tämä lausunto korostaa Venäjän huolta ulkomaisen diplomatian paineista ja sen vaatimusta hallita kaksipuolisia neuvotteluja. Lähitulevaisuudessa kasvavat jännitteet voivat vaikuttaa siihen, miten Saksa lähestyy suhteitaan Venäjään, mahdollisesti johtamalla kilpailevampaan suuntaan.
 
-**SIJAINNIT:** Horlivka / Horlivka, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=48.2910&mlon=38.1256#map=8/48.2910/38.1256) (Горловка)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**AVAINSANAT:** #russia #удар #беспилотник #бпла #про
+**KEYWORDS:** #россия #сво
 
 
-## Teheran päivittää Moskovaa Lähi-idän jännitteiden vähentämiseksi
-26. heinäkuuta 2026 Venäjän ulkoministeri Sergei Lavrov keskusteli puhelimitse iranilaisen ulkoministerin Abbas Araqchin kanssa jännitteiden vapauttamisen toimenpiteistä Lähi-idässä. [7]
+## Venäläinen Armeija Iskee Nikolaevin Sataman Infrastruktuuriin
+Heinäkuun 28. päivänä 2026 Venäjän asevoimat kohdistivat iskuja Nikolaevin sataman infrastruktuuriin, mukaan lukien siirtohuoneet ja polttoaineen säiliöt, jotka on tarkoitettu tukemaan Ukrainan asevoimia. [7]
 
-**KOMMENTTI:** Keskustelu viittaa Venäjän rooliin alueellisten turvallisuuskysymysten mediattorina.
+**COMMENT:** Tämä sotilaallinen toiminta korostaa Venäjän jatkuvaa keskittymistä logististen kykyjen häiritsemiseen, jotka tukevat Ukrainan joukkoja. Tällaiset iskut voivat lisätä jännitteitä ja provosoida lisää sotilaallisia vastatoimia Ukrainalta ja sen liittolaisilta alueella.
 
-**SIJAINNIT:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Nikolaev / Nikolaev, Unknown, Unknown [Click for Map Location](Unknown) (Николаев)
 
-**AVAINSANAT:** #russia #российский #удар #сво #беспилотник #про
+**KEYWORDS:** #российские #минобороны рф #вооруженные силы россии #вооруженные силы рф #вс рф #вс россии #российские войска #российская армия #минобороны #армия россии #удар #сво #десант #армия #про
 
 
-## Venäjä parantaa UAV-hyökkäyksistä puolustautumista
-26. heinäkuuta 2026 presidentti Dmitry Peskov ilmoitti, että toimenpiteitä UAV-uhkien torjumiseksi vahvistetaan. [8]
+## Venäjän Ulkoministeriö Varottaa Kaspian Maiden Turvallisuusuhista APU Hyökkäysten Jälkeen
+Heinäkuun 28. päivänä 2026 Venäjän ulkoministeriö ilmensi huolta Kaspian maiden turvallisuusuhista Ukrainan asevoimien vihollisuusiskujen seurauksena. [8]
 
-**KOMMENTTI:** Tämä kehitys kuvastaa Venäjän keskittymistä UAV:ta vastaan.
+**COMMENT:** Tämä lausunto korostaa Venäjän jatkuvia turvallisuushuolia alueellisen vakauden suhteen Kaspianmerellä, sotilaallisten jännitteiden lisääntyessä. Lähitulevaisuudessa jatkuvat vihollisuudet voivat johtaa Venäjän sotilaallisen läsnäolon tai diplomaattisten ponnistelujen lisääntymiseen alueen turvaamiseksi.
 
-**SIJAINNIT:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Kaspianmeri / Caspian Sea, 41.7789772, 50.5607579 [Click for Map Location](https://www.openstreetmap.org/?mlat=41.778977&mlon=50.560758#map=8/41.778977/50.560758) (Каспийское море)
 
-**AVAINSANAT:** #russia #россия #удар #сво #беспилотник #бпла #про
+**KEYWORDS:** #россия #удар #про
 
 
-## Viisi bosnialaista vuorikiipeilijää löydetty Elbrus-vuorelta
-26. heinäkuuta 2026 pelastajat löysivät kolme muuta bosnialaista vuorikiipeilijää Elbrusin solasta. [9]
+## Venäjä Vetää Uuden Monikäyttöisen Risteilijän "Ulyanovsk" Sevmashilta
+Heinäkuun 28. päivänä 2026 uraauurtavalla monikäyttöisellä ydinsukellusveneellä "Ulyanovsk" on seremoniallisen vetäytymisen myötä Sevmashin venesiteestä Severodvinskissa Arkhangelskin alueella. [9]
 
-**KOMMENTTI:** Tämä tapaus korostaa vuorikiipeilytoiminnan turvallisuushaasteita Venäjällä.
+**COMMENT:** Tämä kehitys korostaa Venäjän merivoimien jatkuvia edistysaskelia erityisesti sukellusvenealalla. Ulyanovskin valmistuminen voi viitata toimintavalmiuden lisääntymiseen Pohjoislaivastossa, mikä sitten vaikuttaa alueellisiin turvallisuustilanteisiin.
 
-**SIJAINNIT:** Kabardino-Balkaria / Kabardino-Balkaria, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=43.442829&mlon=43.420481#map=8/43.442829/43.420481) (Кабардино-Балкария)
+**LOCATION:** Severodvinsk / Severodvinsk, Unknown, Unknown [Click for Map Location](Unknown) (Северодвинск)
 
-**AVAINSANAT:** #russia #про
+**KEYWORDS:** #россия #минобороны рф #мо рф #минобороны #вмф #флот #вооружение #беспилотник #надводный корабль #боевое дежурство #про
 
 
-## Venäjän armeija iskee kahteen rahtialukseen Dnieper-Bugin suistolla
-26. heinäkuuta 2026 Venäjän puolustusministeriö raportoi iskusta kahteen rahtialukseen, joilla oli sotilastavaraa Dnieper-Bugin suistolla. [10]
+## Venäjä Suunnittelee Aseistavansa Vilja-Aluksia Azovin Merellä
+Heinäkuun 28. päivänä 2026 Venäjän viranomaiset ilmoittivat suunnitelmista aseistaa vilja-aluksia Azovin merellä puolustautuakseen ukrainalaisilta dronehyökkäyksiltä. [10]
 
-**KOMMENTTI:** Tämä tilanne korostaa Venäjän armeijan aktiivisia toimia uhkien torjumiseksi.
+**COMMENT:** Kauppamereiden aseistaminen merkitsee muutosta Venäjän meriturvallisuusstrategiassa, mikä heijastaa lisääntynyttä jännitystä Azovin meressä. Tämä kehitys voi johtaa kaupallisten kuljetusreittien militarisoitumiseen ja lisäkonfliktien kärjistymiseen Ukrainan joukkojen kanssa.
 
-**SIJAINNIT:** Dnieper-Bug suisto / Dnieper-Bug estuary, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=46.473336&mlon=31.191482#map=8/46.473336/31.191482) (Днепровско-Бугский лиман)
+**LOCATION:** Azovinmeri / Sea of Azov, 46.196729, 36.7357066 [Click for Map Location](https://www.openstreetmap.org/?mlat=46.196729&mlon=36.735707#map=8/46.196729/36.735707) (Азовское море)
 
-**AVAINSANAT:** #российские #минобороны рф #российские военные #минобороны #удар #беспилотник #про
+**KEYWORDS:** #россия #российские #вс рф #флот #учения #вооружение #удар #сво #беспилотник #бпла #перехват #про
 
 
-## Työllisyystukimaksut Krimin matkailusektorille
-26. heinäkuuta 2026 Krimin pääministeri Sergey Aksenov ilmoitti liittovaltion maksamista tuista matkailusektorille, mikä tarkoittaa kolmea minimipalkkaa työntekijää kohti. [11]
+## Kuusi Siviiliä Vaurioitui Drone Hyökkäyksessä Kerchissä
+Heinäkuun 28. päivänä 2026 ukrainalaiset joukot suorittivat dronehyökkäyksen Kerchissä, mikä johti kuuden siviilin, mukaan lukien lapsen, loukkaantumiseen. [11]
 
-**KOMMENTTI:** Tämä toimenpide osoittaa Venäjän hallituksen pyrkimyksiä vakauttaa työllisyyttä keskeisillä taloussektoreilla.
+**COMMENT:** Tämä tapahtuma osoittaa jatkuvaa drone-sodan uhkaa alueella, heijastaen jatkuvia konfliktidynamiikkoja. Siviilien kohdistaminen voi provosoida lisää sotilaallisia vastatoimia ja jännitteiden kärjistymistä alueella.
 
-**SIJAINNIT:** Crimea / Crimea, 45.037057, 38.9756473 [Click for Map Location](https://www.openstreetmap.org/?mlat=45.037057&mlon=38.975647#map=8/45.037057/38.975647) (Крым)
+**LOCATION:** Kerch / Kerch, Unknown, Unknown [Click for Map Location](Unknown) (Керч)
 
-**AVAINSANAT:** #russia #удар #сво #сф #про
+**KEYWORDS:** #россия #удар #сво #беспилотник #бпла #про
 
 
-## Putin vakuuttaa Ukrainan lopulta menettävän lännen alueensa
-Putin toisti samat väitteet 26. heinäkuuta 2026 venäläiselle laivastolle esittämissään kommenteissa. [12]
+## Venäjän Ulkoministeriö Varottaa Aseiden Merikuljetusten Estämisestä Ukrainaan
+Heinäkuun 28. päivänä 2026 Venäjän ulkoministeriö ilmoitti, että Venäjä jatkaa aseiden ja ammuksien merikuljetusten estämistä, jotka ovat tarkoitettu Ukrainan asevoimille. [12]
 
-**KOMMENTTI:** Nämä lausunnot saattavat merkitä Venäjän strategian muutosta, joka tähtää Ukrainan alueellisten vaatimusten vahvistamiseen.
+**COMMENT:** Tämä jatkuva merenkulun häiritseminen korostaa Venäjän sitoutumista keskeyttää ulkoinen sotilaallinen tuki Ukrainalle. Lähitulevaisuudessa nämä toimet voivat lisätä merijännitteitä Mustallamerellä ja vaikeuttaa alueellisia turvallisuustilanteita.
 
-**SIJAINNIT:** St. Petersburg / St. Petersburg, Russia [Click for Map Location](https://www.openstreetmap.org/?mlat=59.9343&mlon=30.3351#map=8/59.9343/30.3351) (Санкт-Петербург)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**AVAINSANAT:** #russia #россия #вмф #удар #сво #сф #про
+**KEYWORDS:** #россия #российские #вс рф #российские войска #российская армия #армия россии #удар #сво #беспилотник #армия #про
 
 
-## Pelastajat evakuoivat bosnialaisten vuorikiipeilijöiden ruumiita Elbrus-vuorelta
-26. heinäkuuta 2026 Venäjän EMERCOMin pelastajat evakuoivat kaksi bosnialaista vuorikiipeilijää Kabardino-Balkariasta. [13]
+## Venäjän Asevoimat Iskevät Ukrainan Lastialukseen Lähistöllä Odessaa
+Heinäkuun 28. päivänä 2026 Venäjän asevoimat käyttivät droneja iskeäkseen ukrainalaiseen lastialukseen, joka kuljetti sotatarvikkeita noin 11 kilometrin päässä Odessasta itään. [13]
 
-**KOMMENTTI:** Tämä tilanne osoittaa haasteet, joita ulkomaiset vuorikiipeilijät kohtaavat Venäjän vuoristossa.
+**COMMENT:** Tämä hyökkäys osoittaa Venäjän sotilasoperaatioiden jatkuvan keskittymisen Ukrainan toimitusreittien häiritsemiseen. Lähitulevaisuudessa implicationit voivat sisältää lisää meritaisteluja ja sotilaallisen sitoutumisen lisääntymistä Mustallamerellä.
 
-**SIJAINNIT:** Kabardino-Balkaria / Kabardino-Balkaria, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=43.442829&mlon=43.420481#map=8/43.442829/43.420481) (Кабардино-Балкария)
+**LOCATION:** Odessan / Odessa, Unknown, Unknown [Click for Map Location](Unknown) (Одесса)
 
-**AVAINSANAT:** #russia #вдв #про
+**KEYWORDS:** #российские #минобороны рф #вооруженные силы рф #вс рф #российские войска #российские военные #минобороны #армия россии #удар #беспилотник #бпла #армия
 
 
-## Venäjän armeija iskee kaksi bulkkeria sotilaallisella kuormalla Dnieper-Bugilla
-26. heinäkuuta 2026 Venäjän puolustusministeriö raportoi ohjusiskusta Dnieper-Bugilla. [14]
+## Venäjän Ilmatorjunta Tuhoaa 112 Ukraina Dronea
+Heinäkuun 28. päivänä 2026 Venäjän puolustusministeriö raportoi, että ilmatorjuntajärjestelmät kaatoivat onnistuneesti 112 Ukrainan asevoimien käyttämää dronea. [14]
 
-**KOMMENTTI:** Tämä operaatio osoittaa Venäjän armeijan aktiivisia askeleita.
+**COMMENT:** Suuri määrä tuhoisia droneja havainnollistaa jatkuvaa drone-sodankäynnin uhkaa. Kyky kaataa useita droneja voi johtaa kurin ja mahdollisiin parannuksiin Venäjän ilmatorjuntajärjestelmissä, kun sotatoimet kehittyvät.
 
-**SIJAINNIT:** Chernomorsk / Chernomorsk, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=46.473336&mlon=31.191482#map=8/46.473336/31.191482) (Черноморск)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**AVAINSANAT:** #вооруженные силы россии #вс рф #минобороны #армия россии #штаб #удар #беспилотник #зрк #армия #про
+**KEYWORDS:** #минобороны рф #минобороны #пво #беспилотник #про
 
 
-## Patrushev korostaa venäläisen laivaston taistelutehtäviä
-26. heinäkuuta 2026 Nikolai Patrushev, Venäjän presidentin avustaja, painotti Venäjän laivaston taistelutehtäviä tärkeinä. [15]
+## Yhdysvaltalaiset Analyytikot Ehdottavat, että Venäjän Hallinta Donbassissa On Lähes Täydellistä
+Heinäkuun 28. päivänä 2026 amerikkalainen julkaisu The Conservative raportoi Venäjän asevoimien tekevän merkittäviä edistysaskeleita Donbassin alueella. [15]
 
-**KOMMENTTI:** Tämä lausunto heijastaa laivaston strategista merkitystä.
+**COMMENT:** Venäjän joukoissa raportoitu edistyminen Donbassissa voi heijastaa jyrkkää liikettä alueella, mikä suosii Venäjän strategisia tavoitteita. Tämä kehitys saattaa johtaa lisääntyneisiin jännitteisiin Ukrainan ja sen liittolaisten kanssa.
 
-**SIJAINNIT:** St. Petersburg / St. Petersburg, Russia [Click for Map Location](https://www.openstreetmap.org/?mlat=59.9343&mlon=30.3351#map=8/59.9343/30.3351) (Санкт-Петербург)
+**LOCATION:** Donbass / Donbas, Unknown, Unknown [Click for Map Location](Unknown) (Донбасс)
 
-**AVAINSANAT:** #российский #вмф #флот #удар #сво #сф #часть #про
+**KEYWORDS:** #российские #вс россии #российские войска #удар #сво #армия #про
 
 
-## Ukrainan dronetiskut iskevät Jekaterinburgiin
-25. heinäkuuta 2026 Ukrainan asevoimat laukaisivat dronehyökkäyksen Jekaterinburgia vastaan. [16]
+## Euroopan Voimisteluliitto Hyväksyy Venäläisten Urheilijoiden Osallistumisen Kansallisilla Symbolilla
+Heinäkuun 28. päivänä 2026 Euroopan voimisteluliitto vahvisti, että venäläiset urheilijat voivat kilpailla eurooppalaisissa kilpailuissa kansallislipulla ja -laululla. [16]
 
-**KOMMENTTI:** Tämä tapahtuma korostaa UAV-hyökkäysten vaaraa.
+**COMMENT:** Tämä päätös osoittaa yhdistelevää toimintaa kansainvälisessä urheilupolitiikassa Venäjälle, mikä heijastaa rajoitusten lieventymistä kansallisissa symboleissa. Venäjän tulevan osallistumisen seuranta voi tarjota näkemyksiä laajemmista palautumispyrkimyksistä kansainvälisissä organisaatioissa.
 
-**SIJAINNIT:** Jekaterinburg / Yekaterinburg, 56.8382071, 60.6007886 [Click for Map Location](https://www.openstreetmap.org/?mlat=56.838207&mlon=60.600789#map=8/56.838207/60.600789) (Екатеринбург)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**AVAINSANAT:** #россия #российские #минобороны рф #вс рф #российские войска #российские военные #минобороны #пво #штаб #удар #сво #ракетные войска #артиллерия #беспилотник #бпла #пуск #сф #часть #про
+**KEYWORDS:** #россия #российские #полк #удар #пуск #про
 
 
-## Venäjän puolustusministeriö tiivistää toimenpiteet UAV-hyökkäyksiä vastaan
-26. heinäkuuta 2026 Dmitry Peskov ilmoitti Venäjän uusista toimenpiteistä UAV-hyökkäysten torjumiseksi. [20]
+## Putin Keskustelee Liittovaltion Neuvoston Uudistamisesta ja Tuen Antamisesta Erikoistoimille
+Heinäkuun 28. päivänä 2026 Presidentti Vladimir Putin tapasi liittovaltion neuvoston puheenjohtajan Valentina Matvienkon Kremlissä ja keskusteli neuvoston uudistamisesta. [17]
 
-**KOMMENTTI:** Tämä kehitys korostaa Venäjän sitoutumista UAV:ta vastaan.
+**COMMENT:** Tämä kokous korostaa Venäjän johtajuuden sitoutumista jatkamaan lainsäädännöllistä tukea sotilaallisille operaatioille Ukrainassa. Tulevat vaalit voivat myös toimia käänteentekevänä hetkenä valtion vallan vahvistamiseksi ja jatkuvan sotatoiminnan tukemiseksi.
 
-**SIJAINNIT:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
 
-**AVAINSANAT:** #россия #российские #вооруженные силы рф #вс рф #вооружение #удар #сво #бпла #про
+**KEYWORDS:** #россия #российский #российские #вс рф #минобороны #удар #сво #беспилотник #военная инфраструктура #сф #часть #про
 
 
-## Mies sytytti vaatteet tuleen Europolis-ostoskeskuksessa Moskovassa
-26. heinäkuuta 2026 tuntematon mies sytytti tuleen vaatteita Moskova Europolis-ostoskeskuksessa. [21]
+## Euroopan Voimisteluliitto Hyväksyy Venäläisten Urheilijoiden Osallistumisen Kansallisilla Symboleilla
+Heinäkuun 28. päivänä 2026 Euroopan voimisteluliitto vahvisti, että venäläiset urheilijat voivat kilpailla eurooppalaisissa kilpailuissa kansallislipulla ja -laululla. [18]
 
-**KOMMENTTI:** Tämä tapaus osoittaa mahdollisia turvallisuusongelmia julkisissa tiloissa.
+**COMMENT:** Tämä päätös osoittaa hhaliittovaltioiden osallistumisen kansainvälisissä urheiluelämässä Venäjälle, mikä heijastaa rajoitusten lieventymistä kansallisissa symboleissa.
 
-**SIJAINNIT:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+**LOCATION:** Venäjä / Russia, 64.6863136, 97.7453061 [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
 
-**AVAINSANAT:** #россия #про
+**KEYWORDS:** #россия #российские #полк #удар #пуск #про
 
 
-## Putin käsittelee Ukrainan tankkeritapausta, jossa kuoli siviili
-26. heinäkuuta 2026 Putin puhuu Ukrainan tankkeritapauksesta, jossa siviili kuoli. [22]
+## Venäjän Asevoimat Vapauttavat Punaisen Kutun DPR:ssä
+Heinäkuun 28. päivänä 2026 Venäjän asevoimat ilmoittivat red kutun kylän vapauttamisesta Donetskin kansantasavallassa (DPR) keskitettyjen joukkojen toimesta. [19]
 
-**KOMMENTTI:** Tämä tapaus korostaa äärimmäisiä asenteita nykyisessä konfliktissa.
+**COMMENT:** Tämä vapautuminen heijastaa Venäjän sotilaallisia operaatioita, jotka tähtäävät hallinnan vahvistamiseen DPR:n avainalueilla. Jatkuvat edistysaskeleet tällä alueella voivat viitata strategiseen pyrkimykseen vahvistaa Venäjän läsnäoloa ja vaikutusvaltaa jatkuvassa konfliktissa.
 
-**SIJAINNIT:** St. Petersburg / St. Petersburg, Russia [Click for Map Location](https://www.openstreetmap.org/?mlat=59.9343&mlon=30.3351#map=8/59.9343/30.3351) (Санкт-Петербург)
+**LOCATION:** Punainen Kut / Red Kut, Unknown, Unknown [Click for Map Location](Unknown) (Красный Кут)
 
-**AVAINSANAT:** #российские #генштаб #штаб #удар #сво #перехват #про
+**KEYWORDS:** #вс россии #сво
 
 
-## Peskov: Venäjä toteuttaa toimenpiteitä ukrainalaisten hyökkäysten vaikutusten vähentämiseksi
-26. heinäkuuta 2026 Dmitry Peskov ilmoitti toimenpiteistä, joilla minimoidaan Ukrainasta tulevien hyökkäysten seurauksia. [23]
+# Sources
 
-**KOMMENTTI:** Tämä lausunto heijastaa huolia venäläisen infrastruktuurin turvallisuudesta.
+[1] Interfax.ru - https://interfax.ru/russia/1106155
 
-**SIJAINNIT:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+[2] Interfax.ru - https://interfax.ru/russia/1106157
 
-**AVAINSANAT:** #россия #российские #вс рф #российская армия #удар #сво #бпла #армия #про
+[3] Interfax.ru - https://interfax.ru/russia/1106156
 
+[4] Interfax.ru - https://interfax.ru/russia/1106151
 
-## Romanian ulkoministeriö kutsuu Venäjän suurlähettilään droneincidentin vuoksi
-26. heinäkuuta 2026 Romanian ulkoministeriö kutsui Venäjän suurlähettilään Vladimir Lipaevin droneincidentin vuoksi. [24]
+[5] Aif.ru - https://aif.ru/incidents/minoborony-sily-pvo-sbili-za-noch-356-dronov-vsu-na-territorii-rf
 
-**KOMMENTTI:** Tämä kehitys heijastaa lisääntyneitä jännitteitä Romanian ja Venäjän välillä.
+[6] www.vesti.ru - https://www.vesti.ru/ns/zakharova-vyskazalas-o-novom-posle-germanii
 
-**SIJAINNIT:** Bukarest / Bucharest, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=44.4268&mlon=26.1025#map=8/44.4268/26.1025) (Бухарест)
+[7] www.vesti.ru - https://www.vesti.ru/ns/armiya-rossii-porazila-infrastrukturu-porta-nikolaeva
 
-**AVAINSANAT:** #россия #беспилотник #бпла #истребитель #про
+[8] www.vesti.ru - https://www.vesti.ru/ns/mid-rossii-zayavil-ob-ugroze-bezopasnosti-stran-kaspiya-posle-atak-vsu
 
+[9] www.vesti.ru - https://www.vesti.ru/ns/novejshij-mnogocelevoj-krejser-ulyanovsk-vyveden-iz-ehllinga-sevmasha
 
-## Patrushev korostaa Venäjän ydinsukellusvenelaivaston modernisoinnin merkitystä
-26. heinäkuuta 2026 Nikolai Patrushev painotti Venäjän ydinsukellusvenelaivaston modernisoinnin tärkeyttä. [25]
+[10] www.vesti.ru - https://www.vesti.ru/ns/rossijskie-zernovozy-v-azovskom-more-mogut-poluchit-vooruzhenie
 
-**KOMMENTTI:** Tämä korostaa sitoutumista strategiseen sotilaalliseen kykyyn. 
+[11] www.vesti.ru - https://www.vesti.ru/ns/shest-mirnykh-grazhdan-postradali-v-kerchi-posle-ataki-vsu
 
-**SIJAINNIT:** Moskova / Moscow, 55.7505412, 37.6174782 [Click for Map Location](https://www.openstreetmap.org/?mlat=55.750541&mlon=37.617478#map=8/55.750541/37.617478) (Москва)
+[12] www.vesti.ru - https://www.vesti.ru/ns/v-mid-rf-predupredili-vsu-ne-smogut-poluchat-pomoshch-po-moryu
 
-**AVAINSANAT:** #россия #минобороны рф #минобороны #вмф #флот #удар #сво #перехват #подводная лодка #сф #армия #про
+[13] www.vesti.ru - https://www.vesti.ru/ns/vs-rf-udarili-po-ukrainskomu-sukhogruzu-k-vostoku-ot-odessy
 
+[14] iz.ru - https://iz.ru/2140137/2026-07-28/sredstva-pvo-za-den-sbili-112-dronov-vsu-nad-regionami-rossii
 
-## Venäjän ilmavoimat keskeyttää 32 ukrainalaista dronetta 12 tunnissa
-26. heinäkuuta 2026 Venäjän ilmavoimat ampuivat alas 32 ukrainalaista dronetta eri alueilla. [26]
+[15] iz.ru - https://iz.ru/2140112/v-ssha-nazvali-realnym-perekhod-donbassa-pod-kontrol-rossii-izi
 
-**KOMMENTTI:** Tämä tapahtuma korostaa konfliktin jatkuvia haasteita.
+[16] iz.ru - https://iz.ru/2140074/chto-proizoshlo-za-den-28-iiulia-glavnoe-izi
 
-**SIJAINNIT:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
+[17] iz.ru - https://iz.ru/2140118/european-gymnastics-vernula-rossiiskii-flag-i-gimn-na-sorevnovaniia-po-gimnastike-izi
 
-**AVAINSANAT:** #российские #минобороны рф #минобороны #пво #удар #беспилотник #бпла #перехват #про
+[18] iz.ru - https://iz.ru/2140137/2026-07-28/sredstva-pvo-za-den-sbili-112-dronov-vsu-nad-regionami-rossii?main_click
 
+[19] iz.ru - https://iz.ru/2140112/v-ssha-nazvali-realnym-perekhod-donbassa-pod-kontrol-rossii-izi?main_click
 
-## Venäjän armeija iskee konttikenttään Chernomorskissa ja bulkkeriin Odessan lähellä
-26. heinäkuuta 2026 Venäjän armeija hyökkäsi Chernomorskissa olevaan konttikenttään. [29]
+[20] iz.ru - https://iz.ru/2140118/european-gymnastics-vernula-rossiiskii-flag-i-gimn-na-sorevnovaniia-po-gimnastike-izi?main_click
 
-**KOMMENTTI:** Tämä kehitys vahvistaa Venäjän keskittymistä Ukrainaan.
+[21] rg.ru - https://rg.ru/2026/07/28/putin-i-matvienko-obsudili-itogi-raboty-sovfeda-v-vesenniuiu-sessiiu.html
 
-**SIJAINNIT:** Chernomorsk / Chernomorsk, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=46.473336&mlon=31.191482#map=8/46.473336/31.191482) (Черноморск)
+[22] rg.ru - https://rg.ru/2026/07/28/vs-rossii-osvobodili-krasnyj-kut-v-dnr.html
 
-**AVAINSANAT:** #вооруженные силы россии #вс рф #минобороны #армия россии #штаб #удар #беспилотник #зрк #армия #про
+[23] rg.ru - https://rg.ru/2026/07/27/bez-suluguni-i-foreli-kakie-zaprety-vvedeny-v-otnoshenii-produktov-iz-armenii.html
 
-
-## Patrushev korostaa laivaston taistelutehtävää paraatinasioiden sijaan
-26. heinäkuuta 2026 Nikolai Patrushev tähdensi Venäjän laivaston taistelutehtäviä. [30]
-
-**KOMMENTTI:** Tämä lausunto korostaa laivaston operatiivista valmiutta.
-
-**SIJAINNIT:** Venäjä / Russia [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**AVAINSANAT:** #российский #российские #вмф #флот #про
-
-
-## Venäjän ilmavoimat keskeyttää 32 ukrainalaista dronetta 12 tunnissa
-26. heinäkuuta 2026 Venäjän puolustusministeriö raportoi ilmavoimien käytöstä 32 ukrainalaisen dronen katkaisemiseksi. [31]
-
-**KOMMENTTI:** Tämä toimenpide osoittaa jatkuvaa uhkaa.
-
-**SIJAINNIT:** Belgorod / Belgorod, 50.5955595, 36.5873394 [Click for Map Location](https://www.openstreetmap.org/?mlat=50.595560&mlon=36.587339#map=8/50.595560/36.587339) (Белгород)
-
-**AVAINSANAT:** #российские #минобороны рф #минобороны #пво #удар #беспилотник #бпла #перехват #про
-
-
-## Venäjän armeija iskee konttikenttään Chernomorsk ja bulkcarrier Odessan lähellä
-26. heinäkuuta 2026 Venäjän armeija kohdistaa iskuja konttikentällä ja bulkcarrierilla. [32]
-
-**KOMMENTTI:** Tämä kehitys tarkoittaa, että Venäjän armeija edelleen tähtää Ukrainan logistiin.
-
-**SIJAINNIT:** Chernomorsk / Chernomorsk, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=46.473336&mlon=31.191482#map=8/46.473336/31.191482) (Черноморск)
-
-**AVAINSANAT:** #вооруженные силы россии #вс рф #минобороны #армия россии #штаб #удар #беспилотник #зрк #армия #про
-
-
-## Puolustusministeriö saa verkkoyhteyden virallisiin tilastoihin
-26. heinäkuuta 2026 Venäjän puolustusministeriö ilmoitti vapauttavansa verkkoyhteydet. [33]
-
-**KOMMENTTI:** Tämä kehitys myötävaikuttaa digitaaliseen hallintaan.
-
-**SIJAINNIT:** Venäjä / Russia [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**AVAINSANAT:** #вс рф #минобороны #офицер #удар #часть #про
-
-
-## Roskosmos julkaisee ISS-kosmonautin paluufilmi
-26. heinäkuuta 2026 Roskosmos julkaisi kuvamateriaalia avaruusasemalta. [34]
-
-**KOMMENTTI:** Tämä onnistunut paluu korostaa Venäjän korkean teknologian halua.
-
-**SIJAINNIT:** Venäjä / Russia [Click for Map Location](https://www.openstreetmap.org/?mlat=64.686314&mlon=97.745306#map=8/64.686314/97.745306) (Россия)
-
-**AVAINSANAT:** #россия #пуск #тоф #про
-
-
-## Venäjän armeija iskee konttikenttään Chernomorskissa
-26. heinäkuuta 2026 Venäjän armeija iski konttikenttään sotilastavaran kanssa. [35]
-
-**KOMMENTTI:** Tällä kehityksellä on merkitystä Ukrainan logististen linjojen katkoksille.
-
-**SIJAINNIT:** Chernomorsk / Chernomorsk, Unknown [Click for Map Location](https://www.openstreetmap.org/?mlat=46.473336&mlon=31.191482#map=8/46.473336/31.191482) (Черноморск)
-
-**AVAINSANAT:** #вс россии #удар
-
-
-
-# Lähteet
-
-[1] Interfax.ru - https://interfax.ru/russia/1105717?utm_source=top
-
-[2] Interfax.ru - https://interfax.ru/russia/1105647?utm_source=top
-
-[3] Interfax.ru - https://interfax.ru/russia/1105674?utm_source=top
-
-[4] Interfax.ru - https://interfax.ru/russia/1105727
-
-[5] Interfax.ru - https://interfax.ru/russia/1105644
-
-[6] Interfax.ru - https://interfax.ru/russia/1105724
-
-[7] Interfax.ru - https://interfax.ru/russia/1105723
-
-[8] Interfax.ru - https://interfax.ru/russia/1105722
-
-[9] Interfax.ru - https://interfax.ru/russia/1105721
-
-[10] Interfax.ru - https://interfax.ru/world/1105720
-
-[11] Interfax.ru - https://interfax.ru/russia/1105718
-
-[12] Interfax.ru - https://interfax.ru/russia/1105717
-
-[13] Interfax.ru - https://interfax.ru/russia/1105716
-
-[14] Interfax.ru - https://interfax.ru/chronicle/voennaya-operacziya-na-ukraine.html
-
-[15] Interfax.ru - https://interfax.ru/russia/1105715
-
-[16] Aif.ru - https://aif.ru/politics/putin-zayavil-o-klyuchevoy-roli-voenno-morskogo-flota-v-reshenii-zadach-svo
-
-[17] Aif.ru - https://aif.ru/society/vsyo-gorit-kiev-v-panike-otvet-za-ataki-na-ural-nastig-vsu-vo-vseh-rayonah
-
-[18] Aif.ru - https://aif.ru/society/katera-nato-vzorvali-pered-atakoy-na-krym-glavnaya-novost-svo-26-iyulya
-
-[19] www.vesti.ru - https://www.vesti.ru/ns/bojcy-specoperacii-pokazali-solovyovu-ubijc-khornetov
-
-[20] www.vesti.ru - https://www.vesti.ru/ns/peskov-rf-rabotaet-nad-tem-chtoby-luchshe-i-tochnee-nejtralizovyvat-bpla
-
-[21] www.vesti.ru - https://www.vesti.ru/ns/112-neizvestnyj-podzheg-odezhdu-v-tc-evropolis-na-prospekte-mira
-
-[22] www.vesti.ru - https://www.vesti.ru/ns/putin-rasskazal-ob-tankiste-vsu-ubivshem-mirnogo-zhitelya-za-prorossijskie-vzglyady
-
-[23] www.vesti.ru - https://www.vesti.ru/ns/peskov-rf-prinimaet-mery-dlya-minimizacii-posledstvij-atak-vsu
-
-[24] www.vesti.ru - https://www.vesti.ru/ns/v-mid-rumynii-vyzvali-rossijskogo-posla
-
-[25] www.vesti.ru - https://www.vesti.ru/ns/patrushev-nazval-vazhnejshej-zadachej-modernizaciyu-atomnogo-podplava-rf
-
-[26] www.vesti.ru - https://www.vesti.ru/ns/sily-pvo-sbili-32-ukrainskikh-bpla-za-12-chasov-nad-regionami-rf
-
-[27] iz.ru - https://iz.ru/2138938/sredstva-pvo-za-12-chasov-sbili-32-ukrainskikh-bespilotnika-nad-regionami-rossii-izi
-
-[28] iz.ru - https://iz.ru/2138904/2026-07-26/vladimir-putin-vystupil-na-dne-voenno-morskogo-flota-rf-glavnoe
-
-[29] iz.ru - https://iz.ru/2138929/vs-rf-porazili-konteinernyi-terminal-v-portu-chernomorska-i-balker-u-odessy-izi
-
-[30] iz.ru - https://iz.ru/2138937/patrushev-nazval-boevye-zadachi-glavnym-dlia-korablei-vmf?main_click
-
-[31] iz.ru - https://iz.ru/2138938/sredstva-pvo-za-12-chasov-sbili-32-ukrainskikh-bespilotnika-nad-regionami-rossii-izi?main_click
-
-[32] iz.ru - https://iz.ru/2138929/vs-rf-porazili-konteinernyi-terminal-v-portu-chernomorska-i-balker-u-odessy-izi?main_click
-
-[33] rg.ru - https://rg.ru/2026/07/26/putin-dal-dostup-minoborony-k-dannym-zags.html
-
-[34] rg.ru - https://rg.ru/2026/07/26/roskosmos-pokazal-kadry-prizemleniia-ekipazha-s-mks.html
-
-[35] rg.ru - https://rg.ru/2026/07/26/vs-rf-porazili-kontejnernyj-terminal-s-voennymi-gruzami-v-chernomorske.html
-
-[36] rg.ru - https://rg.ru/2026/07/26/dobavleno-piat-let.html
-
-[37] rg.ru - https://rg.ru/2026/07/26/nashi-moriaki-v-trojke-silnejshih-330-let-voenno-morskomu-flotu.html
-
-[38] rg.ru - https://rg.ru/2026/07/26/vstupil-v-silu-zakon-o-roste-poshlin-dlia-migrantov.html
-
-[39] rg.ru - https://rg.ru/2026/07/26/mezhdunarodnyj-ekipazh-vernulsia-na-zemliu-posle-241-dnia-raboty-v-kosmose.html
-
-[40] ria.ru - https://ria.ru/20260726/minoborony-2107115581.html
+[24] ria.ru - https://ria.ru/20260728/dnr-2107517907.html
