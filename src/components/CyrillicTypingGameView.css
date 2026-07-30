@@ -2,6 +2,7 @@
 
 /* Tank Racer-specific controls and palette */
 .typing-header-actions{display:flex;align-items:center;gap:.5rem}.typing-header-actions .game-home-btn{margin:0}.typing-difficulty-grid button:nth-child(-n+2){color:#fff;background:#005bbb;border-color:#004fa5}.typing-difficulty-grid button:nth-child(-n+2):hover{background:#004fa5}.typing-difficulty-grid button:nth-child(n+3){color:#002f6c;background:#ffd500;border-color:#005bbb}.typing-difficulty-grid button:nth-child(n+3):hover{background:#ffe24a}.typing-actions{display:flex;flex-wrap:nowrap;gap:.45rem}.typing-actions button{min-width:0;flex:1 1 0;padding:.6rem .35rem;font-size:clamp(.72rem,2.4vw,.95rem);white-space:nowrap}.typing-tank{bottom:-1.35rem;width:8rem;height:7rem;object-fit:contain;transition:left 120ms linear}.typing-tank span{display:none}
+.typing-header-actions .music-btn{background:#16a34a;border-color:#15803d}.typing-header-actions .music-btn:hover{background:#15803d;border-color:#166534}.typing-header-actions .music-btn[aria-pressed="true"]{background:#15803d;box-shadow:inset 0 0 0 2px #bbf7d0}
 @media(max-width:560px){.typing-actions{grid-template-columns:none}.typing-header{align-items:flex-start}.typing-header h1{margin:.25rem 0;font-size:clamp(1.25rem,6vw,1.7rem)}.typing-tank{width:6.5rem;height:6rem;bottom:-1.15rem}}
 
 /* Compact completion layout and mine finish marker */
@@ -15,4 +16,3 @@
 /* Unified blue controls and larger racer artwork */
 .typing-game button:not(.mute-btn){color:#fff;background:#005bbb;border-color:#004fa5}.typing-game button:not(.mute-btn):hover:not(:disabled){color:#fff;background:#004fa5;border-color:#003f85}.typing-game button:disabled{opacity:.5}.typing-tank,.typing-destroyed-tank{width:10rem;height:8.5rem;bottom:-1.7rem}.typing-destroyed-tank{left:calc(100% - 17rem)}
 @media(max-width:560px){.typing-tank,.typing-destroyed-tank{width:8rem;height:7rem;bottom:-1.35rem}.typing-destroyed-tank{left:calc(100% - 16.5rem)}}
-

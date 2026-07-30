@@ -16,6 +16,7 @@ const TANK_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/tankracer.png`
 const MINE_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/mine.png`
 const FLAG_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/flag.png`
 const DESTROYED_TANK_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/explosion.png`
+const BACKGROUND_MUSIC_URL = `${import.meta.env.BASE_URL}tiedot-ja-asetukset/audio/background.mp3`
 const LABELS: Record<TypingDifficulty, { fi: string; en: string }> = {
   beginner: { fi: 'Taso A1', en: 'Level A1' }, intermediate: { fi: 'Taso A2', en: 'Level A2' },
   advanced: { fi: 'Taso B1', en: 'Level B1' }, superhuman: { fi: 'Taso B2', en: 'Level B2' },
@@ -39,7 +40,35 @@ export function CyrillicTypingGameView({ appLanguage, muted, onToggleMute, onBac
   const stateRef = useRef<GameState>(state)
   const composingRef = useRef(false)
   const completionRef = useRef(false)
+  const backgroundMusicRef = useRef<HTMLAudioElement | null>(null)
+  const [backgroundMusicPlaying, setBackgroundMusicPlaying] = useState(false)
   stateRef.current = state
+
+  useEffect(() => () => {
+    backgroundMusicRef.current?.pause()
+    backgroundMusicRef.current = null
+  }, [])
+
+  const toggleBackgroundMusic = () => {
+    let audio = backgroundMusicRef.current
+    if (!audio) {
+      audio = new Audio(BACKGROUND_MUSIC_URL)
+      audio.loop = true
+      backgroundMusicRef.current = audio
+    }
+
+    if (!audio.paused) {
+      audio.pause()
+      setBackgroundMusicPlaying(false)
+      return
+    }
+
+    void audio.play()
+      .then(() => setBackgroundMusicPlaying(true))
+      .catch(() => setBackgroundMusicPlaying(false))
+  }
+
+  const musicButton = <button type="button" className="mute-btn mute-btn-small music-btn" onClick={toggleBackgroundMusic} aria-label={backgroundMusicPlaying ? (en ? 'Stop background music' : 'Pysäytä taustamusiikki') : (en ? 'Play background music' : 'Soita taustamusiikkia')} aria-pressed={backgroundMusicPlaying} title={backgroundMusicPlaying ? (en ? 'Stop background music' : 'Pysäytä taustamusiikki') : (en ? 'Play background music' : 'Soita taustamusiikkia')}>{backgroundMusicPlaying ? '⏸️' : '🎵'}</button>
 
   useEffect(() => { loadTypingSentences().then(setSentences).catch((error: unknown) => setLoadError(error instanceof Error ? error.message : String(error))) }, [])
   useEffect(() => { if (state === 'ready' || state === 'running' || state === 'cancelled') requestAnimationFrame(() => inputRef.current?.focus()) }, [sentence, state])
@@ -112,7 +141,7 @@ export function CyrillicTypingGameView({ appLanguage, muted, onToggleMute, onBac
   if (loadError) return <main className="typing-game"><p role="alert">{loadError}</p><button className="back-btn" onClick={onBack}>{en ? 'Main menu' : 'Päävalikko'}</button></main>
   if (state === 'difficulty-selection') return (
     <main className="typing-game typing-select">
-      <header className="typing-header"><div className="typing-header-actions"><button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title={en ? 'Main menu' : 'Päävalikko'} aria-label={en ? 'Main menu' : 'Päävalikko'}>🏠</button><button className="mute-btn mute-btn-small" onClick={onToggleMute} aria-label={en ? 'Toggle sound' : 'Äänet'}>{muted ? '🔇' : '🔊'}</button></div><h1>{en ? 'Tank Racer' : 'Tankkiralli'}</h1></header>
+      <header className="typing-header"><div className="typing-header-actions"><button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title={en ? 'Main menu' : 'Päävalikko'} aria-label={en ? 'Main menu' : 'Päävalikko'}>🏠</button><button className="mute-btn mute-btn-small" onClick={onToggleMute} aria-label={en ? 'Toggle sound' : 'Äänet'}>{muted ? '🔇' : '🔊'}</button>{musicButton}</div><h1>{en ? 'Tank Racer' : 'Tankkiralli'}</h1></header>
       <section className="typing-card"><h2>{en ? 'Choose difficulty' : 'Valitse vaikeustaso'}</h2><div className="typing-difficulty-grid">{DIFFICULTIES.map((item) => <button key={item} disabled={!sentences.some((entry) => entry.difficulty === item)} onClick={() => chooseDifficulty(item)}>{LABELS[item][en ? 'en' : 'fi']}</button>)}</div></section>
       <button className="back-btn" onClick={onBack}>{en ? 'Main menu' : 'Päävalikko'}</button>
     </main>
@@ -120,7 +149,7 @@ export function CyrillicTypingGameView({ appLanguage, muted, onToggleMute, onBac
   if (!sentence || !difficulty) return null
   return (
     <main className="typing-game">
-      <header className="typing-header"><div className="typing-header-actions"><button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title={en ? 'Main menu' : 'Päävalikko'} aria-label={en ? 'Main menu' : 'Päävalikko'}>🏠</button><button className="mute-btn mute-btn-small" onClick={onToggleMute} aria-label={en ? 'Toggle sound' : 'Äänet'}>{muted ? '🔇' : '🔊'}</button></div><h1>{en ? 'Tank Racer' : 'Tankkiralli'}</h1></header>
+      <header className="typing-header"><div className="typing-header-actions"><button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title={en ? 'Main menu' : 'Päävalikko'} aria-label={en ? 'Main menu' : 'Päävalikko'}>🏠</button><button className="mute-btn mute-btn-small" onClick={onToggleMute} aria-label={en ? 'Toggle sound' : 'Äänet'}>{muted ? '🔇' : '🔊'}</button>{musicButton}</div><h1>{en ? 'Tank Racer' : 'Tankkiralli'}</h1></header>
       <div className="typing-status"><span>{LABELS[difficulty][en ? 'en' : 'fi']}</span><strong aria-label={en ? 'Elapsed time' : 'Kulunut aika'}>{formatTypingTime(elapsed)}</strong></div>
       <div className="typing-track" aria-label={`${Math.round(progress * 100)}%`}>
         <img src={FLAG_IMAGE_URL} className="typing-finish" alt={en ? 'Ukrainian flag' : 'Ukrainan lippu'} />
