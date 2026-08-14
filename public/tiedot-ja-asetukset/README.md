@@ -124,7 +124,9 @@ The Memory Game opens in a new page. You match military images and names.
 
 ## 2. Tank Racer
 
-Tank Racer is a Cyrillic typing game with four language levels: A1, A2, B1, and B2. Type the Russian exercise exactly as shown to move the tank toward the mine. Capital letters, punctuation, spaces, and the distinction between `е` and `ё` all count.
+Tank Racer is a Cyrillic typing game with three levels: Easy, Harder, and SVO. The former A1–A2 exercises are under Easy, while the former B1–B2 exercises are under Harder. Type the Russian exercise exactly as shown to move the tank toward the mine. Capital letters, punctuation, spaces, and the distinction between `е` and `ё` all count.
+
+To add exercises with a browser form, run `npm run text-editor`, open the displayed localhost address, and enter the Russian text, Finnish and English translations, and level. Saving adds the exercise directly to `public/data/typing/sentences.json`; refresh the game to load it. The editor is deliberately available only on your own computer and is not included in the published website.
 
 The timer begins with the first typed character. After completing a text, the game shows elapsed time, characters per minute, accuracy, the saved best time, and a Finnish or English translation. You can retry the same exercise or load another exercise from the selected level.
 
@@ -133,6 +135,10 @@ The timer begins with the first typed character. After completing a text, the ga
 ## 3. Short War Stories
 
 These stories follow Private Ivan near the front in Ukraine. The text is in Russian. English translations help you study each sentence. Each available story has audio. You can play, pause, restart, and seek the audio. The full story is also available as one long recording.
+
+Exercise PDFs are added automatically to the menus during `npm run dev` or `npm run build`. Put fill-the-blank files in `public/learning-materials/fill-the-blank/` and reading-comprehension files in `public/learning-materials/reading-comprehension/`. The PDF filename, without its extension, becomes the button label; underscores and hyphens are shown as spaces.
+
+Looping soundtrack files work the same way: put MP3 files in `public/learning-materials/soundtrack-loop/`. Starting development or building the app creates their menu buttons automatically.
 
 ![Short War Stories menu](docs/short-war-stories-menu.png)
 

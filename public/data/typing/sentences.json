@@ -1,7 +1,7 @@
 [
   {
     "id": "A1-001",
-    "difficulty": "beginner",
+    "difficulty": "easy",
     "russian": "Утром Иван проверяет автомат, оружие и патроны. Потом он кладёт всё в машину и идёт к старому штабу у дороги.",
     "translations": {
       "fi": "Aamulla Ivan tarkistaa rynnäkkökiväärin, aseen ja patruunat. Sitten hän laittaa kaiken ajoneuvoon ja menee tien vieressä olevalle vanhalle esikunnalle.",
@@ -21,7 +21,7 @@
   },
   {
     "id": "A1-002",
-    "difficulty": "beginner",
+    "difficulty": "easy",
     "russian": "У дороги стоит старый танк. У танка есть башня и двигатель, но двигатель не работает, и танк не едет.",
     "translations": {
       "fi": "Tien vieressä seisoo vanha panssarivaunu. Panssarivaunussa on torni ja moottori, mutta moottori ei toimi eikä vaunu liiku.",
@@ -37,7 +37,7 @@
   },
   {
     "id": "A1-003",
-    "difficulty": "beginner",
+    "difficulty": "easy",
     "russian": "Наше отделение ждёт снабжения у штаба. Рядом стоят три солдата, пустая машина и ящик без боеприпасов.",
     "translations": {
       "fi": "Ryhmämme odottaa täydennystä esikunnan luona. Vieressä seisoo kolme sotilasta, tyhjä ajoneuvo ja laatikko ilman ampumatarvikkeita.",
@@ -56,7 +56,7 @@
   },
   {
     "id": "A1-004",
-    "difficulty": "beginner",
+    "difficulty": "easy",
     "russian": "Пётр стоит на холме и наблюдает лес, реку и мост. Иван смотрит направо, но видит только поле и грязную дорогу.",
     "translations": {
       "fi": "Pjotr seisoo kukkulalla ja tarkkailee metsää, jokea ja siltaa. Ivan katsoo oikealle, mutta näkee vain pellon ja mutaisen tien.",
@@ -76,7 +76,7 @@
   },
   {
     "id": "A1-005",
-    "difficulty": "beginner",
+    "difficulty": "easy",
     "russian": "Капитан даёт Ивану простое задание: проверить средства связи. Иван нажимает кнопку, но старое устройство молчит.",
     "translations": {
       "fi": "Kapteeni antaa Ivanille yksinkertaisen tehtävän: tarkistaa viestivälineet. Ivan painaa nappia, mutta vanha laite on hiljaa.",
@@ -93,7 +93,7 @@
   },
   {
     "id": "A2-001",
-    "difficulty": "intermediate",
+    "difficulty": "easy",
     "russian": "Утром Иван проверяет старый автомат и считает патроны. Потом он идёт к машине, но двигатель снова не работает.",
     "translations": {
       "fi": "Aamulla Ivan tarkistaa vanhan rynnäkkökiväärin ja laskee patruunat. Sitten hän menee ajoneuvolle, mutta moottori ei taaskaan toimi.",
@@ -111,7 +111,7 @@
   },
   {
     "id": "A2-002",
-    "difficulty": "intermediate",
+    "difficulty": "easy",
     "russian": "Капитан говорит, что рота готова, но Иван видит только отделение. Штаб молчит, а снабжение всё ещё идёт из тыла.",
     "translations": {
       "fi": "Kapteeni sanoo komppanian olevan valmis, mutta Ivan näkee vain ryhmän. Esikunta vaikenee, ja täydennys tulee yhä selustasta.",
@@ -128,7 +128,7 @@
   },
   {
     "id": "A2-003",
-    "difficulty": "intermediate",
+    "difficulty": "easy",
     "russian": "Перед нами река, лес и разрушенный мост. Алексей ищет дорогу, а Пётр показывает маленькую тропинку рядом с болотом.",
     "translations": {
       "fi": "Edessämme ovat joki, metsä ja tuhoutunut silta. Aleksei etsii tietä, ja Pjotr näyttää pienen polun suon vierestä.",
@@ -146,7 +146,7 @@
   },
   {
     "id": "A2-004",
-    "difficulty": "intermediate",
+    "difficulty": "easy",
     "russian": "Вечером солдаты идут к наблюдательному пункту на холме. Там нет средств связи, поэтому Пётр ведёт наблюдение сам.",
     "translations": {
       "fi": "Illalla sotilaat menevät kukkulalla olevalle tähystyspaikalle. Siellä ei ole viestivälineitä, joten Pjotr tähystää itse.",
@@ -164,7 +164,7 @@
   },
   {
     "id": "A2-005",
-    "difficulty": "intermediate",
+    "difficulty": "easy",
     "russian": "Майор ставит задачу проверить танк и бронированную машину. Башня не двигается, двигатель молчит, но в докладе всё работает.",
     "translations": {
       "fi": "Majuri antaa tehtäväksi tarkistaa panssarivaunun ja panssaroidun ajoneuvon. Torni ei liiku ja moottori on hiljaa, mutta raportissa kaikki toimii.",
@@ -184,7 +184,7 @@
   },
   {
     "id": "B1-001",
-    "difficulty": "advanced",
+    "difficulty": "harder",
     "russian": "Хотя приказ звучит уверенно, никто не понимает настоящую задачу подразделения. Иван замечает, что обстановка меняется быстрее, чем решения штаба.",
     "translations": {
       "fi": "Vaikka käsky kuulostaa varmalta, kukaan ei ymmärrä yksikön todellista tehtävää. Ivan huomaa tilanteen muuttuvan nopeammin kuin esikunnan päätökset.",
@@ -201,7 +201,7 @@
   },
   {
     "id": "B1-002",
-    "difficulty": "advanced",
+    "difficulty": "harder",
     "russian": "Когда связь исчезает, командир требует продолжать наблюдение и передавать точные сведения. Пётр спокойно отвечает, что без радио это невозможно.",
     "translations": {
       "fi": "Kun yhteys katoaa, komentaja vaatii jatkamaan tähystystä ja välittämään tarkkoja tietoja. Pjotr vastaa rauhallisesti, että ilman radiota se on mahdotonta.",
@@ -217,7 +217,7 @@
   },
   {
     "id": "B1-003",
-    "difficulty": "advanced",
+    "difficulty": "harder",
     "russian": "Капитан называет отступление организованным переходом на новый рубеж, чтобы доклад выглядел успешным. Иван понимает этот обман, но молчит.",
     "translations": {
       "fi": "Kapteeni kutsuu vetäytymistä järjestäytyneeksi siirtymiseksi uudelle linjalle, jotta raportti näyttäisi onnistuneelta. Ivan ymmärtää petoksen mutta vaikenee.",
@@ -234,7 +234,7 @@
   },
   {
     "id": "B1-004",
-    "difficulty": "advanced",
+    "difficulty": "harder",
     "russian": "Пётр оценивает позицию и замечает, что траншея разрушена, а наблюдательный пункт открыт для огня. Поэтому обороняться здесь опасно.",
     "translations": {
       "fi": "Pjotr arvioi asemaa ja huomaa taisteluhaudan olevan tuhoutunut ja tähystyspaikan olevan avoin tulelle. Siksi täällä puolustautuminen on vaarallista.",
@@ -252,7 +252,7 @@
   },
   {
     "id": "B1-005",
-    "difficulty": "advanced",
+    "difficulty": "harder",
     "russian": "Штаб сообщает, что наступление продолжается успешно, несмотря на потерянную технику и пустые склады. Иван понимает, что отчёты заменили реальность.",
     "translations": {
       "fi": "Esikunta ilmoittaa hyökkäyksen jatkuvan menestyksekkäästi kadonneesta kalustosta ja tyhjistä varastoista huolimatta. Ivan ymmärtää raporttien korvanneen todellisuuden.",
@@ -268,7 +268,7 @@
   },
   {
     "id": "B2-001",
-    "difficulty": "superhuman",
+    "difficulty": "harder",
     "russian": "Хотя майор сообщает, что батальон полностью готов к наступлению, Иван видит пустой ящик с боеприпасами и машину без двигателя. Он понимает, что доклад снова важнее реальности.",
     "translations": {
       "fi": "Vaikka majuri ilmoittaa pataljoonan olevan täysin valmis hyökkäykseen, Ivan näkee tyhjän ampumatarvikelaatikon ja ajoneuvon ilman moottoria. Hän ymmärtää, että raportti on jälleen todellisuutta tärkeämpi.",
@@ -286,7 +286,7 @@
   },
   {
     "id": "B2-002",
-    "difficulty": "superhuman",
+    "difficulty": "harder",
     "russian": "Когда подразделение выходит к реке, карта обещает мост, но впереди только холодная вода и минное поле. Пётр предлагает искать тропинку, потому что приказ уже потерял смысл.",
     "translations": {
       "fi": "Kun alayksikkö saapuu joelle, kartta lupaa sillan, mutta edessä on vain kylmää vettä ja miinakenttä. Pjotr ehdottaa polun etsimistä, koska käsky on jo menettänyt merkityksensä.",
@@ -304,7 +304,7 @@
   },
   {
     "id": "B2-003",
-    "difficulty": "superhuman",
+    "difficulty": "harder",
     "russian": "Штаб требует вести наблюдение, разведку и огонь одновременно, хотя средства связи не работают. Иван замечает, что командир оценивает обстановку только по старому докладу.",
     "translations": {
       "fi": "Esikunta vaatii suorittamaan tähystystä, tiedustelua ja tulenkäyttöä samanaikaisesti, vaikka viestivälineet eivät toimi. Ivan huomaa, että komentaja arvioi tilannetta vain vanhan raportin perusteella.",
@@ -324,7 +324,7 @@
   },
   {
     "id": "B2-004",
-    "difficulty": "superhuman",
+    "difficulty": "harder",
     "russian": "Капитан уверяет, что новая позиция укреплена, однако траншея разрушена, наблюдательный пункт пуст, а рядом находится болото. Даже Алексей понимает, что обороняться здесь невозможно.",
     "translations": {
       "fi": "Kapteeni vakuuttaa uuden aseman olevan linnoitettu, mutta taisteluhauta on tuhoutunut, tähystyspaikka on tyhjä ja vieressä on suo. Jopa Aleksei ymmärtää, ettei täällä voi puolustautua.",
@@ -343,7 +343,7 @@
   },
   {
     "id": "B2-005",
-    "difficulty": "superhuman",
+    "difficulty": "harder",
     "russian": "После неудачной атаки майор называет отход организованным переходом на новый рубеж. Иван слушает его и думает, что язык доклада умеет превращать поражение в успех.",
     "translations": {
       "fi": "Epäonnistuneen hyökkäyksen jälkeen majuri kutsuu vetäytymistä järjestäytyneeksi siirtymiseksi uudelle linjalle. Ivan kuuntelee häntä ja ajattelee, että raportin kieli osaa muuttaa tappion onnistumiseksi.",
@@ -358,6 +358,126 @@
       "поражение"
     ],
     "enabled": true
+  },
+  {
+    "id": "SVO-001",
+    "difficulty": "svo",
+    "russian": "Отступая, немецкие подразделения уничтожали мосты, минировали дороги и оставляли небольшие группы для задержки наступающих войск. Советским сапёрам приходилось быстро восстанавливать переправы, чтобы танки и артиллерия могли продолжать движение. Особенно важной задачей стало обеспечение наступающих частей топливом и боеприпасами, поскольку расстояние между передовыми подразделениями и складами постоянно увеличивалось.",
+    "translations": {
+      "fi": "Vetäytyessään saksalaiset joukot tuhosivat siltoja, miinoittivat teitä ja jättivät pieniä osastoja hidastamaan eteneviä joukkoja. Neuvostopioneerien oli nopeasti kunnostettava ylityspaikkoja, jotta panssarivaunut ja tykistö pystyivät jatkamaan etenemistä. Erityisen tärkeäksi tehtäväksi muodostui hyökkäävien joukkojen polttoaine- ja ampumatarvikehuollon turvaaminen, sillä etummaisten joukkojen ja varastojen välinen etäisyys kasvoi jatkuvasti.",
+      "en": "As they retreated, German units destroyed bridges, mined roads, and left small groups behind to delay the advancing forces. Soviet engineers had to quickly restore the crossings so that tanks and artillery could continue their advance. Ensuring the supply of fuel and ammunition to the advancing units became an especially important task, as the distance between the forward units and the supply depots continued to increase."
+    },
+    "vocabulary": [],
+    "enabled": true
+  },
+  {
+    "id": "SVO-002",
+    "difficulty": "svo",
+    "russian": "В начале сентября 1944 года советские войска продолжили наступление на западном направлении. Перед командованием фронта была поставлена задача прорвать подготовленную оборону противника, форсировать несколько рек и создать условия для дальнейшего продвижения основных сил.",
+    "translations": {
+      "fi": "Syyskuun 1944 alussa neuvostojoukot jatkoivat hyökkäystään länteen. Rintaman johdolle annettiin tehtäväksi murtaa vihollisen valmisteltu puolustus, ylittää useita jokia ja luoda edellytykset pääjoukkojen etenemisen jatkamiselle.",
+      "en": "At the beginning of September 1944, Soviet forces continued their offensive westward. The front command was tasked with breaking through the enemy’s prepared defenses, crossing several rivers, and creating conditions for the further advance of the main forces."
+    },
+    "vocabulary": [],
+    "enabled": true
+  },
+  {
+    "id": "SVO-003",
+    "difficulty": "svo",
+    "russian": "Немецкие части заранее оборудовали оборонительные позиции на господствующих высотах и подготовили населённые пункты к длительной обороне. Особое внимание противник уделял дорогам, мостам и переправам, которые имели большое значение для снабжения наступающих войск.",
+    "translations": {
+      "fi": "Saksalaiset joukot olivat etukäteen rakentaneet puolustusasemia hallitseville korkeuksille ja valmistelleet asutuskeskuksia pitkäaikaista puolustusta varten. Vihollinen kiinnitti erityistä huomiota teihin, siltoihin ja ylityspaikkoihin, joilla oli suuri merkitys hyökkäävien joukkojen huollolle.",
+      "en": "German units had prepared defensive positions in advance on commanding heights and fortified populated areas for prolonged defense. The enemy paid particular attention to roads, bridges, and crossing points, which were of great importance for supplying the advancing forces."
+    },
+    "vocabulary": [],
+    "enabled": true
+  },
+  {
+    "id": "SVO-004",
+    "difficulty": "svo",
+    "russian": "Перед началом операции советская разведка установила расположение основных огневых точек, артиллерийских позиций и резервов противника. На наиболее важных участках фронта были сосредоточены дополнительные артиллерийские подразделения и танковые части.",
+    "translations": {
+      "fi": "Ennen operaation alkua neuvostotiedustelu selvitti vihollisen tärkeimpien tuliasemien, tykistöasemien ja reservien sijainnin. Rintaman tärkeimmille alueille keskitettiin lisää tykistöjoukkoja ja panssarivaunuyksiköitä.",
+      "en": "Before the operation began, Soviet reconnaissance identified the locations of the enemy’s main firing positions, artillery positions, and reserves. Additional artillery units and tank formations were concentrated in the most important sectors of the front."
+    },
+    "vocabulary": [],
+    "enabled": true
+  },
+  {
+    "id": "SVO-005",
+    "difficulty": "svo",
+    "russian": "Утром после короткой артиллерийской подготовки передовые подразделения перешли в наступление. На некоторых направлениях им удалось быстро занять первую линию траншей, однако дальнейшее продвижение было остановлено сильным огнём немецкой артиллерии и пулемётов.",
+    "translations": {
+      "fi": "Aamulla lyhyen tykistövalmistelun jälkeen etummaiset joukot siirtyivät hyökkäykseen. Joillakin suunnilla ne onnistuivat nopeasti valtaamaan ensimmäisen juoksuhautalinjan, mutta eteneminen pysähtyi saksalaisen tykistön ja konekiväärien voimakkaaseen tuleen.",
+      "en": "In the morning, following a short artillery preparation, the forward units went on the offensive. In some sectors, they managed to seize the first line of trenches quickly, but further advance was halted by heavy German artillery and machine-gun fire."
+    },
+    "vocabulary": [],
+    "enabled": true
+  },
+  {
+    "id": "SVO-006",
+    "difficulty": "svo",
+    "russian": "Главной проблемой стала хорошо организованная система обороны. Противник использовал минные поля, противотанковые заграждения и заранее подготовленные запасные позиции.",
+    "translations": {
+      "fi": "Suurimmaksi ongelmaksi muodostui hyvin organisoitu puolustusjärjestelmä. Vihollinen käytti miinakenttiä, panssarintorjuntaesteitä ja etukäteen valmisteltuja vara-asemia.",
+      "en": "The main problem was the well-organized defensive system. The enemy used minefields, anti-tank obstacles, and previously prepared fallback positions."
+    },
+    "vocabulary": [],
+    "enabled": true
+  },
+  {
+    "id": "SVO-007",
+    "difficulty": "svo",
+    "russian": "После потери первой полосы обороны немецкие подразделения отходили на следующий рубеж и продолжали сопротивление. Несколько попыток советских войск прорвать оборону на главном направлении не дали ожидаемого результата.",
+    "translations": {
+      "fi": "Menetettyään ensimmäisen puolustusvyöhykkeen saksalaiset joukot vetäytyivät seuraavalle puolustuslinjalle ja jatkoivat vastarintaa. Neuvostojoukkojen useat yritykset murtaa puolustus päähyökkäyssuunnassa eivät tuottaneet odotettua tulosta.",
+      "en": "After losing the first defensive belt, German units withdrew to the next defensive line and continued to resist. Several attempts by Soviet forces to break through the defenses along the main axis failed to achieve the expected result."
+    },
+    "vocabulary": [],
+    "enabled": true
+  },
+  {
+    "id": "SVO-008",
+    "difficulty": "svo",
+    "russian": "Наступление замедлилось, а отдельные подразделения понесли значительные потери. Командование решило изменить первоначальный план операции.",
+    "translations": {
+      "fi": "Hyökkäys hidastui, ja osa joukoista kärsi huomattavia tappioita. Johto päätti muuttaa operaation alkuperäistä suunnitelmaa.",
+      "en": "The offensive slowed, and some units suffered significant losses. The command decided to change the original operational plan."
+    },
+    "vocabulary": [],
+    "enabled": true
+  },
+  {
+    "id": "SVO-009",
+    "difficulty": "svo",
+    "russian": "Вместо продолжения атак на наиболее укреплённом участке часть сил была скрытно переброшена на правый фланг. Там оборона противника была слабее, поскольку немецкое командование считало этот район малопригодным для действий крупных механизированных соединений.",
+    "translations": {
+      "fi": "Sen sijaan, että hyökkäyksiä olisi jatkettu kaikkein vahvimmin linnoitetulla alueella, osa joukoista siirrettiin salassa oikealle sivustalle. Siellä vihollisen puolustus oli heikompi, sillä Saksan johto piti aluetta huonosti soveltuvana suurten mekanisoitujen joukkojen toimintaan.",
+      "en": "Instead of continuing the attacks against the most heavily fortified sector, part of the forces was secretly redeployed to the right flank. Enemy defenses there were weaker because the German command considered the area poorly suited for the operations of large mechanized formations."
+    },
+    "vocabulary": [],
+    "enabled": true
+  },
+  {
+    "id": "SVO-010",
+    "difficulty": "svo",
+    "russian": "Ночью сапёрные подразделения подготовили проходы в минных полях и оборудовали несколько переправ через небольшую реку. На рассвете пехота при поддержке танков нанесла внезапный удар.",
+    "translations": {
+      "fi": "Yön aikana pioneerijoukot raivasivat kulkureittejä miinakenttien läpi ja rakensivat useita ylityspaikkoja pienen joen yli. Aamunkoitteessa jalkaväki aloitti panssarivaunujen tukemana yllätyshyökkäyksen.",
+      "en": "During the night, engineer units cleared passages through the minefields and established several crossings over a small river. At dawn, the infantry, supported by tanks, launched a surprise attack."
+    },
+    "vocabulary": [],
+    "enabled": true
+  },
+  {
+    "id": "SVO-011",
+    "difficulty": "svo",
+    "russian": "Передовые подразделения быстро прорвали первую линию обороны и начали продвигаться в глубину немецких позиций. Уже к вечеру советские части захватили несколько важных перекрёстков и перерезали одну из основных дорог, по которой противник доставлял боеприпасы и подкрепления.",
+    "translations": {
+      "fi": "Etummaiset joukot murtautuivat nopeasti ensimmäisen puolustuslinjan läpi ja alkoivat edetä syvemmälle saksalaisten asemiin. Jo iltaan mennessä neuvostojoukot olivat vallanneet useita tärkeitä tienristeyksiä ja katkaisseet yhden pääteistä, jota pitkin vihollinen kuljetti ammuksia ja vahvistuksia.",
+      "en": "The forward units quickly broke through the first defensive line and began advancing deep into the German positions. By evening, Soviet troops had captured several important crossroads and cut one of the main roads used by the enemy to transport ammunition and reinforcements."
+    },
+    "vocabulary": [],
+    "enabled": true
   }
-  
 ]

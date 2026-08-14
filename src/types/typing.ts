@@ -1,4 +1,4 @@
-export type TypingDifficulty = 'beginner' | 'intermediate' | 'advanced' | 'superhuman'
+export type TypingDifficulty = 'easy' | 'harder' | 'svo'
 
 export interface TypingSentence {
   id: string

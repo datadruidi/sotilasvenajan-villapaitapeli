@@ -1,8 +1,8 @@
 import type { TypingDifficulty, TypingSentence } from '../types/typing'
 
-const DIFFICULTIES: TypingDifficulty[] = ['beginner', 'intermediate', 'advanced', 'superhuman']
+const DIFFICULTIES: TypingDifficulty[] = ['easy', 'harder', 'svo']
 const LENGTHS: Record<TypingDifficulty, [number, number]> = {
-  beginner: [30, 120], intermediate: [30, 220], advanced: [30, 160], superhuman: [30, 220],
+  easy: [30, 220], harder: [30, 220], svo: [1, 500],
 }
 const LATIN_LOOKALIKE = /[ABCEHKMOPTXYacekmoptyx]/
 const hasUnsupportedControl = (text: string) => Array.from(text).some((character) => {

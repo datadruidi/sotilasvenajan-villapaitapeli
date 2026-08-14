@@ -13,6 +13,7 @@ const UPDATES_URL = `${SETTINGS_PAGES_BASE_URL}UPDATES.md`
 const SOUNDTRACK_URL = `${SETTINGS_PAGES_BASE_URL}soundtrack.md`
 const SHORT_WAR_STORIES_BASE_URL = `${import.meta.env.BASE_URL}short-war-stories/`
 const SHORT_WAR_STORIES_AUDIO_BASE_URL = `${SHORT_WAR_STORIES_BASE_URL}audio/`
+const LEARNING_MATERIALS_BASE_URL = `${import.meta.env.BASE_URL}learning-materials/`
 const GITHUB_URL = 'https://github.com/datadruidi/sotilasvenajan-villapaitapeli'
 const YOUTUBE_URL = 'https://www.youtube.com/@Duoloops'
 const GOOGLE_PLAY_URL = 'https://play.google.com/store/apps/details?id=com.sotilasvenajan.villapaitapeli&hl=en_NZ'
@@ -44,6 +45,29 @@ type StoryPage =
   | 'short-story-equipment-and-platforms'
   | 'short-story-organization-structure'
   | 'short-story-ivan-in-ukraine-full'
+
+type PdfCategory = 'fill-the-blank' | 'reading-comprehension'
+
+type LearningMediaManifest = Record<PdfCategory | 'soundtrack-loop', string[]>
+
+const EMPTY_MEDIA_MANIFEST: LearningMediaManifest = {
+  'fill-the-blank': [],
+  'reading-comprehension': [],
+  'soundtrack-loop': [],
+}
+
+const PDF_CATEGORY_LABELS: Record<PdfCategory, { fi: string; en: string }> = {
+  'fill-the-blank': { fi: 'Täydennä aukot', en: 'Fill the Blank' },
+  'reading-comprehension': { fi: 'Lukuharjoitus', en: 'Reading Comprehension' },
+}
+
+function pdfButtonLabel(fileName: string) {
+  return fileName
+    .replace(/\.pdf$/i, '')
+    .replace(/[_-]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
 
 const EQUIPMENT_CATALOG_OPTIONS = [
   {
@@ -239,6 +263,15 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
   const [isEquipmentMenuOpen, setIsEquipmentMenuOpen] = useState(false)
   const [isSourcesMenuOpen, setIsSourcesMenuOpen] = useState(false)
   const [isShortStoriesMenuOpen, setIsShortStoriesMenuOpen] = useState(false)
+  const [isLearningMenuOpen, setIsLearningMenuOpen] = useState(false)
+  const [isListenMenuOpen, setIsListenMenuOpen] = useState(false)
+  const [isReadMenuOpen, setIsReadMenuOpen] = useState(false)
+  const [isSoundtrackMenuOpen, setIsSoundtrackMenuOpen] = useState(false)
+  const [pdfCategory, setPdfCategory] = useState<PdfCategory | null>(null)
+  const [mediaManifest, setMediaManifest] = useState<LearningMediaManifest>(EMPTY_MEDIA_MANIFEST)
+  const [selectedPdf, setSelectedPdf] = useState<{ category: PdfCategory; file: string } | null>(null)
+  const [loopTrack, setLoopTrack] = useState<string | null>(null)
+  const [isLoopTrackPlaying, setIsLoopTrackPlaying] = useState(false)
   const [pageContent, setPageContent] = useState<string | null>(null)
   const [pageError, setPageError] = useState<string | null>(null)
   const [isStoryAudioPlaying, setIsStoryAudioPlaying] = useState(false)
@@ -246,6 +279,18 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
   const [storyAudioDuration, setStoryAudioDuration] = useState(0)
   const introAudioRef = useRef<HTMLAudioElement | null>(null)
   const storyAudioRef = useRef<HTMLAudioElement | null>(null)
+  const loopAudioRef = useRef<HTMLAudioElement | null>(null)
+
+  useEffect(() => {
+    fetch(`${LEARNING_MATERIALS_BASE_URL}manifest.json?t=${Date.now()}`, { cache: 'no-store' })
+      .then((response) => response.ok ? response.json() : Promise.reject(new Error('Could not load PDF list')))
+      .then((manifest: Partial<LearningMediaManifest>) => setMediaManifest({
+        'fill-the-blank': manifest['fill-the-blank'] ?? [],
+        'reading-comprehension': manifest['reading-comprehension'] ?? [],
+        'soundtrack-loop': manifest['soundtrack-loop'] ?? [],
+      }))
+      .catch(() => setMediaManifest(EMPTY_MEDIA_MANIFEST))
+  }, [])
 
   const equipmentCatalogPage = EQUIPMENT_CATALOG_OPTIONS.find((option) => option.id === infoPage)
   const sourcesPage = SOURCES_OPTIONS.find((option) => option.id === infoPage)
@@ -327,6 +372,8 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
         storyAudioRef.current.currentTime = 0
         storyAudioRef.current = null
       }
+      loopAudioRef.current?.pause()
+      loopAudioRef.current = null
     }
   }, [])
 
@@ -336,6 +383,11 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
     setIsEquipmentMenuOpen(false)
     setIsSourcesMenuOpen(false)
     setIsShortStoriesMenuOpen(false)
+    setIsLearningMenuOpen(false)
+    setIsListenMenuOpen(false)
+    setIsReadMenuOpen(false)
+    setIsSoundtrackMenuOpen(false)
+    setPdfCategory(null)
     setInfoPage(page)
   }
 
@@ -346,7 +398,81 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
 
   const openShortStoriesMenu = () => {
     playButtonClick(muted)
+    setIsLearningMenuOpen(false)
+    setIsListenMenuOpen(false)
     setIsShortStoriesMenuOpen(true)
+  }
+
+  const openLearningMenu = () => {
+    playButtonClick(muted)
+    setIsLearningMenuOpen(true)
+  }
+
+  const openListenMenu = () => {
+    playButtonClick(muted)
+    setIsLearningMenuOpen(false)
+    setIsListenMenuOpen(true)
+  }
+
+  const openReadMenu = () => {
+    playButtonClick(muted)
+    setIsLearningMenuOpen(false)
+    setIsReadMenuOpen(true)
+  }
+
+  const openSoundtrackMenu = () => {
+    playButtonClick(muted)
+    setIsListenMenuOpen(false)
+    setIsSoundtrackMenuOpen(true)
+  }
+
+  const startLoopTrack = (file: string) => {
+    playButtonClick(muted)
+    loopAudioRef.current?.pause()
+    const audio = new Audio(`${LEARNING_MATERIALS_BASE_URL}soundtrack-loop/${encodeURIComponent(file)}`)
+    audio.loop = true
+    audio.currentTime = 0
+    loopAudioRef.current = audio
+    setLoopTrack(file)
+    void audio.play()
+      .then(() => setIsLoopTrackPlaying(true))
+      .catch(() => setIsLoopTrackPlaying(false))
+  }
+
+  const toggleLoopTrack = () => {
+    const audio = loopAudioRef.current
+    if (!audio) return
+    playButtonClick(muted)
+    if (audio.paused) {
+      void audio.play()
+        .then(() => setIsLoopTrackPlaying(true))
+        .catch(() => setIsLoopTrackPlaying(false))
+    } else {
+      audio.pause()
+      setIsLoopTrackPlaying(false)
+    }
+  }
+
+  const stopLoopTrack = () => {
+    playButtonClick(muted)
+    const audio = loopAudioRef.current
+    if (!audio) return
+    audio.pause()
+    audio.currentTime = 0
+    setIsLoopTrackPlaying(false)
+  }
+
+  const openPdfCategory = (category: PdfCategory) => {
+    playButtonClick(muted)
+    setIsLearningMenuOpen(false)
+    setIsReadMenuOpen(false)
+    setPdfCategory(category)
+  }
+
+  const openPdf = (category: PdfCategory, file: string) => {
+    playButtonClick(muted)
+    setPdfCategory(null)
+    setSelectedPdf({ category, file })
   }
 
   const openGithub = () => {
@@ -399,6 +525,35 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
     setIsShortStoriesMenuOpen(false)
   }
 
+  const closeLearningMenu = () => {
+    playButtonClick(muted)
+    setIsLearningMenuOpen(false)
+  }
+
+  const closeListenMenu = () => {
+    playButtonClick(muted)
+    setIsListenMenuOpen(false)
+  }
+
+  const closeReadMenu = () => {
+    playButtonClick(muted)
+    setIsReadMenuOpen(false)
+  }
+
+  const closeSoundtrackMenu = () => {
+    playButtonClick(muted)
+    loopAudioRef.current?.pause()
+    loopAudioRef.current = null
+    setLoopTrack(null)
+    setIsLoopTrackPlaying(false)
+    setIsSoundtrackMenuOpen(false)
+  }
+
+  const closePdfCategory = () => {
+    playButtonClick(muted)
+    setPdfCategory(null)
+  }
+
   const toggleStoryAudio = () => {
     if (!storyAudioUrl) return
     let audio = storyAudioRef.current
@@ -438,6 +593,8 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
       storyAudioRef.current = createdAudio
       audio = createdAudio
     }
+    // Resetting media playback is an intentional DOM mutation.
+    // eslint-disable-next-line react-hooks/immutability
     audio.currentTime = 0
     setStoryAudioCurrentTime(0)
     audio.play()
@@ -474,6 +631,27 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
       audio.volume = 0.7
       audio.play().catch(() => {})
     }
+  }
+
+  if (selectedPdf != null) {
+    const pdfUrl = `${LEARNING_MATERIALS_BASE_URL}${selectedPdf.category}/${encodeURIComponent(selectedPdf.file)}`
+    return (
+      <div className="splash-screen splash-screen--info">
+        <div className="splash-info-page splash-pdf-page">
+          <div className="splash-info-header">
+            <button type="button" className="splash-info-back" onClick={() => {
+              setPdfCategory(selectedPdf.category)
+              setSelectedPdf(null)
+            }} aria-label={isEnglish ? 'Back to materials' : 'Takaisin aineistoihin'}>
+              ←
+            </button>
+            <h1 className="splash-info-page-title">{pdfButtonLabel(selectedPdf.file)}</h1>
+            <span className="splash-info-header-spacer" aria-hidden="true" />
+          </div>
+          <iframe className="splash-pdf-viewer" src={pdfUrl} title={pdfButtonLabel(selectedPdf.file)} />
+        </div>
+      </div>
+    )
   }
 
   if (infoPage != null) {
@@ -583,7 +761,7 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
             <span className="splash-new-label">{isEnglish ? 'NEW!' : 'UUSI!'}</span>
             {isEnglish ? 'Play Tank Racer' : 'Pelaa tankkirallia'}
           </button>
-          <button type="button" className="splash-info-btn splash-primary-btn" onClick={openShortStoriesMenu}>
+          <button type="button" className="splash-info-btn splash-primary-btn" onClick={openLearningMenu}>
             {isEnglish ? 'Short War Stories' : 'Lyhyit\u00E4 sotatarinoita'}
           </button>
           <button type="button" className="splash-info-btn splash-primary-btn" onClick={onOpenDailyBrief}>
@@ -716,6 +894,114 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
                     {isEnglish ? `${option.labelEn} (Coming Soon)` : `${option.labelFi} (Tulossa)`}
                   </button>
                 ))}
+              </div>
+            </div>
+          </div>
+        )}
+        {isLearningMenuOpen && (
+          <div className="splash-menu-overlay" role="dialog" aria-modal="true" aria-label={isEnglish ? 'Short War Stories and exercises' : 'Lyhyitä sotatarinoita ja harjoituksia'}>
+            <button type="button" className="splash-menu-backdrop" onClick={closeLearningMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'} />
+            <div className="splash-menu-card splash-menu-card-wide">
+              <div className="splash-menu-header">
+                <h2 className="splash-menu-title">{isEnglish ? 'Short War Stories' : 'Lyhyitä sotatarinoita'}</h2>
+                <button type="button" className="splash-menu-close" onClick={closeLearningMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'}>×</button>
+              </div>
+              <div className="splash-menu-buttons">
+                <button type="button" className="splash-info-btn splash-info-btn-full-story" onClick={openListenMenu}>
+                  {isEnglish ? 'Listen' : 'Kuuntele'}
+                </button>
+                <button type="button" className="splash-info-btn" onClick={openReadMenu}>
+                  {isEnglish ? 'Read' : 'Lue'}
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+        {isListenMenuOpen && (
+          <div className="splash-menu-overlay" role="dialog" aria-modal="true" aria-label={isEnglish ? 'Listen' : 'Kuuntele'}>
+            <button type="button" className="splash-menu-backdrop" onClick={closeListenMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'} />
+            <div className="splash-menu-card splash-menu-card-wide">
+              <div className="splash-menu-header">
+                <h2 className="splash-menu-title">{isEnglish ? 'Listen' : 'Kuuntele'}</h2>
+                <button type="button" className="splash-menu-close" onClick={closeListenMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'}>×</button>
+              </div>
+              <div className="splash-menu-buttons">
+                <button type="button" className="splash-info-btn splash-info-btn-full-story" onClick={openShortStoriesMenu}>Ivan in Ukraine</button>
+                <button type="button" className="splash-info-btn" onClick={openSoundtrackMenu}>
+                  {isEnglish ? 'Soundtrack Loop' : 'Tartu mikkiin'}
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+        {isReadMenuOpen && (
+          <div className="splash-menu-overlay" role="dialog" aria-modal="true" aria-label={isEnglish ? 'Read' : 'Lue'}>
+            <button type="button" className="splash-menu-backdrop" onClick={closeReadMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'} />
+            <div className="splash-menu-card splash-menu-card-wide">
+              <div className="splash-menu-header">
+                <h2 className="splash-menu-title">{isEnglish ? 'Read' : 'Lue'}</h2>
+                <button type="button" className="splash-menu-close" onClick={closeReadMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'}>×</button>
+              </div>
+              <div className="splash-menu-buttons">
+                <button type="button" className="splash-info-btn" onClick={() => openPdfCategory('fill-the-blank')}>
+                  {isEnglish ? PDF_CATEGORY_LABELS['fill-the-blank'].en : PDF_CATEGORY_LABELS['fill-the-blank'].fi}
+                </button>
+                <button type="button" className="splash-info-btn" onClick={() => openPdfCategory('reading-comprehension')}>
+                  {isEnglish ? PDF_CATEGORY_LABELS['reading-comprehension'].en : PDF_CATEGORY_LABELS['reading-comprehension'].fi}
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+        {isSoundtrackMenuOpen && (
+          <div className="splash-menu-overlay" role="dialog" aria-modal="true" aria-label={isEnglish ? 'Soundtrack Loop' : 'Tartu mikkiin'}>
+            <button type="button" className="splash-menu-backdrop" onClick={closeSoundtrackMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'} />
+            <div className="splash-menu-card splash-menu-card-wide">
+              <div className="splash-menu-header">
+                <h2 className="splash-menu-title">{isEnglish ? 'Soundtrack Loop' : 'Tartu mikkiin'}</h2>
+                <button type="button" className="splash-menu-close" onClick={closeSoundtrackMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'}>×</button>
+              </div>
+              <div className="splash-menu-buttons splash-pdf-list">
+                {mediaManifest['soundtrack-loop'].length > 0 ? mediaManifest['soundtrack-loop'].map((file) => (
+                  <button key={file} type="button" className={`splash-info-btn${loopTrack === file ? ' splash-loop-track-active' : ''}`} onClick={() => startLoopTrack(file)}>
+                    {pdfButtonLabel(file)}
+                  </button>
+                )) : (
+                  <p className="splash-menu-empty">{isEnglish ? 'No MP3 files yet.' : 'Ei vielä MP3-tiedostoja.'}</p>
+                )}
+              </div>
+              {loopTrack && (
+                <div className="splash-loop-player" aria-label={isEnglish ? 'Soundtrack controls' : 'Ääniraidan ohjaimet'}>
+                  <span title={pdfButtonLabel(loopTrack)}>{pdfButtonLabel(loopTrack)}</span>
+                  <div>
+                    <button type="button" className="short-story-audio-btn" onClick={toggleLoopTrack}>
+                      {isLoopTrackPlaying ? (isEnglish ? 'Pause' : 'Tauko') : (isEnglish ? 'Play' : 'Toista')}
+                    </button>
+                    <button type="button" className="short-story-audio-btn short-story-audio-btn-secondary" onClick={stopLoopTrack}>
+                      {isEnglish ? 'Stop' : 'Pysäytä'}
+                    </button>
+                  </div>
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+        {pdfCategory && (
+          <div className="splash-menu-overlay" role="dialog" aria-modal="true" aria-label={isEnglish ? PDF_CATEGORY_LABELS[pdfCategory].en : PDF_CATEGORY_LABELS[pdfCategory].fi}>
+            <button type="button" className="splash-menu-backdrop" onClick={closePdfCategory} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'} />
+            <div className="splash-menu-card splash-menu-card-wide">
+              <div className="splash-menu-header">
+                <h2 className="splash-menu-title">{isEnglish ? PDF_CATEGORY_LABELS[pdfCategory].en : PDF_CATEGORY_LABELS[pdfCategory].fi}</h2>
+                <button type="button" className="splash-menu-close" onClick={closePdfCategory} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'}>×</button>
+              </div>
+              <div className="splash-menu-buttons splash-pdf-list">
+                {mediaManifest[pdfCategory].length > 0 ? mediaManifest[pdfCategory].map((file) => (
+                  <button key={file} type="button" className="splash-info-btn" onClick={() => openPdf(pdfCategory, file)}>
+                    {pdfButtonLabel(file)}
+                  </button>
+                )) : (
+                  <p className="splash-menu-empty">{isEnglish ? 'No PDF documents yet.' : 'Ei vielä PDF-tiedostoja.'}</p>
+                )}
               </div>
             </div>
           </div>

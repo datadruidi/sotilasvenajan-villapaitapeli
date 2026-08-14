@@ -439,6 +439,54 @@
   gap: 0.45rem;
 }
 
+.splash-pdf-list {
+  max-height: min(60dvh, 30rem);
+  overflow-y: auto;
+}
+
+.splash-menu-empty {
+  margin: 0.5rem 0;
+  color: #475569;
+  text-align: center;
+}
+
+.splash-loop-track-active {
+  border-color: #15803d;
+  background: #dcfce7;
+}
+
+.splash-loop-player {
+  display: grid;
+  gap: 0.55rem;
+  margin-top: 0.8rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid #94a3b8;
+}
+
+.splash-loop-player > span {
+  overflow: hidden;
+  color: #002f6c;
+  font-weight: 700;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.splash-loop-player > div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.55rem;
+}
+
+.splash-pdf-viewer {
+  width: 100%;
+  min-height: 0;
+  flex: 1;
+  border: 1px solid #94a3b8;
+  border-radius: 0.4rem;
+  background: #fff;
+}
+
 .splash-info-page {
   width: 100%;
   max-width: 520px;
@@ -473,6 +521,32 @@
   .splash-info-page {
     height: min(90dvh, 820px);
     border-radius: 0.75rem;
+  }
+}
+
+/* The document reader uses the whole viewport on both desktop and mobile. */
+.splash-info-page.splash-pdf-page {
+  width: 100vw;
+  max-width: none;
+  height: 100dvh;
+  max-height: 100dvh;
+  padding: max(0.5rem, env(safe-area-inset-top, 0px))
+    max(0.5rem, env(safe-area-inset-right, 0px))
+    max(0.5rem, env(safe-area-inset-bottom, 0px))
+    max(0.5rem, env(safe-area-inset-left, 0px));
+  border-radius: 0;
+}
+
+.splash-pdf-page .splash-info-header {
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 600px) {
+  .splash-pdf-page .splash-info-page-title {
+    font-size: 1rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 }
 

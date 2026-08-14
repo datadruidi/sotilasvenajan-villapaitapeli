@@ -11,15 +11,16 @@ import './CyrillicTypingGameView.css'
 
 type GameState = 'difficulty-selection' | 'ready' | 'running' | 'cancelled' | 'finishing' | 'finished'
 const EMPTY_STATS: TypingAttemptStats = { totalCharacterAttempts: 0, correctCharacterAttempts: 0, incorrectCharacterAttempts: 0 }
-const DIFFICULTIES: TypingDifficulty[] = ['beginner', 'intermediate', 'advanced', 'superhuman']
+const DIFFICULTIES: TypingDifficulty[] = ['easy', 'harder', 'svo']
 const TANK_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/tankracer.png`
 const MINE_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/mine.png`
 const FLAG_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/flag.png`
 const DESTROYED_TANK_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/explosion.png`
 const BACKGROUND_MUSIC_URL = `${import.meta.env.BASE_URL}tiedot-ja-asetukset/audio/background.mp3`
 const LABELS: Record<TypingDifficulty, { fi: string; en: string }> = {
-  beginner: { fi: 'Taso A1', en: 'Level A1' }, intermediate: { fi: 'Taso A2', en: 'Level A2' },
-  advanced: { fi: 'Taso B1', en: 'Level B1' }, superhuman: { fi: 'Taso B2', en: 'Level B2' },
+  easy: { fi: 'Helppo', en: 'Easy' },
+  harder: { fi: 'Vaikeampi', en: 'Harder' },
+  svo: { fi: 'SVO', en: 'SVO' },
 }
 
 interface Props { appLanguage: AppLanguage; muted: boolean; onToggleMute: () => void; onBack: () => void }
