@@ -362,10 +362,10 @@
   {
     "id": "SVO-001",
     "difficulty": "svo",
-    "russian": "Отступая, немецкие подразделения уничтожали мосты, минировали дороги и оставляли небольшие группы для задержки наступающих войск. Советским сапёрам приходилось быстро восстанавливать переправы, чтобы танки и артиллерия могли продолжать движение. Особенно важной задачей стало обеспечение наступающих частей топливом и боеприпасами, поскольку расстояние между передовыми подразделениями и складами постоянно увеличивалось.",
+    "russian": "Утром подполковник провёл постановку задачи для усиленного артиллерийского дивизиона и пехотного взвода. Командир был требовательным, но говорил меньше обычного, потому что над берегом стоял густой туман. По данным Службы Внешней Разведки, противник готовил оборону у крутого берега и усиливал батарею береговой артиллерии.",
     "translations": {
-      "fi": "Vetäytyessään saksalaiset joukot tuhosivat siltoja, miinoittivat teitä ja jättivät pieniä osastoja hidastamaan eteneviä joukkoja. Neuvostopioneerien oli nopeasti kunnostettava ylityspaikkoja, jotta panssarivaunut ja tykistö pystyivät jatkamaan etenemistä. Erityisen tärkeäksi tehtäväksi muodostui hyökkäävien joukkojen polttoaine- ja ampumatarvikehuollon turvaaminen, sillä etummaisten joukkojen ja varastojen välinen etäisyys kasvoi jatkuvasti.",
-      "en": "As they retreated, German units destroyed bridges, mined roads, and left small groups behind to delay the advancing forces. Soviet engineers had to quickly restore the crossings so that tanks and artillery could continue their advance. Ensuring the supply of fuel and ammunition to the advancing units became an especially important task, as the distance between the forward units and the supply depots continued to increase."
+      "fi": "Aamulla everstiluutnantti piti tehtävänannon vahvennetulle tykistöpatteristolle ja jalkaväen joukkueelle. Komentaja oli vaativa, mutta puhui tavallista vähemmän, koska rannikon yllä oli tiheä sumu. Ulkomaan tiedustelupalvelun tietojen mukaan vihollinen valmisteli puolustusta jyrkän rannan luona ja vahvisti rannikkotykistön patteria.",
+      "en": "In the morning, the lieutenant colonel conducted a mission briefing for the reinforced artillery battalion and an infantry platoon. The commander was demanding, but spoke less than usual because a thick fog hung over the coast. According to the Foreign Intelligence Service, the enemy was preparing defences near the steep shore and reinforcing a coastal artillery battery."
     },
     "vocabulary": [],
     "enabled": true
@@ -373,10 +373,10 @@
   {
     "id": "SVO-002",
     "difficulty": "svo",
-    "russian": "В начале сентября 1944 года советские войска продолжили наступление на западном направлении. Перед командованием фронта была поставлена задача прорвать подготовленную оборону противника, форсировать несколько рек и создать условия для дальнейшего продвижения основных сил.",
+    "russian": "Перед выходом капитан 3-го ранга провёл осмотр снаряжения связистов и спасательной команды. Связист, лёжа за кирпичной стеной, проверил радиостанцию и доложил о готовности подразделения. Через несколько минут самолёты начали вылетать с ближайшего аэродрома, а дивизион открыл огонь.",
     "translations": {
-      "fi": "Syyskuun 1944 alussa neuvostojoukot jatkoivat hyökkäystään länteen. Rintaman johdolle annettiin tehtäväksi murtaa vihollisen valmisteltu puolustus, ylittää useita jokia ja luoda edellytykset pääjoukkojen etenemisen jatkamiselle.",
-      "en": "At the beginning of September 1944, Soviet forces continued their offensive westward. The front command was tasked with breaking through the enemy’s prepared defenses, crossing several rivers, and creating conditions for the further advance of the main forces."
+      "fi": "Ennen lähtöä komentajakapteeni suoritti viestimiesten ja pelastusryhmän varusteiden tarkastuksen. Viestimies, maaten tiiliseinän takana, tarkisti radioaseman ja ilmoitti yksikön olevan valmis. Muutaman minuutin kuluttua lentokoneet alkoivat nousta lentoon läheiseltä lentokentältä, ja patteristo avasi tulen.",
+      "en": "Before departure, the Captain 3rd Rank carried out an inspection of the equipment of the signallers and the rescue team. A signaller, lying behind a brick wall, checked the radio set and reported that the unit was ready. A few minutes later, aircraft began to take off from the nearest airfield, and the artillery battalion opened fire."
     },
     "vocabulary": [],
     "enabled": true
@@ -384,10 +384,10 @@
   {
     "id": "SVO-003",
     "difficulty": "svo",
-    "russian": "Немецкие части заранее оборудовали оборонительные позиции на господствующих высотах и подготовили населённые пункты к длительной обороне. Особое внимание противник уделял дорогам, мостам и переправам, которые имели большое значение для снабжения наступающих войск.",
+    "russian": "Артиллеристы начали обстреливать позиции противника, чтобы облегчить захват высоты. Пехотинцы двинулись вперёд, но противник беспорядочно открыл огонь из станкового пулемёта. Один мужественный пехотинец сумел добраться до укрытия и передать координаты вражеской батареи.",
     "translations": {
-      "fi": "Saksalaiset joukot olivat etukäteen rakentaneet puolustusasemia hallitseville korkeuksille ja valmistelleet asutuskeskuksia pitkäaikaista puolustusta varten. Vihollinen kiinnitti erityistä huomiota teihin, siltoihin ja ylityspaikkoihin, joilla oli suuri merkitys hyökkäävien joukkojen huollolle.",
-      "en": "German units had prepared defensive positions in advance on commanding heights and fortified populated areas for prolonged defense. The enemy paid particular attention to roads, bridges, and crossing points, which were of great importance for supplying the advancing forces."
+      "fi": "Tykistömiehet alkoivat tulittaa vihollisen asemia helpottaakseen kukkulan valtausta. Jalkaväkisotilaat etenivät eteenpäin, mutta vihollinen avasi sekavasti tulen jalustakonekiväärillä. Yksi urhoollinen jalkaväkisotilas onnistui pääsemään suojaan ja välittämään vihollisen patterin koordinaatit.",
+      "en": "The artillerymen began to shell the enemy positions in order to facilitate the capture of the high ground. The infantrymen moved forward, but the enemy disorderly opened fire with a mounted machine gun. One courageous infantryman managed to reach cover and transmit the coordinates of the enemy battery."
     },
     "vocabulary": [],
     "enabled": true
@@ -395,10 +395,10 @@
   {
     "id": "SVO-004",
     "difficulty": "svo",
-    "russian": "Перед началом операции советская разведка установила расположение основных огневых точек, артиллерийских позиций и резервов противника. На наиболее важных участках фронта были сосредоточены дополнительные артиллерийские подразделения и танковые части.",
+    "russian": "После этого орудия открыли огонь прямой наводкой, и оборона противника начала разрушаться. На левом фланге взвод совершил прорыв и начал овладевать первой линией окопов. В этот момент к позициям вышел перебежчик, который сообщил о слабом участке обороны.",
     "translations": {
-      "fi": "Ennen operaation alkua neuvostotiedustelu selvitti vihollisen tärkeimpien tuliasemien, tykistöasemien ja reservien sijainnin. Rintaman tärkeimmille alueille keskitettiin lisää tykistöjoukkoja ja panssarivaunuyksiköitä.",
-      "en": "Before the operation began, Soviet reconnaissance identified the locations of the enemy’s main firing positions, artillery positions, and reserves. Additional artillery units and tank formations were concentrated in the most important sectors of the front."
+      "fi": "Tämän jälkeen tykit avasivat tulen suorasuuntauksella, ja vihollisen puolustus alkoi murtua. Vasemmalla sivustalla joukkue teki läpimurron ja alkoi ottaa haltuunsa ensimmäistä juoksuhautalinjaa. Tällä hetkellä asemille saapui loikkari, joka ilmoitti puolustuksen heikosta kohdasta.",
+      "en": "After this, the guns opened fire using direct fire, and the enemy's defence began to collapse. On the left flank, the platoon made a breakthrough and began to seize the first line of trenches. At that moment, a defector came out to the positions and reported a weak sector of the defence."
     },
     "vocabulary": [],
     "enabled": true
@@ -406,10 +406,10 @@
   {
     "id": "SVO-005",
     "difficulty": "svo",
-    "russian": "Утром после короткой артиллерийской подготовки передовые подразделения перешли в наступление. На некоторых направлениях им удалось быстро занять первую линию траншей, однако дальнейшее продвижение было остановлено сильным огнём немецкой артиллерии и пулемётов.",
+    "russian": "Командование решило придать взводу дополнительное отделение и набор сапёрного оборудования. Несмотря на обстрел, спасательная команда продолжала работу под надзором офицера. Каждый род войск получил собственную задачу, а дивизия продолжила наступление.",
     "translations": {
-      "fi": "Aamulla lyhyen tykistövalmistelun jälkeen etummaiset joukot siirtyivät hyökkäykseen. Joillakin suunnilla ne onnistuivat nopeasti valtaamaan ensimmäisen juoksuhautalinjan, mutta eteneminen pysähtyi saksalaisen tykistön ja konekiväärien voimakkaaseen tuleen.",
-      "en": "In the morning, following a short artillery preparation, the forward units went on the offensive. In some sectors, they managed to seize the first line of trenches quickly, but further advance was halted by heavy German artillery and machine-gun fire."
+      "fi": "Johto päätti alistaa joukkueelle ylimääräisen ryhmän ja sarjan pioneerivarusteita. Tulituksesta huolimatta pelastusryhmä jatkoi työtään upseerin valvonnassa. Jokainen aselaji sai oman tehtävänsä, ja divisioona jatkoi hyökkäystä.",
+      "en": "The command decided to attach an additional squad and a set of engineer equipment to the platoon. Despite the shelling, the rescue team continued its work under the supervision of an officer. Each branch of service received its own task, while the division continued the offensive."
     },
     "vocabulary": [],
     "enabled": true
@@ -417,65 +417,10 @@
   {
     "id": "SVO-006",
     "difficulty": "svo",
-    "russian": "Главной проблемой стала хорошо организованная система обороны. Противник использовал минные поля, противотанковые заграждения и заранее подготовленные запасные позиции.",
+    "russian": "К вечеру захват берега был завершён, и подразделения начали готовить оборону и самозащиту новых позиций. Позднее из штаба Военного Округа сообщили, что следующий этап учений пройдёт на полигоне. В море за учением наблюдала атомная подводная лодка, командиром которой был капитан 3-го ранга.",
     "translations": {
-      "fi": "Suurimmaksi ongelmaksi muodostui hyvin organisoitu puolustusjärjestelmä. Vihollinen käytti miinakenttiä, panssarintorjuntaesteitä ja etukäteen valmisteltuja vara-asemia.",
-      "en": "The main problem was the well-organized defensive system. The enemy used minefields, anti-tank obstacles, and previously prepared fallback positions."
-    },
-    "vocabulary": [],
-    "enabled": true
-  },
-  {
-    "id": "SVO-007",
-    "difficulty": "svo",
-    "russian": "После потери первой полосы обороны немецкие подразделения отходили на следующий рубеж и продолжали сопротивление. Несколько попыток советских войск прорвать оборону на главном направлении не дали ожидаемого результата.",
-    "translations": {
-      "fi": "Menetettyään ensimmäisen puolustusvyöhykkeen saksalaiset joukot vetäytyivät seuraavalle puolustuslinjalle ja jatkoivat vastarintaa. Neuvostojoukkojen useat yritykset murtaa puolustus päähyökkäyssuunnassa eivät tuottaneet odotettua tulosta.",
-      "en": "After losing the first defensive belt, German units withdrew to the next defensive line and continued to resist. Several attempts by Soviet forces to break through the defenses along the main axis failed to achieve the expected result."
-    },
-    "vocabulary": [],
-    "enabled": true
-  },
-  {
-    "id": "SVO-008",
-    "difficulty": "svo",
-    "russian": "Наступление замедлилось, а отдельные подразделения понесли значительные потери. Командование решило изменить первоначальный план операции.",
-    "translations": {
-      "fi": "Hyökkäys hidastui, ja osa joukoista kärsi huomattavia tappioita. Johto päätti muuttaa operaation alkuperäistä suunnitelmaa.",
-      "en": "The offensive slowed, and some units suffered significant losses. The command decided to change the original operational plan."
-    },
-    "vocabulary": [],
-    "enabled": true
-  },
-  {
-    "id": "SVO-009",
-    "difficulty": "svo",
-    "russian": "Вместо продолжения атак на наиболее укреплённом участке часть сил была скрытно переброшена на правый фланг. Там оборона противника была слабее, поскольку немецкое командование считало этот район малопригодным для действий крупных механизированных соединений.",
-    "translations": {
-      "fi": "Sen sijaan, että hyökkäyksiä olisi jatkettu kaikkein vahvimmin linnoitetulla alueella, osa joukoista siirrettiin salassa oikealle sivustalle. Siellä vihollisen puolustus oli heikompi, sillä Saksan johto piti aluetta huonosti soveltuvana suurten mekanisoitujen joukkojen toimintaan.",
-      "en": "Instead of continuing the attacks against the most heavily fortified sector, part of the forces was secretly redeployed to the right flank. Enemy defenses there were weaker because the German command considered the area poorly suited for the operations of large mechanized formations."
-    },
-    "vocabulary": [],
-    "enabled": true
-  },
-  {
-    "id": "SVO-010",
-    "difficulty": "svo",
-    "russian": "Ночью сапёрные подразделения подготовили проходы в минных полях и оборудовали несколько переправ через небольшую реку. На рассвете пехота при поддержке танков нанесла внезапный удар.",
-    "translations": {
-      "fi": "Yön aikana pioneerijoukot raivasivat kulkureittejä miinakenttien läpi ja rakensivat useita ylityspaikkoja pienen joen yli. Aamunkoitteessa jalkaväki aloitti panssarivaunujen tukemana yllätyshyökkäyksen.",
-      "en": "During the night, engineer units cleared passages through the minefields and established several crossings over a small river. At dawn, the infantry, supported by tanks, launched a surprise attack."
-    },
-    "vocabulary": [],
-    "enabled": true
-  },
-  {
-    "id": "SVO-011",
-    "difficulty": "svo",
-    "russian": "Передовые подразделения быстро прорвали первую линию обороны и начали продвигаться в глубину немецких позиций. Уже к вечеру советские части захватили несколько важных перекрёстков и перерезали одну из основных дорог, по которой противник доставлял боеприпасы и подкрепления.",
-    "translations": {
-      "fi": "Etummaiset joukot murtautuivat nopeasti ensimmäisen puolustuslinjan läpi ja alkoivat edetä syvemmälle saksalaisten asemiin. Jo iltaan mennessä neuvostojoukot olivat vallanneet useita tärkeitä tienristeyksiä ja katkaisseet yhden pääteistä, jota pitkin vihollinen kuljetti ammuksia ja vahvistuksia.",
-      "en": "The forward units quickly broke through the first defensive line and began advancing deep into the German positions. By evening, Soviet troops had captured several important crossroads and cut one of the main roads used by the enemy to transport ammunition and reinforcements."
+      "fi": "Iltaan mennessä rannikon valtaus oli saatu päätökseen, ja yksiköt alkoivat valmistella uusien asemien puolustusta ja itsepuolustusta. Myöhemmin sotilaspiirin esikunnasta ilmoitettiin, että harjoituksen seuraava vaihe järjestettäisiin harjoitusalueella. Merellä harjoitusta seurasi ydinsukellusvene, jonka komentajana toimi komentajakapteeni.",
+      "en": "By evening, the capture of the shore had been completed, and the units began preparing the defence and self-defence of the new positions. Later, the headquarters of the Military District reported that the next phase of the exercise would take place at the training range. At sea, the exercise was being observed by a nuclear-powered submarine, whose commander was a Captain 3rd Rank."
     },
     "vocabulary": [],
     "enabled": true
