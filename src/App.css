@@ -455,6 +455,18 @@
   background: #dcfce7;
 }
 
+.splash-info-btn.splash-shuffle-btn {
+  background: #2563eb;
+  border-color: #1d4ed8;
+  color: #fff;
+}
+
+.splash-info-btn.splash-shuffle-btn:hover,
+.splash-info-btn.splash-shuffle-btn[aria-pressed='true'] {
+  background: #1d4ed8;
+  border-color: #1e40af;
+}
+
 .splash-loop-player {
   display: grid;
   gap: 0.55rem;

@@ -271,6 +271,7 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
   const [mediaManifest, setMediaManifest] = useState<LearningMediaManifest>(EMPTY_MEDIA_MANIFEST)
   const [selectedPdf, setSelectedPdf] = useState<{ category: PdfCategory; file: string } | null>(null)
   const [loopTrack, setLoopTrack] = useState<string | null>(null)
+  const [isShuffleMode, setIsShuffleMode] = useState(false)
   const [isLoopTrackPlaying, setIsLoopTrackPlaying] = useState(false)
   const [pageContent, setPageContent] = useState<string | null>(null)
   const [pageError, setPageError] = useState<string | null>(null)
@@ -428,6 +429,7 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
 
   const startLoopTrack = (file: string) => {
     playButtonClick(muted)
+    setIsShuffleMode(false)
     loopAudioRef.current?.pause()
     const audio = new Audio(`${LEARNING_MATERIALS_BASE_URL}soundtrack-loop/${encodeURIComponent(file)}`)
     audio.loop = true
@@ -437,6 +439,47 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
     void audio.play()
       .then(() => setIsLoopTrackPlaying(true))
       .catch(() => setIsLoopTrackPlaying(false))
+  }
+
+  const startShuffle = () => {
+    const tracks = mediaManifest['soundtrack-loop']
+    if (tracks.length === 0) return
+    playButtonClick(muted)
+    loopAudioRef.current?.pause()
+    const audio = new Audio()
+    loopAudioRef.current = audio
+    setIsShuffleMode(true)
+    let remaining: string[] = []
+    let previous: string | null = null
+
+    const playNext = () => {
+      if (loopAudioRef.current !== audio) return
+      if (remaining.length === 0) {
+        remaining = [...tracks]
+        for (let i = remaining.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1))
+          ;[remaining[i], remaining[j]] = [remaining[j], remaining[i]]
+        }
+        // Avoid repeating the last song when a new shuffled round starts.
+        if (remaining.length > 1 && remaining[remaining.length - 1] === previous) {
+          ;[remaining[0], remaining[remaining.length - 1]] = [remaining[remaining.length - 1], remaining[0]]
+        }
+      }
+      const file = remaining.pop()!
+      previous = file
+      audio.src = `${LEARNING_MATERIALS_BASE_URL}soundtrack-loop/${encodeURIComponent(file)}`
+      setLoopTrack(file)
+      void audio.play()
+        .then(() => {
+          if (loopAudioRef.current === audio) setIsLoopTrackPlaying(!audio.paused)
+        })
+        .catch(() => {
+          if (loopAudioRef.current === audio) setIsLoopTrackPlaying(false)
+        })
+    }
+
+    audio.onended = playNext
+    playNext()
   }
 
   const toggleLoopTrack = () => {
@@ -545,6 +588,7 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
     loopAudioRef.current?.pause()
     loopAudioRef.current = null
     setLoopTrack(null)
+    setIsShuffleMode(false)
     setIsLoopTrackPlaying(false)
     setIsSoundtrackMenuOpen(false)
   }
@@ -962,8 +1006,11 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
                 <button type="button" className="splash-menu-close" onClick={closeSoundtrackMenu} aria-label={isEnglish ? 'Close menu' : 'Sulje valikko'}>×</button>
               </div>
               <div className="splash-menu-buttons splash-pdf-list">
+                <button type="button" className="splash-info-btn splash-shuffle-btn" onClick={startShuffle} disabled={mediaManifest['soundtrack-loop'].length === 0} aria-pressed={isShuffleMode}>
+                  {isEnglish ? 'Shuffle Songs' : 'Sekoita kappaleet'}
+                </button>
                 {mediaManifest['soundtrack-loop'].length > 0 ? mediaManifest['soundtrack-loop'].map((file) => (
-                  <button key={file} type="button" className={`splash-info-btn${loopTrack === file ? ' splash-loop-track-active' : ''}`} onClick={() => startLoopTrack(file)}>
+                  <button key={file} type="button" className={`splash-info-btn${loopTrack === file && !isShuffleMode ? ' splash-loop-track-active' : ''}`} onClick={() => startLoopTrack(file)}>
                     {pdfButtonLabel(file)}
                   </button>
                 )) : (
