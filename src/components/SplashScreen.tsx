@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import ReactMarkdown from 'react-markdown'
 import type { AppLanguage } from '../types/game'
 import { playButtonClick } from '../lib/sound'
+import { hasNativeShuffleAudio, shuffleAudio } from '../lib/shuffleAudio'
 
 const FAVICON_SRC = `${import.meta.env.BASE_URL}favicon.png`
 const SETTINGS_PAGES_BASE_URL = `${import.meta.env.BASE_URL}tiedot-ja-asetukset/`
@@ -281,6 +282,32 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
   const introAudioRef = useRef<HTMLAudioElement | null>(null)
   const storyAudioRef = useRef<HTMLAudioElement | null>(null)
   const loopAudioRef = useRef<HTMLAudioElement | null>(null)
+  const nativeShuffleRef = useRef(false)
+
+  useEffect(() => {
+    if (!hasNativeShuffleAudio) return
+    let disposed = false
+    const update = (state: { track: string; playing: boolean }) => {
+      if (disposed || !nativeShuffleRef.current) return
+      setLoopTrack(state.track || null)
+      setIsLoopTrackPlaying(state.playing)
+      if (!state.track) {
+        nativeShuffleRef.current = false
+        setIsShuffleMode(false)
+      }
+    }
+    const listener = shuffleAudio.addListener('state', update)
+    const refresh = () => {
+      if (!document.hidden) void shuffleAudio.status().then(update).catch(() => {})
+    }
+    document.addEventListener('visibilitychange', refresh)
+    return () => {
+      disposed = true
+      document.removeEventListener('visibilitychange', refresh)
+      void listener.then((handle) => handle.remove())
+      void shuffleAudio.control({ action: 'stop' })
+    }
+  }, [])
 
   useEffect(() => {
     fetch(`${LEARNING_MATERIALS_BASE_URL}manifest.json?t=${Date.now()}`, { cache: 'no-store' })
@@ -429,6 +456,8 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
 
   const startLoopTrack = (file: string) => {
     playButtonClick(muted)
+    if (nativeShuffleRef.current) void shuffleAudio.control({ action: 'stop' })
+    nativeShuffleRef.current = false
     setIsShuffleMode(false)
     loopAudioRef.current?.pause()
     const audio = new Audio(`${LEARNING_MATERIALS_BASE_URL}soundtrack-loop/${encodeURIComponent(file)}`)
@@ -446,6 +475,17 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
     if (tracks.length === 0) return
     playButtonClick(muted)
     loopAudioRef.current?.pause()
+    if (hasNativeShuffleAudio) {
+      loopAudioRef.current = null
+      nativeShuffleRef.current = true
+      setIsShuffleMode(true)
+      void shuffleAudio.start({ tracks: [...tracks] }).catch(() => {
+        nativeShuffleRef.current = false
+        setIsShuffleMode(false)
+        setIsLoopTrackPlaying(false)
+      })
+      return
+    }
     const audio = new Audio()
     loopAudioRef.current = audio
     setIsShuffleMode(true)
@@ -483,6 +523,11 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
   }
 
   const toggleLoopTrack = () => {
+    if (nativeShuffleRef.current) {
+      playButtonClick(muted)
+      void shuffleAudio.control({ action: isLoopTrackPlaying ? 'pause' : 'play' })
+      return
+    }
     const audio = loopAudioRef.current
     if (!audio) return
     playButtonClick(muted)
@@ -498,6 +543,14 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
 
   const stopLoopTrack = () => {
     playButtonClick(muted)
+    if (nativeShuffleRef.current) {
+      void shuffleAudio.control({ action: 'stop' })
+      nativeShuffleRef.current = false
+      setLoopTrack(null)
+      setIsShuffleMode(false)
+      setIsLoopTrackPlaying(false)
+      return
+    }
     const audio = loopAudioRef.current
     if (!audio) return
     audio.pause()
@@ -585,6 +638,8 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
 
   const closeSoundtrackMenu = () => {
     playButtonClick(muted)
+    if (nativeShuffleRef.current) void shuffleAudio.control({ action: 'stop' })
+    nativeShuffleRef.current = false
     loopAudioRef.current?.pause()
     loopAudioRef.current = null
     setLoopTrack(null)
