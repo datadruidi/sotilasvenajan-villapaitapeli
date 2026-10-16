@@ -1,47 +1,56 @@
 Russian,Finnish
-танк, panssarivaunu
-гусеничный, telaketjuinen
-бронированный, panssaroitu
-машина, ajoneuvo
-броневой, panssari
-башня, torni
-вооружение, aseistus
-силовая установка, voimanlähde
-силовая передача, voimansiirto
-ходовая часть, alusta
-электрооборудование, sähkölaitteisto
-средства связи, viestivälineet
-корабль, alus
-судно, laiva
-авианосец, lentotukialus
-линейный корабль, taistelulaiva
-линкор, taistelulaiva
-крейсер, risteilijä
-подводная лодка, sukellusvene
-эскадренный миноносец, hävittäjä
-эсминец, hävittäjä
-вертолётоносец, helikopteritukialus
-десантный вертолётоносец, maihinnousutukialus
-сторожевой корабль, fregatti
-артиллерийский катер, tykkivene
-торпедный катер, torpedovene
-тральщик, miinanraivaaja
-минный заградитель, miinanlaskija
-аэродром, lentokenttä
-вертолёт, helikopteri
-самолёт, lentokone
-кабина, ohjaamo
-двигатель, moottori
-мотор, moottori
-летательный, lento
-аппарат, laite
-крыло, siipi
-фюзеляж, runko
-оперение, pyrstö
-шасси, laskuteline
-техника, kalusto
-бомбардировщик, pommikone
-торпедоносец, torpedokone
-истребитель-бомбардировщик, hävittäjäpommittaja
-истребитель, hävittäjä
-истребитель-перехватчик, torjuntahävittäjä
+Танк,Panssarivaunu
+Гусеничный,Telaketjuinen
+Бронированный,Panssaroitu
+Машина,Ajoneuvo
+Броневой,Panssari
+Башня,Torni
+Вооружение,Aseistus
+Силовая установка,Voimanlähde
+Силовая передача,Voimansiirto
+Ходовая часть,Alusta (ajoneuvon kulkukoneisto)
+Электрооборудование,Sähkölaitteisto
+Средство связи,Viestiväline
+Корабль (военный),Sotalaiva (sotilaskäyttö)
+Судно (гражданское),Alus (siviilikäyttö)
+Авианосец,Lentotukialus
+Линейный корабль (парусный),Linjalaiva (purjealus)
+Линейный корабль (броненосный),Taistelulaiva
+Линкор,Taistelulaiva
+Крейсер,Risteilijä
+Подводная лодка,Sukellusvene
+Эскадренный миноносец,Hävittäjäalus (koko nimitys)
+Эсминец,Hävittäjäalus (lyhenne)
+Вертолётоносец,Helikopteritukialus
+Десантный вертолётоносец,Maihinnousutukialus
+Сторожевой корабль,Vartioalus
+Артиллерийский катер,Tykkivene
+Торпедный катер,Torpedovene
+Тральщик,Miinanraivaaja
+Минный заградитель,Miinanlaskija
+Аэродром,Lentokenttä
+Вертолёт,Helikopteri
+Самолёт,Lentokone
+Кабина,Ohjaamo
+Двигатель,Moottori
+Мотор,Moottori
+Летательный,Lentävä
+Аппарат,Laite
+Крыло,Siipi
+Фюзеляж,Lentokoneen runko
+Оперение,Pyrstörakenne
+Шасси,Laskuteline
+Техника,Kalusto
+Бомбардировщик,Pommikone
+Торпедоносец,Torpedokone
+Истребитель-бомбардировщик,Hävittäjäpommittaja
+Истребитель,Hävittäjä
+Истребитель-перехватчик,Torjuntahävittäjä
+Плавсредство,Vesikulkuneuvo
+Флот,Laivasto
+Оборудование,Laitteisto
+Устройство,Laite
+Фрегат,Fregatti
+Канонерская лодка,Tykkivene (kanuunavene)
+Полёт,Lento
+Хвост,Pyrstö

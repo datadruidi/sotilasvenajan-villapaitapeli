@@ -1,0 +1,4780 @@
+{
+  "summary": {
+    "excluded": 477,
+    "included": 179
+  },
+  "uniqueNouns": 174,
+  "rows": [
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 2,
+      "russian": "Огнестрельное оружие",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 3,
+      "russian": "Оружие",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 4,
+      "russian": "Винтовка",
+      "status": "included",
+      "nounId": "noun-df97a3887f91",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 5,
+      "russian": "Карабин",
+      "status": "included",
+      "nounId": "noun-f8f911daa460",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 6,
+      "russian": "Пистолет",
+      "status": "included",
+      "nounId": "noun-3ecbee5bb783",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 7,
+      "russian": "Автомат",
+      "status": "included",
+      "nounId": "noun-43fba8306321",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 8,
+      "russian": "Пистолет-пулемёт",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 9,
+      "russian": "Пулемёт",
+      "status": "included",
+      "nounId": "noun-f0aac7864728",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 10,
+      "russian": "Гранатомёт",
+      "status": "included",
+      "nounId": "noun-c110f9169e3b",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 11,
+      "russian": "Реактивный противотанковый гранатомёт",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 12,
+      "russian": "Ручной противотанковый гранатомёт",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 13,
+      "russian": "Безоткатное орудие",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 14,
+      "russian": "Миномёт",
+      "status": "included",
+      "nounId": "noun-462dd1be74ba",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 15,
+      "russian": "Орудие",
+      "status": "included",
+      "nounId": "noun-3f1504d5ca82",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 16,
+      "russian": "Пушка",
+      "status": "included",
+      "nounId": "noun-5e17ef44aa2d",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 17,
+      "russian": "Гаубица",
+      "status": "included",
+      "nounId": "noun-893be35c4059",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 18,
+      "russian": "Боеприпас",
+      "status": "included",
+      "nounId": "noun-7931dface8e9",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 19,
+      "russian": "Патрон",
+      "status": "excluded",
+      "reason": "Incomplete or ambiguous dictionary paradigm"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 20,
+      "russian": "Граната",
+      "status": "included",
+      "nounId": "noun-dad6dc8091c6",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 21,
+      "russian": "Мина",
+      "status": "included",
+      "nounId": "noun-a2ed08492889",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 22,
+      "russian": "Снаряд",
+      "status": "included",
+      "nounId": "noun-1e8a5df9b0d7",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 23,
+      "russian": "Бомба",
+      "status": "included",
+      "nounId": "noun-c078213b7b99",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 24,
+      "russian": "Автоматический",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 25,
+      "russian": "Ручной",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "aseet-ja-ammukset.csv",
+      "row": 26,
+      "russian": "Станковый",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 2,
+      "russian": "Танк",
+      "status": "included",
+      "nounId": "noun-ae925e76a39e",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 3,
+      "russian": "Гусеничный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 4,
+      "russian": "Бронированный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 5,
+      "russian": "Машина",
+      "status": "included",
+      "nounId": "noun-f0e87d62375e",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 6,
+      "russian": "Броневой",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 7,
+      "russian": "Башня",
+      "status": "included",
+      "nounId": "noun-1070fe6a1a3b",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 8,
+      "russian": "Вооружение",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 9,
+      "russian": "Силовая установка",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 10,
+      "russian": "Силовая передача",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 11,
+      "russian": "Ходовая часть",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 12,
+      "russian": "Электрооборудование",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 13,
+      "russian": "Средство связи",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 14,
+      "russian": "Корабль (военный)",
+      "status": "included",
+      "nounId": "noun-cb5f88115aac",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 15,
+      "russian": "Судно (гражданское)",
+      "status": "excluded",
+      "reason": "Incomplete or ambiguous dictionary paradigm"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 16,
+      "russian": "Авианосец",
+      "status": "included",
+      "nounId": "noun-6aa329b48e9e",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 17,
+      "russian": "Линейный корабль (парусный)",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 18,
+      "russian": "Линейный корабль (броненосный)",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 19,
+      "russian": "Линкор",
+      "status": "included",
+      "nounId": "noun-e12a227235c3",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 20,
+      "russian": "Крейсер",
+      "status": "included",
+      "nounId": "noun-47059c6759a4",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 21,
+      "russian": "Подводная лодка",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 22,
+      "russian": "Эскадренный миноносец",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 23,
+      "russian": "Эсминец",
+      "status": "included",
+      "nounId": "noun-e5ede3e09797",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 24,
+      "russian": "Вертолётоносец",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 25,
+      "russian": "Десантный вертолётоносец",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 26,
+      "russian": "Сторожевой корабль",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 27,
+      "russian": "Артиллерийский катер",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 28,
+      "russian": "Торпедный катер",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 29,
+      "russian": "Тральщик",
+      "status": "included",
+      "nounId": "noun-a2b7d0569337",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 30,
+      "russian": "Минный заградитель",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 31,
+      "russian": "Аэродром",
+      "status": "included",
+      "nounId": "noun-8ca16642379f",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 32,
+      "russian": "Вертолёт",
+      "status": "included",
+      "nounId": "noun-8863afe78783",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 33,
+      "russian": "Самолёт",
+      "status": "included",
+      "nounId": "noun-e562662fb48f",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 34,
+      "russian": "Кабина",
+      "status": "included",
+      "nounId": "noun-37cb3331ccb5",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 35,
+      "russian": "Двигатель",
+      "status": "included",
+      "nounId": "noun-3ef3755f34d4",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 36,
+      "russian": "Мотор",
+      "status": "included",
+      "nounId": "noun-bf6938f1e930",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 37,
+      "russian": "Летательный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 38,
+      "russian": "Аппарат",
+      "status": "included",
+      "nounId": "noun-aa711c7e2592",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 39,
+      "russian": "Крыло",
+      "status": "included",
+      "nounId": "noun-3ba7aeedfca8",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 40,
+      "russian": "Фюзеляж",
+      "status": "included",
+      "nounId": "noun-56798e2b3447",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 41,
+      "russian": "Оперение",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 42,
+      "russian": "Шасси",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 43,
+      "russian": "Техника",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 44,
+      "russian": "Бомбардировщик",
+      "status": "included",
+      "nounId": "noun-35f621827242",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 45,
+      "russian": "Торпедоносец",
+      "status": "included",
+      "nounId": "noun-370817d15736",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 46,
+      "russian": "Истребитель-бомбардировщик",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 47,
+      "russian": "Истребитель",
+      "status": "excluded",
+      "reason": "Incomplete or ambiguous dictionary paradigm"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 48,
+      "russian": "Истребитель-перехватчик",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 49,
+      "russian": "Плавсредство",
+      "status": "included",
+      "nounId": "noun-088684a91869",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 50,
+      "russian": "Флот",
+      "status": "included",
+      "nounId": "noun-0d199b6ef335",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 51,
+      "russian": "Оборудование",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 52,
+      "russian": "Устройство",
+      "status": "included",
+      "nounId": "noun-adbb6aa07bea",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 53,
+      "russian": "Фрегат",
+      "status": "included",
+      "nounId": "noun-a960d210991e",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 54,
+      "russian": "Канонерская лодка",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 55,
+      "russian": "Полёт",
+      "status": "included",
+      "nounId": "noun-6d684326eafb",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kalusto-ja-alustat.csv",
+      "row": 56,
+      "russian": "Хвост",
+      "status": "included",
+      "nounId": "noun-4c2f7d01f6f0",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 2,
+      "russian": "Огневая подготовка (обучение)",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 3,
+      "russian": "Огневая подготовка (перед атакой)",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 4,
+      "russian": "Стрелковая подготовка",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 5,
+      "russian": "Занятие",
+      "status": "included",
+      "nounId": "noun-8ed71a94e86d",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 6,
+      "russian": "Погода",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 7,
+      "russian": "Летний",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 8,
+      "russian": "Ранний",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 9,
+      "russian": "Поздний",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 10,
+      "russian": "Вчера",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 11,
+      "russian": "Сегодня",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 12,
+      "russian": "Завтра",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 13,
+      "russian": "Позавчера",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 14,
+      "russian": "Послезавтра",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 15,
+      "russian": "Изучать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 16,
+      "russian": "Техник",
+      "status": "included",
+      "nounId": "noun-3aabb2d70598",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 17,
+      "russian": "Осматривать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 18,
+      "russian": "Лётчик-инструктор",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 19,
+      "russian": "Задача",
+      "status": "included",
+      "nounId": "noun-26de1b4a28bc",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 20,
+      "russian": "Задание",
+      "status": "included",
+      "nounId": "noun-8b08da34bb2c",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 21,
+      "russian": "Поставить задачу",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 22,
+      "russian": "Ставить задачу",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 23,
+      "russian": "Проверять",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 24,
+      "russian": "Полёт",
+      "status": "included",
+      "nounId": "noun-6d684326eafb",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 25,
+      "russian": "Взлёт",
+      "status": "included",
+      "nounId": "noun-382532764d9e",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 26,
+      "russian": "Запускать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 27,
+      "russian": "Выруливать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 28,
+      "russian": "Старт",
+      "status": "included",
+      "nounId": "noun-fd604bbfe5b7",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 29,
+      "russian": "Практика",
+      "status": "included",
+      "nounId": "noun-c8ba7e925af6",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 30,
+      "russian": "Практический",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 31,
+      "russian": "Натренировать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 32,
+      "russian": "Тренировать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 33,
+      "russian": "Умение",
+      "status": "included",
+      "nounId": "noun-1e418ef1f63b",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 34,
+      "russian": "Соревнование",
+      "status": "included",
+      "nounId": "noun-ef22f3806f5d",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 35,
+      "russian": "Вечер",
+      "status": "included",
+      "nounId": "noun-a6dabeb96731",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 36,
+      "russian": "Вечером",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 37,
+      "russian": "День",
+      "status": "included",
+      "nounId": "noun-8eae90e5e96c",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 38,
+      "russian": "Днём",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 39,
+      "russian": "Ночь",
+      "status": "included",
+      "nounId": "noun-c44767f71fea",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 40,
+      "russian": "Утро",
+      "status": "included",
+      "nounId": "noun-9208235e437a",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 41,
+      "russian": "Утром",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 42,
+      "russian": "Поздно",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "koulutus-ja-tehtavat.csv",
+      "row": 43,
+      "russian": "Рано",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 2,
+      "russian": "Аккредитация",
+      "status": "included",
+      "nounId": "noun-0e3ab4375cea",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 3,
+      "russian": "Информационная безопасность вооруженных сил",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 4,
+      "russian": "Деятельность вооруженных сил в информационном пространстве",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 5,
+      "russian": "Автоматизированная обработка персональных данных",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 6,
+      "russian": "Документированная информация",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 7,
+      "russian": "Несанкционированное вмешательство в информационные ресурсы",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 8,
+      "russian": "Электронный документ",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 9,
+      "russian": "Электронное сообщение",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 10,
+      "russian": "Персональные данные",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 11,
+      "russian": "Обезличивание персональных данных",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 12,
+      "russian": "Информационная система персональных данных",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 13,
+      "russian": "Обработка персональных данных",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 14,
+      "russian": "Информация",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 15,
+      "russian": "Предоставление информации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 16,
+      "russian": "Обладатель информации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 17,
+      "russian": "Распространение информации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 18,
+      "russian": "Конфиденциальность информации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 19,
+      "russian": "Защита информации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 20,
+      "russian": "Информационное оружие",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 21,
+      "russian": "Информационная инфраструктура",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 22,
+      "russian": "Критически важный объект информационной инфраструктуры",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 23,
+      "russian": "Информационная система",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 24,
+      "russian": "Государственная информационная система",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 25,
+      "russian": "Муниципальная информационная система",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 26,
+      "russian": "Оператор информационной системы",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 27,
+      "russian": "Информационный ресурс",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 28,
+      "russian": "Неправомерное использование информационных ресурсов",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 29,
+      "russian": "Информационная преступность",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 30,
+      "russian": "Информационная война",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 31,
+      "russian": "Информационная технология",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 32,
+      "russian": "Информационно-коммуникационная технология",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 33,
+      "russian": "Информационно-телекоммуникационная сеть",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 34,
+      "russian": "Информационный терроризм",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 35,
+      "russian": "Информационное пространство",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 36,
+      "russian": "Информационная безопасность",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 37,
+      "russian": "Угроза информационной безопасности",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 38,
+      "russian": "Сайт в сети «Интернет»",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 39,
+      "russian": "Международная информационная безопасность",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 40,
+      "russian": "Средство ликвидации последствий компьютерного инцидента в критической информационной инфраструктуре",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 41,
+      "russian": "Безопасность критической информационной инфраструктуры",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 42,
+      "russian": "Безопасность автоматизированной системы управления КВО",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 43,
+      "russian": "Критически важный объект",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 44,
+      "russian": "Критически важный объект инфраструктуры Российской Федерации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 45,
+      "russian": "Объект критической информационной инфраструктуры",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 46,
+      "russian": "Критически важная структура",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 47,
+      "russian": "Киберпространство",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 48,
+      "russian": "Кибербезопасность",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 49,
+      "russian": "Оператор",
+      "status": "excluded",
+      "reason": "Incomplete or ambiguous dictionary paradigm"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 50,
+      "russian": "Провайдер хостинга",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 51,
+      "russian": "Доступ к информации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 52,
+      "russian": "Владелец сайта в сети «Интернет»",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 53,
+      "russian": "Военный конфликт в информационном пространстве",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 54,
+      "russian": "Материальный носитель",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 55,
+      "russian": "Терроризм в информационном пространстве",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 56,
+      "russian": "Компьютерная атака",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 57,
+      "russian": "Силы обнаружения и предупреждения компьютерных атак",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 58,
+      "russian": "Средство обнаружения и предупреждения компьютерной атаки",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 59,
+      "russian": "Силы ликвидации последствий компьютерных инцидентов в критической информационной инфраструктуре",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 60,
+      "russian": "Компьютерный инцидент",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 61,
+      "russian": "Угроза в информационном пространстве",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 62,
+      "russian": "Государственная система обнаружения, предупреждения и ликвидации последствий компьютерных атак на информационные ресурсы Российской Федерации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 63,
+      "russian": "Автоматизированная система управления производственными и технологическими процессами критически важного объекта инфраструктуры Российской Федерации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 64,
+      "russian": "Внешняя разведка Российской Федерации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 65,
+      "russian": "Информационный ресурс Российской Федерации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 66,
+      "russian": "Система обеспечения информационной безопасности Российской Федерации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 67,
+      "russian": "Критическая информационная инфраструктура Российской Федерации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 68,
+      "russian": "Субъект критической информационной инфраструктуры Российской Федерации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 69,
+      "russian": "Нарушение функционирования критической информационной инфраструктуры Российской Федерации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 70,
+      "russian": "Безопасность критической информационной инфраструктуры Российской Федерации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 71,
+      "russian": "Единая система идентификации и аутентификации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "kyberturvallisuuden-kasitteisto.csv",
+      "row": 72,
+      "russian": "Единая государственная система обнаружения и предупреждения компьютерных атак на критическую информационную инфраструктуру и оценки уровня реальной защищенности ее элементов",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 2,
+      "russian": "Министерство обороны",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 3,
+      "russian": "Генеральный штаб Вооружённых сил",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 4,
+      "russian": "Главное управление Генерального штаба Вооружённых сил",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 5,
+      "russian": "Главное разведывательное управление Генерального штаба Вооружённых сил",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 6,
+      "russian": "Вооружённые силы",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 7,
+      "russian": "Военно-транспортная авиация",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 8,
+      "russian": "Дальняя авиация",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 9,
+      "russian": "Армейская авиация",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 10,
+      "russian": "Балтийский флот",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 11,
+      "russian": "Черноморский флот",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 12,
+      "russian": "Сухопутные войска",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 13,
+      "russian": "Военно-морские силы",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 14,
+      "russian": "Военно-морской флот",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 15,
+      "russian": "Военно-воздушные силы",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 16,
+      "russian": "Истребительная авиация",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 17,
+      "russian": "Истребительная авиационная дивизия",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 18,
+      "russian": "Истребительно-бомбардировочная авиация",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 19,
+      "russian": "Воздушно-десантные войска",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 20,
+      "russian": "Отдельная воздушно-десантная бригада",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-asevoimat.csv",
+      "row": 21,
+      "russian": "Парашютно-десантная рота",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 2,
+      "russian": "Командный пункт",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 3,
+      "russian": "Наблюдательный пункт",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 4,
+      "russian": "Боекомплект",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 5,
+      "russian": "Воинская часть",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 6,
+      "russian": "Частная военная компания",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 7,
+      "russian": "Командно-наблюдательный пункт",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 8,
+      "russian": "Пункт постоянной дислокации",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 9,
+      "russian": "Пункт временной дислокации",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 10,
+      "russian": "Контрольно-пропускной пункт",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 11,
+      "russian": "Пункт управления",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 12,
+      "russian": "Генеральный штаб",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 13,
+      "russian": "miehistö)",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 14,
+      "russian": "Батальонная тактическая группа",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 15,
+      "russian": "Передовой отряд",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 16,
+      "russian": "Головной дозор",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 17,
+      "russian": "Головная походная застава",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 18,
+      "russian": "Тыльная походная застава",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-johtaminen.csv",
+      "row": 19,
+      "russian": "Боевой разведывательный дозор",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 2,
+      "russian": "Беспилотный летательный аппарат",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 3,
+      "russian": "Боевая машина пехоты",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 4,
+      "russian": "Бронетранспортёр",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 5,
+      "russian": "Самоходная артиллерийская установка",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 6,
+      "russian": "Реактивная система залпового огня",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 7,
+      "russian": "Противотанковый ракетный комплекс",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 8,
+      "russian": "Переносной зенитный ракетный комплекс",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 9,
+      "russian": "Основной боевой танк",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 10,
+      "russian": "Боевая машина десанта",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 11,
+      "russian": "Бронетранспортёр-десантный",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 12,
+      "russian": "Многоцелевой тягач лёгкий бронированный",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 13,
+      "russian": "Бронированная ремонтно-эвакуационная машина",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 14,
+      "russian": "Инженерная машина разграждения",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 15,
+      "russian": "Командно-штабная машина",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 16,
+      "russian": "Боевая разведывательная машина",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 17,
+      "russian": "Разведывательная химическая машина",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 18,
+      "russian": "Зенитный ракетный комплекс",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-kalustolliset.csv",
+      "row": 19,
+      "russian": "Беспилотный летательный аппарат",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-puolustushallinto.csv",
+      "row": 2,
+      "russian": "Министерство обороны Российской Федерации",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-puolustushallinto.csv",
+      "row": 3,
+      "russian": "Генеральный штаб Вооружённых сил Российской Федерации",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-puolustushallinto.csv",
+      "row": 4,
+      "russian": "Главное управление Генерального штаба Вооружённых сил Российской Федерации",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-puolustushallinto.csv",
+      "row": 5,
+      "russian": "Главное разведывательное управление Генерального штаба Вооружённых сил Российской Федерации",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-puolustushallinto.csv",
+      "row": 6,
+      "russian": "Вооружённые силы Российской Федерации",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-puolustushallinto.csv",
+      "row": 7,
+      "russian": "Военно-транспортная авиация",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-puolustushallinto.csv",
+      "row": 8,
+      "russian": "Дальняя авиация",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-puolustushallinto.csv",
+      "row": 9,
+      "russian": "Армейская авиация",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-puolustushallinto.csv",
+      "row": 10,
+      "russian": "Балтийский флот",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-puolustushallinto.csv",
+      "row": 11,
+      "russian": "Черноморский флот",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 2,
+      "russian": "Противовоздушная оборона",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 3,
+      "russian": "Противоракетная оборона",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 4,
+      "russian": "Радиоэлектронная борьба",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 5,
+      "russian": "Войска радиационной, химической и биологической защиты",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 6,
+      "russian": "Противотанковая оборона",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 7,
+      "russian": "Противоминная оборона",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 8,
+      "russian": "Противолодочная оборона",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 9,
+      "russian": "Противодиверсионные силы и средства",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 10,
+      "russian": "Радиотехническая разведка",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 11,
+      "russian": "Радиоэлектронная разведка",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 12,
+      "russian": "Радиоэлектронное подавление",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 13,
+      "russian": "Радиационная и химическая разведка",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 14,
+      "russian": "Зенитные ракетные войска",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 15,
+      "russian": "Радиотехнические войска",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 16,
+      "russian": "Выброска парашютного десанта",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-toiminnalliset.csv",
+      "row": 17,
+      "russian": "massatuhoaseet)",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-turvallisuus.csv",
+      "row": 2,
+      "russian": "Федеральная служба безопасности",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-turvallisuus.csv",
+      "row": 3,
+      "russian": "Служба внешней разведки",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-turvallisuus.csv",
+      "row": 4,
+      "russian": "Федеральная служба охраны",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-turvallisuus.csv",
+      "row": 5,
+      "russian": "Федеральная служба войск национальной гвардии",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-turvallisuus.csv",
+      "row": 6,
+      "russian": "Министерство внутренних дел",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-turvallisuus.csv",
+      "row": 7,
+      "russian": "Министерство по делам гражданской обороны",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-turvallisuus.csv",
+      "row": 8,
+      "russian": "Следственный комитет",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-turvallisuus.csv",
+      "row": 9,
+      "russian": "Генеральная прокуратура",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-turvallisuus.csv",
+      "row": 10,
+      "russian": "Федеральная служба по техническому и экспортному контролю",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-turvallisuus.csv",
+      "row": 11,
+      "russian": "Федеральная таможенная служба",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-turvallisuus.csv",
+      "row": 12,
+      "russian": "Отряд мобильный особого назначения",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "lyhenteet-turvallisuus.csv",
+      "row": 13,
+      "russian": "Государственная граница",
+      "status": "excluded",
+      "reason": "Abbreviation expansion; no independent noun translation"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 2,
+      "russian": "Прямо",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 3,
+      "russian": "Справа",
+      "status": "excluded",
+      "reason": "Source meaning is an adverb, verb or adjective, not the dictionary noun homograph"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 4,
+      "russian": "Слева",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 5,
+      "russian": "Рядом",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 6,
+      "russian": "Стоять",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 7,
+      "russian": "Лежать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 8,
+      "russian": "Местность",
+      "status": "included",
+      "nounId": "noun-ecd29369c3c6",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 9,
+      "russian": "Большой",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 10,
+      "russian": "Маленький",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 11,
+      "russian": "Узкий",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 12,
+      "russian": "Широкий",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 13,
+      "russian": "Равнина",
+      "status": "included",
+      "nounId": "noun-f38d4a187016",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 14,
+      "russian": "Течь",
+      "status": "excluded",
+      "reason": "Source meaning is an adverb, verb or adjective, not the dictionary noun homograph"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 15,
+      "russian": "Река",
+      "status": "included",
+      "nounId": "noun-e5fc279ec200",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 16,
+      "russian": "Глубокий",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 17,
+      "russian": "Мелкий",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 18,
+      "russian": "Неглубокий",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 19,
+      "russian": "Левый",
+      "status": "excluded",
+      "reason": "Source meaning is an adverb, verb or adjective, not the dictionary noun homograph"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 20,
+      "russian": "Налево",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 21,
+      "russian": "Направо",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 22,
+      "russian": "Правый",
+      "status": "excluded",
+      "reason": "Source meaning is an adverb, verb or adjective, not the dictionary noun homograph"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 23,
+      "russian": "Берег",
+      "status": "included",
+      "nounId": "noun-201b92022f3c",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 24,
+      "russian": "Высокий",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 25,
+      "russian": "Невысокий",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 26,
+      "russian": "Низкий",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 27,
+      "russian": "Крутой",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 28,
+      "russian": "Пологий",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 29,
+      "russian": "Овраг",
+      "status": "included",
+      "nounId": "noun-0aa06209fbac",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 30,
+      "russian": "Ручей",
+      "status": "included",
+      "nounId": "noun-4de2e2d5abba",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 31,
+      "russian": "Недалеко",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 32,
+      "russian": "Холм",
+      "status": "included",
+      "nounId": "noun-e519d799c072",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 33,
+      "russian": "Восток",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 34,
+      "russian": "Восточный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 35,
+      "russian": "Запад",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 36,
+      "russian": "Западный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 37,
+      "russian": "Север",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 38,
+      "russian": "Северный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 39,
+      "russian": "Юг",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 40,
+      "russian": "Южный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 41,
+      "russian": "Скат",
+      "status": "excluded",
+      "reason": "Incomplete or ambiguous dictionary paradigm"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 42,
+      "russian": "Дальше",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 43,
+      "russian": "Лес",
+      "status": "included",
+      "nounId": "noun-99be740aac83",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 44,
+      "russian": "Лиственный лес",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 45,
+      "russian": "Смешанный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 46,
+      "russian": "Хвойный лес",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 47,
+      "russian": "Расти",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 48,
+      "russian": "Густой",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 49,
+      "russian": "Редкий",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 50,
+      "russian": "Кустарник",
+      "status": "included",
+      "nounId": "noun-97e02d468332",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 51,
+      "russian": "Луг",
+      "status": "included",
+      "nounId": "noun-84be2ff87d7d",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 52,
+      "russian": "Болото",
+      "status": "included",
+      "nounId": "noun-b8d01c062900",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 53,
+      "russian": "Населённый пункт",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 54,
+      "russian": "Деревня",
+      "status": "included",
+      "nounId": "noun-a005a8d32c78",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 55,
+      "russian": "Море",
+      "status": "included",
+      "nounId": "noun-127eee75ef5d",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 56,
+      "russian": "Озеро",
+      "status": "included",
+      "nounId": "noun-f5c9ac9d93c9",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 57,
+      "russian": "Океан",
+      "status": "included",
+      "nounId": "noun-e96d6fd93039",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 58,
+      "russian": "Пройти",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 59,
+      "russian": "Проходить",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 60,
+      "russian": "Грунтовая дорога",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 61,
+      "russian": "Дорога",
+      "status": "included",
+      "nounId": "noun-78aafb417070",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 62,
+      "russian": "Шоссе",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 63,
+      "russian": "Шоссейная дорога",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 64,
+      "russian": "Улица",
+      "status": "included",
+      "nounId": "noun-0d2cdafba465",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 65,
+      "russian": "Тропа",
+      "status": "included",
+      "nounId": "noun-22670fa3e9eb",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 66,
+      "russian": "Тропинка",
+      "status": "included",
+      "nounId": "noun-1ac2e7964f4c",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 67,
+      "russian": "Поле",
+      "status": "included",
+      "nounId": "noun-2a5d049b869d",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 68,
+      "russian": "Топографический",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 69,
+      "russian": "Топография",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 70,
+      "russian": "Рельеф",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 71,
+      "russian": "Растительный покров",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 72,
+      "russian": "Впереди",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 73,
+      "russian": "Позади",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 74,
+      "russian": "Лощина",
+      "status": "included",
+      "nounId": "noun-e534d220bd04",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 75,
+      "russian": "Вблизи",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 76,
+      "russian": "Вдали",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 77,
+      "russian": "Железная дорога",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 78,
+      "russian": "Железнодорожный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 79,
+      "russian": "Мост",
+      "status": "included",
+      "nounId": "noun-16526a97c257",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 80,
+      "russian": "Темнеть",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 81,
+      "russian": "Тёмный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 82,
+      "russian": "Компас",
+      "status": "included",
+      "nounId": "noun-e17380eb51a3",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 83,
+      "russian": "Ориентир",
+      "status": "included",
+      "nounId": "noun-a4d3fa05cfc7",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 84,
+      "russian": "Местный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 85,
+      "russian": "Местный предмет",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 86,
+      "russian": "Место",
+      "status": "included",
+      "nounId": "noun-200db10c242a",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 87,
+      "russian": "Предмет",
+      "status": "included",
+      "nounId": "noun-d76943589150",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 88,
+      "russian": "Высота (над уровнем моря)",
+      "status": "included",
+      "nounId": "noun-bce6418d68f3",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 89,
+      "russian": "Высота (возвышенность)",
+      "status": "included",
+      "nounId": "noun-bce6418d68f3",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 90,
+      "russian": "Район",
+      "status": "included",
+      "nounId": "noun-ef620d808ac7",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 91,
+      "russian": "Территория",
+      "status": "included",
+      "nounId": "noun-c8d9d3b155f8",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 92,
+      "russian": "Пересечённый",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 93,
+      "russian": "Огневая точка",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 94,
+      "russian": "Точка",
+      "status": "included",
+      "nounId": "noun-e967fdb1eb11",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 95,
+      "russian": "Оборудовать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 96,
+      "russian": "Траншея",
+      "status": "included",
+      "nounId": "noun-87b9bc636d5f",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 97,
+      "russian": "Опорный пункт",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 98,
+      "russian": "Наблюдательный пункт",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 99,
+      "russian": "Укрепление",
+      "status": "included",
+      "nounId": "noun-316bff6c95b3",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 100,
+      "russian": "Укреплённый",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 101,
+      "russian": "Укреплять",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 102,
+      "russian": "Водная преграда",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 103,
+      "russian": "Заграждение",
+      "status": "included",
+      "nounId": "noun-590deefd81ed",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 104,
+      "russian": "Преграда",
+      "status": "included",
+      "nounId": "noun-51094f63c7e7",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 105,
+      "russian": "Препятствие",
+      "status": "included",
+      "nounId": "noun-01f162607721",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 106,
+      "russian": "Противо-",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 107,
+      "russian": "Противотанковый",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 108,
+      "russian": "Противопехотный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 109,
+      "russian": "Противотранспортный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 110,
+      "russian": "Противодесантный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 111,
+      "russian": "Взрывной",
+      "status": "excluded",
+      "reason": "Source meaning is an adverb, verb or adjective, not the dictionary noun homograph"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 112,
+      "russian": "Невзрывной",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 113,
+      "russian": "Минное поле",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 114,
+      "russian": "Фугас",
+      "status": "included",
+      "nounId": "noun-e403bace1a32",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 115,
+      "russian": "Мина-ловушка",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 116,
+      "russian": "Ров",
+      "status": "included",
+      "nounId": "noun-f4bbefd3ea77",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 117,
+      "russian": "Эскарп",
+      "status": "included",
+      "nounId": "noun-ffc3845d9d23",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 118,
+      "russian": "Контрэскарп",
+      "status": "included",
+      "nounId": "noun-1c5c59de8826",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 119,
+      "russian": "Надолба",
+      "status": "included",
+      "nounId": "noun-844e25143853",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 120,
+      "russian": "Ёж",
+      "status": "excluded",
+      "reason": "Incomplete or ambiguous dictionary paradigm"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 121,
+      "russian": "Колючая проволока",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 122,
+      "russian": "Проволока",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 123,
+      "russian": "Проволочная спираль",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 124,
+      "russian": "Проволочное препятствие",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 125,
+      "russian": "Рогатка",
+      "status": "included",
+      "nounId": "noun-599d0b262c9f",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 126,
+      "russian": "Спираль",
+      "status": "included",
+      "nounId": "noun-bec6a4392beb",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 127,
+      "russian": "Ориентирование",
+      "status": "included",
+      "nounId": "noun-c63711a26ffa",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "maasto-ja-linnoitteet.csv",
+      "row": 128,
+      "russian": "Ориентироваться",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 2,
+      "russian": "Мотострелковый",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 3,
+      "russian": "Стрелковая рота",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 4,
+      "russian": "Авиационный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 5,
+      "russian": "Зенитный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 6,
+      "russian": "Танковый",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 7,
+      "russian": "Артиллерийский",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 8,
+      "russian": "Военный",
+      "status": "excluded",
+      "reason": "Source meaning is an adverb, verb or adjective, not the dictionary noun homograph"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 9,
+      "russian": "Десантный (воздушный)",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 10,
+      "russian": "Десантный (морской)",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 11,
+      "russian": "Разведчик",
+      "status": "included",
+      "nounId": "noun-a55ef3b3ea23",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 12,
+      "russian": "Транспортный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 13,
+      "russian": "Военно-транспортный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 14,
+      "russian": "Десантно-транспортный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 15,
+      "russian": "Связь",
+      "status": "included",
+      "nounId": "noun-46293bc66a06",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 16,
+      "russian": "Санитарный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 17,
+      "russian": "Подразделение",
+      "status": "included",
+      "nounId": "noun-7dad8a4c3218",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 18,
+      "russian": "Соединение",
+      "status": "included",
+      "nounId": "noun-f1860582a24e",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 19,
+      "russian": "Объединение",
+      "status": "included",
+      "nounId": "noun-1ba67f1e1b10",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 20,
+      "russian": "Отделение",
+      "status": "included",
+      "nounId": "noun-969232575d95",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 21,
+      "russian": "Взвод",
+      "status": "included",
+      "nounId": "noun-a90d953671ad",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 22,
+      "russian": "Рота",
+      "status": "included",
+      "nounId": "noun-c7cfda6b2d7c",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 23,
+      "russian": "Батальон",
+      "status": "included",
+      "nounId": "noun-9553300154e2",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 24,
+      "russian": "Пулемётный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 25,
+      "russian": "Миномётный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 26,
+      "russian": "Сапёр",
+      "status": "included",
+      "nounId": "noun-9325962104b0",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 27,
+      "russian": "Сапёрный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 28,
+      "russian": "Инженерный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 29,
+      "russian": "Пехота",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 30,
+      "russian": "Номер расчёта",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 31,
+      "russian": "Расчёт",
+      "status": "included",
+      "nounId": "noun-1ad7e3ee2037",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 32,
+      "russian": "Батарея",
+      "status": "included",
+      "nounId": "noun-980f21644598",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 33,
+      "russian": "Дивизион",
+      "status": "included",
+      "nounId": "noun-859fbdd76209",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 34,
+      "russian": "Экипаж",
+      "status": "included",
+      "nounId": "noun-57ea737d3b17",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 35,
+      "russian": "Полк",
+      "status": "included",
+      "nounId": "noun-5a3b2ddda69a",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 36,
+      "russian": "Штаб",
+      "status": "included",
+      "nounId": "noun-f003e57a2e2a",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 37,
+      "russian": "Обеспечение",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 38,
+      "russian": "Обслуживание",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 39,
+      "russian": "Служба тыла",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 40,
+      "russian": "Снабжение",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 41,
+      "russian": "Тыл",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 42,
+      "russian": "Тыловая служба",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 43,
+      "russian": "Тыловое обеспечение",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 44,
+      "russian": "Бригада",
+      "status": "included",
+      "nounId": "noun-2e44dd2df27e",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 45,
+      "russian": "Дивизия",
+      "status": "included",
+      "nounId": "noun-cd5f7d9be892",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 46,
+      "russian": "Армия",
+      "status": "included",
+      "nounId": "noun-69f9429df773",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 47,
+      "russian": "Фронт",
+      "status": "included",
+      "nounId": "noun-a4af09d8d578",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 48,
+      "russian": "Армейская группа",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 49,
+      "russian": "Войска",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 50,
+      "russian": "Войсковой",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 51,
+      "russian": "Род войск",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 52,
+      "russian": "Боец",
+      "status": "included",
+      "nounId": "noun-76140319a466",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 53,
+      "russian": "Воин",
+      "status": "included",
+      "nounId": "noun-27669abae12c",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 54,
+      "russian": "Пехотинец",
+      "status": "included",
+      "nounId": "noun-332f8b07f0a0",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 55,
+      "russian": "Пехотный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 56,
+      "russian": "Солдат",
+      "status": "included",
+      "nounId": "noun-c6aeb4770d40",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 57,
+      "russian": "Воздушнодесантные войска",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 58,
+      "russian": "Воздушнодесантный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 59,
+      "russian": "Воздушный десант",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 60,
+      "russian": "Десант (воздушный)",
+      "status": "included",
+      "nounId": "noun-05420fdea97f",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 61,
+      "russian": "Десант (морской)",
+      "status": "included",
+      "nounId": "noun-05420fdea97f",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 62,
+      "russian": "Разведгруппа",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 63,
+      "russian": "Командир",
+      "status": "included",
+      "nounId": "noun-e368136fc24b",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 64,
+      "russian": "Передовой отряд",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 65,
+      "russian": "Майор",
+      "status": "included",
+      "nounId": "noun-c632af1cd291",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 66,
+      "russian": "Артиллерия",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 67,
+      "russian": "Береговая артиллерия",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 68,
+      "russian": "Зенитная артиллерия",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 69,
+      "russian": "Полевая артиллерия",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 70,
+      "russian": "Ракетная артиллерия",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "organisaatiorakenne.csv",
+      "row": 71,
+      "russian": "Корпус",
+      "status": "excluded",
+      "reason": "Military corps needs корпуса; installed dictionary prefers корпусы for a different sense"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 1,
+      "russian": "В наступление!",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 2,
+      "russian": "Да",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 3,
+      "russian": "Нет",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 4,
+      "russian": "Пожалуйста",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 5,
+      "russian": "Спасибо",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 6,
+      "russian": "Извините",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 7,
+      "russian": "Я понимаю",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 8,
+      "russian": "Я не понимаю",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 9,
+      "russian": "Говорите медленно",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 10,
+      "russian": "Повторите",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 11,
+      "russian": "Вы говорите по-английски?",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 12,
+      "russian": "Я из России",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 13,
+      "russian": "Я из Финляндии",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 14,
+      "russian": "Я гражданский",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 15,
+      "russian": "Мы мирные",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 16,
+      "russian": "Где?",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 17,
+      "russian": "Кто вы?",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 18,
+      "russian": "Что это?",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 19,
+      "russian": "Подождите",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 20,
+      "russian": "Я потерялся",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 21,
+      "russian": "Помогите!",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 22,
+      "russian": "Стой!",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 23,
+      "russian": "Осторожно!",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 24,
+      "russian": "Опасно!",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 25,
+      "russian": "Спокойно",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 26,
+      "russian": "Я не хочу проблем",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 27,
+      "russian": "Не трогайте меня",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 28,
+      "russian": "Мне нужен врач",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 29,
+      "russian": "Где больница?",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 30,
+      "russian": "Где полиция?",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 31,
+      "russian": "Мне плохо",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 32,
+      "russian": "Мне холодно",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 33,
+      "russian": "Я ранен",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 34,
+      "russian": "Вода",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 35,
+      "russian": "Еда",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 36,
+      "russian": "Мне нужна вода",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 37,
+      "russian": "Мне нужна еда",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 38,
+      "russian": "Я голоден",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 39,
+      "russian": "У меня нет …",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 40,
+      "russian": "У вас есть телефон?",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 41,
+      "russian": "Иди сюда!",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 42,
+      "russian": "Давай!",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 43,
+      "russian": "Руки вверх!",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "rintamavenajan-alkeet.csv",
+      "row": 44,
+      "russian": "Убей!",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 2,
+      "russian": "Рядовой",
+      "status": "included",
+      "nounId": "noun-405a82e69182",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 3,
+      "russian": "Ефрейтор",
+      "status": "included",
+      "nounId": "noun-51a0d10a5d25",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 4,
+      "russian": "Младший сержант",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 5,
+      "russian": "Сержант",
+      "status": "included",
+      "nounId": "noun-19367dff88aa",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 6,
+      "russian": "Старший сержант",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 7,
+      "russian": "Старшина",
+      "status": "excluded",
+      "reason": "Incomplete or ambiguous dictionary paradigm"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 8,
+      "russian": "Курса́нт",
+      "status": "included",
+      "nounId": "noun-9f4d1933cb7b",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 9,
+      "russian": "Прапорщик",
+      "status": "included",
+      "nounId": "noun-a612740c5482",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 10,
+      "russian": "Старший прапорщик",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 11,
+      "russian": "Младший лейтенант",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 12,
+      "russian": "Лейтенант",
+      "status": "included",
+      "nounId": "noun-5c57492f180a",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 13,
+      "russian": "Старший лейтенант",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 14,
+      "russian": "Капитан",
+      "status": "included",
+      "nounId": "noun-0349c7f5ea97",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 15,
+      "russian": "Майор",
+      "status": "included",
+      "nounId": "noun-c632af1cd291",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 16,
+      "russian": "Подполковник",
+      "status": "included",
+      "nounId": "noun-c5f491fbb9b1",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 17,
+      "russian": "Полковник",
+      "status": "included",
+      "nounId": "noun-456968257eba",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 18,
+      "russian": "Генерал-майор",
+      "status": "included",
+      "nounId": "noun-7f659e152c29",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 19,
+      "russian": "Генерал-лейтенант",
+      "status": "included",
+      "nounId": "noun-e17856b93243",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 20,
+      "russian": "Генерал-полковник",
+      "status": "included",
+      "nounId": "noun-8646c65a59b5",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 21,
+      "russian": "Генерал армии",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "sotilasarvot.csv",
+      "row": 22,
+      "russian": "Маршал Российской Федерации",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 2,
+      "russian": "Огонь",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 3,
+      "russian": "Боевой",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 4,
+      "russian": "Поражать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 5,
+      "russian": "Цель",
+      "status": "included",
+      "nounId": "noun-9f3f0146d912",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 6,
+      "russian": "Поражение (неудача в бою)",
+      "status": "included",
+      "nounId": "noun-ccad0dc6a5fd",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 7,
+      "russian": "Поражение (цели)",
+      "status": "included",
+      "nounId": "noun-ccad0dc6a5fd",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 8,
+      "russian": "Выброска десанта",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 9,
+      "russian": "Высадка воздушного десанта",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 10,
+      "russian": "Передний край",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 11,
+      "russian": "Обнаруживать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 12,
+      "russian": "Враг",
+      "status": "included",
+      "nounId": "noun-3927d2c0ffb9",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 13,
+      "russian": "Вражеский",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 14,
+      "russian": "Противник",
+      "status": "included",
+      "nounId": "noun-ab23eb0d2dcc",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 15,
+      "russian": "Огневой",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 16,
+      "russian": "Бой",
+      "status": "excluded",
+      "reason": "Incomplete or ambiguous dictionary paradigm"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 17,
+      "russian": "Форсирование",
+      "status": "included",
+      "nounId": "noun-28e4aa6dd9b0",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 18,
+      "russian": "Форсировать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 19,
+      "russian": "Переправа",
+      "status": "included",
+      "nounId": "noun-72bbee5fca9a",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 20,
+      "russian": "Переправляться",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 21,
+      "russian": "Занимать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 22,
+      "russian": "Занять",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 23,
+      "russian": "Плацдарм",
+      "status": "included",
+      "nounId": "noun-b3f3ea0d7c95",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 24,
+      "russian": "Прикрывать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 25,
+      "russian": "Прикрытие",
+      "status": "included",
+      "nounId": "noun-413f16779a65",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 26,
+      "russian": "Позиция",
+      "status": "included",
+      "nounId": "noun-1bf67d8542f3",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 27,
+      "russian": "Рубеж",
+      "status": "included",
+      "nounId": "noun-4d5e45bc5063",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 28,
+      "russian": "Атака",
+      "status": "included",
+      "nounId": "noun-ef5873a7aa10",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 29,
+      "russian": "Атаковать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 30,
+      "russian": "Штурм",
+      "status": "included",
+      "nounId": "noun-d2feb79e69a7",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 31,
+      "russian": "Оборона",
+      "status": "included",
+      "nounId": "noun-0e222107ca7b",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 32,
+      "russian": "Оборонять",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 33,
+      "russian": "Обороняться",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 34,
+      "russian": "Обороняющийся",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 35,
+      "russian": "Ответный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 36,
+      "russian": "Успешно",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 37,
+      "russian": "Ввести в бой",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 38,
+      "russian": "Вступить в бой",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 39,
+      "russian": "Вывести из боя",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 40,
+      "russian": "Выводить из боя",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 41,
+      "russian": "Завязать бой",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 42,
+      "russian": "Преследование",
+      "status": "included",
+      "nounId": "noun-73956733bffa",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 43,
+      "russian": "Преследовать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 44,
+      "russian": "Уничтожать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 45,
+      "russian": "Уничтожение",
+      "status": "included",
+      "nounId": "noun-c61e4fe6522a",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 46,
+      "russian": "Захват",
+      "status": "included",
+      "nounId": "noun-a751edad1721",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 47,
+      "russian": "Захватывать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 48,
+      "russian": "Захваченный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 49,
+      "russian": "Вести бой",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 50,
+      "russian": "Вести войну",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 51,
+      "russian": "Вести наблюдение",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 52,
+      "russian": "Вести огонь",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 53,
+      "russian": "Вести разведку",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 54,
+      "russian": "Вести стрельбу",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 55,
+      "russian": "Война",
+      "status": "included",
+      "nounId": "noun-b0f0a09c1f52",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 56,
+      "russian": "Наблюдение",
+      "status": "included",
+      "nounId": "noun-a326b5f53352",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 57,
+      "russian": "Стрельба",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 58,
+      "russian": "Наблюдатель",
+      "status": "included",
+      "nounId": "noun-d3387cfd4d91",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 59,
+      "russian": "Наблюдать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 60,
+      "russian": "Наступательный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 61,
+      "russian": "Наступать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 62,
+      "russian": "Наступающий",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 63,
+      "russian": "Наступление",
+      "status": "included",
+      "nounId": "noun-814ff22371e1",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 64,
+      "russian": "Боевой порядок",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 65,
+      "russian": "Предбоевой порядок",
+      "status": "excluded",
+      "reason": "Phrase, abbreviation or non-noun expression; not a standalone noun"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 66,
+      "russian": "Развёртывание",
+      "status": "included",
+      "nounId": "noun-9b31c6e69e95",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 67,
+      "russian": "Развернуться",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 68,
+      "russian": "Овладевать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 69,
+      "russian": "Овладение",
+      "status": "included",
+      "nounId": "noun-5980c2829cf1",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 70,
+      "russian": "Перейти",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 71,
+      "russian": "Переход",
+      "status": "included",
+      "nounId": "noun-e98b7d5e2b78",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 72,
+      "russian": "Переходить",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 73,
+      "russian": "Оценивать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 74,
+      "russian": "Оценка",
+      "status": "included",
+      "nounId": "noun-45b9ff4df114",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 75,
+      "russian": "Обстановка",
+      "status": "included",
+      "nounId": "noun-c692e07c820c",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 76,
+      "russian": "Мера",
+      "status": "included",
+      "nounId": "noun-58fdaf47049d",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 77,
+      "russian": "Решение",
+      "status": "included",
+      "nounId": "noun-924a6e352c6e",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 78,
+      "russian": "Участие",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 79,
+      "russian": "Упредить",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 80,
+      "russian": "Упреждение",
+      "status": "included",
+      "nounId": "noun-b19117740906",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 81,
+      "russian": "Выход",
+      "status": "included",
+      "nounId": "noun-4e9d56e63f86",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 82,
+      "russian": "Выдвигаться",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 83,
+      "russian": "Выдвижение",
+      "status": "included",
+      "nounId": "noun-2354747a9e26",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 84,
+      "russian": "Выдвинуться",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 85,
+      "russian": "Направление",
+      "status": "included",
+      "nounId": "noun-2f3d51f8b74e",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 86,
+      "russian": "Намеченный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 87,
+      "russian": "Появление",
+      "status": "included",
+      "nounId": "noun-8888d86f7bd2",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 88,
+      "russian": "Появляться",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 89,
+      "russian": "Змейка",
+      "status": "excluded",
+      "reason": "Incomplete or ambiguous dictionary paradigm"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 90,
+      "russian": "Колонна",
+      "status": "included",
+      "nounId": "noun-10cb949b596a",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 91,
+      "russian": "Цепь",
+      "status": "included",
+      "nounId": "noun-7dba84f98819",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 92,
+      "russian": "Шеренга",
+      "status": "included",
+      "nounId": "noun-d40f0f73317a",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 93,
+      "russian": "Внезапность",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 94,
+      "russian": "Внезапный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 95,
+      "russian": "Врасплох",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 96,
+      "russian": "Застигать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 97,
+      "russian": "Организованный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 98,
+      "russian": "Организовать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 99,
+      "russian": "Помощь",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 100,
+      "russian": "Сопротивление",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 101,
+      "russian": "Осторожно",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 102,
+      "russian": "Собирать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 103,
+      "russian": "Данные",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 104,
+      "russian": "Сведения",
+      "status": "excluded",
+      "reason": "Mass/collective sense or restricted number; unsuitable for shared singular/plural bank"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 105,
+      "russian": "Решать",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 106,
+      "russian": "Обман",
+      "status": "included",
+      "nounId": "noun-c3103116bd80",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 107,
+      "russian": "Разведка",
+      "status": "included",
+      "nounId": "noun-50a051a3e361",
+      "reason": "Dictionary paradigm verified in all 12 cells"
+    },
+    {
+      "file": "taistelu-ja-taktiikka.csv",
+      "row": 108,
+      "russian": "Разведывательный",
+      "status": "excluded",
+      "reason": "No eligible dictionary-backed singular nominative noun (non-noun, plural-only, indeclinable or unknown)"
+    }
+  ]
+}

@@ -136,9 +136,9 @@ The timer begins with the first typed character. After completing a text, the ga
 
 These stories follow Private Ivan near the front in Ukraine. The text is in Russian. English translations help you study each sentence. Each available story has audio. You can play, pause, restart, and seek the audio. The full story is also available as one long recording.
 
-Exercise PDFs are added automatically to the menus during `npm run dev` or `npm run build`. Put fill-the-blank files in `public/learning-materials/fill-the-blank/` and reading-comprehension files in `public/learning-materials/reading-comprehension/`. The PDF filename, without its extension, becomes the button label; underscores and hyphens are shown as spaces.
+Short War Stories opens the listening menu directly, with Ivan in Ukraine and the looping soundtrack (Tartu mikkiin / Soundtrack Loop).
 
-Looping soundtrack files work the same way: put MP3 files in `public/learning-materials/soundtrack-loop/`. Starting development or building the app creates their menu buttons automatically.
+Add soundtrack MP3 files to `public/learning-materials/soundtrack-loop/`. Starting development or building the app creates their menu buttons automatically.
 
 ![Short War Stories menu](docs/short-war-stories-menu.png)
 

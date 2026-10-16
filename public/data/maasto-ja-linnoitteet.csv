@@ -1,127 +1,128 @@
 Russian,Finnish
-прямо, suoraan
-справа, oikealla
-слева, vasemmalla
-рядом, vieressä
-стоять, seisoa
-лежать, maata
-местность, maasto
-большой, suuri
-маленький, pieni
-узкий, kapea
-широкий, leveä
-равнина, tasanko
-течь, virrata
-река, joki
-глубокий, syvä
-мелкий, matala
-неглубокий, matala
-левый, vasen
-налево, vasemmalle
-направо, oikealle
-правый, oikea
-берег, ranta
-высокий, korkea
-невысокий, matala
-низкий, matala
-крутой, jyrkkä
-пологий, loiva
-овраг, rotko
-ручей, puro
-недалеко, lähellä
-холм, mäki
-восток, itä
-восточный, itäinen
-запад, länsi
-западный, läntinen
-север, pohjoinen
-северный, pohjoinen
-юг, etelä
-южный, eteläinen
-скат, rinne
-дальше, kauempana
-лес, metsä
-лиственный лес, lehtimetsä
-смешанный, seka
-хвойный лес, havumetsä
-расти, kasvaa
-густой, tiheä
-редкий, harva
-кустарник, pensaikko
-луг, niitty
-болото, suo
-населённый пункт, asutuskeskus
-деревня, kylä
-море, meri
-озеро, järvi
-океан, valtameri
-пройти, kulkea
-проходить, kulkea
-грунтовая дорога, soratie
-дорога, tie
-шоссе, valtatie
-шоссейная дорога, valtatie
-улица, katu
-тропа, polku
-тропинка, polku
-поле, pelto
-топографический, topografinen
-топография, topografia
-рельеф, maastonmuoto
-растительный покров, kasvipeite
-впереди, edessä
-позади, takana
-лощина, notko
-вблизи, lähellä
-вдали, kaukana
-железная дорога, rautatie
-железнодорожный, rautatie
-мост, silta
-темнеть, pimetä
-тёмный, pimeä
-компас, kompassi
-ориентир, kiintopiste
-местный, paikallinen
-местный предмет, maastonkohta
-место, paikka
-предмет, kohde
-высота, korkeus
-район, alue
-территория, alue
-пересечённый, epätasainen
-огневая точка, tulipesäke
-точка, piste
-оборудовать, rakentaa
-траншея, taisteluhauta
-опорный пункт, tukikohta
-наблюдательный пункт, tähystyspaikka
-укрепление, linnoitus
-укреплённый, linnoitettu
-укреплять, linnoittaa
-водная преграда, vesistöeste
-заграждение, sulute
-преграда, este
-препятствие, este
-противо-, vasta
-противотанковый, panssarintorjunta
-противопехотный, jalkaväentorjunta
-противотранспортный, tientuhoaminen
-противодесантный, maihinnousuntorjunta
-взрывной, räjähtävä
-невзрывной, räjähtämätön
-минное поле, miinakenttä
-фугас, räjähde
-мина-ловушка, ansamiina
-ров, kaivanto
-эскарп, vastarinneleikkaus
-контрэскарп, myötärinneleikkaus
-надолба, estepaalu
-ёж, siili
-колючая проволока, piikkilanka
-проволока, piikkilanka
-проволочная спираль, lieriöeste
-проволочное препятствие, piikkilankaeste
-рогатка, espanjalaisratsu
-спираль, spiraali
-ориентирование, suunnistus
-ориентироваться, suunnistaa
+Прямо,Suoraan
+Справа,Oikealla
+Слева,Vasemmalla
+Рядом,Vieressä
+Стоять,Seisoa
+Лежать,Maata
+Местность,Maasto
+Большой,Suuri
+Маленький,Pieni
+Узкий,Kapea
+Широкий,Leveä
+Равнина,Tasanko
+Течь,Virrata
+Река,Joki
+Глубокий,Syvä
+Мелкий,Matala
+Неглубокий,Matala
+Левый,Vasen
+Налево,Vasemmalle
+Направо,Oikealle
+Правый,Oikea
+Берег,Ranta
+Высокий,Korkea
+Невысокий,Matala
+Низкий,Matala
+Крутой,Jyrkkä
+Пологий,Loiva
+Овраг,Rotko
+Ручей,Puro
+Недалеко,Lähellä
+Холм,Mäki
+Восток,Itä
+Восточный,Itäinen
+Запад,Länsi
+Западный,Läntinen
+Север,Pohjoinen
+Северный,Pohjoinen
+Юг,Etelä
+Южный,Eteläinen
+Скат,Rinne
+Дальше,Kauempana
+Лес,Metsä
+Лиственный лес,Lehtimetsä
+Смешанный,Seka
+Хвойный лес,Havumetsä
+Расти,Kasvaa
+Густой,Tiheä
+Редкий,Harva
+Кустарник,Pensaikko
+Луг,Niitty
+Болото,Suo
+Населённый пункт,Asutuskeskus
+Деревня,Kylä
+Море,Meri
+Озеро,Järvi
+Океан,Valtameri
+Пройти,Kulkea
+Проходить,Kulkea
+Грунтовая дорога,Päällystämätön tie
+Дорога,Tie
+Шоссе,Maantie
+Шоссейная дорога,Maantie
+Улица,Katu
+Тропа,Polku
+Тропинка,Polku
+Поле,Pelto
+Топографический,Topografinen
+Топография,Topografia
+Рельеф,Maastonmuoto
+Растительный покров,Kasvipeite
+Впереди,Edessä
+Позади,Takana
+Лощина,Notko
+Вблизи,Lähellä
+Вдали,Kaukana
+Железная дорога,Rautatie
+Железнодорожный,Rautatie
+Мост,Silta
+Темнеть,Pimetä
+Тёмный,Pimeä
+Компас,Kompassi
+Ориентир,Kiintopiste
+Местный,Paikallinen
+Местный предмет,Maastonkohta
+Место,Paikka
+Предмет,Kohde
+Высота (над уровнем моря),Korkeus (merenpinnasta)
+Высота (возвышенность),Kukkula (maastonkohta)
+Район,Alue
+Территория,Alue
+Пересечённый,Epätasainen
+Огневая точка,Tuliasema
+Точка,Piste
+Оборудовать,Varustaa
+Траншея,Taisteluhauta
+Опорный пункт,Tukikohta
+Наблюдательный пункт,Tähystyspaikka
+Укрепление,Linnoitus
+Укреплённый,Linnoitettu
+Укреплять,Linnoittaa
+Водная преграда,Vesistöeste
+Заграждение,Sulute
+Преграда,Este
+Препятствие,Este
+Противо-,Vasta
+Противотанковый,Panssarintorjunta
+Противопехотный,Jalkaväentorjunta
+Противотранспортный,Ajoneuvontorjunta-
+Противодесантный,Maihinnousuntorjunta
+Взрывной,Räjähtävä
+Невзрывной,Räjähteetön
+Минное поле,Miinakenttä
+Фугас,Räjähde
+Мина-ловушка,Ansamiina
+Ров,Kaivanto
+Эскарп,Eskarppi
+Контрэскарп,Kontreskarppi
+Надолба,Estepaalu
+Ёж,Siili
+Колючая проволока,Piikkilanka
+Проволока,Lanka (metalli)
+Проволочная спираль,Lieriöeste
+Проволочное препятствие,Piikkilankaeste
+Рогатка,Espanjalaisratsu
+Спираль,Spiraali
+Ориентирование,Suunnistus
+Ориентироваться,Suunnistaa

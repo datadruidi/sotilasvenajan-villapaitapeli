@@ -1,47 +1,56 @@
-﻿Russian,Finnish
-танк,tank
-гусеничный,tracked
-бронированный,armoured
-машина,vehicle
-броневой,armour
-башня,turret
-вооружение,armament
-силовая установка,power source
-силовая передача,transmission
-ходовая часть,platform
-электрооборудование,electrical system
-средства связи,communications equipment
-корабль,ship
-судно,vessel
-плавсредство,platform
-флот,equipment
-оборудование,equipment
-устройство,equipment
-судно,vessel
-корабль,ship
-фрегат,frigate
-крейсер,cruiser
-линкор,battleship
-подводная лодка,submarine
-минный заградитель,minelayer
-тральщик,minesweeper
-торпедный катер,torpedo boat
-канонерская лодка,gunboat
-самолёт,aircraft
-полёт,flight
-аэродром,airfield
-шасси,landing gear
-двигатель,engine
-кабина,cockpit
-крыло,wing
-хвост,tail
-фюзеляж,hull
-авианосец,aircraft carrier
-вертолётоносец,helicopter carrier
-десантный вертолётоносец,amphibious assault ship
-вертолёт,helicopter
-бомбардировщик,bomber
-торпедоносец,torpedo bomber
-истребитель-бомбардировщик,fighter-bomber
-истребитель,fighter
-истребитель-перехватчик,interceptor
+Russian,English
+Танк,Tank
+Гусеничный,Tracked
+Бронированный,Armoured
+Машина,Vehicle
+Броневой,Armour
+Башня,Turret
+Вооружение,Armament
+Силовая установка,Power source
+Силовая передача,Transmission
+Ходовая часть,Running gear
+Электрооборудование,Electrical system
+Средство связи,Communication device
+Корабль (военный),Warship (military usage)
+Судно (гражданское),Vessel (civilian usage)
+Авианосец,Aircraft carrier
+Линейный корабль (парусный),Ship of the line (sailing ship)
+Линейный корабль (броненосный),Battleship
+Линкор,Battleship
+Крейсер,Cruiser
+Подводная лодка,Submarine
+Эскадренный миноносец,Destroyer (full term)
+Эсминец,Destroyer (abbreviation)
+Вертолётоносец,Helicopter carrier
+Десантный вертолётоносец,Amphibious assault ship
+Сторожевой корабль,Patrol ship
+Артиллерийский катер,Artillery boat
+Торпедный катер,Torpedo boat
+Тральщик,Minesweeper
+Минный заградитель,Minelayer
+Аэродром,Airfield
+Вертолёт,Helicopter
+Самолёт,Aircraft
+Кабина,Cockpit
+Двигатель,Engine
+Мотор,Motor
+Летательный,Flying
+Аппарат,Apparatus
+Крыло,Wing
+Фюзеляж,Fuselage
+Оперение,Tail assembly
+Шасси,Landing gear
+Техника,Materiel
+Бомбардировщик,Bomber
+Торпедоносец,Torpedo bomber
+Истребитель-бомбардировщик,Fighter-bomber
+Истребитель,Fighter
+Истребитель-перехватчик,Interceptor
+Плавсредство,Watercraft
+Флот,Fleet
+Оборудование,Equipment
+Устройство,Device
+Фрегат,Frigate
+Канонерская лодка,Gunboat
+Полёт,Flight
+Хвост,Tail

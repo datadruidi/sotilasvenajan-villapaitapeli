@@ -4,10 +4,10 @@
   "version": "1.0.12",
   "type": "module",
   "scripts": {
-    "predev": "node scripts/list-learning-pdfs.cjs",
+    "predev": "node scripts/list-soundtrack.cjs",
     "dev": "vite",
     "copy-readme": "node scripts/copy-readme.cjs",
-    "prebuild": "node scripts/copy-readme.cjs && node scripts/list-learning-pdfs.cjs",
+    "prebuild": "node scripts/copy-readme.cjs && node scripts/list-soundtrack.cjs",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",

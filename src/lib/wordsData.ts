@@ -138,28 +138,38 @@ function parseCSV(text: string): string[][] {
   const lines = text.trim().split(/\r?\n/)
   const rows: string[][] = []
   for (const line of lines) {
-    const cells: string[] = []
-    const sep = line.includes(';') ? ';' : ','
-    let rest = line
-    while (rest.length > 0) {
-      if (rest.startsWith('"')) {
-        const end = rest.indexOf('"', 1)
-        if (end === -1) {
-          cells.push(rest.slice(1).replace(/""/g, '"'))
-          break
-        }
-        cells.push(rest.slice(1, end).replace(/""/g, '"'))
-        rest = rest.slice(end + 1).replace(/^\s*[\s,]/, '')
-        continue
-      }
-      const idx = rest.indexOf(sep)
-      if (idx === -1) {
-        cells.push(rest.trim())
+    // Detect separators outside quotes so punctuation in a term stays in its cell.
+    let quoted = false
+    let sep = ','
+    for (let i = 0; i < line.length; i++) {
+      if (line[i] === '"') {
+        if (quoted && line[i + 1] === '"') i++
+        else quoted = !quoted
+      } else if (!quoted && line[i] === ';') {
+        sep = ';'
         break
       }
-      cells.push(rest.slice(0, idx).trim())
-      rest = rest.slice(idx + 1)
     }
+    const cells: string[] = []
+    let cell = ''
+    quoted = false
+    for (let i = 0; i < line.length; i++) {
+      const char = line[i]
+      if (char === '"') {
+        if (quoted && line[i + 1] === '"') {
+          cell += '"'
+          i++
+        } else {
+          quoted = !quoted
+        }
+      } else if (!quoted && char === sep) {
+        cells.push(cell.trim())
+        cell = ''
+      } else {
+        cell += char
+      }
+    }
+    cells.push(cell.trim())
     rows.push(cells)
   }
   return rows
@@ -199,12 +209,29 @@ function isPromptFormatHeader(cells: string[]): boolean {
  * - 8-column format (abbreviation + 4 options): Russian,Finnish,Finnish_alt1,Finnish_alt2,Finnish_alt3,Russian_alt1,Russian_alt2,Russian_alt3
  *   → one correct + three fixed wrong options per direction (user’s own “similar words”).
  */
+const wordsCache = new Map<string, Promise<WordEntry[]>>()
+
+/** Cache successful lists for this page session and share concurrent requests. */
 export async function loadWordsCSV(listId: WordsListIdWithFile, appLanguage: AppLanguage = 'fin'): Promise<WordEntry[]> {
+  const key = `${appLanguage}:${listId}`
+  let pending = wordsCache.get(key)
+  if (!pending) {
+    pending = fetchWordsCSV(listId, appLanguage).catch((error: unknown) => {
+      wordsCache.delete(key)
+      throw error
+    })
+    wordsCache.set(key, pending)
+  }
+  // Callers own their arrays, including fixed answer options.
+  return structuredClone(await pending)
+}
+
+async function fetchWordsCSV(listId: WordsListIdWithFile, appLanguage: AppLanguage): Promise<WordEntry[]> {
   const filename = WORDS_FILES[listId]
   const primaryUrl = getWordsCsvUrl(listId, appLanguage)
-  let res = await fetch(primaryUrl, { cache: 'no-store' })
+  let res = await fetch(primaryUrl, { cache: 'no-cache' })
   if (!res.ok && appLanguage === 'eng') {
-    res = await fetch(getWordsCsvUrl(listId, 'fin'), { cache: 'no-store' })
+    res = await fetch(getWordsCsvUrl(listId, 'fin'), { cache: 'no-cache' })
   }
   if (!res.ok) throw new Error(`Could not load words file: ${res.status} ${res.statusText}. Place the file at public/data/${filename}`)
   let text = await res.text()

@@ -12,10 +12,10 @@ import './CyrillicTypingGameView.css'
 type GameState = 'difficulty-selection' | 'ready' | 'running' | 'cancelled' | 'finishing' | 'finished'
 const EMPTY_STATS: TypingAttemptStats = { totalCharacterAttempts: 0, correctCharacterAttempts: 0, incorrectCharacterAttempts: 0 }
 const DIFFICULTIES: TypingDifficulty[] = ['easy', 'harder', 'svo']
-const TANK_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/tankracer.png`
-const MINE_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/mine.png`
-const FLAG_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/flag.png`
-const DESTROYED_TANK_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/explosion.png`
+const TANK_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/tankracer.webp`
+const MINE_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/mine.webp`
+const FLAG_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/flag.webp`
+const DESTROYED_TANK_IMAGE_URL = `${import.meta.env.BASE_URL}assets/typing/explosion.webp`
 const BACKGROUND_MUSIC_URL = `${import.meta.env.BASE_URL}tiedot-ja-asetukset/audio/background.mp3`
 const LABELS: Record<TypingDifficulty, { fi: string; en: string }> = {
   easy: { fi: 'Helppo', en: 'Easy' },
@@ -76,10 +76,11 @@ export function CyrillicTypingGameView({ appLanguage, muted, onToggleMute, onBac
 
   useEffect(() => {
     if (state !== 'running') return
-    let frame = 0
-    const update = () => { if (startRef.current != null) setElapsed(performance.now() - startRef.current); frame = requestAnimationFrame(update) }
-    frame = requestAnimationFrame(update)
-    return () => cancelAnimationFrame(frame)
+    // The clock displays tenths; final results still use performance.now() directly.
+    const interval = window.setInterval(() => {
+      if (startRef.current != null) setElapsed(performance.now() - startRef.current)
+    }, 100)
+    return () => window.clearInterval(interval)
   }, [state])
 
   const resetAttempt = useCallback((cancelled = false) => {

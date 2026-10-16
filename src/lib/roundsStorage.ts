@@ -6,7 +6,7 @@
 const ROUNDS_PREFIX = 'miliingo-rounds-'
 const MAX_ROUNDS = 100
 
-export function getRoundsKey(type: 'vehicles' | 'words' | 'garrisons' | 'tactical-signs' | 'ranks', subKey: string): string {
+export function getRoundsKey(type: 'vehicles' | 'words' | 'garrisons' | 'tactical-signs' | 'ranks' | 'cases', subKey: string): string {
   return `${ROUNDS_PREFIX}${type}_${subKey}`
 }
 

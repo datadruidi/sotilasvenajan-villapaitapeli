@@ -1,69 +1,71 @@
 Russian,Finnish
-мотострелковый, moottoroitu
-стрелковая рота, kiväärikomppania
-авиационный, ilma
-зенитный, ilmatorjunta
-танковый, panssari
-артиллерийский, tykistö
-военный, sotilas
-десантный, maihinnousu
-разведчик, tiedustelija
-транспортный, kuljetus
-военно-транспортный, sotilaskuljetus
-десантно-транспортный, maahanlaskukuljetus
-связь, yhteys
-санитарный, lääkintä
-подразделение, alayksikkö
-соединение, yhtymä
-объединение, armeijaryhmä
-отделение, ryhmä
-взвод, joukkue
-рота, komppania
-батальон, pataljoona
-пулемётный, konekivääri
-миномётный, kranaatinheitin
-сапёр, pioneeri
-сапёрный, pioneeri
-инженерный, pioneeri
-пехота, jalkaväki
-номер расчёта, ryhmänmies
-расчёт, miehistö
-батарея, patteri
-дивизион, patteristo
-экипаж, miehistö
-полк, rykmentti
-штаб, esikunta
-обеспечение, huolto
-обслуживание, ylläpito
-служба тыла, huolto
-снабжение, täydennys
-тыл, selusta
-тыловые службы, huoltolajit
-тыловое обеспечение, huolto
-бригада, prikaati
-дивизия, divisioona
-армия, armeija
-фронт, rintama
-армейская группа, armeijaryhmä
-войска, joukot
-войсковой, joukko
-род войск, aselaji
-боец, taistelija
-воин, soturi
-пехотинец, jalkaväkimies
-пехотный, jalkaväki
-солдат, sotilas
-воздушнодесантные войска, maahanlaskujoukot
-воздушнодесантный, maahanlasku
-воздушный десант, maahanlasku
-десант, maahanlasku
-разведгруппа, tiedusteluryhmä
-командир, komentaja
-передовой отряд, etuosasto
-майор, majuri
-артиллерия, tykistö
-береговая артиллерия, rannikkotykistö
-зенитная артиллерия, ilmatorjuntatykistö
-полевая артиллерия, kenttätykistö
-ракетная артиллерия, rakettitykistö
-корпус, armeijakunta
+Мотострелковый,Moottoroitu jalkaväki-
+Стрелковая рота,Kiväärikomppania
+Авиационный,Ilmailu-
+Зенитный,Ilmatorjunta
+Танковый,Panssari
+Артиллерийский,Tykistö
+Военный,Sotilas
+Десантный (воздушный),Maahanlasku- (ilmasta)
+Десантный (морской),Maihinnousu- (mereltä)
+Разведчик,Tiedustelija
+Транспортный,Kuljetus
+Военно-транспортный,Sotilaskuljetus
+Десантно-транспортный,Maahanlaskukuljetus
+Связь,Yhteys
+Санитарный,Lääkintä
+Подразделение,Alayksikkö
+Соединение,Yhtymä
+Объединение,Operatiivinen yhtymä
+Отделение,Ryhmä
+Взвод,Joukkue
+Рота,Komppania
+Батальон,Pataljoona
+Пулемётный,Konekivääri
+Миномётный,Kranaatinheitin
+Сапёр,Pioneeri
+Сапёрный,Pioneeri
+Инженерный,Pioneeri
+Пехота,Jalkaväki
+Номер расчёта,Ryhmänmies
+Расчёт,Miehistö
+Батарея,Patteri
+Дивизион,Patteristo
+Экипаж,Miehistö
+Полк,Rykmentti
+Штаб,Esikunta
+Обеспечение,Tukitoiminta
+Обслуживание,Ylläpito
+Служба тыла,Huolto
+Снабжение,Täydennys
+Тыл,Selusta
+Тыловая служба,Huoltopalvelu
+Тыловое обеспечение,Huolto
+Бригада,Prikaati
+Дивизия,Divisioona
+Армия,Armeija
+Фронт,Rintama
+Армейская группа,Armeijaryhmä
+Войска,Joukot
+Войсковой,Joukko
+Род войск,Aselaji
+Боец,Taistelija
+Воин,Soturi
+Пехотинец,Jalkaväkimies
+Пехотный,Jalkaväki
+Солдат,Sotilas
+Воздушнодесантные войска,Maahanlaskujoukot
+Воздушнодесантный,Maahanlasku
+Воздушный десант,Maahanlasku
+Десант (воздушный),Maahanlasku (ilmasta)
+Десант (морской),Maihinnousu (mereltä)
+Разведгруппа,Tiedusteluryhmä
+Командир,Komentaja
+Передовой отряд,Etuosasto
+Майор,Majuri
+Артиллерия,Tykistö
+Береговая артиллерия,Rannikkotykistö
+Зенитная артиллерия,Ilmatorjuntatykistö
+Полевая артиллерия,Kenttätykistö
+Ракетная артиллерия,Rakettitykistö
+Корпус,Armeijakunta

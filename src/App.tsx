@@ -1,16 +1,11 @@
-import { useEffect, useRef, useState, type ReactNode } from 'react'
-import ReactMarkdown from 'react-markdown'
-import remarkBreaks from 'remark-breaks'
+import { lazy, Suspense, useEffect, useRef, useState, type ReactNode } from 'react'
+import { CASE_IDS, CASE_NAMES } from './types/cases'
+import type { GrammaticalNumber, RussianCase } from './types/cases'
+import { getCaseReviewList } from './lib/caseReviewStorage'
+import { Markdown } from './components/Markdown'
 import './App.css'
-import { GameView } from './components/GameView'
-import { GarrisonsGameView } from './components/GarrisonsGameView'
 import { LadataanIkkuna } from './components/LadataanIkkuna'
-import { MilitaryDistrictInsigniaGameView } from './components/MilitaryDistrictInsigniaGameView'
-import { RanksGameView } from './components/RanksGameView'
-import { TacticalSignsGameView } from './components/TacticalSignsGameView'
 import { SplashScreen } from './components/SplashScreen'
-import { WordsGameView } from './components/WordsGameView'
-import { CyrillicTypingGameView } from './components/CyrillicTypingGameView'
 import { getRoundsKey, getRounds, incrementRounds, formatRoundsDisplay } from './lib/roundsStorage'
 import { playButtonClick } from './lib/sound'
 import { loadWordsCSV, getWordsListLabel, SOTILASSANASTO_MENU_IDS, LYHENTEET_LIST_IDS, isPerussanastoListId, isLyhenteetListId } from './lib/wordsData'
@@ -25,7 +20,36 @@ import type { RankGameEntry } from './lib/ranksLogic'
 import type { MilitaryDistrictInsigniaSubset } from './lib/militaryDistrictInsigniaLogic'
 import type { AppLanguage, ArmySubMode, NavySubMode, VehicleBranch, WordEntry, WordsDirection, WordsDifficulty } from './types/game'
 
-type ContentType = 'vehicles' | 'words' | 'garrisons' | 'tactical-signs' | 'ranks' | 'venajan-asevoimat' | 'osint-daily' | 'memory-game'
+const loadGameView = () => import('./components/GameView')
+const GameView = lazy(() => loadGameView().then(module => ({ default: module.GameView })))
+const loadGarrisonsGameView = () => import('./components/GarrisonsGameView')
+const GarrisonsGameView = lazy(() => loadGarrisonsGameView().then(module => ({ default: module.GarrisonsGameView })))
+const loadMilitaryDistrictInsigniaGameView = () => import('./components/MilitaryDistrictInsigniaGameView')
+const MilitaryDistrictInsigniaGameView = lazy(() => loadMilitaryDistrictInsigniaGameView().then(module => ({ default: module.MilitaryDistrictInsigniaGameView })))
+const loadRanksGameView = () => import('./components/RanksGameView')
+const RanksGameView = lazy(() => loadRanksGameView().then(module => ({ default: module.RanksGameView })))
+const loadTacticalSignsGameView = () => import('./components/TacticalSignsGameView')
+const TacticalSignsGameView = lazy(() => loadTacticalSignsGameView().then(module => ({ default: module.TacticalSignsGameView })))
+const loadWordsGameView = () => import('./components/WordsGameView')
+const WordsGameView = lazy(() => loadWordsGameView().then(module => ({ default: module.WordsGameView })))
+const loadCyrillicTypingGameView = () => import('./components/CyrillicTypingGameView')
+const CyrillicTypingGameView = lazy(() => loadCyrillicTypingGameView().then(module => ({ default: module.CyrillicTypingGameView })))
+
+const loadCaseGameView = () => import('./components/CaseGameView')
+const CaseGameView = lazy(() => loadCaseGameView().then(module => ({ default: module.CaseGameView })))
+
+// Fetch the selected mode's code during the existing three-second loading screen.
+const GAME_LOADERS = {
+  'vehicles-game': loadGameView,
+  'garrisons-game': loadGarrisonsGameView,
+  'district-insignia-game': loadMilitaryDistrictInsigniaGameView,
+  'ranks-game': loadRanksGameView,
+  'tactical-signs-game': loadTacticalSignsGameView,
+  'words-game': loadWordsGameView,
+  'case-game': loadCaseGameView,
+}
+
+type ContentType = 'vehicles' | 'words' | 'garrisons' | 'tactical-signs' | 'ranks' | 'venajan-asevoimat' | 'osint-daily' | 'memory-game' | 'cases'
 type DailyBriefPage = 'current' | 'archive'
 
 /** Branch button id: real branch or placeholder for grayed-out row */
@@ -37,6 +61,7 @@ const CONTENT_TYPES: { id: ContentType; label: string; available: boolean }[] = 
   { id: 'tactical-signs', label: '3. Sotilasmerkistö', available: true },
   { id: 'ranks', label: '4. Sotilasarvot', available: true },
   { id: 'memory-game', label: '5. Sotilasmuistipeli', available: true },
+  { id: 'cases', label: '6. Sijamuotopeli', available: true },
 ]
 
 /** Sub-options under Venäjän asevoimat (same structure as before, just grouped) */
@@ -154,7 +179,7 @@ function OptionWithRoundsRow({
   )
 }
 
-function App() {
+function AppContent() {
   const intro2AudioRef = useRef<HTMLAudioElement | null>(null)
   const [muted, setMuted] = useState(() => {
     try {
@@ -182,6 +207,7 @@ function App() {
     if (id === 'tactical-signs') return '3. Military Symbology'
     if (id === 'ranks') return '4. Military Ranks'
     if (id === 'memory-game') return '5. Memory Game'
+    if (id === 'cases') return '6. Case Practice'
     if (id === 'osint-daily') return 'OSINT Daily Brief'
     return id
   }
@@ -236,10 +262,13 @@ function App() {
   const [dailyBriefError, setDailyBriefError] = useState<string | null>(null)
   const [showDailyBriefInfo, setShowDailyBriefInfo] = useState(false)
   const [showSplash, setShowSplash] = useState(true)
-  const [view, setView] = useState<'landing' | 'vehicles-game' | 'words-game' | 'garrisons-game' | 'district-insignia-game' | 'tactical-signs-game' | 'ranks-game' | 'typing-game'>('landing')
+  const [view, setView] = useState<'landing' | 'vehicles-game' | 'words-game' | 'garrisons-game' | 'district-insignia-game' | 'tactical-signs-game' | 'ranks-game' | 'typing-game' | 'case-game'>('landing')
   const [showLadataanIkkuna, setShowLadataanIkkuna] = useState(false)
-  const [pendingView, setPendingView] = useState<'vehicles-game' | 'words-game' | 'garrisons-game' | 'district-insignia-game' | 'tactical-signs-game' | 'ranks-game' | null>(null)
+  const [pendingView, setPendingView] = useState<'vehicles-game' | 'words-game' | 'garrisons-game' | 'district-insignia-game' | 'tactical-signs-game' | 'ranks-game' | 'case-game' | null>(null)
   const [gameMenuTitle, setGameMenuTitle] = useState('')
+  const [selectedCaseNumber, setSelectedCaseNumber] = useState<GrammaticalNumber | null>(null)
+  const [selectedCase, setSelectedCase] = useState<RussianCase>('nominative')
+  const [caseMode, setCaseMode] = useState<GrammaticalNumber | 'review'>('singular')
 
   const [selectedWordsCategory, setSelectedWordsCategory] = useState<'sotilassanasto' | 'lyhenteet' | null>(null)
   const [selectedWordsList, setSelectedWordsList] = useState<WordsListId | null>(null)
@@ -504,6 +533,14 @@ function App() {
     return true
   }
 
+  useEffect(() => {
+    if (showLadataanIkkuna && pendingView) {
+      // A failed preload is retried by React.lazy when the view opens.
+      void GAME_LOADERS[pendingView]().catch(() => {})
+      if (pendingView === 'case-game') void import('./lib/caseData').then(module => module.loadCaseNouns()).catch(() => {})
+    }
+  }, [showLadataanIkkuna, pendingView])
+
   const finishLadataanIkkuna = () => {
     if (pendingView) setView(pendingView)
     setShowLadataanIkkuna(false)
@@ -522,6 +559,7 @@ function App() {
     setPerussanastoPool([])
     setPerussanastoLoadError(null)
     setSelectedContentType(null)
+    setSelectedCaseNumber(null)
     setSelectedWordsDirection(null)
     setShowDirectionPopup(false)
     setShowRanksReviewDirectionPopup(false)
@@ -546,6 +584,7 @@ function App() {
 
   const closeOptionPopup = () => {
     setSelectedContentType(null)
+    setSelectedCaseNumber(null)
     setSelectedBranch(null)
     setSelectedNavySubMode(null)
     setSelectedArmySubMode(null)
@@ -577,6 +616,13 @@ function App() {
 
   if (showSplash) {
     return <SplashScreen appLanguage={appLanguage} muted={muted} onToggleMute={toggleMute} onPlay={handleSplashPlay} onPlayTypingGame={handleSplashTypingGame} onOpenDailyBrief={openDailyBriefFromSplash} onChangeLanguage={changeAppLanguage} />
+  }
+
+  if (view === 'case-game') {
+    return <CaseGameView mode={caseMode} caseId={selectedCase} appLanguage={appLanguage} muted={muted} onToggleMute={toggleMute} onBack={backToLanding} onRoundComplete={() => {
+      incrementRounds(getRoundsKey('cases', caseMode))
+      if (caseMode !== 'review') incrementRounds(getRoundsKey('cases', `${caseMode}_${selectedCase}`))
+    }} />
   }
 
   if (view === 'typing-game') {
@@ -786,7 +832,7 @@ function App() {
               <button
                 key={ct.id}
                 type="button"
-                className={`option-btn ${ct.available ? '' : 'disabled'}`}
+                className={`option-btn ${ct.available ? '' : 'disabled'}${ct.id === 'words' || ct.id === 'cases' ? ' option-btn-new' : ''}`}
                 onClick={() => {
                   if (!ct.available) return
                   playButtonClick(muted)
@@ -799,6 +845,7 @@ function App() {
                 disabled={!ct.available}
               >
                 {getContentTypeLabel(ct.id)}
+                {(ct.id === 'words' || ct.id === 'cases') && <span className="menu-new-stamp" aria-hidden="true">{ct.id === 'words' ? (isEnglish ? 'Updated!' : 'Päivitetty!') : (isEnglish ? 'NEW!' : 'UUTTA!')}</span>}
                 {!ct.available && <span className="coming-soon-inline"> — {comingSoonText}</span>}
               </button>
             ))}
@@ -1202,6 +1249,48 @@ function App() {
         </section>
       )}
 
+      {selectedContentType === 'cases' && selectedCaseNumber === null && (
+        <section className="section">
+          <h2 className="section-heading">{isEnglish ? 'Case Practice' : 'Sijamuotopeli'}</h2>
+          <div className="options-grid">
+            {(['singular', 'plural'] as const).map((number, idx) => (
+              <OptionWithRoundsRow key={number}
+                label={`6.${idx + 1}. ${number === 'singular' ? (isEnglish ? 'Singular Forms' : 'Yksikkömuodot') : (isEnglish ? 'Plural Forms' : 'Monikkomuodot')}`}
+                rounds={getRounds(getRoundsKey('cases', number)) >= 100 ? (isEnglish ? 'Completed' : 'Suoritettu') : formatRoundsDisplay(getRounds(getRoundsKey('cases', number)))}
+                onClick={() => { playButtonClick(muted); setSelectedCaseNumber(number) }}
+              />
+            ))}
+            <button type="button" className="option-btn option-btn-kertaus" onClick={() => { playButtonClick(muted); setCaseMode('review'); setPendingView('case-game'); setShowLadataanIkkuna(true) }}>
+              {isEnglish ? 'Review' : 'Kertaus'} ({getCaseReviewList().length})
+            </button>
+          </div>
+          <button type="button" className="back-btn back-btn-inline" onClick={() => setSelectedContentType(null)}>{isEnglish ? 'Back' : 'Takaisin'}</button>
+        </section>
+      )}
+
+      {selectedContentType === 'cases' && selectedCaseNumber !== null && (
+        <section className="section">
+          <h2 className="section-heading">{selectedCaseNumber === 'singular' ? (isEnglish ? '6.1. Singular Forms' : '6.1. Yksikkömuodot') : (isEnglish ? '6.2. Plural Forms' : '6.2. Monikkomuodot')}</h2>
+          <div className="options-grid">
+            {CASE_IDS.map((caseId, index) => {
+              const rounds = getRounds(getRoundsKey('cases', `${selectedCaseNumber}_${caseId}`))
+              return <OptionWithRoundsRow key={caseId}
+                label={`6.${selectedCaseNumber === 'singular' ? 1 : 2}.${index + 1}. ${CASE_NAMES[caseId][isEnglish ? 'en' : 'fi']}`}
+                rounds={rounds >= 100 ? (isEnglish ? 'Completed' : 'Suoritettu') : formatRoundsDisplay(rounds)}
+                onClick={() => {
+                  playButtonClick(muted)
+                  setCaseMode(selectedCaseNumber)
+                  setSelectedCase(caseId)
+                  setPendingView('case-game')
+                  setShowLadataanIkkuna(true)
+                }}
+              />
+            })}
+          </div>
+          <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedCaseNumber(null) }}>{isEnglish ? 'Back' : 'Takaisin'}</button>
+        </section>
+      )}
+
       {/* Taktiset merkit – Sotilasmerkistö (Vihollisen*) and Joukkojen koko (rest) */}
       {selectedContentType === 'tactical-signs' && (
         <section className="section">
@@ -1344,7 +1433,7 @@ function App() {
             )}
             {dailyBriefContent != null && (
               <div className="splash-info-markdown daily-brief-markdown">
-                <ReactMarkdown remarkPlugins={[remarkBreaks]}>{preserveBlankMarkdownLines(dailyBriefContent)}</ReactMarkdown>
+                <Markdown breaks loadingLabel={isEnglish ? 'Loading brief...' : 'Ladataan katsausta...'}>{preserveBlankMarkdownLines(dailyBriefContent)}</Markdown>
               </div>
             )}
           </div>
@@ -1460,6 +1549,14 @@ function App() {
       <LadataanIkkuna appLanguage={appLanguage} muted={muted} onComplete={finishLadataanIkkuna} />
     )}
     </>
+  )
+}
+
+function App() {
+  return (
+    <Suspense fallback={<main className="landing"><p role="status">Ladataan… / Loading…</p></main>}>
+      <AppContent />
+    </Suspense>
   )
 }
 

@@ -43,7 +43,8 @@ export function generateWordOptions(
   correctAnswer: string,
   pool: WordEntry[],
   direction: WordsDirection,
-  fixedWrong?: [string, string, string]
+  fixedWrong?: [string, string, string],
+  prompt?: string
 ): string[] {
   if (fixedWrong && fixedWrong.length === 3) {
     const options = [correctAnswer, ...fixedWrong]
@@ -51,9 +52,18 @@ export function generateWordOptions(
   }
   const getAnswer = (p: WordEntry) =>
     'russian' in p ? (direction === 'fi-ru' ? p.russian : p.finnish) : p.correct
+  // Synonyms sharing this prompt are valid answers, never distractors.
+  const validAnswers = new Set([correctAnswer])
+  if (prompt !== undefined) {
+    for (const entry of pool) {
+      if ('russian' in entry && getPromptAndAnswer(entry, direction).prompt === prompt) {
+        validAnswers.add(getAnswer(entry))
+      }
+    }
+  }
   const others = pool
     .map(getAnswer)
-    .filter((a) => a !== correctAnswer)
+    .filter((a) => !validAnswers.has(a))
   const unique = [...new Set(others)]
   const shuffled = [...unique].sort(() => Math.random() - 0.5)
   const wrong = shuffled.slice(0, 3)

@@ -1,107 +1,108 @@
 Russian,Finnish
-огонь, tuli
-боевой, taistelu
-поражать, tuhota
-цель, kohde
-поражение, tuho
-выброска десанта, pudotus
-высадка воздушного десанта, maahanvienti
-передний край, etulinja
-обнаруживать, havaita
-враг, vihollinen
-вражеский, vihollinen
-противник, vastustaja
-огневой, tuli
-бой, taistelu
-форсирование, ylitys
-форсировать, ylittää
-переправа, ylitys
-переправляться, ylittää
-занимать, vallata
-занять, vallata
-плацдарм, sillanpää
-прикрывать, suojata
-прикрытие, suoja
-позиция, aseма
-рубеж, linja
-атака, hyökkäys
-атаковать, hyökätä
-штурм, rynnäkkö
-оборона, puolustus
-оборонять, puolustaa
-обороняться, puolustautua
-обороняющийся, puolustaja
-ответный, vasta
-успешно, onnistuneesti
-ввести в бой, sitouttaa
-вступить в бой, ryhtyä
-вывести из боя, irrottaa
-выводить из боя, irrottaa
-завязать бой, aloittaa
-преследование, takaa-ajo
-преследовать, jahdata
-уничтожать, tuhota
-уничтожение, tuhoaminen
-захват, valtaus
-захватывать, vallata
-захваченный, vallattu
-вести бой, taistella
-вести войну, sotia
-вести наблюдение, tähystää
-вести огонь, tulittaa
-вести разведку, tiedustella
-вести стрельбу, ampua
-война, sota
-наблюдение, tähystys
-стрельба, ammunta
-наблюдатель, tähystäjä
-наблюдать, tähystää
-наступательный, hyökkäys
-наступать, edetä
-наступающий, hyökkääjä
-наступление, hyökkäys
-боевой порядок, taisteluryhmitys
-предбоевой порядок, alkuryhmitys
-развёртывание, ryhmittyminen
-развернуться, ryhmittyä
-овладевать, vallata
-овладение, valtaus
-перейти, siirtyä
-переход, siirtyminen
-переходить, siirtyä
-оценивать, arvioida
-оценка, arviointi
-обстановка, tilanne
-меры, toimenpiteet
-решение, päätös
-участие, osallistuminen
-упредить, ennättää
-упреждение, ennakко
-выход, ulosmeno
-выдвигаться, edetä
-выдвижение, eteneminen
-выдвинуться, edetä
-направление, suunta
-намеченный, suunniteltu
-появление, ilmestyminen
-появляться, ilmestyä
-змейка, avojono
-колонна, kolonna
-цепь, avorivi
-шеренга, rivi
-внезапность, yllätys
-внезапный, yllättävä
-врасплох, yllättäen
-застигать, yllättää
-организованный, järjestetty
-организовать, järjestää
-помощь, apu
-сопротивление, vastarinta
-осторожно, varovasti
-собирать, kerätä
-данные, tiedot
-сведения, tiedot
-решать, ratkaista
-обман, harhautus
-разведка, tiedustelu
-разведывательный, tiedustelu
+Огонь,Tuli
+Боевой,Taistelu
+Поражать,Osua maaliin
+Цель,Kohde
+Поражение (неудача в бою),Tappio (taistelussa)
+Поражение (цели),Maaliin osuminen
+Выброска десанта,Pudotus
+Высадка воздушного десанта,Maahanvienti
+Передний край,Etulinja
+Обнаруживать,Havaita
+Враг,Vihollinen
+Вражеский,Vihollinen
+Противник,Vastustaja
+Огневой,Tuli
+Бой,Taistelu
+Форсирование,Vesistöesteen ylitys taistellen
+Форсировать,Ylittää vesistöeste taistellen
+Переправа,Ylitys
+Переправляться,Ylittää
+Занимать,Vallata
+Занять,Vallata
+Плацдарм,Sillanpää
+Прикрывать,Suojata
+Прикрытие,Suoja
+Позиция,Asema
+Рубеж,Linja
+Атака,Hyökkäys
+Атаковать,Hyökätä
+Штурм,Rynnäkkö
+Оборона,Puolustus
+Оборонять,Puolustaa
+Обороняться,Puolustautua
+Обороняющийся,Puolustaja
+Ответный,Vasta
+Успешно,Onnistuneesti
+Ввести в бой,Panna taisteluun
+Вступить в бой,Ryhtyä taisteluun
+Вывести из боя,Irrottaa taistelusta (perfektiivinen)
+Выводить из боя,Irrottaa taistelusta (imperfektiivinen)
+Завязать бой,Aloittaa taistelu
+Преследование,Takaa-ajo
+Преследовать,Jahdata
+Уничтожать,Tuhota
+Уничтожение,Tuhoaminen
+Захват,Valtaus
+Захватывать,Vallata
+Захваченный,Vallattu
+Вести бой,Taistella
+Вести войну,Sotia
+Вести наблюдение,Tähystää
+Вести огонь,Tulittaa
+Вести разведку,Tiedustella
+Вести стрельбу,Ampua
+Война,Sota
+Наблюдение,Tähystys
+Стрельба,Ammunta
+Наблюдатель,Tähystäjä
+Наблюдать,Tähystää
+Наступательный,Hyökkäys
+Наступать,Edetä
+Наступающий,Hyökkääjä
+Наступление,Hyökkäys
+Боевой порядок,Taisteluryhmitys
+Предбоевой порядок,Alkuryhmitys
+Развёртывание,Ryhmittyminen
+Развернуться,Ryhmittyä
+Овладевать,Vallata
+Овладение,Valtaus
+Перейти,Siirtyä
+Переход,Siirtyminen
+Переходить,Siirtyä
+Оценивать,Arvioida
+Оценка,Arviointi
+Обстановка,Tilanne
+Мера,Toimenpide
+Решение,Päätös
+Участие,Osallistuminen
+Упредить,Ennättää ensin
+Упреждение,Ennakointi
+Выход,Poistuminen
+Выдвигаться,Edetä
+Выдвижение,Eteneminen
+Выдвинуться,Edetä
+Направление,Suunta
+Намеченный,Suunniteltu
+Появление,Ilmestyminen
+Появляться,Ilmestyä
+Змейка,Kiemurteleva muodostelma
+Колонна,Kolonna
+Цепь,Avorivi
+Шеренга,Rivi
+Внезапность,Yllätys
+Внезапный,Yllättävä
+Врасплох,Yllättäen
+Застигать,Tavoittaa yllättäen
+Организованный,Järjestetty
+Организовать,Järjestää
+Помощь,Apu
+Сопротивление,Vastarinta
+Осторожно,Varovasti
+Собирать,Kerätä
+Данные,Tiedot
+Сведения,Tiedot
+Решать,Ratkaista
+Обман,Harhautus
+Разведка,Tiedustelu
+Разведывательный,Tiedustelu

@@ -134,7 +134,7 @@ export function WordsGameView({
         const fixedWrong = direction === 'fi-ru' ? entry.russianAlts : entry.finnishAlts
         setPrompt(p)
         setCorrectAnswer(c)
-        setOptions(generateWordOptions(c, pool, direction, fixedWrong))
+        setOptions(generateWordOptions(c, pool, direction, fixedWrong, p))
       }
       setSelectedAnswer(null)
       setShowResult(false)
