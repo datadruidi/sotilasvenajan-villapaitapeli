@@ -21,15 +21,17 @@ The accepted set deliberately contains only nouns supported in **both** numbers,
 
 Data retains ё. Cases distinguish ordinary prepositional from the special locative: **о лесе**, not *о лесу*; **о мосте**, not *о мосту*. Partitive/genitive-2 forms are not substituted for the ordinary genitive. Irregular reference fixtures include солдат, боец, день, ночь, море, крыло, армия and орудие.
 
-## Questions, contexts and duplicate answers
+## Singular exercises, feedback and keyboard controls
 
-A normal round selects ten different nouns when the bank allows it, all in the case and number selected from the menu. Retry preserves that selection. Review rounds use the exact saved noun, case and number, shuffle unique saved tasks first, and repeat only if fewer than ten tasks are available. The original lemma is always shown in Russian; translations appear only in the word-info dialog.
+Each singular case has 100 exercises in `src/data/singularExercises.ts`: ten different sentence frames, each paired with ten operational contexts. Each frame has an explicit Russian sentence, Finnish and English translation, and Finnish explanation of the governing construction. The first 30 exercises use simple contexts, the next 40 add operational context, and the last 30 use subordinate clauses. Each round randomly selects three easy, four medium and three hard exercises from the bank. All six banks include masculine, feminine and neuter nouns and both animate and inanimate nouns.
 
-The prompt labels the dictionary form as nominative. Nominative tasks show the word in the selected Finnish/English interface language, with Russian answer options, so the prompt does not reveal the answer. Other case tasks show the Russian lemma as before. This also applies to nominative tasks in Review. The selected case appears in the level title. A rectangular INFO button directly below the Home and Sound buttons spans their combined width and opens the case guide. The noun is followed by a short Russian sentence with exactly one noun blank. Each case has multiple templates covering different uses: identification and existence, genitive absence/purpose/description/possession/origin, dative recipient/approach, accusative objects/direction, instrumental means/accompaniment, and prepositional topics/location. Rounds balance compatible templates instead of repeating a single context. Location templates use an explicit noun allowlist to avoid special locatives; some contexts are limited to singular or animate nouns. The chosen template stays fixed while answering and appears in full in feedback. A smaller, complete Finnish or English translation appears immediately below, using the task's grammatical number. Finnish inflections and English plural labels are explicitly maintained in `src/data/caseSentenceWords.ts`; source parenthetical vocabulary notes are omitted from sentences. There is no separate number label: the submode title supplies it. Review sentence translations follow each saved task's number.
+Frames cover subjects and identification; absence, ownership, quantity and genitive prepositions; dative recipients, assistance and approach; accusative objects and destinations; instrumental verb government, equipment and accompaniment; and prepositional locations and topics. Location-specific `в лесу` and `на мосту` override ordinary prepositional forms only in those sentences. Topic constructions retain ordinary forms.
 
-Options show only the inflected noun, never an incompatible preposition. The prepositional sentence chooses о/об using the accepted form, before replacing that noun with the blank. Feedback shows the complete correct Russian sentence and any accepted variants.
+Singular, plural and saved-review rounds contain ten questions, with progress and scores shown as X/10. The dictionary form is always shown in Russian, including nominative tasks. Each curated singular task has four distinct spellings from the same noun’s singular paradigm and exactly one accepted answer. Syncretic forms appear once. Legacy plural/review vocabulary with fewer than four distinct spellings can repeat a distractor.
 
-Options come from the same noun's case forms in the selected number. Syncretic spellings are intentionally **not deduplicated**. Buttons use positional React keys, but correctness uses membership in the requested case's accepted spelling set. Thus any button displaying a valid spelling earns one point, and an invalid spelling never becomes valid because another option repeats it. A ref lock prevents rapid double-clicks from incrementing the score twice.
+A wrong answer gives a retry without revealing the solution. A correct answer shows the completed sentence and a short explanation followed by `lemma → form`. Scoring counts answers that were correct on the first attempt. The Next button appears after success. Keys 1–4 select options from top to bottom; Enter advances after success and shows results after the final question. Held keys, modifier combinations, text fields and open dialogs do not trigger game actions.
+
+The existing word-translation and grammar dialogs remain available. Plural and saved-review sentences still use the compatible templates in `caseSentenceTemplates.ts` and explicit Finnish inflections in `caseSentenceWords.ts`.
 
 ## Review and accessibility
 
@@ -50,9 +52,7 @@ npm run lint
 npm run build
 ```
 
-Production Chromium checks also passed for Finnish singular and English plural ten-question rounds (including a deliberately wrong answer), scoring and round counters, translation/grammar dialogs, Escape and focus restoration, 390px mobile layout, retry, persisted task review, both identical correct buttons, review removal/empty state, one-time data fetching and zero runtime exceptions. Existing modules 1–5 and Tank Racer also passed launch/navigation smoke checks; the external memory-game link was checked without navigating away.
-
-Python/morphology is not a runtime dependency and the full dictionary is not shipped. The verifier checks all stored forms and the original vocabulary hashes. JavaScript checks cover all 2,088 noun/number/case combinations, accepted and rejected spellings, duplicate options, irregular fixtures, both numbers, context, bilingual guide completeness, ten-question uniqueness and review persistence/recovery.
+The JavaScript verifier checks morphology reference fixtures, all 2,088 noun/number/case combinations, bilingual legacy contexts, round construction and review persistence. It also checks all 600 curated singular tasks for difficulty counts, gender and animacy coverage, four distinct options, exactly one accepted answer, sentence blanks, translations and explanations. Python/morphology is not a runtime dependency.
 
 ## Attribution
 

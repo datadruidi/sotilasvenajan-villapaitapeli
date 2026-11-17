@@ -6,7 +6,7 @@ import { Markdown } from './components/Markdown'
 import './App.css'
 import { LadataanIkkuna } from './components/LadataanIkkuna'
 import { SplashScreen } from './components/SplashScreen'
-import { getRoundsKey, getRounds, incrementRounds, formatRoundsDisplay } from './lib/roundsStorage'
+import { ROUNDS_MAX, getRoundsKey, getRounds, incrementRounds, formatRoundsDisplay } from './lib/roundsStorage'
 import { playButtonClick } from './lib/sound'
 import { loadWordsCSV, getWordsListLabel, SOTILASSANASTO_MENU_IDS, LYHENTEET_LIST_IDS, isPerussanastoListId, isLyhenteetListId } from './lib/wordsData'
 import { getReviewList, addToReviewList, removeFromReviewList, getLyhenteetReviewList, addToLyhenteetReviewList, removeFromLyhenteetReviewList, getGarrisonsReviewIds, addToGarrisonsReviewList, removeFromGarrisonsReviewList, getRanksReviewEntries, addToRanksReviewList, removeFromRanksReviewList } from './lib/reviewListStorage'
@@ -1256,7 +1256,7 @@ function AppContent() {
             {(['singular', 'plural'] as const).map((number, idx) => (
               <OptionWithRoundsRow key={number}
                 label={`6.${idx + 1}. ${number === 'singular' ? (isEnglish ? 'Singular Forms' : 'Yksikkömuodot') : (isEnglish ? 'Plural Forms' : 'Monikkomuodot')}`}
-                rounds={getRounds(getRoundsKey('cases', number)) >= 100 ? (isEnglish ? 'Completed' : 'Suoritettu') : formatRoundsDisplay(getRounds(getRoundsKey('cases', number)))}
+                rounds={getRounds(getRoundsKey('cases', number)) >= ROUNDS_MAX ? (isEnglish ? 'Completed' : 'Suoritettu') : formatRoundsDisplay(getRounds(getRoundsKey('cases', number)))}
                 onClick={() => { playButtonClick(muted); setSelectedCaseNumber(number) }}
               />
             ))}
@@ -1276,7 +1276,7 @@ function AppContent() {
               const rounds = getRounds(getRoundsKey('cases', `${selectedCaseNumber}_${caseId}`))
               return <OptionWithRoundsRow key={caseId}
                 label={`6.${selectedCaseNumber === 'singular' ? 1 : 2}.${index + 1}. ${CASE_NAMES[caseId][isEnglish ? 'en' : 'fi']}`}
-                rounds={rounds >= 100 ? (isEnglish ? 'Completed' : 'Suoritettu') : formatRoundsDisplay(rounds)}
+                rounds={rounds >= ROUNDS_MAX ? (isEnglish ? 'Completed' : 'Suoritettu') : formatRoundsDisplay(rounds)}
                 onClick={() => {
                   playButtonClick(muted)
                   setCaseMode(selectedCaseNumber)

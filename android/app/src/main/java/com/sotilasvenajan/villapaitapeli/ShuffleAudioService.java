@@ -23,6 +23,9 @@ public class ShuffleAudioService extends Service {
     static ShuffleAudioService instance;
     private static final String CHANNEL = "shuffle-audio";
     private MediaPlayer player;
+    private MediaPlayer queuedPlayer;
+    private String queuedTrack;
+    private boolean queuedReady;
     private List<String> tracks = new ArrayList<>();
     private final List<String> remaining = new ArrayList<>();
     private String track = "";
@@ -30,8 +33,23 @@ public class ShuffleAudioService extends Service {
     private boolean ready;
     private boolean playWhenReady;
     private AudioManager audioManager;
+    private boolean resumeOnFocusGain;
     private final AudioManager.OnAudioFocusChangeListener focusListener = change -> {
-        if (change < 0) control("pause");
+        if (change == AudioManager.AUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK) {
+            if (player != null) player.setVolume(0.2f, 0.2f);
+        } else if (change == AudioManager.AUDIOFOCUS_GAIN) {
+            if (player != null) player.setVolume(1f, 1f);
+            if (resumeOnFocusGain) {
+                resumeOnFocusGain = false;
+                control("play");
+            }
+        } else if (change == AudioManager.AUDIOFOCUS_LOSS_TRANSIENT) {
+            boolean resume = playWhenReady;
+            control("pause");
+            resumeOnFocusGain = resume;
+        } else if (change == AudioManager.AUDIOFOCUS_LOSS) {
+            control("pause");
+        }
     };
 
     @Override public void onCreate() {
@@ -74,41 +92,89 @@ public class ShuffleAudioService extends Service {
             .build());
     }
 
-    private void next() {
-        releasePlayer();
+    private String takeTrack() {
         if (remaining.isEmpty()) {
             remaining.addAll(tracks);
             Collections.shuffle(remaining);
             int last = remaining.size() - 1;
             if (last > 0 && remaining.get(last).equals(track)) Collections.swap(remaining, 0, last);
         }
-        track = remaining.remove(remaining.size() - 1);
-        // Only packaged soundtrack files are accepted.
-        if (track.contains("/") || track.contains("\\") || !track.toLowerCase(java.util.Locale.ROOT).endsWith(".mp3")) {
-            stopSelf(); return;
-        }
-        ready = false;
+        return remaining.remove(remaining.size() - 1);
+    }
+
+    private void next() {
+        releasePlayer();
+        track = takeTrack();
         playWhenReady = true;
-        try (AssetFileDescriptor asset = getAssets().openFd("public/learning-materials/soundtrack-loop/" + track)) {
-            player = new MediaPlayer();
-            player.setAudioAttributes(new AudioAttributes.Builder().setUsage(AudioAttributes.USAGE_MEDIA)
-                .setContentType(AudioAttributes.CONTENT_TYPE_MUSIC).build());
-            player.setWakeMode(this, PowerManager.PARTIAL_WAKE_LOCK);
-            player.setDataSource(asset.getFileDescriptor(), asset.getStartOffset(), asset.getLength());
-            player.setOnPreparedListener(prepared -> {
-                ready = true;
-                if (playWhenReady) { prepared.start(); playing = true; }
-                ShuffleAudioPlugin.publish();
-            });
-            player.setOnCompletionListener(completed -> next());
-            player.setOnErrorListener((failed, what, extra) -> { stopSelf(); return true; });
+        try {
+            player = prepareTrack(track);
             player.prepareAsync();
             updateNotification();
             ShuffleAudioPlugin.publish();
         } catch (Exception error) { stopSelf(); }
     }
 
+    private MediaPlayer prepareTrack(String file) throws Exception {
+        if (file.contains("/") || file.contains("\\") || !file.toLowerCase(java.util.Locale.ROOT).endsWith(".mp3")) {
+            throw new IllegalArgumentException("Invalid soundtrack file");
+        }
+        MediaPlayer media = new MediaPlayer();
+        try (AssetFileDescriptor asset = getAssets().openFd("public/learning-materials/soundtrack-loop/" + file)) {
+            media.setAudioAttributes(new AudioAttributes.Builder().setUsage(AudioAttributes.USAGE_MEDIA)
+                .setContentType(AudioAttributes.CONTENT_TYPE_MUSIC).build());
+            media.setWakeMode(this, PowerManager.PARTIAL_WAKE_LOCK);
+            media.setDataSource(asset.getFileDescriptor(), asset.getStartOffset(), asset.getLength());
+            media.setOnPreparedListener(prepared -> {
+                if (prepared == player) {
+                    ready = true;
+                    if (playWhenReady) { prepared.start(); playing = true; }
+                    queueNext();
+                    ShuffleAudioPlugin.publish();
+                } else if (prepared == queuedPlayer) {
+                    queuedReady = true;
+                    if (player != null && ready) player.setNextMediaPlayer(prepared);
+                }
+            });
+            media.setOnCompletionListener(this::advance);
+            media.setOnErrorListener((failed, what, extra) -> { stopSelf(); return true; });
+            return media;
+        } catch (Exception error) { media.release(); throw error; }
+    }
+
+    private void queueNext() {
+        if (queuedPlayer != null) return;
+        try {
+            queuedTrack = takeTrack();
+            queuedPlayer = prepareTrack(queuedTrack);
+            queuedReady = false;
+            queuedPlayer.prepareAsync();
+        } catch (Exception error) { stopSelf(); }
+    }
+
+    private void advance(MediaPlayer completed) {
+        if (completed != player) return;
+        // Android starts the prepared successor itself, preserving playback while
+        // the screen is locked instead of tearing down the session at each end.
+        player = queuedPlayer;
+        track = queuedTrack;
+        ready = queuedReady;
+        queuedPlayer = null;
+        queuedTrack = null;
+        queuedReady = false;
+        completed.release();
+        if (player == null) { next(); return; }
+        playing = ready && playWhenReady;
+        if (ready) {
+            if (playWhenReady) player.start();
+            else player.pause();
+            queueNext();
+        }
+        updateNotification();
+        ShuffleAudioPlugin.publish();
+    }
+
     void control(String action) {
+        resumeOnFocusGain = false;
         if ("stop".equals(action)) { stopSelf(); return; }
         if (player == null) return;
         if ("pause".equals(action)) {
@@ -137,7 +203,13 @@ public class ShuffleAudioService extends Service {
     }
 
     private void releasePlayer() {
-        if (player != null) { player.release(); player = null; }
+        if (player != null) {
+            if (ready) player.setNextMediaPlayer(null);
+            player.release(); player = null;
+        }
+        if (queuedPlayer != null) { queuedPlayer.release(); queuedPlayer = null; }
+        queuedTrack = null;
+        queuedReady = false;
         playing = false;
         ready = false;
     }

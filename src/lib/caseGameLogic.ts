@@ -1,3 +1,4 @@
+import { SINGULAR_EXERCISES, type SingularExercise } from '../data/singularExercises'
 import { getCaseTemplates } from '../data/caseSentenceTemplates'
 import { CASE_IDS } from '../types/cases'
 import type { CaseNoun, CaseQuestion, CaseTask, GrammaticalNumber, RussianCase } from '../types/cases'
@@ -17,9 +18,10 @@ export function caseTaskKey(task: CaseTask): string {
 
 export function makeCaseQuestion(noun: CaseNoun, number: GrammaticalNumber, caseId: RussianCase, random = Math.random): CaseQuestion {
   const forms = noun.forms[number]
-  const others = shuffleCases(CASE_IDS.filter(id => id !== caseId), random).slice(0, 3)
-  // Keep syncretic spellings: every button containing a valid form is correct.
-  const options = shuffleCases([forms[caseId][0], ...others.map(id => forms[id][0])], random)
+  const distractors = [...new Set(CASE_IDS.flatMap(id => forms[id]))].filter(form => !forms[caseId].includes(form))
+  const wrong = shuffleCases(distractors, random).slice(0, 3)
+  while (wrong.length < 3) wrong.push(distractors[wrong.length % distractors.length])
+  const options = shuffleCases([forms[caseId][0], ...wrong], random)
   const templates = getCaseTemplates(noun, number, caseId)
   const sentenceTemplate = templates[Math.floor(random() * templates.length)].id
   return { nounId: noun.id, noun, number, caseId, sentenceTemplate, options, acceptedForms: [...forms[caseId]] }
@@ -27,6 +29,13 @@ export function makeCaseQuestion(noun: CaseNoun, number: GrammaticalNumber, case
 
 export function createCaseRound(nouns: CaseNoun[], number: GrammaticalNumber, caseId: RussianCase, review?: CaseTask[], random = Math.random): CaseQuestion[] {
   if (nouns.length === 0) return []
+  if (number === 'singular' && !review) {
+    const byLemma = new Map(nouns.map(noun => [noun.lemma, noun]))
+    const exercises = SINGULAR_EXERCISES[caseId].filter(item => byLemma.has(item.lemma))
+    return (['easy', 'medium', 'hard'] as const).flatMap(difficulty =>
+      shuffleCases(exercises.filter(item => item.difficulty === difficulty), random).slice(0, difficulty === 'medium' ? 4 : 3),
+    ).map(exercise => makeSingularQuestion(byLemma.get(exercise.lemma)!, caseId, exercise, random))
+  }
   const byId = new Map(nouns.map(noun => [noun.id, noun]))
   const tasks = review
     ? [...new Map(review.filter(task => byId.has(task.nounId)).map(task => [caseTaskKey(task), task])).values()]
@@ -63,3 +72,12 @@ export function caseContext(caseId: RussianCase, form: string): string {
   }
 }
 
+
+export function makeSingularQuestion(noun: CaseNoun, caseId: RussianCase, exercise: SingularExercise, random: () => number): CaseQuestion {
+  const question = makeCaseQuestion(noun, 'singular', caseId, random)
+  const acceptedForms = exercise.form ? [exercise.form] : noun.forms.singular[caseId]
+  const distractors = [...new Set(CASE_IDS.flatMap(id => noun.forms.singular[id]))]
+    .filter(form => !acceptedForms.includes(form))
+  return { ...question, sentenceTemplate: exercise.id, acceptedForms,
+    options: shuffleCases([acceptedForms[0], ...shuffleCases(distractors, random).slice(0, 3)], random) }
+}

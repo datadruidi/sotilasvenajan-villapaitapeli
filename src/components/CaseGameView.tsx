@@ -5,7 +5,7 @@ import type { CaseNoun, CaseQuestion, GrammaticalNumber, RussianCase } from '../
 import { CASE_ENDINGS, CASE_GRAMMAR } from '../data/caseGrammar'
 import { loadCaseNouns } from '../lib/caseData'
 import { caseTaskKey, checkCaseAnswer, createCaseRound } from '../lib/caseGameLogic'
-import { caseSentenceText, getCaseSentence } from '../lib/caseSentences'
+import { caseExplanation, caseSentenceText, getCaseSentence } from '../lib/caseSentences'
 import { getCaseReviewList, toggleCaseReview } from '../lib/caseReviewStorage'
 import { playCorrect, playWrong, playRoundComplete } from '../lib/sound'
 import './CaseGameView.css'
@@ -47,6 +47,7 @@ export function CaseGameView({ mode, caseId, appLanguage, muted, onToggleMute, o
   const [index, setIndex] = useState(0)
   const [score, setScore] = useState(0)
   const [selected, setSelected] = useState<number | null>(null)
+  const [failed, setFailed] = useState(false)
   const [finished, setFinished] = useState(false)
   const [error, setError] = useState(false)
   const [attempt, setAttempt] = useState(0)
@@ -54,6 +55,17 @@ export function CaseGameView({ mode, caseId, appLanguage, muted, onToggleMute, o
   const [review, setReview] = useState(getCaseReviewList)
   const answerLocked = useRef(false)
   const completed = useRef(false)
+  const keyboardActions = useRef<{ choose: (index: number) => void; next: () => void } | null>(null)
+  useEffect(() => {
+    const onKey = (event: KeyboardEvent) => {
+      if (!keyboardActions.current || event.repeat || event.ctrlKey || event.altKey || event.metaKey || document.querySelector('dialog[open]')) return
+      if (event.target instanceof HTMLElement && (event.target.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(event.target.tagName))) return
+      if (/^[1-4]$/.test(event.key)) { event.preventDefault(); keyboardActions.current?.choose(Number(event.key) - 1) }
+      if (event.key === 'Enter') { event.preventDefault(); keyboardActions.current?.next() }
+    }
+    window.addEventListener('keydown', onKey)
+    return () => window.removeEventListener('keydown', onKey)
+  }, [])
   const number = mode === 'plural' ? 'plural' : 'singular'
   const title = mode === 'review' ? (en ? 'Case Practice · Review' : 'Sijamuotopeli · Kertaus')
     : `6.${mode === 'singular' ? 1 : 2}.${CASE_IDS.indexOf(caseId) + 1}. ${CASE_NAMES[caseId][lang]}`
@@ -71,11 +83,12 @@ export function CaseGameView({ mode, caseId, appLanguage, muted, onToggleMute, o
 
   const restart = () => {
     setQuestions(createCaseRound(nouns, number, caseId, mode === 'review' ? getCaseReviewList() : undefined))
-    setIndex(0); setScore(0); setSelected(null); setFinished(false); setInfo(null)
+    setIndex(0); setScore(0); setFailed(false); setSelected(null); setFinished(false); setInfo(null)
     answerLocked.current = false; completed.current = false
   }
   const homeButton = <button type="button" className="back-btn back-btn-small game-home-btn" onClick={onBack} title={en ? 'Main menu' : 'Päävalikko'} aria-label={en ? 'Main menu' : 'Päävalikko'}>🏠</button>
   const muteButton = <button type="button" className="mute-btn mute-btn-small" onClick={onToggleMute} aria-label={en ? 'Toggle sound' : 'Äänet'}>{muted ? '🔇' : '🔊'}</button>
+  keyboardActions.current = null
   const question = questions[index]
   if (!question || error) return (
     <div className="app"><main className="game-view case-game"><div className="quiz-header-actions">{homeButton}{muteButton}</div><h1>{title}</h1>
@@ -89,10 +102,10 @@ export function CaseGameView({ mode, caseId, appLanguage, muted, onToggleMute, o
   if (finished) return (
     <div className="app"><main className="game-view game-view-result case-game">
       <div className="result-header">{homeButton}{muteButton}</div><h1 className="quiz-title">{title}</h1>
-      <div className="result-scores"><div className="result-score-line">{en ? 'Round' : 'Kierros'}: 10/10</div><div className="result-score-line">{en ? 'Correct' : 'Oikein'}: {score}/10</div></div>
+      <div className="result-scores"><div className="result-score-line">{en ? 'Round' : 'Kierros'}: {questions.length}/{questions.length}</div><div className="result-score-line">{en ? 'Correct' : 'Oikein'}: {score}/{questions.length}</div></div>
       <img src={`${import.meta.env.BASE_URL}assets/complete.png`} alt="" className="result-complete-img" />
       <h2 className="result-title">{en ? 'Round complete!' : 'Kierros suoritettu!'}</h2>
-      <p>{en ? `You answered ${score} out of 10 correctly.` : `Vastasit oikein ${score} kysymykseen kymmenestä.`}</p>
+      <p>{en ? `You answered ${score} out of ${questions.length} correctly.` : `Vastasit oikein ${score} kysymykseen ${questions.length}:stä.`}</p>
       <div className="result-actions"><button type="button" className="result-btn result-btn-retry" onClick={restart}>{en ? 'Try again' : 'Yritä uudelleen'}</button><button type="button" className="result-btn result-btn-menu" onClick={onBack}>{en ? 'Main menu' : 'Päävalikko'}</button></div>
     </main></div>
   )
@@ -105,32 +118,36 @@ export function CaseGameView({ mode, caseId, appLanguage, muted, onToggleMute, o
     if (answerLocked.current) return
     answerLocked.current = true
     setSelected(optionIndex)
-    if (checkCaseAnswer(question.options[optionIndex], question)) { setScore(value => value + 1); playCorrect(muted) }
-    else playWrong(muted)
+    if (checkCaseAnswer(question.options[optionIndex], question)) { if (!failed) setScore(value => value + 1); playCorrect(muted) }
+    else { setFailed(true); answerLocked.current = false; playWrong(muted) }
   }
   const next = () => {
-    if (!answerLocked.current || completed.current) return
+    if (!correct || !answerLocked.current || completed.current) return
     setInfo(null)
-    if (index === 9) {
+    if (index === questions.length - 1) {
       completed.current = true; setFinished(true); playRoundComplete(muted); onRoundComplete()
-    } else { setIndex(value => value + 1); setSelected(null); answerLocked.current = false }
+    } else { setIndex(value => value + 1); setSelected(null); setFailed(false); answerLocked.current = false }
   }
+  keyboardActions.current = { choose, next }
   return (
     <div className="app"><main className="game-view game-view-quiz case-game">
-      <header className="quiz-header"><div className="quiz-header-actions case-header-actions">{homeButton}{muteButton}<button type="button" className="case-grammar-info-btn" aria-label={en ? 'Show case grammar' : 'Näytä sijamuodon ohje'} onClick={() => setInfo('grammar')}>INFO</button></div><h1 className="quiz-title">{title}</h1><div className="quiz-progress quiz-progress-card"><span className="quiz-progress-line">{en ? 'Round' : 'Kierros'}: {index + 1}/10</span><span className="quiz-progress-line">{en ? 'Correct' : 'Oikein'}: {score}/10</span></div></header>
+      <header className="quiz-header"><div className="quiz-header-actions case-header-actions">{homeButton}{muteButton}<button type="button" className="case-grammar-info-btn" aria-label={en ? 'Show case grammar' : 'Näytä sijamuodon ohje'} onClick={() => setInfo('grammar')}>INFO</button></div><h1 className="quiz-title">{title}</h1><div className="quiz-progress quiz-progress-card"><span className="quiz-progress-line">{en ? 'Round' : 'Kierros'}: {index + 1}/{questions.length}</span><span className="quiz-progress-line">{en ? 'Correct' : 'Oikein'}: {score}/{questions.length}</span></div></header>
       <p className="case-lemma-label">{en ? 'Nominative · dictionary form' : 'Nominatiivi · perusmuoto'}</p>
-      <div className="case-word-row"><p className="quiz-words-prompt" lang={question.caseId === 'nominative' ? lang : 'ru'}>{question.caseId === 'nominative' ? question.noun.translations[lang] : question.noun.lemma}</p><button type="button" className="case-info-btn" aria-label={en ? 'Show word translation' : 'Näytä sanan käännös'} onClick={() => setInfo('translation')}>ⓘ</button></div>
+      <div className="case-word-row"><p className="quiz-words-prompt" lang="ru">{question.noun.lemma}</p><button type="button" className="case-info-btn" aria-label={en ? 'Show word translation' : 'Näytä sanan käännös'} onClick={() => setInfo('translation')}>ⓘ</button></div>
       <div className="case-sentence">
         <p className="case-context" lang="ru">{sentence.prompt}</p>
         <p className="case-context-translation" lang={lang}>{sentence.translation}</p>
       </div>
       <button type="button" className={`quiz-review-btn ${saved ? 'quiz-review-btn--remove' : 'quiz-review-btn--add'}`} onClick={() => setReview(toggleCaseReview(question))}>{saved ? (en ? 'Remove word from review list' : 'Poista sana kerrattavalta listalta') : (en ? 'Add word to review list' : 'Lisää sana kerrattavalle listalle')}</button>
+      <p className="case-context-translation">{en ? 'Keys 1–4: choose an answer · Enter: next question' : 'Näppäimet 1–4: valitse vastaus · Enter: seuraava kysymys'}</p>
       <div className="quiz-options">{question.options.map((form, optionIndex) => {
-        const state = !answered ? '' : checkCaseAnswer(form, question) ? 'correct' : optionIndex === selected ? 'incorrect' : 'revealed'
-        return <button key={optionIndex} type="button" className={`quiz-option ${state}`} onClick={() => choose(optionIndex)} disabled={answered} lang="ru">{form}</button>
+        const state = correct ? (checkCaseAnswer(form, question) ? 'correct' : 'revealed') : optionIndex === selected ? 'incorrect' : ''
+        return <button key={optionIndex} type="button" className={`quiz-option ${state}`} onClick={() => choose(optionIndex)} disabled={correct} lang="ru"><small aria-hidden="true">{optionIndex + 1}. </small>{form}</button>
       })}</div>
-      {answered && <div className={`quiz-feedback ${correct ? 'correct' : 'incorrect'}`} role="status">{correct ? (en ? 'Correct!' : 'Oikein!') : (en ? 'Incorrect. Correct answer:' : 'Väärin. Oikea vastaus:')} <span lang="ru">{question.acceptedForms.map(form => caseSentenceText(question, form)).join(' / ')}</span></div>}
-      {answered && <button type="button" className="quiz-next-btn" onClick={next}>{index === 9 ? (en ? 'Show results' : 'Näytä tulokset') : (en ? 'Next question' : 'Seuraava kysymys')}</button>}
+      {answered && <div className={`quiz-feedback ${correct ? 'correct' : 'incorrect'}`} role="status">
+        {correct ? <>{en ? 'Correct:' : 'Oikein:'} <span lang="ru">{question.acceptedForms.join(' / ')}</span><p lang="ru">{caseSentenceText(question, question.acceptedForms[0])}</p><p>{caseExplanation(question, lang)}</p></> : (en ? 'Incorrect. Try again.' : 'Väärin. Yritä uudelleen.')}
+      </div>}
+      {correct && <button type="button" className="quiz-next-btn" onClick={next}>{index === questions.length - 1 ? (en ? 'Show results' : 'Näytä tulokset') : (en ? 'Next question' : 'Seuraava kysymys')}</button>}
       {info && <InfoDialog title={info === 'translation' ? (en ? 'Translation' : 'Käännös') : guide.name[lang]} closeLabel={en ? 'Close' : 'Sulje'} onClose={() => setInfo(null)}>
         {info === 'translation' ? <><p lang="ru" className="case-translation-word">{question.noun.lemma}</p><p>{question.noun.translations[lang]}</p></> : <>
           <h3 lang="ru">{guide.russian}</h3><p>{guide.questions[lang]}</p><p>{guide.use[lang]}</p>

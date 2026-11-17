@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import { Markdown } from './Markdown'
 import type { AppLanguage } from '../types/game'
 import { playButtonClick } from '../lib/sound'
+import { createBrowserShufflePlayer } from '../lib/browserShufflePlayer'
 import { hasNativeShuffleAudio, shuffleAudio } from '../lib/shuffleAudio'
 
 const FAVICON_SRC = `${import.meta.env.BASE_URL}favicon.png`
@@ -275,6 +276,7 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
   const storyAudioRef = useRef<HTMLAudioElement | null>(null)
   const loopAudioRef = useRef<HTMLAudioElement | null>(null)
   const nativeShuffleRef = useRef(false)
+  const browserShuffleRef = useRef<ReturnType<typeof createBrowserShufflePlayer> | null>(null)
 
   useEffect(() => {
     if (!hasNativeShuffleAudio) return
@@ -390,6 +392,8 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
         storyAudioRef.current.currentTime = 0
         storyAudioRef.current = null
       }
+      browserShuffleRef.current?.dispose()
+      browserShuffleRef.current = null
       loopAudioRef.current?.pause()
       loopAudioRef.current = null
     }
@@ -433,6 +437,8 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
     if (nativeShuffleRef.current) void shuffleAudio.control({ action: 'stop' })
     nativeShuffleRef.current = false
     setIsShuffleMode(false)
+    browserShuffleRef.current?.dispose()
+    browserShuffleRef.current = null
     loopAudioRef.current?.pause()
     const audio = new Audio(`${LEARNING_MATERIALS_BASE_URL}soundtrack-loop/${encodeURIComponent(file)}`)
     audio.loop = true
@@ -448,6 +454,8 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
     const tracks = mediaManifest['soundtrack-loop']
     if (tracks.length === 0) return
     playButtonClick(muted)
+    browserShuffleRef.current?.dispose()
+    browserShuffleRef.current = null
     loopAudioRef.current?.pause()
     if (hasNativeShuffleAudio) {
       loopAudioRef.current = null
@@ -460,40 +468,14 @@ export function SplashScreen({ onPlay, onPlayTypingGame, onOpenDailyBrief, muted
       })
       return
     }
-    const audio = new Audio()
-    loopAudioRef.current = audio
+    const player = createBrowserShufflePlayer(tracks, `${LEARNING_MATERIALS_BASE_URL}soundtrack-loop/`, (track, playing) => {
+      setLoopTrack(track)
+      setIsLoopTrackPlaying(playing)
+    })
+    browserShuffleRef.current = player
+    loopAudioRef.current = player.audio
     setIsShuffleMode(true)
-    let remaining: string[] = []
-    let previous: string | null = null
-
-    const playNext = () => {
-      if (loopAudioRef.current !== audio) return
-      if (remaining.length === 0) {
-        remaining = [...tracks]
-        for (let i = remaining.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1))
-          ;[remaining[i], remaining[j]] = [remaining[j], remaining[i]]
-        }
-        // Avoid repeating the last song when a new shuffled round starts.
-        if (remaining.length > 1 && remaining[remaining.length - 1] === previous) {
-          ;[remaining[0], remaining[remaining.length - 1]] = [remaining[remaining.length - 1], remaining[0]]
-        }
-      }
-      const file = remaining.pop()!
-      previous = file
-      audio.src = `${LEARNING_MATERIALS_BASE_URL}soundtrack-loop/${encodeURIComponent(file)}`
-      setLoopTrack(file)
-      void audio.play()
-        .then(() => {
-          if (loopAudioRef.current === audio) setIsLoopTrackPlaying(!audio.paused)
-        })
-        .catch(() => {
-          if (loopAudioRef.current === audio) setIsLoopTrackPlaying(false)
-        })
-    }
-
-    audio.onended = playNext
-    playNext()
+    player.start()
   }
 
   const toggleLoopTrack = () => {

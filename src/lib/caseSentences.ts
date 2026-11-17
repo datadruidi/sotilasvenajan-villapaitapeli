@@ -1,3 +1,4 @@
+import { singularExercise } from '../data/singularExercises'
 import type { CaseQuestion } from '../types/cases'
 import { getCaseTemplates } from '../data/caseSentenceTemplates'
 import { CASE_SENTENCE_ENGLISH_PLURALS, CASE_SENTENCE_FINNISH } from '../data/caseSentenceWords'
@@ -17,6 +18,8 @@ function fill(template: string, values: Record<string, string>): string {
 }
 
 export function caseSentenceText(question: CaseQuestion, form: string, blank = false): string {
+  const exercise = singularExercise(question.sentenceTemplate)
+  if (exercise) return exercise.ru.replace('___', blank ? '___' : form)
   // Resolve prepositions from the accepted spelling, even while showing a blank.
   const word = blank ? '___' : form
   const context = (caseId: 'dative' | 'instrumental' | 'prepositional') => {
@@ -33,6 +36,8 @@ export function caseSentenceText(question: CaseQuestion, form: string, blank = f
 }
 
 export function getCaseSentence(question: CaseQuestion, language: 'fi' | 'en'): { prompt: string; translation: string } {
+  const exercise = singularExercise(question.sentenceTemplate)
+  if (exercise) return { prompt: caseSentenceText(question, question.acceptedForms[0], true), translation: exercise[language] }
   const { noun, number } = question
   const plural = number === 'plural'
   const template = sentenceTemplate(question)
@@ -61,4 +66,10 @@ export function getCaseSentence(question: CaseQuestion, language: 'fi' | 'en'): 
     if (plural && template.id === 'identify') translation = `These are the ${word}.`
   }
   return { prompt, translation }
+}
+
+export function caseExplanation(question: CaseQuestion, language: 'fi' | 'en'): string {
+  const exercise = singularExercise(question.sentenceTemplate)
+  const rule = language === 'fi' ? exercise?.explanation : undefined
+  return `${rule ?? (language === 'fi' ? 'Lauseen rakenne vaatii valitun sijamuodon.' : 'The sentence construction requires the selected case.')} ${question.noun.lemma} → ${question.acceptedForms.join(' / ')}.`
 }
