@@ -40,9 +40,9 @@ export const CASE_SENTENCE_TEMPLATES: Record<RussianCase, readonly SentenceTempl
     { id: 'approach', ru: 'Я иду {dativeContext}.', fi: 'Kuljen {part} kohti.', en: 'I am walking towards the {noun}.' },
   ],
   accusative: [
-    { id: 'see', ru: 'Я вижу {word}.', fi: 'Näen {part}.', en: 'I see the {noun}.' },
-    { id: 'seek', ru: 'Я ищу {word}.', fi: 'Etsin {part}.', en: 'I am looking for the {noun}.' },
-    { id: 'study', ru: 'Я изучаю {word}.', fi: 'Tutkin {part}.', en: 'I am studying the {noun}.' },
+    { id: 'see', ru: 'Командир видит {word}.', fi: 'Komentaja näkee {part}.', en: 'The commander sees the {noun}.' },
+    { id: 'seek', ru: 'Разведчик ищет {word}.', fi: 'Tiedustelija etsii {part}.', en: 'The scout is looking for the {noun}.' },
+    { id: 'study', ru: 'Мы изучаем {word}.', fi: 'Tutkimme {part}.', en: 'We are studying the {noun}.' },
     { id: 'look', ru: 'Я смотрю на {word}.', fi: 'Katson {part} kohti.', en: 'I am looking at the {noun}.' },
     { id: 'cross', ru: 'Я иду через {word}.', fi: 'Kuljen {gen} läpi.', en: 'I am walking through the {noun}.', singularOnly: true, nouns: ['деревня', 'район'] },
   ],
@@ -53,8 +53,8 @@ export const CASE_SENTENCE_TEMPLATES: Record<RussianCase, readonly SentenceTempl
     { id: 'company', ru: 'Я иду {instrumentalContext}.', fi: 'Kuljen {gen} kanssa.', en: 'I am walking with the {noun}.', singularOnly: true, animateOnly: true },
   ],
   prepositional: [
-    { id: 'talk', ru: 'Я говорю {prepositionalContext}.', fi: 'Puhun {elat}.', en: 'I am talking about the {noun}.' },
-    { id: 'think', ru: 'Я думаю {prepositionalContext}.', fi: 'Ajattelen {part}.', en: 'I am thinking about the {noun}.' },
+    { id: 'talk', ru: 'Командир говорит {prepositionalContext}.', fi: 'Komentaja puhuu {elat}.', en: 'The commander is talking about the {noun}.' },
+    { id: 'think', ru: 'Мы думаем {prepositionalContext}.', fi: 'Ajattelemme {part}.', en: 'We are thinking about the {noun}.' },
     { id: 'know', ru: 'Я знаю {prepositionalContext}.', fi: 'Tiedän {elat}.', en: 'I know about the {noun}.' },
     { id: 'location', ru: 'Мы {in} {word}.', fi: 'Olemme {iness}.', en: 'We are in the {noun}.', locationsOnly: true },
   ],

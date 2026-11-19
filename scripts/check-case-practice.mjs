@@ -11,12 +11,15 @@ async function moduleUrl(path, replacements = []) {
 const types = await moduleUrl('../src/types/cases.ts')
 const singularUrl = await moduleUrl('../src/data/singularExercises.ts')
 const { SINGULAR_EXERCISES } = await import(singularUrl)
+const examplesUrl = await moduleUrl('../src/data/caseExamples.ts', [["'../types/cases'", JSON.stringify(types)]])
+const { CASE_EXAMPLES } = await import(examplesUrl)
 const templatesUrl = await moduleUrl('../src/data/caseSentenceTemplates.ts')
 const { getCaseTemplates } = await import(templatesUrl)
-const logicUrl = await moduleUrl('../src/lib/caseGameLogic.ts', [["'../data/singularExercises'", JSON.stringify(singularUrl)], ["'../types/cases'", JSON.stringify(types)], ["'../data/caseSentenceTemplates'", JSON.stringify(templatesUrl)]])
+const logicUrl = await moduleUrl('../src/lib/caseGameLogic.ts', [["'../data/caseExamples'", JSON.stringify(examplesUrl)], ["'../data/singularExercises'", JSON.stringify(singularUrl)], ["'../types/cases'", JSON.stringify(types)], ["'../data/caseSentenceTemplates'", JSON.stringify(templatesUrl)]])
 const logic = await import(logicUrl)
 const sentenceWordsUrl = await moduleUrl('../src/data/caseSentenceWords.ts')
 const sentences = await import(await moduleUrl('../src/lib/caseSentences.ts', [
+  ["'../data/caseExamples'", JSON.stringify(examplesUrl)],
   ["'../data/singularExercises'", JSON.stringify(singularUrl)],
   ["'../data/caseSentenceWords'", JSON.stringify(sentenceWordsUrl)],
   ["'./caseGameLogic'", JSON.stringify(logicUrl)],
@@ -47,7 +50,7 @@ for (const [word, forms] of Object.entries(fixtures)) for (const [i, number] of 
 for (const word of ['справа','течь','левый','правый','военный','взрывной','корпус','судно','данные','сведения','оружие','шасси']) {
   assert.ok(!nouns.some(n => n.lemma === word), `unsafe noun admitted: ${word}`)
 }
-let checked = 0, duplicates = 0
+let checked = 0
 for (const item of nouns) for (const number of ['singular','plural']) for (const caseId of CASE_IDS) {
   const question = logic.makeCaseQuestion(item, number, caseId)
   for (const template of getCaseTemplates(item, number, caseId)) for (const language of ['fi', 'en']) {
@@ -58,9 +61,9 @@ for (const item of nouns) for (const number of ['singular','plural']) for (const
     assert.ok(sentence.translation.endsWith('.'))
     assert.ok(!/undefined|___|[{}а-яё]/u.test(sentence.translation), `${item.lemma}: invalid ${language} translation`)
   }
-  assert.equal(question.options.length, 4)
+  assert.ok(question.options.length >= 3 && question.options.length <= 4)
   assert.ok(question.options.some(form => logic.checkCaseAnswer(form, question)))
-  if (new Set(question.options).size < 4) duplicates++
+  assert.equal(new Set(question.options).size, question.options.length)
   for (const other of CASE_IDS) for (const form of item.forms[number][other]) {
     assert.equal(logic.checkCaseAnswer(form, question), question.acceptedForms.includes(form), `${item.lemma}: ${caseId} ${form}`)
   }
@@ -70,24 +73,33 @@ for (const item of nouns) for (const number of ['singular','plural']) for (const
   }
   checked++
 }
-assert.ok(duplicates >= 0)
 for (const number of ['singular','plural']) for (const caseId of CASE_IDS) {
   const round = logic.createCaseRound(nouns, number, caseId)
   assert.equal(round.length, 10)
   if (number === 'plural') assert.equal(new Set(round.map(q => q.nounId)).size, 10)
   assert.ok(round.every(q => q.number === number && q.caseId === caseId))
   assert.ok(new Set(round.map(q => q.sentenceTemplate)).size >= 3, `${caseId}: round must practise multiple uses`)
-  const smallRound = logic.createCaseRound(nouns.slice(0, 2), number, caseId)
-  assert.equal(smallRound.length, number === 'singular' ? Math.min(3, SINGULAR_EXERCISES[caseId].filter(item => item.difficulty === 'easy' && nouns.slice(0, 2).some(n => n.lemma === item.lemma)).length) + Math.min(4, SINGULAR_EXERCISES[caseId].filter(item => item.difficulty === 'medium' && nouns.slice(0, 2).some(n => n.lemma === item.lemma)).length) + Math.min(3, SINGULAR_EXERCISES[caseId].filter(item => item.difficulty === 'hard' && nouns.slice(0, 2).some(n => n.lemma === item.lemma)).length) : 10)
-  assert.ok(smallRound.every(q => q.number === number && q.caseId === caseId))
+  for (const exercise of CASE_EXAMPLES.filter(item => item.caseId === caseId && item.number === number)) {
+    const question = round.find(q => q.sentenceTemplate === exercise.id)
+    assert.ok(question, exercise.id)
+    assert.equal(sentences.getCaseSentence(question, 'fi').prompt, exercise.ru)
+    assert.equal(question.options.filter(form => logic.checkCaseAnswer(form, question)).length, 1)
+    assert.equal(new Set(question.options).size, question.options.length)
+    const reviewed = logic.createCaseRound(nouns, number, caseId, [question])
+    assert.equal(reviewed.length, 10)
+    assert.ok(reviewed.every(q => q.sentenceTemplate === exercise.id))
+    if (exercise.ru.startsWith('___')) {
+      assert.match(sentences.caseSentenceText(question, question.acceptedForms[0]), /^\p{Lu}/u)
+    }
+  }
 }
 const recon = { ...logic.makeCaseQuestion(noun('разведка'), 'singular', 'prepositional'), sentenceTemplate: 'talk' }
-assert.deepEqual(sentences.getCaseSentence(recon, 'fi'), { prompt: 'Я говорю о ___.', translation: 'Puhun tiedustelusta.' })
-assert.deepEqual(sentences.getCaseSentence(recon, 'en'), { prompt: 'Я говорю о ___.', translation: 'I am talking about the reconnaissance.' })
+assert.deepEqual(sentences.getCaseSentence(recon, 'fi'), { prompt: 'Командир говорит о ___.', translation: 'Komentaja puhuu tiedustelusta.' })
+assert.deepEqual(sentences.getCaseSentence(recon, 'en'), { prompt: 'Командир говорит о ___.', translation: 'The commander is talking about the reconnaissance.' })
 const armies = { ...logic.makeCaseQuestion(noun('армия'), 'plural', 'prepositional'), sentenceTemplate: 'talk' }
-assert.deepEqual(sentences.getCaseSentence(armies, 'fi'), { prompt: 'Я говорю об ___.', translation: 'Puhun armeijoista.' })
-assert.equal(sentences.getCaseSentence(armies, 'en').translation, 'I am talking about the armies.')
-assert.equal(sentences.getCaseSentence({ ...logic.makeCaseQuestion(noun('солдат'), 'plural', 'accusative'), sentenceTemplate: 'see' }, 'fi').translation, 'Näen sotilaita.')
+assert.deepEqual(sentences.getCaseSentence(armies, 'fi'), { prompt: 'Командир говорит об ___.', translation: 'Komentaja puhuu armeijoista.' })
+assert.equal(sentences.getCaseSentence(armies, 'en').translation, 'The commander is talking about the armies.')
+assert.equal(sentences.getCaseSentence({ ...logic.makeCaseQuestion(noun('солдат'), 'plural', 'accusative'), sentenceTemplate: 'see' }, 'fi').translation, 'Komentaja näkee sotilaita.')
 const soldier = logic.makeCaseQuestion(noun('солдат'), 'singular', 'genitive')
 assert.deepEqual(sentences.getCaseSentence({ ...soldier, sentenceTemplate: 'possession' }, 'fi'), { prompt: 'Это вещь ___.', translation: 'Tämä on sotilaan tavara.' })
 assert.equal(sentences.getCaseSentence({ ...soldier, sentenceTemplate: 'purpose' }, 'fi').translation, 'Tämä on sotilasta varten.')
@@ -144,12 +156,12 @@ assert.deepEqual(review.getCaseReviewList(),[])
 globalThis.localStorage = { getItem: () => { throw new Error('blocked') }, setItem: () => { throw new Error('blocked') } }
 assert.deepEqual(review.getCaseReviewList(),[])
 assert.deepEqual(review.toggleCaseReview(a),[])
-console.log(`Verified ${checked} noun/number/case combinations, ${duplicates} questions with duplicate options, reference irregulars, contexts, bilingual guides, rounds and review persistence.`)
+console.log(`Verified ${checked} noun/number/case combinations, reference irregulars, contexts, bilingual guides, rounds and review persistence.`)
 
 for (const caseId of CASE_IDS) {
   const sampled = logic.createCaseRound(nouns, 'singular', caseId)
   assert.equal(sampled.length, 10)
-  assert.deepEqual(['easy','medium','hard'].map(level => sampled.filter(q => SINGULAR_EXERCISES[caseId].find(e => e.id === q.sentenceTemplate).difficulty === level).length), [3,4,3])
+  assert.deepEqual(['easy','medium','hard'].map(level => sampled.filter(q => [...SINGULAR_EXERCISES[caseId], ...CASE_EXAMPLES].find(e => e.id === q.sentenceTemplate).difficulty === level).length), [3,4,3])
   const round = SINGULAR_EXERCISES[caseId].map(exercise => logic.makeSingularQuestion(noun(exercise.lemma), caseId, exercise, Math.random))
   assert.equal(round.length, 100)
   assert.equal(new Set(round.map(q => q.sentenceTemplate)).size, 100)

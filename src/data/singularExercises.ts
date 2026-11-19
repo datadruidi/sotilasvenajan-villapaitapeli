@@ -12,7 +12,18 @@ export interface SingularExercise {
 }
 
 // Ten syntactic frames per case, each in ten translated operational contexts.
-const contexts = [["", "", ""], ["На учениях ", "Harjoituksessa: ", "During the exercise: "], ["Утром ", "Aamulla: ", "In the morning: "], ["После проверки ", "Tarkastuksen jälkeen: ", "After the inspection: "], ["Перед маршем ", "Ennen marssia: ", "Before the march: "], ["По приказу офицера ", "Upseerin käskystä: ", "On the officer’s orders: "], ["Когда поступил сигнал, ", "Kun merkki tuli: ", "When the signal arrived: "], ["Пока шла подготовка, ", "Valmistelun aikana: ", "While preparations were underway: "], ["Хотя видимость была плохой, ", "Vaikka näkyvyys oli huono: ", "Although visibility was poor: "], ["Как сообщил дежурный, ", "Kuten päivystäjä ilmoitti: ", "As the duty officer reported: "]] as const
+const contexts = [
+  ['', '', ''],
+  ['На учениях ', 'Harjoituksessa ', 'During the exercise, '],
+  ['Утром ', 'Aamulla ', 'In the morning, '],
+  ['После проверки ', 'Tarkastuksen jälkeen ', 'After the inspection, '],
+  ['Перед маршем ', 'Ennen marssia ', 'Before the march, '],
+  ['Сегодня ', 'Tänään ', 'Today, '],
+  ['Вечером ', 'Illalla ', 'In the evening, '],
+  ['На базе ', 'Tukikohdassa ', 'At the base, '],
+  ['После учений ', 'Harjoituksen jälkeen ', 'After the exercise, '],
+  ['По прибытии ', 'Saapumisen jälkeen ', 'On arrival, '],
+] as const
 
 const frames: Record<RussianCase, readonly (readonly string[])[]> = {
   "nominative": [
@@ -454,7 +465,9 @@ export const SINGULAR_EXERCISES: Record<RussianCase, SingularExercise[]> = Objec
     items.map(([lemma, sentence, finnish, english, explanation], index) => ({
       id: `singular-${caseId}-${contextIndex}-${index}`, lemma,
       ru: ru + (ru && !sentence.startsWith('___') ? sentence[0].toLocaleLowerCase('ru') + sentence.slice(1) : sentence),
-      fi: fi + finnish, en: en + english, explanation,
+      fi: fi + (fi ? finnish[0].toLocaleLowerCase('fi') + finnish.slice(1) : finnish),
+      en: en + (en && !english.startsWith('I ') ? english[0].toLocaleLowerCase('en') + english.slice(1) : english),
+      explanation,
       difficulty: contextIndex < 3 ? 'easy' : contextIndex < 7 ? 'medium' : 'hard',
       ...(caseId === 'prepositional' && lemma === 'лес' ? { form: 'лесу' } : {}),
       ...(caseId === 'prepositional' && lemma === 'мост' ? { form: 'мосту' } : {}),

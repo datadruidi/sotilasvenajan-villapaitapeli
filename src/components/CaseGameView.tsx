@@ -51,7 +51,7 @@ export function CaseGameView({ mode, caseId, appLanguage, muted, onToggleMute, o
   const [finished, setFinished] = useState(false)
   const [error, setError] = useState(false)
   const [attempt, setAttempt] = useState(0)
-  const [info, setInfo] = useState<'translation' | 'grammar' | null>(null)
+  const [info, setInfo] = useState<'grammar' | null>(null)
   const [review, setReview] = useState(getCaseReviewList)
   const answerLocked = useRef(false)
   const completed = useRef(false)
@@ -111,6 +111,10 @@ export function CaseGameView({ mode, caseId, appLanguage, muted, onToggleMute, o
   )
   const guide = CASE_GRAMMAR[question.caseId]
   const sentence = getCaseSentence(question, lang)
+  const hintWord = question.noun.lemma === 'подразделение'
+    ? (en ? 'unit' : 'yksikkö')
+    : question.noun.translations[lang].replace(/\s*\([^)]*\)/gu, '').trim().toLocaleLowerCase(lang)
+  const hintNumber = question.number === 'plural' ? (en ? ', plural' : ', monikko') : ''
   const answered = selected !== null
   const correct = answered && checkCaseAnswer(question.options[selected], question)
   const saved = review.some(entry => caseTaskKey(entry) === caseTaskKey(question))
@@ -132,11 +136,11 @@ export function CaseGameView({ mode, caseId, appLanguage, muted, onToggleMute, o
   return (
     <div className="app"><main className="game-view game-view-quiz case-game">
       <header className="quiz-header"><div className="quiz-header-actions case-header-actions">{homeButton}{muteButton}<button type="button" className="case-grammar-info-btn" aria-label={en ? 'Show case grammar' : 'Näytä sijamuodon ohje'} onClick={() => setInfo('grammar')}>INFO</button></div><h1 className="quiz-title">{title}</h1><div className="quiz-progress quiz-progress-card"><span className="quiz-progress-line">{en ? 'Round' : 'Kierros'}: {index + 1}/{questions.length}</span><span className="quiz-progress-line">{en ? 'Correct' : 'Oikein'}: {score}/{questions.length}</span></div></header>
-      <p className="case-lemma-label">{en ? 'Nominative · dictionary form' : 'Nominatiivi · perusmuoto'}</p>
-      <div className="case-word-row"><p className="quiz-words-prompt" lang="ru">{question.noun.lemma}</p><button type="button" className="case-info-btn" aria-label={en ? 'Show word translation' : 'Näytä sanan käännös'} onClick={() => setInfo('translation')}>ⓘ</button></div>
       <div className="case-sentence">
-        <p className="case-context" lang="ru">{sentence.prompt}</p>
-        <p className="case-context-translation" lang={lang}>{sentence.translation}</p>
+        <p className="case-context">
+          <span lang="ru">{sentence.prompt.replace('___', '________')}</span>{' '}
+          <span className="case-context-translation" lang={lang}>({hintWord}{hintNumber})</span>
+        </p>
       </div>
       <button type="button" className={`quiz-review-btn ${saved ? 'quiz-review-btn--remove' : 'quiz-review-btn--add'}`} onClick={() => setReview(toggleCaseReview(question))}>{saved ? (en ? 'Remove word from review list' : 'Poista sana kerrattavalta listalta') : (en ? 'Add word to review list' : 'Lisää sana kerrattavalle listalle')}</button>
       <p className="case-context-translation">{en ? 'Keys 1–4: choose an answer · Enter: next question' : 'Näppäimet 1–4: valitse vastaus · Enter: seuraava kysymys'}</p>
@@ -145,11 +149,10 @@ export function CaseGameView({ mode, caseId, appLanguage, muted, onToggleMute, o
         return <button key={optionIndex} type="button" className={`quiz-option ${state}`} onClick={() => choose(optionIndex)} disabled={correct} lang="ru"><small aria-hidden="true">{optionIndex + 1}. </small>{form}</button>
       })}</div>
       {answered && <div className={`quiz-feedback ${correct ? 'correct' : 'incorrect'}`} role="status">
-        {correct ? <>{en ? 'Correct:' : 'Oikein:'} <span lang="ru">{question.acceptedForms.join(' / ')}</span><p lang="ru">{caseSentenceText(question, question.acceptedForms[0])}</p><p>{caseExplanation(question, lang)}</p></> : (en ? 'Incorrect. Try again.' : 'Väärin. Yritä uudelleen.')}
+        {correct ? <>{en ? 'Correct:' : 'Oikein:'} <span lang="ru">{question.acceptedForms.join(' / ')}</span><p lang="ru">{caseSentenceText(question, question.acceptedForms[0])}</p><p lang={lang}>{sentence.translation}</p><p>{caseExplanation(question, lang)}</p></> : (en ? 'Incorrect. Try again.' : 'Väärin. Yritä uudelleen.')}
       </div>}
       {correct && <button type="button" className="quiz-next-btn" onClick={next}>{index === questions.length - 1 ? (en ? 'Show results' : 'Näytä tulokset') : (en ? 'Next question' : 'Seuraava kysymys')}</button>}
-      {info && <InfoDialog title={info === 'translation' ? (en ? 'Translation' : 'Käännös') : guide.name[lang]} closeLabel={en ? 'Close' : 'Sulje'} onClose={() => setInfo(null)}>
-        {info === 'translation' ? <><p lang="ru" className="case-translation-word">{question.noun.lemma}</p><p>{question.noun.translations[lang]}</p></> : <>
+      {info && <InfoDialog title={guide.name[lang]} closeLabel={en ? 'Close' : 'Sulje'} onClose={() => setInfo(null)}>
           <h3 lang="ru">{guide.russian}</h3><p>{guide.questions[lang]}</p><p>{guide.use[lang]}</p>
           <div className="case-grammar-rules">
             <p>{en ? 'Common ending changes from the singular dictionary form. ∅ means no ending. Specific patterns (such as -ия) take precedence over general ones. Plural forms may have exceptions.' : 'Tavalliset päätemuutokset yksikön perusmuodosta. ∅ tarkoittaa nollapäätettä. Tarkempi sääntö (esim. -ия) ohittaa yleisen. Monikkomuodoissa on poikkeuksia.'}</p>
@@ -167,7 +170,6 @@ export function CaseGameView({ mode, caseId, appLanguage, muted, onToggleMute, o
             </section>)}
           </div>
           <h3>{en ? 'Special rules and exceptions' : 'Erityissäännöt ja poikkeukset'}</h3><p>{guide.exceptions[lang]}</p>
-        </>}
       </InfoDialog>}
     </main></div>
   )
