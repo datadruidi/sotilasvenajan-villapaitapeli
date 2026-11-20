@@ -12,7 +12,7 @@ import './CaseGameView.css'
 
 interface Props {
   mode: GrammaticalNumber | 'review'
-  caseId: RussianCase
+  caseId: RussianCase | 'mixed'
   appLanguage: AppLanguage
   muted: boolean
   onToggleMute: () => void
@@ -68,7 +68,7 @@ export function CaseGameView({ mode, caseId, appLanguage, muted, onToggleMute, o
   }, [])
   const number = mode === 'plural' ? 'plural' : 'singular'
   const title = mode === 'review' ? (en ? 'Case Practice · Review' : 'Sijamuotopeli · Kertaus')
-    : `6.${mode === 'singular' ? 1 : 2}.${CASE_IDS.indexOf(caseId) + 1}. ${CASE_NAMES[caseId][lang]}`
+    : `6.${mode === 'singular' ? 1 : 2}.${caseId === 'mixed' ? CASE_IDS.length + 1 : CASE_IDS.indexOf(caseId) + 1}. ${caseId === 'mixed' ? (en ? 'Mixed Cases' : 'Sijamuodot sekaisin') : CASE_NAMES[caseId][lang]}`
 
   useEffect(() => {
     let cancelled = false
@@ -119,7 +119,7 @@ export function CaseGameView({ mode, caseId, appLanguage, muted, onToggleMute, o
   const correct = answered && checkCaseAnswer(question.options[selected], question)
   const saved = review.some(entry => caseTaskKey(entry) === caseTaskKey(question))
   const choose = (optionIndex: number) => {
-    if (answerLocked.current) return
+    if (answerLocked.current || optionIndex >= question.options.length) return
     answerLocked.current = true
     setSelected(optionIndex)
     if (checkCaseAnswer(question.options[optionIndex], question)) { if (!failed) setScore(value => value + 1); playCorrect(muted) }

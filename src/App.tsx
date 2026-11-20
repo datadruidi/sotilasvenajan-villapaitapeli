@@ -267,7 +267,7 @@ function AppContent() {
   const [pendingView, setPendingView] = useState<'vehicles-game' | 'words-game' | 'garrisons-game' | 'district-insignia-game' | 'tactical-signs-game' | 'ranks-game' | 'case-game' | null>(null)
   const [gameMenuTitle, setGameMenuTitle] = useState('')
   const [selectedCaseNumber, setSelectedCaseNumber] = useState<GrammaticalNumber | null>(null)
-  const [selectedCase, setSelectedCase] = useState<RussianCase>('nominative')
+  const [selectedCase, setSelectedCase] = useState<RussianCase | 'mixed'>('nominative')
   const [caseMode, setCaseMode] = useState<GrammaticalNumber | 'review'>('singular')
 
   const [selectedWordsCategory, setSelectedWordsCategory] = useState<'sotilassanasto' | 'lyhenteet' | null>(null)
@@ -620,7 +620,7 @@ function AppContent() {
 
   if (view === 'case-game') {
     return <CaseGameView mode={caseMode} caseId={selectedCase} appLanguage={appLanguage} muted={muted} onToggleMute={toggleMute} onBack={backToLanding} onRoundComplete={() => {
-      incrementRounds(getRoundsKey('cases', caseMode))
+      if (selectedCase !== 'mixed' || caseMode === 'review') incrementRounds(getRoundsKey('cases', caseMode))
       if (caseMode !== 'review') incrementRounds(getRoundsKey('cases', `${caseMode}_${selectedCase}`))
     }} />
   }
@@ -1286,6 +1286,18 @@ function AppContent() {
                 }}
               />
             })}
+            <hr className="case-menu-divider" />
+            <OptionWithRoundsRow
+              label={`6.${selectedCaseNumber === 'singular' ? 1 : 2}.7. ${isEnglish ? 'Mixed Cases' : 'Sijamuodot sekaisin'}`}
+              rounds={getRounds(getRoundsKey('cases', `${selectedCaseNumber}_mixed`)) >= ROUNDS_MAX ? (isEnglish ? 'Completed' : 'Suoritettu') : formatRoundsDisplay(getRounds(getRoundsKey('cases', `${selectedCaseNumber}_mixed`)))}
+              onClick={() => {
+                playButtonClick(muted)
+                setCaseMode(selectedCaseNumber)
+                setSelectedCase('mixed')
+                setPendingView('case-game')
+                setShowLadataanIkkuna(true)
+              }}
+            />
           </div>
           <button type="button" className="back-btn back-btn-inline" onClick={() => { playButtonClick(muted); setSelectedCaseNumber(null) }}>{isEnglish ? 'Back' : 'Takaisin'}</button>
         </section>

@@ -32,8 +32,15 @@ export function makeCaseQuestion(noun: CaseNoun, number: GrammaticalNumber, case
   return { nounId: noun.id, noun, number, caseId, sentenceTemplate, options, acceptedForms }
 }
 
-export function createCaseRound(nouns: CaseNoun[], number: GrammaticalNumber, caseId: RussianCase, review?: CaseTask[], random = Math.random): CaseQuestion[] {
+export function createCaseRound(nouns: CaseNoun[], number: GrammaticalNumber, caseId: RussianCase | 'mixed', review?: CaseTask[], random = Math.random): CaseQuestion[] {
   if (nouns.length === 0) return []
+  if (caseId === 'mixed') {
+    if (review) return createCaseRound(nouns, number, 'nominative', review, random)
+    const rounds = shuffleCases(CASE_IDS, random)
+      .map(id => shuffleCases(createCaseRound(nouns, number, id, undefined, random), random))
+    // Include every case, then take a second question from four randomly chosen cases.
+    return shuffleCases(rounds.flatMap((round, index) => round.slice(0, index < 4 ? 2 : 1)), random)
+  }
   const byLemma = new Map(nouns.map(noun => [noun.lemma, noun]))
   for (const noun of CASE_EXAMPLE_NOUNS) {
     if (!byLemma.has(noun.lemma)) byLemma.set(noun.lemma, noun)

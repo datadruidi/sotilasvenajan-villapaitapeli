@@ -33,6 +33,16 @@ const nouns = bank.nouns
 assert.ok(nouns.length >= 100)
 assert.equal(new Set(nouns.map(n => n.lemma)).size, nouns.length)
 const noun = word => { const result = nouns.find(n => n.lemma === word); assert.ok(result, word); return result }
+for (const number of ['singular', 'plural']) {
+  const round = logic.createCaseRound(nouns, number, 'mixed')
+  assert.equal(round.length, 10)
+  assert.deepEqual(new Set(round.map(question => question.caseId)), new Set(CASE_IDS))
+  for (const question of round) {
+    assert.equal(question.number, number)
+    assert.equal(question.options.filter(option => logic.checkCaseAnswer(option, question)).length, 1)
+    assert.equal(sentences.getCaseSentence(question, 'fi').prompt.split('___').length, 2)
+  }
+}
 // Independent reference fixtures, including stem changes, zero genitive and soft-sign forms.
 const fixtures = {
   солдат: [['солдат','солдата','солдату','солдата','солдатом','солдате'], ['солдаты','солдат','солдатам','солдат','солдатами','солдатах']],
