@@ -17,21 +17,21 @@ Conservative exclusions include:
 - Multiword terms and abbreviations, missing bilingual translations, unknown words and ambiguous dictionary paradigms.
 - Судно has different ship/bedpan paradigms; it is excluded rather than selecting by frequency. Корпус is excluded because the pinned dictionary's preferred plural корпусы does not match military корпуса.
 
-The accepted set deliberately contains only nouns supported in **both** numbers, so the two normal submodes use the same vocabulary. There is no attempt to manufacture a missing singular/plural. Additional manually verified terms can later be admitted by extending the generator's explicit policy and validation fixtures.
+The accepted set deliberately contains only nouns supported in **both** numbers, so the two normal submodes use the same vocabulary. In addition to the CSV-derived bank, `src/data/caseExamples.ts` supplies 30 new nouns with explicit Russian paradigms and bilingual translations. All 30 are available in each of the 12 case and number combinations, including saved review. Each single-case round samples three of the new nouns. There is no attempt to manufacture a missing singular/plural. Additional manually verified terms can later be admitted by extending the generator's explicit policy and validation fixtures.
 
 Data retains ё. Cases distinguish ordinary prepositional from the special locative: **о лесе**, not *о лесу*; **о мосте**, not *о мосту*. Partitive/genitive-2 forms are not substituted for the ordinary genitive. Irregular reference fixtures include солдат, боец, день, ночь, море, крыло, армия and орудие.
 
 ## Singular exercises, feedback and keyboard controls
 
-Each singular case has 100 exercises in `src/data/singularExercises.ts`: ten different sentence frames, each paired with ten operational contexts. Each frame has an explicit Russian sentence, Finnish and English translation, and Finnish explanation of the governing construction. The first 30 exercises use simple contexts, the next 40 add operational context, and the last 30 use subordinate clauses. Each round randomly selects three easy, four medium and three hard exercises from the bank. All six banks include masculine, feminine and neuter nouns and both animate and inanimate nouns.
+Each singular case has 140 exercises in `src/data/singularExercises.ts`: fourteen different sentence frames, each paired with ten operational contexts. Each frame has an explicit Russian sentence, Finnish and English translation, and Finnish explanation of the governing construction. There are 42 easy, 56 medium and 42 hard exercises per case. Each round has three easy, four medium and three hard slots. One slot in each group uses a new noun with a compatible sentence template. All six banks include masculine, feminine and neuter nouns and both animate and inanimate nouns.
 
 Frames cover subjects and identification; absence, ownership, quantity and genitive prepositions; dative recipients, assistance and approach; accusative objects and destinations; instrumental verb government, equipment and accompaniment; and prepositional locations and topics. Location-specific `в лесу` and `на мосту` override ordinary prepositional forms only in those sentences. Topic constructions retain ordinary forms.
 
-Singular, plural and saved-review rounds contain ten questions, with progress and scores shown as X/10. The dictionary form is always shown in Russian, including nominative tasks. Each curated singular task has four distinct spellings from the same noun’s singular paradigm and exactly one accepted answer. Syncretic forms appear once. Legacy plural/review vocabulary with fewer than four distinct spellings can repeat a distractor.
+Singular, plural and saved-review rounds contain ten questions, with progress and scores shown as X/10. The dictionary form is always shown in Russian, including nominative tasks. Each curated singular task has four distinct spellings from the same noun’s singular paradigm and exactly one accepted answer. Syncretic forms appear once. Every question has four distinct options and one accepted answer. If the selected number supplies fewer than three distinct distractors, additional distractors come from the same noun’s other number.
 
 A wrong answer gives a retry without revealing the solution. A correct answer shows the completed sentence and a short explanation followed by `lemma → form`. Scoring counts answers that were correct on the first attempt. The Next button appears after success. Keys 1–4 select options from top to bottom; Enter advances after success and shows results after the final question. Held keys, modifier combinations, text fields and open dialogs do not trigger game actions.
 
-The existing word-translation and grammar dialogs remain available. Plural and saved-review sentences still use the compatible templates in `caseSentenceTemplates.ts` and explicit Finnish inflections in `caseSentenceWords.ts`.
+The existing word-translation and grammar dialogs remain available. Each plural round samples two feminine and two neuter examples from `caseExamples.ts`, plus a masculine example where available. Three questions draw from the 30 new nouns. The remaining questions use compatible templates in `caseSentenceTemplates.ts` and explicit Finnish inflections in `caseSentenceWords.ts`. Saved review reuses a curated example when it matches the saved noun, number and case.
 
 ## Review and accessibility
 
@@ -52,7 +52,7 @@ npm run lint
 npm run build
 ```
 
-The JavaScript verifier checks morphology reference fixtures, all 2,088 noun/number/case combinations, bilingual legacy contexts, round construction and review persistence. It also checks all 600 curated singular tasks for difficulty counts, gender and animacy coverage, four distinct options, exactly one accepted answer, sentence blanks, translations and explanations. Python/morphology is not a runtime dependency.
+The JavaScript verifier checks morphology reference fixtures, all 2,448 noun/number/case combinations from the CSV-derived bank and the new vocabulary, bilingual legacy contexts, round construction and review persistence. It also checks all 840 curated singular tasks for difficulty counts, gender and animacy coverage, four distinct options, exactly one accepted answer, sentence blanks, translations and explanations. Python/morphology is not a runtime dependency.
 
 ## Attribution
 

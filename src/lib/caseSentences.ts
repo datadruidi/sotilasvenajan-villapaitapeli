@@ -74,6 +74,6 @@ export function getCaseSentence(question: CaseQuestion, language: 'fi' | 'en'): 
 
 export function caseExplanation(question: CaseQuestion, language: 'fi' | 'en'): string {
   const exercise = (caseExample(question.sentenceTemplate) ?? singularExercise(question.sentenceTemplate))
-  const rule = language === 'fi' ? exercise?.explanation : undefined
+  const rule = language === 'fi' ? exercise?.explanation : caseExample(question.sentenceTemplate)?.explanationEn
   return `${rule ?? (language === 'fi' ? 'Lauseen rakenne vaatii valitun sijamuodon.' : 'The sentence construction requires the selected case.')} ${question.noun.lemma} → ${question.acceptedForms.join(' / ')}.`
 }

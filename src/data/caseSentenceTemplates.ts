@@ -60,7 +60,15 @@ export const CASE_SENTENCE_TEMPLATES: Record<RussianCase, readonly SentenceTempl
   ],
 }
 
+const MATCH_TEMPLATE: SentenceTemplate = {
+  id: 'match',
+  ru: 'Это соответствует {word}.',
+  fi: 'Tämä vastaa {part}.',
+  en: 'This matches the {noun}.',
+}
+
 export function getCaseTemplates(noun: CaseNoun, number: GrammaticalNumber, caseId: RussianCase): SentenceTemplate[] {
+  if (caseId === 'dative' && noun.id.startsWith('additional-')) return [MATCH_TEMPLATE]
   return CASE_SENTENCE_TEMPLATES[caseId].filter(template =>
     (!template.singularOnly || (number === 'singular' && noun.lemma !== 'форсирование')) &&
     (!template.locationsOnly || LOCATION_NOUNS.has(noun.lemma)) &&

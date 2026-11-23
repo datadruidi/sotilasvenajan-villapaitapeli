@@ -1,8 +1,8 @@
-import { CASE_EXAMPLES, CASE_EXAMPLE_NOUNS } from '../data/caseExamples'
+import { CASE_ADDITIONAL_NOUNS, CASE_EXAMPLES, CASE_EXAMPLE_NOUNS, CASE_PHRASE_EXERCISES } from '../data/caseExamples'
 import { SINGULAR_EXERCISES, type SingularExercise } from '../data/singularExercises'
 import { getCaseTemplates } from '../data/caseSentenceTemplates'
 import { CASE_IDS } from '../types/cases'
-import type { CaseForms, CaseNoun, CaseQuestion, CaseTask, GrammaticalNumber, RussianCase } from '../types/cases'
+import type { CaseNoun, CaseQuestion, CaseTask, GrammaticalNumber, RussianCase } from '../types/cases'
 
 export function shuffleCases<T>(items: readonly T[], random = Math.random): T[] {
   const result = [...items]
@@ -17,19 +17,54 @@ export function caseTaskKey(task: CaseTask): string {
   return `${task.nounId}:${task.number}:${task.caseId}`
 }
 
-function makeCaseOptions(forms: CaseForms, acceptedForms: string[], random: () => number): string[] {
-  const distractors = [...new Set(CASE_IDS.flatMap(id => forms[id]))]
+function makeCaseOptions(noun: CaseNoun, number: GrammaticalNumber, acceptedForms: string[], random: () => number): string[] {
+  const distractors = [...new Set(CASE_IDS.flatMap(id => noun.forms[number][id]))]
     .filter(form => !acceptedForms.includes(form))
-  return shuffleCases([acceptedForms[0], ...shuffleCases(distractors, random).slice(0, 3)], random)
+  const wrong = shuffleCases(distractors, random).slice(0, 3)
+  if (wrong.length < 3) {
+    const otherNumber = number === 'singular' ? 'plural' : 'singular'
+    const extra = [...new Set(CASE_IDS.flatMap(id => noun.forms[otherNumber][id]))]
+      .filter(form => !acceptedForms.includes(form) && !wrong.includes(form))
+    wrong.push(...shuffleCases(extra, random).slice(0, 3 - wrong.length))
+  }
+  return shuffleCases([acceptedForms[0], ...wrong], random)
 }
 
 export function makeCaseQuestion(noun: CaseNoun, number: GrammaticalNumber, caseId: RussianCase, random = Math.random): CaseQuestion {
   const forms = noun.forms[number]
   const acceptedForms = [...forms[caseId]]
-  const options = makeCaseOptions(forms, acceptedForms, random)
+  const options = makeCaseOptions(noun, number, acceptedForms, random)
   const templates = getCaseTemplates(noun, number, caseId)
   const sentenceTemplate = templates[Math.floor(random() * templates.length)].id
   return { nounId: noun.id, noun, number, caseId, sentenceTemplate, options, acceptedForms }
+}
+
+type PhraseExercise = typeof CASE_PHRASE_EXERCISES[number]
+
+const phrasesById = new Map(CASE_PHRASE_EXERCISES.map(exercise => [exercise.id, exercise]))
+
+function makePhraseQuestion(noun: CaseNoun, exercise: PhraseExercise, random: () => number): CaseQuestion {
+  const { id, number, caseId, adjectiveForms, translations } = exercise
+  const nounForms = noun.forms[number]
+  const phraseForms = { ...nounForms }
+  for (const caseId of CASE_IDS) {
+    phraseForms[caseId] = adjectiveForms[caseId].flatMap(adjective =>
+      nounForms[caseId].map(form => `${adjective} ${form}`),
+    )
+  }
+  const acceptedForms = phraseForms[caseId]
+  // Include a distractor with the right noun and the wrong adjective ending.
+  const wrongAdjectives = [...new Set(CASE_IDS.flatMap(id => adjectiveForms[id]))]
+    .filter(form => !adjectiveForms[caseId].includes(form))
+  const wrongAgreement = `${shuffleCases(wrongAdjectives, random)[0]} ${nounForms[caseId][0]}`
+  const distractors = [...new Set(CASE_IDS.flatMap(id => phraseForms[id]))]
+    .filter(form => !acceptedForms.includes(form) && form !== wrongAgreement)
+  const options = shuffleCases([acceptedForms[0], wrongAgreement, ...shuffleCases(distractors, random).slice(0, 2)], random)
+  const phrase = {
+    ...noun, id, lemma: phraseForms.nominative[0], translations,
+    forms: { ...noun.forms, [number]: phraseForms },
+  }
+  return { nounId: id, noun: phrase, number, caseId, sentenceTemplate: id, acceptedForms, options }
 }
 
 export function createCaseRound(nouns: CaseNoun[], number: GrammaticalNumber, caseId: RussianCase | 'mixed', review?: CaseTask[], random = Math.random): CaseQuestion[] {
@@ -39,45 +74,74 @@ export function createCaseRound(nouns: CaseNoun[], number: GrammaticalNumber, ca
     const rounds = shuffleCases(CASE_IDS, random)
       .map(id => shuffleCases(createCaseRound(nouns, number, id, undefined, random), random))
     // Include every case, then take a second question from four randomly chosen cases.
-    return shuffleCases(rounds.flatMap((round, index) => round.slice(0, index < 4 ? 2 : 1)), random)
+    return shuffleCases(rounds.flatMap((round, index) => {
+      if (index !== 0) return round.slice(0, index < 4 ? 2 : 1)
+      const phrase = round.find(question => phrasesById.has(question.nounId))
+      return phrase ? [phrase, round.find(question => question !== phrase)!] : round.slice(0, 2)
+    }), random)
   }
   const byLemma = new Map(nouns.map(noun => [noun.lemma, noun]))
-  for (const noun of CASE_EXAMPLE_NOUNS) {
+  for (const noun of [...CASE_EXAMPLE_NOUNS, ...CASE_ADDITIONAL_NOUNS]) {
     if (!byLemma.has(noun.lemma)) byLemma.set(noun.lemma, noun)
   }
   const byId = new Map([...byLemma.values()].map(noun => [noun.id, noun]))
+  const additional = CASE_ADDITIONAL_NOUNS.filter(noun => byId.has(noun.id))
   const examples = CASE_EXAMPLES.filter(item => item.number === number && item.caseId === caseId)
   const exampleQuestion = (exercise: typeof CASE_EXAMPLES[number]) =>
     makeExerciseQuestion(byLemma.get(exercise.lemma)!, exercise.number, exercise.caseId, exercise, random)
 
+  const phrase = review ? undefined : shuffleCases(CASE_PHRASE_EXERCISES.filter(exercise =>
+    exercise.number === number && exercise.caseId === caseId && byLemma.has(exercise.lemma),
+  ), random)[0]
+  const phraseQuestion = (exercise: PhraseExercise) => makePhraseQuestion(byLemma.get(exercise.lemma)!, exercise, random)
+
   if (number === 'singular' && !review) {
     const exercises = SINGULAR_EXERCISES[caseId].filter(item => byLemma.has(item.lemma))
-    return (['easy', 'medium', 'hard'] as const).flatMap(difficulty => {
+    const newNouns = shuffleCases(additional, random).slice(0, 3)
+    return (['easy', 'medium', 'hard'] as const).flatMap((difficulty, index) => {
       const preferred = examples.filter(item => item.difficulty === difficulty && byLemma.has(item.lemma))
-      const remaining = (difficulty === 'medium' ? 4 : 3) - preferred.length
+      const newNoun = newNouns[index]
+      const includePhrase = difficulty === 'medium' && phrase
+      const remaining = (difficulty === 'medium' ? 4 : 3) - preferred.length - Number(Boolean(newNoun)) - Number(Boolean(includePhrase))
       const fallback = shuffleCases(exercises.filter(item => item.difficulty === difficulty), random).slice(0, remaining)
-      return shuffleCases([...preferred, ...fallback], random)
+      const questions = [...preferred, ...fallback]
         .map(exercise => makeSingularQuestion(byLemma.get(exercise.lemma)!, caseId, exercise, random))
+      if (includePhrase) questions.push(phraseQuestion(includePhrase))
+      if (newNoun) questions.push(makeCaseQuestion(newNoun, number, caseId, random))
+      return shuffleCases(questions, random)
     })
   }
 
   const tasks = review
     ? [...new Map(review.filter(task => {
+      const exercise = phrasesById.get(task.nounId)
+      if (exercise) return exercise.number === task.number && exercise.caseId === task.caseId && byLemma.has(exercise.lemma)
       const noun = byId.get(task.nounId)
-      return noun && (noun.sources.length > 0 || CASE_EXAMPLES.some(exercise =>
+      return noun && (noun.sources.length > 0 || additional.includes(noun) || CASE_EXAMPLES.some(exercise =>
         exercise.lemma === noun.lemma && exercise.number === task.number && exercise.caseId === task.caseId,
       ))
     }).map(task => [caseTaskKey(task), task])).values()]
     : nouns.map(noun => ({ nounId: noun.id, number, caseId }))
   if (!tasks.length) return []
   // Normal rounds keep the selected case; review retains each saved case and number.
-  const curated = review ? [] : examples.filter(exercise => byLemma.has(exercise.lemma)).map(exampleQuestion)
+  const curated = review ? [] : (['feminine', 'neuter', 'masculine'] as const).flatMap(gender =>
+    shuffleCases(examples.filter(exercise => byLemma.get(exercise.lemma)?.gender === gender), random)
+      .slice(0, gender === 'masculine' ? 1 : 2)
+      .map(exampleQuestion),
+  )
   const curatedIds = new Set(curated.map(question => question.nounId))
+  if (phrase) curated.push(phraseQuestion(phrase))
   const remainingTasks = tasks.filter(task => !curatedIds.has(task.nounId))
-  const ordered = shuffleCases(remainingTasks.length ? remainingTasks : tasks, random)
+  const ordered = [
+    ...(review ? [] : shuffleCases(additional, random).slice(0, 3)
+      .map(noun => ({ nounId: noun.id, number, caseId }))),
+    ...shuffleCases(remainingTasks.length ? remainingTasks : tasks, random),
+  ]
   const templateUses = new Map<string, number>()
   const otherQuestions = Array.from({ length: 10 - curated.length }, (_, index) => {
     const task = ordered[index % ordered.length]
+    const exercise = phrasesById.get(task.nounId)
+    if (exercise) return phraseQuestion(exercise)
     const noun = byId.get(task.nounId)!
     const example = review && CASE_EXAMPLES.find(exercise =>
       exercise.lemma === noun.lemma && exercise.number === task.number && exercise.caseId === task.caseId,
@@ -112,7 +176,7 @@ export function caseContext(caseId: RussianCase, form: string): string {
 function makeExerciseQuestion(noun: CaseNoun, number: GrammaticalNumber, caseId: RussianCase, exercise: SingularExercise, random: () => number): CaseQuestion {
   const forms = noun.forms[number]
   const acceptedForms = exercise.form ? [exercise.form] : forms[caseId]
-  const options = makeCaseOptions(forms, acceptedForms, random)
+  const options = makeCaseOptions(noun, number, acceptedForms, random)
   return { nounId: noun.id, noun, number, caseId, sentenceTemplate: exercise.id, acceptedForms, options }
 }
 

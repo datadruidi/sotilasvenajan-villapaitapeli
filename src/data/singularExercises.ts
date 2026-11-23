@@ -11,7 +11,7 @@ export interface SingularExercise {
   form?: string
 }
 
-// Ten syntactic frames per case, each in ten translated operational contexts.
+// Each sentence frame appears in ten translated contexts.
 const contexts = [
   ['', '', ''],
   ['На учениях ', 'Harjoituksessa ', 'During the exercise, '],
@@ -96,6 +96,34 @@ const frames: Record<RussianCase, readonly (readonly string[])[]> = {
       "Tämä on harjoitustehtävä.",
       "This is a training assignment.",
       "Это-rakenteessa nimeävä sana on nominatiivissa."
+    ],
+    [
+      "дорога",
+      "___ закрыта.",
+      "Tie on suljettu.",
+      "The road is closed.",
+      "Suljettu tie on lauseen subjekti."
+    ],
+    [
+      "бригада",
+      "___ вернулась на базу.",
+      "Prikaati palasi tukikohtaan.",
+      "The brigade returned to base.",
+      "Palaava joukko on nominatiivissa."
+    ],
+    [
+      "устройство",
+      "___ работает исправно.",
+      "Laite toimii moitteettomasti.",
+      "The device is working properly.",
+      "Toimiva laite on lauseen subjekti."
+    ],
+    [
+      "соединение",
+      "___ прибыло вовремя.",
+      "Yhtymä saapui ajoissa.",
+      "The formation arrived on time.",
+      "Saapuva yhtymä on nominatiivissa."
     ]
   ],
   "genitive": [
@@ -168,6 +196,34 @@ const frames: Record<RussianCase, readonly (readonly string[])[]> = {
       "Hyökkäykseen oli tunti aikaa.",
       "An hour remained until the attack.",
       "До vaatii genetiivin."
+    ],
+    [
+      "тропа",
+      "Мы дошли до ___.",
+      "Pääsimme polulle asti.",
+      "We walked as far as the trail.",
+      "До vaatii genetiivin."
+    ],
+    [
+      "батарея",
+      "На карте отмечена позиция ___.",
+      "Karttaan on merkitty patterin asema.",
+      "The battery’s position is marked on the map.",
+      "Genetiivi kertoo, minkä patterin asemasta on kyse."
+    ],
+    [
+      "озеро",
+      "Мы остановились у ___.",
+      "Pysähdyimme järven luona.",
+      "We stopped by the lake.",
+      "У ilmaisee läheisyyttä ja vaatii genetiivin."
+    ],
+    [
+      "занятие",
+      "До начала ___ осталось пять минут.",
+      "Oppitunnin alkuun on viisi minuuttia.",
+      "There are five minutes until the lesson begins.",
+      "Genetiivi kertoo, minkä alkamisesta on kyse."
     ]
   ],
   "dative": [
@@ -240,6 +296,34 @@ const frames: Record<RussianCase, readonly (readonly string[])[]> = {
       "Laivasto antoi armeijalle tukea.",
       "The fleet provided support to the army.",
       "Оказать поддержку кому: tuen saaja on datiivissa."
+    ],
+    [
+      "бригада",
+      "Штаб передал ___ новые карты.",
+      "Esikunta toimitti prikaatille uudet kartat.",
+      "Headquarters sent the brigade new maps.",
+      "Datiivi ilmaisee vastaanottajaa."
+    ],
+    [
+      "дорога",
+      "Мы подошли к ___.",
+      "Tulimme tien luo.",
+      "We approached the road.",
+      "К ilmaisee lähestymistä ja vaatii datiivin."
+    ],
+    [
+      "отделение",
+      "Инструктор объяснил ___ правила.",
+      "Kouluttaja selitti säännöt ryhmälle.",
+      "The instructor explained the rules to the squad.",
+      "Datiivi kertoo, kenelle säännöt selitettiin."
+    ],
+    [
+      "укрепление",
+      "Группа подошла к ___.",
+      "Ryhmä tuli linnoitteen luo.",
+      "The group approached the fortification.",
+      "К vaatii datiivin."
     ]
   ],
   "accusative": [
@@ -312,6 +396,34 @@ const frames: Record<RussianCase, readonly (readonly string[])[]> = {
       "Tähystäjä huomasi käsikranaatin.",
       "The observer noticed the grenade.",
       "Заметить-verbin objekti on akkusatiivissa."
+    ],
+    [
+      "кабина",
+      "Механик осмотрел ___.",
+      "Mekaanikko tarkasti ohjaamon.",
+      "The mechanic inspected the cab.",
+      "Katselmuksen kohde on akkusatiivissa."
+    ],
+    [
+      "улица",
+      "Мы пересекли ___.",
+      "Ylitimme kadun.",
+      "We crossed the street.",
+      "Ylitettävä katu on suora objekti ja saa akkusatiivin."
+    ],
+    [
+      "устройство",
+      "Техник заменил ___.",
+      "Teknikko vaihtoi laitteen.",
+      "The technician replaced the device.",
+      "Vaihdettu laite on suora objekti ja saa akkusatiivin."
+    ],
+    [
+      "препятствие",
+      "Группа заметила ___.",
+      "Ryhmä huomasi esteen.",
+      "The group spotted an obstacle.",
+      "Havainnon kohde on akkusatiivissa."
     ]
   ],
   "instrumental": [
@@ -384,6 +496,34 @@ const frames: Record<RussianCase, readonly (readonly string[])[]> = {
       "Helikopteri lensi sillan yli.",
       "The helicopter flew over the bridge.",
       "Над vaatii instrumentaalin."
+    ],
+    [
+      "бригада",
+      "Офицер командует ___.",
+      "Upseeri komentaa prikaatia.",
+      "The officer commands the brigade.",
+      "Командовать vaatii instrumentaalin."
+    ],
+    [
+      "деревня",
+      "Машина остановилась перед ___.",
+      "Ajoneuvo pysähtyi kylän edustalle.",
+      "The vehicle stopped just before the village.",
+      "Перед vaatii instrumentaalin."
+    ],
+    [
+      "устройство",
+      "Техник пользуется ___.",
+      "Teknikko käyttää laitetta.",
+      "The technician uses the device.",
+      "Пользоваться vaatii instrumentaalin."
+    ],
+    [
+      "крыло",
+      "Под ___ самолёта лежит ящик.",
+      "Lentokoneen siiven alla on laatikko.",
+      "A crate is lying under the aircraft’s wing.",
+      "Под vaatii instrumentaalin, kun ilmaistaan sijaintia."
     ]
   ],
   "prepositional": [
@@ -456,6 +596,34 @@ const frames: Record<RussianCase, readonly (readonly string[])[]> = {
       "Vartiomies seisoo sillalla.",
       "The sentry stands on the bridge.",
       "Sijainti ilmaistaan tässä poikkeavalla paikallismuodolla: на мосту."
+    ],
+    [
+      "кабина",
+      "В ___ лежит карта.",
+      "Ohjaamossa on kartta.",
+      "There is a map in the cab.",
+      "В ja prepositionaali ilmaisevat sijaintia."
+    ],
+    [
+      "траншея",
+      "Инструктор стоит в ___.",
+      "Kouluttaja seisoo juoksuhaudassa.",
+      "The instructor is standing in the trench.",
+      "В ja prepositionaali ilmaisevat sijaintia."
+    ],
+    [
+      "устройство",
+      "В инструкции говорится об ___.",
+      "Ohjeessa kerrotaan laitteesta.",
+      "The instructions describe the device.",
+      "Об ja prepositionaali ilmaisevat puheen aihetta."
+    ],
+    [
+      "задание",
+      "Инструктор напомнил о ___.",
+      "Kouluttaja muistutti tehtävästä.",
+      "The instructor gave a reminder about the assignment.",
+      "Напомнить о vaatii prepositionaalin."
     ]
   ]
 }
